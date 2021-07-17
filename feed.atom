@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:50:33.380Z</updated>
+    <updated>2021-07-17T00:48:31.992Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609"/>
+        <updated>2021-07-16T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/07/rbenv_ruby3.0.x_builderror_binutils_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>しょうもないところで詰まりました。 現象 macOS Big Sur環境でrbenv install 3.0.2やrbenv install 3.0.1を実行すると以下のエラーが発生しました。rbenv install 2.7.4やrbenv install 2.6.8ではなぜか発生しませんでした。 $ rbenv install 3.0.2 Downloading ruby-3.0.2.tar.gz... -&#62; https://cache.ruby-lang.org/pub/ruby/3.0/ruby-3.0.2.tar.gz Installing ruby-3.0.2... ruby-build: us [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609" data-wpel-link="internal" target="_self">rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パンデミック下での異例の開催、東京オリンピックは大きな賭け]]></title>
+        <id>https://www.technologyreview.jp/?p=250932</id>
+        <link href="https://www.technologyreview.jp/s/250932/welcome-to-the-tokyo-olympics-where-public-health-money-and-politics-collide/"/>
+        <updated>2021-07-16T03:32:38.000Z</updated>
+        <summary type="html"><![CDATA[東京オリンピック・パラリンピックが間もなく開幕する。東京都に4度目の緊急事態宣言が出される中でのオリンピックは、主催者が最善を尽くしたとしても、日本国内の新型コロナ感染状況に影響を及ぼすことは避けられないだろうと専門家らは見る。]]></summary>
+        <author>
+            <name>Mia Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月16日号　impishの開発/FUSE3へのトランジション，Visual Studio 2022とWSL ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/17</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/17"/>
+        <updated>2021-07-16T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[impishではQEMU 6.0の採用が予定されています。この移行に伴って，「少なくともmainリポジトリでは」FUSE3への移行が行われる旨が宣言されています。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[直観的な使用を可能にする「アフォーダンス」とは？ シグニファイアとの違いやデザインへの生かし方を解説！]]></title>
         <id>https://data.wingarc.com/?p=33179</id>
@@ -741,6 +772,17 @@
  By Eran Stiller  Translated by  編集部T _]]></summary>
         <author>
             <name>Eran Stiller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash: .bashrcと.bash_profileの違いを今度こそ理解する]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_08/66396</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_08/66396"/>
+        <updated>2021-07-08T08:30:22.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2019/06/bash_bashrc_bash_profile_difference_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2019/06/06: 初版公開 2021/07/08: 更新 こんにちは、hachi8833です。社内Slackで見かけたmorimorihogeさんの以下の書き込みで目から鱗が落ちました。 ~/.bashrcで何かを出力してしまうと、rsyncなどのsshパイプで問題が生じることがあるそうです。 参考: 知らないとrsyncでもハマるシェル初期化 &#45; Qiita これをきっかけに、できるかぎり一次情報を元になるべく一般的になるようにまとめてみました。 シェルスクリプト（.bashrcや.bash_profileなども含む）はあまりに自由に書けてしまい、Linuxディストリビューションやmac [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_08/66396" data-wpel-link="internal" target="_self">Bash: .bashrcと.bash_profileの違いを今度こそ理解する</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -2461,26 +2503,6 @@ SERVER_AUDIT_EXCL_USERS および SERVER_AUDIT_INCL_USERS 変数 – これら�
         <summary type="html"><![CDATA[Fedoraプロジェクトは6月15日，「Fedora Cloud」として提供しているクラウドエディションのデフォルトファイルシステムを，デスクトップエディションと同様にBtrfsに変更することを明らかにした。]]></summary>
         <author>
             <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第67回　GitHub APIによるチーム開発の効率化 ―基本操作から，GitHub Webhooksの活用まで（1） ── Perl Hackers Hub]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006701</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/006701"/>
-        <updated>2021-06-17T00:15:40.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはtecklこと菅井茂樹さんで，テーマは「GitHub APIによるチーム開発の効率化」です。]]></summary>
-        <author>
-            <name>菅井茂樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年6月第3週　Android 12 Beta 2がリリースとMaterial Youへの期待 ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202106/17</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202106/17"/>
-        <updated>2021-06-17T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年6月第3週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
 </feed>

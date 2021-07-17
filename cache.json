@@ -229,6 +229,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=250932",
+          "author": "Mia Sato",
+          "description": "東京オリンピック・パラリンピックが間もなく開幕する。東京都に4度目の緊急事態宣言が出される中でのオリンピックは、主催者が最善を尽くしたとしても、日本国内の新型コロナ感染状況に影響を及ぼすことは避けられないだろうと専門家らは見る。",
+          "link": "https://www.technologyreview.jp/s/250932/welcome-to-the-tokyo-olympics-where-public-health-money-and-politics-collide/",
+          "publishedOn": "2021-07-16T03:32:38.000Z",
+          "wordCount": 659,
+          "title": "パンデミック下での異例の開催、東京オリンピックは大きな賭け"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=250066",
           "author": "Ryo Shimizu",
           "description": "MITテクノロジーレビューの2021年版ブレークスルー・テクノロジー10に選出された「GPT-3」を、日本をリードするAIベンチャー「ギリア」の清水 亮CEOが実際に試用してみた。シリコンバレーを熱狂させた注目のAI技術は、彼の目にどのように映ったのか。",
@@ -772,6 +781,15 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/rbenv_ruby3.0.x_builderror_binutils_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>しょうもないところで詰まりました。 現象 macOS Big Sur環境でrbenv install 3.0.2やrbenv install 3.0.1を実行すると以下のエラーが発生しました。rbenv install 2.7.4やrbenv install 2.6.8ではなぜか発生しませんでした。 $ rbenv install 3.0.2 Downloading ruby-3.0.2.tar.gz... -&#62; https://cache.ruby-lang.org/pub/ruby/3.0/ruby-3.0.2.tar.gz Installing ruby-3.0.2... ruby-build: us [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609\" data-wpel-link=\"internal\" target=\"_self\">rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609",
+          "publishedOn": "2021-07-16T08:30:09.000Z",
+          "wordCount": 573,
+          "title": "rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_07_15/108763",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/06/rails_tips_capybara_multisession_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Testing multiple sessions in the same test with Capybara &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2021/03/02 著者: Matt Swanson サイト: Boring Rails Railsの技: Capybaraのテストで複数のセッションを扱う（翻訳） アプリケーション内の機能は、複数のユーザーにまたがって動作することもあります。自動化システムテストを書くときにCapybaraのusing_sessionヘル [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_15/108763\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: Capybaraのテストで複数のセッションを扱う（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -815,6 +833,15 @@
           "publishedOn": "2021-07-09T08:30:00.000Z",
           "wordCount": 626,
           "title": "Rails: Logidze gemでActive Record背後のPostgreSQL DB更新をトラッキング（翻訳）"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_07_08/66396",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2019/06/bash_bashrc_bash_profile_difference_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>更新情報 2019/06/06: 初版公開 2021/07/08: 更新 こんにちは、hachi8833です。社内Slackで見かけたmorimorihogeさんの以下の書き込みで目から鱗が落ちました。 ~/.bashrcで何かを出力してしまうと、rsyncなどのsshパイプで問題が生じることがあるそうです。 参考: 知らないとrsyncでもハマるシェル初期化 &#45; Qiita これをきっかけに、できるかぎり一次情報を元になるべく一般的になるようにまとめてみました。 シェルスクリプト（.bashrcや.bash_profileなども含む）はあまりに自由に書けてしまい、Linuxディストリビューションやmac [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_08/66396\" data-wpel-link=\"internal\" target=\"_self\">Bash: .bashrcと.bash_profileの違いを今度こそ理解する</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_08/66396",
+          "publishedOn": "2021-07-08T08:30:22.000Z",
+          "wordCount": 673,
+          "title": "Bash: .bashrcと.bash_profileの違いを今度こそ理解する"
         },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_07_08/109600",
@@ -904,6 +931,15 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/17",
+          "author": "吉田史",
+          "description": "impishではQEMU 6.0の採用が予定されています。この移行に伴って，「少なくともmainリポジトリでは」FUSE3への移行が行われる旨が宣言されています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/17",
+          "publishedOn": "2021-07-16T00:42:00.000Z",
+          "wordCount": 404,
+          "title": "2021年7月16日号　impishの開発/FUSE3へのトランジション，Visual Studio 2022とWSL ── Ubuntu Weekly Topics"
+        },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0674",
           "author": "柴田充也",
@@ -1090,15 +1126,6 @@
           "publishedOn": "2021-06-18T00:15:00.000Z",
           "wordCount": 683,
           "title": "第67回　GitHub APIによるチーム開発の効率化 ―基本操作から，GitHub Webhooksの活用まで（2） ── Perl Hackers Hub"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006701",
-          "author": "菅井茂樹",
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはtecklこと菅井茂樹さんで，テーマは「GitHub APIによるチーム開発の効率化」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006701",
-          "publishedOn": "2021-06-17T00:15:40.000Z",
-          "wordCount": 573,
-          "title": "第67回　GitHub APIによるチーム開発の効率化 ―基本操作から，GitHub Webhooksの活用まで（1） ── Perl Hackers Hub"
         }
       ]
     },
@@ -1187,15 +1214,6 @@
           "publishedOn": "2021-06-22T06:00:00.000Z",
           "wordCount": 343,
           "title": "2021年6月22日　近付くねこ ── 帰ってきた『技評ねこ部通信』"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202106/17",
-          "author": "傍島康雄",
-          "description": "2021年6月第3週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202106/17",
-          "publishedOn": "2021-06-17T00:15:00.000Z",
-          "wordCount": 423,
-          "title": "2021年6月第3週　Android 12 Beta 2がリリースとMaterial Youへの期待 ── Android Weekly Topics"
         }
       ]
     },
