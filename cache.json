@@ -229,6 +229,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=250922",
+          "author": "Cassandra Willyard",
+          "description": "ファイザーは、自社のワクチンの予防効果が接種後6カ月で低下していることが示されたとして、3回目の追加接種が必要だとする声明を発表した。しかし、多くの専門家は、世界の多くの人々がまだ1回目の接種すら受けていない現在、追加接種を検討するのは時期尚早だと述べている。",
+          "link": "https://www.technologyreview.jp/s/250922/pfizer-wants-to-give-you-a-booster-shot-but-experts-say-its-too-soon/",
+          "publishedOn": "2021-07-17T22:01:03.000Z",
+          "wordCount": 642,
+          "title": "ファイザーがワクチンの追加接種を主張、専門家は「時期尚早」"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=250932",
           "author": "Mia Sato",
           "description": "東京オリンピック・パラリンピックが間もなく開幕する。東京都に4度目の緊急事態宣言が出される中でのオリンピックは、主催者が最善を尽くしたとしても、日本国内の新型コロナ感染状況に影響を及ぼすことは避けられないだろうと専門家らは見る。",
@@ -1047,24 +1056,6 @@
           "publishedOn": "2021-06-22T02:52:00.000Z",
           "wordCount": 390,
           "title": "2021年6月22日　セキュリティ特化OSの「Qubes OS」，人気急上昇で公式フォーラムを新調 ── Linux Daily Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202106/18",
-          "author": "吉田史",
-          "description": "Ubuntu ProがGoogle Cloudにもやってきました。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202106/18",
-          "publishedOn": "2021-06-18T00:40:00.000Z",
-          "wordCount": 427,
-          "title": "2021年6月18日号　Ubuntu Pro for Google Cloud ── Ubuntu Weekly Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202106/18",
-          "author": "階戸アキラ",
-          "description": "Fedoraプロジェクトは6月15日，「Fedora Cloud」として提供しているクラウドエディションのデフォルトファイルシステムを，デスクトップエディションと同様にBtrfsに変更することを明らかにした。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202106/18",
-          "publishedOn": "2021-06-18T00:10:00.000Z",
-          "wordCount": 387,
-          "title": "2021年6月18日　Fedoraプロジェクト，クラウドエディションのデフォルトファイルシステムをBtrfsに ── Linux Daily Topics"
         }
       ]
     },
@@ -1117,15 +1108,6 @@
           "publishedOn": "2021-06-21T00:15:00.000Z",
           "wordCount": 371,
           "title": "第5回　リモート化で加速するモブプログラミングとアジャイルの精神 ── 教えて！ 最新技術―テックコミュニティの現場から"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006702",
-          "author": "菅井茂樹",
-          "description": "（1）まではPerlスクリプト単体でGitHub APIを実行する例でしたが，応用編として，GitHubが提供しているGitHub Webhooksを利用してSlackと連携するサンプルアプリケーションを紹介します。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006702",
-          "publishedOn": "2021-06-18T00:15:00.000Z",
-          "wordCount": 683,
-          "title": "第67回　GitHub APIによるチーム開発の効率化 ―基本操作から，GitHub Webhooksの活用まで（2） ── Perl Hackers Hub"
         }
       ]
     },
@@ -2218,51 +2200,6 @@
           "publishedOn": "2021-06-21T18:45:15.000Z",
           "wordCount": 239,
           "title": "AWS Gateway Load Balancer が AWS GovCloud (米国) リージョンで利用可能になりました"
-        },
-        {
-          "id": "883970ce686010495b896a22d57d6ba7a81d7256",
-          "author": "aws@amazon.com",
-          "description": "本日、ロンドンでボーダフォンの 4G/5G ネットワ​​ークを使った AWS Wavelength の一般提供を開始します。独立系ソフトウェアベンダー (ISV) や企業、デベロッパーは、ロンドンの AWS Wavelength ゾーンを利用して、英国内のモバイル機器やユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/06/aws-announces-general-availability-of-aws-wavelength-in-london/",
-          "publishedOn": "2021-06-18T08:31:47.000Z",
-          "wordCount": 250,
-          "title": "ロンドンでの AWS Wavelength の一般提供に関する発表"
-        },
-        {
-          "id": "48adc67631f8e64d52920826ae3a31f00a9621a9",
-          "author": "aws@amazon.com",
-          "description": "AWS Key Management Service (AWS KMS) ではユーザーが 1 つの AWS リージョンから別のリージョンへキーをレプリケートできる新機能、マルチリージョンキーを導入します。マルチリージョンキーを使用することで、リージョン間で暗号化されたデータを移動する際、リージョンごとに異なるキーで復号化したり、再暗号化したりする必要がないので、暗号化されたデータの移動が簡単になります。マルチリージョンキーは、AWS Encryption SDK、AWS S3 Encryption Client、および AWS DynamoDB Encryption Client のクライアント側での暗号化をサポートします。これにより、災害対策/バックアップ、DynamoDB グローバルテーブル、複数のリージョンで同一の署名キーを必要とするデジタル署名アプリケーションなど、保護されたデータを複数のリージョンにコピーするプロセスが簡単になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/06/kms-multi-region-keys/",
-          "publishedOn": "2021-06-18T06:47:18.000Z",
-          "wordCount": 224,
-          "title": "KMS マルチリージョンキー"
-        },
-        {
-          "id": "7ec9a95e404f4495cbff793b6b05350c916df039",
-          "author": "aws@amazon.com",
-          "description": "Amazon MQ は現在、合計 24 か所のリージョンと AWS GovCloud (米国) の両リージョンで使用可能です。AWS GovCloud (米国) リージョンは機密データと規制対象のワークロードをクラウドでホストするために設計された、隔離型 AWS リージョンで、アメリカ合衆国連邦、州、地方政府のコンプライアンス要件を抱えるお客様にご利用いただいています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-mq-is-now-available-in-aws-govcloud-us-regions/",
-          "publishedOn": "2021-06-18T06:46:32.000Z",
-          "wordCount": 233,
-          "title": "Amazon MQ が AWS GovCloud (米国) リージョンで利用可能に"
-        },
-        {
-          "id": "7f5322c7e09be1633be33f3db77e3a9685d7cdf2",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS for PostgreSQL が、拡張許可リストのサポートを開始し、データベース管理者が拡張機能の使用をより細かくコントロールできるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/",
-          "publishedOn": "2021-06-18T05:30:51.000Z",
-          "wordCount": 226,
-          "title": "Amazon RDS for PostgreSQL が、拡張許可リストをサポート"
-        },
-        {
-          "id": "4616dfda8eb7b3113b9a9013f656a4c5fcedb0d2",
-          "author": "aws@amazon.com",
-          "description": "低遅延で可用性の高い AWS のグローバルインフラストラクチャを活用し、\n 人気ライブコミュニケーションアプリ「Pococha」のグローバル展開を開始",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/06/dena-chooses-aws-as-its-preferred-cloud-provider-to-accelerate-innovation/",
-          "publishedOn": "2021-06-18T03:11:53.000Z",
-          "wordCount": 285,
-          "title": "DeNA、AWS を優先クラウドプロバイダーとして活用し、ゲーム、スポーツ、ライブストリーミングなどにおけるイノベーションを加速"
         }
       ]
     }

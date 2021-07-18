@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T00:48:31.992Z</updated>
+    <updated>2021-07-18T00:51:39.505Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ファイザーがワクチンの追加接種を主張、専門家は「時期尚早」]]></title>
+        <id>https://www.technologyreview.jp/?p=250922</id>
+        <link href="https://www.technologyreview.jp/s/250922/pfizer-wants-to-give-you-a-booster-shot-but-experts-say-its-too-soon/"/>
+        <updated>2021-07-17T22:01:03.000Z</updated>
+        <summary type="html"><![CDATA[ファイザーは、自社のワクチンの予防効果が接種後6カ月で低下していることが示されたとして、3回目の追加接種が必要だとする声明を発表した。しかし、多くの専門家は、世界の多くの人々がまだ1回目の接種すら受けていない現在、追加接種を検討するのは時期尚早だと述べている。]]></summary>
+        <author>
+            <name>Cassandra Willyard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609</id>
@@ -2422,87 +2432,6 @@ SERVER_AUDIT_EXCL_USERS および SERVER_AUDIT_INCL_USERS 変数 – これら�
         <summary type="html"><![CDATA[テックコミュニティの運営側で，その技術分野を常に追いかけているエンジニアの方々にお話をうかがうインタビュー企画。第5回目のゲストとしてお迎えしたのは，シニアアジャイルコーチとして活躍する川口恭伸氏です。]]></summary>
         <author>
             <name>関満徳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロンドンでの AWS Wavelength の一般提供に関する発表]]></title>
-        <id>883970ce686010495b896a22d57d6ba7a81d7256</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/aws-announces-general-availability-of-aws-wavelength-in-london/"/>
-        <updated>2021-06-18T08:31:47.000Z</updated>
-        <summary type="html"><![CDATA[本日、ロンドンでボーダフォンの 4G/5G ネットワ​​ークを使った AWS Wavelength の一般提供を開始します。独立系ソフトウェアベンダー (ISV) や企業、デベロッパーは、ロンドンの AWS Wavelength ゾーンを利用して、英国内のモバイル機器やユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KMS マルチリージョンキー]]></title>
-        <id>48adc67631f8e64d52920826ae3a31f00a9621a9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/kms-multi-region-keys/"/>
-        <updated>2021-06-18T06:47:18.000Z</updated>
-        <summary type="html"><![CDATA[AWS Key Management Service (AWS KMS) ではユーザーが 1 つの AWS リージョンから別のリージョンへキーをレプリケートできる新機能、マルチリージョンキーを導入します。マルチリージョンキーを使用することで、リージョン間で暗号化されたデータを移動する際、リージョンごとに異なるキーで復号化したり、再暗号化したりする必要がないので、暗号化されたデータの移動が簡単になります。マルチリージョンキーは、AWS Encryption SDK、AWS S3 Encryption Client、および AWS DynamoDB Encryption Client のクライアント側での暗号化をサポートします。これにより、災害対策/バックアップ、DynamoDB グローバルテーブル、複数のリージョンで同一の署名キーを必要とするデジタル署名アプリケーションなど、保護されたデータを複数のリージョンにコピーするプロセスが簡単になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MQ が AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>7ec9a95e404f4495cbff793b6b05350c916df039</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-mq-is-now-available-in-aws-govcloud-us-regions/"/>
-        <updated>2021-06-18T06:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon MQ は現在、合計 24 か所のリージョンと AWS GovCloud (米国) の両リージョンで使用可能です。AWS GovCloud (米国) リージョンは機密データと規制対象のワークロードをクラウドでホストするために設計された、隔離型 AWS リージョンで、アメリカ合衆国連邦、州、地方政府のコンプライアンス要件を抱えるお客様にご利用いただいています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL が、拡張許可リストをサポート]]></title>
-        <id>7f5322c7e09be1633be33f3db77e3a9685d7cdf2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/"/>
-        <updated>2021-06-18T05:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for PostgreSQL が、拡張許可リストのサポートを開始し、データベース管理者が拡張機能の使用をより細かくコントロールできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeNA、AWS を優先クラウドプロバイダーとして活用し、ゲーム、スポーツ、ライブストリーミングなどにおけるイノベーションを加速]]></title>
-        <id>4616dfda8eb7b3113b9a9013f656a4c5fcedb0d2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/dena-chooses-aws-as-its-preferred-cloud-provider-to-accelerate-innovation/"/>
-        <updated>2021-06-18T03:11:53.000Z</updated>
-        <summary type="html"><![CDATA[低遅延で可用性の高い AWS のグローバルインフラストラクチャを活用し、
- 人気ライブコミュニケーションアプリ「Pococha」のグローバル展開を開始]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年6月18日号　Ubuntu Pro for Google Cloud ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202106/18</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202106/18"/>
-        <updated>2021-06-18T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu ProがGoogle Cloudにもやってきました。]]></summary>
-        <author>
-            <name>吉田史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第67回　GitHub APIによるチーム開発の効率化 ―基本操作から，GitHub Webhooksの活用まで（2） ── Perl Hackers Hub]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006702</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/006702"/>
-        <updated>2021-06-18T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[（1）まではPerlスクリプト単体でGitHub APIを実行する例でしたが，応用編として，GitHubが提供しているGitHub Webhooksを利用してSlackと連携するサンプルアプリケーションを紹介します。]]></summary>
-        <author>
-            <name>菅井茂樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年6月18日　Fedoraプロジェクト，クラウドエディションのデフォルトファイルシステムをBtrfsに ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202106/18</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202106/18"/>
-        <updated>2021-06-18T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Fedoraプロジェクトは6月15日，「Fedora Cloud」として提供しているクラウドエディションのデフォルトファイルシステムを，デスクトップエディションと同様にBtrfsに変更することを明らかにした。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
         </author>
     </entry>
 </feed>
