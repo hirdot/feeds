@@ -970,24 +970,6 @@
           "publishedOn": "2021-06-27T18:38:31.000Z",
           "wordCount": 185,
           "title": "AWS、ローコード開発ツール「AWS Step Functions Workflow Studio」リリース。サーバレスアプリをビジュアルプログラミング"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_11uiwindows_update40.html",
-          "author": null,
-          "description": "マイクロソフトは6月25日未明（日本時間）、オンラインイベントで次期WindowsとなるWindows 11を発表しました。 Get 3 minutes closer to the release of #Windows11 #Micros...",
-          "link": "https://www.publickey1.jp/blog/21/windows_11uiwindows_update40.html",
-          "publishedOn": "2021-06-24T16:33:43.000Z",
-          "wordCount": 196,
-          "title": "［速報］マイクロソフト、Windows 11を発表。UIを洗練、Windows Updateは40％小さく、マルチモニタ環境が便利に"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_11android.html",
-          "author": null,
-          "description": "マイクロソフトは6月25日未明（日本時間）、オンラインイベントで次期WindowsとなるWindows 11を発表しました。 参考：［速報］マイクロソフト、Windows 11を発表。UIを洗練、Windows Updateは40％小さく、...",
-          "link": "https://www.publickey1.jp/blog/21/windows_11android.html",
-          "publishedOn": "2021-06-24T15:57:51.000Z",
-          "wordCount": 169,
-          "title": "［速報］Windows 11でAndroidアプリが実行可能に、マイクロソフトが発表"
         }
       ]
     },
@@ -2272,15 +2254,157 @@
           "publishedOn": "2021-06-25T03:08:55.000Z",
           "wordCount": 266,
           "title": "コマツ、AWS を活用して世界の建設現場の DX を推進"
+        }
+      ]
+    },
+    {
+      "title": "MySQL - New Product Releases",
+      "feedUrl": "https://dev.mysql.com/downloads/rss.php",
+      "siteUrl": "https://dev.mysql.com/downloads/",
+      "articles": [
+        {
+          "id": "https://dev.mysql.com/downloads/cluster/7.6.html",
+          "author": null,
+          "description": "MySQL Cluster 7.6 (7.6.19 GA, published on Wednesday, 21 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/cluster/7.6.html",
+          "publishedOn": "2021-07-21T00:00:00.000Z",
+          "wordCount": 394,
+          "title": "MySQL Cluster 7.6"
         },
         {
-          "id": "157378521ef2418d859a011885183435c9ad6f34",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect では、カナダ (中部) リージョンで Amazon Connect Customer Profiles を有効にできるようになりました。これにより、コンタクトセンターのエージェントは受信した連絡先の最新情報を持ち、より迅速にパーソナライズされたカスタマーサービスを提供することができます。Customer Profiles は、Salesforce、Amazon S3、ServiceNow など複数のアプリケーションからのカスタマー情報を統合された顧客プロファイルに自動的にまとめ、顧客とのやり取りが開始されるとエージェントに配信します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-connect-customer-profiles-launches-in-canada-central-region/",
-          "publishedOn": "2021-06-24T15:30:50.000Z",
-          "wordCount": 217,
-          "title": "Amazon Connect Customer Profiles がカナダ (中部) リージョンでローンチ"
+          "id": "https://dev.mysql.com/downloads/cluster/7.5.html",
+          "author": null,
+          "description": "MySQL Cluster 7.5 (7.5.23 GA, published on Wednesday, 21 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/cluster/7.5.html",
+          "publishedOn": "2021-07-21T00:00:00.000Z",
+          "wordCount": 394,
+          "title": "MySQL Cluster 7.5"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/cluster/7.4.html",
+          "author": null,
+          "description": "MySQL Cluster 7.4 (7.4.33 GA, published on Wednesday, 21 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/cluster/7.4.html",
+          "publishedOn": "2021-07-21T00:00:00.000Z",
+          "wordCount": 390,
+          "title": "MySQL Cluster 7.4"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/cpp/8.0.html",
+          "author": null,
+          "description": "Connector/C++ 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/cpp/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 416,
+          "title": "Connector/C++ 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/shell/8.0.html",
+          "author": null,
+          "description": "MySQL Shell 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/shell/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 421,
+          "title": "MySQL Shell 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/python/8.0.html",
+          "author": null,
+          "description": "Connector/Python 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/python/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 340,
+          "title": "Connector/Python 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/mysql/8.0.html",
+          "author": null,
+          "description": "MySQL Community Server 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/mysql/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 443,
+          "title": "MySQL Community Server 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/router/8.0.html",
+          "author": null,
+          "description": "MySQL Router 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/router/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 374,
+          "title": "MySQL Router 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
+          "author": null,
+          "description": "MySQL Installer 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 351,
+          "title": "MySQL Installer 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/net/8.0.html",
+          "author": null,
+          "description": "Connector/NET 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/net/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 315,
+          "title": "Connector/NET 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/j/8.0.html",
+          "author": null,
+          "description": "Connector/J 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/j/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 294,
+          "title": "Connector/J 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/nodejs/8.0.html",
+          "author": null,
+          "description": "Connector/Node.js 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/nodejs/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 290,
+          "title": "Connector/Node.js 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/odbc/8.0.html",
+          "author": null,
+          "description": "Connector/ODBC 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/odbc/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 353,
+          "title": "Connector/ODBC 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/workbench/8.0.html",
+          "author": null,
+          "description": "MySQL Workbench 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/workbench/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 482,
+          "title": "MySQL Workbench 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/cluster/8.0.html",
+          "author": null,
+          "description": "MySQL Cluster 8.0 (8.0.26 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/cluster/8.0.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 352,
+          "title": "MySQL Cluster 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/mysql/5.7.html",
+          "author": null,
+          "description": "MySQL Community Server 5.7 (5.7.35 GA, published on Tuesday, 20 Jul 2021)",
+          "link": "https://dev.mysql.com/downloads/mysql/5.7.html",
+          "publishedOn": "2021-07-20T00:00:00.000Z",
+          "wordCount": 475,
+          "title": "MySQL Community Server 5.7"
         }
       ]
     }
