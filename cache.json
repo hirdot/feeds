@@ -6,12 +6,30 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2021/07/jakarta-ee-9-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "Jakarta EE Working Groupは、Jakarta EE 9.1のプラットフォームおよびWeb Profile仕様のリリースを発表した。これは、開発者がJDK 11およびJDK 8でJakarta EE 9.1アプリケーションを開発およびデプロイできるJakarta EEの最初のインクリメンタルポイントリリースだ。開発ではすでにJakarta EE 10が開始されており、仕様の多くが更新されている。\n By Michael Redlich  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/07/jakarta-ee-9-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-07-26T07:49:00.000Z",
+          "wordCount": 1805,
+          "title": "Jakarta EE 9.1とJakarta EE 10への道"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/07/cloud-tpu-vms-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "最近、Googleは、新しいCloud TPU仮想マシン（VM）を発表した。このVMによって、TPUホストマシンへ直接アクセスできるようになる。このVMを使って、同社はTensorFlow、PyTorch、およびJAX on Cloud TPUを開発し、デプロイするためにユーザ体験を改善し、新たに提供する。\n By Steef-Jan Wiggers  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/07/cloud-tpu-vms-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-07-26T07:30:00.000Z",
+          "wordCount": 1607,
+          "title": "Googleが人工知能の処理向けに新しいCloud TPU VMを発表"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2021/07/next-11-script-image-loading/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Bruno Couriol",
           "description": "Next.jsチームはNext.js 11を先頃リリースした。新しいバージョンは、開発者とエンドユーザの実際のパフォーマンスと認識されるパフォーマンスの向上に努めている (起動時間、サードパーティのスクリプトの読み込み、画像とプレースホルダーの読み込み)。Next.js v11は、Create React AppアプリケーションをNext.jsに移行する実験的なcodemodも提供する。\n By Bruno Couriol  Translated by  Shoji Shigeki",
           "link": "https://www.infoq.com/jp/news/2021/07/next-11-script-image-loading/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-07-20T09:13:00.000Z",
-          "wordCount": 1710,
+          "wordCount": 1702,
           "title": "Next.js 11が新しいScriptとImage読み込み戦略でリリース"
         },
         {
@@ -20,7 +38,7 @@
           "description": "Microsoftは先頃、毎年開催しているBuildカンファレンスで、Azure Arcで使用可能な新たなサービスセットをプレビュー版として発表した。Azure Arcマルチクラウドサービスの支援により、事実上、CNCF準拠のあらゆるKubernetesクラスタ上で実行することができる。Azure Arcを使うことで、クラウドからオンプレミスデータセンタまで、あらゆるコンテナクラスタを、クラウド内のひとつのサービスで管理することが可能になる。\n By Steef-Jan Wiggers  Translated by h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/07/arc-enabled-app-services-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-07-20T09:12:00.000Z",
-          "wordCount": 1658,
+          "wordCount": 1649,
           "title": "MicrosoftがAzure Arcで使用可能な新サービスのプレビュー版を発表"
         },
         {
@@ -29,7 +47,7 @@
           "description": "Google Cloudは最近、Bigtableインスタンスに対して可用性SLAを99.999％まで引き上げた。これは、FirestoreとCloud SpannerのSLAと一致する。データストレージシステムには、エンタープライズワークロード用の2つの新しいセキュリティ機能、顧客管理の暗号化キー（CMEK）とデータアクセス監査ログが導入された。\n By Renato Losio  Translated by  編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/07/bigtable-sla-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-07-20T09:10:00.000Z",
-          "wordCount": 1613,
+          "wordCount": 1615,
           "title": "Google CloudはBigtableのSLAを改善し、新しいセキュリティ機能を追加"
         },
         {
@@ -38,7 +56,7 @@
           "description": "AWSは先頃、最新のコンテナおよびサーバレスアプリケーションの基盤を形成するマイクロサービスのプロビジョニング、デプロイ、監視を容易にする、 フルマネージドなアプリケーション配信サービスのAWS Protonを一般供与(GA)開始すると発表した。\n By Steef-Jan Wiggers  Translated by  h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/07/aws-proton-container-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-07-20T09:04:00.000Z",
-          "wordCount": 1626,
+          "wordCount": 1627,
           "title": "AWSがAWS Protonの提供開始を発表"
         },
         {
@@ -47,89 +65,8 @@
           "description": "Slackは最近、新しい役割管理システムのソフトウェアアーキテクチャの詳細な説明を投稿した。Slackは、以前よりも柔軟なシステムを構築する必要があった。Slackは、カスタムコンテナ化されたGoベースのパーミッションサービスを開発した。これは、gRPCを介して既存のシステムと統合される。その結果、顧客の管理者は、ユーザが実行できることをきめ細かく制御できるようになった。\n By Eran Stiller  Translated by 編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/07/slack-role-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-07-20T08:58:00.000Z",
-          "wordCount": 1579,
+          "wordCount": 1588,
           "title": "Slackが新しいロール管理アーキテクチャを詳しく説明"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/dotnet-news-roundup-reunion-uno/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Arthur Casals",
-          "description": "先週は、Project Reunion 0.8 RC、Uno Platform 3.8、JetBrains Rider 2021.2 早期アクセスなどのリリースが注目された。InfoQは、2021年6月7日の週から、これらと.NETエコシステムのいくつかの小さなストーリーを調査した。\n By Arthur Casals  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/07/dotnet-news-roundup-reunion-uno/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-15T09:12:00.000Z",
-          "wordCount": 1714,
-          "title": ".NETニュースのまとめ: Project Reunion 0.8 RC、Uno Platform 3.8、JetBrains Rider 2021.2 Early Access"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/amazon-ecs-anywhere-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近、AWSはAmazon ECS Anywhereの一般向け提供を発表した。これは、仮想マシン（VM）、ベアメタルサーバ、その他の顧客が管理するインフラなどのコンテナベースのアプリケーションをオンプレミスで素早く実行し、管理できるようにするAmazon ECSの新機能である。\n By Steef-Jan Wiggers  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/07/amazon-ecs-anywhere-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-15T09:07:00.000Z",
-          "wordCount": 1647,
-          "title": "AWSがAmazon ECS Anywhereの一般向け提供を発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/amazon-location-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "AWSは最近、Amazon Location Serviceの一般向け提供を発表した。これは、アプリケーションにロケーション機能を追加するように設計されたマネージドソリューションである。このサービスは、EsriやHEREなどのロケーションプロバイダーに依存しており、ルーティングと衛星画像機能をサポートするようになった。\n By Renato Losio  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/07/amazon-location-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-15T08:51:00.000Z",
-          "wordCount": 1616,
-          "title": "Amazon Location Serviceがルーティングと衛星画像の機能を備えて一般向け利用可能に"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/akka-serverless-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Eran Stiller",
-          "description": "Lightbendは本日、今年後半に一般提供される、Akka Serverlessオープンベータのローンチを発表した。Akka Serverlessは、クラウドネイティブアプリケーション開発を目的としたPlatform-as-a-Service (PaaS) を提供する。これは、LightbendのAkka Platformテクノロジーに基づいて構築され、既存のサーバーレス製品と同様のモデルを介して提供される。\n By Eran Stiller  Translated by  Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/07/akka-serverless-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-14T02:29:00.000Z",
-          "wordCount": 1624,
-          "title": "LightbendがAkka Serverlessのオープンベータを発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/documentdb-global-clusters/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Amazonは最近、DocumentDB上のグローバルクラスタをサポートすることを発表した。DocumentDBは、MongoDBと互換性のあるドキュメント指向データベースである。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/07/documentdb-global-clusters/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-13T09:06:00.000Z",
-          "wordCount": 1604,
-          "title": "AmazonがDocumentDBにグローバルクラスタを追加"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/azure-logic-apps-standard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "Microsoftは、毎年開催されるBuild会議で、Logic App Standardの一般向け提供（GA）を発表した。これは、統合Platform as a Service（iPaaS）製品の最新版である。Logic App Standardは、顧客がどこでもワークフローを実行できるようにする新しいシングルテナント製品である。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/07/azure-logic-apps-standard/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-13T03:17:00.000Z",
-          "wordCount": 1025,
-          "title": "MicrosoftがLogic App Standardの一般向け提供を発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/java-news-roundup-jun21-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週の総まとめでは、JDK 17、JDK 18、Java Mission Control 8.0.1、Kotlin 1.5.20、Hibernate Reactive 1.0.0.CR7、PrimeFaces 6.2.30、8.0.11および10.0.3、Eclipse GlassFish 6.2.0、WildFly 24、Micronaut 3.0.0-M2およびいくつかのSpringプロジェクトでの複数のポイントリリースからのニュースを取り上げている。\n By Michael Redlich  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/07/java-news-roundup-jun21-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-12T09:53:00.000Z",
-          "wordCount": 1740,
-          "title": "Javaニュース総まとめ - 2021年6月21日週"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/07/deepak-singh-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Rags Srinivas",
-          "description": "App Runnerの思想とその設計について、AWSでコンピューティングサービスを担当するVPのDeepak Singh氏に話を聞いた。\n By Rags Srinivas  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2021/07/deepak-singh-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-12T09:49:00.000Z",
-          "wordCount": 1686,
-          "title": "AWS App Runnerについて - AWSコンピュータサービスVPのDeepak Singh氏とのQ&A"
-        },
-        {
-          "id": "https://www.infoq.com/jp/articles/mindmap-driven-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Prashant Hegde",
-          "description": "マインドマップ駆動テストにより、テスタはテストアイデアの生成に集中でき、思考をあきらかにし、アイデアを効果的にブレインストーミングして整理することができます。この記事では、マインドマップに関するアイデアと知識を共有し、テストの計画、整理、記録、提示、およびレポートを行うためのリーンドキュメントとしてそれらを使用する方法を示します。\n By Prashant Hegde  Translated by  Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/articles/mindmap-driven-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-07-12T09:33:00.000Z",
-          "wordCount": 1794,
-          "title": "アーティクル: マインドマップ駆動テストでテスト戦略を強化する"
         }
       ]
     },
@@ -139,12 +76,48 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=251767",
+          "author": "Tatyana Woodall",
+          "description": "NASAの火星着陸船インサイトから届けられた地震計のデータから、火星の内部構造が以前に考えられていたよりも複雑であることが分かった。継続して調査すれば、地球との違いがさらに明らかになりそうだ。",
+          "link": "https://www.technologyreview.jp/s/251767/we-just-got-our-best-ever-look-at-the-inside-of-mars/",
+          "publishedOn": "2021-07-26T23:42:22.000Z",
+          "wordCount": 691,
+          "title": "火星のコアは意外と大きかった？ NASA探査機の測定で明らかになる"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=251693",
+          "author": "Will Douglas Heaven",
+          "description": "ディープマインドは、タンパク質の構造を予測するAIツール「アルファフォールド」を用いて、人体に存在するほぼすべてのタンパク質の形状を予測し、35万個のタンパク質構造を格納したデータベースを公開した。",
+          "link": "https://www.technologyreview.jp/s/251693/deepmind-says-it-will-release-the-structure-of-every-protein-known-to-science/",
+          "publishedOn": "2021-07-26T21:55:14.000Z",
+          "wordCount": 533,
+          "title": "ディープマインド、人体のほぼ全てのタンパク質の構造をAIで予測"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=249047",
+          "author": "Eileen Guo",
+          "description": "テネシー大学のフー准教授の起訴は、中国系米国人の経済スパイを摘発する目的で始まった米国の「チャイナ・イニシアチブ」に勝利をもたらすはずだった。しかし、裁判は評決不能となり、訴訟の継続すら危うい事態に陥った。FBIの強引な捜査への注目が高まり、司法省の責任を問う声も上がっている。",
+          "link": "https://www.technologyreview.jp/s/249047/what-a-collapsed-trial-says-about-us-claims-of-chinese-high-tech-spying/",
+          "publishedOn": "2021-07-26T21:26:03.000Z",
+          "wordCount": 463,
+          "title": "崩れたシナリオ、 中国人教授を狙い撃ちにした FBI捜査はなぜ間違えたか"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=251275",
+          "author": "Siobhan Roberts",
+          "description": "ディスプレイに次々に表示される数字が素数であるかどうかを判定するオンライン・ゲームが（一部で）人気を博している。「非公式世界記録」は、ちょうど素数である127点だ。",
+          "link": "https://www.technologyreview.jp/s/251275/is-57-a-prime-number-theres-a-game-for-that/",
+          "publishedOn": "2021-07-26T08:53:21.000Z",
+          "wordCount": 660,
+          "title": "51、57、91は素数？ 数学者が考えたオンライン・ゲームが人気"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=251746",
           "author": "Lindsay Muscato",
           "description": "新型コロナウイルス感染者が急増している英国でデジタル接触追跡アプリがようやく本領を発揮できる状況が整った。しかし、同アプリが発するアラートをうとましく思う人が増えており、推定5人に1人がアプリを削除する事態になっている。",
           "link": "https://www.technologyreview.jp/s/251746/is-the-uks-pingdemic-good-or-bad-yes/",
           "publishedOn": "2021-07-25T21:54:28.000Z",
-          "wordCount": 690,
+          "wordCount": 697,
           "title": "感染拡大で鳴り止まぬスマホ、英国「ピンデミック」の大混乱"
         },
         {
@@ -153,7 +126,7 @@
           "description": "AI技術を利用した採用ツールを使う企業が増えている。企業がAI採用ツールを使うことは、障害を持つ求職者に不利に働く恐れがあるが、雇用差別対策を担当する米国連邦機関は当面、積極的に動くつもりはなさそうだ。",
           "link": "https://www.technologyreview.jp/s/251612/disability-rights-advocates-are-worried-about-discrimination-in-ai-hiring-tools/",
           "publishedOn": "2021-07-25T21:49:31.000Z",
-          "wordCount": 523,
+          "wordCount": 532,
           "title": "AI採用ツールの導入加速で、意図せぬ障害者排除の懸念"
         },
         {
@@ -162,7 +135,7 @@
           "description": "各地の都市で大規模な洪水が頻発している。都市に張り巡らされた雨水管やポンプ、その他のインフラは、気候変動によって頻度や強度が増した暴風雨に対応できるようには設計されていないからだ。",
           "link": "https://www.technologyreview.jp/s/251496/cities-are-scrambling-to-prevent-flooding/",
           "publishedOn": "2021-07-22T21:55:32.000Z",
-          "wordCount": 524,
+          "wordCount": 532,
           "title": "気候変動で頻発する洪水、都市に望まれる水害対策とは"
         },
         {
@@ -171,7 +144,7 @@
           "description": "米国の科学者チームは、新たな冥王星探査ミッションである「ペルセポネ」をNASAに提案している。目標は、前回のニュー・ホライズンズの調査で上がった太陽系形成に関する疑問と、有機物がかつて地球の外で存在していたのかという疑問に取り組むことだ。",
           "link": "https://www.technologyreview.jp/s/251422/why-nasa-should-visit-pluto-again/",
           "publishedOn": "2021-07-22T21:27:39.000Z",
-          "wordCount": 539,
+          "wordCount": 547,
           "title": "新たな冥王星探査ミッション候補「ペルセポネ」が重要な理由"
         },
         {
@@ -180,7 +153,7 @@
           "description": "米国とロシアの高官がランサムウェアの危機について協議する予定だった前日、ランサムウェア攻撃を仕掛けるロシアの最大級のグループが活動を停止した。",
           "link": "https://www.technologyreview.jp/s/250716/the-worlds-biggest-ransomware-gang-just-disappeared-from-the-internet/",
           "publishedOn": "2021-07-21T21:59:35.000Z",
-          "wordCount": 643,
+          "wordCount": 662,
           "title": "世界最大級の露ランサムウェア集団、ネット上から姿を消す"
         },
         {
@@ -189,44 +162,8 @@
           "description": "新型コロナウイルスの感染者数が急増する中、英国政府は、イングランドにおけるパンデミック関連の規制をすべて解除すると発表した。今後の状況を予測することは難しいが、現段階でわかっていることと、現段階ではわからないことをまとめた。",
           "link": "https://www.technologyreview.jp/s/251291/why-englands-sudden-lifting-of-covid-restrictions-is-a-massive-gamble/",
           "publishedOn": "2021-07-21T21:29:03.000Z",
-          "wordCount": 726,
+          "wordCount": 744,
           "title": "英「フリーダム・デー」、 16カ月ぶりの自由な生活で 何が起きるのか？"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=251518",
-          "author": "Tatyana Woodall",
-          "description": "アマゾンの創業者であるジェフ・ベゾスは7月20日、自身が所有する企業ブルーオリジンのロケットに乗り込んで宇宙旅行を成功させた。その10日前にはヴァージン・ギャラクティックの創業者が宇宙に到達しており、両社のフライトは宇宙旅行の未来に大きな足跡を刻んだ。",
-          "link": "https://www.technologyreview.jp/s/251518/blue-origin-takes-its-first-passengers-to-space/",
-          "publishedOn": "2021-07-21T08:34:37.000Z",
-          "wordCount": 541,
-          "title": "アマゾン創業者も宇宙へ、ブルーオリジンが商業宇宙旅行に成功"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=249367",
-          "author": "Neel V. Patel",
-          "description": "全米アカデミーがNASAに提出した報告書は、宇宙飛行士の放射線被曝線量の新基準を提案している。背景には、NASAの月や火星への新しいミッションに、女性飛行士を参加させたいという強い願いがある。",
-          "link": "https://www.technologyreview.jp/s/249367/new-nasa-radiation-rules-could-open-up-space-missions-to-more-women/",
-          "publishedOn": "2021-07-20T05:31:57.000Z",
-          "wordCount": 534,
-          "title": "NASAが被曝線量制限の緩和を検討、女性宇宙飛行士の機会開く"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=251458",
-          "author": "MIT Technology Review Event Producer",
-          "description": "グリーン水素は脱炭素の有望な選択肢となり得るのか？ 環境エネルギージャーナリストの本橋恵一氏をゲストにお招きし、各国の取り組みを紹介しながら、日本におけるグリーン水素普及の可能性についてお話しいただく。",
-          "link": "https://www.technologyreview.jp/s/251458/mittr-emerging-technology-nite-19/",
-          "publishedOn": "2021-07-20T04:30:07.000Z",
-          "wordCount": 571,
-          "title": "「グリーン水素最前線」オンライン・イベント開催のご案内"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=251414",
-          "author": "MIT Technology Review Editors",
-          "description": "122年の歴史を持つMITテクノロジーレビューの新編集長が発表された。バズフィードで受賞歴のあるデジタル報道チームを構築・運営してきた実績を持つマット・ホーナンが就任する。",
-          "link": "https://www.technologyreview.jp/s/251414/mit-technology-review-names-mat-honan-its-new-editor-in-chief/",
-          "publishedOn": "2021-07-20T04:19:20.000Z",
-          "wordCount": 652,
-          "title": "MITテクノロジーレビュー編集長に元バズフィードSF支局長が就任"
         }
       ]
     },
@@ -241,7 +178,7 @@
           "description": "「データ活用に役立つとわかっているけど、コストを考えるとBI（Business Intelligence）ツールの導入に二の足を踏んでしまう」というのは多くの企業で聞かれる話。ではなぜ、躊躇ってしまうのか。 それはズバリ […]",
           "link": "https://data.wingarc.com/allabout_bilabo-33980",
           "publishedOn": "2021-07-25T23:00:36.000Z",
-          "wordCount": 984,
+          "wordCount": 987,
           "title": "ツールの普及を超え、データの力の解放を目指す「BIツール研究所」の取り組み"
         },
         {
@@ -250,7 +187,7 @@
           "description": "「すぐ使える！小売業のKPI（ロジック）ツリーテンプレート」では小売業でKPIを導入する際のストラテジ（戦略構想）で活用できる様々なテンプレートを用意しています。 ①小売業のデータ分析の流れ 小売業の各業務で取得できるデ […]",
           "link": "https://data.wingarc.com/kpilogictreeofretail_template-33143",
           "publishedOn": "2021-07-20T23:00:49.000Z",
-          "wordCount": 1211,
+          "wordCount": 1217,
           "title": "すぐ使える！小売業のKPI（ロジック）ツリーテンプレート（PowerPoint形式）"
         },
         {
@@ -259,7 +196,7 @@
           "description": "小売業で導入が進んでいるKPI（ロジック）ツリーとは？ 小売業では、集客、効率の向上とコストの削減が経営指標の達成に結びつくと考えられています。 しかしこれらの多くは、ある要素の向上が別の要素の低下を招くなど、相反する関 […]",
           "link": "https://data.wingarc.com/kpilogictreeofretail-33116",
           "publishedOn": "2021-07-20T23:00:34.000Z",
-          "wordCount": 1623,
+          "wordCount": 1629,
           "title": "小売業のKPIとは？KPI例とKPI（ロジック）ツリーを解説"
         },
         {
@@ -268,7 +205,7 @@
           "description": "「CIO」とは、「Chief Information Officer」の略語で、「最高情報責任者」「情報統括役員」、「情報システム担当役員」、「最高情報責任者」のこと。 企業の情報やデータベースのマネジメント、および情報 […]",
           "link": "https://data.wingarc.com/ciojapansummit2021-33037",
           "publishedOn": "2021-07-20T04:27:59.000Z",
-          "wordCount": 1206,
+          "wordCount": 1208,
           "title": "VUCAワールドを勝ち抜くためにCIOとして何をするか？日本の大企業のIT部門の統括責任者が集結！｜CIO Japan Summit 2021"
         },
         {
@@ -277,7 +214,7 @@
           "description": "ここがポイント：どの瞬間を切り取ってもそれがアホだと万人に伝わるのが真のアホダンスである説 みなさん、おはようございます。そしてなんだかお久しぶりです。 この数回100回突破記念企画が開催されていて、僕がこうしてみなさん […]",
           "link": "https://data.wingarc.com/taimu-kun-107-31459",
           "publishedOn": "2021-07-18T23:00:13.000Z",
-          "wordCount": 1257,
+          "wordCount": 1259,
           "title": "【タイムくん – 第107話：アフォーダンス】"
         },
         {
@@ -286,7 +223,7 @@
           "description": "少しだけ考えてみてください。 なぜあなたは、初めて目にした椅子に正しく座ることができるのでしょうか？ なぜあなたは、はじめてアクセスしたウェブサイトを快適に閲覧できるのでしょうか？ ── それは、そのモノ（環境）があなた […]",
           "link": "https://data.wingarc.com/what-is-affordance-33179",
           "publishedOn": "2021-07-15T23:00:01.000Z",
-          "wordCount": 753,
+          "wordCount": 755,
           "title": "直観的な使用を可能にする「アフォーダンス」とは？ シグニファイアとの違いやデザインへの生かし方を解説！"
         },
         {
@@ -295,7 +232,7 @@
           "description": "21世紀の石油「データ」の価値が知られるにつれ、データ分析ができる人材への需要は高まっています。 データ分析人材になりたい、あるいはデータ分析人材を獲得したいと考えつつ、「文系で数字に弱くプログラミングの知識もゼロ……」 […]",
           "link": "https://data.wingarc.com/business-translator-32453",
           "publishedOn": "2021-07-12T23:00:43.000Z",
-          "wordCount": 852,
+          "wordCount": 854,
           "title": "【書評】データ活用のカギは“5つのD”！『データ分析人材になる。　目指すは「ビジネストランスレーター」』"
         },
         {
@@ -304,7 +241,7 @@
           "description": "2021年5月に発表されたガートナーによる調査「CDOサーベイ」によると、データ・データ分析のリーダーの72％が、組織内のDXのイニシアチブを主導しているか、深く関与しているということが明らかになりました。 Gartne […]",
           "link": "https://data.wingarc.com/digital-trends-prediction-29772",
           "publishedOn": "2021-07-08T23:00:22.000Z",
-          "wordCount": 815,
+          "wordCount": 817,
           "title": "ガートナー発表｜データ・分析のリーダーの72%がDXを主導、今後5～10年のデジタルトレンド、コロナ禍の影響や注目ポイントについても解説！"
         },
         {
@@ -313,7 +250,7 @@
           "description": "【データのじかん】では、データ・テクノロジー分野の情報をプッシュで提供すると共に、持続的成長、情報交換、人材交流、イノベーションの創出に活用できるコミュニティ（バーチャル、リアル）を支援しています。 【データのじかん】が […]",
           "link": "https://data.wingarc.com/data_ai_dx_communities-33327",
           "publishedOn": "2021-07-06T23:00:58.000Z",
-          "wordCount": 1334,
+          "wordCount": 1336,
           "title": "データを捨てよ、町へ出よう｜データ・データ活用・DX・AIなどが学べるコミュニティ｜2021年夏公開版"
         },
         {
@@ -322,7 +259,7 @@
           "description": "2021.07.06 update! 「コールセンター/CRM デモ＆コンファレンス 2021 in 大阪（第14回）」（2021/7/20開催） 「Japan Robot Week in Aichi」（2021/9/9 […]",
           "link": "https://data.wingarc.com/datatimes_recommended_event-29627",
           "publishedOn": "2021-07-05T23:00:42.000Z",
-          "wordCount": 3105,
+          "wordCount": 3107,
           "title": "百聞は一見に如かず！！【データのじかん】データに関連する展示会情報局｜2021年7月公開版"
         }
       ]
@@ -333,12 +270,21 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
+          "author": null,
+          "description": "大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here...",
+          "link": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
+          "publishedOn": "2021-07-26T15:44:43.000Z",
+          "wordCount": 150,
+          "title": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/google_cloudanthoswindows_server_container.html",
           "author": null,
           "description": "Google Cloudは、オンプレミスのVMware上のAnthosで稼働しているWindows Server Containerをサポートし、プレビュー提供を開始すると発表しました。 Anthosによる統合管理がGoogle Cloud...",
           "link": "https://www.publickey1.jp/blog/21/google_cloudanthoswindows_server_container.html",
           "publishedOn": "2021-07-25T15:57:56.000Z",
-          "wordCount": 208,
+          "wordCount": 206,
           "title": "Google Cloud、オンプレミスのAnthos上のWindows Server Containerサポートを発表、プレビュー開始"
         },
         {
@@ -347,7 +293,7 @@
           "description": "AWSは、ミッションクリティカル向けの高耐久かつ高性能なストレージ「Amazon EBS io2 Block Express」の正式サービス化を発表しました。 EBS io2 Block Volumes (up to 256K IOPS, ...",
           "link": "https://www.publickey1.jp/blog/21/aws256000iops4000mbpsamazon_ebs_io2_block_express.html",
           "publishedOn": "2021-07-20T15:55:50.000Z",
-          "wordCount": 319,
+          "wordCount": 316,
           "title": "AWS、クラウド内SANを用いたミッションクリティカル向け高性能ストレージ「Amazon EBS io2 Block Express」正式サービスに"
         },
         {
@@ -356,7 +302,7 @@
           "description": "Facebook AI Researchは、会話の内容を知識として蓄えつつ、同時にネット検索をして知識をアップデートする機能を備えたAIチャットボット「BlenderBot 2.0」をオープンソースで公開したことを発表しました。   あたか...",
           "link": "https://www.publickey1.jp/blog/21/facebookaiblenderbot_20.html",
           "publishedOn": "2021-07-19T15:24:30.000Z",
-          "wordCount": 289,
+          "wordCount": 286,
           "title": "Facebook、どんな話題にも対応できるAIチャットボット「BlenderBot 2.0」オープンソースで公開。会話しつつ裏でネット検索し最新情報を取得"
         },
         {
@@ -365,7 +311,7 @@
           "description": "MongoDB社は、同名のNoSQLデータベースの最新版となる「MongoDB 5.0」のリリースを発表しました。MongoDB 5.0はオンプレミス用と、クラウドサービス「MongoDB Atlas」の両方で提供されます。  Breaki...",
           "link": "https://www.publickey1.jp/blog/21/mongodb_50.html",
           "publishedOn": "2021-07-18T15:53:26.000Z",
-          "wordCount": 197,
+          "wordCount": 194,
           "title": "MongoDB 5.0が登場。時系列データ対応、実行中のシャーディング変更に対応など"
         },
         {
@@ -374,7 +320,7 @@
           "description": "プログラミング言語「Python」の開発を支援する米Python Software Foundationが、国内における「Python」の登録商標を5月に出願したことが明らかになりました。 国内におけるPythonの登録商標は、2018年5...",
           "link": "https://www.publickey1.jp/blog/21/pythonpython_software_foundation.html",
           "publishedOn": "2021-07-15T15:55:10.000Z",
-          "wordCount": 252,
+          "wordCount": 249,
           "title": "「Python」の登録商標、米Python Software Foundationが再出願。アーク社の登録商標に対しては不使用取消審判を請求"
         },
         {
@@ -383,7 +329,7 @@
           "description": "マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Windows 365 Cloud PC」を発表しました。 8...",
           "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
           "publishedOn": "2021-07-14T15:01:44.000Z",
-          "wordCount": 217,
+          "wordCount": 214,
           "title": "［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに"
         },
         {
@@ -392,7 +338,7 @@
           "description": "Eclipse Foundationは、データをコピーすることなく瞬時にプロセス間でデータ通信を可能にするミドルウェア「Eclipse iceoryx」を公開しました。 The first major release of Eclipse ...",
           "link": "https://www.publickey1.jp/blog/21/eclipse_iceoryxeclipse_foundation.html",
           "publishedOn": "2021-07-13T15:26:19.000Z",
-          "wordCount": 212,
+          "wordCount": 209,
           "title": "ゼロコピーで瞬時にプロセス間の大規模データ通信を可能にする「Eclipse iceoryx」ミドルウェア、Eclipse Foundationが公開"
         },
         {
@@ -401,7 +347,7 @@
           "description": "クラウド時代におけるアプリケーションやサービスの提供では、開発と運用を通じて継続的な改善を行うことが重用だとされています。 特にクラウドインフラはアプリケーションの状態や負荷、アップグレードの状況などに応じてインフラ自体も動的にコンピューテ...",
           "link": "https://www.publickey1.jp/blog/21/_cloud_operator_days_tokyopr_1.html",
           "publishedOn": "2021-07-13T00:02:01.000Z",
-          "wordCount": 234,
+          "wordCount": 231,
           "title": "「今日もシステムが落ちなかった、ありがとう」なんて言われたことのない運用者に光を！ クラウド運用に焦点を当てたテックイベント、Cloud Operator Days Tokyo［PR］"
         },
         {
@@ -410,7 +356,7 @@
           "description": "調査会社のIDC Japanは、2020年の国内ITサービス市場のベンダー売上ランキングを発表しました。 上位5社は、1位から順に、富士通、NTTデータ、日立製作所、NEC、IBM。中央省庁向けのマネージドサービスが拡大したNTTデータが、...",
           "link": "https://www.publickey1.jp/blog/21/sierit12ntt3202028idc_japan.html",
           "publishedOn": "2021-07-12T15:22:06.000Z",
-          "wordCount": 162,
+          "wordCount": 159,
           "title": "大手国内SIerのITサービス売り上げランキング、1位は富士通、2位はNTTデータ、3位日立製作所。2020年のITサービス市場は前年比2.8％減。IDC Japan"
         },
         {
@@ -419,7 +365,7 @@
           "description": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 上場企業は毎年「有価証券報告書」の発行を義務づけられており、そこには従業員の人数や平均年齢...",
           "link": "https://www.publickey1.jp/blog/21/it_2021_si.html",
           "publishedOn": "2021-07-11T16:01:38.000Z",
-          "wordCount": 194,
+          "wordCount": 191,
           "title": "IT系上場企業の平均年収を業種別にみてみた 2021年版［後編］ ～ パッケージソフトウェア系、SI／システム開発系、クラウド／キャリア系企業"
         },
         {
@@ -428,7 +374,7 @@
           "description": "IT系企業で平均年収が高いのは、勢いのあるネットベンチャー系企業なのか、それとも伝統的なSIerなのでしょうか。毎年恒例の記事を今年も公開します。 特に今年は、昨年春からの新型コロナウイルス感染拡大の影響を受けた企業の経営陣が、過去1年の...",
           "link": "https://www.publickey1.jp/blog/21/it_2021.html",
           "publishedOn": "2021-07-11T15:57:00.000Z",
-          "wordCount": 195,
+          "wordCount": 192,
           "title": "IT系上場企業の平均年収を業種別にみてみた 2021年版［前編］ ～ ネットベンチャー、ゲーム、メディア系"
         },
         {
@@ -437,7 +383,7 @@
           "description": "日本各地で雨が続いていますが、読者の皆様いかがお過ごしでしょうか。最近、地元自治体からハザードマップが届きました。残念ながら僕の住んでいる土地は最悪の場合には浸水する地域にぎりぎりで入っているので、大雨のときには少し心配になります。 僕はマ...",
           "link": "https://www.publickey1.jp/blog/21/bgmfastly149aws20216.html",
           "publishedOn": "2021-07-08T15:04:57.000Z",
-          "wordCount": 193,
+          "wordCount": 190,
           "title": "プログラミングのためのBGM／ずっと無料で使えるクラウドサービス／Fastly、障害を1分で検知し49分で復旧／AWSのローコード開発ツールほか、2021年6月の人気記事"
         },
         {
@@ -446,7 +392,7 @@
           "description": "マイクロソフトは、ベータ版として公開していたWindowsコンテナ用のSQL Serverである「SQL Server on Windows container」の公開を中止すると発表しました。   これにより、Docker Hubの「mi...",
           "link": "https://www.publickey1.jp/blog/21/windowssql_server_on_windows_containerlinuxsql_sever.html",
           "publishedOn": "2021-07-07T16:05:30.000Z",
-          "wordCount": 237,
+          "wordCount": 234,
           "title": "Windowsコンテナに対応した「SQL Server on Windows container」ベータ公開が中止に。Linux版のSQL Severコンテナ対応は継続"
         },
         {
@@ -455,17 +401,8 @@
           "description": "Canonicalは、1000人以上のIT技術者や専門家に対してクラウドネイティブをテーマにした調査結果「Kubernetes and cloud native operations report 2021」を発表しました。 対象者は116...",
           "link": "https://www.publickey1.jp/blog/21/kubernetesminikubedocker_kubernetescanonical.html",
           "publishedOn": "2021-07-07T15:59:37.000Z",
-          "wordCount": 231,
+          "wordCount": 228,
           "title": "クラウドネイティブの目的は運用と自動化の改善のため、コンテナやKubernetes採用の最大の課題は社内のスキルや人材不足、ローカルではMinikubeとDocker Kubernetesが人気。Canonicalによる調査結果"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/matlantispreferred_networkspfcc.html",
-          "author": null,
-          "description": "株式会社Preferred NetworksとENEOS株式会社の共同出資で設立された株式会社Preferred Computational Chemistry（以下PFCC）は、汎用原子レベルシミュレータ 「Matlantis」（マトラン...",
-          "link": "https://www.publickey1.jp/blog/21/matlantispreferred_networkspfcc.html",
-          "publishedOn": "2021-07-06T15:34:41.000Z",
-          "wordCount": 146,
-          "title": "汎用原子レベルシミュレータ「Matlantis」がクラウドサービスで登場。原子スケールで材料の挙動を再現、深層学習モデルで計算を数万倍に高速化。Preferred Networksの関連会社「PFCC」から"
         }
       ]
     },
@@ -475,12 +412,21 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/morimorihoge/2021_07_26/109796",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/windows_switching_multiple_net_connections_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>morimorihogeです。SGDQ21は良かったですね（その後スポンジボブをNetflixで観始めました）。ESA Summerも始まりましたしRTA in Japanも楽しみです。 諸般の事情からWindows環境でIPアドレスを切替ながら使いたいというユースケースに遭遇したのでまとめます。 具体的には、ノートPCに接続した ノートPC内蔵のWi-Fi経由 USB経由のWiMAX回線 の二つのインターネット回線を物理的にPCに触らず、リモートRDP接続からWindowsの設定変更だけで任意に切り換えるという手順について書きます。 ※本記事はWiFiとUSB接続WiMAXルーターの切り替えについて記載していま [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2021_07_26/109796\" data-wpel-link=\"internal\" target=\"_self\">Windowsで複数インターネット回線を切り換えながら使う方法</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/morimorihoge/2021_07_26/109796",
+          "publishedOn": "2021-07-26T08:30:21.000Z",
+          "wordCount": 342,
+          "title": "Windowsで複数インターネット回線を切り換えながら使う方法"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_07_21/109659",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/rails7_upsert_all_on_duplicate_raw_sql_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 allows passing raw SQL as &#96;on&#95;duplicate&#96; value to &#96;&#35;upsert&#95;all&#96; &#124; Saeloun Blog 原文公開日: 2021/06/23 サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston 日本語タイトルは内容に即したものにしました。 Rails 7: upsert_allのon_dupl [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_21/109659\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: upsert_allのon_duplicateオプションに生SQLを渡せるようになった（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_21/109659",
           "publishedOn": "2021-07-21T08:30:02.000Z",
-          "wordCount": 535,
+          "wordCount": 532,
           "title": "Rails 7: upsert_allのon_duplicateオプションに生SQLを渡せるようになった（翻訳）"
         },
         {
@@ -489,7 +435,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/railswatch_20210720_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_20/109869\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: ruby-gitでGit操作、最近のruby/debug、stdgems.org、Windows 365 Cloud PCほか（20210720後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_20/109869",
           "publishedOn": "2021-07-20T10:11:53.000Z",
-          "wordCount": 826,
+          "wordCount": 825,
           "title": "週刊Railsウォッチ: ruby-gitでGit操作、最近のruby/debug、stdgems.org、Windows 365 Cloud PCほか（20210720後編）"
         },
         {
@@ -498,7 +444,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/railswatch_20210719_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_19/109839\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: GitHubによるdisable_joins解説、MemoWise gemでメモ化、RailsのDDoS攻撃対策ほか（20210719前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_19/109839",
           "publishedOn": "2021-07-19T10:16:52.000Z",
-          "wordCount": 1146,
+          "wordCount": 1145,
           "title": "週刊Railsウォッチ: GitHubによるdisable_joins解説、MemoWise gemでメモ化、RailsのDDoS攻撃対策ほか（20210719前編）"
         },
         {
@@ -507,7 +453,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/rbenv_ruby3.0.x_builderror_binutils_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>しょうもないところで詰まりました。 現象 macOS Big Sur環境でrbenv install 3.0.2やrbenv install 3.0.1を実行すると以下のエラーが発生しました。rbenv install 2.7.4やrbenv install 2.6.8ではなぜか発生しませんでした。 $ rbenv install 3.0.2 Downloading ruby-3.0.2.tar.gz... -&#62; https://cache.ruby-lang.org/pub/ruby/3.0/ruby-3.0.2.tar.gz Installing ruby-3.0.2... ruby-build: us [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609\" data-wpel-link=\"internal\" target=\"_self\">rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_16/109609",
           "publishedOn": "2021-07-16T08:30:09.000Z",
-          "wordCount": 575,
+          "wordCount": 574,
           "title": "rbenv: Ruby 3.0.xのビルドがbinutilsでエラーになった"
         },
         {
@@ -516,7 +462,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/06/rails_tips_capybara_multisession_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Testing multiple sessions in the same test with Capybara &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2021/03/02 著者: Matt Swanson サイト: Boring Rails Railsの技: Capybaraのテストで複数のセッションを扱う（翻訳） アプリケーション内の機能は、複数のユーザーにまたがって動作することもあります。自動化システムテストを書くときにCapybaraのusing_sessionヘル [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_15/108763\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: Capybaraのテストで複数のセッションを扱う（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_15/108763",
           "publishedOn": "2021-07-15T08:30:01.000Z",
-          "wordCount": 365,
+          "wordCount": 364,
           "title": "Railsの技: Capybaraのテストで複数のセッションを扱う（翻訳）"
         },
         {
@@ -525,7 +471,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/03/batch_online_processing3_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>#1 処理時間とレスポンス時間 #2 バッチ処理とオンライン処理 #3 バッチ処理を設計するときの注意点（本記事） #4 オンライン処理とUXの工夫 #5 Railsのジョブ管理システムと注意点 #6 バッチ処理ですぐに使えるノウハウ、まとめ バッチ処理を設計するうえでの注意点 バッチ処理を設計する際は、処理時間がどの程度になるのかを事前に計測・見積し、その結果を元に実行計画を立てるのが重要です。少なくとも、所要時間の見通しもなくバッチ処理を作成するのは危険です。 一般的にはデータ量が増えれば処理時間も増えるので、データ量が増えたときに処理時間がどのように延びるかは予め見積もっておきます。たとえば「データが1万件 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2021_07_14/62711\" data-wpel-link=\"internal\" target=\"_self\">Webのバッチ処理とオンライン処理のポイントとシステムの応答性能を学ぶ#3（社内勉強会）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/morimorihoge/2021_07_14/62711",
           "publishedOn": "2021-07-14T08:30:43.000Z",
-          "wordCount": 351,
+          "wordCount": 350,
           "title": "Webのバッチ処理とオンライン処理のポイントとシステムの応答性能を学ぶ#3（社内勉強会）"
         },
         {
@@ -534,7 +480,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/railswatch_20210713_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙇 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_13/109650\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: ruby-spacyで自然言語処理、Ruby製x86-64アセンブラ、『タイムゾーン呪いの書』ほか（20210713後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_13/109650",
           "publishedOn": "2021-07-13T09:05:23.000Z",
-          "wordCount": 731,
+          "wordCount": 730,
           "title": "週刊Railsウォッチ: ruby-spacyで自然言語処理、Ruby製x86-64アセンブラ、『タイムゾーン呪いの書』ほか（20210713後編）"
         },
         {
@@ -543,7 +489,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2018/06/rails_pagy_gem_fast_pagenation_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Paginating Ruby on Rails applications with Pagy 原文公開日: 2018/05/16 著者: Tiago Franco サイト: https://www.imaginarycloud.com/ 日本語タイトルは内容に即したものにしました。 2018/05/16: 初版公開 2021/07/13: 更新 202107/13時点ののPagy 4.10.1ではRuby 2.5以上が必須です。それ以前のバージョンのRubyではPagy3を使います。 Rails: Pagy gemでRailsアプリを高速ページネーショ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_13/57481\" data-wpel-link=\"internal\" target=\"_self\">Rails: Pagy gemでRailsアプリを高速ページネーション（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_13/57481",
           "publishedOn": "2021-07-13T08:31:56.000Z",
-          "wordCount": 340,
+          "wordCount": 339,
           "title": "Rails: Pagy gemでRailsアプリを高速ページネーション（翻訳）"
         },
         {
@@ -552,17 +498,8 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/07/railswatch_20210712_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_12/109617\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: AR::Relation#destroy_allがバッチ分割に変更、Active Record暗号化解説、sidekiq-unique-jobsほか（20210712前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_12/109617",
           "publishedOn": "2021-07-12T09:30:15.000Z",
-          "wordCount": 1338,
+          "wordCount": 1337,
           "title": "週刊Railsウォッチ: AR::Relation#destroy_allがバッチ分割に変更、Active Record暗号化解説、sidekiq-unique-jobsほか（20210712前編）"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2021_07_09/109136",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/06/rails_logidze_tracking_postgres_db_updates_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Logidze 1&#46;0: Active Record, Postgres, Rails, and time travel — Martian Chronicles, Evil Martians’ team blog 原文公開日: 2021/01/27 原著者: Vladimir Dementyev &#8212; Evil Martiansリード開発者。 サイト: Evil Martians &#8212; ニューヨークやロシアを中心に拠点を構えるRuby on Rails開発会社です。良質のブログ記事を多数公開し、多くのgemのスポンサーでもあ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_07_09/109136\" data-wpel-link=\"internal\" target=\"_self\">Rails: Logidze gemでActive Record背後のPostgreSQL DB更新をトラッキング（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2021_07_09/109136",
-          "publishedOn": "2021-07-09T08:30:00.000Z",
-          "wordCount": 622,
-          "title": "Rails: Logidze gemでActive Record背後のPostgreSQL DB更新をトラッキング（翻訳）"
         }
       ]
     },
@@ -577,7 +514,7 @@
           "description": "サードパーティのAPTパッケージリポジトリを追加する際に使用する「apt-key」コマンドは，2020年8月の2.1.8から「廃止予定」となり，2022年の半ばには削除される予定になりました。今回はその理由と，代替手段について解説しましょう。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0675",
           "publishedOn": "2021-07-21T00:42:00.000Z",
-          "wordCount": 565,
+          "wordCount": 561,
           "title": "第675回　apt-keyはなぜ廃止予定となったのか ── Ubuntu Weekly Recipe"
         },
         {
@@ -586,7 +523,7 @@
           "description": "2021年7月中旬からクラウド運用担当者のノウハウを共有するイベント「Cloud Operator Days Tokyo 2021」がオンラインで開催中です。",
           "link": "https://gihyo.jp/admin/serial/01/codt2021/0001",
           "publishedOn": "2021-07-21T00:15:40.000Z",
-          "wordCount": 412,
+          "wordCount": 406,
           "title": "#01　「Cloud Operator Days Tokyo 2021」がすべてのクラウド従事者にお勧めなわけ ── \"運用者に光を\"「Cloud Operator Days Tokyo 2021」の歩き方"
         },
         {
@@ -604,7 +541,7 @@
           "description": "第673回では，カーネルクラッシュ時に情報を収集する仕組みを有効化しました。得られた情報は活用しないと意味がありません。今回はその中身を解析する方法を紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0674",
           "publishedOn": "2021-07-14T00:42:00.000Z",
-          "wordCount": 441,
+          "wordCount": 430,
           "title": "第674回　カーネルのクラッシュ情報を解析する ── Ubuntu Weekly Recipe"
         },
         {
@@ -613,7 +550,7 @@
           "description": "Linus Torvaldsは7月11日，次期カーネル「Linux 5.14」の最初のリリース候補（RC）版となる「Linux 5.14-rc1」を公開した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202107/12",
           "publishedOn": "2021-07-12T07:13:00.000Z",
-          "wordCount": 340,
+          "wordCount": 339,
           "title": "2021年7月12日　Linux 5.14-rc1が登場，正式リリースは8月後半か9月前半に ── Linux Daily Topics"
         },
         {
@@ -622,7 +559,7 @@
           "description": "最近Linux Kernelにマージされた，AMD Sensor Fusion HubのドライバがUbuntuのOEMカーネルにマージされる見込みです。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/09",
           "publishedOn": "2021-07-09T04:12:00.000Z",
-          "wordCount": 441,
+          "wordCount": 433,
           "title": "2021年7月9日号　AMD Sensor Fusion Hubの最新ドライバ，zstdベースのアーカイブ ── Ubuntu Weekly Topics"
         },
         {
@@ -631,7 +568,7 @@
           "description": "6月27日にLinux 5.13が無事にリリースされてから1週間が経過し，カーネル開発者たちの多くはすでに次期カーネルとなる「Linux 5.14」へと作業をシフトしている。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202107/07",
           "publishedOn": "2021-07-07T06:40:00.000Z",
-          "wordCount": 347,
+          "wordCount": 351,
           "title": "2021年7月7日　Linux 5.14でレガシーIDEのサポート終了へ ―カーネルソースツリーから「/dev/ide」を全削除 ── Linux Daily Topics"
         },
         {
@@ -640,7 +577,7 @@
           "description": "今回はカーネルの「クラッシュダンプ」システムを利用して，「問題が起きたときに原因を追求する」方法を紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0673",
           "publishedOn": "2021-07-07T01:09:00.000Z",
-          "wordCount": 386,
+          "wordCount": 378,
           "title": "第673回　カーネルのクラッシュ情報を取得する ── Ubuntu Weekly Recipe"
         },
         {
@@ -649,7 +586,7 @@
           "description": "Ubuntuの定番，壁紙コンテストがしばらくの休眠を経て帰ってきました。ユーザーから投稿された写真の人気投票を行い，最終的にUbuntuのリリースイメージに含めるUbuntu定番の企画です。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/02",
           "publishedOn": "2021-07-02T00:40:00.000Z",
-          "wordCount": 570,
+          "wordCount": 566,
           "title": "2021年7月2日号　帰ってきた壁紙コンテスト、21.10のデザイン変更 ── Ubuntu Weekly Topics"
         },
         {
@@ -658,7 +595,7 @@
           "description": "Linus Torvaldsは6月27日（米国時間），「Linux 5.13」のリリースを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202106/30",
           "publishedOn": "2021-06-30T00:15:00.000Z",
-          "wordCount": 394,
+          "wordCount": 390,
           "title": "2021年6月30日　Apple M1チップをサポートしたLinux 5.13がリリース ── Linux Daily Topics"
         },
         {
@@ -667,7 +604,7 @@
           "description": "NixOSプロジェクトチームは6月21日，NixOSの最小ISOイメージについて，どの環境でビルドしても，まったく同じバイナリイメージを100％再現できるようになったことを報告した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202106/29",
           "publishedOn": "2021-06-29T05:50:00.000Z",
-          "wordCount": 423,
+          "wordCount": 422,
           "title": "2021年6月29日　Is NixOS Reproducible? ―NixOS，最小イメージのビルドを100％再現可能に ── Linux Daily Topics"
         }
       ]
@@ -678,12 +615,21 @@
       "siteUrl": "https://gihyo.jp/dev",
       "articles": [
         {
+          "id": "https://gihyo.jp/dev/serial/01/line2021/0008",
+          "author": "川添貴生，馮富久",
+          "description": "2019年にLINEで発足したSREに取り組む専門チーム。そのSREチームを率いるマネージャーである  萬治渉氏に，SREチームが発足した背景や現状の取り組みなどについてお話を伺いました。",
+          "link": "https://gihyo.jp/dev/serial/01/line2021/0008",
+          "publishedOn": "2021-07-26T23:00:00.000Z",
+          "wordCount": 385,
+          "title": "LINEのインフラ基盤「Verda」のビジョンとSREが果たすべき役割とは ── LINE テクノロジー＆エンジニアリング大全"
+        },
+        {
           "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0151",
           "author": "北川健太郎",
           "description": "今回は，知っておくとちょっと得するperformance_schemaのテーブルをいくつか紹介したいと思います。",
           "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0151",
           "publishedOn": "2021-07-20T00:15:00.000Z",
-          "wordCount": 474,
+          "wordCount": 470,
           "title": "第151回　知っておくとちょっと得するperformance_schemaのテーブル ── MySQL道普請便り"
         },
         {
@@ -692,7 +638,7 @@
           "description": "今回は，MySQL 5.7.6から導入されたGenerated Columnに関して紹介していきます。",
           "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0150",
           "publishedOn": "2021-07-06T00:15:00.000Z",
-          "wordCount": 750,
+          "wordCount": 752,
           "title": "第150回　Generated Columnを利用してみる ── MySQL道普請便り"
         },
         {
@@ -701,7 +647,7 @@
           "description": "OSSコンソーシアム データベース部会のメンバーによる本連載をよろしくお願いいたします。",
           "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0071",
           "publishedOn": "2021-07-01T00:16:00.000Z",
-          "wordCount": 480,
+          "wordCount": 479,
           "title": "第71回　MySQL Database Serviceとアプリケーション，一足早い次期メジャーバージョンPostgreSQL 14情報 ── OSSデータベース取り取り時報"
         },
         {
@@ -710,7 +656,7 @@
           "description": "こんにちはこんにちは!！ 近ごろ世間では情報漏えいやセキュリティの問題がよく取り上げられていますが，昔と違って今はスマートフォンの普及などでサービスも利用者も急激に増えたので問題もどんどん大きくなってきていますね。",
           "link": "https://gihyo.jp/dev/serial/01/readers-forum/vol123",
           "publishedOn": "2021-07-01T00:15:40.000Z",
-          "wordCount": 402,
+          "wordCount": 398,
           "title": "WEB+DB PRESS Vol.122へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ"
         }
       ]
@@ -726,7 +672,7 @@
           "description": "選手のみなさんが無事に悔いなく競技を終えられますように。",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0722",
           "publishedOn": "2021-07-21T06:00:00.000Z",
-          "wordCount": 346,
+          "wordCount": 345,
           "title": "2021年7月21日　オリンピック開幕直前！ ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -735,7 +681,7 @@
           "description": "2021年7月第3週のAndroid関連のニュースをお届けします。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202107/15",
           "publishedOn": "2021-07-15T00:15:00.000Z",
-          "wordCount": 419,
+          "wordCount": 420,
           "title": "2021年7月第3週　巻き返しのときがやってきた。まずはGalaxy Watchから ── Android Weekly Topics"
         },
         {
@@ -744,7 +690,7 @@
           "description": "巨大なのもよいですが，巨大じゃない方がむしろよい，のです。",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0712",
           "publishedOn": "2021-07-12T06:00:00.000Z",
-          "wordCount": 349,
+          "wordCount": 346,
           "title": "2021年7月12日　新宿の巨大じゃないみけこなど ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -762,7 +708,7 @@
           "description": "上からでも下からでも目線ください！",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0702",
           "publishedOn": "2021-07-02T06:00:00.000Z",
-          "wordCount": 346,
+          "wordCount": 345,
           "title": "2021年7月2日　上から目線！ ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -771,7 +717,7 @@
           "description": "2021年7月第1週のAndroid関連のニュースをお届けします。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202107/01",
           "publishedOn": "2021-07-01T00:15:20.000Z",
-          "wordCount": 432,
+          "wordCount": 430,
           "title": "2021年7月第1週　Windows Subsystem for Androidが登場 ── Android Weekly Topics"
         },
         {
@@ -780,7 +726,7 @@
           "description": "今回はディストリビューションにとって厄介な\"library not found\"のエラーを検出する方法と，それに関わるいくつかの話題を紹介しましょう。",
           "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0031",
           "publishedOn": "2021-06-30T00:15:00.000Z",
-          "wordCount": 574,
+          "wordCount": 573,
           "title": "第31回　共有ライブラリと依存関係［3］ ── 続・玩式草子 ―戯れせんとや生まれけん―"
         }
       ]
@@ -808,7 +754,7 @@
           "description": "本日は、26歳にして、会社設立や2度のスタートアップでCTO経験を持つ、株式会社TENTIAL CTO市來さんにお話を伺いました。 株式会社TENTIALについて テンシャルは、「スポーツと健康を循環させ、世界を代表する […]",
           "link": "https://octopass.jp/4092/",
           "publishedOn": "2021-07-07T02:00:00.000Z",
-          "wordCount": 257,
+          "wordCount": 251,
           "title": "20代を猛進するCTOに聞く、スタートアップ流組織作りとは？"
         }
       ]
