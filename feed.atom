@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T00:51:41.051Z</updated>
+    <updated>2021-07-28T00:52:22.991Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第676回　aptコマンドの最新機能あれこれ ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0676</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0676"/>
+        <updated>2021-07-28T00:43:00.000Z</updated>
+        <summary type="html"><![CDATA[第675回ではapt-keyコマンドが廃止される理由を説明しました。それ以外にもaptコマンドには常に様々な変更が加えられています。今回はそれらをいくつかピックアップして紹介しましょう。]]></summary>
+        <author>
+            <name>柴田充也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本の理研チーム、有袋類の遺伝子改変に成功　世界初]]></title>
+        <id>https://www.technologyreview.jp/?p=251618</id>
+        <link href="https://www.technologyreview.jp/s/251618/an-albino-opossum-proves-crispr-works-for-marsupials-too/"/>
+        <updated>2021-07-27T21:55:58.000Z</updated>
+        <summary type="html"><![CDATA[クリスパー（CRISPR）は幅広い生物の遺伝子改変に使われてきたが、有袋類への適用は困難だった。7月22日、理化学研究所の研究チームが世界で初めてこの困難を打ち破った。]]></summary>
+        <author>
+            <name>Casey Crownhart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSOのスパイウェア、ジャーナリストらを監視＝有力紙が一斉報道]]></title>
+        <id>https://www.technologyreview.jp/?p=251429</id>
+        <link href="https://www.technologyreview.jp/s/251429/what-the-latest-pegasus-spyware-leaks-tell-us/"/>
+        <updated>2021-07-27T21:44:50.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルのハッキング企業NSOが作ったスパイウェアツールによって、ジャーナリストや活動家が監視されていることが報道で明らかになった。ただ、これはMITテクノロジーレビューが以前から指摘してきたとおりだ。]]></summary>
+        <author>
+            <name>Abby Ohlheiser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[急成長の太陽光発電に迫る 「不都合な真実」]]></title>
+        <id>https://www.technologyreview.jp/?p=250798</id>
+        <link href="https://www.technologyreview.jp/s/250798/the-lurking-threat-to-solar-powers-growth/"/>
+        <updated>2021-07-27T20:51:18.000Z</updated>
+        <summary type="html"><![CDATA[世界有数の太陽光発電の集積地で、卸売価格が急落。太陽光発電所を増設しても儲からない状態になりつつある。気候変動の目標達成には太陽光発電所の増設が必須だが、有効な対策はあるか。]]></summary>
+        <author>
+            <name>James Temple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook、次期ビルドシステムの開発でRust言語の採用を明らかに]]></title>
+        <id>https://www.publickey1.jp/blog/21/facebookrust.html</id>
+        <link href="https://www.publickey1.jp/blog/21/facebookrust.html"/>
+        <updated>2021-07-27T15:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Facebookは同社のソフトウェア開発において、同社が主導して開発しているオープンソースのビルドシステム「Buck」を利用しています。 Backは高速なビルドが可能な点を大きな特徴としており、もともとAndroidアプリケーション向けのビ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railsの技: 特定スコープ内でuniquenessバリデーションをかける（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_27/109827</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_27/109827"/>
+        <updated>2021-07-27T08:30:33.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/07/rails_tips_uniqueness_validation_in_a_scope_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails validations: unique within a certain scope &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2021/03/16 著者: Matt Swanson サイト: Boring Rails Railsの技: 特定スコープ内でuniquenessバリデーションをかける（翻訳） データベースでのバリデーションとアプリケーションでのバリデーションを一致させるのはよい考えです。モデルにvalidates :name, presence: tru [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_27/109827" data-wpel-link="internal" target="_self">Railsの技: 特定スコープ内でuniquenessバリデーションをかける（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoftは、Azure ND A100 V4クラウドGPUインスタンスの一般向け提供を発表]]></title>
+        <id>https://www.infoq.com/jp/news/2021/07/azure-a100-gpu-nvidia-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/07/azure-a100-gpu-nvidia-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-07-27T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、Microsoftは、NVIDIA A100 Tensor Core GPUを搭載したAzure ND A100 v4 Cloud GPUインスタンスの一般向け提供を発表した。この仮想マシン（VM）は、人工知能（AI）や機械学習（ML）の処理など、高いパフォーマンスが必要で処理負荷が大きい顧客を対象としている。
+ By Steef-Jan Wiggers  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET MAUI Preview 5が目前に]]></title>
+        <id>https://www.infoq.com/jp/news/2021/07/dotnet-maui-preview-5/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/07/dotnet-maui-preview-5/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-07-27T03:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Build and Preview 4の後の1か月、.NET MAUIチームは.NET Multi-platform App UIの改善を続け、Preview 5が目前にある。アニメーションとビュー変換がサポートされ、Xamarin.FormsのレンダラーアーキテクチャからUIコンポーネントのいくつか移植され、また、単一プロジェクトテンプレートの更新、改善された。
+ By Almir Vuk  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Almir Vuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSはAWS Step Functionsに新しくWorkflow Studioを導入]]></title>
+        <id>https://www.infoq.com/jp/news/2021/07/step-functions-workflow-studio/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/07/step-functions-workflow-studio/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-07-27T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[先頃、AWSはStep Functionsで提供される新しいWorkflow Studioを導入した。AWSマネジメントコンソールを介して、開発者はビジュアルビルダにアクセスしてStep Functionsワークフローを作成できるようになった。
+ By Steef-Jan Wiggers  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Key Management Serviceにマルチリージョンキーを導入]]></title>
+        <id>https://www.infoq.com/jp/news/2021/07/aws-kms-global/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/07/aws-kms-global/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-07-27T01:47:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSは先頃、暗号化されたデータをリージョン間で移動できるようにするクライアントサイドアプリケーションのための新機能であるKMSマルチリージョンキーが利用可能だと発表した。
+ By Renato Losio  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火星のコアは意外と大きかった？ NASA探査機の測定で明らかになる]]></title>
         <id>https://www.technologyreview.jp/?p=251767</id>
@@ -47,11 +152,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表]]></title>
+        <title type="html"><![CDATA[Fastly、JavaScriptエンジンをWebAssemblyで実装。CDNエッジのサーバレス環境「Compute@Edge」でJavaScriptサポート発表（訂正済み）]]></title>
         <id>https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html</id>
         <link href="https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html"/>
         <updated>2021-07-26T15:44:43.000Z</updated>
-        <summary type="html"><![CDATA[大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here...]]></summary>
+        <summary type="html"><![CDATA[（お詫びとお知らせ：本記事はFastlyの発表と同社へのメールでの取材に基づいて執筆いたしましたが、記事公開後に同社より、回答を間違えたとの申し出がありました。そのため改めて同社から提供された情報を基に、タイトルと本文を訂正しました。訂正前...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
@@ -147,36 +252,6 @@
         <summary type="html"><![CDATA[各地の都市で大規模な洪水が頻発している。都市に張り巡らされた雨水管やポンプ、その他のインフラは、気候変動によって頻度や強度が増した暴風雨に対応できるようには設計されていないからだ。]]></summary>
         <author>
             <name>Casey Crownhart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新たな冥王星探査ミッション候補「ペルセポネ」が重要な理由]]></title>
-        <id>https://www.technologyreview.jp/?p=251422</id>
-        <link href="https://www.technologyreview.jp/s/251422/why-nasa-should-visit-pluto-again/"/>
-        <updated>2021-07-22T21:27:39.000Z</updated>
-        <summary type="html"><![CDATA[米国の科学者チームは、新たな冥王星探査ミッションである「ペルセポネ」をNASAに提案している。目標は、前回のニュー・ホライズンズの調査で上がった太陽系形成に関する疑問と、有機物がかつて地球の外で存在していたのかという疑問に取り組むことだ。]]></summary>
-        <author>
-            <name>Tatyana Woodall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最大級の露ランサムウェア集団、ネット上から姿を消す]]></title>
-        <id>https://www.technologyreview.jp/?p=250716</id>
-        <link href="https://www.technologyreview.jp/s/250716/the-worlds-biggest-ransomware-gang-just-disappeared-from-the-internet/"/>
-        <updated>2021-07-21T21:59:35.000Z</updated>
-        <summary type="html"><![CDATA[米国とロシアの高官がランサムウェアの危機について協議する予定だった前日、ランサムウェア攻撃を仕掛けるロシアの最大級のグループが活動を停止した。]]></summary>
-        <author>
-            <name>Patrick Howell O'Neill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英「フリーダム・デー」、 16カ月ぶりの自由な生活で 何が起きるのか？]]></title>
-        <id>https://www.technologyreview.jp/?p=251291</id>
-        <link href="https://www.technologyreview.jp/s/251291/why-englands-sudden-lifting-of-covid-restrictions-is-a-massive-gamble/"/>
-        <updated>2021-07-21T21:29:03.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染者数が急増する中、英国政府は、イングランドにおけるパンデミック関連の規制をすべて解除すると発表した。今後の状況を予測することは難しいが、現段階でわかっていることと、現段階ではわからないことをまとめた。]]></summary>
-        <author>
-            <name>Charlotte Jee</name>
         </author>
     </entry>
     <entry>
@@ -518,6 +593,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rails 6のB面に隠れている地味にうれしい機能たち（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_19/74562</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_19/74562"/>
+        <updated>2021-07-19T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2019/05/rails_b_side_rarities_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 6: B&#45;Sides and Rarities — Martian Chronicles, Evil Martians’ team blog 原文公開日: 2019/04/29 著者: Vladimir Dementyev &#8212; Railsコントリビュータ、Evil Martiansメンバー サイト: Evil Martians &#8212; NY/サンフランシスコ/モスクワに拠点を構え、Rails・モバイル・インフラ・ビッグデータ分析などを手がける米国の開発企業です。GitHubでのgem公開やgemのスポンサーシップ、 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_19/74562" data-wpel-link="internal" target="_self">Rails 6のB面に隠れている地味にうれしい機能たち（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【タイムくん – 第107話：アフォーダンス】]]></title>
         <id>https://data.wingarc.com/?p=31459</id>
         <link href="https://data.wingarc.com/taimu-kun-107-31459"/>
@@ -721,17 +807,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rails: Pagy gemでRailsアプリを高速ページネーション（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_13/57481</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_13/57481"/>
-        <updated>2021-07-13T08:31:56.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2018/06/rails_pagy_gem_fast_pagenation_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Paginating Ruby on Rails applications with Pagy 原文公開日: 2018/05/16 著者: Tiago Franco サイト: https://www.imaginarycloud.com/ 日本語タイトルは内容に即したものにしました。 2018/05/16: 初版公開 2021/07/13: 更新 202107/13時点ののPagy 4.10.1ではRuby 2.5以上が必須です。それ以前のバージョンのRubyではPagy3を使います。 Rails: Pagy gemでRailsアプリを高速ページネーショ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_13/57481" data-wpel-link="internal" target="_self">Rails: Pagy gemでRailsアプリを高速ページネーション（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS で AWS PrivateLink のデータ処理料金を減額]]></title>
         <id>edf6005b5d3c0e95c7ea8d942d90edee104d4ab4</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/aws-lowers-data-processing-charges-aws-privatelink/"/>
@@ -799,17 +874,6 @@
         <summary type="html"><![CDATA[調査会社のIDC Japanは、2020年の国内ITサービス市場のベンダー売上ランキングを発表しました。 上位5社は、1位から順に、富士通、NTTデータ、日立製作所、NEC、IBM。中央省庁向けのマネージドサービスが拡大したNTTデータが、...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: AR::Relation#destroy_allがバッチ分割に変更、Active Record暗号化解説、sidekiq-unique-jobsほか（20210712前編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_12/109617</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_12/109617"/>
-        <updated>2021-07-12T09:30:15.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/07/railswatch_20210712_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_12/109617" data-wpel-link="internal" target="_self">週刊Railsウォッチ: AR::Relation#destroy_allがバッチ分割に変更、Active Record暗号化解説、sidekiq-unique-jobsほか（20210712前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -1018,16 +1082,6 @@
         <link href="https://www.publickey1.jp/blog/21/windowssql_server_on_windows_containerlinuxsql_sever.html"/>
         <updated>2021-07-07T16:05:30.000Z</updated>
         <summary type="html"><![CDATA[マイクロソフトは、ベータ版として公開していたWindowsコンテナ用のSQL Serverである「SQL Server on Windows container」の公開を中止すると発表しました。   これにより、Docker Hubの「mi...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウドネイティブの目的は運用と自動化の改善のため、コンテナやKubernetes採用の最大の課題は社内のスキルや人材不足、ローカルではMinikubeとDocker Kubernetesが人気。Canonicalによる調査結果]]></title>
-        <id>https://www.publickey1.jp/blog/21/kubernetesminikubedocker_kubernetescanonical.html</id>
-        <link href="https://www.publickey1.jp/blog/21/kubernetesminikubedocker_kubernetescanonical.html"/>
-        <updated>2021-07-07T15:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Canonicalは、1000人以上のIT技術者や専門家に対してクラウドネイティブをテーマにした調査結果「Kubernetes and cloud native operations report 2021」を発表しました。 対象者は116...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
@@ -1777,106 +1831,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/"/>
         <updated>2021-06-28T15:01:09.000Z</updated>
         <summary type="html"><![CDATA[サーバーレスアプリケーション構築用の GitHub Actions ワークフローのプロセスを単一の行で簡素化できるようになりました。AWS でサポートされる 新しい setup-sam GitHub アクションを使用すると、複数の GitHub Actions ランナーにわたる一貫性の維持、最新の AWS サーバーレスアプリケーションモデル CLI (AWS SAM CLI) ツールの使用、そのバージョンの選択を容易に行うことができます。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。GitHub Actions は、ソフトウェア開発ライフサイクル内でのタスクの自動化に役立つサービスです。GitHub Actions ランナーは、GitHub Actions ワークフローからジョブを実行するアプリケーションです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラスルームコースの最新版と新しいオンラインコース: AWS Technical Essentials]]></title>
-        <id>d288bac32cb971729694831f96481878351a5a88</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/updated-classroom-course-and-new-digital-course-aws-technical-essentials/"/>
-        <updated>2021-06-28T09:49:29.000Z</updated>
-        <summary type="html"><![CDATA[AWS トレーニングと認定では、1 日のクラスルームコースとオンラインコースの両方で受講できる、AWS Technical Essentials の内容を刷新いたしました。これらのコースは、IT ソリューションに関する情報に基づいた意思決定をビジネスの要件に応じて行う目的で、AWS クラウドの基本概念を理解しようとする、テクノロジーの学習者にとって最適な内容となっています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Translate で、XLIFF (XML Localization Interchange File Format) ドキュメントの使用が可能に]]></title>
-        <id>30e5ffaf0ce3489800a7454c7de19deef83d0eaa</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-translate-now-supports-xml-localization-interchange-file-format-xliff-documents/"/>
-        <updated>2021-06-28T09:48:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Translate – 71 の言語およびそのバリエーションに対し、高品質かつカスタマイズ可能な言語翻訳を手頃な価格で提供する、フルマネージド型ニューラル機械翻訳サービスである Amazon Translate で、XLIFF (XML Localization Interchange File Format) ドキュメントの翻訳を行えるようになりました。今後は、Amazon Translate により、お客様の XLIFF ドキュメントをバッチ処理に送信できるようになります。Amazon Translate では、ターゲットセグメントが空白となっているセクションのみを翻訳します。ターゲットセクションに何らかの文字列や事前翻訳の文字列が含まれる場合には、その修正や上書きが Amazon Translate により行われることはありません。料金は、実行された翻訳処理のみに対して発生します。これにより、お客様は機械翻訳を行う前に翻訳メモリーを利用してコンテンツを翻訳することができ、機械翻訳にかかるコストを低く抑えることが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle に R5 インスタンスクラスでの新しいメモリ構成が追加されました。]]></title>
-        <id>81c9fb5281bc0f653a63dff7dfe3601c654116b5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-rds-for-oracle-now-supports-additional-memory-configurations-of-the-r5-instance-class/"/>
-        <updated>2021-06-28T09:48:00.000Z</updated>
-        <summary type="html"><![CDATA[今後、Amazon Relational Database Service (RDS) for Oracle を起動する際には、R5 インスタンスクラスについての新たな設定をご利用になれます。既存の R5 インスタンスクラスにおいて、vCPU ごとの RAM が 4 倍となった今回の新たな構成は、以下の AWS リージョンでご利用が可能です。
- 
-北米
- 
- 
- 
-米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、米国西部 (オレゴン)、AWS GovCloud (米国東部)、AWS GovCloud (米国西部)、
- カナダ (中部)
- 
- 
-南米
- 
- 
- 
-南米 (サンパウロ)
- 
- 
-欧州、中東、アフリカ
- 
- 
- 
-欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 (バーレーン)、アフリカ (ケープタウン)
- 
- 
-アジアパシフィック
- 
- 
- 
-アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (大阪)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Client VPN から Linux 向けのデスクトップクライアントがリリースされました]]></title>
-        <id>78455ecb733902f5f1b2896fe9139ba80ee9748e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/aws-client-vpn-launches-desktop-client-for-linux/"/>
-        <updated>2021-06-28T09:47:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Client VPN で、Linux デスクトップのオペレーティングシステム (Ubuntu 64bit 18.04 と 20.04 LTS) から VPN 接続を開くための、SAML ベースのフェデレーション認証のサポートが開始されました。Linux デスクトップクライアントには、既存の Windows ならびに macOS デスクトップクライアントと同等の機能が備わています。AWS Client VPN のデスクトップクライアントの利用は無料で、こちらからダウンロードしていただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lookout for Metrics を使用して Amazon CloudWatch データに接続しながら異常の検出とその根本原因の診断を行う]]></title>
-        <id>849772751a857245831592796742f42af487d1cc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/"/>
-        <updated>2021-06-28T09:46:31.000Z</updated>
-        <summary type="html"><![CDATA[今回、Amazon Lookout for Metrics で可能になった、Amazon CloudWatch データでの異常検知機能について発表できることを、喜ばしく思っております。Amazon Lookout for Metrics では、機械学習 (ML) を活用して異常 (標準値からの逸脱) の自動検出ならびに診断を行います。この際、ML に関する事前の経験は一切必要ありません。Amazon CloudWatch では、アプリケーションをモニタリングし、システム全体におけるパフォーマンスの変化に対応してリソース使用率の最適化を行い、運用上の正常性を統括的に把握するための実用的なインサイトが提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Outposts がアジアパシフィック (大阪) リージョンでもご利用可能になりました。]]></title>
-        <id>43c5a41c24197f07b52ae3fde6c7e639e624f514</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/aws-outposts-is-now-supported-in-aws-asia-pacific-osaka-region/"/>
-        <updated>2021-06-28T09:45:46.000Z</updated>
-        <summary type="html"><![CDATA[今回、アジアパシフィック (大阪) リージョンでも AWS Outposts をご利用いただけるようになりました。AWS Outposts は、AWS のインフラストラクチャ、AWS のサービス、API、およびツールを、お客様側のデータセンター、コロケーションスペース、オンプレミス施設のほぼすべてに拡張するフルマネージドサービスです。Outposts は、オンプレミスのシステムに対する低レイテンシーのアクセスや、ローカルでのデータ処理、データレジデンシーが必要となるワークロードなどに最適で、また、ローカルシステムの相互依存性を維持しながらアプリケーションを移行する場合にも活用していただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【抄訳】AWS とセールスフォース・ドットコム、開発者エクスペリエンスを統合し、 新しいインテリジェントなアプリケーション立ち上げのためのパートナーシップを拡大]]></title>
-        <id>d6d6216e4d368db2879fcfe0ff74fb467cccd481</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/aws-salesforce-partnership-expansion/"/>
-        <updated>2021-06-28T02:13:10.000Z</updated>
-        <summary type="html"><![CDATA[世界をリードするクラウドプロバイダーと No.1 の CRM プラットフォームにより、両社のテクノロジーを使用する開発者がより簡単にカスタムアプリケーションを構築するとともに、AWS のサービスを Salesforce でネイティブに活用し、Salesforce と AWS 間でデータやワークフローを安全に接続することが可能に
- 
-AWS と Salesforce Customer 360 を組み合わせた構築済みのアプリケーションを活用することで、顧客はイノベーションを加速させ、AWS の音声、ビデオ、AIサービスを Salesforce のビジネスアプリケーションに容易に導入することが可能に]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
