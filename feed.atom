@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T00:48:06.801Z</updated>
+    <updated>2021-07-30T00:52:37.489Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年7月30日号　impishの開発・GNOME40のDaily Imageへの投下，Backportsリポジトリの変化 ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30"/>
+        <updated>2021-07-30T00:44:00.000Z</updated>
+        <summary type="html"><![CDATA[この2週ほどはGNOME 40本体とNautilus 40がDaily build ISOイメージに投入される一方，デスクトップ関連のアップデートが行われています。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVトラック普及で送電網は耐えられるか？]]></title>
+        <id>https://www.technologyreview.jp/?p=250347</id>
+        <link href="https://www.technologyreview.jp/s/250347/why-the-grid-is-ready-for-fleets-of-electric-trucks/"/>
+        <updated>2021-07-29T21:55:32.000Z</updated>
+        <summary type="html"><![CDATA[電動化の波はトラックにも及んでいる。短距離を走るトラックはすぐに電動化できそうだが、長距離を走る大型トラックを電動化するには何が必要になるのだろうか。]]></summary>
+        <author>
+            <name>Casey Crownhart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチン接種後でもマスク着用を推奨、米CDCが方針転換]]></title>
+        <id>https://www.technologyreview.jp/?p=252103</id>
+        <link href="https://www.technologyreview.jp/s/252103/what-you-need-to-know-about-the-cdcs-new-mask-guidelines/"/>
+        <updated>2021-07-29T08:51:04.000Z</updated>
+        <summary type="html"><![CDATA[米国疾病予防管理センター（CDC）は、新型コロナウイルス「デルタ株」の国内感染者の増加を受けて、感染者が急増している地域ではマスク着用を推奨すると発表した。米国の63％以上の地域がCDCにより「感染率が相当高い」とされている。]]></summary>
+        <author>
+            <name>Tatyana Woodall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby: 配列のモードとメジアンを算出する方法（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_07_29/110076</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_07_29/110076"/>
+        <updated>2021-07-29T08:30:14.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/07/ruby_calc_mode_median_average_array_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Calculate the mode &#38; median averages of a Ruby array &#45; Andy Croll 原文公開日: 2021/06/21 原著者: Andy Croll サイト: andycroll.com Ruby: 配列のモードとメジアンを算出する方法（翻訳） Rubyで配列の平均値を求める方法については以前も別記事『Calculate a mean average from a Ruby array』で取り上げました。しかし、普段あまり目にしませんがそれでも有用な平均が他にも2種類あります。 メジアン（ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_07_29/110076" data-wpel-link="internal" target="_self">Ruby: 配列のモードとメジアンを算出する方法（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faunaが開発者がデータベースサービスを採用するのを支援するFauna Labsを紹介]]></title>
         <id>https://www.infoq.com/jp/news/2021/07/fauna-database-labs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
@@ -309,16 +350,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI採用ツールの導入加速で、意図せぬ障害者排除の懸念]]></title>
-        <id>https://www.technologyreview.jp/?p=251612</id>
-        <link href="https://www.technologyreview.jp/s/251612/disability-rights-advocates-are-worried-about-discrimination-in-ai-hiring-tools/"/>
-        <updated>2021-07-25T21:49:31.000Z</updated>
-        <summary type="html"><![CDATA[AI技術を利用した採用ツールを使う企業が増えている。企業がAI採用ツールを使うことは、障害を持つ求職者に不利に働く恐れがあるが、雇用差別対策を担当する米国連邦機関は当面、積極的に動くつもりはなさそうだ。]]></summary>
-        <author>
-            <name>Hilke Schellmann</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Cloud、オンプレミスのAnthos上のWindows Server Containerサポートを発表、プレビュー開始]]></title>
         <id>https://www.publickey1.jp/blog/21/google_cloudanthoswindows_server_container.html</id>
         <link href="https://www.publickey1.jp/blog/21/google_cloudanthoswindows_server_container.html"/>
@@ -326,16 +357,6 @@
         <summary type="html"><![CDATA[Google Cloudは、オンプレミスのVMware上のAnthosで稼働しているWindows Server Containerをサポートし、プレビュー提供を開始すると発表しました。 Anthosによる統合管理がGoogle Cloud...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[気候変動で頻発する洪水、都市に望まれる水害対策とは]]></title>
-        <id>https://www.technologyreview.jp/?p=251496</id>
-        <link href="https://www.technologyreview.jp/s/251496/cities-are-scrambling-to-prevent-flooding/"/>
-        <updated>2021-07-22T21:55:32.000Z</updated>
-        <summary type="html"><![CDATA[各地の都市で大規模な洪水が頻発している。都市に張り巡らされた雨水管やポンプ、その他のインフラは、気候変動によって頻度や強度が増した暴風雨に対応できるようには設計されていないからだ。]]></summary>
-        <author>
-            <name>Casey Crownhart</name>
         </author>
     </entry>
     <entry>
@@ -777,17 +798,6 @@
         <summary type="html"><![CDATA[マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Windows 365 Cloud PC」を発表しました。 8...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webのバッチ処理とオンライン処理のポイントとシステムの応答性能を学ぶ#3（社内勉強会）]]></title>
-        <id>https://techracho.bpsinc.jp/morimorihoge/2021_07_14/62711</id>
-        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_07_14/62711"/>
-        <updated>2021-07-14T08:30:43.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/03/batch_online_processing3_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>#1 処理時間とレスポンス時間 #2 バッチ処理とオンライン処理 #3 バッチ処理を設計するときの注意点（本記事） #4 オンライン処理とUXの工夫 #5 Railsのジョブ管理システムと注意点 #6 バッチ処理ですぐに使えるノウハウ、まとめ バッチ処理を設計するうえでの注意点 バッチ処理を設計する際は、処理時間がどの程度になるのかを事前に計測・見積し、その結果を元に実行計画を立てるのが重要です。少なくとも、所要時間の見通しもなくバッチ処理を作成するのは危険です。 一般的にはデータ量が増えれば処理時間も増えるので、データ量が増えたときに処理時間がどのように延びるかは予め見積もっておきます。たとえば「データが1万件 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_07_14/62711" data-wpel-link="internal" target="_self">Webのバッチ処理とオンライン処理のポイントとシステムの応答性能を学ぶ#3（社内勉強会）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -1597,46 +1607,6 @@
         <summary type="html"><![CDATA[2021年7月第1週のAndroid関連のニュースをお届けします。]]></summary>
         <author>
             <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年6月30日　Apple M1チップをサポートしたLinux 5.13がリリース ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202106/30</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202106/30"/>
-        <updated>2021-06-30T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvaldsは6月27日（米国時間），「Linux 5.13」のリリースを発表した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第31回　共有ライブラリと依存関係［3］ ── 続・玩式草子 ―戯れせんとや生まれけん―]]></title>
-        <id>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0031</id>
-        <link href="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0031"/>
-        <updated>2021-06-30T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はディストリビューションにとって厄介な"library not found"のエラーを検出する方法と，それに関わるいくつかの話題を紹介しましょう。]]></summary>
-        <author>
-            <name>こじまみつひろ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Chat が Apple Business Chat をサポート開始 (一般提供開始)]]></title>
-        <id>9e7c75d007dd3bce5c537c46325bd22dc5ea1144</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/amazon-connect-chat-now-supports-apple-business-chat-generally-available/"/>
-        <updated>2021-06-29T20:02:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect と Apple Business Chat との統合により、顧客の皆様はお客様とのコミュニケーションを取るために、iPhone、iPad、または Mac の Apple Messages を使用できます。 お客様の顧客の皆様は、友人とチャットする際に、親しんだ便利な手段を活用できます。その一方で、対話的メッセージからスケジュールの設定などを実行するために、充実したカスタマーサービス機能を使用できます。 Apple Business Chat ではお客様の顧客が Apple デバイス上で登録済みの電話番号をクリックすると、いつでもチャット機能を簡単に利用できるようになります。Apple Business Chat との統合で、Amazon Connect の音声とチャットにすでに使用しているものと同じ構成、分析、ルーティング、およびエージェント UI を使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAF に 15 の新しいテキスト変換が追加]]></title>
-        <id>9a91ceeca2f8543e7c17b29ac10d9344f0b5ef4e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/"/>
-        <updated>2021-06-29T20:01:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS WAF が 15 の追加テキスト変換をサポートするようになったことで、通常と異なる形式を削除するためにウェブリクエストを再フォーマットしたり、ルールを評価する前に入力情報をサニタイズしたりできます。また、検出したものをバイパスするために、攻撃者によって難読化された可能性のある脅威を特定するために使用することもできます。SQLi 検出、文字列の照会、regex パターン設定など、WAF のルールステートメントとともに、これらの新しいテキスト変換を使用できます。最大で 10 件のテキスト変換を 1 つのルールステートメントにまとめることができます。一度設定ができると、AWS WAF はルールステートメントを評価する前に、この変換を適用します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
