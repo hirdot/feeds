@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-08T00:50:13.104Z</updated>
+    <updated>2021-08-09T00:51:05.288Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS SiteWise がメトリクス集約のカスタム時間間隔をサポート]]></title>
+        <id>b85749b79900aedbedf7e18785fd7e4ecba7f530</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-sitewise-supports-custom-time-intervals-metric-aggregations/"/>
+        <updated>2021-08-08T08:43:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise は、産業機器からのデータの大規模な収集、保存、整理、モニタリングを容易にし、より優れたデータ駆動型の意思決定を行うことができるようにするマネージド型サービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が自動テーブル最適化を拡張し、列の圧縮エンコーディングをサポート]]></title>
+        <id>56e7dc8b4075812e08d73c750045ad0ab000cfb0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-redshift-automatic-table-optimization-column-compression-encoding/"/>
+        <updated>2021-08-08T08:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services, Inc.(AWS) は、Amazon.com (NASDAQ: AMZN) のグループ会社です。このたび同社では、列の圧縮エンコーディングを変更できるように自動テーブル最適化を拡張しました。この新しい機能により、Amazon Redshift データベーステーブルで最適な圧縮エンコーディングを継続的に維持でき、高いパフォーマンスを実現し、ストレージ使用率を削減できるようになりました。オートメーションで列の圧縮を管理することで、列の圧縮エンコーディングが常に最適化され、お客様は可能な限り最高のパフォーマンスを確保できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amplify Geo for AWS Amplify のデベロッパープレビュー発表]]></title>
+        <id>85b81458b748b41162bdb532ce2f0551a3fa487e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/announcing-amplify-geo-developer-preview-aws-amplify/"/>
+        <updated>2021-08-08T08:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Amplify Geo を利用すると、デベロッパーはウェブやモバイルのフロントエンドアプリケーションに位置情報認識機能をすばやく追加できます。既存の Amplify 機能を拡張しながら、Amplify Geo は、事前に統合されたマップ UI である Amazon Location Service に (人気の高いオープンソースライブラリである MapLibre に基づいて) 構築した一連の抽象化クライアントライブラリを搭載し、必要なすべてのクラウドロケーションサービスをプロビジョニングできるように Amplify コマンドラインインターフェイス (CLI) ツールを更新します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine to Cloud Connectivity フレームワーク v3.0 のご紹介]]></title>
+        <id>78bd2fa504f52156ea45a24ec6b25c460a8d351b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/introducing-machine-cloud-connectivity-framework-v3-0/"/>
+        <updated>2021-08-08T05:37:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS ソリューションチームは最近、工場設備の AWS クラウドへの安全な接続を提供するソリューションである Machine to Cloud Connectivity フレームワークを更新しました。このソリューションは、機器のテレメトリデータを AWS アカウントに送信するためのフレームワークであり、基盤となるインフラストラクチャの運用を管理する代わりに、AWS のサービスを利用して機器データの分析を実行できます。このソリューションでは、OPC Data Access (OPC DA) および OPC Unified Access (OPC UA) プロトコルを使用した堅牢なデータ取り込みが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHO、新型コロナワクチン追加接種の凍結を呼びかけ]]></title>
         <id>https://www.technologyreview.jp/?p=252947</id>
@@ -1550,26 +1590,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Elemental MediaPackage が米国東部 (オハイオ) リージョンで利用可能に]]></title>
-        <id>b54804f830960b7ccbe291af7563aba9200fda09</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/aws-elemental-mediapackage-available-east-ohio-region/"/>
-        <updated>2021-07-22T14:38:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Elemental MediaPackage は、動画配信およびジャストインタイムパッケージングのサービスであり、動画配信業者が、ライブストリーミングまたはオンデマンドのコンテンツの安全かつ確実な配信を大規模に行えるようにします。MediaPackage を使用すると、単一のビデオ入力から、インターネット接続対応の TV、携帯電話、コンピュータ、タブレット、ゲームコンソールで再生可能な形式のビデオストリームを作成できます。多くの DVR で見られるような一般的な機能 (初めから再生、一時停止、巻き戻しなど) を簡単に実装できます。また、このサービスは、デジタル著作権管理 (DRM) 技術を使用してコンテンツを保護することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 がスケジュールされたイベントのカスタム時間ウィンドウをサポート]]></title>
-        <id>18285b28c48748cb34fc71fe0cc478a25141323d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/amazon-ec2-supports-custom-time-windows-scheduled-events/"/>
-        <updated>2021-07-22T14:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 が、EC2 インスタンスの再起動、停止、または終了を行うスケジュール済みイベントで毎週発生する時間ウィンドウを柔軟に指定できるようになりました。AWS は、基盤となるホストの回復不可能な障害を検出した場合、または基盤となるホストのメンテナンスなどのタスクを実行する必要がある場合、EC2 インスタンスの頻度の低いイベント (再起動、停止、終了など) をスケジュールします。イベントウィンドウを指定できる柔軟性により、お客様は、EC2 インスタンスのスケジュールされたイベントがオフピーク時に発生するようセットアップすることができます。また、これらの時間ウィンドウを組織内のメンテナンススケジュールに合わせることもできます。ソフトウェアベンダーは、この機能を活用して、スケジュールされたイベントの時間ウィンドウを顧客の希望に基づいてカスタマイズできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Rekognition でサポートされるすべてのラベルが表示可能に]]></title>
         <id>3ddc244a8d793313f999c55454624cb0f21da879</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/aws-customers-view-all-labels-supported-amazon-rekognition/"/>
@@ -1595,26 +1615,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/"/>
         <updated>2021-07-22T14:34:47.000Z</updated>
         <summary type="html"><![CDATA[Amazon Lex がインド英語をサポートするようになりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。インド英語を使用することで、インドの方言を正確に理解する堅牢でローカライズされた会話エクスペリエンスを実現することができるようになります。また、自然な発音の Amazon Polly インド音声でユーザーに対応し、完全にローカライズされた会話エクスペリエンスを提供することも可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT SiteWise がコントロールプレーン API 向けの AWS PrivateLink のサポートを開始]]></title>
-        <id>336c6c5a17688e5b352aaaedb84df5a5da27dd5a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/"/>
-        <updated>2021-07-22T14:33:49.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT SiteWise が、AWS IoT SiteWise リソース (ゲートウェイ、アセットモデル、アセットなど) を管理するためのコントロールプレーン API を対象とした AWS PrivateLink のサポートを開始しました。パブリックインターネットを越えたり、パブリック IP アドレスを使用したりすることなく、AWS IoT SiteWise リソースを安全に作成、更新、または削除できるようになりました。詳細については、デベロッパーガイドに含まれる更新版の「AWS IoT SiteWise とインターフェイス VPC エンドポイント」をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国国立医学図書館、Digital Earth Africa、Amazon などから提供されている新しいデータベースがRegistry of Open Data で使用できます。]]></title>
-        <id>57099728a6757cd358a79999851a6f847b7df8c7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/new-public-datasets-available/"/>
-        <updated>2021-07-22T14:32:51.000Z</updated>
-        <summary type="html"><![CDATA[米国国立医学図書館、Digital Earth Africa、Amazon などから提供されている以下のカテゴリの 44 の新規または更新済みデータベースが Registry of Open Data で利用できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
