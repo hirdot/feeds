@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-15T00:49:24.807Z</updated>
+    <updated>2021-08-16T00:49:04.804Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LINEがオープンソースで「LINE FIDO2 Server」公開。パスワード不要でログインできる「FIDO2/WebAuthn」を実現]]></title>
+        <id>https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html</id>
+        <link href="https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html"/>
+        <updated>2021-08-15T16:34:27.000Z</updated>
+        <summary type="html"><![CDATA[LINEは、スマートフォンやPCの指紋認証や顔認証などを用いることでパスワード不要でログイン処理を可能にする標準技術「FIDO2」や「WebAuhn」に対応したサーバ「LINE FIDO2 Server」をオープンソースで公開しました。 こ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQLベースの分散インメモリDB「HeatWave」の最適化と運用自動化を支援する「MySQL Autopilot」、オラクルが発表]]></title>
+        <id>https://www.publickey1.jp/blog/21/mysqldbheatwavemysql_autopilot.html</id>
+        <link href="https://www.publickey1.jp/blog/21/mysqldbheatwavemysql_autopilot.html"/>
+        <updated>2021-08-15T15:05:04.000Z</updated>
+        <summary type="html"><![CDATA[オラクルは、MySQLのデータベースエンジンに分散インメモリデータベース機能を搭載し、高速なデータ分析が可能な「HeatWave」向けの新機能として、機械学習による性能の最適化などを提供する「MySQL Autopilot」を発表しました。...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主張：テクノロジーが主導する未来の危険な魅力]]></title>
         <id>https://www.technologyreview.jp/?p=252811</id>
@@ -1791,16 +1811,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook、次期ビルドシステムの開発でRust言語の採用を明らかに]]></title>
-        <id>https://www.publickey1.jp/blog/21/facebookrust.html</id>
-        <link href="https://www.publickey1.jp/blog/21/facebookrust.html"/>
-        <updated>2021-07-27T15:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Facebookは同社のソフトウェア開発において、同社が主導して開発しているオープンソースのビルドシステム「Buck」を利用しています。 Backは高速なビルドが可能な点を大きな特徴としており、もともとAndroidアプリケーション向けのビ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LINEのインフラ基盤「Verda」のビジョンとSREが果たすべき役割とは ── LINE テクノロジー＆エンジニアリング大全]]></title>
         <id>https://gihyo.jp/dev/serial/01/line2021/0008</id>
         <link href="https://gihyo.jp/dev/serial/01/line2021/0008"/>
@@ -1808,16 +1818,6 @@
         <summary type="html"><![CDATA[2019年にLINEで発足したSREに取り組む専門チーム。そのSREチームを率いるマネージャーである  萬治渉氏に，SREチームが発足した背景や現状の取り組みなどについてお話を伺いました。]]></summary>
         <author>
             <name>川添貴生，馮富久</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastly、JavaScriptエンジンをWebAssemblyで実装。CDNエッジのサーバレス環境「Compute@Edge」でJavaScriptサポート発表（訂正済み）]]></title>
-        <id>https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html</id>
-        <link href="https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html"/>
-        <updated>2021-07-26T15:44:43.000Z</updated>
-        <summary type="html"><![CDATA[（お詫びとお知らせ：本記事はFastlyの発表と同社へのメールでの取材に基づいて執筆いたしましたが、記事公開後に同社より、回答を間違えたとの申し出がありました。そのため改めて同社から提供された情報を基に、タイトルと本文を訂正しました。訂正前...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>
