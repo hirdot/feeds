@@ -56,7 +56,7 @@
           "description": "GitHubは、セクション1201に基いて要求されるDMCA削除要請に対して、スタンフォード・ロー・スクール(Stanford Law School)からの法的支援を開発者に無償提供するプログラムをローンチした。\r\r\nInfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer氏と、スタンフォード・ロー・スクールJuelsgaard ClinicディレクタのPhil Malone氏に話を聞くことができた。\n By Sergio De Simone  Translated by h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/08/GitHub-developer-legal-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-18T05:29:00.000Z",
-          "wordCount": 1639,
+          "wordCount": 1640,
           "title": "GitHub、DMCAに対して開発者をサポートする独立的な法的支援機関を設立"
         },
         {
@@ -333,12 +333,30 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/21/windows_server_2022smb_over_quicvpn.html",
+          "author": null,
+          "description": "マイクロソフトからの発表はまだありませんが、Windows Server 2022正式版のリリースが事実上開始されました。 ライフサイクルのページに製品が登録され、2021年8月18日がサポート開始日となっているため、すでにサポートがスター...",
+          "link": "https://www.publickey1.jp/blog/21/windows_server_2022smb_over_quicvpn.html",
+          "publishedOn": "2021-08-22T18:42:13.000Z",
+          "wordCount": 209,
+          "title": "Windows Server 2022正式版がひっそりとリリース。セキュアコアサーバ搭載、SMB over QUICでVPN不要のファイルアクセスなど"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/awsdbamazon_memorydb_for_redis.html",
+          "author": null,
+          "description": "AWSは、プライマリデータベースとしての使用に耐える耐久性を備えたRedis互換のインメモリデータベース「Amazon MemoryDB for Redis」を発表しました。 Say later to latency. With Amazo...",
+          "link": "https://www.publickey1.jp/blog/21/awsdbamazon_memorydb_for_redis.html",
+          "publishedOn": "2021-08-22T15:35:34.000Z",
+          "wordCount": 265,
+          "title": "AWS、プライマリDBとして使える耐久性を備えたインメモリデータベース「Amazon MemoryDB for Redis」発表"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/kotlinandroidwebdesktopuicompose_multiplatform.html",
           "author": null,
           "description": "プログラミング言語のKotlinを開発するJetBrainsは、KotlinでAndroidアプリ、Webアプリ、Desktopアプリを統一的に記述できるフレームワークとなる「Compose Multiplatform」がアルファ版に到達し...",
           "link": "https://www.publickey1.jp/blog/21/kotlinandroidwebdesktopuicompose_multiplatform.html",
           "publishedOn": "2021-08-18T15:59:31.000Z",
-          "wordCount": 207,
+          "wordCount": 216,
           "title": "KotlinでAndroid/Web/DesktopアプリのUI開発を統一するフレームワーク「Compose Multiplatform」がアルファ版に"
         },
         {
@@ -347,7 +365,7 @@
           "description": "AWS専業のクラウドSIerとして知られるサーバーワークスが、韓国のBespin Globalとの合弁によるGoogle Cloud専業のSIer企業「G-gen」を設立し、Google Cloud事業に参入することを発表しました。 プレス...",
           "link": "https://www.publickey1.jp/blog/21/awssiergoogle_cloudgoogle_cloudsierg-gen.html",
           "publishedOn": "2021-08-17T15:01:40.000Z",
-          "wordCount": 165,
+          "wordCount": 170,
           "title": "AWS専業SIerのサーバーワークスがGoogle Cloud事業への参入を発表。Google Cloud専業SIerの「G-gen」を設立"
         },
         {
@@ -356,7 +374,7 @@
           "description": "Publickeyでもダークモードへの対応を始めました。 最近では多くのWebアプリケーションやモバイルアプリケーションがOSやWebブラウザの「ダークモード」設定に対応して、黒を基調としたダークモードへの対応を開始しています。 Publi...",
           "link": "https://www.publickey1.jp/blog/21/post_282.html",
           "publishedOn": "2021-08-17T15:01:14.000Z",
-          "wordCount": 131,
+          "wordCount": 136,
           "title": "お知らせ：ダークモードへの対応を開始しました"
         },
         {
@@ -365,7 +383,7 @@
           "description": "eBPFとは、Linuxカーネルのコードを変更することなく、カーネルの持つさまざまな機能をフックすることでカーネルに対してある種の機能拡張を実現する技術です。 このeBPFの開発促進や発展を目指す「eBPF Foundation」が、Lin...",
           "link": "https://www.publickey1.jp/blog/21/googlefacebookosebpfebpf_foundation.html",
           "publishedOn": "2021-08-17T14:57:20.000Z",
-          "wordCount": 216,
+          "wordCount": 221,
           "title": "Google、Facebook、マイクロソフトらが、OSカーネルをプログラマブルに拡張できる「eBPF」の開発と発展を目指す「eBPF Foundation」を結成"
         },
         {
@@ -374,7 +392,7 @@
           "description": "めずらしく個人的な話題です。 先日、新しく登場したThinkPad X1 Extreme Gen 4が気に入ったので、受注開始のニュースを知るとすぐに、レノボのオンラインストアで注文しました。  ITmediaに掲載された、ThinkPad...",
           "link": "https://www.publickey1.jp/blog/21/thinkpad1.html",
           "publishedOn": "2021-08-16T18:50:06.000Z",
-          "wordCount": 143,
+          "wordCount": 148,
           "title": "半導体不足の影響か、発注したばかりのThinkPadの納期は来年1月に……"
         },
         {
@@ -383,7 +401,7 @@
           "description": "LINEは、スマートフォンやPCの指紋認証や顔認証などを用いることでパスワード不要でログイン処理を可能にする標準技術「FIDO2」や「WebAuthn」に対応したサーバ「LINE FIDO2 Server」をオープンソースで公開しました。 ...",
           "link": "https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html",
           "publishedOn": "2021-08-15T16:34:27.000Z",
-          "wordCount": 172,
+          "wordCount": 177,
           "title": "LINEがオープンソースで「LINE FIDO2 Server」公開。パスワード不要でログインできる「FIDO2/WebAuthn」を実現"
         },
         {
@@ -392,7 +410,7 @@
           "description": "オラクルは、MySQLのデータベースエンジンに分散インメモリデータベース機能を搭載し、高速なデータ分析が可能な「HeatWave」向けの新機能として、機械学習による性能の最適化などを提供する「MySQL Autopilot」を発表しました。...",
           "link": "https://www.publickey1.jp/blog/21/mysqldbheatwavemysql_autopilot.html",
           "publishedOn": "2021-08-15T15:05:04.000Z",
-          "wordCount": 188,
+          "wordCount": 193,
           "title": "MySQLベースの分散インメモリDB「HeatWave」の最適化と運用自動化を支援する「MySQL Autopilot」、オラクルが発表"
         },
         {
@@ -401,7 +419,7 @@
           "description": "ネット上にはたくさんのIT系のコンテンツがあふれています。そのほとんどは文章として書かれていますが、一部にはマンガの形で面白く分かりやすくしたものもあります。 ここでは、マンガ化されたITコンテンツを集めてみました。毎年夏休みの恒例企画、I...",
           "link": "https://www.publickey1.jp/blog/21/it_2021_1.html",
           "publishedOn": "2021-08-10T17:08:35.000Z",
-          "wordCount": 468,
+          "wordCount": 473,
           "title": "無料で読めるITまんが 2021年版"
         },
         {
@@ -410,7 +428,7 @@
           "description": "オープンソースの検索エンジンElasticsearchは、ログ解析による運用監視やセキュリティインシデントの発見、データ分析などに使われている人気のソフトウェアです。 その開発元であるElasticは、Elasticsearchのクライアン...",
           "link": "https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html",
           "publishedOn": "2021-08-09T15:53:14.000Z",
-          "wordCount": 238,
+          "wordCount": 243,
           "title": "ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表"
         },
         {
@@ -419,7 +437,7 @@
           "description": "ITエンジニアやクリエイターを対象に、自分のリモートワーク作業をしているモニターやキーボードなど机の上の様子を写真にとって投稿し、共有することで快適なリモートワーク環境を構築していこうという「ITエンジニア・クリエイター 私のリモートワーク...",
           "link": "https://www.publickey1.jp/blog/21/post_281.html",
           "publishedOn": "2021-08-09T15:00:40.000Z",
-          "wordCount": 145,
+          "wordCount": 150,
           "title": "みんなのリモートワーク環境はどんな感じ？ 「リモートワーク環境写真展」がオンラインで開催中。作業環境の写真を投稿、共有"
         },
         {
@@ -428,7 +446,7 @@
           "description": "東京オリンピックもこの土日で終幕を迎えます。正直なところ自宅で仕事をしているとどうしてもオリンピックが気になって、なかなか集中して仕事ができませんでしたね。ついテレビを見てしまいます。 しかしそんな日々も、もう少しで終わるんだなと思う一方、...",
           "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcititweb20217.html",
           "publishedOn": "2021-08-05T15:06:04.000Z",
-          "wordCount": 179,
+          "wordCount": 184,
           "title": "「Windows 365 Cloud PC」正式発表／IT系上場企業の平均年収を業種別にみてみた／フリーのITエンジニアやWebデザイナーも労災保険へ加入可能に。2021年7月の人気記事"
         },
         {
@@ -437,7 +455,7 @@
           "description": "マイクロソフトは、Eclipse Foundationの最上位のメンバーとなる「Strategic Member」になったことを表明しました。 Eclipse Foundationには下位の「Committer Members」から「Ass...",
           "link": "https://www.publickey1.jp/blog/21/eclipse_foundationstrategic_memberjava.html",
           "publishedOn": "2021-08-04T15:25:31.000Z",
-          "wordCount": 199,
+          "wordCount": 204,
           "title": "マイクロソフト、Eclipse Foundationの最上位メンバー「Strategic Member」に。Javaへの取り組みを推進"
         },
         {
@@ -446,26 +464,8 @@
           "description": "Salesforce.comは、RPAベンダのServicetraceを買収し、2018年に買収したMulesoftの一部とすることを発表しました。 Servicetrace signs a definitive agreement to ...",
           "link": "https://www.publickey1.jp/blog/21/salesforcecomrparpaservicetracemulesoft.html",
           "publishedOn": "2021-08-04T15:24:14.000Z",
-          "wordCount": 158,
+          "wordCount": 163,
           "title": "Salesforce.comもRPAに参入へ、RPAベンダのServicetraceを買収で。MuleSoftと統合"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/jetpack_compose10.html",
-          "author": null,
-          "description": "Googleは、Androidのネイティブアプリケーション向けUIツールキット「Jetpack Compose」がバージョン1.0に到達したことを発表しました。 Version 1.0 of #JetpackCompose is here!...",
-          "link": "https://www.publickey1.jp/blog/21/jetpack_compose10.html",
-          "publishedOn": "2021-08-03T15:11:56.000Z",
-          "wordCount": 223,
-          "title": "マテリアルデザインを簡潔に記述できる「Jetpack Compose」がバージョン1.0に到達、本番環境で安心して利用可能に"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html",
-          "author": null,
-          "description": "マイクロソフトは、デスクトップ仮想化の技術を用いてWindows環境を配信する新サービス「Windows 365 Cloud PC」のサービスを開始。国内価格も明らかになりました。 主な価格は、2vCPU/4GBメモリ/128GBストレージ...",
-          "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html",
-          "publishedOn": "2021-08-02T18:18:13.000Z",
-          "wordCount": 184,
-          "title": "「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など"
         }
       ]
     },
@@ -577,7 +577,7 @@
           "description": "The Document Foundationは8月19日，クロスプラットフォームのオフィススイート「LibreOffice 7.2 Community」の正式リリースを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/20",
           "publishedOn": "2021-08-20T06:42:00.000Z",
-          "wordCount": 406,
+          "wordCount": 404,
           "title": "2021年8月20日　LibreOffice 7.2 Communityリリース，Apple Siliconをネイティブサポート ── Linux Daily Topics"
         },
         {
@@ -586,7 +586,7 @@
           "description": "システムコンテナの管理ソフトウェアであるLXDは3.19から仮想マシンインスタンスもサポートするようになりました。  今回はLXDを使って「Windowsインスタンス」を起動してみましょう。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0679",
           "publishedOn": "2021-08-18T00:50:00.000Z",
-          "wordCount": 566,
+          "wordCount": 563,
           "title": "第679回　LXD上にWindowsをインストールする ── Ubuntu Weekly Recipe"
         },
         {
@@ -595,7 +595,7 @@
           "description": "Debianプロジェクトは8月14日，「Debian 11 \"bullseye\"」の正式リリースを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/16",
           "publishedOn": "2021-08-16T05:16:00.000Z",
-          "wordCount": 413,
+          "wordCount": 404,
           "title": "2021年8月16日　\"The Universal Operating System\"をめざして ―Debian 11 \"bullseye\"がリリース ── Linux Daily Topics"
         },
         {
@@ -604,7 +604,7 @@
           "description": "2021年4月にリリースされた「Linux 5.12」で実装された「idmapped mounts」は，ファイルやディレクトリの所有者を変更することなく，異なるUID/GIDによるマウントを可能にする機能。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/42946",
           "publishedOn": "2021-08-13T07:13:00.000Z",
-          "wordCount": 375,
+          "wordCount": 374,
           "title": "2021年8月13日　Btrfs，Linux 5.15でidmapped mountsをサポートへ ── Linux Daily Topics"
         },
         {
@@ -613,7 +613,7 @@
           "description": "先週お知らせした20.04.3は，8月26日に延期されることになりました。また，impishの開発ではtest rebuildが開始されました。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/13",
           "publishedOn": "2021-08-13T01:00:00.000Z",
-          "wordCount": 412,
+          "wordCount": 407,
           "title": "2021年8月13日号　20.04.3の延期，impishの開発・Test Rebuild ── Ubuntu Weekly Topics"
         },
         {
@@ -622,7 +622,7 @@
           "description": "elementalyは8月10日，「elementaly OS 6 \"Odin\"」のリリースを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/12",
           "publishedOn": "2021-08-12T06:54:00.000Z",
-          "wordCount": 394,
+          "wordCount": 389,
           "title": "2021年8月12日　elementaly OS 6.0 \"Odin\"がリリース，約2年ぶりのメジャーアップデート ── Linux Daily Topics"
         },
         {
@@ -631,7 +631,7 @@
           "description": "distrobuilderは「LXD/LXC用イメージを構築するツール」です。今回はこのツールを使って，独自のイメージをビルドする方法を紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0678",
           "publishedOn": "2021-08-11T00:49:00.000Z",
-          "wordCount": 686,
+          "wordCount": 673,
           "title": "第678回　distrobuilderでLXD/LXC用のカスタムイメージを作成する ── Ubuntu Weekly Recipe"
         },
         {
@@ -640,7 +640,7 @@
           "description": "The Linux Foundationは8月6日，9月27日から開催する「Open Source Summit」をはじめ，一部の主催イベントを対面で再開するにあたってのプロトコルを公開した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/10",
           "publishedOn": "2021-08-10T06:16:00.000Z",
-          "wordCount": 455,
+          "wordCount": 452,
           "title": "2021年8月10日　すべての参加者の安全を最優先に ―The Linux Foundation，リアルイベント再開のプロトコルを公開 ── Linux Daily Topics"
         },
         {
@@ -649,7 +649,7 @@
           "description": "focal（20.04 LTS）が3回目のポイントリリースの時期に近づいているため，準備が進められています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/06",
           "publishedOn": "2021-08-06T01:00:00.000Z",
-          "wordCount": 425,
+          "wordCount": 431,
           "title": "2021年8月6日号　Ubuntu 20.04.3の準備，LaunchpadのPython3マイグレーション ── Ubuntu Weekly Topics"
         },
         {
@@ -658,7 +658,7 @@
           "description": "後編となる今回は，全60セッションの中から編集部の推しセッションご紹介，そして8/27（金）開催のライブイベントの見どころをお届けします。",
           "link": "https://gihyo.jp/admin/serial/01/codt2021/0002",
           "publishedOn": "2021-08-06T00:15:00.000Z",
-          "wordCount": 430,
+          "wordCount": 432,
           "title": "#02　編集部お勧めセッションはこれだ！ ―「Cloud Operator Days Tokyo 2021」を楽しもう ── \"運用者に光を\"「Cloud Operator Days Tokyo 2021」の歩き方"
         },
         {
@@ -667,7 +667,7 @@
           "description": "今回はaptパッケージのリポジトリ情報を指定するsources.listの内容とそのカスタマイズ方法について紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0677",
           "publishedOn": "2021-08-04T00:39:00.000Z",
-          "wordCount": 411,
+          "wordCount": 410,
           "title": "第677回　aptで使うsources.listのオプションいろいろ ── Ubuntu Weekly Recipe"
         },
         {
@@ -676,7 +676,7 @@
           "description": "openSUSEプロジェクトは7月26日，2010年から運営してきたコミュニティポータルをシャットダウンすることを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/03",
           "publishedOn": "2021-08-03T04:01:00.000Z",
-          "wordCount": 366,
+          "wordCount": 356,
           "title": "2021年8月3日　誰もメンテしてくれなくなったから ―openSUSEプロジェクト，コミュニティポータルをシャットダウン ── Linux Daily Topics"
         },
         {
@@ -685,7 +685,7 @@
           "description": "この2週ほどはGNOME 40本体とNautilus 40がDaily build ISOイメージに投入される一方，デスクトップ関連のアップデートが行われています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30",
           "publishedOn": "2021-07-30T00:44:00.000Z",
-          "wordCount": 771,
+          "wordCount": 764,
           "title": "2021年7月30日号　impishの開発・GNOME40のDaily Imageへの投下，Backportsリポジトリの変化 ── Ubuntu Weekly Topics"
         },
         {
@@ -694,7 +694,7 @@
           "description": "第675回ではapt-keyコマンドが廃止される理由を説明しました。それ以外にもaptコマンドには常に様々な変更が加えられています。今回はそれらをいくつかピックアップして紹介しましょう。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0676",
           "publishedOn": "2021-07-28T00:43:00.000Z",
-          "wordCount": 489,
+          "wordCount": 488,
           "title": "第676回　aptコマンドの最新機能あれこれ ── Ubuntu Weekly Recipe"
         }
       ]
@@ -710,7 +710,7 @@
           "description": "テックコミュニティの運営側で，その技術分野を常に追いかけているエンジニアの方々にお話をうかがうインタビュー企画。最終回のゲストとしてお迎えしたのは，データサイエンティストとして活躍する大城氏と松村氏です。",
           "link": "https://gihyo.jp/dev/serial/01/tech_community_site/0006",
           "publishedOn": "2021-08-19T00:15:40.000Z",
-          "wordCount": 369,
+          "wordCount": 362,
           "title": "最終回　AIのこれまでとこれから ── 教えて！ 最新技術―テックコミュニティの現場から"
         },
         {
@@ -719,7 +719,7 @@
           "description": "今回のテーマは「他言語のライブラリをPerlに移植する」。移植方針の目処が立ったら，いよいよ実装です。P",
           "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006802",
           "publishedOn": "2021-08-18T00:15:00.000Z",
-          "wordCount": 494,
+          "wordCount": 491,
           "title": "第68回　他言語のライブラリをPerlに移植する（2） ── Perl Hackers Hub"
         },
         {
@@ -728,7 +728,7 @@
           "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはうたがわききさんで，テーマは「他言語のライブラリをPerlに移植する」です。",
           "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006801",
           "publishedOn": "2021-08-17T00:15:00.000Z",
-          "wordCount": 481,
+          "wordCount": 474,
           "title": "第68回　他言語のライブラリをPerlに移植する（1） ── Perl Hackers Hub"
         },
         {
@@ -737,7 +737,7 @@
           "description": "今回もMySQL 8.0で追加されたパスワード周りの機能として，バージョン8.0.13で追加されたパスワード検証必須ポリシーと，バージョン8.0.19で追加された，ログイン失敗時のアカウントの一時ロックについて説明します。",
           "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0152",
           "publishedOn": "2021-08-03T00:15:00.000Z",
-          "wordCount": 653,
+          "wordCount": 649,
           "title": "第152回　パスワード検証必須ポリシーとログイン失敗時のアカウントの一時ロック ── MySQL道普請便り"
         },
         {
@@ -746,7 +746,7 @@
           "description": "この連載はOSSコンソーシアム データベース部会のメンバーがお伝えしています。2015年9月の第1回から始まり，今回で満6歳の小学生になりました。これからもよろしくお願いいたします。",
           "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0072",
           "publishedOn": "2021-08-02T00:57:00.000Z",
-          "wordCount": 535,
+          "wordCount": 528,
           "title": "第72回　6年間のOSS DBランキング，MySQL 8.0.26リリース，Postgres Vision Tokyo 2021開催 ── OSSデータベース取り取り時報"
         },
         {
@@ -755,7 +755,7 @@
           "description": "2019年にLINEで発足したSREに取り組む専門チーム。そのSREチームを率いるマネージャーである  萬治渉氏に，SREチームが発足した背景や現状の取り組みなどについてお話を伺いました。",
           "link": "https://gihyo.jp/dev/serial/01/line2021/0008",
           "publishedOn": "2021-07-26T23:00:00.000Z",
-          "wordCount": 391,
+          "wordCount": 390,
           "title": "LINEのインフラ基盤「Verda」のビジョンとSREが果たすべき役割とは ── LINE テクノロジー＆エンジニアリング大全"
         }
       ]
@@ -766,12 +766,21 @@
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
         {
+          "id": "https://gihyo.jp/lifestyle/serial/01/comic_management/0002",
+          "author": "是澤太志",
+          "description": "この作品は高校生の部活動でのバスケを題材としているとあって，どのチームも大人の監督がいて学生の選手たちがいるという構図となっています。",
+          "link": "https://gihyo.jp/lifestyle/serial/01/comic_management/0002",
+          "publishedOn": "2021-08-23T00:15:00.000Z",
+          "wordCount": 370,
+          "title": "第2回　『SLAM DUNK』の名監督に学ぶ育成スタンス ── 漫画から学ぶマネジメント"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0820",
           "author": null,
           "description": "",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0820",
           "publishedOn": "2021-08-20T06:00:00.000Z",
-          "wordCount": 344,
+          "wordCount": 340,
           "title": "2021年8月20日　ねこ影 ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -780,7 +789,7 @@
           "description": "モバイルOSの歴史に関してのレビュー，第3回です。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202108/19",
           "publishedOn": "2021-08-19T00:15:20.000Z",
-          "wordCount": 392,
+          "wordCount": 387,
           "title": "2021年8月第3週　3番目のポストは元から存在しない？ モバイルOS温故知新（3） ── Android Weekly Topics"
         },
         {
@@ -789,7 +798,7 @@
           "description": "暑いですね。熱帯夜に限って，同居ねこが腹に乗っかってくるのをつい喜んでしまうねこ部は，どMなのでしょうか？",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0812",
           "publishedOn": "2021-08-12T06:00:00.000Z",
-          "wordCount": 347,
+          "wordCount": 341,
           "title": "2021年8月12日　ねこが落ちている季節・・・ ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -798,7 +807,7 @@
           "description": "前回に続き，モバイルOSの歴史，最新動向と展望について考察します。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202108/12",
           "publishedOn": "2021-08-12T00:15:20.000Z",
-          "wordCount": 384,
+          "wordCount": 377,
           "title": "2021年8月第2週　3番目のポストは元から存在しない？ モバイルOS温故知新（2） ── Android Weekly Topics"
         },
         {
@@ -807,7 +816,7 @@
           "description": "ゲームプランナーってそもそもどんな仕事なのか？ゲームプランナーになるための就活ってどんななの？ 「ゲームプランナー」を目指している人に向けて，最新のゲーム業界の就職事情についてお話をしたいと思います。",
           "link": "https://gihyo.jp/lifestyle/column/01/workstyle/2021/07/2701",
           "publishedOn": "2021-08-11T00:15:00.000Z",
-          "wordCount": 348,
+          "wordCount": 342,
           "title": "ゲームプランナーを目指すすべての人に伝えたい就職事情 ── 一般記事"
         },
         {
@@ -816,7 +825,7 @@
           "description": "2021年8月第1週のAndroid関連のニュースをお届けします。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202108/05",
           "publishedOn": "2021-08-05T00:15:00.000Z",
-          "wordCount": 398,
+          "wordCount": 394,
           "title": "2021年8月第1週　3番目のポストは元から存在しない？ モバイルOS温故知新 ── Android Weekly Topics"
         },
         {
@@ -825,7 +834,7 @@
           "description": "夏になると見たくなる，横溝正史シリーズ。ねこ部は，「病院坂の首くくりの家」が好きです。",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202107/0802",
           "publishedOn": "2021-08-02T06:00:00.000Z",
-          "wordCount": 343,
+          "wordCount": 337,
           "title": "2021年8月2日　す，すけきよ！？ ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -834,7 +843,7 @@
           "description": "2021年7月第5週のAndroid関連のニュースをお届けします。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202107/29",
           "publishedOn": "2021-07-29T00:15:00.000Z",
-          "wordCount": 441,
+          "wordCount": 436,
           "title": "2021年7月第5週　HUAWEIから新製品が多数登場 ── Android Weekly Topics"
         }
       ]
@@ -862,7 +871,7 @@
           "description": "Repro株式会社について 弊社は、カスタマーエンゲージメントプラットフォーム「Repro（リプロ）」を展開しています。Reproは、顧客データを活用し、 メールやプッシュ通知、Webやアプリ内ポップアップなどのチャネル […]",
           "link": "https://octopass.jp/4109/",
           "publishedOn": "2021-08-04T01:46:24.000Z",
-          "wordCount": 230,
+          "wordCount": 244,
           "title": "世界を代表するテックカンパニーを目指す！世界66ヶ国で導入されるシステムの3代目CTOに迫る"
         }
       ]
