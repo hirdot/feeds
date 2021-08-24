@@ -1,17 +1,114 @@
 {
   "sources": [
     {
+      "title": "海外SEO情報ブログ",
+      "feedUrl": "https://www.suzukikenichi.com/blog/feed/",
+      "siteUrl": "https://www.suzukikenichi.com/blog",
+      "articles": [
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=11566",
+          "author": "Kenichi Suzuki",
+          "description": "タイトル書き換えを拒否する手段を Google が提供する可能性はあるのだろうか？ Danny Sullivan 氏のコメントを紹介する。",
+          "link": "https://www.suzukikenichi.com/blog/will-google-provide-ways-to-opt-out-of-title-rewriting/",
+          "publishedOn": "2021-08-23T21:45:34.000Z",
+          "wordCount": 1046,
+          "title": "タイトル書き換え拒否の手段をGoogleが提供する可能性はあるのか？"
+        },
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=11563",
+          "author": "Kenichi Suzuki",
+          "description": "ファーストビューに掲載されている画像を Lazy-load すると コア ウェブ バイタル の 1 指標である LCP を低下させる恐れがある。そのため WordPress は、ファーストビューの画像にネイティブ Lazy-load を適用しないように改善する予定だ",
+          "link": "https://www.suzukikenichi.com/blog/lazy-loading-images-above-the-fold-can-make-lcp-slower/",
+          "publishedOn": "2021-08-22T21:30:28.000Z",
+          "wordCount": 704,
+          "title": "Lazy-loadはLCPを悪化させる!? WordPressは2つ目の画像からネイティブLazy-loadを実装するように改良予定"
+        },
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=11561",
+          "author": "Kenichi Suzuki",
+          "description": "Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。外部リンクに商業的な意図がある場合にはグーグルがわかるように明示しておかなければいけない。アフィリエイトやスポンサー投稿などのリンクが問題にならないように対処しておく方法を知っておいてほしい。",
+          "link": "https://www.suzukikenichi.com/blog/seowatch20210820/",
+          "publishedOn": "2021-08-20T21:30:06.000Z",
+          "wordCount": 487,
+          "title": "Google「リンク売るのは別に問題ないんだよ、でもね……」【海外＆国内SEO情報ウォッチ】"
+        },
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=11559",
+          "author": "Kenichi Suzuki",
+          "description": "すべてのサイトのモバイル ファースト インデックスへの移行を Google はいまだに完了できていないようだ。",
+          "link": "https://www.suzukikenichi.com/blog/google-hasnt-completed-mobile-first-indexing-yet-in-5-months/",
+          "publishedOn": "2021-08-19T21:45:12.000Z",
+          "wordCount": 573,
+          "title": "強制移行開始から5か月たってもMFI移行をGoogleはまだ終えていない"
+        },
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=11556",
+          "author": "Kenichi Suzuki",
+          "description": "title タグの記述とは異なるタイトルを検索結果に表示するアルゴリズムを広範囲に渡って Google は調整したかもしれない。",
+          "link": "https://www.suzukikenichi.com/blog/has-google-broadly-tweaked-algorithm-to-modify-title-tags/",
+          "publishedOn": "2021-08-18T21:55:26.000Z",
+          "wordCount": 672,
+          "title": "titleタグ書き換えのアルゴリズムをGoogleが広範囲に調整したかも？"
+        },
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=11553",
+          "author": "Kenichi Suzuki",
+          "description": "大きなサムネイル画像を Discover に表示させることでクリック率が上昇した成功事例を Google は共有した。",
+          "link": "https://www.suzukikenichi.com/blog/google-shares-case-studies-from-sites-that-improved-ctr-with-large-images-in-discover/",
+          "publishedOn": "2021-08-17T21:45:51.000Z",
+          "wordCount": 585,
+          "title": "大きな画像でDiscoverのCTRが79%アップ⬆、max-image-previewタグの成功事例をGoogleが共有"
+        }
+      ]
+    },
+    {
       "title": "InfoQ - 設計/アーキテクチャ",
       "feedUrl": "https://feed.infoq.com/jp/architecture-design/",
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
+        {
+          "id": "https://www.infoq.com/jp/news/2021/08/aws-recovery-controller-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "最近、AWSは、Amazon Route 53アプリケーション復旧コントローラの一般提供（GA）を発表した。これはAmazon Route 53に追加された新しい機能セットだ。この機能により、顧客は、障害からの復旧のためにアプリケーションを継続的に監視しやすくなる。そして、AWSリージョン、アベイラビリティーゾーン、オンプレミスインフラストラクチャ横断でのリカバリ制御がしやすくなる。\n By Steef-Jan Wiggers  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/08/aws-recovery-controller-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-08-24T02:07:00.000Z",
+          "wordCount": 1659,
+          "title": "AWSがAmazon Route 53アプリケーション復旧コントローラを一般提供としてリリース"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/08/uber-rearchitecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Eran Stiller",
+          "description": "Uberは先頃、Uberの基本的なプラットフォームサービスの1つ、フルフィルメントサービスの再構築の方法を共有した。30以上のチームと数百人の開発者が関わった2年間の取り組みに続いて、Uberのエンジニアは「新しいプラットフォームでさまざまなタイプの物理的フルフィルメントカテゴリをモデル化するための強力な基盤を構築し、既存のすべての輸送ユースケースを移行した。」\n By Eran Stiller  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/08/uber-rearchitecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-08-24T02:06:00.000Z",
+          "wordCount": 1683,
+          "title": "Uberが基礎のフルフィルメントサービスを再構築"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/08/java-news-roundup-aug02-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週2021年8月2日のJava総まとめでは、OpenJDK、JDK 17の初期リリース候補、JDK 18、Spring Cloud 2021.0.0-M1、Quarkus 2.1.1、Open Liberty 21.0.0.8、WildFly 24.0.1 S2I Dockerイメージ、Hibernate ORM 5.5.6、JReleaser 0.6.0、Apache Camel 3.11.1、オープンソースになったMicroStream 5からのニュースを特集する。\n By Michael Redlich  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/08/java-news-roundup-aug02-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-08-24T02:00:00.000Z",
+          "wordCount": 1814,
+          "title": "Javaニュース総まとめ: JDK 17初期RC、OpenJDK、Open Libertyの更新、Hibernate ORM、Spring Cloud"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/08/opensearch-elastic-amazon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "Amazonは先頃OpenSearch 1.0の一般提供を発表した。これは、ElasticがElasticsearchのライセンスを変更した後に作成されたApache 2.0ライセンスのフォークだ。\n By Renato Losio  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/08/opensearch-elastic-amazon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-08-24T01:47:00.000Z",
+          "wordCount": 1628,
+          "title": "ElasticSearchをフォークしたOpenSearchが一般提供になった"
+        },
         {
           "id": "https://www.infoq.com/jp/news/2021/08/quarkus-2-0-final-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Olimpiu Pop",
           "description": "Red Hatは、継続的テストや新CLI、開発者サービスなどの新機能を備えた、Quarkus 2.0をリリースした。コアのアップグレード、JDK 11、Vert.x 4.0、MicroProfile 4.0への移行と同時に、シームレスなアップグレードエクスペリエンスを保証している。InfoQはQuarkusのコアチームメンバとコンタクトを取り、Quarkus 2.0で新たに加えられた各機能のメリットについて、簡単な説明を受けることにした。\n By Olimpiu Pop  Translated by h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/08/quarkus-2-0-final-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-23T01:38:00.000Z",
-          "wordCount": 1752,
+          "wordCount": 1757,
           "title": "Quarkus 2.0が継続的テスト、CLI、JDK 11サポートを提供"
         },
         {
@@ -20,7 +117,7 @@
           "description": "AWSは、EC2-Classicプラットフォームを今後数か月内に廃止する計画を発表した。このクラウドプロバイダは、仮想クラウドコンピューティングインスタンスの最初のバージョンを現時点で使っている顧客が、2022年8月までに最新の仮想プライベートクラウド（VPC）に移行すると予想している。\n By Renato Losio  Translated by 編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/08/aws-ec2-classic-retirement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-23T01:36:00.000Z",
-          "wordCount": 1629,
+          "wordCount": 1632,
           "title": "AWSは15年を迎えるEC2-Classicを廃止"
         },
         {
@@ -29,7 +126,7 @@
           "description": "今年11月のQCon Plusソフトウエア開発カンファレンスでは、上級ソフトウェアエンジニア、アーキテクト、チームリーダらが共に学び、最新のソフトウェアトレンドやプラクティスについて議論する。参加して、技術的および非技術的スキルを向上するとともに、価値のある洞察を自身のチームに持ち帰って、正しい方法で実践してほしい。\n By Adelina Turcu  Translated by  h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/08/qcon-plus-software-trends/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-19T01:23:00.000Z",
-          "wordCount": 1627,
+          "wordCount": 1621,
           "title": "11月のQConPlusで、2021年の重要なソフトウェアエンジニアリングのトレンドを探る"
         },
         {
@@ -38,7 +135,7 @@
           "description": "今週2021年7月26日のJava総まとめでは、JDK 17、JDK 18、Micronaut 3.0.0、Quarkus 2.1.0、Apache Camel Quarkus 2.1.0、WildFly 24.0.1、Josh Long氏のBootiful Podcastの最新版、IntelliJ IDEA 2021.2、IntelliJ Scala Plugin 2021.2、RefactorFirst 0.2.0、Apache Tuweni 2.0からのニュースを特集する。\n By Michael Redlich  Translated by  Shoji Shigeki",
           "link": "https://www.infoq.com/jp/news/2021/08/java-news-roundup-jul26-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-19T01:21:00.000Z",
-          "wordCount": 1790,
+          "wordCount": 1794,
           "title": "Javaニュース総まとめ: IntelliJ IDEA 21.2、Quarkus 2.1、Micronaut 3.0.0-M5、WildFly、Payara Platform"
         },
         {
@@ -47,7 +144,7 @@
           "description": "最近のInspire 2021会議で、MicrosoftはMicrosoft Cloud for Sustainabilityのプレビュー版を発表した。これは、企業が二酸化炭素排出量を測定および管理し、持続可能性の目標を設定し、測定可能なアクションを実行する助けとなる新しいサービスだ。\n By Renato Losio  Translated by 編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/08/microsoft-cloud-sustainability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-19T01:15:00.000Z",
-          "wordCount": 1615,
+          "wordCount": 1614,
           "title": "クラウドの排出量を追跡するための支援が必要か。MicrosoftのMicrosoft Cloud for Sustainabilityがプレビューへ"
         },
         {
@@ -56,7 +153,7 @@
           "description": "CNCFは、End User Technology Radarの第5版を発行した。今回のテーマは\"マルチクラスタ管理\"で、その内容は、クラスタのデプロイメント、コアサービス、ツーリングに関するアドオン、導入後の運用(day-two operations)に分かれている。\n By Mostafa Radwan  Translated by h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/08/cncf-radar-cluster-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-19T00:33:00.000Z",
-          "wordCount": 1021,
+          "wordCount": 1022,
           "title": "CNCFがTechnology Radarの最新版を発行、テーマは\"マルチクラスタ管理\""
         },
         {
@@ -65,7 +162,7 @@
           "description": "Amazon Elastic Block Store(EBS)ボリュームは、複数のHDDとSDDのボリュームを備えたElastic Compute(EC2)の重要なコンポーネントで、それぞれが特定のユースケース向けに設計されている。AWSは先頃、クラウドベースのストレージエリアネットワーク(SAN)サービスである、Amazon EBS io2 Block Expressボリュームの一般供与(GA)を開始すると発表した。io2ボリュームに比較して4倍のスループット、IPOS、容量を提供する。\n By Steef-Jan Wiggers  Translated by  h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/08/amazon-ebs-io2-block-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-18T05:36:00.000Z",
-          "wordCount": 1708,
+          "wordCount": 1712,
           "title": "AWSがAmazon EBS io2 Block Expressボリュームの一般供与開始を発表"
         },
         {
@@ -74,7 +171,7 @@
           "description": "GitHubは、セクション1201に基いて要求されるDMCA削除要請に対して、スタンフォード・ロー・スクール(Stanford Law School)からの法的支援を開発者に無償提供するプログラムをローンチした。\r\r\nInfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer氏と、スタンフォード・ロー・スクールJuelsgaard ClinicディレクタのPhil Malone氏に話を聞くことができた。\n By Sergio De Simone  Translated by h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/08/GitHub-developer-legal-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-18T05:29:00.000Z",
-          "wordCount": 1633,
+          "wordCount": 1634,
           "title": "GitHub、DMCAに対して開発者をサポートする独立的な法的支援機関を設立"
         },
         {
@@ -83,7 +180,7 @@
           "description": "マイクロサービスを裏返しにするということは、単一の要求/応答APIを超えて、クエリとコマンドのインバウンドAPI、イベントを発行するアウトバウンドAPI、およびそれらの両方を記述するメタAPIを備えたマイクロサービスの設計に移行することを意味します。 データベースは、Debeziumなどの結合剤を介してApache Kafkaで補完できます。\n By Bilgin Ibryam  Translated by  Shoji Shigeki",
           "link": "https://www.infoq.com/jp/articles/microservices-inside-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-18T05:13:00.000Z",
-          "wordCount": 1998,
+          "wordCount": 2006,
           "title": "アーティクル: マイクロサービスの内と外を裏返しにする"
         },
         {
@@ -92,7 +189,7 @@
           "description": "Java 17は機能の凍結に入り、9月14日にリリースされる。\n By Ben Evans  Translated by  編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/08/java-17-glass/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-17T04:35:00.000Z",
-          "wordCount": 1727,
+          "wordCount": 1731,
           "title": "Java 17はグラス・ハーフ・フルか"
         },
         {
@@ -101,26 +198,8 @@
           "description": "最近、AWSは、Amazon EMR on Amazon Elastic Kubernetes Service (Amazon EKS)においてカスタマイズ可能イメージのサポートを発表した。これにより、顧客は、EKSクラスターでApache Sparkを使って分析アプリケーションを実行するDockerランタイムイメージを変更できる。\n By Steef-Jan Wiggers  Translated by  編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/08/emr-eks-custom-image/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-08-17T04:33:00.000Z",
-          "wordCount": 1664,
+          "wordCount": 1667,
           "title": "AWSはAmazon EMR on EKSがカスタマイズ可能イメージをサポートすることを発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/08/azure-app-services-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Rags Srinivas",
-          "description": "MicrosoftでAzure Application Platformを担当するプロダクトマネージメントディレクタのJeff Hollan氏に、Azure Application Service on Kubernetesの背景にある思想や詳細な技術情報、Azure Arcの必要性などについて話を聞いた。\n By Rags Srinivas  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2021/08/azure-app-services-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-08-17T04:32:00.000Z",
-          "wordCount": 1091,
-          "title": "Azure Application Services on Kubernetesについて - MicrosoftのJeff Hollan氏とのQ&A"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/08/ably-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Sergio De Simone",
-          "description": "Ably Engineeringシリーズの最新記事には、同社エンジニアのMaik Zumstrull氏が、リアルタイムメッセージプラットフォームのAblyでKubernetesを使っていない理由について説明している。詳細を知るために、Zumstrull氏に話を聞いた。\n By Sergio De Simone  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2021/08/ably-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-08-17T04:30:00.000Z",
-          "wordCount": 1012,
-          "title": "Kubernetesに異を唱えるAbly"
         }
       ]
     },
@@ -130,12 +209,21 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=247134",
+          "author": "Mia Sato",
+          "description": "人種や経済状況、地域によって、社会的に弱い人々へのワクチン接種が遅れている。接種会場までの交通手段がない、会場が遠い、休みが取れないといった根本的な問題に目を向け、健康格差解消の取り組みを継続すべきだ。",
+          "link": "https://www.technologyreview.jp/s/247134/which-us-vaccine-plans-actually-helped-hard-hit-communities/",
+          "publishedOn": "2021-08-24T02:36:40.000Z",
+          "wordCount": 548,
+          "title": "打ちたくても打てない、ワクチンであぶり出された米健康格差の深刻度"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=253636",
           "author": "Karen Hao",
           "description": "人工知能（AI）の訓練用にはかつて、ネット上のデータを許可なく集められたものが使われた。後に批判され、データセットを撤回する例が相次いだがが、撤回するだけでは問題の解決にはならない。",
           "link": "https://www.technologyreview.jp/s/253636/deleting-unethical-data-sets-isnt-good-enough/",
           "publishedOn": "2021-08-23T05:33:15.000Z",
-          "wordCount": 550,
+          "wordCount": 548,
           "title": "「非倫理的」なAI訓練データセット、削除するだけでは不十分"
         },
         {
@@ -144,7 +232,7 @@
           "description": "新型コロナウイルス感染症で大量の死者を出したインドは、数多くの失策を重ねていた。首相が突然宣言したロックダウンは都市労働者の帰郷を促す混乱につながり、国産ワクチンの海外輸出を進めたことで国民のワクチン接種は出遅れた。",
           "link": "https://www.technologyreview.jp/s/253232/what-went-so-wrong-with-covid-in-india-everything/",
           "publishedOn": "2021-08-23T04:59:13.000Z",
-          "wordCount": 544,
+          "wordCount": 543,
           "title": "無計画な封鎖、ワクチン輸出 相次ぐ失策が招いた 「インドの危機」"
         },
         {
@@ -153,7 +241,7 @@
           "description": "中国がチベット高原における大型望遠鏡の建設計画を進めている。同高原の天体観測所としての条件は、すでに大型望遠鏡が設置されているチリやハワイに匹敵し、天文学における中国台頭の可能性を示唆している。",
           "link": "https://www.technologyreview.jp/s/254435/chinese-astronomers-want-to-build-an-observatory-in-the-tibetan-plateau/",
           "publishedOn": "2021-08-20T07:59:38.000Z",
-          "wordCount": 540,
+          "wordCount": 539,
           "title": "中国がチベットに天文台を計画　天文学の勢力図に影響か？"
         },
         {
@@ -162,7 +250,7 @@
           "description": "ニューヨーク・タイムズ紙のベテラン記者2人による新刊『An Ugly Truth（醜い真実）』は、2回の米国大統領選挙の間にフェイスブックに起きたことを巧みなストーリー・テリングで描いた意欲作だ。",
           "link": "https://www.technologyreview.jp/s/251604/review-why-facebook-can-never-fix-itself/",
           "publishedOn": "2021-08-20T06:59:45.000Z",
-          "wordCount": 669,
+          "wordCount": 653,
           "title": "書評：フェイスブック内部の「醜い真実」が物語ること"
         },
         {
@@ -171,7 +259,7 @@
           "description": "MITテクノロジーレビュー主催の世界的なアワード「Innovators Under 35」を2012年に受賞した義足エンジニアの遠藤 謙さんは、イノベーターに最も必要な資質を「しつこさ（Grit）」だと語った。",
           "link": "https://www.technologyreview.jp/s/254008/the-engineer-has-a-vision-that-goes-beyond-the-speed-record/",
           "publishedOn": "2021-08-19T21:50:43.000Z",
-          "wordCount": 714,
+          "wordCount": 713,
           "title": "義足エンジニア・遠藤 謙が「人類最速」の先に見据えるもの"
         },
         {
@@ -180,7 +268,7 @@
           "description": "欧米では企業の採用活動に人工知能（AI）ツールが使われる機会が増えた。実際に複数のツールを試してみると、さまざまな懸念点が明らかになった。",
           "link": "https://www.technologyreview.jp/s/250153/we-tested-ai-interview-tools-heres-what-we-found/",
           "publishedOn": "2021-08-19T07:52:30.000Z",
-          "wordCount": 555,
+          "wordCount": 539,
           "title": "ドイツ語で答えても適正あり？AI面接で英語力を測ってみたら……"
         },
         {
@@ -189,7 +277,7 @@
           "description": "タリバンの政権掌握によって混乱に陥ったアフガニスタンで、救護や避難を支援するオンライン・ボランティア活動に頼る人が増えている。ただ、オンラインの向こう側にいるのが何者なのか検証することなく、個人情報を提供するのは危険だ。",
           "link": "https://www.technologyreview.jp/s/254239/afghans-are-being-evacuated-via-whatsapp-google-forms-by-any-means-possible/",
           "publishedOn": "2021-08-19T04:55:50.000Z",
-          "wordCount": 558,
+          "wordCount": 542,
           "title": "混乱のアフガニスタン、 ネット上で救済活動が活発化"
         },
         {
@@ -198,7 +286,7 @@
           "description": "新型コロナワクチンの接種が進んでいる一方で、未接種の人も依然として一定数、存在する。ワクチン接種をためらう人たちに、ワクチンの重要性を認識してもらうにはどうすればよいのだろうか。",
           "link": "https://www.technologyreview.jp/s/254076/how-to-talk-to-vaccine-hesitant-people/",
           "publishedOn": "2021-08-18T21:58:04.000Z",
-          "wordCount": 704,
+          "wordCount": 688,
           "title": "「陰謀論者」で片付けない、ワクチン未接種者との対話のヒント"
         },
         {
@@ -207,17 +295,8 @@
           "description": "「35歳未満のイノベーター35人」にかつて選出されたエンジニアのトレイシー・チョウは、ネット嫌がらせに対処するツールを開発しているテック起業家だ。自身が直面してきた数々の問題について、包み隠さず語った。",
           "link": "https://www.technologyreview.jp/s/249383/why-its-so-hard-to-make-tech-more-diverse/",
           "publishedOn": "2021-08-18T21:44:31.000Z",
-          "wordCount": 551,
-          "title": "嫌がらせ、ストーカー被害 女性テック起業家が語る 「多様性」の難しさ"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=253456",
-          "author": "Max S. Kim",
-          "description": "ほぼすべての注文が24時間以内に届くと謳う韓国の電子商取引大手クーパン（Coupang）が驚異的な成長を遂げている。だが、その華々しい成功は、労働者の犠牲の上に成り立っている。",
-          "link": "https://www.technologyreview.jp/s/253456/this-company-delivers-packages-faster-than-amazon-but-workers-pay-the-price/",
-          "publishedOn": "2021-08-18T21:39:47.000Z",
           "wordCount": 550,
-          "title": "「韓国のアマゾン」、自慢の爆速配送を支える労働環境の闇"
+          "title": "嫌がらせ、ストーカー被害 女性テック起業家が語る 「多様性」の難しさ"
         }
       ]
     },
@@ -232,7 +311,7 @@
           "description": "米国のビッグ・テック5社をまとめたFAANG（Facebok、Amazon、Apple、Netflix、Google）の一角を占めるNETFLIX社。日本では同社を含まないGAFAの方がおなじみですが、アカデミー賞でディ […]",
           "link": "https://data.wingarc.com/netflix-culture-31364",
           "publishedOn": "2021-08-23T23:00:51.000Z",
-          "wordCount": 778,
+          "wordCount": 779,
           "title": "【書評】NETFLIXの自由な文化の徹底ぶりがすごい！ その特徴は“日本と真逆”？"
         },
         {
@@ -241,7 +320,7 @@
           "description": "ロボアドバイザーやAI投資という言葉を聞いて「難しそう」「リスクが大きそう」という印象を抱く方は日本ではまだ少なくないのではないでしょうか。 実際、2019年の調査でロボアドバイザーを「利用したい」と答えた日本人は1割に […]",
           "link": "https://data.wingarc.com/ai-investment-28790",
           "publishedOn": "2021-08-19T23:00:09.000Z",
-          "wordCount": 696,
+          "wordCount": 697,
           "title": "ロボアドバイザー（AI投資）は実際、誰向け？ メリット・デメリットや利用法から考える"
         },
         {
@@ -250,7 +329,7 @@
           "description": "2021年6月、改正育児・介護休業法が成立した。一方で、これにより男性の育休取得が促進されるようになるかといえば疑問の声もある。「育休」の仕組みを定着させ成果につなげるためには、日本の社会に根深く存在する構造的な問題や、 […]",
           "link": "https://data.wingarc.com/commongroundbetweenchildcareleaveanddx-34488",
           "publishedOn": "2021-08-19T00:00:37.000Z",
-          "wordCount": 830,
+          "wordCount": 831,
           "title": "育休にもDXにも共通するアンコンシャスバイアス・マネジメント––個と組織の双方に成果をもたらすために大切なこと"
         },
         {
@@ -259,7 +338,7 @@
           "description": "アプライド・マテリアルズの最高技術責任者、オムカラム・ナラマスはこう説明する。 「今日のスマホと同じものを１９８０年代につくろうとすれば、コストは１億１１００万ドル、 高さは14メートル、そして２００キロワットの電力を消 […]",
           "link": "https://data.wingarc.com/the-future-is-faster-than-you-think-31508",
           "publishedOn": "2021-08-17T23:00:18.000Z",
-          "wordCount": 606,
+          "wordCount": 607,
           "title": "【書評】『2030年すべてが「加速」する世界に備えよ』加速するテクノロジーにどう立ち向かう？ イーロン・マスクの親友が語る「2030年の未来像」"
         },
         {
@@ -268,7 +347,7 @@
           "description": "2021.08.03 update! 「第1回 総務・人事・経理 Week（2021/9/8開催）」（2021/9/8開催） 「第22回 コールセンター/CRM デモ&コンファレンス 2021 in 東京」（20 […]",
           "link": "https://data.wingarc.com/datatimes_recommended_event-29627",
           "publishedOn": "2021-08-17T03:15:42.000Z",
-          "wordCount": 2996,
+          "wordCount": 2997,
           "title": "百聞は一見に如かず！！【データのじかん】データに関連する展示会情報局｜2021年8月公開版"
         },
         {
@@ -277,7 +356,7 @@
           "description": "2021.07.06 update! 「コールセンター/CRM デモ＆コンファレンス 2021 in 大阪（第14回）」（2021/7/20開催） 「Japan Robot Week in Aichi」（2021/9/9 […]",
           "link": "https://data.wingarc.com/datatimes_recommended_event-backnumber-202107-34414",
           "publishedOn": "2021-08-17T03:09:41.000Z",
-          "wordCount": 2934,
+          "wordCount": 2935,
           "title": "【バックナンバー】百聞は一見に如かず！！【データのじかん】データに関連する展示会情報局｜2021年7月公開版"
         },
         {
@@ -286,7 +365,7 @@
           "description": "「すぐ使える！営業のKPI（ロジック）ツリーテンプレート」では営業部門でKPIを導入する際のストラテジ（戦略構想）で活用できる様々なテンプレートを用意しています。 ①営業のデータ分析の流れ 営業の各業務で取得できるデータ […]",
           "link": "https://data.wingarc.com/kpilogictreeofsales_template-33799",
           "publishedOn": "2021-08-05T23:00:34.000Z",
-          "wordCount": 1128,
+          "wordCount": 1129,
           "title": "すぐ使える！営業のKPI（ロジック）ツリーテンプレート（PowerPoint形式）"
         },
         {
@@ -295,7 +374,7 @@
           "description": "2022年4月の改正個人情報保護法の施行なども控え、企業にとってはデータ管理が新たなリスクになりつつある。そこで法律を学び、守りを強化しようとするリーダーもいるだろう。それに対してデータ利活用とサイバーセキュリティーに精 […]",
           "link": "https://data.wingarc.com/shunsuketerakado_02-34346",
           "publishedOn": "2021-08-05T23:00:12.000Z",
-          "wordCount": 737,
+          "wordCount": 738,
           "title": "データの利活用で競争優位性を発揮するために「攻めの法律」へ"
         },
         {
@@ -304,7 +383,7 @@
           "description": "営業で導入が進んでいるKPI（ロジック）ツリーとは？ 多くの企業は、製品・サービスの顧客への販売・提供を営利としています。 顧客と企業の橋渡しの役割を担う“営業部門”は経験や勘を頼りに活動する風習が強く、個人のスキルに大 […]",
           "link": "https://data.wingarc.com/kpilogictreeofsales-33798",
           "publishedOn": "2021-08-05T23:00:00.000Z",
-          "wordCount": 1554,
+          "wordCount": 1555,
           "title": "営業のKPIとは？KPI例とKPI（ロジック）ツリーを解説"
         },
         {
@@ -313,7 +392,7 @@
           "description": "DX（デジタルトランスフォーメーション）を推進する上で、現場はどれくらい「法律」のことを意識できているだろうか。データ利活用の議論では、収集したデータを経営企画、マーケティング、サプライチェーンマネジメントなど、価値向上 […]",
           "link": "https://data.wingarc.com/shunsuketerakado_01-34365",
           "publishedOn": "2021-08-03T23:00:51.000Z",
-          "wordCount": 673,
+          "wordCount": 674,
           "title": "規制強化で高まるDX推進リーダーの法律リテラシーの重み"
         }
       ]
@@ -466,12 +545,21 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_08_24/111074",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/rails_security_fix_6.0.4.1_6.1.4.1_eyecatch-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby on Rails セキュリティ修正6.0.4.1と6.1.4.1がリリースされました。 Hi everybody! Rails 6.0.4.1 and 6.1.4.1 have been released! This is a security release and you can read about it here: https://t.co/DkpzQne8Kp Have a great day!! 🤗❤️ &#8212; Ruby on Rails (@rails) August 19, 2021 リリース情報: Rails 6&#46;0&#46;4&#46;1 and 6&#46;1&#4 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_08_24/111074\" data-wpel-link=\"internal\" target=\"_self\">Railsセキュリティ修正6.0.4.1と6.1.4.1 がリリースされました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_08_24/111074",
+          "publishedOn": "2021-08-24T02:40:18.000Z",
+          "wordCount": 373,
+          "title": "Railsセキュリティ修正6.0.4.1と6.1.4.1 がリリースされました"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_08_23/110678",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/railswatch_20210823_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。もろもろの事情で後編の公開が遅れました🙇。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_08_23/110678\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: SorbetのRuby AOTコンパイラが公開、「Compiler Explorer」にRubyが追加、Ractorで非同期通信ほか（20210823後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_08_23/110678",
           "publishedOn": "2021-08-23T09:40:21.000Z",
-          "wordCount": 720,
+          "wordCount": 721,
           "title": "週刊Railsウォッチ: SorbetのRuby AOTコンパイラが公開、「Compiler Explorer」にRubyが追加、Ractorで非同期通信ほか（20210823後編）"
         },
         {
@@ -480,7 +568,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/exam_committee_ipa_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>少し前に、情報処理技術者試験委員会・情報処理安全確保支援士試験委員会の委員に就任しました。 活動内容などの詳細については守秘義務があるため、IPAが公表している内容以外は書けませんが、試験問題の作成などを400名余りの体制で行っています。 IPA 独立行政法人 情報処理推進機構：試験制度：試験区分一覧 高校生の時に受験を始めた情報処理技術者試験は、若い頃の自分に勉強の方向性や目標を示してくれて、大いに成長を助けてくれました。まだまだ能力・経験ともに未熟者ではありますが、この素晴らしい試験制度を今後も継続・改善していくために、少しでも貢献したいと考える所存です。周りは本当にすごい方ばかりですので、自分を磨いて追いつ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/baba/2021_08_23/110838\" data-wpel-link=\"internal\" target=\"_self\">情報処理技術者試験・情報処理安全確保支援士試験の試験委員になりました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/baba/2021_08_23/110838",
           "publishedOn": "2021-08-23T08:30:00.000Z",
-          "wordCount": 237,
+          "wordCount": 238,
           "title": "情報処理技術者試験・情報処理安全確保支援士試験の試験委員になりました"
         },
         {
@@ -489,7 +577,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/google_nest_hub_network_failure2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>我が家では、 Google Nest Hub (初代) が発売直後から活躍中です。普段はフォトフレームとして使いつつ、カップラーメンを作るときにはキッチンタイマー。他の使い方はよく知りません。Google Home時代はタイマーの残り時間もわからなかったので、随分便利になりました。 TL;DR おそらく新しいファームはDNSサーバがEDNS非対応だとエラーになる。DNSを1.1.1.1にしたら直った。 突然の「ネットワーク障害」表示 ところが、8月の上旬頃から以下のような問題が起きるようになりました。 「ネットワーク障害」や「インターネット接続をご確認ください」と表示されて使えない。 話しかけると「OK, Goo [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/baba/2021_08_23/111001\" data-wpel-link=\"internal\" target=\"_self\">Google Nest Hubが「ネットワーク障害」になったけど直った</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/baba/2021_08_23/111001",
           "publishedOn": "2021-08-23T04:09:08.000Z",
-          "wordCount": 394,
+          "wordCount": 395,
           "title": "Google Nest Hubが「ネットワーク障害」になったけど直った"
         },
         {
@@ -498,7 +586,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/bps_intro_to_app_team_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>「夏のTechrachoフェア2021」ということで、 昨年度の記事のアップデートとしてアプリチーム の紹介をさせていただければと思います。 どんな仕事している？ アプリチームでは、自社製品である電子書籍ビューア、デジタル教科書ビューア、およびそれに関連するアプリ、システムの開発を主な業務としています。 電子書籍ビューア：『超縦書』 『超画像』 デジタル教科書ビューア：『超教科書』 および 『超教科書クラウド』 Windows/Mac/Android/iOS/Webブラウザ が主な対象環境になっており、特にWebブラウザ向けでは、画面遷移を伴わない、いわゆる「シングルページWebアプリケーション」として開発してい [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/shouichi/2021_08_20/110928\" data-wpel-link=\"internal\" target=\"_self\">2021年度版 BPS開発チームの紹介～アプリチーム～</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/shouichi/2021_08_20/110928",
           "publishedOn": "2021-08-20T08:30:06.000Z",
-          "wordCount": 287,
+          "wordCount": 288,
           "title": "2021年度版 BPS開発チームの紹介～アプリチーム～"
         },
         {
@@ -507,7 +595,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/gatebox_virtual_partner_eyecatch6-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>はじめに こんにちわ。 モバイルアプリの開発を行っている川島です。「夏のTechRachoフェア」の8月19日分を担当させていただきます。 皆さんは、AIやバーチャルキャラクターを人間の良きパートナーにすることに憧れたりはしませんか？ アニメやゲーム作品では「デジタルモンスター」や「ロックマンエグゼ」、映画だと「A.I.」など、昔からメディア作品の一つのテーマとして扱われているくらいには、人々の関心のある問いかと思います。 そんな問いに対して、現代においての一つの答えが「Gatebox」なのではないかと思っています。 Gateboxは簡単に言うと、キャラクターと一緒に生活するためのプラットフォームです。 Gate [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/yoshi-k/2021_08_19/110792\" data-wpel-link=\"internal\" target=\"_self\">〜Gatebox〜バーチャルパートナーとの共同生活</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/yoshi-k/2021_08_19/110792",
           "publishedOn": "2021-08-19T08:30:24.000Z",
-          "wordCount": 398,
+          "wordCount": 399,
           "title": "〜Gatebox〜バーチャルパートナーとの共同生活"
         },
         {
@@ -516,7 +604,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/railswatch_20210818_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。RubyKaigi Takeout 2021のスケジュール/講演タイトル/スピーカーが発表されました。 RubyKaigiの講演内容見てるとテンション高まってくる！https://t.co/easZGBSXob &#8212; igaiga (@igaiga555) August 16, 2021 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_08_18/110665\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: カウンタキャッシュをスレッドセーフに更新、Journey::Ast追加、GitLabをAWS Graviton2で動かすほか（20210818前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_08_18/110665",
           "publishedOn": "2021-08-18T10:24:07.000Z",
-          "wordCount": 945,
+          "wordCount": 946,
           "title": "週刊Railsウォッチ: カウンタキャッシュをスレッドセーフに更新、Journey::Ast追加、GitLabをAWS Graviton2で動かすほか（20210818前編）"
         },
         {
@@ -525,7 +613,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/4k_el_display_for_programming_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>morimorihogeです。今回は開発環境整備系の話ということで。 自宅での作業がメインとなり、ちょこちょこと自宅の開発環境をアップデートしています。去年はAtmoph Window 2を導入したりしていました。 今回はメインで開発用ディスプレイとして使っている43インチ液晶TV（REGZA 43J20X）がぼちぼち5年落ちくらいになって古くなってきたため、更新することにしました。 遅延や焼き付き防止機能、4k 120Hz対応するための試行錯誤などがありましたので、忘れないうちに記録しておきたいと思います。 プログラミングに有機ELディスプレイは向いているか？ まずはなぜ有機ELディスプレイが良いか、という話か [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2021_08_18/110781\" data-wpel-link=\"internal\" target=\"_self\">プログラミング用ディスプレイを4k 有機EL TVにしてみた試行錯誤</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/morimorihoge/2021_08_18/110781",
           "publishedOn": "2021-08-18T08:29:20.000Z",
-          "wordCount": 378,
+          "wordCount": 379,
           "title": "プログラミング用ディスプレイを4k 有機EL TVにしてみた試行錯誤"
         },
         {
@@ -534,7 +622,7 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/joining_kansai_itc_expo_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、rikaです^^ 今回は、8月5日（木）～6日（金）にインテックス大阪で行われた関西教育ICT展に出展してきた話をします！ 関西教育ICT展とは www.kyouikuict.jpより 関西教育ICT展とは、教育関係者の方や社会人の方に向けてICTに関する情報を発信する展示会です。 今年で第6回目の開催となり、コロナ禍ですが多くの方が参加＆来場していました。 そこに私たちは、自社サービスである「入退くん」を広めるべく、3年連続で参加しています！ その甲斐あり、入退くんの利用者数は日々増えております♪（ありがとうございます！） 入退くんの紹介 主に学習塾やスクール、児童館、学童でご利用いただいています  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/rikah016/2021_08_17/110319\" data-wpel-link=\"internal\" target=\"_self\">8月5日～6日開催「関西ICT展」に出展・参加しました！</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/rikah016/2021_08_17/110319",
           "publishedOn": "2021-08-17T08:30:46.000Z",
-          "wordCount": 247,
+          "wordCount": 248,
           "title": "8月5日～6日開催「関西ICT展」に出展・参加しました！"
         },
         {
@@ -543,17 +631,8 @@
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/bps_intro_to_web_team1_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>morimorihogeです。RTA in Japan Summerはアツかったですね。年々クオリティが上がっててすごい。 さて、昨年度もこの時期チーム紹介の記事を出したのですが、この手の情報は古い情報がずっと最新として残っていると採用や外注検討時に参考にしている方にはむしろノイズになってしまうという問題があるため、今年も改めて2021年版ということで投稿させて頂きます。 去年の内容と被る部分も多々ありますが、その辺りは昨年と方針が変わっていない部分ということでご容赦下さい。 というわけで、僕がチームリーダーとして所属するWeb開発第1チームの紹介になります。 どんな仕事をしているの？ 主にWebアプリケーション [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2021_08_16/110632\" data-wpel-link=\"internal\" target=\"_self\">2021年版 BPS開発チームの紹介～Web開発第1チーム～</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/morimorihoge/2021_08_16/110632",
           "publishedOn": "2021-08-16T08:30:54.000Z",
-          "wordCount": 382,
+          "wordCount": 383,
           "title": "2021年版 BPS開発チームの紹介～Web開発第1チーム～"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/piichan1031/2021_08_13/110046",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/po_stock_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>皆さまこんにちは。BPS渡辺です。夏のTechRachoフェア（夏にやるアドベントカレンダーみたいなもの）の時期になりました。今回は、僭越ながら２－３記事程度書かせてもらうことになりそうです。難しく考えずに何記事か書けそうな、趣味の「株」を題材にした内容にさせてもらいます。(๑¯ω¯๑） 一生懸命勉強したり時間をかけたりするなら、もっと好きなことやキャリアに繋がることに費やしたいですよね。でも本業に専念しているからこそ、空き時間でちょっとでもお小遣いも稼げるならそうしたい。。特別な知識や時間が必要なものは除外して、空き時間でささっとやれる範囲のこと、紹介してみます。 公募増資・売出（PO） POは「Public  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/piichan1031/2021_08_13/110046\" data-wpel-link=\"internal\" target=\"_self\">公募増資・売出（PO）これから始める生株！本気じゃないからこそ多少の手間と低リスクでお小遣いを稼ごう</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/piichan1031/2021_08_13/110046",
-          "publishedOn": "2021-08-13T08:30:14.000Z",
-          "wordCount": 358,
-          "title": "公募増資・売出（PO）これから始める生株！本気じゃないからこそ多少の手間と低リスクでお小遣いを稼ごう"
         }
       ]
     },
@@ -622,7 +701,7 @@
           "description": "distrobuilderは「LXD/LXC用イメージを構築するツール」です。今回はこのツールを使って，独自のイメージをビルドする方法を紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0678",
           "publishedOn": "2021-08-11T00:49:00.000Z",
-          "wordCount": 680,
+          "wordCount": 712,
           "title": "第678回　distrobuilderでLXD/LXC用のカスタムイメージを作成する ── Ubuntu Weekly Recipe"
         },
         {
@@ -631,7 +710,7 @@
           "description": "The Linux Foundationは8月6日，9月27日から開催する「Open Source Summit」をはじめ，一部の主催イベントを対面で再開するにあたってのプロトコルを公開した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/10",
           "publishedOn": "2021-08-10T06:16:00.000Z",
-          "wordCount": 455,
+          "wordCount": 454,
           "title": "2021年8月10日　すべての参加者の安全を最優先に ―The Linux Foundation，リアルイベント再開のプロトコルを公開 ── Linux Daily Topics"
         },
         {
@@ -649,7 +728,7 @@
           "description": "後編となる今回は，全60セッションの中から編集部の推しセッションご紹介，そして8/27（金）開催のライブイベントの見どころをお届けします。",
           "link": "https://gihyo.jp/admin/serial/01/codt2021/0002",
           "publishedOn": "2021-08-06T00:15:00.000Z",
-          "wordCount": 431,
+          "wordCount": 437,
           "title": "#02　編集部お勧めセッションはこれだ！ ―「Cloud Operator Days Tokyo 2021」を楽しもう ── \"運用者に光を\"「Cloud Operator Days Tokyo 2021」の歩き方"
         },
         {
@@ -658,7 +737,7 @@
           "description": "今回はaptパッケージのリポジトリ情報を指定するsources.listの内容とそのカスタマイズ方法について紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0677",
           "publishedOn": "2021-08-04T00:39:00.000Z",
-          "wordCount": 416,
+          "wordCount": 439,
           "title": "第677回　aptで使うsources.listのオプションいろいろ ── Ubuntu Weekly Recipe"
         },
         {
@@ -676,7 +755,7 @@
           "description": "この2週ほどはGNOME 40本体とNautilus 40がDaily build ISOイメージに投入される一方，デスクトップ関連のアップデートが行われています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202107/30",
           "publishedOn": "2021-07-30T00:44:00.000Z",
-          "wordCount": 759,
+          "wordCount": 762,
           "title": "2021年7月30日号　impishの開発・GNOME40のDaily Imageへの投下，Backportsリポジトリの変化 ── Ubuntu Weekly Topics"
         },
         {
@@ -685,7 +764,7 @@
           "description": "第675回ではapt-keyコマンドが廃止される理由を説明しました。それ以外にもaptコマンドには常に様々な変更が加えられています。今回はそれらをいくつかピックアップして紹介しましょう。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0676",
           "publishedOn": "2021-07-28T00:43:00.000Z",
-          "wordCount": 491,
+          "wordCount": 488,
           "title": "第676回　aptコマンドの最新機能あれこれ ── Ubuntu Weekly Recipe"
         }
       ]
@@ -710,7 +789,7 @@
           "description": "テックコミュニティの運営側で，その技術分野を常に追いかけているエンジニアの方々にお話をうかがうインタビュー企画。最終回のゲストとしてお迎えしたのは，データサイエンティストとして活躍する大城氏と松村氏です。",
           "link": "https://gihyo.jp/dev/serial/01/tech_community_site/0006",
           "publishedOn": "2021-08-19T00:15:40.000Z",
-          "wordCount": 367,
+          "wordCount": 368,
           "title": "最終回　AIのこれまでとこれから ── 教えて！ 最新技術―テックコミュニティの現場から"
         },
         {
@@ -719,7 +798,7 @@
           "description": "今回のテーマは「他言語のライブラリをPerlに移植する」。移植方針の目処が立ったら，いよいよ実装です。P",
           "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006802",
           "publishedOn": "2021-08-18T00:15:00.000Z",
-          "wordCount": 497,
+          "wordCount": 494,
           "title": "第68回　他言語のライブラリをPerlに移植する（2） ── Perl Hackers Hub"
         },
         {
@@ -737,7 +816,7 @@
           "description": "今回もMySQL 8.0で追加されたパスワード周りの機能として，バージョン8.0.13で追加されたパスワード検証必須ポリシーと，バージョン8.0.19で追加された，ログイン失敗時のアカウントの一時ロックについて説明します。",
           "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0152",
           "publishedOn": "2021-08-03T00:15:00.000Z",
-          "wordCount": 654,
+          "wordCount": 656,
           "title": "第152回　パスワード検証必須ポリシーとログイン失敗時のアカウントの一時ロック ── MySQL道普請便り"
         },
         {
@@ -746,7 +825,7 @@
           "description": "この連載はOSSコンソーシアム データベース部会のメンバーがお伝えしています。2015年9月の第1回から始まり，今回で満6歳の小学生になりました。これからもよろしくお願いいたします。",
           "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0072",
           "publishedOn": "2021-08-02T00:57:00.000Z",
-          "wordCount": 534,
+          "wordCount": 535,
           "title": "第72回　6年間のOSS DBランキング，MySQL 8.0.26リリース，Postgres Vision Tokyo 2021開催 ── OSSデータベース取り取り時報"
         },
         {
@@ -755,7 +834,7 @@
           "description": "2019年にLINEで発足したSREに取り組む専門チーム。そのSREチームを率いるマネージャーである  萬治渉氏に，SREチームが発足した背景や現状の取り組みなどについてお話を伺いました。",
           "link": "https://gihyo.jp/dev/serial/01/line2021/0008",
           "publishedOn": "2021-07-26T23:00:00.000Z",
-          "wordCount": 391,
+          "wordCount": 395,
           "title": "LINEのインフラ基盤「Verda」のビジョンとSREが果たすべき役割とは ── LINE テクノロジー＆エンジニアリング大全"
         }
       ]
@@ -807,7 +886,7 @@
           "description": "前回に続き，モバイルOSの歴史，最新動向と展望について考察します。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202108/12",
           "publishedOn": "2021-08-12T00:15:20.000Z",
-          "wordCount": 385,
+          "wordCount": 383,
           "title": "2021年8月第2週　3番目のポストは元から存在しない？ モバイルOS温故知新（2） ── Android Weekly Topics"
         },
         {
@@ -871,7 +950,7 @@
           "description": "Repro株式会社について 弊社は、カスタマーエンゲージメントプラットフォーム「Repro（リプロ）」を展開しています。Reproは、顧客データを活用し、 メールやプッシュ通知、Webやアプリ内ポップアップなどのチャネル […]",
           "link": "https://octopass.jp/4109/",
           "publishedOn": "2021-08-04T01:46:24.000Z",
-          "wordCount": 228,
+          "wordCount": 226,
           "title": "世界を代表するテックカンパニーを目指す！世界66ヶ国で導入されるシステムの3代目CTOに迫る"
         }
       ]
