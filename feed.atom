@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-23T00:45:15.391Z</updated>
+    <updated>2021-08-24T00:47:20.244Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第153回　mysqlpumpを使ってバックアップを取ってみる ── MySQL道普請便り]]></title>
+        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153</id>
+        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153"/>
+        <updated>2021-08-24T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さんはMySQLからデータを論理バックアップする際にどんなコマンドを使っているでしょうか？]]></summary>
+        <author>
+            <name>木村浩一郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【書評】NETFLIXの自由な文化の徹底ぶりがすごい！ その特徴は“日本と真逆”？]]></title>
+        <id>https://data.wingarc.com/?p=31364</id>
+        <link href="https://data.wingarc.com/netflix-culture-31364"/>
+        <updated>2021-08-23T23:00:51.000Z</updated>
+        <summary type="html"><![CDATA[米国のビッグ・テック5社をまとめたFAANG（Facebok、Amazon、Apple、Netflix、Google）の一角を占めるNETFLIX社。日本では同社を含まないGAFAの方がおなじみですが、アカデミー賞でディ […]]]></summary>
+        <author>
+            <name>BunkiMIyata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次期Visual Studio 2022はマルチリポジトリ対応になるとマイクロソフトが明らかに]]></title>
+        <id>https://www.publickey1.jp/blog/21/visual_studio_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/21/visual_studio_2022.html"/>
+        <updated>2021-08-23T15:20:12.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、同社が現在開発中のVisual Studio 2022でマルチリポジトリに対応する予定であることを明らかにしました。 現在のVisual Studioでは、1インスタンスあたり1つのリポジトリにしか対応していません。Vis...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub がクラウドセキュリティ体制のモニタリング強化のため、18 の新しいコントロールを Foundational Security ベストプラクティス標準に追加し、8 の新しいパートナーを強化されたクラウドセキュリティポスチャーモニタリングに追加]]></title>
+        <id>9ef06d6ac6ef3119b62d22805945b2bbf9eed468</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/"/>
+        <updated>2021-08-23T14:33:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub は、クラウドセキュリティ体制のモニタリング強化のため、Foundational Security ベストプラクティス標準に 18 の新しいコントロールをリリースしました。これらのコントロールは、Amazon API Gateway、Amazon EC2、Amazon ECS、Elastic Load Balancing、Amazon Elasticsearch Service、Amazon RDS、Amazon Redshift、Amazon SQS のセキュリティベストプラクティスに対する完全自動のチェックを行います。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS のセキュリティ体制を自動的にチェックするための 159 のセキュリティコントロールをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊Railsウォッチ: SorbetのRuby AOTコンパイラが公開、「Compiler Explorer」にRubyが追加、Ractorで非同期通信ほか（20210823後編）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_08_23/110678</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_08_23/110678"/>
+        <updated>2021-08-23T09:40:21.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/railswatch_20210823_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。もろもろの事情で後編の公開が遅れました🙇。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_08_23/110678" data-wpel-link="internal" target="_self">週刊Railsウォッチ: SorbetのRuby AOTコンパイラが公開、「Compiler Explorer」にRubyが追加、Ractorで非同期通信ほか（20210823後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情報処理技術者試験・情報処理安全確保支援士試験の試験委員になりました]]></title>
+        <id>https://techracho.bpsinc.jp/baba/2021_08_23/110838</id>
+        <link href="https://techracho.bpsinc.jp/baba/2021_08_23/110838"/>
+        <updated>2021-08-23T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/exam_committee_ipa_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>少し前に、情報処理技術者試験委員会・情報処理安全確保支援士試験委員会の委員に就任しました。 活動内容などの詳細については守秘義務があるため、IPAが公表している内容以外は書けませんが、試験問題の作成などを400名余りの体制で行っています。 IPA 独立行政法人 情報処理推進機構：試験制度：試験区分一覧 高校生の時に受験を始めた情報処理技術者試験は、若い頃の自分に勉強の方向性や目標を示してくれて、大いに成長を助けてくれました。まだまだ能力・経験ともに未熟者ではありますが、この素晴らしい試験制度を今後も継続・改善していくために、少しでも貢献したいと考える所存です。周りは本当にすごい方ばかりですので、自分を磨いて追いつ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/baba/2021_08_23/110838" data-wpel-link="internal" target="_self">情報処理技術者試験・情報処理安全確保支援士試験の試験委員になりました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「非倫理的」なAI訓練データセット、削除するだけでは不十分]]></title>
+        <id>https://www.technologyreview.jp/?p=253636</id>
+        <link href="https://www.technologyreview.jp/s/253636/deleting-unethical-data-sets-isnt-good-enough/"/>
+        <updated>2021-08-23T05:33:15.000Z</updated>
+        <summary type="html"><![CDATA[人工知能（AI）の訓練用にはかつて、ネット上のデータを許可なく集められたものが使われた。後に批判され、データセットを撤回する例が相次いだがが、撤回するだけでは問題の解決にはならない。]]></summary>
+        <author>
+            <name>Karen Hao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無計画な封鎖、ワクチン輸出 相次ぐ失策が招いた 「インドの危機」]]></title>
+        <id>https://www.technologyreview.jp/?p=253232</id>
+        <link href="https://www.technologyreview.jp/s/253232/what-went-so-wrong-with-covid-in-india-everything/"/>
+        <updated>2021-08-23T04:59:13.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症で大量の死者を出したインドは、数多くの失策を重ねていた。首相が突然宣言したロックダウンは都市労働者の帰郷を促す混乱につながり、国産ワクチンの海外輸出を進めたことで国民のワクチン接種は出遅れた。]]></summary>
+        <author>
+            <name>Sonia Faleiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Nest Hubが「ネットワーク障害」になったけど直った]]></title>
+        <id>https://techracho.bpsinc.jp/baba/2021_08_23/111001</id>
+        <link href="https://techracho.bpsinc.jp/baba/2021_08_23/111001"/>
+        <updated>2021-08-23T04:09:08.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/google_nest_hub_network_failure2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>我が家では、 Google Nest Hub (初代) が発売直後から活躍中です。普段はフォトフレームとして使いつつ、カップラーメンを作るときにはキッチンタイマー。他の使い方はよく知りません。Google Home時代はタイマーの残り時間もわからなかったので、随分便利になりました。 TL;DR おそらく新しいファームはDNSサーバがEDNS非対応だとエラーになる。DNSを1.1.1.1にしたら直った。 突然の「ネットワーク障害」表示 ところが、8月の上旬頃から以下のような問題が起きるようになりました。 「ネットワーク障害」や「インターネット接続をご確認ください」と表示されて使えない。 話しかけると「OK, Goo [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/baba/2021_08_23/111001" data-wpel-link="internal" target="_self">Google Nest Hubが「ネットワーク障害」になったけど直った</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarkus 2.0が継続的テスト、CLI、JDK 11サポートを提供]]></title>
+        <id>https://www.infoq.com/jp/news/2021/08/quarkus-2-0-final-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/08/quarkus-2-0-final-release/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-08-23T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Red Hatは、継続的テストや新CLI、開発者サービスなどの新機能を備えた、Quarkus 2.0をリリースした。コアのアップグレード、JDK 11、Vert.x 4.0、MicroProfile 4.0への移行と同時に、シームレスなアップグレードエクスペリエンスを保証している。InfoQはQuarkusのコアチームメンバとコンタクトを取り、Quarkus 2.0で新たに加えられた各機能のメリットについて、簡単な説明を受けることにした。
+ By Olimpiu Pop  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Olimpiu Pop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSは15年を迎えるEC2-Classicを廃止]]></title>
+        <id>https://www.infoq.com/jp/news/2021/08/aws-ec2-classic-retirement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/08/aws-ec2-classic-retirement/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-08-23T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSは、EC2-Classicプラットフォームを今後数か月内に廃止する計画を発表した。このクラウドプロバイダは、仮想クラウドコンピューティングインスタンスの最初のバージョンを現時点で使っている顧客が、2022年8月までに最新の仮想プライベートクラウド（VPC）に移行すると予想している。
+ By Renato Losio  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第2回　『SLAM DUNK』の名監督に学ぶ育成スタンス ── 漫画から学ぶマネジメント]]></title>
         <id>https://gihyo.jp/lifestyle/serial/01/comic_management/0002</id>
@@ -401,7 +516,7 @@
         <id>https://techracho.bpsinc.jp/yoshi-k/2021_08_19/110792</id>
         <link href="https://techracho.bpsinc.jp/yoshi-k/2021_08_19/110792"/>
         <updated>2021-08-19T08:30:24.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/gatebox_virtual_partner_eyecatch4-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに こんにちわ。 モバイルアプリの開発を行っている川島です。「夏のTechRachoフェア」の8月19日分を担当させていただきます。 皆さんは、AIやバーチャルキャラクターを人間の良きパートナーにすることに憧れたりはしませんか？ アニメやゲーム作品では「デジタルモンスター」や「ロックマンエグゼ」、映画だと「A.I.」など、昔からメディア作品の一つのテーマとして扱われているくらいには、人々の関心のある問いかと思います。 そんな問いに対して、現代においての一つの答えが「GateBox」なのではないかと思っています。 Gateboxは簡単に言うと、キャラクターと一緒に生活するためのプラットフォームです。 Gate [&#8230;]</p>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/gatebox_virtual_partner_eyecatch6-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに こんにちわ。 モバイルアプリの開発を行っている川島です。「夏のTechRachoフェア」の8月19日分を担当させていただきます。 皆さんは、AIやバーチャルキャラクターを人間の良きパートナーにすることに憧れたりはしませんか？ アニメやゲーム作品では「デジタルモンスター」や「ロックマンエグゼ」、映画だと「A.I.」など、昔からメディア作品の一つのテーマとして扱われているくらいには、人々の関心のある問いかと思います。 そんな問いに対して、現代においての一つの答えが「Gatebox」なのではないかと思っています。 Gateboxは簡単に言うと、キャラクターと一緒に生活するためのプラットフォームです。 Gate [&#8230;]</p>
 <p>The post <a href="https://techracho.bpsinc.jp/yoshi-k/2021_08_19/110792" data-wpel-link="internal" target="_self">〜Gatebox〜バーチャルパートナーとの共同生活</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
@@ -921,16 +1036,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「1兆ドル計画」でも足りない、米国の次世代送電網は実現できるか？]]></title>
-        <id>https://www.technologyreview.jp/?p=252959</id>
-        <link href="https://www.technologyreview.jp/s/252959/the-1-trillion-infrastructure-bill-is-a-baby-step-toward-the-us-grid-we-need/"/>
-        <updated>2021-08-17T03:52:12.000Z</updated>
-        <summary type="html"><![CDATA[米国では太陽光、風力、地熱といった再生可能エネルギーを活用した発電が盛んだ。しかし、立地や天候に左右される再生可能エネルギーを普及させるには、地域ごとに分断されている電力系統を統合した相互送電網を構築する必要がある。]]></summary>
-        <author>
-            <name>James Temple</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[百聞は一見に如かず！！【データのじかん】データに関連する展示会情報局｜2021年8月公開版]]></title>
         <id>https://data.wingarc.com/?p=29627</id>
         <link href="https://data.wingarc.com/datatimes_recommended_event-29627"/>
@@ -948,16 +1053,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         <summary type="html"><![CDATA[2021.07.06 update! 「コールセンター/CRM デモ＆コンファレンス 2021 in 大阪（第14回）」（2021/7/20開催） 「Japan Robot Week in Aichi」（2021/9/9 […]]]></summary>
         <author>
             <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[土星内部に「揺れ動くコア」が存在か＝米最新研究]]></title>
-        <id>https://www.technologyreview.jp/?p=254071</id>
-        <link href="https://www.technologyreview.jp/s/254071/saturns-insides-are-sloshing-around/"/>
-        <updated>2021-08-17T01:56:47.000Z</updated>
-        <summary type="html"><![CDATA[カリフォルニア工科大学の研究によると、土星内部には岩石や氷のような物質が密集した明確なコアは存在せず、ぼんやりと拡散したコアが存在するという。NASAのミッションで収集された土星の環の地震計データからモデル化した。]]></summary>
-        <author>
-            <name>Neel V. Patel</name>
         </author>
     </entry>
     <entry>
@@ -1083,17 +1178,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「OK Google、おやすみ」といったら朝までエアコンを間欠運転する]]></title>
-        <id>https://techracho.bpsinc.jp/en_tak/2021_08_12/110272</id>
-        <link href="https://techracho.bpsinc.jp/en_tak/2021_08_12/110272"/>
-        <updated>2021-08-12T08:30:55.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/google_home_air_conditioner_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>夏の睡眠中エアコン問題 こんにちは、えんどうです。 皆さん夏の寝ている間はエアコンどうしてますか？人によってさまざまだと思いますが、私は つけっぱなしは寒い タイマーは切れると暑くて起きる というわけで、アナログなプログラムタイマーのようにOn/Offを繰り返したいと思いました。 そんなことしなくてもエアコンは設定温度を維持するように運転するでしょ？という突っ込みは聞こえますが、それだと寒いのです。ある程度温度が波打つような感じのほうがいいです。 そして動くものができたのですが、思いのほかスマートではない絡み合ったものができてしまったので仕様書を兼ねて書くことにしました。 用語・利用するアプリやサービス この記事 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/en_tak/2021_08_12/110272" data-wpel-link="internal" target="_self">「OK Google、おやすみ」といったら朝までエアコンを間欠運転する</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年8月12日　elementaly OS 6.0 "Odin"がリリース，約2年ぶりのメジャーアップデート ── Linux Daily Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/linux_dt/202108/12</id>
         <link href="https://gihyo.jp/admin/clip/01/linux_dt/202108/12"/>
@@ -1141,17 +1225,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         <summary type="html"><![CDATA[Amazon Athena はインタラクティブなクエリサービスで、Amazon S3 内のデータを標準 SQL を使用して簡単に分析できるようになります。Athena はサーバーレスなので、インフラストラクチャの管理は不要です。実行したクエリに対してのみ料金が発生します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter: 最小限のChangeNotifierProviderを自作してみる]]></title>
-        <id>https://techracho.bpsinc.jp/u-ichi/2021_08_11/110481</id>
-        <link href="https://techracho.bpsinc.jp/u-ichi/2021_08_11/110481"/>
-        <updated>2021-08-11T08:30:23.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/flutter_minimum_changenotifierprovider_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>本記事ではproviderの一部機能を自作してみることで、Flutterにおける「ウィジェットが子孫にデータとサービスを提供するためのメカニズム」の理解を深めてみようと思います。 本記事で言及するFlutter 公式サイトの内容、記述は執筆時点(2021年8月)のものとなります はじめに Flutterでのアプリ開発においていわゆる「アプリの状態管理」はいつもHOTな話題であり、これまで様々な手法や概念、ライブラリが現れ、シンプルなものから大規模で複雑な状況まで様々な場面に応じて使い分けられて来ています。 Flutterの公式Webサイトでも状態管理について触れられており、アプリの状態管理については「Simple [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/u-ichi/2021_08_11/110481" data-wpel-link="internal" target="_self">Flutter: 最小限のChangeNotifierProviderを自作してみる</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -1272,50 +1345,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         <summary type="html"><![CDATA[AWS Data Exchange サブスクライバーは、AWS License Manager を使用して、AWS Data Exchange 製品に対する組織のエンタイトルメントを追跡および管理できるようになりました。この拡張機能により、サブスクライバーは個々のアカウント ID または Organization ID を使用してライセンスを管理および配布できます。これにより、AWS Data Exchange を介して取得されたデータに AWS 組織内の他のアカウントがアクセスできるようになります。精巧な AWS アカウント構造を持つ組織の場合、これにより、アカウント間でデータエンタイトルメントを管理する負担が軽減されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: システムテスト用headlessドライバにCupriteが追加、rails-mini-profiler、Jeremy Evansインタビューほか（20210810）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_08_10/110457</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_08_10/110457"/>
-        <updated>2021-08-10T10:07:13.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/railswatch_20210810_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。今回は短縮版でお送りします。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_08_10/110457" data-wpel-link="internal" target="_self">週刊Railsウォッチ: システムテスト用headlessドライバにCupriteが追加、rails-mini-profiler、Jeremy Evansインタビューほか（20210810）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javaニュース総まとめ: MicroProfile 4.1、Spring Bootアップデート、 Kotlin、Scala、OpenJDK、Liberica JDK]]></title>
-        <id>https://www.infoq.com/jp/news/2021/08/java-news-roundup-jul19-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/08/java-news-roundup-jul19-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-08-10T09:46:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月19日の今週のJava総まとめでは、JDK 17、JDK 18、OpenJDK、Liberica JDK、GraalVM、MicroProfile 4.1、Quarkus 2.0.3、Hibernate、Spring Framework、JobRunr 3.4.0、RefactorFirst 0.1.0、Apache Tika 2.0.0、Kotlin 1.5.30-M1、Scala 3.0.1とScala 3.0.2-M1のニュースを取り上げる。
- By Michael Redlich  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Michael Redlich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google CloudがCO2排出量最少のリージョンを選択するオプションを導入]]></title>
-        <id>https://www.infoq.com/jp/news/2021/08/google-cloud-low-carbon-region/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/08/google-cloud-low-carbon-region/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-08-10T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleは先頃、CO2排出量の最も少ないGoogle Cloudリージョンを選択するオプションを導入した。新機能の対象は、現時点ではCloud RunおよびDatastreamに限定されているが、将来的にはより広範なGoogle Cloudサービスで提供されるようになる予定である。
- By Renato Losio  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーティクル: GitHubのモノリスからマイクロサービスへのジャーニー]]></title>
-        <id>https://www.infoq.com/jp/articles/github-monolith-microservices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/articles/github-monolith-microservices/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-08-10T09:28:00.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、GitHubの最近のマイクロサービスアーキテクチャに向けたジャーニーについて説明します。 GitHubの歴史的および現在の状態を詳しく調べ、いくつかの内部および外部の要因を検討し、マイクロサービスアーキテクチャを実装するための主要な概念やベストプラクティスなど、Githubが移行にどのように取り組んだかについての実際の検討事項について説明します。
- By Sha Ma  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Sha Ma</name>
         </author>
     </entry>
     <entry>
@@ -1779,16 +1808,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Salesforce.comもRPAに参入へ、RPAベンダのServicetraceを買収で。MuleSoftと統合]]></title>
-        <id>https://www.publickey1.jp/blog/21/salesforcecomrparpaservicetracemulesoft.html</id>
-        <link href="https://www.publickey1.jp/blog/21/salesforcecomrparpaservicetracemulesoft.html"/>
-        <updated>2021-08-04T15:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Salesforce.comは、RPAベンダのServicetraceを買収し、2018年に買収したMulesoftの一部とすることを発表しました。 Servicetrace signs a definitive agreement to ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Redshift が認証プロファイルで JDBC/ODBC の使用を簡素化]]></title>
         <id>d93639749d100fd1ee0cd745bc3364304a1e0efd</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-redshift-simplifies-use-jdbc-odbc-authentication-profile/"/>
@@ -1829,16 +1848,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[高密度ローカル HDD ストレージを備えた Amazon EC2 D3 インスタンスが、欧州 (ロンドン) リージョンで利用可能になりました]]></title>
-        <id>878a19bbcf05a9863d33c769077ca49889884dad</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/07/amazon-ec2-d3-instances-dense-local-hdd-storage-available-europe-london-region/"/>
-        <updated>2021-08-03T09:52:53.000Z</updated>
-        <summary type="html"><![CDATA[本日より、最新世代の高密度 HDD ストレージインスタンスである Amazon EC2 D3 インスタンスが、欧州 (ロンドン) リージョンで利用可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年8月3日　誰もメンテしてくれなくなったから ―openSUSEプロジェクト，コミュニティポータルをシャットダウン ── Linux Daily Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/linux_dt/202108/03</id>
         <link href="https://gihyo.jp/admin/clip/01/linux_dt/202108/03"/>
@@ -1856,16 +1865,6 @@ InfoQは今回、GitHubのDeveloper Policyの責任者であるMike Linksvayer�
         <summary type="html"><![CDATA[今回もMySQL 8.0で追加されたパスワード周りの機能として，バージョン8.0.13で追加されたパスワード検証必須ポリシーと，バージョン8.0.19で追加された，ログイン失敗時のアカウントの一時ロックについて説明します。]]></summary>
         <author>
             <name>深町日出海</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナ禍で生活や労働に関する意識はどう変化した？データで探る「ニューノーマル」]]></title>
-        <id>https://data.wingarc.com/?p=31018</id>
-        <link href="https://data.wingarc.com/how-our-lives-changed-31018"/>
-        <updated>2021-08-02T23:00:13.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症の影響の拡大で大きく生活が変化した2020年。 生活や労働に対する人々の意識はどのように変化したのでしょうか？今回は内閣府がおこなった「新型コロナウイルス感染症の影響下における生活意識・行動の変化 […]]]></summary>
-        <author>
-            <name>大藤 ヨシヲ</name>
         </author>
     </entry>
     <entry>
