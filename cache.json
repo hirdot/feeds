@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11611",
+          "author": "Kenichi Suzuki",
+          "description": "検索結果に表示するページタイトルを生成するアルゴリズムを Google は若干修正した模様。",
+          "link": "https://www.suzukikenichi.com/blog/google-seems-to-tweak-algorithm-to-generate-titiles/",
+          "publishedOn": "2021-09-15T21:50:20.000Z",
+          "wordCount": 520,
+          "title": "Google、タイトル生成アルゴリズムを若干修正か？"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11609",
           "author": "Kenichi Suzuki",
           "description": "Google News Initiative が主催する Community News Summit というオンラインイベントが 8 月に開催された。Danny Sullivan 氏が語った Google ニュースのランキング要因や掲載に必要な条件をまとめる。",
@@ -20,7 +29,7 @@
           "description": "ファーストビューに表示される画像に Lazy-load が設定されていて、その画像が LCP だと判定されているときに Lighthouse が警告を出すようになる。",
           "link": "https://www.suzukikenichi.com/blog/lighthouse-detects-when-the-lcp-images-above-the-fold-are-not-lazy-loaded/",
           "publishedOn": "2021-09-13T21:30:43.000Z",
-          "wordCount": 582,
+          "wordCount": 581,
           "title": "LCPを悪化させるファーストビューの遅延読み込み画像をLighthouseが検出"
         },
         {
@@ -29,7 +38,7 @@
           "description": "EC サイトのカテゴリページに掲載していた長い文字コンテンツを削除したところ、検索順位が回復した事例。",
           "link": "https://www.suzukikenichi.com/blog/case-study-where-reducing-long-content-produced-recovery-from-ranking-drop/",
           "publishedOn": "2021-09-12T21:30:53.000Z",
-          "wordCount": 532,
+          "wordCount": 531,
           "title": "【ECサイトSEO】カテゴリページから長文コンテンツを削除して順位回復した事例"
         },
         {
@@ -38,7 +47,7 @@
           "description": "Google マイビジネスに関係する 2 つの新しい情報を伝える――ローカルナレッジパネルから投稿、サイト管理者の廃止",
           "link": "https://www.suzukikenichi.com/blog/you-can-now-add-posts-from-local-knowledge-panel/",
           "publishedOn": "2021-09-09T22:00:29.000Z",
-          "wordCount": 551,
+          "wordCount": 550,
           "title": "Googleマイビジネスの投稿をナレッジパネルから作成する & サイト管理者の廃止"
         },
         {
@@ -47,22 +56,13 @@
           "description": "さまざまなデバイスでウェブストーリーがどのように表示されるのかをプレビューする機能が提供された。また、新しい機能がウェブストーリーで利用できるようになっている。",
           "link": "https://www.suzukikenichi.com/blog/preview-mode-and-4-new-features-of-web-stories/",
           "publishedOn": "2021-09-08T21:50:55.000Z",
-          "wordCount": 521,
+          "wordCount": 520,
           "title": "ウェブストーリーのプレビューモードと4つの新機能",
           "enclosure": {
             "url": "https://www.suzukikenichi.com/images/ezgif.com-gif-maker-13.mp4",
             "length": "207444",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/?p=11595",
-          "author": "Kenichi Suzuki",
-          "description": "Page Experience Update（ページ エクスペリエンス アップデート）の展開を Google は完了した。",
-          "link": "https://www.suzukikenichi.com/blog/google-completed-rolling-out-page-experience-update/",
-          "publishedOn": "2021-09-07T22:05:27.000Z",
-          "wordCount": 645,
-          "title": "Google、ページ エクスペリエンス アップデートの展開を完了"
         }
       ]
     },
@@ -71,6 +71,15 @@
       "feedUrl": "https://feed.infoq.com/jp/architecture-design/",
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
+        {
+          "id": "https://www.infoq.com/jp/news/2021/09/cloud-functions-min-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "GoogleのFunction as a Service（FaaS）製品のCloud Functionsが、最小（'min'）インスタンスをサポートするようになった。この新機能により、Googleは「コールドスタート」と呼ばれるFaaSのよく知られた摩擦点を取り除くことを目指している。\n By Steef-Jan Wiggers  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/09/cloud-functions-min-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-09-15T10:21:00.000Z",
+          "wordCount": 1634,
+          "title": "Googleがコールドスタート低減のために最小インスタンスを導入"
+        },
         {
           "id": "https://www.infoq.com/jp/news/2021/09/java-news-roundup-aug30-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Michael Redlich",
@@ -113,7 +122,7 @@
           "description": "Silvia Esparrachiari氏は、小さな変更がシステムにどのように影響するかについてのストーリーを共有し、変更がシステムにどのように影響するかをよりよく理解するために、システムの広い視野を持つことの重要性について説明している。彼女は3つの異なるシナリオを示している。マイクロサービス環境での依存関係管理に関連したものである。これらはすべて、彼女がGoogleでの業務中に遭遇した体験に基づくものだ。\n By Silvia Esparrachiari, Betsy Beyer  Translated by 編集部T _",
           "link": "https://www.infoq.com/jp/articles/pitfalls-patterns-microservice-dependency-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-09-13T01:57:00.000Z",
-          "wordCount": 1289,
+          "wordCount": 1294,
           "title": "アーティクル: マイクロサービスの依存関係管理における落とし穴とパターン"
         },
         {
@@ -140,7 +149,7 @@
           "description": "先日のインタビュー中、NetflixのエンジニアリングディレクタでQCon Plus November 2021のプログラム委員会のメンバを務めるKaren Casella氏が、ソフトウェアリーダが注目すべき3つの時事的テーマに関するトラックを紹介してくれた。\n By Adelina Turcu  Translated by  h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/09/qcon-plus-karen-casella/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-09-09T00:40:00.000Z",
-          "wordCount": 1681,
+          "wordCount": 1673,
           "title": "QCon Plusの必聴３トラック - Karen Casella氏に聞く"
         },
         {
@@ -158,7 +167,7 @@
           "description": "Azure Cosmos DBは、グローバル分散された、フルマネージドのNoSQLデータベースサービスだ。最近、MicrosoftはCosmos DBの何千もの顧客に、データが晒されてしまう脆弱性について警告した。サービスの欠陥により、悪意のある攻撃者にアクセスキーが付与され、機密データが盗まれたり、変更されたり、削除されたりする可能性がある。\n By Steef-Jan Wiggers  Translated by 編集部T _",
           "link": "https://www.infoq.com/jp/news/2021/09/azure-cosmosdb-vulnerabilty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-09-09T00:34:00.000Z",
-          "wordCount": 1638,
+          "wordCount": 1637,
           "title": "MicrosoftがAzure Cosmos DBの重大な脆弱性について顧客に警告"
         },
         {
@@ -176,7 +185,7 @@
           "description": "AWSは先頃、Amazon Athena分析環境を使ってAWSサービスログを対象にセキュリティ調査を行うオープンソースフレームワークとして、Security Analytics Bootstrapを発表した。\n By Renato Losio  Translated by  h_yoshida _",
           "link": "https://www.infoq.com/jp/news/2021/09/aws-security-analytics-bootstrap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "publishedOn": "2021-09-08T01:25:00.000Z",
-          "wordCount": 1650,
+          "wordCount": 1649,
           "title": "AWSがセキュリティ調査のためのSecurity Analytics Bootstrapを提供"
         },
         {
@@ -196,15 +205,6 @@
           "publishedOn": "2021-09-06T06:10:00.000Z",
           "wordCount": 1020,
           "title": "ソフトウェアエンジニアリングの今後を明らかにするQCon Plusオンラインソフトウェアカンファレンス(11月1~12日)"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/09/java-news-roundup-aug16-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週2021年8月16日のJava総まとめでは、Micronaut 3.0、OpenJDK、JDK 18、Spring BootおよびSpring Toolsのアップデート、新しいOpen Libertyスタータツール、GraalVM Native Build Tools 0.9.3、Payara Platformのアップデート、Quarkus 2.1.3、Eclipse OpenMQ 6.2、およびVisual Studio CodeのJavaの7月の更新からのニュースを特集する。\n By Michael Redlich  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/09/java-news-roundup-aug16-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-09-03T10:05:00.000Z",
-          "wordCount": 1855,
-          "title": "Javaニュース総まとめ: Micronaut 3.0、Open Liberty Starter、Spring Boot、GraalVM、JEP 400"
         }
       ]
     },
@@ -219,7 +219,7 @@
           "description": "新型コロナウイルス感染症の拡大を抑えるために、各国は接触追跡アプリの開発を急いだ。しかし、アプリは当初の期待ほどは普及しなかった。その理由について、最も重要な専門家が置き去りにされたと識者は語る。",
           "link": "https://www.technologyreview.jp/s/256524/pandemic-tech-left-out-public-health-experts-heres-why-that-needs-to-change/",
           "publishedOn": "2021-09-14T21:36:20.000Z",
-          "wordCount": 542,
+          "wordCount": 543,
           "title": "接触追跡アプリはどこでつまずいたのか？ 専門家に聞く"
         },
         {
@@ -228,7 +228,7 @@
           "description": "世界の人口が集中する巨大都市が二酸化炭素排出量を削減するだけで、気候変動の影響を大きく緩和できる可能性がある。",
           "link": "https://www.technologyreview.jp/s/242014/how-megacities-could-lead-the-fight-against-climate-change/",
           "publishedOn": "2021-09-14T07:23:49.000Z",
-          "wordCount": 641,
+          "wordCount": 619,
           "title": "図解：気候変動対策の鍵は巨大都市にある"
         },
         {
@@ -237,7 +237,7 @@
           "description": "リモートワークやハイブリッドワークが当たり前になり、ビデオ会議が普通のものになった。しかし、多くの人がビデオ会議にうんざりしていることも確かだ。そこで、会議にビデオゲームやVRの要素を取り入れる動きが活発になっている。",
           "link": "https://www.technologyreview.jp/s/256162/meetings-suck-can-we-make-them-more-fun/",
           "publishedOn": "2021-09-14T02:26:28.000Z",
-          "wordCount": 535,
+          "wordCount": 536,
           "title": "「ズーム疲れ」時代のつまらないテレカンを盛り上げる方法"
         },
         {
@@ -291,7 +291,7 @@
           "description": "米国のバイデン大統領は大企業を対象に、従業員にワクチン接種を受けさせることを求める大統領令に署名した。停滞する接種率を踏まえ、これまでの「アメ」から「ムチ」に方針を転換した。",
           "link": "https://www.technologyreview.jp/s/256330/theres-a-gig-worker-sized-hole-in-bidens-vaccine-mandate-plan/",
           "publishedOn": "2021-09-11T23:31:57.000Z",
-          "wordCount": 649,
+          "wordCount": 627,
           "title": "米大統領が大企業にワクチン接種義務化、アメからムチへ方針転換"
         },
         {
@@ -316,7 +316,7 @@
           "description": "ここがポイント：フルーガル・イノベーションと聞いてフルーティな朝ご飯をイメージするのはあながち間違っているとは言い切れない、とか。 みなさん、おはようございます。 ところで、フルーガル・イノベーションって聞いてみなさんは […]",
           "link": "https://data.wingarc.com/taimu-kun-110-34977",
           "publishedOn": "2021-09-12T23:00:50.000Z",
-          "wordCount": 673,
+          "wordCount": 672,
           "title": "【タイムくん – 第110話：フルーガル・イノベーション】"
         },
         {
@@ -325,7 +325,7 @@
           "description": "先の見えないVUCA時代、「イノベーションをどのようにして生み出すか」は大企業・中小企業問わず生き残りにおける重要テーマです。 そんななかで、「フルーガル・イノベーション」という手法が、現代にあったイノベーションの生み出 […]",
           "link": "https://data.wingarc.com/frugal-innovation-33290",
           "publishedOn": "2021-09-09T23:00:27.000Z",
-          "wordCount": 712,
+          "wordCount": 711,
           "title": "「フルーガル・イノベーション」とは？ 3つの事例、6つの原則とともにその利点を知ろう！"
         },
         {
@@ -334,7 +334,7 @@
           "description": "会社経営や事業の拡大は常にリスクとの闘いだ。ビジネスにデジタル技術やデータを活用するDX（デジタルトランスフォーメーション）を推進する企業が増えている昨今、情報セキュリティ（内部脅威）リスクへの対策の必要性は高まりつつあ […]",
           "link": "https://data.wingarc.com/howtomanagedxandsecurityrisk-34893",
           "publishedOn": "2021-09-07T00:00:26.000Z",
-          "wordCount": 825,
+          "wordCount": 824,
           "title": "DX推進により浮き彫りになる「内部脅威」。既知と未知のセキュリティリスクに必要な備えとは？"
         },
         {
@@ -343,7 +343,7 @@
           "description": "企業の枠を越え、より広く、より多くの人が交流するデータ活用の拠り所を目指すコミュニティがある。それはファイル連携ミドルウェア「HULFT（ハルフト）」とデータ連携ソフトウェア「DataSpider（データスパイダー）」の […]",
           "link": "https://data.wingarc.com/allabout_dmscube-34842",
           "publishedOn": "2021-09-02T23:00:20.000Z",
-          "wordCount": 850,
+          "wordCount": 849,
           "title": "ベンダー”らしさ”を脱却し、さらなる顧客志向へ。DMS Cubeが目指すコミュニティは「データ活用者の拠り所」"
         },
         {
@@ -352,7 +352,7 @@
           "description": "「データのじかん」を運営するウイングアーク１ｓｔ株式会社も認定された健康経営優良法人（ホワイト500等）。 先月の2021年8月30日、「健康経営銘柄2022」および「健康経営優良法人2022」の申請受付を開始しました。 […]",
           "link": "https://data.wingarc.com/healthandproductivetycompanyreports-34590",
           "publishedOn": "2021-09-02T00:36:47.000Z",
-          "wordCount": 593,
+          "wordCount": 592,
           "title": "健康経営と健康アウトカム、企業価値に関する調査レポート"
         },
         {
@@ -361,7 +361,7 @@
           "description": "2021.09.01 update! 「教育総合サミット」（2021/9/29開催） 「日経クロスヘルス EXPO 2021」（2021/10/11開催） 【データのじかん】では最新の技術の結晶ともいうべき技術・製品、知 […]",
           "link": "https://data.wingarc.com/datatimes_recommended_event-29627",
           "publishedOn": "2021-09-01T03:15:42.000Z",
-          "wordCount": 3050,
+          "wordCount": 3049,
           "title": "百聞は一見に如かず！！【データのじかん】データに関連する展示会情報局｜2021年9月公開版"
         },
         {
@@ -370,7 +370,7 @@
           "description": "IoTはDXを実現する重要なテクノロジーの一つだ。とりわけ製造業では、工程改善や生産性向上の有効なツールと目されている。しかし、多くの企業がIoTによるDXに取り組むも、描いていた成果にたどり着けずにいる。これは、何もI […]",
           "link": "https://data.wingarc.com/with_ambienttakehikoshimojima-34635",
           "publishedOn": "2021-08-31T00:00:55.000Z",
-          "wordCount": 975,
+          "wordCount": 974,
           "title": "現場から始めるIoT。 導入の障壁となる「ミッシングリンク」を解消するために"
         },
         {
@@ -379,7 +379,7 @@
           "description": "ここがポイント：ビジネストランスレーターって全然翻訳業務とは関係ないお仕事なんだそうです。 みなさん、おはようございます。 ビジネストランスレーターになりたいですって宣言した以上、どのタイミングで求められてもすぐにアクシ […]",
           "link": "https://data.wingarc.com/taimu-kun-109-34543",
           "publishedOn": "2021-08-29T23:00:15.000Z",
-          "wordCount": 1178,
+          "wordCount": 1177,
           "title": "【タイムくん – 第109話：ビジネストランスレーター】"
         },
         {
@@ -388,7 +388,7 @@
           "description": "IT人材のニーズはIT業界内外で高まってきています。 AIやデータ活用の一般化が進む中でコロナ禍が生じ、危機感を持ってDXに取り組む企業はさらに増えました。「日本における企業のデジタルトランスフォーメーション調査（202 […]",
           "link": "https://data.wingarc.com/who-is-business-translator-34450",
           "publishedOn": "2021-08-29T22:55:21.000Z",
-          "wordCount": 731,
+          "wordCount": 730,
           "title": "ビジネストランスレーターとは？ その役割やメリット、必要なスキルを紹介"
         },
         {
@@ -397,7 +397,7 @@
           "description": "2020年度から急速に広まり続けている企業の「テレワーク」 テレワークは通勤ラッシュの解消、通勤時間・交通費・オフィス賃料の削減、そして新型コロナの感染対策として掲げている「3密」の回避に効果的なため、現在でも支持・推進 […]",
           "link": "https://data.wingarc.com/seminarlist_202109-34471",
           "publishedOn": "2021-08-25T23:00:01.000Z",
-          "wordCount": 1373,
+          "wordCount": 1372,
           "title": "業務効率改善推進者必見！！｜ペーパーレス化対策イベント・セミナー5選｜2021年9月版"
         }
       ]
@@ -408,13 +408,31 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/21/dockergoogle_cloud_run.html",
+          "author": null,
+          "description": "Googleは、Dockerコンテナをサーバレスで実行するサービス「Cloud Run」の新機能として、非同期処理などを可能にする「CPU allocation on Cloud Run」機能をプレビューとして発表しました。   非同期処理...",
+          "link": "https://www.publickey1.jp/blog/21/dockergoogle_cloud_run.html",
+          "publishedOn": "2021-09-15T16:38:33.000Z",
+          "wordCount": 166,
+          "title": "Dockerコンテナをサーバレス化する「Google Cloud Run」で、非同期処理やバックグラウンドタスクなどが実行可能に"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/oracle_jdkjava_17.html",
+          "author": null,
+          "description": "オラクルは、同社が提供している企業向けのJavaディストリビューションであるOracle JDKのライセンスを変更し、無料で本番環境などでの利用を可能にしました。   同社が9月14日付で公開したブログ「Introducing the Fr...",
+          "link": "https://www.publickey1.jp/blog/21/oracle_jdkjava_17.html",
+          "publishedOn": "2021-09-15T04:57:50.000Z",
+          "wordCount": 236,
+          "title": "オラクル、Oracle JDKを再び無料提供へ、本番環境でも利用可。昨日リリースのJava 17から"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/3java_17m1_macseald_class.html",
           "author": null,
           "description": "Javaの新バージョン「Java 17」が正式にリリースされました。Java 17は、Java 11以来3年ぶりの長期サポート対象となるJavaのバージョンです。 Java 17 is now available! #Java17 #JDK...",
           "link": "https://www.publickey1.jp/blog/21/3java_17m1_macseald_class.html",
           "publishedOn": "2021-09-14T16:35:46.000Z",
-          "wordCount": 240,
-          "title": "3年ぶりの長期サポート版となる「Java 17」正式版がリリース。M1 Macのサポート、Seald Classの追加など"
+          "wordCount": 252,
+          "title": "3年ぶりの長期サポート版となる「Java 17」正式版がリリース。M1 Macのサポート、Sealed Classの追加など"
         },
         {
           "id": "https://www.publickey1.jp/blog/21/openinfra_foundationopnestack_foundationazureopenstack.html",
@@ -422,7 +440,7 @@
           "description": "マイクロソフトがOpenInfra Foundationに加盟したことが発表されました。 Say hi to @Microsoft, the #OpenInfra Foundation's newest Platinum Membe...",
           "link": "https://www.publickey1.jp/blog/21/openinfra_foundationopnestack_foundationazureopenstack.html",
           "publishedOn": "2021-09-13T16:11:20.000Z",
-          "wordCount": 214,
+          "wordCount": 215,
           "title": "マイクロソフトがOpenInfra Foundation（旧OpenStack foundation）に最上位スポンサーで加盟へ。AzureブランドでOpenStackによるテレコム向けサービス拡大か？"
         },
         {
@@ -431,7 +449,7 @@
           "description": "Amazon Web Servicesは、Amazon EFSの新機能として自動階層化に対応した「Amazon EFS Intelligent-Tiering 」を発表しました。 Amazon EFSは、Amazon EC2などで構築したサ...",
           "link": "https://www.publickey1.jp/blog/21/nfsamazon_efsamazon_efs_intelligent-tiering.html",
           "publishedOn": "2021-09-13T16:06:14.000Z",
-          "wordCount": 169,
+          "wordCount": 170,
           "title": "マネージドなNFSサーバの「Amazon EFS」の新機能、自動階層化に対応した「Amazon EFS Intelligent-Tiering 」登場"
         },
         {
@@ -440,7 +458,7 @@
           "description": "クラウドの運用担当者にフォーカスしたオンラインイベント「Cloud Operator Days Tokyo」では、8月27日に基調講演として、Kubernetesの生みの親の一人であるクレイグ・マクラッキー氏のセッション「Kubernete...",
           "link": "https://www.publickey1.jp/blog/21/kubernetesitcloud_operator_days_tokyo.html",
           "publishedOn": "2021-09-12T18:51:16.000Z",
-          "wordCount": 249,
+          "wordCount": 250,
           "title": "Kubernetesは、ITを「チケットドリブン」から「インテントドリブン」へ変えていく。Cloud Operator Days Tokyo基調講演"
         },
         {
@@ -449,7 +467,7 @@
           "description": "Publickeyでは読者調査を2021年8月31日から9月11日までの約2週間行い、892名の読者から回答をいただきました。ご協力いただいた皆様にお礼申し上げます。ありがとうございました。 ここでは、その読者調査の結果概要を報告します。 ...",
           "link": "https://www.publickey1.jp/blog/21/publickey2021.html",
           "publishedOn": "2021-09-12T15:01:46.000Z",
-          "wordCount": 174,
+          "wordCount": 175,
           "title": "結果報告：Publickey読者調査2021。読者の中心は40代のITエンジニア。JavaScriptやLinuxやAWSに仕事で関わり、RustやPotgreSQLに興味"
         },
         {
@@ -458,7 +476,7 @@
           "description": "Amazon Web Services（AWS）は、クラウドサービスとして提供しているAmazon Elasticsearch Serviceの名称を「Amazon OpenSearch Service」へ変更することを発表しました。 同時...",
           "link": "https://www.publickey1.jp/blog/21/amazon_elasticsearch_serviceamazon_opensearch_serviceelasticsearchopensearch.html",
           "publishedOn": "2021-09-09T18:39:05.000Z",
-          "wordCount": 218,
+          "wordCount": 219,
           "title": "「Amazon Elasticsearch Service」の名称が「Amazon OpenSearch Service」に変更。ElasticsearchからフォークしたOpenSearchも採用"
         },
         {
@@ -467,7 +485,7 @@
           "description": "Amazon Web Services（AWS）は、AWS上でKubernetes環境を提供するAmazon Elastic Kubernetes Service（Amazon EKS）と同様のKubernetes環境を、オンプレミスに構築...",
           "link": "https://www.publickey1.jp/blog/21/amazon_eks_anywhereamazon_ekskubernetes.html",
           "publishedOn": "2021-09-09T15:01:55.000Z",
-          "wordCount": 215,
+          "wordCount": 216,
           "title": "Amazon EKS Anywhereが正式リリース。オンプレミスにAmazon EKSと同様のKubernetes環境を無料で構築可能"
         },
         {
@@ -476,7 +494,7 @@
           "description": "Amazonと三菱商事は、首都圏および東北地方に450カ所以上の太陽光発電設備を開発し、2022年から2023年にかけて順次稼働させることで、再生可能エネルギーによってAmazon Web Service（AWS）のデータセンターの稼働や物...",
           "link": "https://www.publickey1.jp/blog/21/amazonaws_1.html",
           "publishedOn": "2021-09-08T15:13:06.000Z",
-          "wordCount": 167,
+          "wordCount": 168,
           "title": "Amazonと三菱商事、共同で首都圏などで大規模な太陽光発電設備を開発。AWSデータセンターなどを再生可能エネルギーで稼働へ"
         },
         {
@@ -485,7 +503,7 @@
           "description": "2021年9月2日木曜日午前7時半ごろに、Amazon Web Services（AWS）の東京リージョンで大規模な障害が発生しました。 NHKニュースの報道によると、三菱UFJ銀行やみずほ銀行のスマートフォン用アプリやSBI証券などネット...",
           "link": "https://www.publickey1.jp/blog/21/92awsaws.html",
           "publishedOn": "2021-09-07T15:32:51.000Z",
-          "wordCount": 221,
+          "wordCount": 222,
           "title": "9月2日木曜日に発生したAWS東京リージョンの大規模障害、原因はネットワークデバイスの新プロトコル処理に潜在的なバグがあったこと。AWSが報告書を公開"
         },
         {
@@ -494,7 +512,7 @@
           "description": "ずっと安定して稼働していたシステムが、ある日突然エラーでクラッシュ。調べても原因が分からないので、「何らかのノイズや放射線などの影響でメモリエラーが起きたのでは？」という推測を顧客に報告した、なんて経験を持つベテランのITエンジニアは少なく...",
           "link": "https://www.publickey1.jp/blog/21/googlememory_poisoning_recoverygoogle_cloud.html",
           "publishedOn": "2021-09-07T15:25:39.000Z",
-          "wordCount": 182,
+          "wordCount": 183,
           "title": "Google、訂正不可能なメモリエラーによるクラッシュを回避する「Memory Poisoning Recovery」をGoogle Cloudで提供へ"
         },
         {
@@ -503,7 +521,7 @@
           "description": "Node.jsの作者であるライアン・ダール（Ryan Dahl）氏が新たに立ち上げた企業「Deno Company」は、サーバサイドでJavaScript/TypeScriptを実行するためのオープンソースのフレームワーク「Deno」と、そ...",
           "link": "https://www.publickey1.jp/blog/21/denodeno_deploy2fiie_system_api.html",
           "publishedOn": "2021-09-06T15:08:27.000Z",
-          "wordCount": 206,
+          "wordCount": 207,
           "title": "Denoの分散ホスティング「Deno Deploy」ベータ2公開。FiIe System API追加、クラッシュレポートなど"
         },
         {
@@ -512,7 +530,7 @@
           "description": "企業内でシステム内製化を促進できる開発ツールとして、プログラミングが不要、もしくは簡単なプログラミングによってシステム開発を行える「ノーコード／ローコード開発ツール」が注目されています。 しかし、プログラミングが容易になり内製が進むことで、...",
           "link": "https://www.publickey1.jp/blog/21/sierpr.html",
           "publishedOn": "2021-09-05T18:47:57.000Z",
-          "wordCount": 197,
+          "wordCount": 198,
           "title": "ノーコード／ローコード開発ツールは情報シス部門とSIerの新たな関係を作り出す［PR］"
         },
         {
@@ -521,26 +539,8 @@
           "description": "マイクロソフトは、WebAssemblyとWebGLで機械学習の推論エンジンを実装した「ONNX Runtime Web」（ORT Web）をオープンソースで公開しました。 INTRODUCING: #ONNXRuntime Web (OR...",
           "link": "https://www.publickey1.jp/blog/21/webassemblywebglonnx_runtime_webort_web.html",
           "publishedOn": "2021-09-05T15:17:44.000Z",
-          "wordCount": 274,
+          "wordCount": 275,
           "title": "マイクロソフト、WebAssemblyとWebGLで推論エンジンを実装した「ONNX Runtime Web」（ORT Web）をオープンソースで公開"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/awsnetapp_ontapamazon_fsx_for_netapp_ontap.html",
-          "author": null,
-          "description": "AWSは、エンタープライズ向けのマネージドストレージサービスの新サービスとしてNetApp ONTAPのマネージドサービス「Amazon FSx for NetApp ONTAP」提供開始を発表しました。 #teamwork&mdash; ...",
-          "link": "https://www.publickey1.jp/blog/21/awsnetapp_ontapamazon_fsx_for_netapp_ontap.html",
-          "publishedOn": "2021-09-05T15:00:09.000Z",
-          "wordCount": 187,
-          "title": "AWS、NetApp ONTAPのフルマネージドサービス「Amazon FSx for NetApp ONTAP」提供開始"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcitlinefido2_servercto20218.html",
-          "author": null,
-          "description": "8月はお盆休みなどで、ふだんの月よりも記事は少なめでしたが、Publickeyとしてはダークモードへの対応、CMSとして使っているMovableTypeのメジャーバージョンアップ作業、読者アンケートの開始など、記事以外の部分での作業をみっち...",
-          "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcitlinefido2_servercto20218.html",
-          "publishedOn": "2021-09-02T15:03:42.000Z",
-          "wordCount": 194,
-          "title": "「Windows 365 Cloud PC」正式サービス／無料で読めるITまんが／LINEがFIDO2 Serverを公開、ミッチェル・ハシモト氏がCTOを退任、ほか。2021年8月の人気記事"
         }
       ]
     },
@@ -550,12 +550,21 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_15/111369",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails_tips_lightweight_components_via_helpers_stimulus_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Building lightweight components with Rails Helpers and Stimulus &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2021/04/21 著者: Matt Swanson サイト: Boring Rails 日本語タイトルは内容に即したものにしました。 Railsの技: カスタムヘルパーとStimulusで軽量コンポーネントを構築（翻訳） Railsのカスタムヘルパーのよさは見落とされがちですが、軽量コンポーネントのビルドや [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_09_15/111369\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: カスタムヘルパーとStimulusで軽量コンポーネントを構築（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_15/111369",
+          "publishedOn": "2021-09-15T08:30:32.000Z",
+          "wordCount": 395,
+          "title": "Railsの技: カスタムヘルパーとStimulusで軽量コンポーネントを構築（翻訳）"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_14/111314",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails_console_trick_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails console trick I had no idea about &#124; Arkency Blog 原文公開日: 2021/04/28 原著者: Paweł Pacana サイト: arkency Railsコンソールの思いがけない便利技（翻訳） .irbrcを調整してインタラクティブなコンソールを使いやすくすると、生産性も目に見えて向上し、フラストレーションも減らせるのでやりがいのある作業です。最近のRuby Weeklyでは、このあたりのトピックを扱う記事をいくつも見かけます。 これまでも.irbrcにいろいろ手を加えて便利にして [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_09_14/111314\" data-wpel-link=\"internal\" target=\"_self\">Railsコンソールの思いがけない便利技（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
           "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_14/111314",
           "publishedOn": "2021-09-14T08:30:06.000Z",
-          "wordCount": 330,
+          "wordCount": 329,
           "title": "Railsコンソールの思いがけない便利技（翻訳）"
         },
         {
@@ -629,15 +638,6 @@
           "publishedOn": "2021-09-02T08:30:38.000Z",
           "wordCount": 264,
           "title": "銀座Rails（season 2）の運営を引き継ぎました"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_01/111195",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/08/railswatch_20210901_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。遅ればせながら私もRubyKaigi Takeout 2021のTシャツを注文しました。 衣服を買ったのは久しぶりな気がする…… pic.twitter.com/JgCRafrFdL &#8212; yancya (@yancya) August 25, 2021 参考: Novelties &#45; RubyKaigi Takeout 2021 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成で [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_09_01/111195\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ:TruffleRubyでdig_fetchを実装、ruby/debug gem、AWSハンズオン教材ほか（20210901後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_01/111195",
-          "publishedOn": "2021-09-01T08:45:02.000Z",
-          "wordCount": 686,
-          "title": "週刊Railsウォッチ:TruffleRubyでdig_fetchを実装、ruby/debug gem、AWSハンズオン教材ほか（20210901後編）"
         }
       ]
     },
@@ -647,12 +647,21 @@
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
         {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0683",
+          "author": "柴田充也",
+          "description": "第679回ではLXD/VMの上にWindows 10をインストールしました。今回はWindows 10の代わりに別バージョンのUbuntuデスクトップを仮想マシンとして動かしてみます。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0683",
+          "publishedOn": "2021-09-15T00:51:00.000Z",
+          "wordCount": 449,
+          "title": "第683回　LXDコンテナ上にUbuntuのフルデスクトップ環境を構築する ── Ubuntu Weekly Recipe"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202109/13",
           "author": "階戸アキラ",
           "description": "Linus Torvaldsは9月12日，次期Linuxカーネル「Linux 5.15」の最初のリリース候補版（RC）となる「Linux 5.15-rc1」を公開した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202109/13",
           "publishedOn": "2021-09-13T07:00:00.000Z",
-          "wordCount": 348,
+          "wordCount": 338,
           "title": "2021年9月13日　もっとも混乱したマージウィンドウ!? ―Linux 5.15-rc1が公開，正式リリースは11月に ── Linux Daily Topics"
         },
         {
@@ -661,7 +670,7 @@
           "description": "次期カーネル「Linux 5.15」の最初のリリース候補（RC1）版は9月12日に出る予定だが…。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202109/10",
           "publishedOn": "2021-09-10T06:27:00.000Z",
-          "wordCount": 376,
+          "wordCount": 368,
           "title": "2021年9月10日　Linusもたまには折れる!? \"-Werror\"問題は「\"COMPILE_TEST\"有効時」で決着 ── Linux Daily Topics"
         },
         {
@@ -670,7 +679,7 @@
           "description": "Ubuntu certifiedなデバイスがまた増えました。今回追加されたのはAdvantech UNO-420で，20.04 LTSとCore20のCertifiedとして認定されています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/10",
           "publishedOn": "2021-09-10T00:57:00.000Z",
-          "wordCount": 410,
+          "wordCount": 396,
           "title": "2021年9月10日号　Advantech UNO-420への対応・『linux-ibm』カーネルフレーバー ── Ubuntu Weekly Topics"
         },
         {
@@ -679,7 +688,7 @@
           "description": "今回はGNOMEのオンラインアカウント機能とは何なのかを説明するとともに，具体的な設定方法を紹介します。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0682",
           "publishedOn": "2021-09-08T00:44:00.000Z",
-          "wordCount": 398,
+          "wordCount": 383,
           "title": "第682回　GNOMEのオンラインアカウント機能を極める ── Ubuntu Weekly Recipe"
         },
         {
@@ -688,7 +697,7 @@
           "description": "impishのリリースまで一ヶ月強を残し，『次の次』のUbuntu，22.04 LTSのリリースに関する暫定スケジュールが公開されています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03",
           "publishedOn": "2021-09-03T00:46:00.000Z",
-          "wordCount": 408,
+          "wordCount": 399,
           "title": "2021年9月3日号　『JJ』のリリーススケジュール・x32向けコンフィグのドロップ ── Ubuntu Weekly Topics"
         },
         {
@@ -697,7 +706,7 @@
           "description": "2021年10月にリリース予定のUbuntu 21.10ではPulseAudio 15.0が利用可能で，HD Voice（Wide Band Speech）のコーデックがサポートされます。そこで今回は実際に，現時点のUbuntu 21.10でHD Voiceが使えるか確認してみます。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0681",
           "publishedOn": "2021-09-01T00:54:00.000Z",
-          "wordCount": 642,
+          "wordCount": 629,
           "title": "第681回　BluetoothヘッドセットでHD Voiceを使う ── Ubuntu Weekly Recipe"
         },
         {
@@ -706,7 +715,7 @@
           "description": "Linus Torvaldsは8月29日，「Linux 5.14」の正式リリースを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/31",
           "publishedOn": "2021-08-31T07:38:00.000Z",
-          "wordCount": 403,
+          "wordCount": 393,
           "title": "2021年8月31日　お祭り騒ぎはもうおしまい ―Linux 5.14リリース，コアスケジューリングが統合 ── Linux Daily Topics"
         },
         {
@@ -715,7 +724,7 @@
           "description": "延期になっていたUbuntu 20.04.3が無事にリリースされました。また，impishの開発はFeature Freezeを迎え，新機能の投入には一定の制限がかかるようになりました。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/27",
           "publishedOn": "2021-08-27T00:52:00.000Z",
-          "wordCount": 530,
+          "wordCount": 522,
           "title": "2021年8月27日号　Ubuntu 20.04.3のリリース・impishのFeature Freeze ── Ubuntu Weekly Topics"
         },
         {
@@ -724,7 +733,7 @@
           "description": "8月25日，Linuxは誕生からちょうど30周年を迎えた。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/26",
           "publishedOn": "2021-08-26T06:43:00.000Z",
-          "wordCount": 437,
+          "wordCount": 426,
           "title": "2021年8月26日　Happy Anniversary! Linux，30歳になる ── Linux Daily Topics"
         },
         {
@@ -733,7 +742,7 @@
           "description": "第679回ではLXD/VMの上にWindows 10をインストールしました。 今回は，このLXDコンテナ上のWindowsでWSL2を楽しむ方法をお伝えします。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680",
           "publishedOn": "2021-08-25T00:49:00.000Z",
-          "wordCount": 504,
+          "wordCount": 492,
           "title": "第680回　LXDコンテナ上のWindowsでWSL環境を整える ── Ubuntu Weekly Recipe"
         },
         {
@@ -742,7 +751,7 @@
           "description": "The Document Foundationは8月19日，クロスプラットフォームのオフィススイート「LibreOffice 7.2 Community」の正式リリースを発表した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/20",
           "publishedOn": "2021-08-20T06:42:00.000Z",
-          "wordCount": 417,
+          "wordCount": 409,
           "title": "2021年8月20日　LibreOffice 7.2 Communityリリース，Apple Siliconをネイティブサポート ── Linux Daily Topics"
         },
         {
@@ -751,7 +760,7 @@
           "description": "システムコンテナの管理ソフトウェアであるLXDは3.19から仮想マシンインスタンスもサポートするようになりました。  今回はLXDを使って「Windowsインスタンス」を起動してみましょう。",
           "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0679",
           "publishedOn": "2021-08-18T00:50:00.000Z",
-          "wordCount": 561,
+          "wordCount": 549,
           "title": "第679回　LXD上にWindowsをインストールする ── Ubuntu Weekly Recipe"
         }
       ]
@@ -767,7 +776,7 @@
           "description": "ここ数年で急速にOSSコミュニティが拡大している中国では，OSやプログラミング言語といった，これまでの代表的なソフトウェアとは違うOSSが登場してきました。いくつか代表的な分野のOSSを紹介しましょう。",
           "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0002",
           "publishedOn": "2021-09-08T00:54:00.000Z",
-          "wordCount": 374,
+          "wordCount": 363,
           "title": "第2回　中国の独自OSSは世界に広がるか？ ── 日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く"
         },
         {
@@ -776,7 +785,7 @@
           "description": "皆さんこんにちは！カンファレンススタッフのあっきーです。「PyCon JP 2021の歩き方」と題してPyCon JP 2021をより楽しめるような内容をお届けします。",
           "link": "https://gihyo.jp/dev/column/01/prog/2021/09/0601",
           "publishedOn": "2021-09-07T05:08:00.000Z",
-          "wordCount": 405,
+          "wordCount": 395,
           "title": "PyCon JP 2021の歩き方 ── 一般記事"
         },
         {
@@ -785,7 +794,7 @@
           "description": "本連載ではこれまでスロークエリログについて，いくつか紹介してきました。今回は，MySQL 8.0から追加されたスロークエリログの出力項目の拡張機能（log_slow_extra）や出力される項目について紹介したいと思います。",
           "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0154",
           "publishedOn": "2021-09-07T00:15:00.000Z",
-          "wordCount": 504,
+          "wordCount": 494,
           "title": "第154回　スロークエリログに出力される項目とlog_slow_extra ── MySQL道普請便り"
         },
         {
@@ -794,7 +803,7 @@
           "description": "多くのスマートフォンやネットワーク機器を開発している中国からのOSSへの貢献が，ここ数年，大きく目立つようになってきました。LinuxカーネルV5.10のコミットは13.4％が中国からで，最も貢献の多い国の1つです。",
           "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0001",
           "publishedOn": "2021-09-01T00:16:00.000Z",
-          "wordCount": 348,
+          "wordCount": 337,
           "title": "第1回　中国が注目する「儲かるオープンソース」 ── 日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く"
         },
         {
@@ -803,7 +812,7 @@
           "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
           "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0073",
           "publishedOn": "2021-09-01T00:15:20.000Z",
-          "wordCount": 589,
+          "wordCount": 579,
           "title": "第73回　新刊『オープンソースの教科書』，MySQL Autopilotリリース， PostgreSQLは関連セミナーとマイナーリリース ── OSSデータベース取り取り時報"
         },
         {
@@ -812,7 +821,7 @@
           "description": "こんにちはこんにちは!! 暑いですね……！ ぼくはこの季節になると，そうめんばかり食べています。手軽に作れるし，カツオのたたきなどと合わせると，さっぱりしていておいしいですね！ お勧めです！",
           "link": "https://gihyo.jp/dev/serial/01/readers-forum/vol124",
           "publishedOn": "2021-09-01T00:15:00.000Z",
-          "wordCount": 408,
+          "wordCount": 398,
           "title": "WEB+DB PRESS Vol.123へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ"
         },
         {
@@ -821,7 +830,7 @@
           "description": "皆さんはMySQLからデータを論理バックアップする際にどんなコマンドを使っているでしょうか？",
           "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153",
           "publishedOn": "2021-08-24T00:15:00.000Z",
-          "wordCount": 458,
+          "wordCount": 449,
           "title": "第153回　mysqlpumpを使ってバックアップを取ってみる ── MySQL道普請便り"
         },
         {
@@ -830,7 +839,7 @@
           "description": "テックコミュニティの運営側で，その技術分野を常に追いかけているエンジニアの方々にお話をうかがうインタビュー企画。最終回のゲストとしてお迎えしたのは，データサイエンティストとして活躍する大城氏と松村氏です。",
           "link": "https://gihyo.jp/dev/serial/01/tech_community_site/0006",
           "publishedOn": "2021-08-19T00:15:40.000Z",
-          "wordCount": 368,
+          "wordCount": 356,
           "title": "最終回　AIのこれまでとこれから ── 教えて！ 最新技術―テックコミュニティの現場から"
         },
         {
@@ -839,17 +848,8 @@
           "description": "今回のテーマは「他言語のライブラリをPerlに移植する」。移植方針の目処が立ったら，いよいよ実装です。",
           "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006802",
           "publishedOn": "2021-08-18T00:15:00.000Z",
-          "wordCount": 498,
+          "wordCount": 486,
           "title": "第68回　他言語のライブラリをPerlに移植する（2） ── Perl Hackers Hub"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006801",
-          "author": "うたがわきき",
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはうたがわききさんで，テーマは「他言語のライブラリをPerlに移植する」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006801",
-          "publishedOn": "2021-08-17T00:15:00.000Z",
-          "wordCount": 484,
-          "title": "第68回　他言語のライブラリをPerlに移植する（1） ── Perl Hackers Hub"
         }
       ]
     },
@@ -858,6 +858,15 @@
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202109/16",
+          "author": "傍島康雄",
+          "description": "2021年9月第3週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202109/16",
+          "publishedOn": "2021-09-16T00:15:00.000Z",
+          "wordCount": 383,
+          "title": "2021年9月第3週　そろそろAndroid 12がリリースされるので復習 ── Android Weekly Topics"
+        },
         {
           "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0910",
           "author": null,
@@ -873,7 +882,7 @@
           "description": "本連載では以前にもWINEについて取りあげたことがあります。前回挑戦したころのWINEは4.1xから5.0くらいだったのに対し，現在のWINEは6.1xくらいまで更新されています。",
           "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0032",
           "publishedOn": "2021-09-09T00:15:40.000Z",
-          "wordCount": 411,
+          "wordCount": 401,
           "title": "第32回　Days of WINE and Struggles again［1］ ── 続・玩式草子 ―戯れせんとや生まれけん―"
         },
         {
@@ -882,7 +891,7 @@
           "description": "2021年9月第2週のAndroid関連のニュースをお届けします。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202109/09",
           "publishedOn": "2021-09-09T00:15:00.000Z",
-          "wordCount": 454,
+          "wordCount": 445,
           "title": "2021年9月第2週　この秋，期待のAndroidガジェットたち ── Android Weekly Topics"
         },
         {
@@ -891,7 +900,7 @@
           "description": "外ねこたちの仁義なき戦い…",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0902",
           "publishedOn": "2021-09-02T06:00:00.000Z",
-          "wordCount": 347,
+          "wordCount": 338,
           "title": "2021年9月2日　縄張り争い ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -900,7 +909,7 @@
           "description": "2021年9月第1週のAndroid関連のニュースをお届けします。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202109/02",
           "publishedOn": "2021-09-02T00:15:00.000Z",
-          "wordCount": 450,
+          "wordCount": 441,
           "title": "2021年9月第1週　iPad一強は終了，選択肢の増えたAndroidタブレット達 ── Android Weekly Topics"
         },
         {
@@ -909,7 +918,7 @@
           "description": "Amazonは2025年までに，事業に必要な電力を100％再生可能エネルギーで賄うべく歩みを進めている―AWS アジア太平洋地域 兼 日本担当 エネルギー政策責任者 ケン・ハイグ氏はこう明言しました。",
           "link": "https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022",
           "publishedOn": "2021-08-26T05:13:00.000Z",
-          "wordCount": 420,
+          "wordCount": 405,
           "title": "第22回　クラウド移行が企業のサステナビリティを加速する ―AWS/Amazonが本気で取り組む&quot;持続可能なビジネス&quot;の構築 ── IT Cutting Edge ─世界を変えるテクノロジの最前線"
         },
         {
@@ -918,7 +927,7 @@
           "description": "2021年8月第4週のAndroid関連のニュースです。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202108/26",
           "publishedOn": "2021-08-26T00:15:20.000Z",
-          "wordCount": 388,
+          "wordCount": 376,
           "title": "2021年8月第4週　Android OSの開発にRustが使われる ── Android Weekly Topics"
         },
         {
@@ -927,7 +936,7 @@
           "description": "この作品は高校生の部活動でのバスケを題材としているとあって，どのチームも大人の監督がいて学生の選手たちがいるという構図となっています。",
           "link": "https://gihyo.jp/lifestyle/serial/01/comic_management/0002",
           "publishedOn": "2021-08-23T00:15:00.000Z",
-          "wordCount": 371,
+          "wordCount": 365,
           "title": "第2回　『SLAM DUNK』の名監督に学ぶ育成スタンス ── 漫画から学ぶマネジメント"
         },
         {
@@ -936,7 +945,7 @@
           "description": "",
           "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202108/0820",
           "publishedOn": "2021-08-20T06:00:00.000Z",
-          "wordCount": 346,
+          "wordCount": 336,
           "title": "2021年8月20日　ねこ影 ── 帰ってきた『技評ねこ部通信』"
         },
         {
@@ -945,7 +954,7 @@
           "description": "モバイルOSの歴史に関してのレビュー，第3回です。",
           "link": "https://gihyo.jp/lifestyle/clip/01/awt/202108/19",
           "publishedOn": "2021-08-19T00:15:20.000Z",
-          "wordCount": 395,
+          "wordCount": 387,
           "title": "2021年8月第3週　3番目のポストは元から存在しない？ モバイルOS温故知新（3） ── Android Weekly Topics"
         }
       ]
@@ -973,7 +982,7 @@
           "description": "株式会社ココナラについて ココナラ（以下、弊社）は、「知識・スキル・経験」といった得意を売り買いする日本最大級のスキルマーケット「ココナラ」を運営しています。 サービス開始から9周年を迎えた今、カテゴリ数は450以上、サ […]",
           "link": "https://octopass.jp/4137/",
           "publishedOn": "2021-09-08T02:00:00.000Z",
-          "wordCount": 272,
+          "wordCount": 268,
           "title": "30代・未経験からWEB業界へ挑戦、創業CTOを経験――。幾つもの難題に挑んできた村上氏が、ココナラを次の舞台に選んだ理由"
         }
       ]
@@ -990,6 +999,159 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "8a93a4c80fbe235213ba34629197a21c1ac7658d",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service は、OpenSearch Dashboards Notebooks をサポートするようになりました。これは、OpenSearch ユーザーがライブデータとクエリに裏付けられた豊富なレポートをインタラクティブかつ共同で開発できるようにする新機能です。ノートブックは、セルまたは段落で構成されたドキュメントであり、マークダウン、SQL および Piped Processing Language (PPL) クエリ、ならびにマルチタイムラインをサポートするビジュアライゼーションを組み合わせて、ユーザーが簡単にストーリーを伝えることができるようにします。ノートブックを開発し、OpenSearch Dashboards リンク (PDF または PNG) として共有し、OpenSearch Dashboards から直接更新して、OpenSearch ユーザーとそのステークホルダー間のデータ駆動型の探索とコラボレーションを促進できます。ノートブックの一般的なユースケースには、事後レポートの作成、ランブックの設計、ライブインフラストラクチャレポートの作成、さらにはドキュメント化も含まれます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/",
+          "publishedOn": "2021-09-15T18:13:53.000Z",
+          "wordCount": 295,
+          "title": "新しいビジュアルレポート機能である OpenSearch Dashboards Notebooks が Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) で利用可能に"
+        },
+        {
+          "id": "af532ead89c3645bc63a9386133467962e79cfa4",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service は、ログ、メトリクス、トレースなどの時系列データの管理を簡素化するのに役立つデータストリームをサポートするようになりました。データストリームは、時系列データ、ロールオーバープロセス、および時間ベースのデータを効率的に管理およびクエリするために必要な最適化に必要な、基盤となるインデックスを抽象化し、運用上のオーバーヘッドを削減します。データストリームの一部である、ロールオーバーされた古いインデックスを UltraWarm に移動したり、それを超えてコールドストレージに移動したりして、データをより長期に、費用対効果の高い方法で保持することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/",
+          "publishedOn": "2021-09-15T18:06:53.000Z",
+          "wordCount": 278,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が時系列データの管理を簡素化するために OpenSearch 1.0 で Data Streams のサポートを開始"
+        },
+        {
+          "id": "252577d94c7bea834a8558f68ea8f7dfe37e77b5",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) は、お客様が大規模なデータセットから重要な情報を抽出し、要約されたビューを新しいインデックスに保存できるようにするインデックス変換をサポートするようになりました。お客様は、新しい要約インデックスから、新しいインサイトを導き出し、さらに分析し、傾向を視覚化することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/",
+          "publishedOn": "2021-09-15T17:52:53.000Z",
+          "wordCount": 258,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) がインデックス変換のサポートを開始"
+        },
+        {
+          "id": "276007feaca6b0a82d82b8918b53d51d24ad2870",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elasticsearch Service の新しい名称は、Amazon OpenSearch Service です。この変更 (こちらで以前に発表されました) は、OpenSearch 1.0 のサポートの追加と同時に実行されます。Amazon OpenSearch Service で OpenSearch クラスターと Elasticsearch (バージョン 7.10 まで) クラスターの両方を実行およびスケールできるようになり、これまで Amazon Elasticsearch Service で享受してきた同じメリットをすべて享受できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elasticsearch-service-amazon-opensearch-service-opensearch-1-0/",
+          "publishedOn": "2021-09-15T17:46:53.000Z",
+          "wordCount": 321,
+          "title": "Amazon Elasticsearch Service が Amazon OpenSearch Service となり、OpenSearch 1.0 のサポートを追加"
+        },
+        {
+          "id": "24b0f88790e7a335f3584bc226e0dc2bbaece7af",
+          "author": "aws@amazon.com",
+          "description": "Amazon MQ で RabbitMQ 3.8.22 ブローカーを起動できるようになりました。このリリースには、以前にサポートされていたバージョンである RabbitMQ 3.8.17 で特定された、メッセージごとの TTL (Time to Live) を使用するキューに関する問題の修正が含まれています。RabbitMQ 3.8.22 にアップグレードすることをお勧めします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-mq-rabbitmq-version-3-8-22/",
+          "publishedOn": "2021-09-15T17:20:53.000Z",
+          "wordCount": 260,
+          "title": "Amazon MQ が RabbitMQ バージョン 3.8.22 をサポート"
+        },
+        {
+          "id": "b14a9d13b107d2d5a2af54329d12b25b4b667b82",
+          "author": "aws@amazon.com",
+          "description": "本日、シカゴ、カンザスシティ、およびミネアポリスで AWS Local Zones が一般的に利用可能となることを発表します。お客様は、これらの新しい Local Zones を使用して、これらの 3 つの都市圏のエンドユーザーまたはオンプレミスインストールに 1 桁ミリ秒のレイテンシーを必要とするアプリケーションを提供できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/general-availability-aws-local-zones/",
+          "publishedOn": "2021-09-15T17:14:53.000Z",
+          "wordCount": 252,
+          "title": "シカゴ、カンザスシティ、およびミネアポリスでの AWS Local Zones の一般提供の発表"
+        },
+        {
+          "id": "39631ca056819530dfa667479e99a838a11063cc",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は、お客様がエイリアスを使用して AWS Marketplace から購入した Amazon マシンイメージ (AMI) を参照できることを発表しました。AMI エイリアスは、デプロイスクリプトで AMI ID の代わりに使用される一意の識別子です。本日より、AWS Marketplace のすべての単一 AMI 製品でエイリアスを利用できるようになりました。これにより、バージョンが更新されるたびにリージョンごとに AMI ID を変更する必要がないため、新しい AMI の起動が簡素化されます。お客様は、現在の AWS リージョンに自動解決される単一のエイリアスを使用できます。さらに、お客様は、特定の AMI 製品の「最新」エイリアスを使用して、いつでも最新バージョンを参照できます。これにより、デプロイパイプラインが自動化され、AWS Marketplace から購入した AMI の新しいバージョンにアップグレードするために必要な手動の手順が削減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-marketplace-ami-products/",
+          "publishedOn": "2021-09-15T17:04:53.000Z",
+          "wordCount": 231,
+          "title": "AWS Marketplace がすべての単一 AMI 製品のエイリアスをリリース"
+        },
+        {
+          "id": "1fa84a07851d3eef90055396bf72cc8296577145",
+          "author": "aws@amazon.com",
+          "description": "AWS Elemental MediaPackage は、Secure Packager and Encoder Key Exchange (SPEKE) API のバージョン 2.0 をサポートするようになりました。SPEKE v2 を使用すると、ネイティブの Content Protection Information Exchange Format (CPIX) 2.3 ドキュメントを使用できるようになり、さまざまなメディアトラックに複数の暗号化キーを使用できるようになります。MediaPackage と SPEKE v2 を使用することで、2 つのキーを使用できるようになりました。1 つは音声トラック用、もう 1 つはライブ DASH および CMAF ストリームを含む動画トラック用で、コンテンツ保護要件に対応する、より複雑な暗号化モデルがサポートされています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/multi-key-encryption-aws-elemental-mediapackage-speke-2-0/",
+          "publishedOn": "2021-09-15T13:21:53.000Z",
+          "wordCount": 289,
+          "title": "AWS Elemental MediaPackage および SPEKE v2.0 でマルチキー暗号化のサポートが利用可能に"
+        },
+        {
+          "id": "8d22a598a1a2e02ef3d93c59a2a368668430ec97",
+          "author": "aws@amazon.com",
+          "description": "Amazon Detective は、Splunk Trumpet プロジェクトと連携して、Splunk での Amazon GuardDuty の検出結果から Amazon Detective エンティティプロファイルに直接ピボットする機能をリリースしました。これにより、お客様は、潜在的なセキュリティ問題や疑わしいアクティビティの根本原因をすばやく特定できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-detective-splunk-integration/",
+          "publishedOn": "2021-09-15T13:09:53.000Z",
+          "wordCount": 312,
+          "title": "Amazon Detective が Splunk 統合を提供"
+        },
+        {
+          "id": "bfc16dd16a82d5fbf71fa0af4f027e860f18e22f",
+          "author": "aws@amazon.com",
+          "description": "AWS Cloud9 がアジアパシフィック (大阪) およびアフリカ (ケープタウン) で利用可能になりました。AWS Cloud9 は、ブラウザのみでコードを記述、実行、デバッグできるクラウドベースの統合開発環境 (IDE) です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/cloud9-available-more-regions/",
+          "publishedOn": "2021-09-15T13:03:53.000Z",
+          "wordCount": 216,
+          "title": "Cloud9 がさらに 2 つのリージョンで利用可能に"
+        },
+        {
+          "id": "53f807bcba4c25fcd64ff22b62e35fcadf2dc73d",
+          "author": "aws@amazon.com",
+          "description": "AWS マネージドサービス (AMS) は、追加の熟練した AMS オペレーション能力、スキル、および経験を活用するための柔軟でスケーラブルなオプションである Operations on Demand を発表します。Operations on Demand により、お客様は、AMS Operations Plans によって提供される広範な範囲を超えた、あらゆるオペレーション機能にアクセスできます。お客様は、オートメーションと高度なスキルを持つ AMS リソースの組み合わせによって提供される、厳選された継続的に拡大するオペレーションサービスのカタログから選択します。カタログには、短期および継続的なオペレーションユースケースが混在しており、既存のオペレーションを補完したり、知識や能力のギャップを埋めたりするために使用できます。カタログサービスの例には、Amazon Elastic Kubernetes Service (EKS) のメンテナンスサポート、AWS Control Tower のオペレーション、SAP クラスターの管理、およびサポート対象外のオペレーティングシステムを実行しているインスタンスのインプレースアップグレードの実行が含まれます。お客様には使用した分の料金を数時間単位でお支払いいただきます。また、カタログサービスのサブスクリプションはいつでも解除できます。現在提供されているカタログサービスのリストについては、公開されているドキュメントを参照してください。Operations on Demand 機能は、AMS が利用可能なすべてのリージョンの AMS Advanced Operations Plan と AMS Accelerate Operations Plan の両方で利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-managed-services-ams-catalog-operational-on-demand/",
+          "publishedOn": "2021-09-15T12:18:53.000Z",
+          "wordCount": 252,
+          "title": "AWS マネージドサービス (AMS) が Operations on Demand でオペレーションサービスのカタログの提供を開始"
+        },
+        {
+          "id": "4589c008fdc3f5e04d1ee19e1b37b9d22fafcf9e",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere の一般提供を発表します。これは、カスタマーマネージドのインフラストラクチャで Kubernetes クラスターを作成および運用できるようにする、AWS がサポートする Amazon EKS のための新しいデプロイオプションです。本日より、お客様は、VMware vSphere を使用して、独自のオンプレミスインフラストラクチャで Amazon EKS Anywhere を実行できるようになりました。近い将来、2022 年に登場するベアメタルのサポートなど、他のデプロイターゲットもサポートされる予定です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/",
+          "publishedOn": "2021-09-15T10:11:53.000Z",
+          "wordCount": 256,
+          "title": "Amazon Elastic Kubernetes Service Anywhere が一般利用可能に"
+        },
+        {
+          "id": "b8e41163c8daefe61d609c5c9ca5a55246418cd8",
+          "author": "aws@amazon.com",
+          "description": "AWS マネージドサービス (AMS) により、お客様は AWS Launch Wizard を使用して SAP HANA ベースのワークロードをデプロイできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/",
+          "publishedOn": "2021-09-15T09:43:53.000Z",
+          "wordCount": 259,
+          "title": "AWS Launch Wizard が AWS マネージドサービスを使用するアカウントからの SAP デプロイのサポートを開始"
+        },
+        {
+          "id": "f5ea157af9f929ee8f8a0e9f923d9645cebdf46f",
+          "author": "aws@amazon.com",
+          "description": "2021 年 8 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (CDK) の 4 つの新しいバージョン (v1.117.0～v1.120.0) がリリースされました。これらのリリースには、Kinesis Firehose Construct Library への複数の追加が含まれています。これには、S3 配信ストリームの送信先における圧縮とプレフィックス、配信ストリームのメトリクス、S3 ソースのバックアップ、AWS Lambda ベースのデータプロセッサなどが含まれます。さらに、CloudFront Construct Library は Origin Shield のサポートを開始し、CloudWatch は AWS アカウント全体でのアラームの定義をサポートし、Cognito User Pools は Device Tracking のサポートを開始しました。これらのリリースは 28 の問題を解決し、ライブラリ全体の 30 の異なるモジュールで 37 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/",
+          "publishedOn": "2021-09-15T09:37:53.000Z",
+          "wordCount": 284,
+          "title": "AWS CDK が v1.117.0～v1.120.0 をリリースし、Amazon Kinesis Firehose、Amazon CloudFront、Amazon Cognito などのための改善されたサポートを提供"
+        },
+        {
+          "id": "2ac25eefe29ab11d3aaab95f22e91b54d2efd130",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (Amazon EKS) では、準拠した Kubernetes クラスターを AWS に接続し、Amazon EKS コンソールで視覚化できるようになりました。オンプレミスで実行されている Amazon EKS Anywhere クラスター、Amazon Elastic Compute Cloud (Amazon EC2) でのセルフマネージドクラスター、AWS の外部で実行されている他の Kubernetes クラスターなど、任意の準拠した Kubernetes クラスターに接続できます。クラスターが実行されている場所にかかわらず、Amazon EKS コンソールを使用して、接続されているすべてのクラスターとそれらで実行されている Kubernetes リソースを表示できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-eks-connector-public-preview/",
+          "publishedOn": "2021-09-15T09:00:53.000Z",
+          "wordCount": 251,
+          "title": "Amazon EKS Connector の公開プレビューの提供を開始"
+        },
+        {
+          "id": "0cafcdd790083041159f3fb61a0e5209a81a1410",
+          "author": "aws@amazon.com",
+          "description": "The AWS Firewall Manager Automations for AWS Organizations ソリューションを使用すると、AWS Organizations のすべてのアカウントとリソースでファイアウォールルールを一元的に設定、管理、および監査できます。このソリューションは、AWS Firewall Manager のセキュリティポリシーを設定するプロセスを自動化するリファレンス実装です。このソリューションは、AWS Centralized WAF および VPC Security Group Management ソリューションに取って代わります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-firewall-manager-automations-aws-organizations-v1-1/",
+          "publishedOn": "2021-09-15T08:37:53.000Z",
+          "wordCount": 252,
+          "title": "AWS Firewall Manager Automations for AWS Organizations v1.1 が利用可能に"
+        },
+        {
+          "id": "a993d7902c89d505235a878ff44eac120997a2af",
+          "author": "aws@amazon.com",
+          "description": "Amazon ParallelCluster は全面的なサポートとメンテナンスが提供されるオープンソースのクラスター管理ツールです。このツールを使用すると、科学者、研究者、および IT 管理者は、Amazon Web Services でハイパフォーマンスコンピューティング (HPC) クラスターのデプロイと管理をより簡単に実行できるようになります。HPC クラスターは従来、コンピューティング、ストレージ、およびネットワークリソースを緊密に結び付けたコレクションで、お客様はこれを使用して科学やエンジニアリングの分野で大規模なワークロードを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-parallelcluster-cluster-management-api-gateway/",
+          "publishedOn": "2021-09-15T02:50:53.000Z",
+          "wordCount": 268,
+          "title": "AWS ParallelCluster が Amazon API Gateway を介したクラスター管理のサポートを開始"
+        },
+        {
           "id": "e6e390264d39e5abf5506dd62c37290db0f96147",
           "author": "aws@amazon.com",
           "description": "Amazon EC2 C5d、M5d、および R5d インスタンスを休止状態にすることができるようになりました。休止機能を使用すると、EC2 インスタンスを完全に終了して再起動するのではなく、一時停止して後で再開することができます。インスタンスを再開すると、アプリケーションを中断したところから続行できるため、OS とアプリケーションを最初から再起動する必要がありません。休止機能は、アプリケーションの状態の再構築に時間がかかる場合 (デベロッパーのデスクトップなど)、またはスケールアウトの前にアプリケーションの起動手順を準備できる場合に役立ちます。",
@@ -997,24 +1159,6 @@
           "publishedOn": "2021-09-13T06:00:53.000Z",
           "wordCount": 270,
           "title": "Amazon EC2 休止機能で C5d、M5d、および R5d インスタンスのサポートが追加"
-        },
-        {
-          "id": "434d0144b701371fedb94387349bde5fc0e640a6",
-          "author": "aws@amazon.com",
-          "description": "EC2 VM Import/Export は、Unified Extensible Firmware Interface (UEFI) ブートを使用する仮想マシンの移行をサポートするようになりました。UEFI は、オペレーティングシステムを初期化する最新のファームウェアです。EC2 VM Import/Export API を使用して、レガシー BIOS に変換せずに UEFI ベースの仮想マシンを AWS EC2 で直接利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/ec2-vm-import-export-unified-extensible-firmware-interface-aws/",
-          "publishedOn": "2021-09-13T05:54:53.000Z",
-          "wordCount": 251,
-          "title": "EC2 VM Import/Export が Unified Extensible Firmware Interface (UEFI) ブートを備えた仮想マシンの AWS への移行のサポートを開始"
-        },
-        {
-          "id": "6c4a6c63f1d17e15c229f2bfdb9c061cf04a1665",
-          "author": "aws@amazon.com",
-          "description": "",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-memorydb-redis/",
-          "publishedOn": "2021-09-13T05:48:53.000Z",
-          "wordCount": 274,
-          "title": "Amazon MemoryDB for Redis の発表"
         },
         {
           "id": "aaa7b5d96c2cbdc09f37d49125f768bdfb03faf5",
@@ -1210,7 +1354,7 @@
           "author": "aws@amazon.com",
           "description": "Amazon S3 Intelligent-Tiering ストレージクラスは、128 KB 未満のオブジェクトについて、最小ストレージ期間を除外し、低いオブジェクトあたりの監視と自動化の料金を削除することで、広範なワークロードでストレージコストの削減を自動化します。S3 Intelligent-Tiering は、データのアクセスパターンが変化したときに、パフォーマンスへの影響や運用上の負担を発生させることなく、自動ストレージコストの削減を提供する唯一のクラウドストレージクラスです。以前 S3 Intelligent-Tiering は、最短 30 日間保存された長寿命オブジェクトおよび 128 KB より大きいオブジェクトについて最適化されていました。これらの変更により、S3 Intelligent-Tiering は、オブジェクトのサイズまたは保持期間にかかわらず、不明な、変化する、または予測できないアクセスパターンがあるデータのための理想的なストレージクラスとなりました。お客様は S3 Intelligent-Tiering を、データレイク、分析、および新しいアプリケーションのためのデフォルトのストレージクラスとして使用できます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/",
-          "publishedOn": "2021-09-07T20:04:53.000Z",
+          "publishedOn": "2021-09-07T20:04:54.000Z",
           "wordCount": 277,
           "title": "Amazon S3 Intelligent-Tiering が、小さなオブジェクトの最小ストレージ期間および監視と自動化の料金を削除することで、ストレージコストの削減をさらに自動化"
         },
@@ -1341,6 +1485,15 @@
           "title": "AWS Elemental MediaTailor にて、チャネルアセンブリストリーミング向け時間ベーススケジュール機能のサポートを開始"
         },
         {
+          "id": "1b9622dce07d740c66b11b9723777d57b9f33142",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Kinesis Data Firehose の動的パーティショニングを発表しました。動的パーティショニングを使用すると、「customer_id」や「transaction_id」などのデータ内のキーを使用して、Kinesis Data Firehose でストリーミングデータを継続的にパーティショニングし、これらのキーによってグループ化されたデータを対応する Amazon Simple Storage Service (Amazon S3) プレフィックスに配信できるため、Amazon Athena、Amazon EMR、Amazon Redshift Spectrum を使用して、Amazon S3 のストリーミングデータに対して高性能で費用対効果の高い分析を実行することが簡単になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/introducing-dynamic-partitioning-amazon-kinesis-data-firehose/",
+          "publishedOn": "2021-09-03T15:03:53.000Z",
+          "wordCount": 260,
+          "title": "Amazon Kinesis Data Firehose の動的パーティショニングのご紹介"
+        },
+        {
           "id": "2ea1ef979f64ff3e36b80d1a3da7cea459809e0a",
           "author": "aws@amazon.com",
           "description": "本日、AWS Copilot のバージョン 1.10 のリリースを発表しました。これは、お客様がマイクロサービスを分離してイベントを非同期に消費するために使用できる発行/サブスクライブアーキテクチャをサポートしています。お客様は、AWS Copilot を使用して、イベントドリブンのアーキテクチャを構築したり、サービスを分離したりして、パフォーマンス、信頼性、およびスケーラビリティを向上させることができるようになりました。",
@@ -1348,15 +1501,6 @@
           "publishedOn": "2021-09-03T10:57:56.000Z",
           "wordCount": 288,
           "title": "AWS Copilot が Pub/Sub アーキテクチャのサポートを開始"
-        },
-        {
-          "id": "1b9622dce07d740c66b11b9723777d57b9f33142",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Kinesis Data Firehose の動的パーティショニングを発表しました。動的パーティショニングを使用すると、「customer_id」や「transaction_id」などのデータ内のキーを使用して、Kinesis Data Firehose でストリーミングデータを継続的にパーティショニングし、これらのキーによってグループ化されたデータを対応する Amazon Simple Storage Service (Amazon S3) プレフィックスに配信できるため、Amazon Athena、Amazon EMR、Amazon Redshift Spectrum を使用して、Amazon S3 のストリーミングデータに対して高性能で費用対効果の高い分析を実行することが簡単になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/introducing-dynamic-partitioning-amazon-kinesis-data-firehose/",
-          "publishedOn": "2021-09-03T10:51:53.000Z",
-          "wordCount": 260,
-          "title": "Amazon Kinesis Data Firehose の動的パーティショニングのご紹介"
         },
         {
           "id": "e7c063cc19ed976872ff5b522ebac74222ffb67a",
@@ -1433,11 +1577,11 @@
         {
           "id": "c81b0d82c2d79eb9c9a9726a12327941908a2a8c",
           "author": "aws@amazon.com",
-          "description": "Amazon Aurora PostgreSQL 互換エディションは、GovCloud リージョンで PostgreSQL メジャーバージョン 13 をサポートするようになりました。PostgreSQL 13 には、B 木インデックスエントリの重複排除、パーティションテーブルを使用するクエリのパフォーマンスの向上、データソートを高速化する増分ソート、VACUUM コマンドによるインデックスの並列処理、PostgreSQL データベース内のアクティビティをモニタリングする方法の追加、新しいセキュリティ機能などの新しい機能や拡張機能による、改善された機能とパフォーマンスが含まれています。このリリースでは、bool_plperl のサポートも追加されています。これにより、Perl プロシージャの記述が簡素化されます。",
+          "description": "Amazon Aurora PostgreSQL 互換エディションは、AWS GovCloud (米国) リージョンで PostgreSQL メジャーバージョン 13 をサポートするようになりました。PostgreSQL 13 には、B-tree インデックスエントリの重複排除、パーティションテーブルを使用するクエリのパフォーマンスの向上、データソートを高速化する増分ソート、VACUUM コマンドによるインデックスの並列処理、PostgreSQL データベース内のアクティビティをモニタリングする方法の追加、新しいセキュリティ機能などの機能強化による、改善された機能とパフォーマンスが含まれています。このリリースでは、bool_plperl のサポートも追加されています。これにより、Perl プロシージャの記述が簡素化されます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/",
           "publishedOn": "2021-09-01T07:32:53.000Z",
-          "wordCount": 256,
-          "title": "Amazon Aurora が GovCloud リージョンで PostgreSQL 13 のサポートを開始"
+          "wordCount": 267,
+          "title": "Amazon Aurora が AWS GovCloud (米国) リージョンで PostgreSQL 13 のサポートを開始"
         },
         {
           "id": "24ce6551161ad794cd35d73a49ec0242b77edcef",
@@ -1526,7 +1670,7 @@
           "description": "Amazon Elasticsearch Service (Amazon ES) で、3 つのアベイラビリティーゾーン (AZ) 間でインスタンスをデプロイできるようになりました。これにより、ドメインの可用性が向上します。Elasticsearch インデックスのレプリカを有効にする場合、Amazon Elasticsearch Service は、可用性を最大化するために、プライマリシャードとレプリカシャードを異なる AZ のノード間で分散させます。",
           "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-elasticsearch-service-availability-zone-deployments-aws-govcloud-us-east-region/",
           "publishedOn": "2021-08-30T08:35:53.000Z",
-          "wordCount": 235,
+          "wordCount": 239,
           "title": "Amazon Elasticsearch Service が AWS GovCloud (米国東部) リージョンにおいて 3 つのアベイラビリティーゾーンのデプロイのサポートを開始"
         },
         {
@@ -1647,24 +1791,6 @@
           "title": "AWS Database Migration Service がターゲットとして Redis のサポートを開始"
         },
         {
-          "id": "ea475bf5870dc0cc11ff1688b8d2b3555af67e68",
-          "author": "aws@amazon.com",
-          "description": "本日より、Split Charge ルールを定義することで 、AWS Cost Categories 内の共有コストを 分割できるようになりました。AWS Cost Categories では、アカウント、タグ、サービス、課金タイプ、さらには他の Cost Categories など、ディメンションに基づいててコストを分類するルールを定義することが可能になります。全ての組織には、複数のチーム、ビジネスユニット、または財務担当者が共有する一連のコストが存在します。例えば、データ転送コスト、エンタープライズサポート、あるいは中心のインフラチームの運用コストなどです。これらのコストは、単一のオーナーに直接帰属するものではないので、単一の Cost Category の値に分類することはできません。Split Charge のルールを使うことによって、これらのコストを Cost Category の値で公平に配分することが出来ます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/cost-categories-split-charge-rules-allocation/",
-          "publishedOn": "2021-08-27T08:18:53.000Z",
-          "wordCount": 269,
-          "title": "AWS Cost Categories は、共有コストの配分に関する Split Charge ルールを導入"
-        },
-        {
-          "id": "85515ff5cec9071ccf35756464d2d1da55797a35",
-          "author": "aws@amazon.com",
-          "description": "AWS マネージドサービス (AMS) Accelerate Operarions Plan がAWS 欧州 (ストックホルム) リージョンでサポートされるようになりました。AMS Accelerate は、モニタリング、インシデント管理、セキュリティパッチ、バックアップなどの運用サービスを提供し、チームがクラウドにおけるビジネスの変革に集中できるように、日々の運用管理をサポートします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-managed-services-accelerate-operations-plan-aws-europe-stockholm-region/",
-          "publishedOn": "2021-08-27T08:12:53.000Z",
-          "wordCount": 225,
-          "title": "AWS マネージドサービス (AMS) Accelerate Operarions Plan がAWS 欧州 (ストックホルム) リージョンで提供開始"
-        },
-        {
           "id": "c746b4f2e875905d7b98ebab133823a92c927c01",
           "author": "aws@amazon.com",
           "description": "本日以降、Amazon Data Lifecycle Manager (Amazon DLM) により Amazon マシンイメージ (AMI) を自動的に廃止できるようになります。AMI の廃止により、指定の時間を経過したイメージが新しいユーザーからアクセスされるのを防ぎます。これによりすべての新規の EC2 インスタンスが確実に最新の AMI のみから起動されるようにできます。Amazon DLM により、複雑なカスタムスクリプトを必要とすることになしに、AMI をいつ廃止するかを自動化できます。",
@@ -1674,15 +1800,6 @@
           "title": "Amazon Data Lifecycle Manager は、Amazon マシンイメージ (AMI) の廃止の自動化を開始"
         },
         {
-          "id": "389cc2b3bf3a974ecea5dd9487db520677f5aeae",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon SageMaker のノートブックインスタンスが、Amazon Linux 2 をサポートするようになったことを お知らせします。新しい Amazon SageMaker ノートブックインスタンスに Amazon Linux 2 を選択することで、Amazon Linux が提供する最新のアップデートとサポートを利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-sagemaker-notebook-amazon-linux-2/",
-          "publishedOn": "2021-08-27T08:00:53.000Z",
-          "wordCount": 290,
-          "title": "Amazon SageMaker のノートブックインスタンスで、Amazon Linux 2 がサポートされるようになりました"
-        },
-        {
           "id": "a6f2f6e97ccb6d20c1e4809c542c6550a3344b24",
           "author": "aws@amazon.com",
           "description": "AWS Database Migration Service (AWS DMS) は、MongoDB と Amazon DocumentDB (MongoDB 互換) をソースとしてサポートすることにより、機能を拡張しました。AWS DMS を使用することで、MongoDB クラスターの集合を自動的にセグメント化し、そのマイグレーションを Amazon DocumentDB (MongoDB 互換) を含む AWS DMS サポートターゲットに並行に最小のダウンタイムで行うように DMS タスクを設定できます。",
@@ -1690,15 +1807,6 @@
           "publishedOn": "2021-08-27T07:54:53.000Z",
           "wordCount": 241,
           "title": "AWS Database Migration Service がソースとして MongoDB と Amazon DocumentDB (MongoDB 互換) を使用した自動セグメンテーションのサポートを開始"
-        },
-        {
-          "id": "27eff847360954b5bcf665f31ed03114fa2c0b95",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Glue バージョン 3.0 を発表しました。これは、AWS でのデータ統合ワークロードを加速させる、バッチおよびストリーミングジョブ用 AWS Glue Spark の新バージョンです。AWS Glue 3.0 は、オープンソースの Apache Spark 3. 1.1 をベースに、AWS Glue とAmazon EMRの最適化を含むパフォーマンスを最適化した Spark ランタイムを 導入します。The AWS Glue 3.0 ランタイムは、より高速なベクトル化されたリーダーと Amazon S3 に最適化された出力コミッターを使用してAmazon Simple Storage Service (Amazon S3) への読み取りと書き込みの両方を最適化します 。また、パーティション述語の使用により AWS Glue データカタログへのアクセスを最適化します 。 高度に分割されたデータセットに対して、Glue 3.0 は、 パーティションインデックスを使用して不要なパーティションを除外することで実行速度を向上させます。AWS Glue 3.0 ランタイムは、AWS Lake Formation と完全に統合  されており、リソース名や AWS Lake Formation のタグベースのアクセスコントロールを使用して、データベース、テーブル、カラム、ロウ、セルレベルのアクセスコントロールなど、様々な粒度でデータアクセスを 保護することができます。また、AWS Glue 3.0 では、Spark アプリケーションんｐモニタリング、デバッグ、チューニングのユーザーエクスペリエンスを向上させる新機能を導入しています。Spark 3.1.1 では 、AWS Glue ストリーミングジョブに役立つ 新しい Spark 実行者のメモリメトリクスやSpark Structured Streaming メトリクスが  追加され 、 Spark UI エクスペリエンスが改善されました 。AWS Glue 2.0 と  同様に、AWS Glue 3.0 は起動時のレイテンシーを短縮し、全体のジョブ完了時間を改善します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/spark-3-1-runtime-aws-glue-3-0/",
-          "publishedOn": "2021-08-27T07:48:53.000Z",
-          "wordCount": 294,
-          "title": "AWS Glue 3.0 とのデータ統合に最適化された Spark 3.1 ランタイムの紹介"
         },
         {
           "id": "c70293a5e8d9d624e223d73338c28e2c87749be0",
@@ -1782,15 +1890,6 @@
           "title": "アジアパシフィック向け Amazon Forecast Weather Index を発表"
         },
         {
-          "id": "f619bb755a588554d4fedcdae3ab5a3438b21e49",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Redshift の空間データの処理能力を目的として、空間クエリパフォーマンスの強化、3D/4D ジオメトリ、新しい空間関数が Amazon Redshift に追加されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/redshift-spatial-performance-spatial-functions/",
-          "publishedOn": "2021-08-26T05:10:53.000Z",
-          "wordCount": 246,
-          "title": "Redshift の空間パフォーマンスの強化と新しい空間関数"
-        },
-        {
           "id": "e95f9a41d037a4eef864725121940bedd933e6d1",
           "author": "aws@amazon.com",
           "description": "私たちは、受信リクエストのキューを行い、それらを非同期で処理するAmazon SageMaker での新しい推論オプションである Amazon SageMaker 非同期推論を導入しています。このオプションは、大きいペイロードサイズ (最大 1GB)、および/または長い処理時間 (最大 15 分) の、リクエストが到着すると同時に処理する必要がある推論に最適です。非同期推論を用いると、処理のリクエストがない場合、インスタンスカウントをゼロにオートスケーリングすることによりコストを削減できるので、エンドポイントがリクエストを処理している時間についてのみ支払うようになります。",
@@ -1798,96 +1897,6 @@
           "publishedOn": "2021-08-26T05:04:53.000Z",
           "wordCount": 248,
           "title": "Amazon SageMaker 非同期推論の導入による、大きいペイロードサイズと長い推論処理時間のワークロードのための新しい推論オプション"
-        },
-        {
-          "id": "f0808588e37be736052535a07ba427cbf053979f",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue Studio は、AWS Glue 用の新しいビジュアルインターフェースです。この機能により、抽出 – 変換 – 読み込み（ETL）機能のデベロッパーは、AWS Glue ETL ジョブを簡単に作成、実行、および監視できるようになります。シンプルなビジュアルインターフェイスおよび SQL を使用して、データを移動および変換し、AWS Glue のサーバーレスエンジンを使用してそれらを実行するジョブを作成できるようになりました。AWS Glue Studio のジョブ実行ダッシュボードを使用して ETL ジョブ実行を監視し、ジョブが意図したとおりに動作していることを確認できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/",
-          "publishedOn": "2021-08-26T04:34:53.000Z",
-          "wordCount": 254,
-          "title": "AWS Glue Studio は、AWS GovCloud (米国) リージョンで利用できるようになりました"
-        },
-        {
-          "id": "3a60b5729e60e4dcfbfad3d3f93f088c67910372",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Marketplace は、独立系ソフトウェアベンダー (ISV) が、推奨コンサルティングパートナーに AWS Marketplace の購入者にソフトウェアの再を許可する際に、カスタム製品ディメンションを追加し、エンドユーザーライセンス契約 (EULA) を指定できるようになったと発表しました。今回のリリースにより、ISV とコンサルティングパートナーはより効率的に連携して コンサルティングパートナーのプライベートオファー (CPPO) を作成できます。これにより、お客様は AWS Marketplace でコンサルティングパートナーから直接ソフトウェアソリューションを購入できます。ISV とコンサルティングパートナーは、オペレーションをさらに簡素化し、顧客への提供を加速できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-marketplace-enhances-isv-self-service-authorization-consulting-partners/",
-          "publishedOn": "2021-08-24T12:23:53.000Z",
-          "wordCount": 242,
-          "title": "AWS Marketplace でコンサルティングパートナーの ISV セルフサービス承認を強化"
-        },
-        {
-          "id": "1da66a30a840bb6d2d99844b01c6652adf4901fd",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Device SDK for Embedded C (C-SDK) リリース 202108.00 には、IoT アプリケーション向けの AWS SigV4 ライブラリとリファクタリングされた AWS IoT Fleet Provisioning クライアントライブラリが含まれています。このリリースで C-SDK が使いやすくなり、デベロッパーは HTTP を実行している IoT デバイスから AWS のサービスに送られるインバウンド API リクエストを認証したり、固有の証明書を持たない IoT デバイスをプロビジョニングできるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-iot-sdk-embedded-c/",
-          "publishedOn": "2021-08-24T11:56:53.000Z",
-          "wordCount": 298,
-          "title": "AWS IoT Device SDK for Embedded C の新リリースによる IoT デバイスの認証とプロビジョニングの簡素化"
-        },
-        {
-          "id": "9ef06d6ac6ef3119b62d22805945b2bbf9eed468",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub は、クラウドセキュリティ体制のモニタリング強化のため、Foundational Security ベストプラクティス標準に 18 の新しいコントロールをリリースしました。これらのコントロールは、Amazon API Gateway、Amazon EC2、Amazon ECS、Elastic Load Balancing、Amazon Elasticsearch Service、Amazon RDS、Amazon Redshift、Amazon SQS のセキュリティベストプラクティスに対する完全自動のチェックを行います。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS のセキュリティ体制を自動的にチェックするための 159 のセキュリティコントロールをサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/",
-          "publishedOn": "2021-08-23T14:33:53.000Z",
-          "wordCount": 480,
-          "title": "AWS Security Hub がクラウドセキュリティ体制のモニタリング強化のため、18 の新しいコントロールを Foundational Security ベストプラクティス標準に追加し、8 の新しいパートナーを強化されたクラウドセキュリティポスチャーモニタリングに追加"
-        },
-        {
-          "id": "189c2c48bcdd0e2763bf3c6888be8684c1aa47df",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect Customer Profiles が HIPAA (Health Insurance Portability and Accountability Act) 対応になりました。 Customer Profiles は複数のアプリケーションから顧客情報を自動的に収集し、お問い合わせ担当者が顧客とやり取りする場で、そうした情報を見ることができるよう設計されています。HIPAA 対応とは、お問い合わせ担当者が顧客の問い合わせや照会に対応する際、必要になる保護されるべき医療情報 (PHI) データを Customer Profiles を使用して提供できることを意味します。データは Epic、Cerner、Siemens といった電子カルテ (EHR) システムから取り込むことができます。その際、EHR システムと Customer Profiles との間で、Amazon S3 データコネクタを使用できます。Amazon Connect は 2017 年より HIPAA 対応です。 Amazon Connect Customer Profiles はまた、ISO、IRAP 認定を受けています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hipaa-eligible/",
-          "publishedOn": "2021-08-21T18:56:53.000Z",
-          "wordCount": 294,
-          "title": "Amazon Connect Customer Profiles が HIPAA 対応になりました"
-        },
-        {
-          "id": "0d975772dbde4d7bc8fc5b5925f3daad5adad484",
-          "author": "aws@amazon.com",
-          "description": "2021 年 7 月、JavaScript、TypeScript、Java、Python、.NET、Go 向けに AWS Cloud Development Kit (CDK) の 6 つの新しいバージョン (v1.111.0～v1.116.0) がリリースされました。これらのリリースにより、CDK Pipelines は新しい API で一般的に利用可能になり、あらゆる形状とサイズのクラウドアプリケーションのマルチ環境デプロイメントパイプラインを簡単に定義できるようになります。さらに、すべての CDK 言語で利用できる新しいアサーションライブラリに、findResources() などの新しいクラウドテストプリミティブが含まれるようになりました。これらのリリースには、ライブラリ全体の 30 の異なるモジュールに関する 24 件のバグ修正や 50 の新機能も含まれています。こうした変更の多くは、デベロッパーコミュニティによって提供されたものです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-cdk-testing-support-cdk-pipelines/",
-          "publishedOn": "2021-08-21T17:52:53.000Z",
-          "wordCount": 261,
-          "title": "AWS CDK が、単体テストと CDK パイプラインサポートのアップデートを含む v1.111.0 - v1.116.0 をリリース"
-        },
-        {
-          "id": "849e12eb005b2f6d23f6ae732ec3f8c4a335f873",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Analytics がアジアパシフィック (ムンバイ) AWS リージョンで利用可能となり、そのフットプリントを 9 個の AWS リージョンに拡大しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/announcing-regional-launch-iot-analytics-asia-pacific-mumbai-region/",
-          "publishedOn": "2021-08-21T17:39:53.000Z",
-          "wordCount": 243,
-          "title": "アジアパシフィック (ムンバイ) リージョンでの IoT Analytics のサービス開始を発表"
-        },
-        {
-          "id": "47d9ebfca14db5c03a9868026c7ffc61edf40cfc",
-          "author": "aws@amazon.com",
-          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。デベロッパーは、Amazon CodeGuru Profiler を使用して、アプリケーションのランタイム動作の理解、コードの非効率性の特定と除去、パフォーマンス向上、コンピューティングコストの大幅な削減を実現できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/codeguru-extends-capability-application-profile/",
-          "publishedOn": "2021-08-21T16:29:53.000Z",
-          "wordCount": 223,
-          "title": "Amazon CodeGuru Profiler が、アプリケーションプロファイルの新しい比較オプションで視覚化機能を拡張"
-        },
-        {
-          "id": "d040f0b3d06e6f76ae6c5a552ee1e00d80b6e3c3",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkSpaces は、Windows Server 2019 を搭載した新しいバンドルの提供開始により、64 ビット Microsoft Office 2019 Professional Plus バンドルオプションとともに Windows 10 デスクトップエクスペリエンスを提供します。この機能は、Windows 10 デスクトップエクスペリエンスを更新し、最新の Windows バージョンを必要とするアプリケーションの実行を可能にします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-workspaces-renews-windows-desktop-experience-windows-server-2019-bundles-64-bit-microsoft-office-2019/",
-          "publishedOn": "2021-08-21T16:23:53.000Z",
-          "wordCount": 294,
-          "title": "Amazon WorkSpaces が、Windows Server 2019 バンドルおよび 64 ビット Microsoft Office 2019 で Windows デスクトップエクスペリエンスを更新"
-        },
-        {
-          "id": "0d982b1951b68c40b1fb1f40f574847df42f559a",
-          "author": "aws@amazon.com",
-          "description": "451 Research、クラウド移行による日本企業の CO2 排出量削減効果を 77％ と試算\n \n \n \n \n \n\n （東京 - 2021 年 8 月 19 日発表） Amazon.com, Inc. の関連会社であるアマゾン ウェブ サービス ジャパン株式会社は本日、「\n クラウドへの移行による、アジア太平洋地域での二酸化炭素排出削減の実現」と題したレポートを発表しました。S&P グローバル・マーケット・インテリジェンス傘下の調査会社である 451 Research に委託した本レポートによると、日本の企業や公共機関がオンプレミス（自社所有）のデータセンターからクラウドへワークロード（IT 関連業務）を移行することで、エネルギー消費量とそれに付随する二酸化炭素（CO2）排出量を 77％ 削減することが可能であることが明らかになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/japanese-companies-can-reduce-their-carbon-emissions-by-moving-to-aws-cloud/",
-          "publishedOn": "2021-08-19T02:23:53.000Z",
-          "wordCount": 383,
-          "title": "クラウドへの移行による、 日本企業の CO2 排出量削減効果が明らかに"
         }
       ]
     },
