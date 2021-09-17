@@ -2,10 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds_engineer/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T00:53:51.047Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-09-17T00:57:29.830Z</updated>
+    <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds_engineer/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds_engineer/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Timestream が AWS SOC レポートの対象になりました]]></title>
+        <id>1d7854dc20c6e1778c21c02a91e6628731bdf923</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-timestream-scope-aws-soc-reports/"/>
+        <updated>2021-09-16T23:40:53.000Z</updated>
+        <summary type="html"><![CDATA[System and Organization Control (SOC) コンプライアンスの対象となるアプリケーションで Amazon Timestream を使用できるようになりました。Amazon Timestream は、アプリケーションモニタリング、IoT、リアルタイム分析ワークロード向けの高速かつスケーラブルで安全な専用の時系列データベースであり、1 日あたり数兆件の時系列イベントを処理するように拡張できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift クラスターおよびデータベースとやり取りするためのコマンドラインクライアントである Amazon Redshift RSQL を発表]]></title>
+        <id>dcad4899cb3000bda1e040309a4bc88443525b6e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/"/>
+        <updated>2021-09-16T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[フルマネージド型クラウドデータウェアハウスである Amazon Redshift は、Amazon Redshift クラスターおよびデータベースとやり取りするためのコマンドラインクライアントである Amazon Redshift RSQL が利用可能になったことを発表しました。Amazon Redshift RSQL を使用すると、Amazon Redshift クラスターに接続し、データベースオブジェクトの記述し、データのクエリ、クエリ結果のさまざまな出力形式での表示などができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シンプルだけど結果につながるデータ活用フレームワーク「DIVA」って？【書籍紹介『データ活用仮説量産 フレームワークDIVA（鈴木良介著）』】]]></title>
+        <id>https://data.wingarc.com/?p=32786</id>
+        <link href="https://data.wingarc.com/diva-framework-32786"/>
+        <updated>2021-09-16T23:00:23.000Z</updated>
+        <summary type="html"><![CDATA[ICT（Information and Communication Technology: 情報通信技術）が向上し、さまざまなモノがインターネットに接続されるIoT（Internet of Things: モノのインター […]]]></summary>
+        <author>
+            <name>大藤 ヨシヲ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 I3en インスタンスが中東 (バーレーン)、南アフリカ (ケープタウン)、および欧州 (ミラノ) の AWS リージョンで利用可能に]]></title>
+        <id>5cc38d6710fa1d91a8d8cefe4b8e8fe7694d196f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-i3en-instances-aws-regions/"/>
+        <updated>2021-09-16T22:36:53.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon EC2 I3en インスタンスは、中東 (バーレーン)、南アフリカ (ケープタウン)、および欧州 (ミラノ) の Amazon Web Services リージョンで利用できるようになりました。I3en インスタンスでは、最大 60 TB の低レイテンシーの NVMe SSD インスタンスストレージが、I3 インスタンスよりも 1 GB あたり最大 50% 低いコストで提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Gateway Load Balancer が PCI DSS コンプライアンスを実現]]></title>
+        <id>cb6ab124b512ecd7ac85f293b97e70db302edc2e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-gateway-load-balancer-pci-dss-compliance/"/>
+        <updated>2021-09-16T22:22:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Gateway Load Balancer (GWLB) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。GWLB は、ファイアウォール、侵入検知および防止システム、分析、トラフィックの可視化システムなどのサードパーティーの仮想ネットワークアプライアンスのデプロイ、スケール、および管理を支援する新しいサービスです。Elastic Load Balancer ファミリーに新たに加わった GWLB は、透過的なネットワークゲートウェイ (すべてのトラフィック用の単一の入口と出口) と、トラフィックを分散し、仮想アプライアンスを需要に基づいて水平にスケールするロードバランサーを組み合わせます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 がインスタンスのネットワーク帯域幅の拡大を発表]]></title>
+        <id>7b9a54e01dd3fded7d0d5322ca02f004b32807de</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-increases-instance-network-bandwith/"/>
+        <updated>2021-09-16T22:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 は、現行世代のインスタンス向けに、インターネットゲートウェイや Direct Connect へのトラフィック、およびリージョン間のトラフィックに対して、AWS リージョンからの拡大されたインスタンスの帯域幅を提供するようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex が韓国語のサポートを開始]]></title>
+        <id>d3be9975770cca6c94dd8db9c80d58c3a92f2f71</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-lex-launches-support-korean/"/>
+        <updated>2021-09-16T22:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex が韓国語をサポートするようになりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex は、音声をテキストに変換するための深層学習を利用した自動音声認識 (ASR) と、テキストの意図を認識する自然言語理解 (NLU) 機能がご利用いただけます。このサービスにより、リアルな会話のやり取りができるアプリケーションの構築が可能になります。これで、韓国語を理解する、堅牢でローカライズされた会話体験を提供できます。また、自然な発声の Amazon Polly 韓国語音声でユーザーに対応し、完全にローカライズされた音声エクスペリエンスを提供することも可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、ニュースショーケースの提供を日本で開始]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11613</id>
+        <link href="https://www.suzukikenichi.com/blog/google-launches-news-showcase-in-japan/"/>
+        <updated>2021-09-16T22:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Google ニュースショーケースの提供が日本でも始まった。Google ニュースショーケースは、パブリッシャーが自分たちで選んだ記事を Google ニュースに掲載できるサービス。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上初、スペースX「民間人だけ」の宇宙旅行始まる]]></title>
+        <id>https://www.technologyreview.jp/?p=256698</id>
+        <link href="https://www.technologyreview.jp/s/256698/inspiration4-why-spacexs-first-all-private-mission-is-a-big-deal/"/>
+        <updated>2021-09-16T21:59:05.000Z</updated>
+        <summary type="html"><![CDATA[民間人による民間人だけの宇宙旅行計画「インスピレーション4」がいよいよ始まった。人類が長らく夢見た、有人宇宙旅行の時代はついに開くのか。]]></summary>
+        <author>
+            <name>Jonathan O'Callaghan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高密度ローカル HDD ストレージを備えた Amazon EC2 D3 インスタンスが、インド (ムンバイ) リージョンで利用可能になりました]]></title>
+        <id>bd50c608e9447e157a347e7ddd5caec1aae62766</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-d3-hdd-storage-mumbai-region/"/>
+        <updated>2021-09-16T21:46:53.000Z</updated>
+        <summary type="html"><![CDATA[本日より、最新世代の高密度 HDD ストレージインスタンスである Amazon EC2 D3 インスタンスが、アジア太平洋 (ムンバイ) リージョンで利用可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が、supports AWS Graviton2 ベースのX2g インタンスをサポートするようなりました]]></title>
+        <id>0fcf483748ddf621d56d7c662a002b63eee278f7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-x2g-instances/"/>
+        <updated>2021-09-16T21:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora が、 AWS Graviton2 ベースの X2g データベースインスタンスをサポートするようになりました。R6g インスタンスと比較すると、お客様は、vCPU あたり 2 倍のメモリ容量を使用できるようになりました。X2g インスタンスは、Amazon Aurora 用のメモリGiB単位につき最小のコストで、 vCPU あたり最大のメモリを提供します。X2g インスタンスが、Amazon Aurora MySQL 互換エディション と Amazon Aurora PostgreSQL 互換エディションの両方でご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が、 AWS Graviton2 ベースの T4g インスタンスをサポートするようになりました]]></title>
+        <id>e3e5aa4fe430381feb63c722c0e9723c3982718c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-t4g-instances/"/>
+        <updated>2021-09-16T21:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora は、 AWS Graviton2 ベースの T4g データベースインスタンスです。Graviton2 T4gT4g データベースインスタンスでは、同等の現行世代の x86 ベースのデータベースインスタンスと比較して、パフォーマンスが 49% 向上しました。Amazon Aurora MySQL 互換エディション とAmazon Aurora PostgreSQL 互換エディションの両方でこれらのデータベースを起動できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フェイスブック「レイバン」グラス、人類総監視時代の幕開け]]></title>
+        <id>https://www.technologyreview.jp/?p=256696</id>
+        <link href="https://www.technologyreview.jp/s/256696/why-facebook-is-using-ray-ban-to-stake-a-claim-on-our-faces/"/>
+        <updated>2021-09-16T20:44:07.000Z</updated>
+        <summary type="html"><![CDATA[フェイスブックは、画像や動画を撮影したり、音楽を聴いたりできる新スマートグラス「レイバン・ストーリーズ」を発表した。見た目がレイバンのサングラスと変わらないため、隠し撮りによるプライバシー侵害をはじめ、社会に重大な影響を及ぼす恐れがある。]]></summary>
+        <author>
+            <name>S.A. Applin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javaの長期サポート（LTS）版、次回は2年後に登場の見通し。オラクルがLTSのサイクルを3年から2年に変更提案]]></title>
+        <id>https://www.publickey1.jp/blog/21/javalts2lts32.html</id>
+        <link href="https://www.publickey1.jp/blog/21/javalts2lts32.html"/>
+        <updated>2021-09-16T15:46:27.000Z</updated>
+        <summary type="html"><![CDATA[現在、Javaは3年ごとに長期サポート（LTS：Long Term Support）版がリリースされています。最新のLTS版は今週リリースされたばかりのJava 17で、その1つ前のLTS版はちょうど3年前の2018年9月にリリースされたJ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: belongs_to関連付けに変更トラッキングが追加（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_16/111371</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_16/111371"/>
+        <updated>2021-09-16T08:30:58.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails7_change_tracking_belongs_to_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds change tracking methods for belongs&#95;to associations &#124; Saeloun Blog 原文公開日: 2021/07/27 原著者: Swaathi Kakarla サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston Rails 7: belongs_to関連付けに変更トラッキングが追加（翻訳） アップデートとしては地味でも、Rails [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_16/111371" data-wpel-link="internal" target="_self">Rails 7: belongs_to関連付けに変更トラッキングが追加（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS 8とバイナリ互換のRHELクローン「MIRACLE LINUX 8.4」が無償公開へ。今後のバグフィクスやアップデートも無償。CentOS 8の代替を狙う]]></title>
+        <id>https://www.publickey1.jp/blog/21/centos_8rhelmiracle_linux_84centos.html</id>
+        <link href="https://www.publickey1.jp/blog/21/centos_8rhelmiracle_linux_84centos.html"/>
+        <updated>2021-09-16T06:22:43.000Z</updated>
+        <summary type="html"><![CDATA[サイバートラストは、CentOS 8とのバイナリ互換のLinux OS「MIRACLE LINUX 8.4」を、無償ライセンスで公開することを発表しました。合わせて、2030年1月までのアップデートとCentOSからの移行ツールなども無償提...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoftがプレビュー版でAzure　Spring Cloud Enterpriseを発表]]></title>
+        <id>https://www.infoq.com/jp/news/2021/09/azure-spring-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/09/azure-spring-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-16T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、MicrosoftはAzure Spring Cloud Enterpriseを発表した。これは、Springのための新しいマネージドサービス層で、エンタープライズ開発者のニーズに合わせて最適化されている。この新しいエンタープライズ層はプレビューで利用できる。
+ By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーティクル: クラウドネイティブアーキテクチャの導入 パート3: サービスオーケストレーションとサービスメッシュ]]></title>
+        <id>https://www.infoq.com/jp/articles/cloud-native-architecture-adoption-part3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/articles/cloud-native-architecture-adoption-part3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-16T02:26:00.000Z</updated>
+        <summary type="html"><![CDATA[クラウドネイティブアーキテクチャの導入シリーズのこのパート3の記事では、マイクロサービスベースのアーキテクチャでのサービスの相互作用、適切なガバナンスのない分散システムで発生する一般的な課題、およびサービスオーケストレーションやサービスメッシュなどのパターンがこれらの課題に対処するのにどのように役立つかについて説明します。
+ By Srini Penchikala, Marcio Esteves  Translated by Shoji Shigeki]]></summary>
+        <author>
+            <name>Srini Penchikala, Marcio Esteves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真の女性をワンクリックでポルノ女優に、「一線越えた」AIアプリ]]></title>
+        <id>https://www.technologyreview.jp/?p=256517</id>
+        <link href="https://www.technologyreview.jp/s/256517/a-horrifying-new-ai-app-swaps-women-into-porn-videos-with-a-click/"/>
+        <updated>2021-09-16T01:00:32.000Z</updated>
+        <summary type="html"><![CDATA[顔写真をブラウザーからアップロードするだけでポルノビデオを生成するWebアプリが登場した。ディープフェイク技術を使ったこのサイトはすでに利用できなくなっているが、研究者やフェイクポルノの元被害者からは「一線を越えた」との声が上がっている。]]></summary>
+        <author>
+            <name>Karen Hao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年9月第3週　そろそろAndroid 12がリリースされるので復習 ── Android Weekly Topics]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/awt/202109/16</id>
@@ -393,16 +586,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EC2 休止機能で C5d、M5d、および R5d インスタンスのサポートが追加]]></title>
-        <id>e6e390264d39e5abf5506dd62c37290db0f96147</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-ec2-hibernation-c5d-m5d-r5d-instances/"/>
-        <updated>2021-09-13T06:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 C5d、M5d、および R5d インスタンスを休止状態にすることができるようになりました。休止機能を使用すると、EC2 インスタンスを完全に終了して再起動するのではなく、一時停止して後で再開することができます。インスタンスを再開すると、アプリケーションを中断したところから続行できるため、OS とアプリケーションを最初から再起動する必要がありません。休止機能は、アプリケーションの状態の再構築に時間がかかる場合 (デベロッパーのデスクトップなど)、またはスケールアウトの前にアプリケーションの起動手順を準備できる場合に役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[イベルメクチン狂騒曲、馬用ペーストまで買い占めの大混乱]]></title>
         <id>https://www.technologyreview.jp/?p=256181</id>
         <link href="https://www.technologyreview.jp/s/256181/what-happens-when-your-prescription-drug-becomes-the-center-of-covid-misinformation/"/>
@@ -503,26 +686,6 @@
         <summary type="html"><![CDATA[Publickeyでは読者調査を2021年8月31日から9月11日までの約2週間行い、892名の読者から回答をいただきました。ご協力いただいた皆様にお礼申し上げます。ありがとうございました。 ここでは、その読者調査の結果概要を報告します。 ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ほぼすべてに侵入」、独裁政権と戦うベラルーシのハッカー集団]]></title>
-        <id>https://www.technologyreview.jp/?p=255088</id>
-        <link href="https://www.technologyreview.jp/s/255088/hackers-are-trying-to-topple-belaruss-dictator-with-help-from-the-inside/"/>
-        <updated>2021-09-12T00:44:42.000Z</updated>
-        <summary type="html"><![CDATA[ベラルーシのアレクサンドル・ルカシェンコ政権の打倒へ向けて活動しているハッカー集団は、政権内部の関係者の協力も得て、政府の「ほぼすべて」のハッキングに成功したという。]]></summary>
-        <author>
-            <name>Patrick Howell O'Neill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米大統領が大企業にワクチン接種義務化、アメからムチへ方針転換]]></title>
-        <id>https://www.technologyreview.jp/?p=256330</id>
-        <link href="https://www.technologyreview.jp/s/256330/theres-a-gig-worker-sized-hole-in-bidens-vaccine-mandate-plan/"/>
-        <updated>2021-09-11T23:31:57.000Z</updated>
-        <summary type="html"><![CDATA[米国のバイデン大統領は大企業を対象に、従業員にワクチン接種を受けさせることを求める大統領令に署名した。停滞する接種率を踏まえ、これまでの「アメ」から「ムチ」に方針を転換した。]]></summary>
-        <author>
-            <name>Charlotte Jee</name>
         </author>
     </entry>
     <entry>
@@ -646,16 +809,6 @@
         <summary type="html"><![CDATA[Google マイビジネスに関係する 2 つの新しい情報を伝える――ローカルナレッジパネルから投稿、サイト管理者の廃止]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドローン、ナンバー監視—— 米警察組織に広がる ハイテク捜査チームの内側]]></title>
-        <id>https://www.technologyreview.jp/?p=242363</id>
-        <link href="https://www.technologyreview.jp/s/242363/inside-the-rise-of-police-department-real-time-crime-centers/"/>
-        <updated>2021-09-09T21:56:14.000Z</updated>
-        <summary type="html"><![CDATA[警察は可能な限り、多くのデータを収集したいと考えている。しかし、監視テクノロジーの進化に、規制する法律は追いついていない。警察が導入するテクノロジーが、どのように使われ、どのように市民に公開されているのか。米国ユタ州のオグデン市警察が設置する地域戦術分析センターに密着取材した。]]></summary>
-        <author>
-            <name>Rowan Moore Gerety</name>
         </author>
     </entry>
     <entry>
@@ -793,16 +946,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ウェブストーリーのプレビューモードと4つの新機能]]></title>
-        <id>https://www.suzukikenichi.com/blog/?p=11597</id>
-        <link href="https://www.suzukikenichi.com/blog/preview-mode-and-4-new-features-of-web-stories/"/>
-        <updated>2021-09-08T21:50:55.000Z</updated>
-        <summary type="html"><![CDATA[さまざまなデバイスでウェブストーリーがどのように表示されるのかをプレビューする機能が提供された。また、新しい機能がウェブストーリーで利用できるようになっている。]]></summary>
-        <author>
-            <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazonと三菱商事、共同で首都圏などで大規模な太陽光発電設備を開発。AWSデータセンターなどを再生可能エネルギーで稼働へ]]></title>
         <id>https://www.publickey1.jp/blog/21/amazonaws_1.html</id>
         <link href="https://www.publickey1.jp/blog/21/amazonaws_1.html"/>
@@ -810,6 +953,17 @@
         <summary type="html"><![CDATA[Amazonと三菱商事は、首都圏および東北地方に450カ所以上の太陽光発電設備を開発し、2022年から2023年にかけて順次稼働させることで、再生可能エネルギーによってAmazon Web Service（AWS）のデータセンターの稼働や物...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unicodeで絶対知っておくべきセキュリティ5つの注意（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435"/>
+        <updated>2021-09-08T08:37:49.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/11/five_things_everyone_should_know_about_unicode_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Five things everyone should know about Unicode 原文公開日: 2017/11/07 著者: Gojko Adzic &#8212; 多くの書籍を出版しています。 著書: https://gojko.net/books/ Human vs Computer Fifty Quick Ideas To Improve Your Tests Fifty Quick Ideas To Improve Your User Stories Impact Mapping Specification by Example Br [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_08/48435" data-wpel-link="internal" target="_self">Unicodeで絶対知っておくべきセキュリティ5つの注意（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -1149,48 +1303,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoogleがEnterprise APIを発表、”プロダクト殺し”の悪評返上を目指す]]></title>
-        <id>https://www.infoq.com/jp/news/2021/09/google-enterprise-apis-label/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/09/google-enterprise-apis-label/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-09-06T06:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleは先月、APIの変更や廃止を従来よりも厳密なポリシによって管理するGoogle Entgerprise APIを発表した。Google Cloud、Google Workspace、Google Maps PlatformといったAPIの大部分に対して、今後、Enterprise APIのラベルが適用される予定である。
- By Steef-Jan Wiggers  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアエンジニアリングの今後を明らかにするQCon Plusオンラインソフトウェアカンファレンス(11月1~12日)]]></title>
-        <id>https://www.infoq.com/jp/news/2021/09/next-qcon-plus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/09/next-qcon-plus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-09-06T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[QCon Plusは、ソフトウエア開発と技術的リーダシップにおいて現在重要な話題を取り上げた、厳選された学習エクスペリエンスへのアクセスを提供する。アーリーアダプタ企業からの64名を超えるソフトウェア実践者の経験共有にスポットを当てた講演から、正しいパターンやプラクティスを採用する方法について学ぼう。
- By Adelina Turcu  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Adelina Turcu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノーコード／ローコード開発ツールは情報シス部門とSIerの新たな関係を作り出す［PR］]]></title>
-        <id>https://www.publickey1.jp/blog/21/sierpr.html</id>
-        <link href="https://www.publickey1.jp/blog/21/sierpr.html"/>
-        <updated>2021-09-05T18:47:57.000Z</updated>
-        <summary type="html"><![CDATA[企業内でシステム内製化を促進できる開発ツールとして、プログラミングが不要、もしくは簡単なプログラミングによってシステム開発を行える「ノーコード／ローコード開発ツール」が注目されています。 しかし、プログラミングが容易になり内製が進むことで、...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、WebAssemblyとWebGLで推論エンジンを実装した「ONNX Runtime Web」（ORT Web）をオープンソースで公開]]></title>
-        <id>https://www.publickey1.jp/blog/21/webassemblywebglonnx_runtime_webort_web.html</id>
-        <link href="https://www.publickey1.jp/blog/21/webassemblywebglonnx_runtime_webort_web.html"/>
-        <updated>2021-09-05T15:17:44.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフトは、WebAssemblyとWebGLで機械学習の推論エンジンを実装した「ONNX Runtime Web」（ORT Web）をオープンソースで公開しました。 INTRODUCING: #ONNXRuntime Web (OR...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWSは、SAML2.0 と Grafana v8.0 の機能を備えた Amazon Managed Grafana の一般向け提供を発表します]]></title>
         <id>7c0ca81aad87fd1cbcc8d1ca28a41c7d24a4f25e</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-managed-grafana-saml-2-0-grafana-v-8-0/"/>
@@ -1331,17 +1443,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rubyの新しいデバッガの機能を先行紹介（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_03/111137</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_03/111137"/>
-        <updated>2021-09-03T08:30:54.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/08/ruby3.1_new_debugger_sneak_peak_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A Sneak Peek of Ruby&#8217;s New Debugger&#33; &#45; DEV Community 原文公開日: 2021/07/30 原著者: Stan Lo 日本語タイトルは内容に即したものにしました。なお翻訳記事公開時点のデバッガバージョンはv1.0.0rc2になりました。 Rubyの新しいデバッガの機能を先行紹介（翻訳） debugはRubyの新しいデバッガで、Ruby 3.1に同梱される予定です。近頃はこのデバッガにコントリビューションしつつ自分でも使ってきたので、1.0が正式にリリースされる前にそろそろ皆さん [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_03/111137" data-wpel-link="internal" target="_self">Rubyの新しいデバッガの機能を先行紹介（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年9月3日号　『JJ』のリリーススケジュール・x32向けコンフィグのドロップ ── Ubuntu Weekly Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03</id>
         <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03"/>
@@ -1359,17 +1460,6 @@
         <summary type="html"><![CDATA[企業の枠を越え、より広く、より多くの人が交流するデータ活用の拠り所を目指すコミュニティがある。それはファイル連携ミドルウェア「HULFT（ハルフト）」とデータ連携ソフトウェア「DataSpider（データスパイダー）」の […]]]></summary>
         <author>
             <name>野島光太郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀座Rails（season 2）の運営を引き継ぎました]]></title>
-        <id>https://techracho.bpsinc.jp/morimorihoge/2021_09_02/111210</id>
-        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_09_02/111210"/>
-        <updated>2021-09-02T08:30:38.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/successing_ginzarails_season2_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。会社とは別に個人的なご報告ということで。 2021/8/27（金）の銀座Rails#36@リンクアンドモチベーション開催を境に、銀座Railsの開催運営を引き継ぐことになりました。本記事ではその辺りの経緯やあれこれについて、ご説明したいと思います。 銀座Railsとは 銀座Railsは2018年9月からほぼ毎月開催されてきたRails/Rubyに関する登壇・発表コミュニティで、これまで@ginkounoさんが運営されてきました。 開催の様子はginkounoさんのブログや、そこからリンクされているtogetterなどから追いかけることができます。 コロナ禍以前は主にリンクアンドモチベ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_09_02/111210" data-wpel-link="internal" target="_self">銀座Rails（season 2）の運営を引き継ぎました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -1753,26 +1843,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Appflow を使用して SAP アプリケーションから AWS サービスにデータを送信する]]></title>
-        <id>b7e667ae3055975a4c96f165844fae1eecc07ab8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/sap-applications-aws-services-amazon-appflow/"/>
-        <updated>2021-08-27T12:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon AppFlow と SAP OData API を使用して 2、3 回のクリックだけで SAP ERP /BW アプリケーション (ECC、BW、BW4/HANA および S/4HANA) から AWS サービスにデータを送信できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Database Migration Service が、フルロード中に Redshift をターゲットとして使用する際の並列スレッドのサポートを開始]]></title>
-        <id>2d6384c991ebebaea7ea6a991d2557b82260cff0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/"/>
-        <updated>2021-08-27T11:37:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) は、フルロード中に Redshift をターゲットとして使用する際の並列スレッドをサポートすることにより、その機能を拡張しました。Amazon Redshift は、クラウドにおけるフルマネージド型のペタバイト規模のデータウェアハウスサービスです。わずか数百ギガバイトのデータから始めて、ペタバイト以上にスケーリングできます。マルチスレッドフルロードタスク設定を利用することで、DMS でサポートされているソースから Amazon Redshift への最初の移行のパフォーマンスを向上させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Database Migration Service がターゲットとして Redis のサポートを開始]]></title>
         <id>135e2d8f5437a4743de26a5cb609fadad11b71be</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/"/>
@@ -1843,31 +1913,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IAM Access Analyzer は、組織の証跡にあるアクセスアクティビティに基づいて IAM ポリシーを生成するのに役立ちます]]></title>
-        <id>839b047f83dea1a30ce57731cf1a68cb6a91c1c6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/"/>
-        <updated>2021-08-26T15:36:53.000Z</updated>
-        <summary type="html"><![CDATA[2021 年 4 月に、IAM Access Analyzer では、アカウントに保存されている AWS CloudTrail アクティビティに基づくきめ細かなポリシーの作成に役立つポリシー生成が追加されました。現在私たちは、指定のアカウントに保存されているアクセスアクティビティに基づいてポリシーを生成できるようポリシー生成を拡張しています。例えば、AWS Organizations を使用して、組織のために均一なイベントロギング戦略を定義し、ガバナンスアクティビティを合理化するためにすべての CloudTrail ログを管理アカウントに保存することができます。IAM Access Analyzer は、指定のアカウントに保存されているアクセスアクティビティをレビューすることでお客様を手助けし、きめ細かな IAM ポリシーを管理アカウントに生成します。これにより、ワークロードで必要な許可だけで容易にポリシーを作成できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS IoT Core は MQTT 保持メッセージをサポートします]]></title>
         <id>77f3e15bbb0f56769eca8797250bd63917c5fd29</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/"/>
         <updated>2021-08-26T11:34:53.000Z</updated>
         <summary type="html"><![CDATA[保持メッセージは、将来の購読者のためにトピックの最新の重要メッセージを簡単に保存する方法を提供する、標準 MQTT 機能です。AWS IoT Core では、いつオンラインになるかを正確に知ることなく、保持メッセージを使用して構成情報やデバイスへの重要な更新を簡単にプッシュできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache for Redis が オートスケーリングをサポートするようになりました]]></title>
-        <id>3d720c603c51f60f4cac01135dd066da90f5d6df</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-elasticache-redis/"/>
-        <updated>2021-08-26T09:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ElastiCache for Redis は、安定した予測可能なパフォーマンスを可能な限り低コストで維持するためにアプリケーションをモニタリングし、容量を自動で調整します。シャードやレプリカノードの追加や削除により、自動的にクラスターを水平方向にスケールできます。ElastiCache for Redis は、AWS Application Auto Scaling を使ってスケーリングを管理し、Amazon CloudWatch のメトリクスを使ってスケールアップやスケールダウンの時間を決定します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
@@ -1883,36 +1933,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Aurora PostgreSQL が oracle_fdw の拡張機能のサポートを開始]]></title>
-        <id>04739ed32c38b9e2c7fed451f53338fca74377fe</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-aurora-postgresql-supports-oracle-fdw-extension/"/>
-        <updated>2021-08-26T06:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションは oracle_fdw の拡張機能のサポートを開始しました。これにより、PostgreSQL データベースは、Oracle データベースに接続して、保存されているデータを取得できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora で PostgreSQL 9.6.22、10.17、11.12、および 12.7 をサポート]]></title>
-        <id>74fbb543cce35ca67873656b14b202bf69d511a2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-aurora-supports-postgresql-new-versions/"/>
-        <updated>2021-08-26T06:34:53.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートに関する発表を受けて、Amazon Aurora PostgreSQL 互換エディションがアップデートされ、PostgreSQL バージョン 9.6.22、10.17、11.12、および 12.7 がサポートされるようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。先日お知らせしたように、Amazon Aurora PostgreSQL 9.6 は 2022 年 1 月 31 日をもって、サポート終了となります。マイナーバージョンの 9.6.22 は、すでに Aurora PostgreSQL 9.6 を実行しているクラスターのアップグレードに制限されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アジアパシフィック向け Amazon Forecast Weather Index を発表]]></title>
-        <id>72fa3d6d8398118299b70dbf7157bb9575e26b1b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/"/>
-        <updated>2021-08-26T05:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Forecast Weather Index がアジアパシフィックリージョンでも利用できるようになったことをお知らせいたします。Weather Index を使用すれば、地域の最新の気象情報をワンクリックで自動的に需要予測に取り込むことで、予測の精度を高めることができます。追加費用は発生しません。気象条件は、消費者の需要パターン、製品の商品化の決定、人員配置の要件、およびエネルギー消費のニーズに影響を与えます。ただし、需要予測のためにライブ気象情報を取得、クリーニング、および効果的に使用することは困難であり、継続的なメンテナンスが必要となります。今回のリリースにより、米国、カナダ、南米、ヨーロッパで Weather Index をご利用になっていたお客様は、需要予測にワンクリックでアジアパシフィックの 14 日間の天気予報も含めることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第22回　クラウド移行が企業のサステナビリティを加速する ―AWS/Amazonが本気で取り組む&quot;持続可能なビジネス&quot;の構築 ── IT Cutting Edge ─世界を変えるテクノロジの最前線]]></title>
         <id>https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022</id>
         <link href="https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022"/>
@@ -1923,16 +1943,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon SageMaker 非同期推論の導入による、大きいペイロードサイズと長い推論処理時間のワークロードのための新しい推論オプション]]></title>
-        <id>e95f9a41d037a4eef864725121940bedd933e6d1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/"/>
-        <updated>2021-08-26T05:04:53.000Z</updated>
-        <summary type="html"><![CDATA[私たちは、受信リクエストのキューを行い、それらを非同期で処理するAmazon SageMaker での新しい推論オプションである Amazon SageMaker 非同期推論を導入しています。このオプションは、大きいペイロードサイズ (最大 1GB)、および/または長い処理時間 (最大 15 分) の、リクエストが到着すると同時に処理する必要がある推論に最適です。非同期推論を用いると、処理のリクエストがない場合、インスタンスカウントをゼロにオートスケーリングすることによりコストを削減できるので、エンドポイントがリクエストを処理している時間についてのみ支払うようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021年8月第4週　Android OSの開発にRustが使われる ── Android Weekly Topics]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/awt/202108/26</id>
         <link href="https://gihyo.jp/lifestyle/clip/01/awt/202108/26"/>
@@ -1940,16 +1950,6 @@
         <summary type="html"><![CDATA[2021年8月第4週のAndroid関連のニュースです。]]></summary>
         <author>
             <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[業務効率改善推進者必見！！｜ペーパーレス化対策イベント・セミナー5選｜2021年9月版]]></title>
-        <id>https://data.wingarc.com/?p=34471</id>
-        <link href="https://data.wingarc.com/seminarlist_202109-34471"/>
-        <updated>2021-08-25T23:00:01.000Z</updated>
-        <summary type="html"><![CDATA[2020年度から急速に広まり続けている企業の「テレワーク」 テレワークは通勤ラッシュの解消、通勤時間・交通費・オフィス賃料の削減、そして新型コロナの感染対策として掲げている「3密」の回避に効果的なため、現在でも支持・推進 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
         </author>
     </entry>
     <entry>
@@ -2019,26 +2019,6 @@
         <summary type="html"><![CDATA[モバイルOSの歴史に関してのレビュー，第3回です。]]></summary>
         <author>
             <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第679回　LXD上にWindowsをインストールする ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0679</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0679"/>
-        <updated>2021-08-18T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[システムコンテナの管理ソフトウェアであるLXDは3.19から仮想マシンインスタンスもサポートするようになりました。  今回はLXDを使って「Windowsインスタンス」を起動してみましょう。]]></summary>
-        <author>
-            <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第68回　他言語のライブラリをPerlに移植する（2） ── Perl Hackers Hub]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006802</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/006802"/>
-        <updated>2021-08-18T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回のテーマは「他言語のライブラリをPerlに移植する」。移植方針の目処が立ったら，いよいよ実装です。]]></summary>
-        <author>
-            <name>うたがわきき</name>
         </author>
     </entry>
 </feed>
