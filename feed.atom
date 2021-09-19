@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-18T00:50:11.378Z</updated>
+    <updated>2021-09-19T00:52:18.926Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lake Formation がアジアパシフィック (大阪) で利用可能に]]></title>
+        <id>019be470418f9e2e1b9852e1dd89f1adc59b84df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/"/>
+        <updated>2021-09-18T02:09:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lake Formation がアジアパシフィック (大阪) AWS リージョンでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Comprehend を使用して、ネイティブ形式のドキュメントからカスタムエンティティを抽出]]></title>
+        <id>da9a5e0deeb71ea3b5d3a21c2c84f4ccf34b1ac7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/"/>
+        <updated>2021-09-18T02:09:53.000Z</updated>
+        <summary type="html"><![CDATA[機械学習を使用してテキスト内の情報を明らかにする自然言語処理 (NLP) サービスである Amazon Comprehend を使用することにより、さまざまな形式 (PDF、Word、プレーンテキスト) およびレイアウト (箇条書き、リストなど) でドキュメントからカスタムエンティティを抽出できるようになりました。これにより、インサイトをより簡単に抽出し、ドキュメント処理ワークフローをさらに自動化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Firewall Manager が AWS WAF レートベースのルールのサポートを開始]]></title>
+        <id>4e502d8fa407838b716566616d10388f6285d46b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-firewall-manager-waf-rate-based-rules/"/>
+        <updated>2021-09-18T01:55:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Firewall Manager で、お客様は、組織内のアカウント全体に AWS WAF レートベースのルールを一元的にデプロイできるようになりました。AWS WAF レートベースのルールは、お客様が、各発信 IP アドレスのリクエストのレートを追跡し、制限を超えた場合には IP に対してルールアクションをトリガーすることを許可します。今回のリリースにより、AWS Firewall Manager のセキュリティ管理者は、AWS WAF の Firewall Manager セキュリティポリシーを使用して、アカウント全体でレートベースのルールをデプロイし、アカウントごとにリクエスト制限を強制できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 VT1 インスタンスの一般提供を発表 - 動画トランスコーディング用に最適化された最初の EC2 インスタンス]]></title>
+        <id>1c0183eff8231f5be2d2a8c9fb64a90bd6ba9c9b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/"/>
+        <updated>2021-09-18T01:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services (AWS) は、動画トランスコーディング用の Xilinx® Alveo™ U30 メディアアクセラレータを利用する Amazon EC2 VT1 インスタンスの一般提供を発表しました。VT1 インスタンスは AWS の最初の EC2 インスタンスであり、動画トランスコーディング用のハードウェアアクセラレーションを備えており、ライブブロードキャスト、動画を使用する会議、ジャストインタイムトランスコーディングなどのワークロード向けに最適化されています。これらのインスタンスは、Amazon EC2 G4dn GPU ベースのインスタンスよりも最大 30% 低いストリームあたりのコストを実現し、Amazon EC2 C5 CPU ベースのインスタンスよりも最大 60% 低いストリームあたりのコストを実現します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora Serverless v1 が設定可能なオートスケーリングタイムアウトをサポート]]></title>
+        <id>19f5e94bded2565255e5750f92525da300206999</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/"/>
+        <updated>2021-09-18T01:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora Serverless v1 は、オートスケーリングのタイムアウトの設定をサポートするようになりました。アプリケーションのニーズに基づいて、1〜10 分のタイムアウトを指定できます。デフォルト値は 5 分です。Aurora Serverless v1 は、スケーリングオペレーションを開始するためのアクティビティがない期間を探します。そのようなポイントなしでタイムアウト期間に達した場合は、現在の容量を維持するか、容量の変更を強制できます。オートスケーリングの詳細については、Aurora Serverless v1 のドキュメントを参照してください。タイムアウトを設定するには、AWS マネジメントコンソールにアクセスするか、最新の AWS SDK または CLI を使用します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Health Aware (AHA) がヘルスアラートのカスタマイズのために組織および個人の AWS アカウントで利用可能に]]></title>
+        <id>9a94d7909a394e91092b051e6ea84d7512e579e0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-health-aware-organizational-personal-aws-accounts-aws-health-alerts/"/>
+        <updated>2021-09-18T01:33:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Health Aware または AHA は、AWS Health からお客様のご希望の通信チャネルにプロアクティブかつリアルタイムのアラートを取り込むためのインシデント管理および通信フレームワークです。AWS Organizations を使用しているお客様は、組織全体にわたって、影響を受けるアカウントから集約されたアクティブなアカウントレベルのアラートを受け取ることができます。アラートは、Slack、Microsoft Teams、Amazon Chime、および Email Alerts などのエンドポイントに設定できます。AHA は、設定中に他のさまざまなエンドポイントと統合することもできます。これらのアラートは、お客様のアプリケーションまたはワークロードに影響を与えている問題を迅速に診断して解決するのに役立つイベントの可視性とガイダンスをお客様に提供することを目的としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[複数の AWS リージョンの EC2 Dedicated Hosts で Amazon EC2 T3 インスタンスのサポートを開始]]></title>
         <id>241a1bb656c412505798a48c20bdfa37db9d6250</id>
@@ -2148,35 +2208,6 @@
         <link href="https://weblog.rubyonrails.org/2021/8/21/this-week-in-rails-good-bye-classic-mode-skip-puma-skip-gemfile-hello-weekday_options_for_select/"/>
         <updated>2021-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Hello, zzak again with the latest changes in Rails this week!]]></summary>
-        <author>
-            <name>Riding Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年8月20日　LibreOffice 7.2 Communityリリース，Apple Siliconをネイティブサポート ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202108/20</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202108/20"/>
-        <updated>2021-08-20T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[The Document Foundationは8月19日，クロスプラットフォームのオフィススイート「LibreOffice 7.2 Community」の正式リリースを発表した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年8月20日　ねこ影 ── 帰ってきた『技評ねこ部通信』]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202108/0820</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202108/0820"/>
-        <updated>2021-08-20T06:00:00.000Z</updated>
-        <author>
-            <name>gihyo.jp：LIFESTYLE STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 6.0.4.1 and 6.1.4.1 have been released]]></title>
-        <id>https://weblog.rubyonrails.org/2021/8/19/Rails-6-0-4-1-and-6-1-4-1-have-been-released/</id>
-        <link href="https://weblog.rubyonrails.org/2021/8/19/Rails-6-0-4-1-and-6-1-4-1-have-been-released/"/>
-        <updated>2021-08-19T16:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! Rails versions 6.0.4.1 and 6.1.4.1 have been released!]]></summary>
         <author>
             <name>Riding Rails</name>
         </author>

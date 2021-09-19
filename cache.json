@@ -757,15 +757,6 @@
           "publishedOn": "2021-08-25T00:49:00.000Z",
           "wordCount": 488,
           "title": "第680回　LXDコンテナ上のWindowsでWSL環境を整える ── Ubuntu Weekly Recipe"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202108/20",
-          "author": "階戸アキラ",
-          "description": "The Document Foundationは8月19日，クロスプラットフォームのオフィススイート「LibreOffice 7.2 Community」の正式リリースを発表した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202108/20",
-          "publishedOn": "2021-08-20T06:42:00.000Z",
-          "wordCount": 405,
-          "title": "2021年8月20日　LibreOffice 7.2 Communityリリース，Apple Siliconをネイティブサポート ── Linux Daily Topics"
         }
       ]
     },
@@ -924,15 +915,6 @@
           "publishedOn": "2021-08-23T00:15:00.000Z",
           "wordCount": 361,
           "title": "第2回　『SLAM DUNK』の名監督に学ぶ育成スタンス ── 漫画から学ぶマネジメント"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202108/0820",
-          "author": null,
-          "description": "",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202108/0820",
-          "publishedOn": "2021-08-20T06:00:00.000Z",
-          "wordCount": 330,
-          "title": "2021年8月20日　ねこ影 ── 帰ってきた『技評ねこ部通信』"
         }
       ]
     },
@@ -975,6 +957,60 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "019be470418f9e2e1b9852e1dd89f1adc59b84df",
+          "author": "aws@amazon.com",
+          "description": "AWS Lake Formation がアジアパシフィック (大阪) AWS リージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/",
+          "publishedOn": "2021-09-18T02:09:53.000Z",
+          "wordCount": 233,
+          "title": "AWS Lake Formation がアジアパシフィック (大阪) で利用可能に"
+        },
+        {
+          "id": "da9a5e0deeb71ea3b5d3a21c2c84f4ccf34b1ac7",
+          "author": "aws@amazon.com",
+          "description": "機械学習を使用してテキスト内の情報を明らかにする自然言語処理 (NLP) サービスである Amazon Comprehend を使用することにより、さまざまな形式 (PDF、Word、プレーンテキスト) およびレイアウト (箇条書き、リストなど) でドキュメントからカスタムエンティティを抽出できるようになりました。これにより、インサイトをより簡単に抽出し、ドキュメント処理ワークフローをさらに自動化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/",
+          "publishedOn": "2021-09-18T02:09:53.000Z",
+          "wordCount": 292,
+          "title": "Amazon Comprehend を使用して、ネイティブ形式のドキュメントからカスタムエンティティを抽出"
+        },
+        {
+          "id": "4e502d8fa407838b716566616d10388f6285d46b",
+          "author": "aws@amazon.com",
+          "description": "AWS Firewall Manager で、お客様は、組織内のアカウント全体に AWS WAF レートベースのルールを一元的にデプロイできるようになりました。AWS WAF レートベースのルールは、お客様が、各発信 IP アドレスのリクエストのレートを追跡し、制限を超えた場合には IP に対してルールアクションをトリガーすることを許可します。今回のリリースにより、AWS Firewall Manager のセキュリティ管理者は、AWS WAF の Firewall Manager セキュリティポリシーを使用して、アカウント全体でレートベースのルールをデプロイし、アカウントごとにリクエスト制限を強制できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-firewall-manager-waf-rate-based-rules/",
+          "publishedOn": "2021-09-18T01:55:53.000Z",
+          "wordCount": 279,
+          "title": "AWS Firewall Manager が AWS WAF レートベースのルールのサポートを開始"
+        },
+        {
+          "id": "1c0183eff8231f5be2d2a8c9fb64a90bd6ba9c9b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Web Services (AWS) は、動画トランスコーディング用の Xilinx® Alveo™ U30 メディアアクセラレータを利用する Amazon EC2 VT1 インスタンスの一般提供を発表しました。VT1 インスタンスは AWS の最初の EC2 インスタンスであり、動画トランスコーディング用のハードウェアアクセラレーションを備えており、ライブブロードキャスト、動画を使用する会議、ジャストインタイムトランスコーディングなどのワークロード向けに最適化されています。これらのインスタンスは、Amazon EC2 G4dn GPU ベースのインスタンスよりも最大 30% 低いストリームあたりのコストを実現し、Amazon EC2 C5 CPU ベースのインスタンスよりも最大 60% 低いストリームあたりのコストを実現します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/",
+          "publishedOn": "2021-09-18T01:45:53.000Z",
+          "wordCount": 316,
+          "title": "Amazon EC2 VT1 インスタンスの一般提供を発表 - 動画トランスコーディング用に最適化された最初の EC2 インスタンス"
+        },
+        {
+          "id": "19f5e94bded2565255e5750f92525da300206999",
+          "author": "aws@amazon.com",
+          "description": "Amazon Aurora Serverless v1 は、オートスケーリングのタイムアウトの設定をサポートするようになりました。アプリケーションのニーズに基づいて、1〜10 分のタイムアウトを指定できます。デフォルト値は 5 分です。Aurora Serverless v1 は、スケーリングオペレーションを開始するためのアクティビティがない期間を探します。そのようなポイントなしでタイムアウト期間に達した場合は、現在の容量を維持するか、容量の変更を強制できます。オートスケーリングの詳細については、Aurora Serverless v1 のドキュメントを参照してください。タイムアウトを設定するには、AWS マネジメントコンソールにアクセスするか、最新の AWS SDK または CLI を使用します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/",
+          "publishedOn": "2021-09-18T01:39:53.000Z",
+          "wordCount": 230,
+          "title": "Amazon Aurora Serverless v1 が設定可能なオートスケーリングタイムアウトをサポート"
+        },
+        {
+          "id": "9a94d7909a394e91092b051e6ea84d7512e579e0",
+          "author": "aws@amazon.com",
+          "description": "AWS Health Aware または AHA は、AWS Health からお客様のご希望の通信チャネルにプロアクティブかつリアルタイムのアラートを取り込むためのインシデント管理および通信フレームワークです。AWS Organizations を使用しているお客様は、組織全体にわたって、影響を受けるアカウントから集約されたアクティブなアカウントレベルのアラートを受け取ることができます。アラートは、Slack、Microsoft Teams、Amazon Chime、および Email Alerts などのエンドポイントに設定できます。AHA は、設定中に他のさまざまなエンドポイントと統合することもできます。これらのアラートは、お客様のアプリケーションまたはワークロードに影響を与えている問題を迅速に診断して解決するのに役立つイベントの可視性とガイダンスをお客様に提供することを目的としています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-health-aware-organizational-personal-aws-accounts-aws-health-alerts/",
+          "publishedOn": "2021-09-18T01:33:53.000Z",
+          "wordCount": 219,
+          "title": "AWS Health Aware (AHA) がヘルスアラートのカスタマイズのために組織および個人の AWS アカウントで利用可能に"
+        },
         {
           "id": "241a1bb656c412505798a48c20bdfa37db9d6250",
           "author": "aws@amazon.com",
@@ -2022,15 +2058,6 @@
           "publishedOn": "2021-08-21T00:00:00.000Z",
           "wordCount": 377,
           "title": "Good-bye classic mode, –skip-puma, –skip-gemfile.. hello weekday_options_for_select!"
-        },
-        {
-          "id": "https://weblog.rubyonrails.org/2021/8/19/Rails-6-0-4-1-and-6-1-4-1-have-been-released/",
-          "author": null,
-          "description": "Hi everyone! Rails versions 6.0.4.1 and 6.1.4.1 have been released!",
-          "link": "https://weblog.rubyonrails.org/2021/8/19/Rails-6-0-4-1-and-6-1-4-1-have-been-released/",
-          "publishedOn": "2021-08-19T16:40:25.000Z",
-          "wordCount": 154,
-          "title": "Rails 6.0.4.1 and 6.1.4.1 have been released"
         }
       ]
     }
