@@ -2,10 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-21T00:52:47.745Z</updated>
+    <updated>2021-09-22T00:54:24.200Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第684回　UbuntuからRaspberry Pi Picoを使う ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0684</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0684"/>
+        <updated>2021-09-22T00:43:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年の1月にRaspberry Piシリーズに「Raspberry Pi Pico」が追加されました。「マイコンボード」と呼ばれるカテゴリーの製品です。今回はUbuntu上でPico用のファームウェアをビルドし，Picoに書き込み，起動する手順を説明します。]]></summary>
+        <author>
+            <name>柴田充也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年9月第4週　独自チップはPixel 6がはじめてではない ── Android Weekly Topics]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/awt/202109/22</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202109/22"/>
+        <updated>2021-09-22T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年9月第4週のAndroid関連のニュースをお届けします。]]></summary>
+        <author>
+            <name>傍島康雄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求められる宇宙の交通整理、解決のヒントは「海」にあり]]></title>
+        <id>https://www.technologyreview.jp/?p=254682</id>
+        <link href="https://www.technologyreview.jp/s/254682/to-solve-space-traffic-woes-look-to-the-high-seas/"/>
+        <updated>2021-09-21T21:50:14.000Z</updated>
+        <summary type="html"><![CDATA[人工衛星の大量打ち上げによって、将来の衝突事故の可能性が懸念されている。宇宙・航空政策の専門家は、宇宙交通の安全を確保する最善の方法は、海事法の考え方を取り入れることだという。]]></summary>
+        <author>
+            <name>Neel V. Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10年のときを経てGoogle検索にインデント結果が復活]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11620</id>
+        <link href="https://www.suzukikenichi.com/blog/google-displays-indented-results-again-after-10-years/"/>
+        <updated>2021-09-21T21:45:26.000Z</updated>
+        <summary type="html"><![CDATA[同一ドメインから 2 つのページが検索結果に出るときに、2 つ目をインデントして表示するように Google は表示形式を変更した。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 Access Points の Amazon CloudWatch リクエストメトリクスが利用可能に]]></title>
+        <id>f6b7acf47fdb23ac2fc09b91fecde85336208d89</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/"/>
+        <updated>2021-09-21T20:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 Access Points のお客様は、Amazon CloudWatch リクエストメトリクスを設定できるようになりました。今回のリリースにより、バケット内のすべてのオブジェクトについて S3 リクエストメトリクスを生成できるようになりました。または、プレフィックス、オブジェクトタグ、またはアクセスポイントの特定の組み合わせについてメトリクスを生成できます。S3 Access Points を使用することで、共有データセットに対する適切なアクセスコントロールを簡単に構築でき、アクセスポイントによるフィルタリングのサポートにより、アクセスコントロール別にリクエストパターンをモニタリングできるようになりました。S3 マネジメントコンソール、SDK、API、または AWS CloudFormation を使用して、S3 リクエストメトリクスを有効にできます。メトリクスは 1 分間隔で利用可能であり、Amazon S3 コンソールまたは Amazon CloudWatch コンソールの両方でモニタリングできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS RoboMaker がシミュレーションでコンテナイメージのサポートを開始]]></title>
+        <id>b18e0ae6da492d1e17451c1c7874ede5ad2b213f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-robomaker-supports-container-images-simulation/"/>
+        <updated>2021-09-21T20:31:05.000Z</updated>
+        <summary type="html"><![CDATA[お客様がクラウドスケールでロボットアプリケーションをシミュレートできるようにするサービスである AWS RoboMaker は、コンテナイメージをサポートするようになりました。この機能により、お客様は、RoboMaker でシミュレーションを実行するためのコードを構築およびパッケージ化するために、既に使い慣れているコンテナツールを使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio 2022 Preview 4が公開。CSSの変更がすぐプレビューに反映されるホットリロードなど新機能]]></title>
+        <id>https://www.publickey1.jp/blog/21/visual_studio_2022_preview_4css.html</id>
+        <link href="https://www.publickey1.jp/blog/21/visual_studio_2022_preview_4css.html"/>
+        <updated>2021-09-21T15:49:17.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、Visual Studio 202 Preview 4を公開。検索の高速化、CSSのホットリロード、依存性ブレークポイントなど、開発中の新機能を発表しました。 Visual Studio 2022 Preview 4 is...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊Railsウォッチ: Rails 7 Alpha 1と2が公開、Rubyハッシュのショートハンド記法、iCare Dev Meetupほか（20210921）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_21/111815</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_21/111815"/>
+        <updated>2021-09-21T10:01:40.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/railswatch_20210921_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。RubyKaigi Takeout 2021が終わりましたね。 私はいつもproposalでの推しポイントは「これRubyKaigiじゃなかったらどこで話すん?」だけなので、なんかスケジュールが結果的にこうなってて #rubykaigi すごいなー、と毎回おもう &#8212; Kakutani Shintaro (@kakutani) September 11, 2021 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_21/111815" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Rails 7 Alpha 1と2が公開、Rubyハッシュのショートハンド記法、iCare Dev Meetupほか（20210921）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最大級の貴重な脳のコレクション]]></title>
+        <id>https://www.technologyreview.jp/?p=254922</id>
+        <link href="https://www.technologyreview.jp/s/254922/the-worlds-largest-collection-of-malformed-brains/"/>
+        <updated>2021-09-21T09:41:38.000Z</updated>
+        <summary type="html"><![CDATA[100個ほどのガラスびんの中には、精神科病院から寄贈された貴重な患者の脳が収められている。]]></summary>
+        <author>
+            <name>Robin Finlay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK Connect 発表: Amazon MSK でサーバーレスかつ、スケーラブルな Kafka Connect クラスターを実行]]></title>
+        <id>430901237fe719b11fce0db3f1ee6df3e70470df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/"/>
+        <updated>2021-09-21T05:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MSK Connect の公開により、Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、フルマネージドの Kafka Connect クラスターが実行できるようになりました。MSK Connect では、わずか数回のクリックで、データベース、ファイルシステム、検索インデックスなどの外部システムから、Apache Kafka と Amazon MSK クラスターのデータを内外へと移動するコネクタを簡単にデプロイ、モニタリング、スケールできるようになります。MSK Connect はクラスターのインフラストラクチャをプロビジョンしたり、保守したりする必要性を排除します。コネクタは使用量が増加するとそれに応じて自動的にスケールし、お客様には使用したリソース分のみ課金されます。Kafka Connect との完全な互換性により、コードを変更することなく、ワークロードを簡単に移行できます。MSK Connect は Amazon MSK 管理のクラスターと、自己管理の Apache Kafka クラスターの両方をサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto 17 の一般提供が開始]]></title>
+        <id>8271ee3e33b3a15e282f02ea5dfcefb6c57cc7d2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-corretto-17-now-available/"/>
+        <updated>2021-09-21T05:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Corretto 17 の一般提供を開始しました。このバージョンは、最新の Java 機能リリース JDK 17 をサポートしており、Linux、Windows、および macOS でご利用いただけます。Corretto 17 はダウンロードページからダウンロードできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CodeCommit が、アフリカ (ケープタウン) リージョンで利用可能に]]></title>
+        <id>197f4d77a847314b765eb356694ff6e4d23dfa5b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-codecommit-africa-cape-town-region/"/>
+        <updated>2021-09-21T05:30:56.000Z</updated>
+        <summary type="html"><![CDATA[AWS CodeCommit が、アフリカ (ケープタウン) リージョンで利用可能になりました。AWS CodeCommit は、プライベート Git リポジトリをホストする、安全で高度にスケーラブルなマネージソース管理サービスです。CodeCommit によって、インフラストラクチャのスケーリングに関する不安要素は排除され、お客様が独自のソース管理システムを管理する必要がなくなります。CodeCommit を使用して、コードからバイナリまで何でも保存できます。Git の標準機能をサポートしているため、既存の Git ベースのツールとシームレスに連携します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「心」とは何か？ MITテクノロジーレビューの誌面から]]></title>
+        <id>https://www.technologyreview.jp/?p=255112</id>
+        <link href="https://www.technologyreview.jp/s/255112/a-piece-of-our-mind/"/>
+        <updated>2021-09-21T03:00:17.000Z</updated>
+        <summary type="html"><![CDATA[MITテクノロジーレビューでは過去数十年間にわたって、私たちの「心」の一部を構成する「脳」について分かっていること、あるいはまだ分からないことを繰り返し取り上げてきた。過去の誌面から、その一部を紹介しよう。]]></summary>
+        <author>
+            <name>MIT Technology Review Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラウドプロバイダがランサムウェア軽減戦略を公開]]></title>
+        <id>https://www.infoq.com/jp/news/2021/09/cloud-randomware-mitigation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/09/cloud-randomware-mitigation/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-21T02:29:00.000Z</updated>
+        <summary type="html"><![CDATA[過去数週間で、AWS、Azure、Google Cloudから、クラウドでのランサムウェア軽減手法に関する提案の記事とドキュメントの投稿があった。主な保護方法とリカバリ準備のアクションに焦点を当てている。
+ By Renato Losio  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javaニュース総まとめ: Jakarta EE 10 Core Profile、OpenJDK、Open Liberty、Payara、Groovy と Quarkus]]></title>
+        <id>https://www.infoq.com/jp/news/2021/09/java-news-roundup-sep06-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/09/java-news-roundup-sep06-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-21T02:27:00.000Z</updated>
+        <summary type="html"><![CDATA[今週2021年9月6日のJava総まとめでは、新しいコアプロファイルを導入するJakarta EE 10、JEP 417、JDK 18、Open Liberty 21.0.0.10-beta、Payara 2021年8月ロードマップアップデートウェビナー、Quarkus 2.2.2.Final、新しいMicronaut Javaライブラリ、Hibernate Search 6.1.0.Alpha1、GraalVM Native Build Tools 0.9.5、Groovyバージョンのアップデート、およびJakartaOne Livestream 2021カンファレンスからのニュースを特集する。
+ By Michael Redlich  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工知能が自ら作る 「設計図のないAI」 新たな知性を作り出すか]]></title>
+        <id>https://www.technologyreview.jp/?p=246278</id>
+        <link href="https://www.technologyreview.jp/s/246278/ai-is-learning-how-to-create-itself/"/>
+        <updated>2021-09-21T02:18:58.000Z</updated>
+        <summary type="html"><![CDATA[人間は、人類よりも賢い機械を作り出すことはできるのだろうか。あるAI研究者は、AIを使ってAIを作ることが、汎用人工知能（AGI）への重要なステップになると考えている。]]></summary>
+        <author>
+            <name>Will Douglas Heaven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーティクル: 技術的負債は技術でない：技術的負債を減らすために企業ができること]]></title>
+        <id>https://www.infoq.com/jp/articles/reduce-technical-debt/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/articles/reduce-technical-debt/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-21T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、3人の専門家が「技術的負債の状況2021」レポートの主な調査結果について説明します。その内容は、技術的負債がエンジニアリングチームに与える影響、メンテナンス作業を継続的に取り組むことの長所と短所、技術的負債の将来などです。そして、各エンジニアリングチームが、技術的負債への取り組みの重要性を企業のリーダーシップに伝えるためにできることも含みます。
+ By Alex Omeyer, Nicolas Carlo, Maarten Dalmijn  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Alex Omeyer, Nicolas Carlo, Maarten Dalmijn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第155回　エラーログのフィルタリング ── MySQL道普請便り]]></title>
         <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0155</id>
@@ -2280,16 +2454,6 @@
         <summary type="html"><![CDATA[皆さんはMySQLからデータを論理バックアップする際にどんなコマンドを使っているでしょうか？]]></summary>
         <author>
             <name>木村浩一郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回　『SLAM DUNK』の名監督に学ぶ育成スタンス ── 漫画から学ぶマネジメント]]></title>
-        <id>https://gihyo.jp/lifestyle/serial/01/comic_management/0002</id>
-        <link href="https://gihyo.jp/lifestyle/serial/01/comic_management/0002"/>
-        <updated>2021-08-23T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[この作品は高校生の部活動でのバスケを題材としているとあって，どのチームも大人の監督がいて学生の選手たちがいるという構図となっています。]]></summary>
-        <author>
-            <name>是澤太志</name>
         </author>
     </entry>
 </feed>
