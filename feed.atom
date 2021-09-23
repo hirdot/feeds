@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T00:54:24.200Z</updated>
+    <updated>2021-09-23T00:56:15.384Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails 7 Alpha 1、2がリリースされました（リリースノート翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_22/111922</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_22/111922"/>
+        <updated>2021-09-22T10:44:38.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails7_alpha_released_eyecatch3-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Ruby on Rails 7 Alpha 1、Alpha 2が立て続けにリリースされました。 Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively https://t.co/P6kq1baBjl &#8212; Ruby on Rails (@rails) September 15, 2021 リリース情報: Rails 7&#46;0 Alpha 1: New JavaScript Answers, At&#45;Work Encryption, Que [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_22/111922" data-wpel-link="internal" target="_self">Rails 7 Alpha 1、2がリリースされました（リリースノート翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Single Sign-On に加え、IAM ベースの認証または IAM フェデレーションを使用して、Amazon EMR Studio のユーザーの認証が可能に]]></title>
+        <id>feb00b51e0df4cd98aa18bffc387f4e4ce9c1fbd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/"/>
+        <updated>2021-09-22T08:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたデータエンジニアリングおよびデータサイエンスアプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。今日は、EMR Studio の追加の認証オプションを紹介します。今回のリリース以前は、EMR Studio にログインするために、アイデンティティプロバイダー (IdP) と AWS Single Sign-On (AWS SSO) を統合する必要がありました。今回のリリースでは、EMR Studio にログインするために、AWS SSO の利用に加えて、AWS Identity and Access Management (IAM) 認証の利用、または企業の認証情報を用いた IAM フェデレーションの利用が選択できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年9月22日　背中は語る ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0922</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0922"/>
+        <updated>2021-09-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ねこ部は今，背中が掻けません。腕が背中に回らないからです。そういうとき，ねこの手を借りてみたいですが，血を見そうなので，やっぱりやめておきます。]]></summary>
+        <author>
+            <name>gihyo.jp：LIFESTYLE STAGE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経営者、DX推進担当者必見！｜「DX・データ活用」イベント・セミナー5選｜2021年10月版]]></title>
+        <id>https://data.wingarc.com/?p=35293</id>
+        <link href="https://data.wingarc.com/seminarlist_202110-35293"/>
+        <updated>2021-09-22T01:23:58.000Z</updated>
+        <summary type="html"><![CDATA[企業がデジタル技術を利用して業務や経営を根底から変化させる取り組みをDX（デジタル・トランスフォーメーション）といいます。 DXは企業の意識改革や経営戦略などの概念ですが、これらを実現するにはデータを活用するための基盤・ […]]]></summary>
+        <author>
+            <name>tadokoroyusuke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第684回　UbuntuからRaspberry Pi Picoを使う ── Ubuntu Weekly Recipe]]></title>
         <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0684</id>
@@ -2444,16 +2485,6 @@
         <summary type="html"><![CDATA[第679回ではLXD/VMの上にWindows 10をインストールしました。 今回は，このLXDコンテナ上のWindowsでWSL2を楽しむ方法をお伝えします。]]></summary>
         <author>
             <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第153回　mysqlpumpを使ってバックアップを取ってみる ── MySQL道普請便り]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0153"/>
-        <updated>2021-08-24T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[皆さんはMySQLからデータを論理バックアップする際にどんなコマンドを使っているでしょうか？]]></summary>
-        <author>
-            <name>木村浩一郎</name>
         </author>
     </entry>
 </feed>
