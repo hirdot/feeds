@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11623",
+          "author": "Kenichi Suzuki",
+          "description": "非 HTTPS ページへのアクセスを拒否する設定がリリースされたばかりの安定版 Chrome 94 正式に導入された。",
+          "link": "https://www.suzukikenichi.com/blog/chrome-94-blocks-access-to-http-pages/",
+          "publishedOn": "2021-09-23T21:45:07.000Z",
+          "wordCount": 513,
+          "title": "Chrome94がセキュリティ強化🔐非HTTPSページへのアクセスを拒否"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11620",
           "author": "Kenichi Suzuki",
           "description": "同一ドメインから 2 つのページが検索結果に出るときに、2 つ目をインデントして表示するように Google は表示形式を変更した。",
@@ -520,6 +529,33 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/21/jupyterlabjupyterlab_apppython.html",
+          "author": null,
+          "description": "Pythonなどに対応した統合開発環境としてWebブラウザから利用する「JupyterLab」のデスクトップアプリケーション版となる「JupyterLab App」がリリースされました。 Electronベースのマルチプラットフォーム対応と...",
+          "link": "https://www.publickey1.jp/blog/21/jupyterlabjupyterlab_apppython.html",
+          "publishedOn": "2021-09-23T16:17:10.000Z",
+          "wordCount": 151,
+          "title": "「JupyterLab」のデスクトップアプリ「JupyterLab App」がリリース。Pythonなどに対応した統合開発環境"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/azurenutanixnutanix_cluster_on_azure.html",
+          "author": null,
+          "description": "ハイパーコンバージドシステム大手のNutanixは、9月21日と22日（日本時間の22日深夜と23日深夜）にオンラインイベント「Nutanix .NEXT 2021」を開催。 同社のハイパーコンバージドシステムに関する多くの新機能などの発表...",
+          "link": "https://www.publickey1.jp/blog/21/azurenutanixnutanix_cluster_on_azure.html",
+          "publishedOn": "2021-09-23T16:12:20.000Z",
+          "wordCount": 188,
+          "title": "Azure上でNutanixのハイパコンバージドが利用可能になる「Nutanix Cluster on Azure」発表"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/nutanix_1.html",
+          "author": null,
+          "description": "ハイパーコンバージドシステム大手のNutanixは、9月21日と22日（日本時間の22日深夜と23日深夜）にオンラインイベント「Nutanix .NEXT 2021」を開催。 同社が提供するハイパーコンバージドシステムの基盤ソフトウェアであ...",
+          "link": "https://www.publickey1.jp/blog/21/nutanix_1.html",
+          "publishedOn": "2021-09-23T16:00:59.000Z",
+          "wordCount": 167,
+          "title": "Nutanix、仮想ネットワーク機能を正式リリース。メモリオーバーコミット機能も追加"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/visual_studio_2022_preview_4css.html",
           "author": null,
           "description": "マイクロソフトは、Visual Studio 202 Preview 4を公開。検索の高速化、CSSのホットリロード、依存性ブレークポイントなど、開発中の新機能を発表しました。 Visual Studio 2022 Preview 4 is...",
@@ -910,15 +946,6 @@
           "publishedOn": "2021-08-26T06:43:00.000Z",
           "wordCount": 423,
           "title": "2021年8月26日　Happy Anniversary! Linux，30歳になる ── Linux Daily Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680",
-          "author": "柴田充也",
-          "description": "第679回ではLXD/VMの上にWindows 10をインストールしました。 今回は，このLXDコンテナ上のWindowsでWSL2を楽しむ方法をお伝えします。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680",
-          "publishedOn": "2021-08-25T00:49:00.000Z",
-          "wordCount": 488,
-          "title": "第680回　LXDコンテナ上のWindowsでWSL環境を整える ── Ubuntu Weekly Recipe"
         }
       ]
     },
@@ -1128,6 +1155,33 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "bae786d79b58dc274cbab405b54f800a54209a7a",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight は、お客様の時間の節約とデータガバナンスの向上を新機能とする、Dataset-as-a-Source を発表しました。Dataset-as-a-Source は、1 つまたは複数のデータセットを入力として新しいデータセットを作成し、他のデータベース、CSV ファイル、Twitter のようなアプリなど、まったく新しいデータソースと組み合わせることができます。Curator は、セントラルデータセットを作成し、Author は、それを再利用して自分自身のデータセットを作成することができます。Curator は、セントラルデータセットのビジネスメトリクスの定義をコントロールすることができ、Author は、自分自身の新しいデータセットを作成する開始点を得ることで時間を節約できます。データセットの定義を更新する必要がある場合、Curator がセントラルデータセットに変更を加えると、依存関係にあるデータセットが自動的に更新されます。Dataset-as-a-Source は、データセットを Direct Query、 SPICE、あるいはそれら 2 つの組み合わせと結び付けることができます。詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/",
+          "publishedOn": "2021-09-23T23:04:24.000Z",
+          "wordCount": 266,
+          "title": "Amazon QuickSight は、Dataset-as-a-Source を立ち上げました"
+        },
+        {
+          "id": "e677b103f8d6c3fdb39799e918ce2fda12cf57c2",
+          "author": "aws@amazon.com",
+          "description": "お客様がクラウドスケールでロボットアプリケーションをシミュレートできるようにするサービスである AWS RoboMaker は、コンテナイメージをサポートするようになりました。この機能により、お客様は、RoboMaker でシミュレーションを実行するためのコードを構築およびパッケージ化するために、既に使い慣れているコンテナツールを使用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/",
+          "publishedOn": "2021-09-23T23:02:45.000Z",
+          "wordCount": 233,
+          "title": "AWS RoboMaker がシミュレーションでコンテナイメージのサポートを開始"
+        },
+        {
+          "id": "d79e6c145774abfb521f575578283e35bbe9833f",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) は、複数の認証モードの同時使用と Amazon MSK クラスターのための転送中のデータの暗号化をサポートするようになりました。これらの機能により、クライアントを 1 つの認証モードから別の認証モードにシームレスに移行させ、その変更に合わせて暗号化設定を更新することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/",
+          "publishedOn": "2021-09-23T23:01:05.000Z",
+          "wordCount": 231,
+          "title": "Amazon MSK は、複数の認証モードの実行をサポートするようになり、TLS 暗号化設定にアップデートされました"
+        },
         {
           "id": "feb00b51e0df4cd98aa18bffc387f4e4ce9c1fbd",
           "author": "aws@amazon.com",

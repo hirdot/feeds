@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-23T00:56:15.384Z</updated>
+    <updated>2021-09-24T00:53:10.521Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight は、Dataset-as-a-Source を立ち上げました]]></title>
+        <id>bae786d79b58dc274cbab405b54f800a54209a7a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/"/>
+        <updated>2021-09-23T23:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、お客様の時間の節約とデータガバナンスの向上を新機能とする、Dataset-as-a-Source を発表しました。Dataset-as-a-Source は、1 つまたは複数のデータセットを入力として新しいデータセットを作成し、他のデータベース、CSV ファイル、Twitter のようなアプリなど、まったく新しいデータソースと組み合わせることができます。Curator は、セントラルデータセットを作成し、Author は、それを再利用して自分自身のデータセットを作成することができます。Curator は、セントラルデータセットのビジネスメトリクスの定義をコントロールすることができ、Author は、自分自身の新しいデータセットを作成する開始点を得ることで時間を節約できます。データセットの定義を更新する必要がある場合、Curator がセントラルデータセットに変更を加えると、依存関係にあるデータセットが自動的に更新されます。Dataset-as-a-Source は、データセットを Direct Query、 SPICE、あるいはそれら 2 つの組み合わせと結び付けることができます。詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS RoboMaker がシミュレーションでコンテナイメージのサポートを開始]]></title>
+        <id>e677b103f8d6c3fdb39799e918ce2fda12cf57c2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/"/>
+        <updated>2021-09-23T23:02:45.000Z</updated>
+        <summary type="html"><![CDATA[お客様がクラウドスケールでロボットアプリケーションをシミュレートできるようにするサービスである AWS RoboMaker は、コンテナイメージをサポートするようになりました。この機能により、お客様は、RoboMaker でシミュレーションを実行するためのコードを構築およびパッケージ化するために、既に使い慣れているコンテナツールを使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK は、複数の認証モードの実行をサポートするようになり、TLS 暗号化設定にアップデートされました]]></title>
+        <id>d79e6c145774abfb521f575578283e35bbe9833f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/"/>
+        <updated>2021-09-23T23:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) は、複数の認証モードの同時使用と Amazon MSK クラスターのための転送中のデータの暗号化をサポートするようになりました。これらの機能により、クライアントを 1 つの認証モードから別の認証モードにシームレスに移行させ、その変更に合わせて暗号化設定を更新することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome94がセキュリティ強化🔐非HTTPSページへのアクセスを拒否]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11623</id>
+        <link href="https://www.suzukikenichi.com/blog/chrome-94-blocks-access-to-http-pages/"/>
+        <updated>2021-09-23T21:45:07.000Z</updated>
+        <summary type="html"><![CDATA[非 HTTPS ページへのアクセスを拒否する設定がリリースされたばかりの安定版 Chrome 94 正式に導入された。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「JupyterLab」のデスクトップアプリ「JupyterLab App」がリリース。Pythonなどに対応した統合開発環境]]></title>
+        <id>https://www.publickey1.jp/blog/21/jupyterlabjupyterlab_apppython.html</id>
+        <link href="https://www.publickey1.jp/blog/21/jupyterlabjupyterlab_apppython.html"/>
+        <updated>2021-09-23T16:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Pythonなどに対応した統合開発環境としてWebブラウザから利用する「JupyterLab」のデスクトップアプリケーション版となる「JupyterLab App」がリリースされました。 Electronベースのマルチプラットフォーム対応と...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure上でNutanixのハイパコンバージドが利用可能になる「Nutanix Cluster on Azure」発表]]></title>
+        <id>https://www.publickey1.jp/blog/21/azurenutanixnutanix_cluster_on_azure.html</id>
+        <link href="https://www.publickey1.jp/blog/21/azurenutanixnutanix_cluster_on_azure.html"/>
+        <updated>2021-09-23T16:12:20.000Z</updated>
+        <summary type="html"><![CDATA[ハイパーコンバージドシステム大手のNutanixは、9月21日と22日（日本時間の22日深夜と23日深夜）にオンラインイベント「Nutanix .NEXT 2021」を開催。 同社のハイパーコンバージドシステムに関する多くの新機能などの発表...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nutanix、仮想ネットワーク機能を正式リリース。メモリオーバーコミット機能も追加]]></title>
+        <id>https://www.publickey1.jp/blog/21/nutanix_1.html</id>
+        <link href="https://www.publickey1.jp/blog/21/nutanix_1.html"/>
+        <updated>2021-09-23T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[ハイパーコンバージドシステム大手のNutanixは、9月21日と22日（日本時間の22日深夜と23日深夜）にオンラインイベント「Nutanix .NEXT 2021」を開催。 同社が提供するハイパーコンバージドシステムの基盤ソフトウェアであ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7 Alpha 1、2がリリースされました（リリースノート翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_09_22/111922</id>
@@ -2475,16 +2545,6 @@
         <summary type="html"><![CDATA[2021年8月第4週のAndroid関連のニュースです。]]></summary>
         <author>
             <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第680回　LXDコンテナ上のWindowsでWSL環境を整える ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0680"/>
-        <updated>2021-08-25T00:49:00.000Z</updated>
-        <summary type="html"><![CDATA[第679回ではLXD/VMの上にWindows 10をインストールしました。 今回は，このLXDコンテナ上のWindowsでWSL2を楽しむ方法をお伝えします。]]></summary>
-        <author>
-            <name>柴田充也</name>
         </author>
     </entry>
 </feed>
