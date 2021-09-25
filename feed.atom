@@ -2,10 +2,203 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-24T00:53:10.521Z</updated>
+    <updated>2021-09-25T00:51:06.572Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[任意の精度メトリクスを使用して Amazon Forecast モデルを最適化する]]></title>
+        <id>65651f8a5b8ef1124a393b0479c48ba63001f5b5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/"/>
+        <updated>2021-09-24T19:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Forecast では、任意の精度メトリクスを選択して、任意の精度メトリクスの予測子のトレーニングを最適化するよう AutoML に指示できるようになりました。さらに、予測子を評価するために、平均重み付き分位損失 (平均 wQL)、平均絶対パーセント誤差 (MAPE)、および平均絶対スケール誤差 (MASE) の 3 つの精度メトリクスを追加しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect チャットは、チャットのユーザーインターフェイスを介したお客様の表示名とコンタクト属性の受渡しサポートを開始]]></title>
+        <id>b06c26c1286c4563f018f643ee3affbefdcaf3fe</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/"/>
+        <updated>2021-09-24T18:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect チャットでは、チャットのユーザーインターフェイスでお客様の表示名とコンタクト属性を渡すことができるようになったことにより、チャットのカスタマーエクスペリエンスをパーソナライズすることができるようになりました。コンタクト属性には、お客様 ID、ロイヤルティステータス、さらにはお客様がチャットを開始したときに見ていたウェブページについてのコンテキストなどのコンタクトに関連するメタデータが含まれています。コンタクト属性は、Amazon Connect のフローで利用できるため、プラチナレベルのお客様を優先したり、関連するお客様情報を表示してエージェントのスクリーンポップを実行したりするなど、ユニークで魅力的なカスタマーエクスペリエンスを簡単に実現することができます。さらに、チャットのユーザーインターフェイスを使用してお客様の名前を共有することもできます。これにより、対話中にエージェントとお客様の両方にお客様の名前が表示され、エージェントは会話をパーソナライズすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Detective が S3 と DNS の結果タイプをサポートし、検索結果詳細を追加]]></title>
+        <id>524a54697a0cee6bba12f2b7c8044fd3a684e3f4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-detective-s3-dns/"/>
+        <updated>2021-09-24T18:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Detective は、Amazon Simple Storage Service (S3) と Amazon GuardDuty の DNS 関連の検索結果に対するセキュリティ調査のサポートを拡大し、GuardDuty からのすべての検出を完全にカバーすることができます。これに伴い、Detective は、セキュリティアナリストが、刷新されたユーザーエクスペリエンスを用いてエンティティや行動を調査することを、従来よりも容易にしました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Elastic Beanstalk が動的インスタンスタイプの選択をサポート]]></title>
+        <id>dfac215d8ff06886002ad74504698c465b78f8f3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/"/>
+        <updated>2021-09-24T18:31:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elastic Beanstalk では、Elastic Beanstalk の環境に合わせた動的なインスタンスタイプの選択が可能になりました。つまり、Elastic Beanstalk は、さまざまなアプリケーションを実行するために、互換性のあるすべてのインスタンスタイプを自動的にフェッチするということです。動的なインスタンスタイプでは、アプリケーションのパフォーマンスを最適化するために、最適なインスタンスタイプを選択することができます。例えば、機械学習のアプリケーションがある場合、p3 や p4d などの高速コンピューティングインスタンスタイプを選択することで、パフォーマンスを最適化することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift クロスアカウントのデータ共有が、AWS GovCloud (米国) リージョンにおいて一般的に利用可能に]]></title>
+        <id>b731a17bdc6cd0bc6df57115d21ec1e943c71590</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/"/>
+        <updated>2021-09-24T18:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift データ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を取り除いて、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。 同じ AWS アカウント内のクラスター間でデータを共有する機能は既に AWS GovCloud (米国) リージョンで利用可能です。異なる AWS アカウントの Redshift クラスター間でのデータ共有も AWS GovCloud (米国) リージョンで一般的に利用可能になりました。クロスアカウントのデータ共有は、すべての Amazon Redshift RA3 ノードタイプでサポートされています。Amazon Redshift クラスターでクロスアカウントのデータ共有を使用する際に追加コストは発生しません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が Unity 向け Amazon GameLift プラグインと AWS CloudFormation テンプレートの一般提供を発表]]></title>
+        <id>e8f801e80d67b74aae7ac181544ebb4dfdbf9e76</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/"/>
+        <updated>2021-09-24T18:01:47.000Z</updated>
+        <summary type="html"><![CDATA[本日、Unity 向け Amazon GameLift プラグインの一般提供 (GA) を発表できることを嬉しく思います。これにより GameLift リソースへのアクセスと、GameLift の Unity ゲームへの統合が容易になります。Ubisoft や Gungho など、世界で最も成功しているいくつかのゲーム会社から信頼されている GameLift は、マルチプレイヤーゲーム専用のサーバーをデプロイ、運用、およびスケーリングします。この更新により、ゲームデベロッパーは、Unity 向け GameLift プラグインを使用してGameLift API にアクセスし、一般的なゲームシナリオ用の AWS CloudFormation テンプレートをデプロイできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify CLI および Admin UI が、米国西部 (北カリフォルニア)、欧州 (パリ)、欧州 (ストックホルム)、南米 (サンパウロ)、および中東 (バーレーン) で一般利用可能になりました。]]></title>
+        <id>f4274e1fa0b49c53b06c9c654fb0199f7ed5c98f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-amplify-cli-admin-ui-extended-regions/"/>
+        <updated>2021-09-24T10:47:37.000Z</updated>
+        <summary type="html"><![CDATA[AWS Amplify はフルマネージド型の静的ウェブホスティングサービスです。フルスタックの静的ウェブアプリケーションを構築およびデプロイするためのシンプルな CI/CD ワークフローを提供することにより、アプリケーションのリリースサイクルを加速します。コンソールでアプリケーションのコードリポジトリを接続するだけで、コードコミットを行う度に、フロントエンドとバックエンドへの変更を単一のワークフローにデプロイします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SageMaker Studio で、Studio ノートブックからのインタラクティブな Spark ベースのデータ処理が可能に]]></title>
+        <id>943f53c69dcc6cdb933c7681cc02fcde626050f3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/sagemaker-studio-spark-data-processing-studio-notebooks/"/>
+        <updated>2021-09-24T10:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker は、SageMaker Studio ノートブックからインタラクティブな Spark ベースのデータ処理を可能にする新しい機能セットを発表しました。Amazon SageMaker Studio は、機械学習のための初の完全統合開発環境 (IDE) です。SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。データサイエンティストやデベロッパーは、一回のクリックで素早く Studio ノートブックにサインインし、データセットの検証や ML モデルの構築を始められます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railsの技: to_sqlでActive Recordが生成するクエリを調べる（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_24/110079</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_24/110079"/>
+        <updated>2021-09-24T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/07/rails_to_sql_to_see_what_query_ar_generates_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Use to&#95;sql to see what query ActiveRecord will generate &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2021/03/22 著者: Matt Swanson サイト: Boring Rails Railsの技: to_sqlでActive Recordが生成するクエリを調べる（翻訳） joinsや複雑なwhere句を含んでいたり、複数テーブル間で特定の値をSELECTするような込み入ったActive Recordクエリ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_24/110079" data-wpel-link="internal" target="_self">Railsの技: to_sqlでActive Recordが生成するクエリを調べる（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家による「ネット遮断」の問題点、グーグル・ジグソー責任者に聞く]]></title>
+        <id>https://www.technologyreview.jp/?p=257038</id>
+        <link href="https://www.technologyreview.jp/s/257038/why-you-should-be-more-concerned-about-internet-shutdowns/"/>
+        <updated>2021-09-24T07:46:45.000Z</updated>
+        <summary type="html"><![CDATA[グーグルのジグソー・プロジェクトの報告書によると、最近になって各国政府は指数関数的なペースでインターネットを遮断しているという。同プロジェクトの責任者が、インターネット遮断がなぜ問題なのか、どう取り組むべきなのか語った。]]></summary>
+        <author>
+            <name>Tate Ryan-Mosley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS が MySQL および PostgreSQL データベース用の R5b インスタンスのサポートを開始]]></title>
+        <id>6ddc326b3bdc192b29f703a1802a4e16d9f52e44</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-r5b-mysql-postgresql-databases/"/>
+        <updated>2021-09-24T02:46:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) は、MySQL および PostgreSQL データベース用の R5b データベース (DB) インスタンスのサポートを開始しました。R5b DB インスタンスは、 Amazon RDS for MySQL および PostgreSQL のデータベースで利用可能な最新の x86 ベースのメモリー最適化 DB インスタンス (R5) と比較して、Amazon Elastic Block Store (Amazon EBS) で最大 3 倍の I/O オペレーション/秒 (IOPS) と最大 3 倍の帯域幅をサポートします。R5b DB インスタンスは、IO を集中的に使用する DB ワークロードには最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Route 53 Resolver DNS Firewall がアジアパシフィック (大阪) リージョンで利用可能に]]></title>
+        <id>8af22638947e4e73ef13d9110817306d74c20e8e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/route-53-resolver-dns-firewall-asia-pacific-osaka-region/"/>
+        <updated>2021-09-24T02:36:20.000Z</updated>
+        <summary type="html"><![CDATA[本日、Route 53 Resolver DNS Firewall がアジアパシフィック (大阪) リージョンで一般提供を開始したことを発表させていただきます。Route 53 Resolver DNS Firewall は、お客様が既知の悪意のあるドメインに対して行われた DNS クエリをブロックし、信頼できるドメインに対するクエリを許可できるようにするマネージドファイアウォールです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IQ が、英国およびフランスにある AWS 認定エキスパートとコンサルティング会社のサポートを開始]]></title>
+        <id>e3da2ab551bde3dd40427a96acd57839801dffc8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iq-aws-certified-experts-consulting-firms-uk-france/"/>
+        <updated>2021-09-24T02:32:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS IQ が、英国およびフランスにある AWS 認定エキスパートとコンサルティング会社のサポートを開始しました。オンデマンドワークについて、英国およびフランスにあるエキスパートとコンサルティング会社をすばやく見つけて、連絡し、支援を受けましょう。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker が SageMaker Studio からの推論エンドポイントテストのサポートを開始]]></title>
+        <id>c5d0cae0da908ea778dd78be307aa273349cdf08</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-sagemaker-studio-inference-endpoint-testing/"/>
+        <updated>2021-09-24T02:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Studio Amazon SageMaker がホストしているモデルのリアルタイムの推論結果を、Amazon SageMaker Studio から直接得られるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS が MySQL、MariaDB、および PostgreSQL データベース用の T4g インスタンスのサポートを開始。]]></title>
+        <id>70cde273aa9fdebebcc693330cba44aa1ef25f31</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-t4g-mysql-mariadb-postgresql/"/>
+        <updated>2021-09-24T02:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) は、MySQL、MariaDB、および PostgreSQL データベース用の AWS Graviton2 ベースの T4g データベース (DB) インスタンスのサポートを開始しました。T4g DB インスタンス は、ワークロードの特性によっては、同等の現世代である x86 ベースのT3 DB インスタンスよりも最大 36％ 優れた価格パフォーマンスを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Align-Define-Design-Refine」を使ったAPI設計ファーストプロセス]]></title>
+        <id>https://www.infoq.com/jp/news/2021/09/api-design-first-addr/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/09/api-design-first-addr/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-24T02:27:00.000Z</updated>
+        <summary type="html"><![CDATA[APIコンサルタントのJames Higginbotham氏は最近、「Align-Define-Design-Refine」（ADDR）プロセスを使ってAPI設計ファーストアプローチを採用することのメリットについて書いている。ADDRは、そのようなAPI設計ファースト手法を通じて、採用した人をガイドすることを目的とした反復プロセスだ。開発のアジリティには、すべての利害関係者が積極的に関与することを保証しながら、APIを繰り返し設計することが不可欠である。
+ By Vasco Veloso  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Vasco Veloso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次期LTSリリースJava 17の提供が開始]]></title>
+        <id>https://www.infoq.com/jp/news/2021/09/java17-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/09/java17-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-09-24T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Oracleは、Javaプログラミング言語と仮想マシンのバージョン17をリリースした。最終的な機能セットには、2018年にリリースされた最初のLTS(long-term support)であるJDK 11以降の14のJEPが含まれているが、その中の2つである、JEP 403とJEP 411は、Javaコミュニティ内にいくつかの懸念を引き起こしている。
+ By Michael Redlich  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ServiceNow 向け AWS Service Management Connector がService Management Connector AWS Service Catalog AppRegistry をサポート]]></title>
+        <id>7e7e41530843a9699a9d7457602eb05be1112dca</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-service-connector-servicenow-aws-catalog-appregistry/"/>
+        <updated>2021-09-24T01:46:06.000Z</updated>
+        <summary type="html"><![CDATA[本日より、お客様は、ServiceNow 向け AWS Service Management Connector を利用して、ServiceNow CMDB の AWS Service Catalog AppRegistry に登録済みのアプリケーションを表示できます。Organizations は、複数の AWS リソースに関連付けられている AWS のアプリケーションを作成、移行、および管理します。お客様は、アプリケーションを構成する AWS CloudFormation スタックとアプリケーションメタデータに名前、説明、および関連付けを提供することにより、AppRegistry 内でアプリケーションを定義します。この統合により、ServiceNow の 記録システムとオペレーションツールで AWS アプリケーションを表示することができます。その後、ServiceNow のアプリケーションレベルで、変更リクエスト、インシデントまた問題などの ITSM プロセスを関連付けることができます。これにより、AWS アプリケーションの能率化された影響分析とオペレーション調査が可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年9月24日号　Ubuntu 14.04・16.04 ESMの延長，Ubuntu 18.04.6のリリース，Ubucon Asia 2021 ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/24</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/24"/>
+        <updated>2021-09-24T01:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntuの「ESM」がすべてのリリースについて+5年になりました。また，18.04 LTSの「エクストラ」ポイントリリース，18.04.6がリリースされました。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon QuickSight は、Dataset-as-a-Source を立ち上げました]]></title>
         <id>bae786d79b58dc274cbab405b54f800a54209a7a</id>
@@ -2505,46 +2698,6 @@
         <summary type="html"><![CDATA[延期になっていたUbuntu 20.04.3が無事にリリースされました。また，impishの開発はFeature Freezeを迎え，新機能の投入には一定の制限がかかるようになりました。]]></summary>
         <author>
             <name>吉田史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core は MQTT 保持メッセージをサポートします]]></title>
-        <id>77f3e15bbb0f56769eca8797250bd63917c5fd29</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/"/>
-        <updated>2021-08-26T11:34:53.000Z</updated>
-        <summary type="html"><![CDATA[保持メッセージは、将来の購読者のためにトピックの最新の重要メッセージを簡単に保存する方法を提供する、標準 MQTT 機能です。AWS IoT Core では、いつオンラインになるかを正確に知ることなく、保持メッセージを使用して構成情報やデバイスへの重要な更新を簡単にプッシュできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年8月26日　Happy Anniversary! Linux，30歳になる ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202108/26</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202108/26"/>
-        <updated>2021-08-26T06:43:00.000Z</updated>
-        <summary type="html"><![CDATA[8月25日，Linuxは誕生からちょうど30周年を迎えた。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第22回　クラウド移行が企業のサステナビリティを加速する ―AWS/Amazonが本気で取り組む&quot;持続可能なビジネス&quot;の構築 ── IT Cutting Edge ─世界を変えるテクノロジの最前線]]></title>
-        <id>https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022</id>
-        <link href="https://gihyo.jp/lifestyle/serial/01/it_cutting_edge/0022"/>
-        <updated>2021-08-26T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは2025年までに，事業に必要な電力を100％再生可能エネルギーで賄うべく歩みを進めている―AWS アジア太平洋地域 兼 日本担当 エネルギー政策責任者 ケン・ハイグ氏はこう明言しました。]]></summary>
-        <author>
-            <name>五味明子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年8月第4週　Android OSの開発にRustが使われる ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202108/26</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202108/26"/>
-        <updated>2021-08-26T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[2021年8月第4週のAndroid関連のニュースです。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
 </feed>
