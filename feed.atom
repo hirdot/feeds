@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-25T00:51:06.572Z</updated>
+    <updated>2021-09-26T00:53:44.900Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国でワクチン「ブースター接種」開始へ　高齢者など対象]]></title>
+        <id>https://www.technologyreview.jp/?p=257344</id>
+        <link href="https://www.technologyreview.jp/s/257344/the-us-is-about-to-kickstart-its-controversial-covid-booster-campaign/"/>
+        <updated>2021-09-25T22:45:11.000Z</updated>
+        <summary type="html"><![CDATA[米政府が新型コロナワクチンのブースター接種（追加接種）の開始を決定した。高齢者や基礎疾患のある人に加えて、感染リスクの高い医療従事者などを対象に加えた。]]></summary>
+        <author>
+            <name>Charlotte Jee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Site-to-Site VPN が更新された Download Configuration ユーティリティをリリース]]></title>
+        <id>caf0219791d5eda3a31d04c78dbec65139c34544</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-site-to-site-vpn-download-configuration-utility/"/>
+        <updated>2021-09-25T17:02:28.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Site-to-Site VPN は、更新された Download Configuration ユーティリティをリリースしました。このアップデートにより、Site-to-Site VPN のお客様は、互換性のある Customer Gateway (CGW) デバイス用の設定テンプレートを生成できるため、AWS への VPN 接続をより簡単に作成できます。このアップデートにより、多くの一般的な CGW デバイスのために Internet Key Exchange バージョン 2 (IKEv2) パラメータのサポートが追加されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Comprehend がモデル管理と評価の機能強化を発表]]></title>
+        <id>763a9628cb9d95efc8cd9991bf8445107d37ca4e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-comprehend-model-management-enhancements/"/>
+        <updated>2021-09-25T17:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Comprehend は、デベロッパーが新しいモデルバージョンを作成し、特定のテストセットで継続的にテストし、新しいモデルを既存のエンドポイントに移行できるようにすることで、継続的なモデルの改善を可能にする Comprehend Custom 向けの一連の機能をリリースしました。AutoML を使用すると、カスタムエンティティ認識により、Amazon Comprehend をカスタマイズして、ドメインに固有のエンティティを識別できます。カスタム分類を使用すると、ビジネス固有のラベルを使用してカスタムテキスト分類モデルを簡単に構築できます。その後、カスタムモデルを使用して、リアルタイムモードとバッチ処理モードの両方でテキストドキュメントの推論を実行できます。カスタムモデルの作成は簡単です。機械学習の経験は必要ありません。これらの機能の詳細な説明を以下に記載しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Autopilot が分類の問題に関する追加のメトリクスの生成を開始]]></title>
+        <id>64e846ed90acead758332f83d6758f2b568f9c37</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-sagemaker-autopilot-metrics-classification-problems/"/>
+        <updated>2021-09-25T17:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、および調整します。本日より、SageMaker Autopilot は、すべてのモデル候補について、目標メトリクスとともに追加のメトリクスを生成します。二項分類の問題の場合、Autopilot は、すべてのモデル候補について、F1 スコア (適合率と再現率の調和平均)、精度、および AUC (曲線下の面積) を生成するようになりました。マルチクラス分類の場合、Autopilot はすべてのモデル候補について、F1 マクロと精度の両方を生成するようになりました。これまでサポートされていたように、Autopilot の実験で最適化する目標メトリクスとして、これらのメトリクスのいずれかを選択できます。目標メトリクスとともに追加のメトリクスを表示することで、複数の候補をすばやく評価および比較して、ニーズに最適なモデルを構築できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECR が個々のリポジトリを他のリージョンやアカウントにレプリケートする機能を追加]]></title>
+        <id>77f4e72562968c92351a492d5026e8a0e9aee4d9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ecr-replicate-individual-repositories-regions-accounts/"/>
+        <updated>2021-09-25T12:32:36.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry (ECR) は、特定のリポジトリをアカウントまたはリージョンにレプリケートし、ECR API を介してイメージがいつレプリケートされたかを確認する機能の提供を開始しました。これにより、レジストリ内のすべてのイメージをレプリケートするのではなく、必要なリポジトリ内でイメージをレプリケートするためのきめ細かいコントロールが可能になり、イメージがレプリケートされるたびに新しい DescribeImageReplicationStatus API を介してアクションを自動化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR Studio が Spark ワークロード用の多言語の Jupyter ベースノートブックのサポートを開始]]></title>
+        <id>391b03e309fe5835d9966dff242344a1d429e9d1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/"/>
+        <updated>2021-09-25T12:31:46.000Z</updated>
+        <summary type="html"><![CDATA[EMR Studio は、R、Python、Scala、PySparkで記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR 6.4.0 以降では、EMR Studio において同じ Jupyter ノートブック内で Python、Scala、SparkSQL、および R を使用できるようになったことをお知らせします。これにより、Spark ワークロードのためにさまざまなプログラミング言語を柔軟に使用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Ground Station が Licensing Accelerator を発表]]></title>
+        <id>79b5cf6ed6a5d1f8c0fd95cc6f9c245b2f365aaf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/"/>
+        <updated>2021-09-25T12:30:56.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、商用ビジネス、宇宙産業分野のスタートアップ企業、および大学がリソースにアクセスすることを可能にする新しい AWS Ground Station の機能である Licensing Accelerator を発表します。これは、オペレーションとミッションに必要な帯域免許をより効率的に保護するのに役立ちます。Licensing Accelerator は、AWS Ground Station のお客様には無料でご利用いただけます。AWS Ground Station は、人工衛星通信の制御や人工衛星データの処理、さらに人工衛星の運用のスケールを可能にするフルマネージドサービスです。Licensing Accelerator を使用すると、AWS Ground Station のお客様は、宇宙ステーションライセンス、リモートセンシングライセンス、国際電気通信連合 (ITU) の調整など、人工衛星ライセンス規制に関する、集約された最新情報を活用して、宇宙機の運用をより迅速に開始およびスケールできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任意の精度メトリクスを使用して Amazon Forecast モデルを最適化する]]></title>
         <id>65651f8a5b8ef1124a393b0479c48ba63001f5b5</id>
@@ -2648,56 +2718,6 @@
         <summary type="html"><![CDATA[Hi, this is Greg, bringing you the latest changes in Rails.]]></summary>
         <author>
             <name>Riding Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Database Migration Service がターゲットとして Redis のサポートを開始]]></title>
-        <id>135e2d8f5437a4743de26a5cb609fadad11b71be</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/"/>
-        <updated>2021-08-27T11:25:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) は、Redis、Amazon ElastiCache for RedisおよびAmazon MemoryDB for Redis をターゲットとして追加してサポートし、機能を拡張しました。Redis は、キャッシュ、データベース、メッセージブローカー、キューとして使用できるオープンソースの高速インメモリ型キー値データストアです。Amazon ElastiCache for Redis は、オープンソースの Redis のスピード、シンプルさ、多様性と、Amazon の管理性、セキュリティ、スケーラビリティを組み合わせ、最も要求の厳しいリアルタイムアプリケーションを強化します。Amazon MemoryDB for Redis は、Redis と互換性があり、耐久性のあるインメモリデータベースサービスで、最新のマイクロサービスアプリケーションに超高速なパフォーマンスを提供します。AWS DMS を使用することで、AWS DMSがサポートしているソースから最小のダウンタイムでRedis データストアにデータをライブ移行できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい AWS レベル 1 MSSP コンピテンシーのご紹介]]></title>
-        <id>c70293a5e8d9d624e223d73338c28e2c87749be0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-level-1-mssp-competency/"/>
-        <updated>2021-08-27T03:14:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS レベル 1 MSSP コンピテンシーを発表しました。これは、お客様に代わって重要な AWS リソースを保護およびモニタリングする、深い特殊性と専門性を備えた AWS パートナーをお探しの AWS のお客様をサポートするためのものです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Transcribe がアクセスコントロールを改善するためにリソースのタグ付けのサポートを開始]]></title>
-        <id>bc2d982baf88e7b988b173a5c62a6b7b5971a9e1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-transcribe-resource-tagging/"/>
-        <updated>2021-08-27T03:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Transcribe は、音声をテキストに変換する機能をアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。本日より、タグを割り当てて、リソースへのアクセスを簡単に整理、追跡、または制御できるようになりました。これを使用して、コストを割り当てたり、Transcribe ジョブ全体の詳細な請求レポートを取得したりできます。Transcribe 内の文字起こしジョブ、語彙、語彙フィルター、カスタム言語モデルなどのリソースにタグを付けることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly で新たに英語 (ニュージーランド) のニューラルテキスト読み上げ音声である Aria を公開]]></title>
-        <id>943b163988736b3e3133f224ec33e0d3fd0af497</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-polly-launches-aria-new-zealand-english-neural-text-speech-voice/"/>
-        <updated>2021-08-27T02:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストを生き生きとした話し声に変換するサービスです。本日、Polly の最初の英語 (ニュージーランド) の音声である Aria の一般提供を発表します。Aria は、表現力豊かで自然でわかりやすいニューラルテキスト読み上げ (NTTS) 音声です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年8月27日号　Ubuntu 20.04.3のリリース・impishのFeature Freeze ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/27</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202108/27"/>
-        <updated>2021-08-27T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[延期になっていたUbuntu 20.04.3が無事にリリースされました。また，impishの開発はFeature Freezeを迎え，新機能の投入には一定の制限がかかるようになりました。]]></summary>
-        <author>
-            <name>吉田史</name>
         </author>
     </entry>
 </feed>
