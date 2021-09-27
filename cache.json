@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11625",
+          "author": "Kenichi Suzuki",
+          "description": "The Information が報じるところによると、Instagram および TikTok と Google は交渉を始めたそうだ。交渉目的は、Instagram/TikTok の動画をインデックスして検索結果に表示できるようにすること。",
+          "link": "https://www.suzukikenichi.com/blog/reportedly-google-negotiating-with-instagram-and-tiktok-to-index-their-movies/",
+          "publishedOn": "2021-09-26T21:45:53.000Z",
+          "wordCount": 567,
+          "title": "GoogleがTikTokとInstagramと交渉開始か？ 動画のインデックスが目的"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11623",
           "author": "Kenichi Suzuki",
           "description": "非 HTTPS ページへのアクセスを拒否する設定がリリースされたばかりの安定版 Chrome 94 正式に導入された。",
@@ -564,6 +573,24 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/21/awsamazon_quicksight_q.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は、インメモリBIツールの「Amazon QuickSight」の新機能として、自然言語で問い合わせができる「Amazon QuickSight Q」を正式リリースしたと発表しました。   A...",
+          "link": "https://www.publickey1.jp/blog/21/awsamazon_quicksight_q.html",
+          "publishedOn": "2021-09-26T18:33:04.000Z",
+          "wordCount": 199,
+          "title": "AWS、自然言語でデータベースに問い合わせ、データ分析ができる「Amazon QuickSight Q」正式リリース"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/google_cloudnfsfilestore_enterprisesla_9999.html",
+          "author": null,
+          "description": "Google Cloudは、企業の基幹業務システムなどミッションクリティカルなアプリケーション向けのNFSファイルサーバとして「Filestore Enterprise」をプレビューとして発表しました。 Google Cloud expan...",
+          "link": "https://www.publickey1.jp/blog/21/google_cloudnfsfilestore_enterprisesla_9999.html",
+          "publishedOn": "2021-09-26T15:00:21.000Z",
+          "wordCount": 190,
+          "title": "Google Cloud、ミッションクリティカル向けのNFSファイルサーバ「Filestore Enterprise」発表。SLA 99.99％"
+        },
         {
           "id": "https://www.publickey1.jp/blog/21/jupyterlabjupyterlab_apppython.html",
           "author": null,
@@ -2499,18 +2526,9 @@
           "publishedOn": "2021-09-03T11:21:31.000Z",
           "wordCount": 562,
           "title": "Autoloading in Rails 7, get ready!"
-        },
-        {
-          "id": "https://weblog.rubyonrails.org/2021/8/28/this-week-in-rails-remove-default-reliance-on-sass-and-more/",
-          "author": null,
-          "description": "Hi, this is Greg, bringing you the latest changes in Rails.",
-          "link": "https://weblog.rubyonrails.org/2021/8/28/this-week-in-rails-remove-default-reliance-on-sass-and-more/",
-          "publishedOn": "2021-08-28T00:00:00.000Z",
-          "wordCount": 231,
-          "title": "Remove default reliance on Sass and more!"
         }
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
