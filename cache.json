@@ -745,15 +745,6 @@
           "publishedOn": "2021-09-07T00:00:26.000Z",
           "wordCount": 824,
           "title": "DX推進により浮き彫りになる「内部脅威」。既知と未知のセキュリティリスクに必要な備えとは？"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=34842",
-          "author": "野島光太郎",
-          "description": "企業の枠を越え、より広く、より多くの人が交流するデータ活用の拠り所を目指すコミュニティがある。それはファイル連携ミドルウェア「HULFT（ハルフト）」とデータ連携ソフトウェア「DataSpider（データスパイダー）」の […]",
-          "link": "https://data.wingarc.com/allabout_dmscube-34842",
-          "publishedOn": "2021-09-02T23:00:20.000Z",
-          "wordCount": 849,
-          "title": "ベンダー”らしさ”を脱却し、さらなる顧客志向へ。DMS Cubeが目指すコミュニティは「データ活用者の拠り所」"
         }
       ]
     },
@@ -1297,15 +1288,6 @@
           "publishedOn": "2021-09-08T00:44:00.000Z",
           "wordCount": 387,
           "title": "第682回　GNOMEのオンラインアカウント機能を極める ── Ubuntu Weekly Recipe"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03",
-          "author": "吉田史",
-          "description": "impishのリリースまで一ヶ月強を残し，『次の次』のUbuntu，22.04 LTSのリリースに関する暫定スケジュールが公開されています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202109/03",
-          "publishedOn": "2021-09-03T00:46:00.000Z",
-          "wordCount": 407,
-          "title": "2021年9月3日号　『JJ』のリリーススケジュール・x32向けコンフィグのドロップ ── Ubuntu Weekly Topics"
         }
       ]
     },
@@ -2810,42 +2792,6 @@
           "publishedOn": "2021-09-03T15:03:53.000Z",
           "wordCount": 260,
           "title": "Amazon Kinesis Data Firehose の動的パーティショニングのご紹介"
-        },
-        {
-          "id": "2ea1ef979f64ff3e36b80d1a3da7cea459809e0a",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Copilot のバージョン 1.10 のリリースを発表しました。これは、お客様がマイクロサービスを分離してイベントを非同期に消費するために使用できる発行/サブスクライブアーキテクチャをサポートしています。お客様は、AWS Copilot を使用して、イベントドリブンのアーキテクチャを構築したり、サービスを分離したりして、パフォーマンス、信頼性、およびスケーラビリティを向上させることができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/",
-          "publishedOn": "2021-09-03T10:57:56.000Z",
-          "wordCount": 288,
-          "title": "AWS Copilot が Pub/Sub アーキテクチャのサポートを開始"
-        },
-        {
-          "id": "e7c063cc19ed976872ff5b522ebac74222ffb67a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Managed Workflows for Apache Airflow (MWAA) が、南米 (サンパウロ)、アジアパシフィック (ソウル)、アジアパシフィック (ムンバイ)、カナダ (中部)、欧州 (ロンドン)、および欧州 (パリ) といった 6 つの新しい AWS リージョンで利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-managed-workflows-apache-airflow-mwaa/",
-          "publishedOn": "2021-09-03T10:45:53.000Z",
-          "wordCount": 265,
-          "title": "Amazon Managed Workflows for Apache Airflow (MWAA) がカナダ、ロンドン、パリ、サンパウロ、ソウル、およびムンバイの各リージョンで利用可能に"
-        },
-        {
-          "id": "c7858235779c58855a76689bfe62fcdd45027152",
-          "author": "aws@amazon.com",
-          "description": "ネットワークファイアウォール、侵入検知および保護システムなどの仮想アプライアンスを介して、VPC 内の 2 つのサブネット間でトラフィックを転送するようにサブネットルートテーブル内のルートを設定できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/amazon-vpc-subnets/",
-          "publishedOn": "2021-09-03T10:39:53.000Z",
-          "wordCount": 222,
-          "title": "Amazon VPC が VPC 内のサブネット間で仮想アプライアンスを簡単にデプロイできるようにする新しいルーティング拡張機能を発表"
-        },
-        {
-          "id": "781a536d3d8371f1e2bb490fde767160b16c2476",
-          "author": "aws@amazon.com",
-          "description": "AWS Launch Wizard を使用して SAP アプリケーションをデプロイすると、CloudFormation テンプレートとアプリケーション設定コードがS3バケットに保存され、デプロイが完了すると AWS Service Catalog 製品が作成されるようになりました。これにより、Launch Wizard で生成された Infrastructure as Code を活用して、同じ設定でデプロイを繰り返したり、組織の要件を満たすようにカスタマイズしたりできます。これには多くの利点があります。\n \n \n \n選択: お好みのデプロイツール (ServiceNow、Jira、CloudFormation など) とプロセスを使用できます。\n \n \nバージョニング: 新しい Launch Wizard の特徴と機能を自らの状況に合わせて採用できます。\n \n \n簡素化: 今回のリリースにより、同じ製品/パターンを繰り返しデプロイするために必要な入力の数を減らすことができます。例えば、同じ VPC とサブネットに同じバージョンの複数の HANA システムをデプロイする場合、AWS Service Catalog/AWS CloudFormation でこれらの設定をデフォルトにして、エンドユーザーがデプロイごとに変わる他の入力のみを操作できるようにすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-launch-wizard-deployment-capabilities-expanded/",
-          "publishedOn": "2021-09-03T10:33:53.000Z",
-          "wordCount": 259,
-          "title": "AWS Launch Wizard が DevOps と組織の要件を満たすための追加のデプロイ機能のサポートを開始"
         }
       ]
     },
@@ -2895,15 +2841,6 @@
           "publishedOn": "2021-09-11T00:00:00.000Z",
           "wordCount": 212,
           "title": "Bye-bye Byebug, Hello jsbundling and cssbundling!"
-        },
-        {
-          "id": "https://weblog.rubyonrails.org/2021/9/3/autoloading-in-rails-7-get-ready/",
-          "author": null,
-          "description": "The forthcoming Rails 7 represents a milestone for autoloading.",
-          "link": "https://weblog.rubyonrails.org/2021/9/3/autoloading-in-rails-7-get-ready/",
-          "publishedOn": "2021-09-03T11:21:31.000Z",
-          "wordCount": 562,
-          "title": "Autoloading in Rails 7, get ready!"
         }
       ]
     }
