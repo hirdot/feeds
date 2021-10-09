@@ -212,6 +212,42 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2021/10/micronaut-3-0-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Olimpiu Pop",
+          "description": "Object Computing, Inc. は、デフォルトのリアクティブストリームの実装の削除、アノテーションの継承の変更、HTTPコンパイル時検証を特徴とする Micronaut3.0 をリリースした。このリリースは、フレームワークをより直感的にし、将来の要件に適応できるようにして、過去の設計上の欠陥を解決するための作業の集大成だった。\n By Olimpiu Pop  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/10/micronaut-3-0-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-08T01:37:00.000Z",
+          "wordCount": 1326,
+          "title": "Micronaut 3.0が将来の開発に適応できる大きな変更を提供"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/10/uber-data-collection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Eran Stiller",
+          "description": "Uber Engineeringは最近、Uber Riderアプリからデータを収集、標準化、使用する方法を公開した。ライダーデータには、Uberアプリとのライダーのインタラクションがすべて含まれる。このデータは、Uberのオンラインシステムからの毎日の何十億ものイベントを表している。Uberはこのデータを使って、ファンネルコンバージョンの増加、ユーザエンゲージメントなどの主要な問題領域に対処する。\n By Eran Stiller  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/10/uber-data-collection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-08T01:35:00.000Z",
+          "wordCount": 1180,
+          "title": "Uber Riderアプリでのデータ収集、標準化、大規模な利用"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/10/java-news-roundup-sep13-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週2021年9月13日のJava総まとめでは、OpenJDK、JDK LTSのリリースリズムを3年から2年に加速する提案、JDK 18、Liberica JDK 17、Spring Frameworkのアップデート、Spring DataとSpring Tools 4、Payara Platform、Helidon、GraalVMのJDK 17開発ビルド、Hibernate、Piranha、Apache Camel、JobRunr 4.0そして2021 Jakarta EE Developer調査からのニュースを特集している。\n By Michael Redlich  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/10/java-news-roundup-sep13-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-08T01:33:00.000Z",
+          "wordCount": 1551,
+          "title": "Javaニュース総まとめ: JDK LTSのリリースリズム、OpenJDK、Springのアップデート、Helidon、Payara Platform"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/10/practical-api-design-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vasco Veloso",
+          "description": "NetflixでのAPI設計に関する2部構成の記事が、最近、同社のテクノロジーブログで公開された。バックエンドAPIの要求と応答において無関係なメッセージフィールドを無視する問題をどのように解決したかを説明している。この実現には、特別なProtocol Buffers（Protobuf）メッセージのFieldMaskを使っている。\n By Vasco Veloso  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/10/practical-api-design-netflix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-08T01:26:00.000Z",
+          "wordCount": 1144,
+          "title": "NetflixによるgRPCを使った実用的なAPIデザイン"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2021/10/kubernetes-hardening-guidance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Mostafa Radwan",
           "description": "National Security Agency（NSA）は、Cyber security and Infrastructure Security Agency（CISA）と協力して、Kubernetes強化ガイダンスを最近公開した。Kubernetes環境のセキュリティ保護にフォーカスしたテクニカルレポートだ。\r\r\n\r\r\nこのレポートは、Kubernetesのセキュリティリスクの一般的な領域（サプライチェーン、悪意のある攻撃者、内部脅威）を関してである。\n By Mostafa Radwan  Translated by 編集部T _",
@@ -462,24 +498,6 @@
           "publishedOn": "2021-09-10T02:28:00.000Z",
           "wordCount": 1683,
           "title": "Stack Overflowの2021年の開発者調査で技術と仕事の新しいトレンドが明らかに"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/09/qcon-plus-karen-casella/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Adelina Turcu",
-          "description": "先日のインタビュー中、NetflixのエンジニアリングディレクタでQCon Plus November 2021のプログラム委員会のメンバを務めるKaren Casella氏が、ソフトウェアリーダが注目すべき3つの時事的テーマに関するトラックを紹介してくれた。\n By Adelina Turcu  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2021/09/qcon-plus-karen-casella/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-09-09T00:40:00.000Z",
-          "wordCount": 1687,
-          "title": "QCon Plusの必聴３トラック - Karen Casella氏に聞く"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/09/netflix-device-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Eran Stiller",
-          "description": "Netflixは先頃、MQTTベースのイベントソーシング実装を使用して信頼性の高いデバイス管理プラットフォームを構築する方法を詳しく説明したブログ投稿を公開した。Netflixは、ソリューションを拡張するために、Apache Kafka、Alpakka-Kafka、CockroachDBを利用している。\n By Eran Stiller  Translated by  Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/09/netflix-device-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-09-09T00:39:00.000Z",
-          "wordCount": 1048,
-          "title": "NetflixがMQTTとAlpakka-Kafkaのイベントソーシングで信頼性が高くスケーラブルなプラットフォームを構築"
         }
       ]
     },
@@ -488,6 +506,15 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=258348",
+          "author": "Tatyana Woodall",
+          "description": "中国の月探査機「嫦娥5号」が持ち帰ったサンプルの分析によって、月はこれまで想定されていたよりも長期間にわたって火山活動が活発であった可能性が示されている。",
+          "link": "https://www.technologyreview.jp/s/258348/the-moon-didnt-die-as-early-as-we-thoughthttps-www-technologyreview-jp-p258348previewtrue/",
+          "publishedOn": "2021-10-08T05:20:47.000Z",
+          "wordCount": 503,
+          "title": "月の火山活動はもっと活発だった？ 嫦娥5号のサンプルで明らかに"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=257604",
           "author": "Joshua Sariñana",
@@ -1302,15 +1329,6 @@
           "publishedOn": "2021-09-09T15:01:55.000Z",
           "wordCount": 217,
           "title": "Amazon EKS Anywhereが正式リリース。オンプレミスにAmazon EKSと同様のKubernetes環境を無料で構築可能"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/amazonaws_1.html",
-          "author": null,
-          "description": "Amazonと三菱商事は、首都圏および東北地方に450カ所以上の太陽光発電設備を開発し、2022年から2023年にかけて順次稼働させることで、再生可能エネルギーによってAmazon Web Service（AWS）のデータセンターの稼働や物...",
-          "link": "https://www.publickey1.jp/blog/21/amazonaws_1.html",
-          "publishedOn": "2021-09-08T15:13:06.000Z",
-          "wordCount": 169,
-          "title": "Amazonと三菱商事、共同で首都圏などで大規模な太陽光発電設備を開発。AWSデータセンターなどを再生可能エネルギーで稼働へ"
         }
       ]
     },
@@ -1319,6 +1337,15 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_10_08/112144",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails_patterns_antipatterns5_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: General Ruby on Rails Problems and Takeaways &#124; AppSignal Blog 原文公開日: 2021/08//07 著者: Nikola Đuza: ハンガリーNovi Sad在住のエンジニア兼ライター、ブログや登壇で知識の普及に努めています。JavaScriptやRubyで面白いものを作るのが好きです。 サイト: AppSignal Blog 画像は元記事からの引用です。 Railsのパターンとアンチパターン5: 一般的な問題と、その教訓（翻訳） Ruby on Railsのパターンとアンチパター [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_10_08/112144\" data-wpel-link=\"internal\" target=\"_self\">Railsのパターンとアンチパターン5: 一般的な問題と、その教訓（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_10_08/112144",
+          "publishedOn": "2021-10-08T08:30:31.000Z",
+          "wordCount": 451,
+          "title": "Railsのパターンとアンチパターン5: 一般的な問題と、その教訓（翻訳）"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_10_07/112183",
           "author": null,
@@ -1363,6 +1390,15 @@
           "publishedOn": "2021-10-01T08:30:32.000Z",
           "wordCount": 402,
           "title": "Rails: created_atやupdated_atのソートでスコープとconcernを使う（翻訳）"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_30/71369",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2019/03/ruby_string_interpolation_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>更新情報 2019/03/07: 初版公開 2021/09/30: 更新 1. 一般的な「string interpolation」とは まずは一般的な話から。プログラミング言語で文字列を出力するときに、文字列の一部を変数の値や式の評価結果に差し替えたいことが非常によくあります。 \"信号: 赤\" \"信号: 黄\" \"信号: 青\" 上の文字列リテラル（\" \"で囲まれている部分）のうち、「赤」「黄」「青」を何らかの方法で変数から送り込んで差し替える操作を一般にstring interpolationと呼びます。 \"信号: ●\" # ←この●を「赤」「黄」「青」に差し替えたい 3つの文字列リテラルを使い分けるより、●を「 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_09_30/71369\" data-wpel-link=\"internal\" target=\"_self\">Rubyの式展開（string interpolation）についてまとめ: `#{}`、`%`、Railsの`?`</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_30/71369",
+          "publishedOn": "2021-09-30T08:30:21.000Z",
+          "wordCount": 560,
+          "title": "Rubyの式展開（string interpolation）についてまとめ: `#{}`、`%`、Railsの`?`"
         },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_30/112127",
@@ -1489,15 +1525,6 @@
           "publishedOn": "2021-09-10T09:36:14.000Z",
           "wordCount": 706,
           "title": "RubyKaigi Takeout 2021のスライド（Day2）"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_09/111519",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rubykaigi_takeout_2021_slides_day1_eyecatch-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。RubyKaigi Takeout 2021 Day1が終了しました。主催者・スポンサーの方々疲れさまでした&#38;ありがとうございます！参加者の皆さまもお疲れさまでした。 参考: &#35;rubykaigi &#45; Twitter検索 / Twitter 主に自分用に、現時点でわかっている発表スライドを取り急ぎまとめました。可能なものについてはいずれ公式サイトに資料が掲載されると思います。 #rubykaigi takeout 2021 1日目お疲れ様でした! 🍔🍔🍔 pic.twitter.com/jO8V707gMi &#8212; Hiroshi SHIBATA [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_09_09/111519\" data-wpel-link=\"internal\" target=\"_self\">RubyKaigi Takeout 2021のスライド（Day1）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_09/111519",
-          "publishedOn": "2021-09-09T10:00:18.000Z",
-          "wordCount": 617,
-          "title": "RubyKaigi Takeout 2021のスライド（Day1）"
         }
       ]
     },
@@ -1506,6 +1533,24 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202110/08",
+          "author": "階戸アキラ",
+          "description": "Red Hatは10月6日，「Red Hat Enterprise Linux」次期バージョン8.5のベータ版「Red Hat Enterprise Linux 8.5 Beta」を公開した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202110/08",
+          "publishedOn": "2021-10-08T07:21:00.000Z",
+          "wordCount": 421,
+          "title": "2021年10月8日　Red Hat Enterprise  Linux 8.5 Betaがリリース，ベータアクセスも容易に ── Linux Daily Topics"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202110/08",
+          "author": "吉田史",
+          "description": "Ubuntuに新しい仲間，“Ubuntu Frame”が追加されました。『組み込み用途に向けた，フルスクリーン表示を可能にする抽象化レイヤ兼シェル』とでも言うべきソフトウェアです。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202110/08",
+          "publishedOn": "2021-10-08T01:05:00.000Z",
+          "wordCount": 590,
+          "title": "2021年10月8日号　“Ubuntu Frame”・impishのkernel freeze ── Ubuntu Weekly Topics"
+        },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0686",
           "author": "柴田充也",
@@ -1726,24 +1771,6 @@
           "publishedOn": "2021-09-10T06:00:00.000Z",
           "wordCount": 330,
           "title": "2021年9月10日　ねこーず ── 帰ってきた『技評ねこ部通信』"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0032",
-          "author": "こじまみつひろ",
-          "description": "本連載では以前にもWINEについて取りあげたことがあります。前回挑戦したころのWINEは4.1xから5.0くらいだったのに対し，現在のWINEは6.1xくらいまで更新されています。",
-          "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0032",
-          "publishedOn": "2021-09-09T00:15:40.000Z",
-          "wordCount": 396,
-          "title": "第32回　Days of WINE and Struggles again［1］ ── 続・玩式草子 ―戯れせんとや生まれけん―"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202109/09",
-          "author": "傍島康雄",
-          "description": "2021年9月第2週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202109/09",
-          "publishedOn": "2021-09-09T00:15:00.000Z",
-          "wordCount": 444,
-          "title": "2021年9月第2週　この秋，期待のAndroidガジェットたち ── Android Weekly Topics"
         }
       ]
     },
@@ -1786,6 +1813,105 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "8c6a508a927361b746254800e6893eef325074ab",
+          "author": "aws@amazon.com",
+          "description": "AWS Fargate で実行している Amazon ECS タスクのシステム時間の精度をモニタリングできるようになりました。 Fargate で動作するタイムセンシティブなワークロードの場合、これによりお客様はクロックエラーのプロキシとして使用されるクロックエラーバウンドをモニタリングし、基準時間とシステム時間の差が閾値を超えたかどうかを知ることができます。この機能は Amazon Time Sync Service を利用して、クロック精度を測定し、コンテナのクロックエラーバウンドを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/",
+          "publishedOn": "2021-10-08T15:01:38.000Z",
+          "wordCount": 220,
+          "title": "Amazon ECS による AWS Fargate のクロック精度のモニタリング"
+        },
+        {
+          "id": "12a5842a6325e9e398e042340217fe8120b0f128",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Elastic Container Service (ECS) は、AWS GovCloud (米国) リージョンで統合サービスディスカバリを開始します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/",
+          "publishedOn": "2021-10-08T15:00:49.000Z",
+          "wordCount": 230,
+          "title": "Amazon ECS サービスディスカバリが AWS GovCloud (米国) リージョン内で利用可能に"
+        },
+        {
+          "id": "c3a5a5bd73b0996b06ae553b48f2105e677e4113",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Monitron iOS アプリケーションのリリースを発表いたします。今回の iOS アプリケーションは、従来の Android アプリケーションに加えて、お客様が Amazon Monitron を利用する際の選択肢が増えました。iPhone ユーザーは、Amazon Monitron iOS アプリケーションを使用して、センサーやゲートウェイ機器を設定し、動作状況のレポートや機器の潜在的な障害に対するアラートを受け取ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-monitron-ios-app/",
+          "publishedOn": "2021-10-08T14:37:21.000Z",
+          "wordCount": 249,
+          "title": "Amazon Monitron が iOS アプリケーション を発売"
+        },
+        {
+          "id": "df7de09dd9bdc21f371551fabd4a2209330dc100",
+          "author": "aws@amazon.com",
+          "description": "本日、Amplify Geo for JavaScript が、8 月の最初のデベロッパープレビューリリースに続き、一般提供を開始しましたのでお知らせします。Amplify Geo を利用すると、フロントエンドのデベロッパーはウェブアプリケーションに位置情報認識機能をすばやく追加できます。Amplify Geo は、Auth、DataStore、Storage といった既存の Amplify のユースケースのカテゴリーを拡張して、Amazon Location Service の上に構築された抽象化されたクライアントライブラリのセットや、人気のオープンソースライブラリである MapLibre をベースにしたすぐに使えるマップ UI コンポーネントを含んでいます。Amplify Geo は、Amplify Command Line Interface (CLI) ツールもアップデートし、AWS に詳しくない人でも、必要なクラウドサービスをすべてプロビジョニングすることで、一般的なマッピングのユースケースを簡単に実現することができます",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/",
+          "publishedOn": "2021-10-08T14:33:44.000Z",
+          "wordCount": 257,
+          "title": "Amplify Geo for AWS Amplify の一般提供開始を発表"
+        },
+        {
+          "id": "c5c0dbad165a819c15de5249bdcf9912761ca600",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Email Service (Amazon SES) のお客様は、2048 ビットのドメインキーアイデンティファイドメール (DKIM) キーを使用して、メールのセキュリティを強化できるようになりました。DKIM は、特定のドメインから送られてきたとクレームする電子メールが、そのドメインの所有者によって実際に承認されたものであることを確認するために設計された、E メールセキュリティ基準です。パブリックキー暗号化を使用して、プライベートキーで E メールに署名します。受信者側サーバーはドメインの DNS に公開されたパブリックキーを使用して、送信中に E メールの一部が変更されていないことを確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/",
+          "publishedOn": "2021-10-08T14:31:32.000Z",
+          "wordCount": 258,
+          "title": "Amazon SES が 2048 ビットの DKIM キーをサポート"
+        },
+        {
+          "id": "6b17bb8ffd4710f2aacc0e022b4168de0bda0680",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift クエリエディタ V2 は、データアナリスト、データサイエンティスト、データベースデベロッパーなどの SQL ユーザー向けのウェブベースのツールにより、Amazon Redshift データウェアハウスおよびデータレイク内のデータへのアクセスを簡単にします。クエリエディタ V2 により、データの探索、分析、共同作業ができます。インフラストラクチャを管理することなく、データの探索に集中できるウェブベースのアプリケーションを提供することで、クエリツール管理の運用コストを削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/",
+          "publishedOn": "2021-10-08T14:02:34.000Z",
+          "wordCount": 243,
+          "title": "Amazon Redshift が、次世代の Amazon Redshift クエリエディタを発表"
+        },
+        {
+          "id": "f022e17cf8e69f4ed70325f7635687ef8ae3da1d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift の横串検索機能により、多くのお客様は、運用データベースのライブデータを Amazon Redshift データウェアハウスのデータおよび Amazon S3 データレイク環境のデータと組み合わせて、企業内のすべてのデータにわたって統合された分析ビューを得ることができます。今回、Amazon Redshift 横串検索のサポートが、既存の Amazon Aurora PostgreSQL および Amazon RDS for PostgreSQL データベースに加えて、Amazon Aurora MySQL および Amazon RDS for MySQL データベースで一般利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/",
+          "publishedOn": "2021-10-08T14:01:45.000Z",
+          "wordCount": 262,
+          "title": "横串検索の新しいデータソースとして、Amazon RDS for MySQL および Amazon Aurora MySQL データベースの一般提供開始を発表"
+        },
+        {
+          "id": "95715c0c652af8f51fb322fb777d3f7d83638a52",
+          "author": "aws@amazon.com",
+          "description": "AWS App Mesh が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS App Mesh はアプリケーションレベルのネットワークを提供し、さまざまな種類のコンピューティングインフラストラクチャにわたり、お客様のサービスが相互に通信することを容易にするサービスメッシュです。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/",
+          "publishedOn": "2021-10-08T14:00:56.000Z",
+          "wordCount": 240,
+          "title": "AWS App Mesh が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に"
+        },
+        {
+          "id": "77a19823cd428becc735de65f8286bb0ac247a18",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall で、ルールの順序やデフォルトドロップに関する新しい設定オプションが提供され、Virtual Private Cloud (VPC) のトラフィックをモニタリングするためのルールの書き込みや処理が容易になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/",
+          "publishedOn": "2021-10-08T13:01:57.000Z",
+          "wordCount": 250,
+          "title": "AWS Network Firewall がルールの順序とデフォルトドロップの新しい設定オプションを追加"
+        },
+        {
+          "id": "590a866c37159826591dd4c077b8800b290783e0",
+          "author": "aws@amazon.com",
+          "description": "AWS Elastic Beanstalk は、Elastic Beanstalk 環境で動作するデータベースのデカップリングをサポートするようになりました。これまで、Elastic Beanstalk で作成したデータベースインスタンスは、環境のライフサイクルに縛られていました。このリリースにより、データベースインスタンスのライフサイクルがアプリケーションの環境のライフサイクルに縛られることがなくなり、Elastic Beanstalk で管理するデータベースと Beanstalk 環境を切り離すことができます。環境の健全性はデカップリングオペレーションによって影響を受けず、データベースを外部データベースとして運用し続けることができ、複数の環境が接続できるようになります。また、データベースを運用したまま Elastic Beanstalk 環境を終了させるオプションもあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/",
+          "publishedOn": "2021-10-08T13:01:09.000Z",
+          "wordCount": 231,
+          "title": "AWS Elastic Beanstalk が Elastic Beanstalk 環境でのデータベースデカップリングをサポート"
+        },
+        {
+          "id": "46657b3b55667b1b90e88ead51ed4325ed5cd0c5",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/",
+          "publishedOn": "2021-10-08T10:47:19.000Z",
+          "wordCount": 245,
+          "title": "Amazon SageMaker Data Wrangler で時系列データの準備と可視化をする"
+        },
         {
           "id": "2dd717cffb5d31f5b3fd27f3a12b16f589c3c093",
           "author": "aws@amazon.com",
@@ -2991,51 +3117,6 @@
           "publishedOn": "2021-09-10T03:45:53.000Z",
           "wordCount": 250,
           "title": "AWS Systems Manager Change Calendar がサードパーティのカレンダーのインポートに対応し、イベントをより包括的に把握可能に"
-        },
-        {
-          "id": "c87d7fb0e550b245b1224bb2f1e3b9253bdfe04b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Neptune は Elasticsearch とのフルテキスト検索統合を使用する際に、文字列に加え、数字や日付などの新しいデータタイプでの検索をサポートするようになりました。この改善により、Neptune をご利用のお客様は、文字列ではない値を Amazon Elasticsearch Service が提供するような Elasticsearch クラスターに複製し、これらの値を検索する Gremlin または SPARQL クエリを実行することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/new-capabilities-amazon-neptune/",
-          "publishedOn": "2021-09-09T10:33:53.000Z",
-          "wordCount": 243,
-          "title": "Amazon Neptune 向け新しいフルテキスト検索の非文字列インデックス作成機能"
-        },
-        {
-          "id": "28cf8b81cbc621ccf05341d3c3e6b929acc6644a",
-          "author": "aws@amazon.com",
-          "description": "Amazon EventBridge スキーマレジストリは、イベントバスに公開されたクロスアカウントイベントの検出をサポートするようになりました。EventBridge のスキーマレジストリでは、イベント構造やスキーマを共有された一元的な場所に格納し、それらのスキーマを Java、Python、Typescript のコードにマッピングして、イベントをコード内のオブジェクトとして使用します。スキーマ検出機能をオンにすると、イベントバスのスキーマがレジストリに自動的に追加されます。AWS コンソール、API から、または Jetbrains (Intellij、PyCharm、Webstorm、Rider) や VS Code の SDK ツールキットを介して、スキーマレジストリに接続して操作することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/cross-account-discovery-amazon-eventbridge-schema/",
-          "publishedOn": "2021-09-09T04:33:53.000Z",
-          "wordCount": 237,
-          "title": "Amazon EventBridge スキーマレジストリのクロスアカウントイベントの検出"
-        },
-        {
-          "id": "c888df64a1f51361f16810331a4263e4f4d6c097",
-          "author": "aws@amazon.com",
-          "description": "AWS GovCloud (米国) リージョンにおいて、Amazon Aurora PostgreSQL 互換エディションは oracle_fdw の拡張機能のサポートを開始しました。これにより、PostgreSQL データベースは、Oracle データベースに接続して、保存されているデータを取得できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-aurora-postgresql-oracle-fdw-aws-govcloud-us-regions/",
-          "publishedOn": "2021-09-09T02:49:53.000Z",
-          "wordCount": 256,
-          "title": "AWS GovCloud (米国) リージョンにおいて Amazon Aurora PostgreSQL が oracle_fdw の拡張機能のサポートを開始"
-        },
-        {
-          "id": "db0091691917e4764de4fffb40ef98dd5aa6b38f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Web Services (AWS) は、Amazon FSx for NetApp ONTAP の一般提供を発表しました。それは、お客様がクラウドで初めて完全なフルマネージド ONTAP ファイルシステムを起動して実行できるようにするストレージサービスです。ONTAP は、従来のオンプレミスのネットワークアタッチドストレージ (NAS) を装備し、広く採用されているデータアクセスとデータ管理機能一式を提供する NetApp のファイルシステム技術です。Amazon FSx for NetApp ONTAP は、フルマネージド AWS サービスの俊敏性、スケーラビリティ、および簡潔さを持つ ONTAP ファイルシステムの人気の機能、パフォーマンス、およびAPI を提供し、お客様が NAS アプライアンスを利用するオンプレミスのアプリケーションを AWS に容易に移行できるようにします。またそれは、クラウドネイティブのアプリケーションの構築、試験、および実行を容易にするハイパフォーマンスで機能が豊富なファイルストレージをデベロッパーに提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/",
-          "publishedOn": "2021-09-09T01:22:53.000Z",
-          "wordCount": 292,
-          "title": "Amazon FSx for NetApp ONTAP の紹介"
-        },
-        {
-          "id": "e94a81cbf225a5faf5d1faad97de1be1424d1fa0",
-          "author": "aws@amazon.com",
-          "description": "Amazon S3 Multi-Region Access Point は、複数の AWS リージョン全体でレプリケートされるデータセットにアクセスする際、パフォーマンスが最大 60% 加速します。AWS Global Accelerator をベースに、S3 Multi-Region Access Point は、ネットワークの混雑状況やリクエストするアプリケーションの位置などの要素を考慮し、AWS ネットワーク上でリクエストを最も低いレイテンシーのデータコピーに動的にルーティングします。この自動ルーティングにより、シンプルなアプリケーションアーキテクチャを維持しながら、AWS のグローバルインフラストラクチャを活用することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-s3-multi-region-access-points-replicated-data-sets/",
-          "publishedOn": "2021-09-09T01:16:53.000Z",
-          "wordCount": 317,
-          "title": "Amazon S3 Multi-Region Access Point が、レプリケートされたデータセットへのアクセスを最大 60% 加速"
         }
       ]
     },
