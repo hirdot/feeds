@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11660",
+          "author": "Kenichi Suzuki",
+          "description": "AMP テストとモバイル フレンドリー テスト、リッチリザルト テストに、URL 検査ツールと同じ UI および同じ機能を Google は実装した。",
+          "link": "https://www.suzukikenichi.com/blog/amp-test-rich-result-test-and-mobile-friendly-test-have-the-same-ui-and-functions-with-url-inspection/",
+          "publishedOn": "2021-10-12T21:30:34.000Z",
+          "wordCount": 549,
+          "title": "AMPテスト・モバイルフレンドリーテスト・リッチリザルトテストの3ツールがURL検査ツールと同じUIと機能を実装"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11656",
           "author": "Kenichi Suzuki",
           "description": "Chrome のフォロー機能の試験提供が安定版 Chrome でも始まりました。Chrome Beta を使う一部の米国ユーザーにすでに限定公開されていたが、Android の安定版 Chrome 94（以上）で誰でも試せるようになった。",
@@ -211,6 +220,33 @@
       "feedUrl": "https://feed.infoq.com/jp/architecture-design/",
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
+        {
+          "id": "https://www.infoq.com/jp/news/2021/10/azure-vm-ondemand-capacity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "最近、Microsoftは、Azure仮想マシン（VM）のオンデマンドキャパシティ予約のプレビュー版を発表した。VMのこの新機能により、顧客はより多くのコンピューティングキャパシティを予約できる。\n By Steef-Jan Wiggers  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/10/azure-vm-ondemand-capacity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-13T01:00:00.000Z",
+          "wordCount": 1162,
+          "title": "MicrosoftがAzure仮想マシンのオンデマンドキャパシティ予約のプレビュー版を発表"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/10/java-news-roundup-sep20-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "2021年9月20日の週は比較的静かで、ほとんどのニュースはSpring Boot、Spring Security、Spring Cloudのポイントリリースとマイルストーンリリースからのものだ。その他のニュースには、Eclipse Tumerin JDK 17バイナリのリリース、JDK 18早期アクセスビルドのビルド 16、Hibernate ORM 5.6.0.Beta2、WildFly 25 Beta 1、Apache CamelがJDK 8とJDKMon 17.0.0のサポートを終了することが含まれている。\n By Michael Redlich  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/10/java-news-roundup-sep20-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-13T00:59:00.000Z",
+          "wordCount": 1463,
+          "title": "Javaニュース総まとめ: Spring Bootの更新、Eclipse Tumerin JDK 17、Apache CamelのJDK 8サポートの終了"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/10/github-improves-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Olimpiu Pop",
+          "description": "GitHubは、顧客データを可能な限り保護することに重点を置いて、暗号化されていないGitプロトコル、DSAキー、そして、一部のレガシーSSHアルゴリズムのサポートをやめることを決定した。また、新しく追加されたRSAキーに対する要件を追加し、およびEd25519ホストキーSSHのサポートを提供する。この変更はSSHユーザと「git://」ユーザにのみ影響する可能性がある。一方で「https://」ユーザは影響を受けない。\n By Olimpiu Pop  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/10/github-improves-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-13T00:52:00.000Z",
+          "wordCount": 1130,
+          "title": "GithubがGitプロトコル、Dsaキー、レガシーSSHアルゴリズムのサポートを段階的に廃止"
+        },
         {
           "id": "https://www.infoq.com/jp/news/2021/10/top-qcon-plus-topics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Adelina Turcu",
@@ -856,15 +892,6 @@
           "publishedOn": "2021-09-13T21:46:16.000Z",
           "wordCount": 500,
           "title": "無反応患者に意識はあるか？ イタリア人科学者が作った 最も正確な「意識計測機」"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=256181",
-          "author": "Abby Ohlheiser",
-          "description": "イベルメクチンで新型コロナウイルス感染症を治療できるとの噂がネット上で流布している。以前からイベルメクチンを正当な理由で使用している人々は、自身の言説が反ワクチンデマの片棒を担がされていることに戸惑いを隠せない。",
-          "link": "https://www.technologyreview.jp/s/256181/what-happens-when-your-prescription-drug-becomes-the-center-of-covid-misinformation/",
-          "publishedOn": "2021-09-13T06:00:39.000Z",
-          "wordCount": 528,
-          "title": "イベルメクチン狂騒曲、馬用ペーストまで買い占めの大混乱"
         }
       ]
     },
@@ -1561,15 +1588,6 @@
           "publishedOn": "2021-09-14T08:30:06.000Z",
           "wordCount": 331,
           "title": "Railsコンソールの思いがけない便利技（翻訳）"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_13/111598",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rubykaigi_takeout_2021_slides_day3_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。RubyKaigi Takeout 2021がDay 3まで無事終了しました🎉 主催およびスポンサーの皆さま、お疲れさま&#38;ありがとうございます！参加者の皆さまもお疲れさまでした。 ありがたいことに、何と土曜日のうちにセッションの動画アーカイブがYouTubeで公開されました🙏。 We&#39;ve just finished uploading all recorded talks for RubyKaigi Takeout 2021 already. Each video is linked from the schedule page so you can chec [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_09_13/111598\" data-wpel-link=\"internal\" target=\"_self\">RubyKaigi Takeout 2021のスライド（Day3）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_13/111598",
-          "publishedOn": "2021-09-13T08:30:54.000Z",
-          "wordCount": 793,
-          "title": "RubyKaigi Takeout 2021のスライド（Day3）"
         }
       ]
     },
@@ -1578,6 +1596,15 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0687",
+          "author": "あわしろいくや",
+          "description": "明日10月14日にリリースされる予定のUbuntu 21.10の変更点をかいつまんでお知らせします。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0687",
+          "publishedOn": "2021-10-13T00:43:00.000Z",
+          "wordCount": 445,
+          "title": "第687回　Ubuntu 21.10の変更点 ── Ubuntu Weekly Recipe"
+        },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202110/08",
           "author": "階戸アキラ",
@@ -1667,15 +1694,6 @@
           "publishedOn": "2021-09-15T00:51:00.000Z",
           "wordCount": 446,
           "title": "第683回　LXDコンテナ上にUbuntuのフルデスクトップ環境を構築する ── Ubuntu Weekly Recipe"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202109/13",
-          "author": "階戸アキラ",
-          "description": "Linus Torvaldsは9月12日，次期Linuxカーネル「Linux 5.15」の最初のリリース候補版（RC）となる「Linux 5.15-rc1」を公開した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202109/13",
-          "publishedOn": "2021-09-13T07:00:00.000Z",
-          "wordCount": 334,
-          "title": "2021年9月13日　もっとも混乱したマージウィンドウ!? ―Linux 5.15-rc1が公開，正式リリースは11月に ── Linux Daily Topics"
         }
       ]
     },
@@ -1849,6 +1867,114 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "23f07551f36b1af01b3ad700b9b8b451172bdb8d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Neptune Auto Scaling を使用して、指定したパフォーマンスメトリクスの変更に応じて、Read Replicas を自動的に追加または削除できるようになりました。Neptune Read Replicas は、プライマリインスタンスと同じ基になるボリュームを共有し、読み取りスケーリングに適しています。Neptune Auto Scaling を使用すると、平均 CPU 使用率など、Replicas の CloudWatch (CW) メトリクスに必要な値を指定できます。Neptune Auto Scaling では、CW メトリクスが、ユーザーが指定した値に最も近くなるように、Read Replicas の数を調整します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/",
+          "publishedOn": "2021-10-13T00:05:09.000Z",
+          "wordCount": 275,
+          "title": "Amazon Neptune が Read Replicas 用の Auto Scaling のサポートを開始"
+        },
+        {
+          "id": "d3d174bc0744f670f28d5e88e03c8dc5d2562398",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Services (ECS) では、お客様は、Amazon ECS Anywhere を使用して、オンプレミスインフラストラクチャを実行するコンテナ化された GPU ベースのワークロードを管理できるようになりました。Amazon ECS Anywhere GPU のサポートにより、お客様は、規制、ネットワークレイテンシー、データ所在地、またはその他の要件のためにオンプレミスで維持する必要がある GPU ベースのアプリケーションをデプロイできます。さらに、エンタープライズは、GPU コンピューティング性能に対する既存の投資を利用して、データをクラウドに転送することなく、機械学習、3D 可視化、画像処理、およびビッグデータのワークロードを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ecs-anywhere-gpu/",
+          "publishedOn": "2021-10-13T00:03:31.000Z",
+          "wordCount": 253,
+          "title": "Amazon ECS Anywhere が GPU ベースのワークロードのサポートを開始"
+        },
+        {
+          "id": "be2cf59bfabe3103eccd2692abb78aef92fc4333",
+          "author": "aws@amazon.com",
+          "description": "AWS QnABot が公式の AWS ソリューション実装としてリリースされたことをお知らせします。AWS QnABot は、Amazon Lex をベースに構築され、お客様の質問に対応して回答し、フィードバックを提供する、オープンソース、マルチチャネル、マルチ言語の対話型チャットボットです。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-aws-qnabot-chatbot-built-amazon-lex/",
+          "publishedOn": "2021-10-13T00:01:51.000Z",
+          "wordCount": 246,
+          "title": "新しい AWS ソリューションのご紹介: Amazon Lex 上に構築されたセルフサービスの対話型チャットボットである AWS QnABot"
+        },
+        {
+          "id": "31253bbae9e96075d5de91b46c9c63089afcb689",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning の提供の開始を発表します。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/",
+          "publishedOn": "2021-10-12T22:01:56.000Z",
+          "wordCount": 238,
+          "title": "新しい AWS ソリューション: Maintaining Personalized Experiences using Machine Learning"
+        },
+        {
+          "id": "4132ce6b095a67215f07defadf8556e5e6e4f75d",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Backup は、AWS Backup Vault Lock の提供開始を発表しました。この新機能は、不注意または悪意のあるアクションから、お客様がより強力にバックアップを保護できるようにします。これは、お客様が Write-Once-Read-Many (WORM) モデル*を使用してバックアップを確実に保存するための保護手段を実装するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/",
+          "publishedOn": "2021-10-12T22:01:07.000Z",
+          "wordCount": 260,
+          "title": "AWS Backup で AWS Backup Vault Lock が利用可能になり、バックアップ保護のためのレイヤーがさらに追加"
+        },
+        {
+          "id": "9411e6efa93e4250b574067e57c086e83d94b77b",
+          "author": "aws@amazon.com",
+          "description": "AWS Transfer Family は、Amazon S3 の機能である Amazon S3 アクセスポイントをサポートするようになりました。これにより、共有データセットのアクセスを簡単に、きめ細かく管理することができます。S3 アクセスポイントのエイリアスは現在、何百もの SFTP、FTP、FTPS のユーザーやグループによって活用されている共有データセットに使われている S3 バケット名であればどこでも使用することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/",
+          "publishedOn": "2021-10-12T20:35:41.000Z",
+          "wordCount": 260,
+          "title": "AWS Transfer Family の顧客は、Amazon S3 Access Point のエイリアスをきめ細やかで、シンプルなデータアクセスコントロールに活用できるようになりました"
+        },
+        {
+          "id": "07a86927abde02e4739def856df1ddc656f763cf",
+          "author": "aws@amazon.com",
+          "description": "Amazon Braket 上で、D-Wave の Advantage 4.1 の AWS 量子アニーリングシステムにアクセスできるようになりました。D-Wave によると、新しい Advantage 量子処理ユニット (QPU) は 5000 を超える量子ビットを備え、15 通りの接続方法があるため、研究者やデベロッパーはより大規模かつ複雑な量子最適化の問題を研究できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/",
+          "publishedOn": "2021-10-12T20:34:53.000Z",
+          "wordCount": 290,
+          "title": "Amazon Braket が D-Wave の Advantage 4.1 の量子アニーリングシステムを提供"
+        },
+        {
+          "id": "b78fa969f230d1fccd370677d2b0d4b2937f0363",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights は中東 (バーレーン)、アフリカ (ケープタウン)、欧州 (ミラノ)、アジア太平洋 (大坂) でもご利用可能になりました。Amazon RDS Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/",
+          "publishedOn": "2021-10-12T20:34:05.000Z",
+          "wordCount": 274,
+          "title": "RDS Performance Insights はさらに 4 つのリージョンでご利用可能に"
+        },
+        {
+          "id": "efef47cc1c0dec9607c4d14d12f0411b50cf02c8",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup Audit Managerer は AWS CloudFormation をサポートし、AWS CloudFormation のテンプレートを使って、データ保護ポリシーのコンプライアンスに関する監査やレポートができるようになりました。AWS CloudFormation テンプレートを使って AWS Backup Audit Manager のプレビルドされたカスタマイズ可能な管理機能をデプロイし、すべてのバックアップがポリシーに準拠しているかどうかを評価することができるようになりました。また、監査レポートを生成することにより、オペレーション状況をモニタリングしたり、バックアップが規制要件に準拠していることを証明したりすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/",
+          "publishedOn": "2021-10-12T20:33:16.000Z",
+          "wordCount": 261,
+          "title": "AWS Backup Audit Manager が AWS CloudFormation のサポートを開始"
+        },
+        {
+          "id": "d023e411ab8df227043796b8dee9e5cbca91b220",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションをサポートしており、AWS アカウントやリージョンが同じでも、異なっても、ドメインから別のドメインへのインデックスの複製や同期を低レイテンシーで自動化することが可能になりました。クロスクラスターレプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/",
+          "publishedOn": "2021-10-12T20:32:27.000Z",
+          "wordCount": 258,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションのサポートを発表"
+        },
+        {
+          "id": "3c6c61e2868ecb4df2905bcdba37095a9a3a298c",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup Audit Manager により、AWS Backup で定義したデータ保護ポリシーのコンプライアンスを追跡するためのレポートを生成できるようになりました。指定した Amazon S3 バケット内のコンプライアンスレポートに、AWS Backup Audit Manager でレポートプランを作ることができます。これらのレポートを使って、データ保護ポリシー違反を特定し、修復を実行し、規制要件を満たすためにデータ保護ポリシーのコンプライアンスを実証することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/",
+          "publishedOn": "2021-10-12T20:31:36.000Z",
+          "wordCount": 261,
+          "title": "AWS Backup Audit Manager はコンプライアンスレポートを追加しました"
+        },
+        {
+          "id": "10a2457ecf5bfbe30494d91a3f3c4c0f2d63c446",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 容量予約フリートを使うことで、 予約した Amazon EC2 の容量を新しく作成したインスタンスタイプに簡単にマイグレーションすることができます。容量予約により、容量を予約して特定のインスタンスタイプおよびにアベイラビリティーゾーンへすぐに適用することが可能です。また、いつでもキャンセルすることができます。容量予約フリートにより、インスタンスタイプのプライオリティリスト全体で容量を予約することができます。プライオリティの低いインスタンスタイプに予約した容量が未使用の場合、自動的にプライオリティの高いインスタンスタイプに容量が振り分けられます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/",
+          "publishedOn": "2021-10-12T20:30:48.000Z",
+          "wordCount": 216,
+          "title": "Amazon EC2 容量予約フリートは、インスタンスタイプ全体で、Amazon EC2 容量予約のマイグレーションを容易にします"
+        },
         {
           "id": "4d873ebbd33d7891b2dbd07b3ef57c2b3d56bc9e",
           "author": "aws@amazon.com",
