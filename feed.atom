@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-13T19:06:20.519Z</updated>
+    <updated>2021-10-14T00:59:22.164Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年10月第3週　収穫の秋，AOSP版のAndroid 12がリリース ── Android Weekly Topics]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/awt/202110/14</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202110/14"/>
+        <updated>2021-10-14T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年10月第3週のAndroid関連のニュースをお届けします。]]></summary>
+        <author>
+            <name>傍島康雄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URL検査ツールでインデックスされているURLがカバレッジレポートで[クロール済み – インデックス未登録]になるのは更新が遅いから]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11662</id>
+        <link href="https://www.suzukikenichi.com/blog/google-explains-why-indexed-urls-are-marked-as-crawled-currently-not-indexed-in-coverage-report/"/>
+        <updated>2021-10-13T21:30:28.000Z</updated>
+        <summary type="html"><![CDATA[正常にインデックスされている URL がカバレッジ レポートに [クロール済み – インデックス未登録] として記録される理由を Google は説明した。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Marketplace が、Professional Services の契約内容の確認や提供のキャンセルおよび延長をサポート]]></title>
+        <id>64a2ed9ca7f54d80e9f5edfefe126306398d2190</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/"/>
+        <updated>2021-10-13T19:37:40.000Z</updated>
+        <summary type="html"><![CDATA[独立系ソフトウェアベンダー (ISV) やコンサルティングパートナーを含む AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) から Professional Services の契約内容の確認、提供のキャンセル、提供の有効期限の延長ができるようになりました。AWS Marketplace の Professional Services では、ISV やコンサルティングパートナーが AWS Marketplace に新しい Professional Services のリストを作成し、AWS のお客様に Private Offers を広げることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkMail が Mobile Device Access Override API と MDM 統合機能を追加]]></title>
+        <id>8cd4d475df068b1a1880e5fda9855f6d5af31d87</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/"/>
+        <updated>2021-10-13T19:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon WorkMail は、Mobile Device Access Rules (MDAR) の機能の拡張を提供できるようになりました。この新しい Mobile Device Access Override API (MDOA) では、CLI を使ってマニュアルで、またはサードパーティーの Mobile Device Management (MDM) ツールを使って自動で、既存の MDAR を調整することができます。お客様は信頼できるサードパーティーの MDM ツールを使用して、セキュリティ体制の評価を実行してから、デバイスに企業リソースへのアクセス許可を付与することができます。新しい API は、デフォルトの MDAR に対する例外の作成と管理を簡素化します。これは、体制の悪いデバイスの WorkMail への接続を許可する必要がある場合や、ユーザーが特定のデバイスの盗難や紛失を報告した場合に適用されます。この場合、個々のデバイスをブロックして、データ漏洩のリスクを軽減することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Tasks が HIPAA に対応]]></title>
+        <id>de701ce25115038ab631a274172f4b763ca12364</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/"/>
+        <updated>2021-10-13T19:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Tasks が HIPAA (Health Insurance Portability and Accountability Act) 対応になりました。Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。HIPAA 対応となることで、保護対象保険情報 (PHI: Protected Health Information) を使用したタスクの優先順位付けや自動化が可能となり、顧客からの問い合わせやサービスリクエストの解決に必要な情報をエージェントに提供することもできます。Salesforce や Zendesk などの顧客関係管理アプリケーション (CRM)、Epic や Cerner などの電子ヘルスレコード (EHR) システム、あるいは自社開発のアプリケーションやビジネス特有のアプリケーションを使って、タスクの優先順位付けや自動化を行うことができます。Amazon Connect は 2017 年より HIPAA 対応です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Instance Scheduler v2.0 の紹介]]></title>
+        <id>11e26d374f5dfd8b0793a7217f9e6c573b26ed70</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/"/>
+        <updated>2021-10-13T19:32:36.000Z</updated>
+        <summary type="html"><![CDATA[AWS Instance Scheduler は、Amazon Elastic Compute Cloud (Amazon EC2 オンデマンドインスタンス) および Amazon Relational Database Service (Amazon RDS) インスタンスのスタートと停止のスケジュールを設定することにより、AWS リソースコストを管理するのに役立つソリューションです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleは「Dynamic Mail」でGmailとAppSheetの統合を実現。その中身は「AMP email」]]></title>
         <id>https://www.publickey1.jp/blog/21/googledynamic_mailgmailappsheetamp_email.html</id>
@@ -3816,27 +3876,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[Javaの新バージョン「Java 17」が正式にリリースされました。Java 17は、Java 11以来3年ぶりの長期サポート対象となるJavaのバージョンです。 Java 17 is now available! #Java17 #JDK...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsコンソールの思いがけない便利技（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_14/111314</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_14/111314"/>
-        <updated>2021-09-14T08:30:06.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails_console_trick_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails console trick I had no idea about &#124; Arkency Blog 原文公開日: 2021/04/28 原著者: Paweł Pacana サイト: arkency Railsコンソールの思いがけない便利技（翻訳） .irbrcを調整してインタラクティブなコンソールを使いやすくすると、生産性も目に見えて向上し、フラストレーションも減らせるのでやりがいのある作業です。最近のRuby Weeklyでは、このあたりのトピックを扱う記事をいくつも見かけます。 これまでも.irbrcにいろいろ手を加えて便利にして [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_14/111314" data-wpel-link="internal" target="_self">Railsコンソールの思いがけない便利技（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図解：気候変動対策の鍵は巨大都市にある]]></title>
-        <id>https://www.technologyreview.jp/?p=242014</id>
-        <link href="https://www.technologyreview.jp/s/242014/how-megacities-could-lead-the-fight-against-climate-change/"/>
-        <updated>2021-09-14T07:23:49.000Z</updated>
-        <summary type="html"><![CDATA[世界の人口が集中する巨大都市が二酸化炭素排出量を削減するだけで、気候変動の影響を大きく緩和できる可能性がある。]]></summary>
-        <author>
-            <name>Andre Vitorio</name>
         </author>
     </entry>
 </feed>
