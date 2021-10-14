@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-14T10:15:53.347Z</updated>
+    <updated>2021-10-14T20:14:49.457Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が ActiveMQ バージョン 5.16.3 のサポートを開始]]></title>
+        <id>ed82a4f2abbdfae2bf539e79f891051479a6351d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/"/>
+        <updated>2021-10-14T18:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Apache ActiveMQ 5.16.3 ブローカーが Amazon MQ で起動可能になりました。ActiveMQ のこのバージョンアップデートには、これまでサポートしていたバージョンである ActiveMQ 5.16.2 からのいくつかの修正と機能の改善が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全社員がリモートワークで働くGitLabが今日、米NASDAQ市場に上場。時価総額は約1兆2000億円に]]></title>
+        <id>https://www.publickey1.jp/blog/21/gitlabnasdaq12000.html</id>
+        <link href="https://www.publickey1.jp/blog/21/gitlabnasdaq12000.html"/>
+        <updated>2021-10-14T15:33:43.000Z</updated>
+        <summary type="html"><![CDATA[GitLab社が米NASDAQ市場に上場を果たし、14日午前9時半（現地時間）にニューヨークにあるNASDAQ市場のオープニングベルを鳴らすセレモニーを同社共同創業者兼CEOのSid Sijbrandij氏と同社共同創業者でエンジニアリング...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、仮想マシンもAnthosで管理する「Anthos for VMs」プレビュー版を発表。コンテナも仮想マシンも統合管理]]></title>
+        <id>https://www.publickey1.jp/blog/21/googleanthosanthos_for_vms.html</id>
+        <link href="https://www.publickey1.jp/blog/21/googleanthosanthos_for_vms.html"/>
+        <updated>2021-10-14T15:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、Kubernetesをベースにマルチクラウド環境を構築するAnthosで、仮想マシンも管理対象に組み入れることができる新機能「Anthos for VMs」プレビュー版を発表しました。 Anthos for VMsAntho...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB の NoSQL Workbench で、サンプルデータのインポートと自動追加が可能になりデータモデルの構築と可視化が簡単に]]></title>
+        <id>e06f9fff2c3a818127f7a6e70690234dcaa22479</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/nosql-workbench-amazon-dynamodb-import-populate-sample-data-build-visualize-data-models/"/>
+        <updated>2021-10-14T10:37:07.000Z</updated>
+        <summary type="html"><![CDATA[ポイントアンドクリックインターフェースを使用して非リレーショナルデータモデルを設計、可視化、クエリするのを助けるクライアント側のツール、NoSQL Workbench for DynamoDB により、データモデルの構築と可視化に役立つサンプルデータインポートおよび自動追加が容易になりました。サンプルデータを csv ファイルから新しいデータモデルおよび既存のデータモデルにインポートできるようになりました。NoSQL Workbench オペレーションビルダから .csv ファイルのクエリ結果をエクスポートすることもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Fraud Detector がイベントデータセットのサポートを開始]]></title>
+        <id>88c408c090ca4813dea723b878ff694efc994b47</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-fraud-detector-event-datasets/"/>
+        <updated>2021-10-14T10:36:15.000Z</updated>
+        <summary type="html"><![CDATA[私達は、Amazon Fraud Detector のイベントデータストレージについて発表することができとても興奮しています。この新機能により、お客様は本番稼働の不正データを Amazon Fraud Detector 内に直接簡単に送信および保存できます。このモデルはアカウントの年数や購入頻度などの値を自動的に計算することで新しいイベントに過去のコンテキストを適用できるため、お客様はイベントデータセットを使用して、より予測パフォーマンスの高い機械学習 (ML) モデルをトレーニングできます。新しいトレーニングデータセットを S3 にアップロードせずにモデルを取得できるため素早い動きも可能です。また、保存されたイベントの不正ラベルを更新することにより、オフライン不正調査からフィードバックループをクローズできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Fraud Detector がオンライン取引の不正検出のための新たな機械学習モデルをリリース]]></title>
+        <id>8e1d6fc2af82418744be90eaa14e73509a350753</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/"/>
+        <updated>2021-10-14T10:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Fraud Detector は、取引不正検出インサイトモデルを発表できることに興奮しています。このモデルは、オンラインカードレス決済決済の不正を検出するために特別に設計された低レイテンシーの不正検出機械学習 (ML) モデルです。他の Amazon Fraud Detector モデルのように、取引不正インサイトは Amazon および AWS の 20 年以上の不正検出の専門知識を活かしたサービスです。この新しい取引不正インサイトモデルタイプは、Amazon Fraud Detector の前モデルタイプであるオンライン不正インサイトと比較して、不正取引検出率は最大 30% 増、パフォーマンスの維持期間は最大 6 か月長くなりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS は AWS GovCloud (米国) リージョンの MySQL の T3 インスタンスタイプおよび MariaDB データベースをサポート]]></title>
+        <id>60d3c900b67ef662f8a7ad249d982488a0ed4a7a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-t3-mysql-mariadb-aws-govcloud/"/>
+        <updated>2021-10-14T10:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MySQL および AWS GovCloud (米国) リージョンの Amazon RDS for MariaDB を使用する際に、T3 データベースインスタンスタイプを起動できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS がAmazon Fraud Detector 機械学習不正予測の料金を最大 56% 値下げすることを発表]]></title>
+        <id>a064c708640859d4ec95aa6f9fa3706e4c9e67d9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-price-reduction-amazon-fraud-detector/"/>
+        <updated>2021-10-14T10:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Fraud Detector の機械学習 (ML) に基づく不正予測の料金値下げに関する発表ができとても嬉しいです。Fraud Detector は、偽アカウントの作成やオンライン決済詐欺といった、不正の疑いのあるオンライン活動を簡単に特定できるフルマネージドサービスです。内部で ML を使用し、Amazon の 20 年以上かけて蓄積してきた不正検出の専門知識に基づいて、Fraud Detector は、潜在的な不正行為をミリ秒単位で自動的に識別します。機械学習の専門知識は必要ありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruby: Ractorによる安全な非同期通信の実験（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_10_14/112316</id>
@@ -3868,36 +3948,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_15/111369" data-wpel-link="internal" target="_self">Railsの技: カスタムヘルパーとStimulusで軽量コンポーネントを構築（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オラクル、Oracle JDKを再び無料提供へ、本番環境でも利用可。昨日リリースのJava 17から]]></title>
-        <id>https://www.publickey1.jp/blog/21/oracle_jdkjava_17.html</id>
-        <link href="https://www.publickey1.jp/blog/21/oracle_jdkjava_17.html"/>
-        <updated>2021-09-15T04:57:50.000Z</updated>
-        <summary type="html"><![CDATA[オラクルは、同社が提供している企業向けのJavaディストリビューションであるOracle JDKのライセンスを変更し、無料で本番環境などでの利用を可能にしました。   同社が9月14日付で公開したブログ「Introducing the Fr...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS ParallelCluster が Amazon API Gateway を介したクラスター管理のサポートを開始]]></title>
-        <id>a993d7902c89d505235a878ff44eac120997a2af</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-parallelcluster-cluster-management-api-gateway/"/>
-        <updated>2021-09-15T02:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ParallelCluster は全面的なサポートとメンテナンスが提供されるオープンソースのクラスター管理ツールです。このツールを使用すると、科学者、研究者、および IT 管理者は、Amazon Web Services でハイパフォーマンスコンピューティング (HPC) クラスターのデプロイと管理をより簡単に実行できるようになります。HPC クラスターは従来、コンピューティング、ストレージ、およびネットワークリソースを緊密に結び付けたコレクションで、お客様はこれを使用して科学やエンジニアリングの分野で大規模なワークロードを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第683回　LXDコンテナ上にUbuntuのフルデスクトップ環境を構築する ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0683</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0683"/>
-        <updated>2021-09-15T00:51:00.000Z</updated>
-        <summary type="html"><![CDATA[第679回ではLXD/VMの上にWindows 10をインストールしました。今回はWindows 10の代わりに別バージョンのUbuntuデスクトップを仮想マシンとして動かしてみます。]]></summary>
-        <author>
-            <name>柴田充也</name>
         </author>
     </entry>
 </feed>
