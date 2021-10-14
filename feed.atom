@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-14T21:12:18.566Z</updated>
+    <updated>2021-10-14T22:15:15.864Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米先行事例に学ぶ、対面授業の安全を確保する11のポイント]]></title>
+        <id>https://www.technologyreview.jp/?p=257556</id>
+        <link href="https://www.technologyreview.jp/s/257556/how-five-us-schools-reopened-without-sparking-a-covid-outbreak/"/>
+        <updated>2021-10-14T21:47:02.000Z</updated>
+        <summary type="html"><![CDATA[長らく休校していた米国の多くの学校で対面授業が再開した。学校の安全を守るために何をするべきか？ 先行して再開して成功を収めた学区の事例から学べるポイントを紹介する。]]></summary>
+        <author>
+            <name>Betsy Ladyzhets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、モバイル検索に無限スクロールを導入。下位ページでもクリック率アップするかも]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11669</id>
+        <link href="https://www.suzukikenichi.com/blog/google-introduces-infinite-scroll-on-mobile-search-results/"/>
+        <updated>2021-10-14T21:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Google はモバイル検索結果に無限スクロールを導入した。米 Google (google.com) の英語検索で始まっている。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon MQ が ActiveMQ バージョン 5.16.3 のサポートを開始]]></title>
         <id>ed82a4f2abbdfae2bf539e79f891051479a6351d</id>
@@ -3887,36 +3907,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
  By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
         <author>
             <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Elastic Kubernetes Service Anywhere が一般利用可能に]]></title>
-        <id>4589c008fdc3f5e04d1ee19e1b37b9d22fafcf9e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/"/>
-        <updated>2021-09-15T10:11:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere の一般提供を発表します。これは、カスタマーマネージドのインフラストラクチャで Kubernetes クラスターを作成および運用できるようにする、AWS がサポートする Amazon EKS のための新しいデプロイオプションです。本日より、お客様は、VMware vSphere を使用して、独自のオンプレミスインフラストラクチャで Amazon EKS Anywhere を実行できるようになりました。近い将来、2022 年に登場するベアメタルのサポートなど、他のデプロイターゲットもサポートされる予定です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard が AWS マネージドサービスを使用するアカウントからの SAP デプロイのサポートを開始]]></title>
-        <id>b8e41163c8daefe61d609c5c9ca5a55246418cd8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/"/>
-        <updated>2021-09-15T09:43:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS マネージドサービス (AMS) により、お客様は AWS Launch Wizard を使用して SAP HANA ベースのワークロードをデプロイできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CDK が v1.117.0～v1.120.0 をリリースし、Amazon Kinesis Firehose、Amazon CloudFront、Amazon Cognito などのための改善されたサポートを提供]]></title>
-        <id>f5ea157af9f929ee8f8a0e9f923d9645cebdf46f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/"/>
-        <updated>2021-09-15T09:37:53.000Z</updated>
-        <summary type="html"><![CDATA[2021 年 8 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (CDK) の 4 つの新しいバージョン (v1.117.0～v1.120.0) がリリースされました。これらのリリースには、Kinesis Firehose Construct Library への複数の追加が含まれています。これには、S3 配信ストリームの送信先における圧縮とプレフィックス、配信ストリームのメトリクス、S3 ソースのバックアップ、AWS Lambda ベースのデータプロセッサなどが含まれます。さらに、CloudFront Construct Library は Origin Shield のサポートを開始し、CloudWatch は AWS アカウント全体でのアラームの定義をサポートし、Cognito User Pools は Device Tracking のサポートを開始しました。これらのリリースは 28 の問題を解決し、ライブラリ全体の 30 の異なるモジュールで 37 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,20 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11669",
+          "author": "Kenichi Suzuki",
+          "description": "Google はモバイル検索結果に無限スクロールを導入した。米 Google (google.com) の英語検索で始まっている。",
+          "link": "https://www.suzukikenichi.com/blog/google-introduces-infinite-scroll-on-mobile-search-results/",
+          "publishedOn": "2021-10-14T21:30:53.000Z",
+          "wordCount": 552,
+          "title": "Google、モバイル検索に無限スクロールを導入。下位ページでもクリック率アップするかも",
+          "enclosure": {
+            "url": "https://www.suzukikenichi.com/images/continuous-scroll-search-results2.mp4",
+            "length": "6958258",
+            "type": "video/mp4"
+          }
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11662",
           "author": "Kenichi Suzuki",
           "description": "正常にインデックスされている URL がカバレッジ レポートに [クロール済み – インデックス未登録] として記録される理由を Google は説明した。",
@@ -497,6 +511,15 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=257556",
+          "author": "Betsy Ladyzhets",
+          "description": "長らく休校していた米国の多くの学校で対面授業が再開した。学校の安全を守るために何をするべきか？ 先行して再開して成功を収めた学区の事例から学べるポイントを紹介する。",
+          "link": "https://www.technologyreview.jp/s/257556/how-five-us-schools-reopened-without-sparking-a-covid-outbreak/",
+          "publishedOn": "2021-10-14T21:47:02.000Z",
+          "wordCount": 568,
+          "title": "米先行事例に学ぶ、対面授業の安全を確保する11のポイント"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=258703",
           "author": "Charlotte Jee",
@@ -3513,33 +3536,6 @@
           "publishedOn": "2021-09-15T12:18:53.000Z",
           "wordCount": 252,
           "title": "AWS マネージドサービス (AMS) が Operations on Demand でオペレーションサービスのカタログの提供を開始"
-        },
-        {
-          "id": "4589c008fdc3f5e04d1ee19e1b37b9d22fafcf9e",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere の一般提供を発表します。これは、カスタマーマネージドのインフラストラクチャで Kubernetes クラスターを作成および運用できるようにする、AWS がサポートする Amazon EKS のための新しいデプロイオプションです。本日より、お客様は、VMware vSphere を使用して、独自のオンプレミスインフラストラクチャで Amazon EKS Anywhere を実行できるようになりました。近い将来、2022 年に登場するベアメタルのサポートなど、他のデプロイターゲットもサポートされる予定です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/",
-          "publishedOn": "2021-09-15T10:11:53.000Z",
-          "wordCount": 256,
-          "title": "Amazon Elastic Kubernetes Service Anywhere が一般利用可能に"
-        },
-        {
-          "id": "b8e41163c8daefe61d609c5c9ca5a55246418cd8",
-          "author": "aws@amazon.com",
-          "description": "AWS マネージドサービス (AMS) により、お客様は AWS Launch Wizard を使用して SAP HANA ベースのワークロードをデプロイできるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/",
-          "publishedOn": "2021-09-15T09:43:53.000Z",
-          "wordCount": 259,
-          "title": "AWS Launch Wizard が AWS マネージドサービスを使用するアカウントからの SAP デプロイのサポートを開始"
-        },
-        {
-          "id": "f5ea157af9f929ee8f8a0e9f923d9645cebdf46f",
-          "author": "aws@amazon.com",
-          "description": "2021 年 8 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (CDK) の 4 つの新しいバージョン (v1.117.0～v1.120.0) がリリースされました。これらのリリースには、Kinesis Firehose Construct Library への複数の追加が含まれています。これには、S3 配信ストリームの送信先における圧縮とプレフィックス、配信ストリームのメトリクス、S3 ソースのバックアップ、AWS Lambda ベースのデータプロセッサなどが含まれます。さらに、CloudFront Construct Library は Origin Shield のサポートを開始し、CloudWatch は AWS アカウント全体でのアラームの定義をサポートし、Cognito User Pools は Device Tracking のサポートを開始しました。これらのリリースは 28 の問題を解決し、ライブラリ全体の 30 の異なるモジュールで 37 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/",
-          "publishedOn": "2021-09-15T09:37:53.000Z",
-          "wordCount": 284,
-          "title": "AWS CDK が v1.117.0～v1.120.0 をリリースし、Amazon Kinesis Firehose、Amazon CloudFront、Amazon Cognito などのための改善されたサポートを提供"
         }
       ]
     },
