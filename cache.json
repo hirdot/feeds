@@ -1397,15 +1397,6 @@
           "publishedOn": "2021-09-16T06:22:43.000Z",
           "wordCount": 201,
           "title": "CentOS 8とバイナリ互換のRHELクローン「MIRACLE LINUX 8.4」が無償公開へ。今後のバグフィクスやアップデートも無償。CentOS 8の代替を狙う"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/dockergoogle_cloud_run.html",
-          "author": null,
-          "description": "Googleは、Dockerコンテナをサーバレスで実行するサービス「Cloud Run」の新機能として、非同期処理などを可能にする「CPU allocation on Cloud Run」機能をプレビューとして発表しました。   非同期処理...",
-          "link": "https://www.publickey1.jp/blog/21/dockergoogle_cloud_run.html",
-          "publishedOn": "2021-09-15T16:38:33.000Z",
-          "wordCount": 172,
-          "title": "Dockerコンテナをサーバレス化する「Google Cloud Run」で、非同期処理やバックグラウンドタスクなどが実行可能に"
         }
       ]
     },
@@ -1917,6 +1908,51 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "1074343f71980ff0f521749c0588086bac681fd2",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation のお客様は、AWS Systems Manager の機能である Application Manager を通じて、運用データを表示し、CloudFormation スタックリソースに関連する問題を解決するためのアクションを迅速に実行できるようになりました。この機能を使用すると、お客様は CloudFormation スタックを介してプロビジョンされたリソースのアプリケーションビューを取得できます。デベロッパーは、Application Manager Dashboard から取得した運用メトリクス、ログ、アラート、およびコスト情報を使用して、ライフサイクル全体でスタックリソースを効率的に管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-cloudformation-manage-applications-aws-systems-manager/",
+          "publishedOn": "2021-10-15T04:35:36.000Z",
+          "wordCount": 264,
+          "title": "AWS CloudFormation のお客様による AWS Systems Manager でのアプリケーションの管理が可能に"
+        },
+        {
+          "id": "afa82a8550ec98f2d6aca96cc59a07dce5067d2f",
+          "author": "aws@amazon.com",
+          "description": "2021 年 9 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (CDK) の 5 つの新しいバージョン (v1.121.0～v.125.0) がリリースされました。これらのリリースにより、CDK CLI は、CDK プロジェクトのアプリケーションコードでの内部ループ開発の反復を高速化するためのホットスワップデプロイをサポートするようになりました。ホットスワップの初期サポートでは AWS Lambda ハンドラーコードを対象としますが、追加のリソースタイプと、変更を継続的に監視して更新をデプロイする「監視」モードのサポートが計画されています。さらに、ユーザーは自動スタックロールバックを無効にすることで、正常にプロビジョンされたリソースを保持できるため、デプロイと反復の時間がさらに短縮されます。また、これらのリリースは 21 の問題を解決し、ライブラリ全体の 30 を超える異なるモジュールで 40 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/",
+          "publishedOn": "2021-10-15T04:34:13.000Z",
+          "wordCount": 258,
+          "title": "AWS CDK がホットスワップデプロイとロールバックコントロールを使用して開発サイクルを高速化する機能を備えた v1.121.0～v1.125.0 をリリース"
+        },
+        {
+          "id": "5dce74957c5dba6bfaeb183991edfe07bb23ca55",
+          "author": "aws@amazon.com",
+          "description": "AWS Console Mobile Application ユーザーは、iOS アプリケーションと Android アプリケーションの両方で Amazon Elastic Container Service (Amazon ECS) を利用できるようになりました。Console Mobile Application は、ECS クラスター、サービス、設定、タスク、およびコンテナのワークロードをモニタリングするための、安全で使いやすい外出先でのソリューションを提供します。お客様は、ECS タスクを停止したり、ECS サービスのために必要な数のタスクを起動したりすることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-console-mobile-amazon-elastic-container-service/",
+          "publishedOn": "2021-10-15T04:33:23.000Z",
+          "wordCount": 243,
+          "title": "AWS Console Mobile Application が Amazon Elastic Container Service のサポートを追加"
+        },
+        {
+          "id": "157f1986d03b8b8e5f1b197cabd6a1dc09665447",
+          "author": "aws@amazon.com",
+          "description": "Cloud Development Kit for Kubernetes (CDK8s) の一般提供が開始され、準拠した Kubernetes クラスターで実稼働使用が可能になりました。継続的なコミュニティの関与を確実にするために、cdk8s は現在、公式の CNCF Sandbox プロジェクトにもなっており、AWS Labs GitHub 組織から GitHub の専用ホームである cdk8s-team に移行されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/cdk-kubernetes-cdk8s-available/",
+          "publishedOn": "2021-10-15T04:32:34.000Z",
+          "wordCount": 250,
+          "title": "CDK for Kubernetes (CDK8s) の一般提供を開始"
+        },
+        {
+          "id": "a432f951ce1daba06a03ebad05d46c1473cb29a5",
+          "author": "aws@amazon.com",
+          "description": "Automated Account Configuration は、適切に、かつ、ビジネスと本番のニーズを満たすために必要なリソースを備えた状態で、AWS アカウントがセットアップされるようにするために、効率的でエラーのない、標準化済みの一貫した方法で運用プロセスを自動化するのに役立ちます。このソリューション実装を使用して、次のビジネスクリティカルなサービスを設定およびデプロイできます。\n \n \n \nAWS Backup: Amazon EC2 インスタンス、Amazon RDS、Amazon EFS などの AWS のサービスのバックアップを一元的に管理します。\n \n \nAWS Systems Manager パッチマネージャー: EC2 インスタンスなどのマネージドインスタンスのパッチ適用を自動化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/",
+          "publishedOn": "2021-10-15T04:31:40.000Z",
+          "wordCount": 254,
+          "title": "新しい AWS ソリューション実装: Automated Account Configuration"
+        },
         {
           "id": "ed82a4f2abbdfae2bf539e79f891051479a6351d",
           "author": "aws@amazon.com",
