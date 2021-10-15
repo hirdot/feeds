@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T00:52:35.675Z</updated>
+    <updated>2021-10-15T02:01:35.834Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[データサイエンティストからCMOへのキャリアチェンジ。 データマーケター三井住友海上　木田浩理氏に訊く、 データを武器にしてキャリアをブレークスルーする方法]]></title>
+        <id>https://data.wingarc.com/?p=36405</id>
+        <link href="https://data.wingarc.com/ms-ins_cmo_kidahiromasa-36405"/>
+        <updated>2021-10-15T01:00:08.000Z</updated>
+        <summary type="html"><![CDATA[同グループの中核事業会社として保険・金融サービス事業を展開する三井住友海上火災保険株式会社（以下、三井住友海上）は、2018年度にデジタル戦略部を新設。現在同部は10人以上のデータサイエンティストを擁する組織に成長してい […]]]></summary>
+        <author>
+            <name>野島光太郎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年10月15日号　Ubuntu 21.10 “Impish Indri”のリリース ── Ubuntu Weekly Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202110/15</id>
@@ -3866,36 +3876,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[Googleは、Dockerコンテナをサーバレスで実行するサービス「Cloud Run」の新機能として、非同期処理などを可能にする「CPU allocation on Cloud Run」機能をプレビューとして発表しました。   非同期処理...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elemental MediaPackage および SPEKE v2.0 でマルチキー暗号化のサポートが利用可能に]]></title>
-        <id>1fa84a07851d3eef90055396bf72cc8296577145</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/multi-key-encryption-aws-elemental-mediapackage-speke-2-0/"/>
-        <updated>2021-09-15T13:21:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Elemental MediaPackage は、Secure Packager and Encoder Key Exchange (SPEKE) API のバージョン 2.0 をサポートするようになりました。SPEKE v2 を使用すると、ネイティブの Content Protection Information Exchange Format (CPIX) 2.3 ドキュメントを使用できるようになり、さまざまなメディアトラックに複数の暗号化キーを使用できるようになります。MediaPackage と SPEKE v2 を使用することで、2 つのキーを使用できるようになりました。1 つは音声トラック用、もう 1 つはライブ DASH および CMAF ストリームを含む動画トラック用で、コンテンツ保護要件に対応する、より複雑な暗号化モデルがサポートされています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Detective が Splunk 統合を提供]]></title>
-        <id>8d22a598a1a2e02ef3d93c59a2a368668430ec97</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-detective-splunk-integration/"/>
-        <updated>2021-09-15T13:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Detective は、Splunk Trumpet プロジェクトと連携して、Splunk での Amazon GuardDuty の検出結果から Amazon Detective エンティティプロファイルに直接ピボットする機能をリリースしました。これにより、お客様は、潜在的なセキュリティ問題や疑わしいアクティビティの根本原因をすばやく特定できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud9 がさらに 2 つのリージョンで利用可能に]]></title>
-        <id>bfc16dd16a82d5fbf71fa0af4f027e860f18e22f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/cloud9-available-more-regions/"/>
-        <updated>2021-09-15T13:03:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Cloud9 がアジアパシフィック (大阪) およびアフリカ (ケープタウン) で利用可能になりました。AWS Cloud9 は、ブラウザのみでコードを記述、実行、デバッグできるクラウドベースの統合開発環境 (IDE) です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
