@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T10:02:27.350Z</updated>
+    <updated>2021-10-15T22:02:15.516Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Z世代はめっちゃ検索してる！ 「若者は検索エンジンを使わない」は偏見だった！？【海外＆国内SEO情報ウォッチ】]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11166</id>
+        <link href="https://www.suzukikenichi.com/blog/seowatch20211015/"/>
+        <updated>2021-10-15T21:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。「日本のZ世代は検索エンジンを使わない、SEO嫌いだから」「ソーシャルの検索やタグしか使っていない」というのは事実ではなかった、それどころか、Z世代は30代よりも検索エンジンを使いまくっているらしい。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails: Zeitwerkオートロードの「1ファイルにクラスを複数置けない」問題を回避する]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_10_15/111156</id>
@@ -125,6 +135,16 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[同グループの中核事業会社として保険・金融サービス事業を展開する三井住友海上火災保険株式会社（以下、三井住友海上）は、2018年度にデジタル戦略部を新設。現在同部は10人以上のデータサイエンティストを擁する組織に成長してい […]]]></summary>
         <author>
             <name>野島光太郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto timestamps on bulk inserts, HTML safe translations in controllers and more]]></title>
+        <id>https://weblog.rubyonrails.org/2021/10/15/this-week-in-rails-auto-timestamps-on-bulk-inserts-html-safe-translations-in-controllers-and-more/</id>
+        <link href="https://weblog.rubyonrails.org/2021/10/15/this-week-in-rails-auto-timestamps-on-bulk-inserts-html-safe-translations-in-controllers-and-more/"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey, Wojtek here with last week updates from the Ruby on Rails world.]]></summary>
+        <author>
+            <name>Riding Rails</name>
         </author>
     </entry>
     <entry>
@@ -3824,79 +3844,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[現在、Javaは3年ごとに長期サポート（LTS：Long Term Support）版がリリースされています。最新のLTS版は今週リリースされたばかりのJava 17で、その1つ前のLTS版はちょうど3年前の2018年9月にリリースされたJ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: belongs_to関連付けに変更トラッキングが追加（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_16/111371</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_16/111371"/>
-        <updated>2021-09-16T08:30:58.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails7_change_tracking_belongs_to_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds change tracking methods for belongs&#95;to associations &#124; Saeloun Blog 原文公開日: 2021/07/27 原著者: Swaathi Kakarla サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston Rails 7: belongs_to関連付けに変更トラッキングが追加（翻訳） アップデートとしては地味でも、Rails [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_16/111371" data-wpel-link="internal" target="_self">Rails 7: belongs_to関連付けに変更トラッキングが追加（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CentOS 8とバイナリ互換のRHELクローン「MIRACLE LINUX 8.4」が無償公開へ。今後のバグフィクスやアップデートも無償。CentOS 8の代替を狙う]]></title>
-        <id>https://www.publickey1.jp/blog/21/centos_8rhelmiracle_linux_84centos.html</id>
-        <link href="https://www.publickey1.jp/blog/21/centos_8rhelmiracle_linux_84centos.html"/>
-        <updated>2021-09-16T06:22:43.000Z</updated>
-        <summary type="html"><![CDATA[サイバートラストは、CentOS 8とのバイナリ互換のLinux OS「MIRACLE LINUX 8.4」を、無償ライセンスで公開することを発表しました。合わせて、2030年1月までのアップデートとCentOSからの移行ツールなども無償提...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoftがプレビュー版でAzure　Spring Cloud Enterpriseを発表]]></title>
-        <id>https://www.infoq.com/jp/news/2021/09/azure-spring-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/09/azure-spring-cloud-enterprise/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-09-16T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、MicrosoftはAzure Spring Cloud Enterpriseを発表した。これは、Springのための新しいマネージドサービス層で、エンタープライズ開発者のニーズに合わせて最適化されている。この新しいエンタープライズ層はプレビューで利用できる。
- By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーティクル: クラウドネイティブアーキテクチャの導入 パート3: サービスオーケストレーションとサービスメッシュ]]></title>
-        <id>https://www.infoq.com/jp/articles/cloud-native-architecture-adoption-part3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/articles/cloud-native-architecture-adoption-part3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-09-16T02:26:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウドネイティブアーキテクチャの導入シリーズのこのパート3の記事では、マイクロサービスベースのアーキテクチャでのサービスの相互作用、適切なガバナンスのない分散システムで発生する一般的な課題、およびサービスオーケストレーションやサービスメッシュなどのパターンがこれらの課題に対処するのにどのように役立つかについて説明します。
- By Srini Penchikala, Marcio Esteves  Translated by Shoji Shigeki]]></summary>
-        <author>
-            <name>Srini Penchikala, Marcio Esteves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真の女性をワンクリックでポルノ女優に、「一線越えた」AIアプリ]]></title>
-        <id>https://www.technologyreview.jp/?p=256517</id>
-        <link href="https://www.technologyreview.jp/s/256517/a-horrifying-new-ai-app-swaps-women-into-porn-videos-with-a-click/"/>
-        <updated>2021-09-16T01:00:32.000Z</updated>
-        <summary type="html"><![CDATA[顔写真をブラウザーからアップロードするだけでポルノビデオを生成するWebアプリが登場した。ディープフェイク技術を使ったこのサイトはすでに利用できなくなっているが、研究者やフェイクポルノの元被害者からは「一線を越えた」との声が上がっている。]]></summary>
-        <author>
-            <name>Karen Hao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年9月第3週　そろそろAndroid 12がリリースされるので復習 ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202109/16</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202109/16"/>
-        <updated>2021-09-16T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年9月第3週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7.0 Alpha 1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively]]></title>
-        <id>https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/</id>
-        <link href="https://weblog.rubyonrails.org/2021/9/15/Rails-7-0-alpha-1-released/"/>
-        <updated>2021-09-15T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the first alpha release of Rails 7. It brings some very exciting new answers to how we do JavaScript, an awesome approach to at-work encryption with Active Record, SQL query origin logging, asynchronous query loading, exclusive autoloading through Zeitwerk, and much more.]]></summary>
-        <author>
-            <name>Riding Rails</name>
         </author>
     </entry>
 </feed>
