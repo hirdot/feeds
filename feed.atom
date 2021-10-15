@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T02:01:35.834Z</updated>
+    <updated>2021-10-15T03:15:08.933Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spring Starter、Quarkus、Micronautとのインテグレーションを強化したJobRunr 4.0]]></title>
+        <id>https://www.infoq.com/jp/news/2021/10/jobrunr-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/10/jobrunr-4-released/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-10-15T03:11:00.000Z</updated>
+        <summary type="html"><![CDATA[比較的新しいJVMジョブスケジューリングツールであるJobRunrがバージョン4.0をリリースした。Spring Boot Starterサポートが最新になり、QuarkusとMicronautとのインテグレーションが加えられた他、ジョブをキャッシュすることで以降の呼び出しを高速化可能かどうかをチェックするジョブ分析パフォーマンスモードが新たに用意されている。開発に関して、Ronald Dehuysser氏に話を聞いた。
+ By Andrea Messetti  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Andrea Messetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHubはいかにしてリレーショナルデータベースの信頼性と拡張性を改善したか]]></title>
+        <id>https://www.infoq.com/jp/news/2021/10/GitHub-database-partition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/10/GitHub-database-partition/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-10-15T03:09:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHubはこの数年間、サイトのリレーショナルデータベースをパーティション化し、データを複数の独立したクラスタに移行する作業を続けている。これにより、負荷を50パーセント削減すると同時に、データベース関連のインシデントを大幅に低減することができた、とGitHubエンジニアのThomas Maurer氏は述べている。
+ By Sergio De Simone  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Sergio De Simone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubescape - Jonathan Kaftzan氏(Armo VP)とのQ/A]]></title>
+        <id>https://www.infoq.com/jp/news/2021/10/kubescape/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/10/kubescape/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-10-15T03:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Armoは先月、Kubescapeのリリースを発表した。Kubescapeは、National Security Agency(NSA)とCybersecurity and Infrastructure Security Agency(CISA)の発行する"Kubernetes hardening guidance"に従って、Kubernetes環境の安全性をテストするためのツールである。
+ By Mostafa Radwan  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Mostafa Radwan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年10月15日　Debian 11 "Bullseye"ベースの「Devuan Chimaera 4.0」がリリース ── Linux Daily Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/linux_dt/202110/15</id>
+        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202110/15"/>
+        <updated>2021-10-15T02:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Devuanプロジェクトは10月14日，「Devuan Chimaera 4.0」安定版のリリースを発表した。]]></summary>
+        <author>
+            <name>階戸アキラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[データサイエンティストからCMOへのキャリアチェンジ。 データマーケター三井住友海上　木田浩理氏に訊く、 データを武器にしてキャリアをブレークスルーする方法]]></title>
         <id>https://data.wingarc.com/?p=36405</id>
