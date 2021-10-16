@@ -1864,6 +1864,15 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "d155c3e39421ff409e23e8e4874b5f5e3c4f94d7",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR 6.4 リリースバージョンは Apache Spark 3.1.2 をサポートするようになりました。これにより、Amazon EMR Runtime for Apache Spark でランタイムパフォーマンスが向上します。Amazon EMR 6.4 は、PrestoDB 0.254 の Presto ランタイムの改善と、メタストアのために AWS Glue Data Catalog を使用する場合の Apache Hive 3.1.2 のランタイムの改善を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/",
+          "publishedOn": "2021-10-15T23:30:58.000Z",
+          "wordCount": 345,
+          "title": "Amazon EMR 6.4 リリースバージョンが Apache Spark 3.1.2 のサポートを開始"
+        },
+        {
           "id": "1074343f71980ff0f521749c0588086bac681fd2",
           "author": "aws@amazon.com",
           "description": "AWS CloudFormation のお客様は、AWS Systems Manager の機能である Application Manager を通じて、運用データを表示し、CloudFormation スタックリソースに関連する問題を解決するためのアクションを迅速に実行できるようになりました。この機能を使用すると、お客様は CloudFormation スタックを介してプロビジョンされたリソースのアプリケーションビューを取得できます。デベロッパーは、Application Manager Dashboard から取得した運用メトリクス、ログ、アラート、およびコスト情報を使用して、ライフサイクル全体でスタックリソースを効率的に管理できます。",
@@ -3526,5 +3535,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.2"
+  "cliVersion": "1.11.3"
 }
