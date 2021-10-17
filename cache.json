@@ -199,15 +199,6 @@
           "publishedOn": "2021-09-20T21:30:58.000Z",
           "wordCount": 621,
           "title": "アップデートしたタイトル生成アルゴリズムをGoogleが再改良、titleタグ使用率が80%⇒87%"
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/?p=11615",
-          "author": "Kenichi Suzuki",
-          "description": "Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。あなたのページをグーグルが検索結果に出すときに表示するページタイトルが、勝手に書き換えられている！？ グーグルのタイトル生成アルゴリズム変更とその影響、そして対策を知っておこう。",
-          "link": "https://www.suzukikenichi.com/blog/seowatch20210917/",
-          "publishedOn": "2021-09-17T21:30:41.000Z",
-          "wordCount": 488,
-          "title": "「グーグル検索結果のページタイトル勝手に変えすぎ」問題勃発!? アルゴリズム更新で【海外＆国内SEO情報ウォッチ】"
         }
       ]
     },
@@ -3239,42 +3230,6 @@
           "publishedOn": "2021-09-17T22:10:53.000Z",
           "wordCount": 231,
           "title": "AWS Amplify が Amplify CLI コマンドの実行時にカスタムスクリプトを実行するためのコマンドフックを発表"
-        },
-        {
-          "id": "8f48577e91d5f16d16cd14d0f5419e166cedba42",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Marketplace は、コンサルティングパートナーが AWS Marketplace Management Portal (AMMP) で独立系ソフトウェアベンダー (ISV) の再販承認の機会からオファーを簡単に表示および作成できるようにする新機能を発表しました。今回のリリースにより、コンサルティングパートナーは、ISV が付与したすべての再販の機会を確認し、[Opportunity] (機会) から Consulting Partner Private Offer (CPPO) をすばやく作成できるようになりました。CPPO により、お客様は AWS Marketplace でコンサルティングパートナーから直接ソフトウェアソリューションを購入できます。カスタム条件と料金は公開されていません。再販機会の透明性が向上し、プライベートオファーの作成プロセスが合理化されたことで、コンサルティングパートナーは、取引の提供を加速しながらオペレーション負荷を軽減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-enhancements-marketplace-consulting-partner-private-offer/",
-          "publishedOn": "2021-09-17T21:56:53.000Z",
-          "wordCount": 240,
-          "title": "AWS は、AWS Marketplace コンサルティングパートナーによるプライベートオファーのセルフサービスエクスペリエンスの強化を発表しました。"
-        },
-        {
-          "id": "eef1f8a8ed0cab6c043561ae60cfc3ae2abea932",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 は、Red Hat Enterprise Linux (RHEL) バージョン 8、CentOS バージョン 8、および Fedora バージョン 34 以降を実行するオンデマンド Nitro ベースのインスタンス向けに休止機能をサポートするようになりました。休止機能を使用すると、EC2 インスタンスを完全に終了して再起動するのではなく、一時停止して後で再開することができます。インスタンスを再開すると、アプリケーションを中断したところから続行できるため、OS とアプリケーションを最初から再起動する必要がありません。休止機能は、アプリケーションの状態の再構築に時間がかかる場合 (デベロッパーのデスクトップなど)、またはスケールアウトの前にアプリケーションの起動手順を準備できる場合に役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ec2-hibernation-red-hat-enterprise-linux-8-centos-8-fedora-34/",
-          "publishedOn": "2021-09-17T21:50:53.000Z",
-          "wordCount": 273,
-          "title": "Amazon EC2 休止機能が Red Hat Enterprise Linux 8、CentOS 8、および Fedora 34 のサポートを追加"
-        },
-        {
-          "id": "8efd2a1ed0b758e139efeadbec68e7c3c852640c",
-          "author": "aws@amazon.com",
-          "description": "AWS Systems Manager Application Manager と CloudWatch Application Insights の新しいサービス統合により、AWS 上のアプリケーションをシームレスかつ簡単に管理およびモニタリングします。AWS Systems Manager Application Manager は、AWS Systems Manager のサービスであり、複数の AWS のサービスからのオペレーションに関する情報をまとめて、お客様が問題を調査および是正できるようにします。CloudWatch Application Insights は、お客様が AWS リソースで実行されているエンタープライズアプリケーションのモニタリングをセットアップし、トラブルシューティングすることを容易にするサービスです。2 つのサービスを一緒に利用することで、アプリケーションのヘルスの統合ビューと、問題を詳しく確認して迅速に解決する機能が提供されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/",
-          "publishedOn": "2021-09-17T21:40:54.000Z",
-          "wordCount": 274,
-          "title": "Amazon CloudWatch Application Insights と AWS Systems Manager Application Manager を組み合わせて、統合されたアプリケーション管理エクスペリエンスを提供"
-        },
-        {
-          "id": "9bf00eedfeb7a378dc82e7552c8de5c3cd6ec8ee",
-          "author": "aws@amazon.com",
-          "description": "本日より、Virtual Private Clouds (VPC) の Elastic IP アドレスの逆引き DNS をカスタマイズする機能が、16 の追加リージョンで利用可能になりました。これらの AWS リージョンは、米国東部 (バージニア北部)、米国西部 (北カリフォルニア、オレゴン)、アジアパシフィック (香港、大阪、ソウル、シンガポール、シドニー、東京)、欧州 (フランクフルト、アイルランド、ロンドン、パリ、ストックホルム)、中東 (バーレーン)、および南米 (サンパウロ) です。本日のリリースにより、この機能はすべての商用リージョンでご利用いただけるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/dns-elastic-ip-addresses-virtual-private-cloud/",
-          "publishedOn": "2021-09-17T21:34:53.000Z",
-          "wordCount": 267,
-          "title": "Elastic IP アドレスの逆引き DNS をカスタマイズする機能が Virtual Private Cloud のお客様向けに追加のリージョンで利用可能に"
         }
       ]
     },
