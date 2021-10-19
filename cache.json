@@ -231,6 +231,15 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2021/10/azure-functions-40-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "Microsoftは先頃、同社のファンクション・アズ・ア・サービス(FaaS)製品であるAzure Functions 4.0の公開プレビュー版リリースを発表した。新たにリリースされたランタイムでは、.NET 6.0がサポートされる。\n By Steef-Jan Wiggers  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2021/10/azure-functions-40-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-10-19T01:18:00.000Z",
+          "wordCount": 613,
+          "title": "MicrosoftがAzure Functions 4.0を発表、.NET 6をプレビューでサポート"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2021/10/jobrunr-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Andrea Messetti",
           "description": "比較的新しいJVMジョブスケジューリングツールであるJobRunrがバージョン4.0をリリースした。Spring Boot Starterサポートが最新になり、QuarkusとMicronautとのインテグレーションが加えられた他、ジョブをキャッシュすることで以降の呼び出しを高速化可能かどうかをチェックするジョブ分析パフォーマンスモードが新たに用意されている。開発に関して、Ronald Dehuysser氏に話を聞いた。\n By Andrea Messetti  Translated by h_yoshida _",
@@ -1703,6 +1712,33 @@
       "feedUrl": "https://gihyo.jp/dev/feed/rss2",
       "siteUrl": "https://gihyo.jp/dev",
       "articles": [
+        {
+          "id": "https://gihyo.jp/dev/serial/01/iterative-software-development/0002",
+          "author": "伊藤俊廷",
+          "description": "前回はイテレーション的ソフトウェア開発が重要である理由について紹介しました。今回は，コードレビューの観点からイテレーションの重要性について考えてみます。",
+          "link": "https://gihyo.jp/dev/serial/01/iterative-software-development/0002",
+          "publishedOn": "2021-10-19T00:49:00.000Z",
+          "wordCount": 360,
+          "title": "第2回　小さなマージリクエストが優れたレビューの鍵となる理由 ── 細分化とコードレビュー見直しによるイテレーション的ソフトウェア開発のメリット"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0157",
+          "author": "北川健太郎",
+          "description": "MySQLではcharacter setやcollationをグローバル，データベース，テーブルやカラムレベルで設定することができます。今回はMySQLのデフォルトcollationの注意点を紹介したいと思います。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0157",
+          "publishedOn": "2021-10-19T00:15:20.000Z",
+          "wordCount": 845,
+          "title": "第157回　MySQLのデフォルトcollationの注意点 ── MySQL道普請便り"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006902",
+          "author": "下野寿之",
+          "description": "今回のテーマは「表形式データを操るUNIXシェル型Perl製コマンド群」。（2）では，表データの把握に役立つコマンドを紹介します。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006902",
+          "publishedOn": "2021-10-19T00:15:00.000Z",
+          "wordCount": 497,
+          "title": "第69回　表形式データを操るUNIXシェル型Perl製コマンド群 ―ビッグデータ時代の汎用的なデータ整備と分析のために（2） ── Perl Hackers Hub"
+        },
         {
           "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/006901",
           "author": "下野寿之",
@@ -3377,7 +3413,26 @@
       "title": "MySQL - New Product Releases",
       "feedUrl": "https://dev.mysql.com/downloads/rss.php",
       "siteUrl": "https://dev.mysql.com/downloads/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dev.mysql.com/downloads/workbench/8.0.html",
+          "author": null,
+          "description": "MySQL Workbench 8.0 (8.0.27 GA, published on Tuesday, 19 Oct 2021)",
+          "link": "https://dev.mysql.com/downloads/workbench/8.0.html",
+          "publishedOn": "2021-10-19T00:00:00.000Z",
+          "wordCount": 483,
+          "title": "MySQL Workbench 8.0"
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/connector/j/8.0.html",
+          "author": null,
+          "description": "Connector/J 8.0 (8.0.27 GA, published on Tuesday, 19 Oct 2021)",
+          "link": "https://dev.mysql.com/downloads/connector/j/8.0.html",
+          "publishedOn": "2021-10-19T00:00:00.000Z",
+          "wordCount": 295,
+          "title": "Connector/J 8.0"
+        }
+      ]
     },
     {
       "title": "Riding Rails",
