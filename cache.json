@@ -1977,6 +1977,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "671899499f7c6391b276ce82c8747f8b1100ede7",
+          "author": "aws@amazon.com",
+          "description": "本日、当社はコンサルティングのための AWS ネットワークコンピテンシーコンサルティングパートナーを発表しました。これらのパートナーは、一貫性のあるネットワークとセキュリティポリシーの開発、およびプライベートバックボーンとクラウドコアを介してトラフィックをルーティングする新しい方法を提供するソリューションに関する深い専門知識を有しています。AWS ネットワークコンピテンシーコンサルティングパートナーは、お客様がクラウドへの安全なイングレスと便利なオンランプを提供して、レイテンシーを軽減し、可用性を向上させ、アプリケーションエクスペリエンスを強化し、クラウドネットワークの可視性とコントロールを提供するのを支援します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-networking-competency-partners/",
+          "publishedOn": "2021-10-20T03:32:37.000Z",
+          "wordCount": 219,
+          "title": "AWS ネットワークコンピテンシーコンサルティングパートナーのご紹介"
+        },
+        {
+          "id": "77397e677fd1082fcfddbb7673b26c15234b832f",
+          "author": "aws@amazon.com",
+          "description": "AWS のサービスとクラウドアプリケーション間でお客様がデータを安全に転送するのに役立つフルマネージド統合サービスである Amazon AppFlow は、AWS アフリカ (ケープタウン) リージョンで利用可能になりました。AppFlow を利用すると、Salesforce、SAP、Zendesk、Slack、および ServiceNow などの SaaS (Software-as-a-Service) アプリケーションと、Amazon S3 や Amazon Redshift などの AWS のサービスの間で、たった数回クリックするだけで、エンタープライズ規模でデータフローを実行できます。AWS リージョン表を参照して、Amazon AppFlow が利用できるリージョンをご確認ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/",
+          "publishedOn": "2021-10-20T03:30:58.000Z",
+          "wordCount": 231,
+          "title": "Amazon AppFlow が AWS アフリカ (ケープタウン) リージョンで利用可能に"
+        },
+        {
           "id": "1102df66346225b6b346ca383e69d58e0c9f3ef1",
           "author": "aws@amazon.com",
           "description": "FreeRTOS は、カーネルに対称型マルチプロセッシング (SMP) サポートを追加します。これにより、FreeRTOS ベースのアプリケーションを設計するデベロッパーがマルチコアマイクロコントローラーの SMP 機能を利用することが可能となります。2 つ以上の同一のプロセッサコアが同じメモリを共有するマルチコアマイクロコントローラを使用すると、オペレーティングシステムはコア間でタスクを分散して、アプリケーションの必要に応じてプロセッサの負荷を分散できます。これにより、アプリケーションはマルチコアマイクロコントローラーのリソース使用率を最適化できます。",
@@ -3496,33 +3514,6 @@
           "publishedOn": "2021-09-21T05:30:56.000Z",
           "wordCount": 223,
           "title": "AWS CodeCommit が、アフリカ (ケープタウン) リージョンで利用可能に"
-        },
-        {
-          "id": "e904106db6ad2534034b5a6682877d4838cc4922",
-          "author": "aws@amazon.com",
-          "description": "ビジネスアプリケーションのヘルスのモニタリングと管理をセットアップがさらに簡単になり、リソースグループがなくても、アカウント内のアプリケーションやリソースを検出し、それらのモニタリングを自動的にセットアップして、セットアップを完了したとき、または CloudWatch Application Insights を開いたときに表示されるサマリーヘルスダッシュボードでそのヘルスを一目で確認できるようになりました。CloudWatch Application Insights は、お客様が AWS リソースで実行されているエンタープライズアプリケーションのモニタリングをセットアップし、トラブルシューティングすることを容易にするサービスです。この新しい機能は、アカウント内のすべてのリソースのモニタリングのセットアップを真にワンステッププロセスにします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/",
-          "publishedOn": "2021-09-20T15:45:53.000Z",
-          "wordCount": 238,
-          "title": "Amazon CloudWatch アプリケーションインサイトが、アカウントアプリケーションの自動検出と新しいヘルスダッシュボードを追加"
-        },
-        {
-          "id": "ab0ed76d3c0b32df7e982ad72fd3d0faf1f1a4cb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) は、MySQL、MariaDB、および PostgreSQL データベース用の 　 AWS Graviton2 ベースの X2g データベース (DB) インスタンスのサポートを開始しました。X2g DB インスタンスは、R6g/R5 インスタンスに対して vCPU あたり 2 倍のメモリを提供し、Amazon RDS for MySQL、MariaDB、および PostgreSQL データベースでは、メモリの GiB あたりのコストが最も低くなります。X2g.16xl DB インスタンスは、MySQL、MariaDB、および PostgreSQL データベース用の Amazon RDS DB インスタンスで以前に利用できたものより 33％ 多いメモリを備えているため、メモリを大量に消費する DB ワークロードには最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-x2g-mysql-mariadb-postgresql/",
-          "publishedOn": "2021-09-20T15:39:53.000Z",
-          "wordCount": 356,
-          "title": "Amazon RDS が MySQL、MariaDB、および PostgreSQL データベース用の X2g インスタンスのサポートを開始。"
-        },
-        {
-          "id": "0def91cf90513f2c5d80bbb54b55802f1f7e079f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Web Services (AWS) は、Build on AWS の一般提供を発表しました。これは、スタートアップが AWS でインフラストラクチャを数分で構築できるように設計された AWS Activate の新しいサービスです。Build on AWS は、インフラストラクチャテンプレートとリファレンスアーキテクチャのコレクションで、スタートアップ向けに特に厳選されたさまざまなソリューションを取り扱っています。これらのソリューションは、AWS のエキスパートによって構築され、AWS のベストプラクティスに基づいています。これにより、スタートアップは、基盤となるクラウドインフラストラクチャに AWS ベストプラクティスを使用することを認識して、コア製品の構築に集中することができます。Build on AWS のリリースにより、スタートアップの業界やユースケースに合わせて調整されたスケーラブルで、信頼性が高く、セキュアかつ最適化されたインフラストラクチャを起動する最初のステップが簡素化されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/announcing-build-aws-startups/",
-          "publishedOn": "2021-09-20T15:33:53.000Z",
-          "wordCount": 250,
-          "title": "スタートアップ向け Build on AWS を発表"
         }
       ]
     },
