@@ -1977,6 +1977,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "1102df66346225b6b346ca383e69d58e0c9f3ef1",
+          "author": "aws@amazon.com",
+          "description": "FreeRTOS は、カーネルに対称型マルチプロセッシング (SMP) サポートを追加します。これにより、FreeRTOS ベースのアプリケーションを設計するデベロッパーがマルチコアマイクロコントローラーの SMP 機能を利用することが可能となります。2 つ以上の同一のプロセッサコアが同じメモリを共有するマルチコアマイクロコントローラを使用すると、オペレーティングシステムはコア間でタスクを分散して、アプリケーションの必要に応じてプロセッサの負荷を分散できます。これにより、アプリケーションはマルチコアマイクロコントローラーのリソース使用率を最適化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/",
+          "publishedOn": "2021-10-20T02:31:55.000Z",
+          "wordCount": 229,
+          "title": "FreeRTOS が対称型マルチプロセッシング (SMP) のサポートを追加"
+        },
+        {
+          "id": "16ff083a505f26d01f76f9dca656987510ea2211",
+          "author": "aws@amazon.com",
+          "description": "Porting Assistant for .NET は、Windows Communication Foundation (WCF)、Open Web Interface for .NET (OWIN)、および ASP.NET System.Web.Mvc 名前空間の評価と .NET Core 3.1 または .NET 5 への移植をサポートするようになりました。2021 年 2 月の Core WCF プロジェクトの一般提供リリースに続いて、Porting Assistant は、WCF アプリケーションを Core WCF に移植するためのレコメンデーションを評価および提供できるようになりました。また、OWIN および System.Web.Mvc 名前空間の設定の評価と .NET Core 3.1 または .NET 5 への移植もサポートしています。デベロッパーは、既存の Porting Assistant for .NET ツールまたは Porting Assistant for .NET Visual Studio IDE 拡張機能を使用して開始できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/",
+          "publishedOn": "2021-10-20T02:31:07.000Z",
+          "wordCount": 294,
+          "title": "Porting Assistant for .NET が WCF、OWIN、および System.Web.Mvc アプリケーションの評価と移植のサポートを追加"
+        },
+        {
           "id": "c70ddebffedc40c3aa7943013680de35e1e2419c",
           "author": "aws@amazon.com",
           "description": "Amazon Forecast Weather Index が中米、中東、およびアフリカの各リージョンで利用できるようになったことをお知らせいたします。Weather Index を使用すれば、地域の最新の気象情報をワンクリックで自動的に需要予測に取り込むことで、予測の精度を高めることができます。追加費用は発生しません。気象条件は、消費者の需要パターン、製品の商品化の決定、人員配置の要件、およびエネルギー消費のニーズに影響を与えます。ただし、需要予測のためにライブ気象情報を取得、クリーニング、および効果的に使用することは困難であり、継続的なメンテナンスが必要となります。今回のリリースにより、北米、南米、ヨーロッパ、アジアパシフィックで Weather Index をご利用になっていたお客様は、需要予測にワンクリックで中米、中東、およびアフリカの 14 日間の天気予報も含めることができるようになりました。",

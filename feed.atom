@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-20T02:23:05.635Z</updated>
+    <updated>2021-10-20T03:02:44.480Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[すべての人が等しく情報にアクセスできることを目指し、国際規格であるDAISY（Digital Accessible Information System：アクセシブルな情報システム）規格の開発・維持・普及のために設立された国際団体「DAIS...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeRTOS が対称型マルチプロセッシング (SMP) のサポートを追加]]></title>
+        <id>1102df66346225b6b346ca383e69d58e0c9f3ef1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/"/>
+        <updated>2021-10-20T02:31:55.000Z</updated>
+        <summary type="html"><![CDATA[FreeRTOS は、カーネルに対称型マルチプロセッシング (SMP) サポートを追加します。これにより、FreeRTOS ベースのアプリケーションを設計するデベロッパーがマルチコアマイクロコントローラーの SMP 機能を利用することが可能となります。2 つ以上の同一のプロセッサコアが同じメモリを共有するマルチコアマイクロコントローラを使用すると、オペレーティングシステムはコア間でタスクを分散して、アプリケーションの必要に応じてプロセッサの負荷を分散できます。これにより、アプリケーションはマルチコアマイクロコントローラーのリソース使用率を最適化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porting Assistant for .NET が WCF、OWIN、および System.Web.Mvc アプリケーションの評価と移植のサポートを追加]]></title>
+        <id>16ff083a505f26d01f76f9dca656987510ea2211</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/"/>
+        <updated>2021-10-20T02:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Porting Assistant for .NET は、Windows Communication Foundation (WCF)、Open Web Interface for .NET (OWIN)、および ASP.NET System.Web.Mvc 名前空間の評価と .NET Core 3.1 または .NET 5 への移植をサポートするようになりました。2021 年 2 月の Core WCF プロジェクトの一般提供リリースに続いて、Porting Assistant は、WCF アプリケーションを Core WCF に移植するためのレコメンデーションを評価および提供できるようになりました。また、OWIN および System.Web.Mvc 名前空間の設定の評価と .NET Core 3.1 または .NET 5 への移植もサポートしています。デベロッパーは、既存の Porting Assistant for .NET ツールまたは Porting Assistant for .NET Visual Studio IDE 拡張機能を使用して開始できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
