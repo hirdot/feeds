@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-21T10:02:30.660Z</updated>
+    <updated>2021-10-21T22:02:17.630Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google検索の連続スクロールの日本への導入はいつ？ 表示回数やCTRへの影響は？]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11685</id>
+        <link href="https://www.suzukikenichi.com/blog/what-is-plan-to-roll-continuous-scroll-out-to-japan-and-how-does-it-affect-imperssion-and-ctr/"/>
+        <updated>2021-10-21T21:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Google は、米国でのモバイル検索に連続スクロール (Continuous scrolling) を導入した。米国以外での導入はどうなっているのだろうか？ また、検索結果での表示回数や CTR にはどんな影響があるのだろうか？]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK がメッセージングチャネルフローを発表]]></title>
+        <id>33350c560af8e099efac6e8074ec9495fb4eb5b4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/"/>
+        <updated>2021-10-21T17:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。本日より、デベロッパーは、Amazon Chime SDK でチャネルフローを使用して、メッセージングチャネルのメンバーに配信される前に、送信中のメッセージに対してビジネスロジックを実行できるようになりました。チャネルフローを使用すると、メッセージから政府発行の ID 番号や電話番号などの機密データ、または罵り言葉を、配信前に削除するフローを作成できます。これは、企業のコミュニケーションポリシーやその他のコミュニケーションガイドラインの遵守に役立つ場合があります。結果を参加者に返信する前に投票への応答の集計などの機能を実行するために、チャネルフローを使用することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 14 RC 1 が Amazon RDS データベースプレビュー環境で利用可能に]]></title>
+        <id>d49410d0906e8aae370238920815017b213727a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/"/>
+        <updated>2021-10-21T17:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS データベースプレビュー環境での PostgreSQL 14 RC 1 の利用が可能になり、お客様に Amazon Relational Database Service (Amazon RDS) でリリース候補の PostgreSQL 14 をテストしていただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Elemental MediaConvert が IMSC 1.1および TTML 字幕テキストのリッチテキストレンダリングのサポートを開始]]></title>
+        <id>164945d33cc98a6b9c46f522d8cfece462cbf3f9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/"/>
+        <updated>2021-10-21T17:04:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Elemental MediaConvert は、IMSC 1.1 テキストプロファイルの字幕のリッチテキストレンダリングと TTML 字幕形式をサポートするようになりました。これらの形式は両方とも、テキストサイズ、位置、両端揃え、色、スタイル、および影付きを含む詳細なフォーマットを可能にします。多くの視聴者にとって、画面上の字幕は視聴体験の重要な部分であり、この機能により、字幕の作成者は画面上でのテキストのレンダリング方法をよりクリエイティブに制御できます。さらに、IMSC と TTML では、右から左へのテキスト、ルビ、垂直テキストなど、テキストローカリゼーションのためのより多くのオプションを使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新の AWS ドライバーで更新された新しいイメージを作成するための Amazon WorkSpaces API の発表]]></title>
+        <id>22a4b8354008b63bad76c253e6b2a3e2f1b345f1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/"/>
+        <updated>2021-10-21T17:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon WorkSpaces は、WorkSpaces イメージを最新の AWS ドライバーで最新の状態に保つために使用できる API を提供するようになりました。これまでは、WorkSpaces インスタンスを手動で起動し、ドライバーの更新をインストールして新しいイメージを作成することにより、WorkSpaces イメージを最新の状態に保っていました。このリリースでは、WorkSpaces API を使用して、ご利用のイメージのために最新の AWS ドライバーが利用可能かどうかを確認し、それらの更新をインストールして、更新されたイメージを作成できます。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。WorkSpaces を最新の AWS ドライバーで最新の状態に保つことで、AWS が提供する最新のインスタンスタイプやその他のインフラストラクチャコンポーネントの利点を活用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、「Windows Subsystem for Android」をWindows 11のWindows Insider Program向けに配布開始、KindleなどのAndroidアプリが実行可能に]]></title>
+        <id>https://www.publickey1.jp/blog/21/windows_subsystem_for_androidwindows_11windows_insider_programkindleandroid.html</id>
+        <link href="https://www.publickey1.jp/blog/21/windows_subsystem_for_androidwindows_11windows_insider_programkindleandroid.html"/>
+        <updated>2021-10-21T15:32:14.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、一般提供前のWindows 11を配布するWindows Insder Programにおいて、Windows 11でAndroidアプリを実行可能にする「Windows Subsystem for Android」の提供...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: ActiveRecord::Base.loggerがclass_attributeで7倍高速化（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_10_21/112832</id>
@@ -3911,67 +3971,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_22/111922" data-wpel-link="internal" target="_self">Rails 7 Alpha 1、2がリリースされました（リリースノート翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On に加え、IAM ベースの認証または IAM フェデレーションを使用して、Amazon EMR Studio のユーザーの認証が可能に]]></title>
-        <id>feb00b51e0df4cd98aa18bffc387f4e4ce9c1fbd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/"/>
-        <updated>2021-09-22T08:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたデータエンジニアリングおよびデータサイエンスアプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。今日は、EMR Studio の追加の認証オプションを紹介します。今回のリリース以前は、EMR Studio にログインするために、アイデンティティプロバイダー (IdP) と AWS Single Sign-On (AWS SSO) を統合する必要がありました。今回のリリースでは、EMR Studio にログインするために、AWS SSO の利用に加えて、AWS Identity and Access Management (IAM) 認証の利用、または企業の認証情報を用いた IAM フェデレーションの利用が選択できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: JOINすべきかどうか、それが問題だ &#8212; #includesの振舞いを理解する（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_22/45650</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_22/45650"/>
-        <updated>2021-09-22T08:30:36.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/09/rails_to_join_or_not_includes_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: To join or not to join? An act of #includes 原文 公開日: 2017/08/07 著者: Tiago Farias 原文ではシェークスピアの古典劇『ハムレット』のセリフが多数引用されています。引用されたセリフのリンクをマウスオーバーするとシェークスピアの原文がポップアップします。 actの基本的な意味は「演技（する）」「（舞台の）場面」であり、タイトルはこれにかかっています。 2017/09/25: 初版公開 2021/09/22: 更新 訳注 k0kubunさんの以下の記事も合わせて読むことをおすすめします。 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_22/45650" data-wpel-link="internal" target="_self">Rails: JOINすべきかどうか、それが問題だ — #includesの振舞いを理解する（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年9月22日　背中は語る ── 帰ってきた『技評ねこ部通信』]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0922</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202109/0922"/>
-        <updated>2021-09-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ねこ部は今，背中が掻けません。腕が背中に回らないからです。そういうとき，ねこの手を借りてみたいですが，血を見そうなので，やっぱりやめておきます。]]></summary>
-        <author>
-            <name>gihyo.jp：LIFESTYLE STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経営者、DX推進担当者必見！｜「DX・データ活用」イベント・セミナー5選｜2021年10月版]]></title>
-        <id>https://data.wingarc.com/?p=35293</id>
-        <link href="https://data.wingarc.com/seminarlist_202110-35293"/>
-        <updated>2021-09-22T01:23:58.000Z</updated>
-        <summary type="html"><![CDATA[企業がデジタル技術を利用して業務や経営を根底から変化させる取り組みをDX（デジタル・トランスフォーメーション）といいます。 DXは企業の意識改革や経営戦略などの概念ですが、これらを実現するにはデータを活用するための基盤・ […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第684回　UbuntuからRaspberry Pi Picoを使う ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0684</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0684"/>
-        <updated>2021-09-22T00:43:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年の1月にRaspberry Piシリーズに「Raspberry Pi Pico」が追加されました。「マイコンボード」と呼ばれるカテゴリーの製品です。今回はUbuntu上でPico用のファームウェアをビルドし，Picoに書き込み，起動する手順を説明します。]]></summary>
-        <author>
-            <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年9月第4週　独自チップはPixel 6がはじめてではない ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202109/22</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202109/22"/>
-        <updated>2021-09-22T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年9月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
 </feed>
