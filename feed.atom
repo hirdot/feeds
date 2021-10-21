@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-21T08:02:51.366Z</updated>
+    <updated>2021-10-21T09:02:23.647Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: ActiveRecord::Base.loggerがclass_attributeで7倍高速化（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_21/112832</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_21/112832"/>
+        <updated>2021-10-21T08:30:06.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails7_activerecord_base_logger_optimization_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 moves ActiveRecord::Base&#46;logger to a class&#95;attribute leading to a 7x speed improvement &#124; Saeloun Blog 原文公開日: 2021/08/10 原著者: Swaathi Kakarla サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston Rails 7: ActiveRecord::Bas [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_21/112832" data-wpel-link="internal" target="_self">Rails 7: ActiveRecord::Base.loggerがclass_attributeで7倍高速化（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経営者、DX推進担当者必見！ 「DX・データ活用」イベント・セミナー5選｜2021年11月版]]></title>
         <id>https://data.wingarc.com/?p=36593</id>
@@ -3981,26 +3992,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[同一ドメインから 2 つのページが検索結果に出るときに、2 つ目をインデントして表示するように Google は表示形式を変更した。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 Access Points の Amazon CloudWatch リクエストメトリクスが利用可能に]]></title>
-        <id>f6b7acf47fdb23ac2fc09b91fecde85336208d89</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/"/>
-        <updated>2021-09-21T20:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Access Points のお客様は、Amazon CloudWatch リクエストメトリクスを設定できるようになりました。今回のリリースにより、バケット内のすべてのオブジェクトについて S3 リクエストメトリクスを生成できるようになりました。または、プレフィックス、オブジェクトタグ、またはアクセスポイントの特定の組み合わせについてメトリクスを生成できます。S3 Access Points を使用することで、共有データセットに対する適切なアクセスコントロールを簡単に構築でき、アクセスポイントによるフィルタリングのサポートにより、アクセスコントロール別にリクエストパターンをモニタリングできるようになりました。S3 マネジメントコンソール、SDK、API、または AWS CloudFormation を使用して、S3 リクエストメトリクスを有効にできます。メトリクスは 1 分間隔で利用可能であり、Amazon S3 コンソールまたは Amazon CloudWatch コンソールの両方でモニタリングできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS RoboMaker がシミュレーションでコンテナイメージのサポートを開始]]></title>
-        <id>b18e0ae6da492d1e17451c1c7874ede5ad2b213f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/08/aws-robomaker-supports-container-images-simulation/"/>
-        <updated>2021-09-21T20:31:05.000Z</updated>
-        <summary type="html"><![CDATA[お客様がクラウドスケールでロボットアプリケーションをシミュレートできるようにするサービスである AWS RoboMaker は、コンテナイメージをサポートするようになりました。この機能により、お客様は、RoboMaker でシミュレーションを実行するためのコードを構築およびパッケージ化するために、既に使い慣れているコンテナツールを使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
