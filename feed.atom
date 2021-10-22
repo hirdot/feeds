@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T03:02:49.845Z</updated>
+    <updated>2021-10-22T04:02:56.136Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -1123,6 +1123,17 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[Googleは、Kubernetesをベースにマルチクラウド環境を構築するAnthosで、仮想マシンも管理対象に組み入れることができる新機能「Anthos for VMs」プレビュー版を発表しました。 Anthos for VMsAntho...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby正規表現の後読みでは長さ不定の量指定子は原則使えない]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_14/49115</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_14/49115"/>
+        <updated>2021-10-14T10:43:30.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/12/ruby_regexp_lookbehind_quantifiers_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2017/12/05: 初版公開 2021/10/14: 更新 こんにちは、hachi8833です。「ライフ」カテゴリの記事でアドベント書きたかったのですが、こちらの小ネタにします。 正規表現の先読みと後読みについては「正規表現の先読み・後読み（look ahead、look behind）を活用しよう」をご覧ください。 以下は基本的にRubyの正規表現（onigmo）を使います。他の正規表現ライブラリではこのとおりにならない可能性があります。 Rubyの正規表現の後読みは長さを不定にできない 以下の文字列が対象です。 word work wording working interesting part [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_14/49115" data-wpel-link="internal" target="_self">Ruby正規表現の後読みでは長さ不定の量指定子は原則使えない</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
