@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T08:03:44.964Z</updated>
+    <updated>2021-10-22T09:02:14.128Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager OpsCenter で OpsItems を一括編集]]></title>
+        <id>718e5dad32928ab66d87a7b25dc826e7ebb60004</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/"/>
+        <updated>2021-10-22T08:34:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager は OpsCenter 内で作業項目の一括編集をサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto 10 月の四半期更新情報]]></title>
+        <id>634933e1cfe9d41db6021cdf1f2aa7422c9d5f59</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-corretto-october-updates/"/>
+        <updated>2021-10-22T08:33:13.000Z</updated>
+        <summary type="html"><![CDATA[10 月 19 日、Amazon は Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 11.0.13 および 8.312 のダウンロードが可能となりました。Amazon Corretto 17 のアップデートは、OpenJDK 17 のリポジトリにリリースがタグ付けされ次第まもなく提供されます。Amazon Corretto は、マルチプラットフォームで、本番稼働に対応した、無料の OpenJDK ディストリビューションです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を発表 (プレビュー)]]></title>
+        <id>fdc75d72aca22775b6d0fa6e54b3b45885260320</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/"/>
+        <updated>2021-10-22T08:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange のパブリックプレビューを発表します。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけて購読し、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスを付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager Fleet Manager がマネージドインスタンスのアドバンストフィルタリングを提供]]></title>
+        <id>f7fc7059d425d81aa93e89cc6e05e87e89aba889</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/"/>
+        <updated>2021-10-22T08:31:37.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager (SSM) の機能である、IT 管理者によるリモートサーバー管理プロセスの合理化とスケールを支援する Fleet Manager により、今回、マネージドインスタンスのレポートとフィルタリングエクスペリエンスが強化されました。この新機能では、データに応じたフィルタリングのオプションが表示されるので、推測する必要はありません。フィルタリングの値を記憶したり、マニュアルで入力したりする必要がなくなりました。インスタンス ID や IP アドレスなど、適用可能なフィルタリング条件が自動的に入力されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS 料金計算ツールが Amazon CloudFront をサポート]]></title>
+        <id>dee3ab00a1180c148a33d5e486aacfa17e772507</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/"/>
+        <updated>2021-10-22T08:30:49.000Z</updated>
+        <summary type="html"><![CDATA[AWS 料金計算ツールが Amazon CloudFront をサポートするようになりました。CloudFront ワークロードのコストを見積もります。これには主にデータ転送とリクエストに関連するコストが含まれています。この計算ツールは、データ転送量に基づいてリクエスト数を見積もるためのヒントを提供するだけでなく、さまざまな使用階層や CloudFront のリージョンごとのコストを詳細に表示します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RubyでHTTPサーバーをゼロから手作りする（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_22/112296</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_22/112296"/>
+        <updated>2021-10-22T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/ruby_http_server_from_scratch_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Ruby HTTP server from the ground up 原文公開日: 2021/07/03 原著者: Dmitry Ishkov RubyでHTTPサーバーをゼロから手作りする（翻訳） 何かを始めるときはとりあえず動かしてみることが大事ですが、プログラミングをレベルアップするには、それまで慣れ親しんできた抽象概念より数段下の裏舞台を知っておくことも肝心です。 Web開発ではHTTPのしくみを理解しておくことが重要です。そのためにはHTTPサーバーを自作するのが一番です。 そもそもHTTPとは HTTPはTCP上で実装されたプレーンテキスト [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_22/112296" data-wpel-link="internal" target="_self">RubyでHTTPサーバーをゼロから手作りする（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年10月22日　ちゃとらーず ── 帰ってきた『技評ねこ部通信』]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202110/1022</id>
