@@ -3325,51 +3325,6 @@
           "publishedOn": "2021-09-25T12:30:56.000Z",
           "wordCount": 273,
           "title": "AWS Ground Station が Licensing Accelerator を発表"
-        },
-        {
-          "id": "65651f8a5b8ef1124a393b0479c48ba63001f5b5",
-          "author": "aws@amazon.com",
-          "description": "Amazon Forecast では、任意の精度メトリクスを選択して、任意の精度メトリクスの予測子のトレーニングを最適化するよう AutoML に指示できるようになりました。さらに、予測子を評価するために、平均重み付き分位損失 (平均 wQL)、平均絶対パーセント誤差 (MAPE)、および平均絶対スケール誤差 (MASE) の 3 つの精度メトリクスを追加しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/",
-          "publishedOn": "2021-09-24T19:00:50.000Z",
-          "wordCount": 235,
-          "title": "任意の精度メトリクスを使用して Amazon Forecast モデルを最適化する"
-        },
-        {
-          "id": "b06c26c1286c4563f018f643ee3affbefdcaf3fe",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect チャットでは、チャットのユーザーインターフェイスでお客様の表示名とコンタクト属性を渡すことができるようになったことにより、チャットのカスタマーエクスペリエンスをパーソナライズすることができるようになりました。コンタクト属性には、お客様 ID、ロイヤルティステータス、さらにはお客様がチャットを開始したときに見ていたウェブページについてのコンテキストなどのコンタクトに関連するメタデータが含まれています。コンタクト属性は、Amazon Connect のフローで利用できるため、プラチナレベルのお客様を優先したり、関連するお客様情報を表示してエージェントのスクリーンポップを実行したりするなど、ユニークで魅力的なカスタマーエクスペリエンスを簡単に実現することができます。さらに、チャットのユーザーインターフェイスを使用してお客様の名前を共有することもできます。これにより、対話中にエージェントとお客様の両方にお客様の名前が表示され、エージェントは会話をパーソナライズすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/",
-          "publishedOn": "2021-09-24T18:33:25.000Z",
-          "wordCount": 209,
-          "title": "Amazon Connect チャットは、チャットのユーザーインターフェイスを介したお客様の表示名とコンタクト属性の受渡しサポートを開始"
-        },
-        {
-          "id": "524a54697a0cee6bba12f2b7c8044fd3a684e3f4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Detective は、Amazon Simple Storage Service (S3) と Amazon GuardDuty の DNS 関連の検索結果に対するセキュリティ調査のサポートを拡大し、GuardDuty からのすべての検出を完全にカバーすることができます。これに伴い、Detective は、セキュリティアナリストが、刷新されたユーザーエクスペリエンスを用いてエンティティや行動を調査することを、従来よりも容易にしました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-detective-s3-dns/",
-          "publishedOn": "2021-09-24T18:32:37.000Z",
-          "wordCount": 282,
-          "title": "Amazon Detective が S3 と DNS の結果タイプをサポートし、検索結果詳細を追加"
-        },
-        {
-          "id": "dfac215d8ff06886002ad74504698c465b78f8f3",
-          "author": "aws@amazon.com",
-          "description": "AWS Elastic Beanstalk では、Elastic Beanstalk の環境に合わせた動的なインスタンスタイプの選択が可能になりました。つまり、Elastic Beanstalk は、さまざまなアプリケーションを実行するために、互換性のあるすべてのインスタンスタイプを自動的にフェッチするということです。動的なインスタンスタイプでは、アプリケーションのパフォーマンスを最適化するために、最適なインスタンスタイプを選択することができます。例えば、機械学習のアプリケーションがある場合、p3 や p4d などの高速コンピューティングインスタンスタイプを選択することで、パフォーマンスを最適化することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/",
-          "publishedOn": "2021-09-24T18:31:48.000Z",
-          "wordCount": 224,
-          "title": "AWS Elastic Beanstalk が動的インスタンスタイプの選択をサポート"
-        },
-        {
-          "id": "b731a17bdc6cd0bc6df57115d21ec1e943c71590",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift データ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を取り除いて、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。 同じ AWS アカウント内のクラスター間でデータを共有する機能は既に AWS GovCloud (米国) リージョンで利用可能です。異なる AWS アカウントの Redshift クラスター間でのデータ共有も AWS GovCloud (米国) リージョンで一般的に利用可能になりました。クロスアカウントのデータ共有は、すべての Amazon Redshift RA3 ノードタイプでサポートされています。Amazon Redshift クラスターでクロスアカウントのデータ共有を使用する際に追加コストは発生しません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/",
-          "publishedOn": "2021-09-24T18:30:58.000Z",
-          "wordCount": 245,
-          "title": "Amazon Redshift クロスアカウントのデータ共有が、AWS GovCloud (米国) リージョンにおいて一般的に利用可能に"
         }
       ]
     },
