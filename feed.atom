@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T05:02:18.043Z</updated>
+    <updated>2021-10-26T06:03:17.477Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新しい AWS ソリューション実装: Web Client for AWS Transfer Family]]></title>
+        <id>235f609b121e2657f920a2cb48beb6127a901b04</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/"/>
+        <updated>2021-10-26T05:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Web Client for AWS Transfer Family は、Secure Shell File Transfer Protocol (SFTP) で AWS Transfer を使用するための直感的なウェブブラウザインターフェースとなります。AWS Transfer Family の採用に加えて、企業 SFTP 環境へのシンプルなウェブポータルを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fault Injection Simulator がスポットインスタンス中断のサポートを開始]]></title>
+        <id>cbf1520b1a0d310a06ec0a8954d49839c40c5dcd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/"/>
+        <updated>2021-10-26T05:30:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS Fault Injection Simulator (FIS) を使用して、Amazon EC2スポットインスタンスの割り込みをスポットインスタンスワークロードに設定できるようになりました。スポットインスタンスを使用すると、Amazon EC2 で容量を戻す必要があるときにスポットインスタンスを返す代わりに、Amazon EC2 でコンピューティングワークロードを大幅な割引で実行できます。スポットインスタンスが中断される可能性は常にあるため、アプリケーションがスポットインスタンスの中断に備えていることを確認する必要があります。ただし、これまでは、アプリケーションの応答方法を評価および改善するために、スポットインスタンスの中断の状況を再現することは困難でした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Fault Injection Simulator がスポットの中断のサポートを開始]]></title>
         <id>003dcb27e8d87438e7c63eb29bb9ebaaa1959828</id>

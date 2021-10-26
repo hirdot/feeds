@@ -2112,6 +2112,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "235f609b121e2657f920a2cb48beb6127a901b04",
+          "author": "aws@amazon.com",
+          "description": "Web Client for AWS Transfer Family は、Secure Shell File Transfer Protocol (SFTP) で AWS Transfer を使用するための直感的なウェブブラウザインターフェースとなります。AWS Transfer Family の採用に加えて、企業 SFTP 環境へのシンプルなウェブポータルを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/",
+          "publishedOn": "2021-10-26T05:31:47.000Z",
+          "wordCount": 250,
+          "title": "新しい AWS ソリューション実装: Web Client for AWS Transfer Family"
+        },
+        {
+          "id": "cbf1520b1a0d310a06ec0a8954d49839c40c5dcd",
+          "author": "aws@amazon.com",
+          "description": "AWS Fault Injection Simulator (FIS) を使用して、Amazon EC2スポットインスタンスの割り込みをスポットインスタンスワークロードに設定できるようになりました。スポットインスタンスを使用すると、Amazon EC2 で容量を戻す必要があるときにスポットインスタンスを返す代わりに、Amazon EC2 でコンピューティングワークロードを大幅な割引で実行できます。スポットインスタンスが中断される可能性は常にあるため、アプリケーションがスポットインスタンスの中断に備えていることを確認する必要があります。ただし、これまでは、アプリケーションの応答方法を評価および改善するために、スポットインスタンスの中断の状況を再現することは困難でした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/",
+          "publishedOn": "2021-10-26T05:30:59.000Z",
+          "wordCount": 245,
+          "title": "AWS Fault Injection Simulator がスポットインスタンス中断のサポートを開始"
+        },
+        {
           "id": "003dcb27e8d87438e7c63eb29bb9ebaaa1959828",
           "author": "aws@amazon.com",
           "description": "本日より、AWS Fault Injection Simulator (FIS) を使用して Amazon EC2 スポットインスタンスの中断をトリガーできます。スポットインスタンスは、オンデマンド料金と比較して最大 90% 割引で利用できる予備の EC2 容量を使用します。割引と引き換えに、Amazon EC2 が容量を戻す必要がある場合、スポットインスタンスは Amazon EC2 によって中断される可能性があります。スポットインスタンスを使用する場合は、中断に備えておく必要があります。FIS を使用すると、ワークロードの回復力をテストし、インスタンスを終了する前に EC2 が送信する中断通知にアプリケーションが反応していることを検証できます。ASG、フリート、EMR などのインスタンスにタグを付けるサービスによって管理されるクラスター内の個々のスポットインスタンスまたはインスタンスのサブセットをターゲットにすることができます。",
