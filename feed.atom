@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T22:06:35.024Z</updated>
+    <updated>2021-10-26T23:02:18.285Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4146,36 +4146,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/"/>
         <updated>2021-09-27T13:31:06.000Z</updated>
         <summary type="html"><![CDATA[AWS WAF は、正規表現 (regex) のサポートを拡張し、正規表現パターンをルールステートメント内でインラインで表現できるようにします。これまでは、WAF ルールロジックで単一の正規表現パターンのみを使用する場合でも、ルールステートメントで正規表現パターンのコレクションを提供する正規表現パターンセットを作成する必要がありました。インライン正規表現を使用すると、単一の正規表現パターンを WAF ルールステートメント内に直接含めることができるようになり、ウェブ ACL 内での WAF ルールの表現方法が簡素化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AQUA が Amazon Redshift RA3.xlplus ノードで利用可能に]]></title>
-        <id>ea58ff9c783109abbda277ee2a8909c686f7d892</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/"/>
-        <updated>2021-09-27T10:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift RA3.xlplus ノードで、AQUA (Advanced Query Accelerator) for Amazon Redshift が一般利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager で AWS Service Catalog AppRegistry アプリケーションを管理できるようになりました]]></title>
-        <id>33e129ee7b8bbacd65e800f0a449cf0a5f227a63</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/"/>
-        <updated>2021-09-27T10:31:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS Service Catalog AppRegistry および AWS Systems Manager Application Manager が、エンドツーエンドの AWS アプリケーション管理エクスペリエンスを提供するようになりました。今回のリリースで、AppRegistry を使用して、インフラストラクチャ内にコード、CI/CD パイプライン、およびプロビジョニング後のプロセスとしてアプリケーションを作成し、Application Manager を使用してアプリケーションの運用データを表示し、運用アクションを実行することができるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Distro for OpenTelemetry でのトレースサポートの一般提供開始を発表]]></title>
-        <id>ec9848031e1f886093388d53f0cc33f7455afafc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/"/>
-        <updated>2021-09-27T10:31:06.000Z</updated>
-        <summary type="html"><![CDATA[本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである AWS Distro for OpenTelemetry の一般利用を開始いたします。今回のリリースにより、Java、.Net、Python、Go、JavaScript で OpenTelemetry API と SDK を使用し、トレースを収集、OpenTelemetry Protocol (OTLP) によってサポートされている AWS X-Ray とモニタリングの送信先に送ることができるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
