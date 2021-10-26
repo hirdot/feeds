@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T10:02:54.338Z</updated>
+    <updated>2021-10-26T22:06:35.024Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[非YMYLサイトであればE-A-Tは不要、著者名はadminでも問題ない]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11693</id>
+        <link href="https://www.suzukikenichi.com/blog/its-fine-to-use-admin-for-author-name-on-non-ymyl-sites/"/>
+        <updated>2021-10-26T21:50:20.000Z</updated>
+        <summary type="html"><![CDATA[YMYL ジャンルに相当しないサイトでは admin のような一般的な名前を著者名として使っても問題にはならない。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ禍で「爆売れ」中国ハイテク機器の影に監視国家の非道行為]]></title>
+        <id>https://www.technologyreview.jp/?p=258559</id>
+        <link href="https://www.technologyreview.jp/s/258559/the-covid-tech-that-is-intimately-tied-to-chinas-surveillance-state/"/>
+        <updated>2021-10-26T20:46:51.000Z</updated>
+        <summary type="html"><![CDATA[少数民族に対するハイテクを使った人権侵害が中国で横行している。米国が新型コロナ対策に購入している熱感知カメラや顔認識システムは、こうした行為に加担する企業によって開発・訓練されたものであることを忘れてはならない。]]></summary>
+        <author>
+            <name>Darren Byler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon.com、同社内で使われていた従業員向けのセキュリティオンライントレーニングを無償で一般公開、日本語版も提供]]></title>
+        <id>https://www.publickey1.jp/blog/21/amazoncom_1.html</id>
+        <link href="https://www.publickey1.jp/blog/21/amazoncom_1.html"/>
+        <updated>2021-10-26T15:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.comは、これまで同社内で従業員向けに提供してきたセキュリティのオンライントレーニングコースを無償で一般公開しました。 Starting today, we're making the same cybersecuri...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: YJITがRuby 3.1向けにマージ、ripperのドキュメント化、crontabの罠ほか（20211026後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_10_26/112885</id>
@@ -4148,57 +4178,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである AWS Distro for OpenTelemetry の一般利用を開始いたします。今回のリリースにより、Java、.Net、Python、Go、JavaScript で OpenTelemetry API と SDK を使用し、トレースを収集、OpenTelemetry Protocol (OTLP) によってサポートされている AWS X-Ray とモニタリングの送信先に送ることができるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubyオブジェクトの未来をつくる「シェイプ」とは（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_27/111656</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_27/111656"/>
-        <updated>2021-09-27T08:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/future_shape_of_ruby_objjects_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: The Future Shape of Ruby Objects 原文公開日: 2021/09/10 原著者: Chris Seaton RubyKaigi Takeout 2021: The Future Shape of Ruby Objects by Chris Seaton &#45; RubyKaigi Takeout 2021 日本語タイトルは内容に即したものにしました。本記事はRubyKaigi Takout 2021 Day2キーノートのスピーチ原稿につき、最終的な発表内容はこのとおりでない部分もあります。流れを把握するために必要と思われ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_27/111656" data-wpel-link="internal" target="_self">Rubyオブジェクトの未来をつくる「シェイプ」とは（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXのためのITシステムの問題点を可視化プラットフォームデジタル化指標（評価表）をIPAが提供開始]]></title>
-        <id>https://data.wingarc.com/?p=35570</id>
-        <link href="https://data.wingarc.com/ipa_20210927-35570"/>
-        <updated>2021-09-27T06:22:51.000Z</updated>
-        <summary type="html"><![CDATA[IPA（独立行政法人情報処理推進機構、理事長：富田達夫）では、DXを本格的に展開していく上で、DXによりビジネスをどう変えるかといった経営戦略の方向性を定めていくという課題とともに、これまでの既存システムが老朽化・複雑化 […]]]></summary>
-        <author>
-            <name>データのじかん編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中絶禁止」テキサス州、市民団体らがネットで支援]]></title>
-        <id>https://www.technologyreview.jp/?p=256701</id>
-        <link href="https://www.technologyreview.jp/s/256701/activists-are-helping-texans-get-access-to-abortion-pills-online/"/>
-        <updated>2021-09-27T06:05:45.000Z</updated>
-        <summary type="html"><![CDATA[米国テキサス州で、人工妊娠中絶を実質的に禁止する法律が施行された。州内での安全な処置を受けられなくなった女性らを救うために、市民団体がネット上での支援に乗り出している。]]></summary>
-        <author>
-            <name>Tanya Basu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワクチン・パスポート、割れる判断　全米50州の最新状況まとめ]]></title>
-        <id>https://www.technologyreview.jp/?p=255686</id>
-        <link href="https://www.technologyreview.jp/s/255686/whats-happening-with-covid-vaccine-apps-in-the-us/"/>
-        <updated>2021-09-27T04:36:21.000Z</updated>
-        <summary type="html"><![CDATA[日本政府は新型コロナウイルス・ワクチンの接種を証明する「ワクチン・パスポート」を年内にも発行すると決めた。ワクチン・パスポートの導入をめぐっては各国で議論となっており、米国でも州によって対応や使われ方は異なる。米国の最新事情をまとめた。]]></summary>
-        <author>
-            <name>Harini Barath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autumn is here, and so is Rails 7 Alpha 2! 🍂]]></title>
-        <id>https://weblog.rubyonrails.org/2021/9/27/this-week-in-rails-autumn-is-here-and-so-is-rails-7-alpha-2/</id>
-        <link href="https://weblog.rubyonrails.org/2021/9/27/this-week-in-rails-autumn-is-here-and-so-is-rails-7-alpha-2/"/>
-        <updated>2021-09-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey! Zzak here with a JAM-PACKED edition of This Week In Rails. 🍇]]></summary>
-        <author>
-            <name>Riding Rails</name>
         </author>
     </entry>
 </feed>
