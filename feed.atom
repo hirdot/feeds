@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-27T00:15:55.221Z</updated>
+    <updated>2021-10-27T01:45:08.841Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWSがpplication Load Balancerに静的IPアドレスを導入]]></title>
+        <id>https://www.infoq.com/jp/news/2021/10/aws-alb-static-ips/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/10/aws-alb-static-ips/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-10-27T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは先頃、同社のApplication Load BalancerをNetwork Load Balancerに直接統合することによって、AWS PrivateLinkと静的IPアドレスをサポートすると発表した。
+ By Renato Losio  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第689回　Ubuntu 21.10でFcitx 5を使用する ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0689</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0689"/>
+        <updated>2021-10-27T00:53:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はUbuntu 21.10とそのフレーバーでFcitx 5を使用する方法を紹介します。]]></summary>
+        <author>
+            <name>あわしろいくや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非YMYLサイトであればE-A-Tは不要、著者名はadminでも問題ない]]></title>
         <id>https://www.suzukikenichi.com/blog/?p=11693</id>
@@ -4128,26 +4149,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[調査会社のIDC Japanは、アプリケーションの実行環境を提供するパブリッククラウドサービスの「アプリケーションPaaS」と、複数のアプリケーションあるいはデータソースを接続して連携や統合の管理を行うパブリッククラウドサービスの「インテグ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Simple Email Service がアジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>911fba3374ad8b05d5fe4abe74be6c607c352a40</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/"/>
-        <updated>2021-09-27T13:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Email Service (Amazon SES) がアジアパシフィック (大阪) AWS リージョンで利用可能になりました。Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAF がインライン正規表現の提供を開始]]></title>
-        <id>bff8588e898d23fb19229610066678f663cb6b89</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/"/>
-        <updated>2021-09-27T13:31:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS WAF は、正規表現 (regex) のサポートを拡張し、正規表現パターンをルールステートメント内でインラインで表現できるようにします。これまでは、WAF ルールロジックで単一の正規表現パターンのみを使用する場合でも、ルールステートメントで正規表現パターンのコレクションを提供する正規表現パターンセットを作成する必要がありました。インライン正規表現を使用すると、単一の正規表現パターンを WAF ルールステートメント内に直接含めることができるようになり、ウェブ ACL 内での WAF ルールの表現方法が簡素化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
