@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-28T08:02:52.425Z</updated>
+    <updated>2021-10-28T09:02:19.618Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Load Balancer Controller バージョン 2.3 が利用可能になり、ALB IPv6 ターゲットのサポートの提供を開始]]></title>
+        <id>2d26f562fb8b184513fa11224c17ef495821124b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/"/>
+        <updated>2021-10-28T08:34:09.000Z</updated>
+        <summary type="html"><![CDATA[AWS Load Balancer Controller は、Kubernetes クラスターで実行されているアプリケーションにトラフィックをルーティングする Elastic Load Balancing を構成および管理するための Kubernetes ネイティブな方法を提供します。Elastic Load Balancing では、複数のロードバランサーが提供されています。これらはすべて、アプリケーションの耐障害性を高めるのに必要な高い可用性、オートスケーリング、堅牢なセキュリティを特徴としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が、ユーザー、ユーザー階層グループ、オペレーション時間をサポートする AWS CloudFormation をリリース]]></title>
+        <id>d331b29ee6ca1ee37494221431acfac01d990254</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/"/>
+        <updated>2021-10-28T08:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect は、ユーザー、ユーザー階層、オペレーション時間の 3 つの API での AWS CloudFormation をサポートすることになりました。AWS CloudFormation テンプレートを使用して、他の AWS インフラストラクチャと共にこれらの Amazon Connect リソースを安全、効率的、繰り返し可能な方法でデプロイできるようになりました。加えて、これらのテンプレートを使用して Amazon Connect インスタンス全体の一貫線を維持できます。詳細については、 AWS CloudFormation ユーザーガイドの「Amazon Connect リソースタイプリファレンス」を参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が API を起動してオペレーション時間をプログラムで設定]]></title>
+        <id>71e57149aa177fd865885407533c6b5ea883d61a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/"/>
+        <updated>2021-10-28T08:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect は、オペレーション時間をプログラムで作成および管理するための API の提供を開始しました。この API を使用して、ルートが接触するキューを決定する問い合わせフローで使用されるオペレーション時間をプログラムで設定することができます。さらに、[API の削除] を使用して不要になったオペレーション時間を削除できるようになりました。詳細については、API ドキュメントを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: クエリ結果を任意の順序にできるActiveRecord::QueryMethods#in_order_of]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_28/113117</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_28/113117"/>
+        <updated>2021-10-28T08:30:57.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails7_in_order_of_eyecatch3-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds ActiveRecord::QueryMethods&#35;in&#95;order&#95;of to return query results in a particular sequence &#124; Saeloun Blog 原文公開日: 2021/10/05 原著者: Alkesh Ghorpade サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston 週刊Railsウォッチ20210 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_28/113117" data-wpel-link="internal" target="_self">Rails 7: クエリ結果を任意の順序にできるActiveRecord::QueryMethods#in_order_of</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Audit Manager カスタムフレームワークの共有が一般に利用可能に]]></title>
+        <id>f1e6062ccfd357f82a6624e80f545e672b87a623</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/"/>
+        <updated>2021-10-28T08:30:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Audit Manager は、カスタムフレームワーク共有を提供し、AWS アカウントとリージョンをまたぐカスタムフレームワークを共有する安全で簡単な方法です。これにより、複数の AWS アカウントをまたいだカスタムフレームワークの即時アクセスが有効になります。基礎となるカスタムコントロールを手動でコピーしたり移動したりする必要はありません。カスタムフレームワーク共有は、共有されたフレームワークへのクイックアクセスを提供し、これにより、お客様が提供した最新かつ一貫性のある情報をユーザーが常に確認できます。AWS Audit Manager アカウントでのカスタムフレームワーク共有機能は、追加のコストなしでご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cockroach LabsがCockroachDB Serverlessを発表]]></title>
         <id>https://www.infoq.com/jp/news/2021/10/cockroachdb-serverless/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
