@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-29T09:02:40.338Z</updated>
+    <updated>2021-10-29T10:02:53.737Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) は、地理空間データの保存、クエリ、インデックス作成のサポート追加]]></title>
+        <id>43b95cc9384c00fc9c39e8dbe989705a0adadd32</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-documentdb-adds-geospatial-capabilities/"/>
+        <updated>2021-10-29T09:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) は、大規模な JSON データ管理のためのデータベースサービスで、AWS で完全に管理・統合されており、高い耐久性を備えたエンタープライズ対応のサービスとなっています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB（MongoDBとの互換性あり）にJDBCドライバが追加され、BIツールから接続してSQLクエリを実行できるようになりました。]]></title>
+        <id>b2a31fffcce394e582f542ee29c10c830077e4cb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/"/>
+        <updated>2021-10-29T09:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB互換) は、大規模な JSON データ管理のためのデータベースサービスで、AWS で完全に管理・統合されており、高い耐久性を備えたエンタープライズ対応のサービスとなっています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudFront はクライアント IP アドレスと接続ポートヘッダーのサポートを追加]]></title>
+        <id>9298f3ce73d4db9b1af6acd7aec888c745678c7e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-cloudfront-client-ip-address-connection-port-header/"/>
+        <updated>2021-10-29T09:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudFront は、リクエストするクライアントの IP アドレスと接続ポート情報を含む CloudFront-Viewer-Address ヘッダーを提供するようになりました。接続ポートフィールドは、リクエスト元のクライアントが使用する TCP ソースポートを示します。これまで、IP アドレスやクライアントの接続ポートの情報は CloudFront のアクセスログでのみ利用可能であったため、これらのデータに基づいて問題を解決したり、リアルタイムに意思決定したりすることは困難でした。CloudFront-Viewer-Address ヘッダーをオリジンサーバーに転送するように、CloudFront のオリジンリクエストポリシーを設定することができるようになりました。また、ヘッダーがオリジンリクエストポリシーに含まれている場合、CloudFront Functions で使用することができます。CloudFront-Viewer-Address ヘッダーは次の構文を使用します。CloudFront-Viewer-Address: 127.0.0.1:4430]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) はユーザー定義ロールによるアクセスコントロールのサポートを追加]]></title>
+        <id>5081be09baf3bcbd26bbdfd02d854241b000114c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-documentdb-access-control-user-roles/"/>
+        <updated>2021-10-29T09:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) は、MongoDB のワークロードをサポートする高速かつスケーラブルで可用性の高いフルマネージド型ドキュメントデータベースサービスです。Amazon DocumentDB は、ドキュメントデータベースとして、大きな規模で JSON データの保存、クエリ、インデックス作成が簡単に行えます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Pinpoint が 10 桁のロングコード (10DLC) 審査に対応]]></title>
+        <id>2b9afdda31e0b3ee2e13bcad8b80f01e391925b5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/"/>
+        <updated>2021-10-29T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Pinpoint では、お客様の 10 桁のロングコード (10DLC) 登録内容の拡張審査を実行する機能が追加になりました。この拡張審査のプロセスを「審査」と呼びます。 お客様の 10DLC 登録を審査することにより、10DLC 番号を使用して送信するメッセージのより高いスループットの割合を得ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深層学習モデルのコスト効率の高いトレーニングのための Amazon EC2 DL1 インスタンスのご紹介]]></title>
+        <id>4acf4eae6f84d4228c682cb5ca13c9320d3201ea</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/"/>
+        <updated>2021-10-29T09:32:43.000Z</updated>
+        <summary type="html"><![CDATA[本日、Intel 会社である Habana Labs の Gaudi アクセラレーターを搭載した Amazon EC2 DL1 インスタンスの一般提供を開始しました。EC2 DL1 インスタンスは、深層学習モデルのトレーニング用として、現世代の GPU ベースの EC2 インスタンスと比べて最大 40 ％の価格パフォーマンスを実現し、画像分類、物体検出、自然言語処理などのワークロードに最適化されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) に $literal, $map, and $$ROOT のサポートを追加]]></title>
+        <id>6693a1ac295cf7ad936b017c1244e95285f294ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-documentdb-adds-additional-mongodb-compatibility-apis/"/>
+        <updated>2021-10-29T09:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB互換) は、大規模な JSON データ管理のためのデータベースサービスで、AWS で完全に管理・統合されており、高い耐久性を備えたエンタープライズ対応のサービスとなっています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Migration Hub Strategy Recommendationsの紹介]]></title>
+        <id>d6243087216a3f3dacbc7c850041b86ec8e8527b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/"/>
+        <updated>2021-10-29T09:31:08.000Z</updated>
+        <summary type="html"><![CDATA[AWS Migration Hubでは、 オンプレミスやAWSで稼働しているアプリケーションの移行・近代化戦略を簡単に構築できるようになりました。新しい「Strategy Recommendations」は、大規模な移行とモダナイゼーションを支援するための最適な戦略とツールに関する指針を提供し、変革の旅を始めるための理想的な出発点となります。Strategy Recommendationsは、稼働中の各アプリケーションやそのプロセスの依存関係、技術的な複雑さを分析する手動のプロセスを自動化し、アプリケーションの移行やモダナイゼーションの計画に費やす時間と労力を削減し、AWS上でのビジネス・トランスフォーメーションを加速します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最新コンピューティングが解き明かす、宇宙科学の3つの疑問]]></title>
         <id>https://www.technologyreview.jp/?p=259669</id>
@@ -4040,26 +4120,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[人間の脳を「コンピューターのようなもの」とみなすことはできるのだろうか？ 長年、論争の種になってきたこの疑問について、複数の専門家に話を聞いた。]]></summary>
         <author>
             <name>Dan Falk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディープマインドが天気予報で成果、降雨時間と場所を正確に予測]]></title>
-        <id>https://www.technologyreview.jp/?p=257728</id>
-        <link href="https://www.technologyreview.jp/s/257728/deepminds-ai-predicts-almost-exactly-when-and-where-its-going-to-rain/"/>
-        <updated>2021-09-29T22:00:09.000Z</updated>
-        <summary type="html"><![CDATA[人工知能の自然科学への応用がまた一歩進んだ。ディープマインドは、英国気象庁と協力し、既存のシステムよりも短期的な気象予測に優れたツールを開発、発表した。]]></summary>
-        <author>
-            <name>Will Douglas Heaven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユーザーの検索意図は時間とともに変化し、それに合わせて検索結果も自動的に変わる]]></title>
-        <id>https://www.suzukikenichi.com/blog/?p=11633</id>
-        <link href="https://www.suzukikenichi.com/blog/search-intent-shifts-automatically-over-time/"/>
-        <updated>2021-09-29T21:45:17.000Z</updated>
-        <summary type="html"><![CDATA[同じクエリであっても、ユーザーの検索意図は時間とともに変化することがある。結果として、その変化に合わせて検索結果も自動的に変わる。]]></summary>
-        <author>
-            <name>Kenichi Suzuki</name>
         </author>
     </entry>
 </feed>
