@@ -632,6 +632,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=259675",
+          "author": "Yuan Ren",
+          "description": "アリババ傘下のフードデリバリー企業は、「即時配達」実現のために、スマートフォンを用いたBluetooth追跡システムを構築し、都市規模で展開している。",
+          "link": "https://www.technologyreview.jp/s/259675/how-alibaba-tracks-chinas-delivery-drivers/",
+          "publishedOn": "2021-10-29T07:47:39.000Z",
+          "wordCount": 505,
+          "title": "アリババ、Bluetoothビーコン大量設置でフードデリバリー効率化"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=259588",
           "author": "Bobbie Johnson",
           "description": "米国で、5歳から11歳までの子どもへのワクチン接種が進められる可能性が高まっている。FDAの専門家委員会はすでにゴーサインを出しており、来週のCDCの諮問委員会で承認されれば、11月初旬にも接種が開始される。",
@@ -3431,42 +3440,6 @@
           "publishedOn": "2021-09-30T08:31:06.000Z",
           "wordCount": 275,
           "title": "Application Load Balancer が、ネットワークロードバランサーとの直接統合で、AWS PrivateLink および静的 IP アドレスを有効に"
-        },
-        {
-          "id": "123bd165f4a954decac4ae808a4091623d760ae0",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect Voice ID は、Amazon Connect のための Machine Learning (機械学習) を利用した音声認証機能であり、コンタクトセンターにおける音声でのやり取りをより安全かつ効率的なものとします。これまで、コンタクトセンターでは、時間のかかる知識ベースの認証プロセスを使用しており、発信者は社会保障番号や生年月日などの個人情報に基づいて複数の質問に回答する必要がありました。Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、会話の自然な流れを変化させることなく、リアルタイムで本人確認を実施します。これにより、エージェントの生産性が向上し、コンタクトセンターの運用コストが削減されます。Amazon Connect Voice ID は、コンタクトセンターインスタンスのためのカスタムウォッチリストからリアルタイムで不正行為者を検出し、コンタクトセンターのオペレーションのセキュリティを向上させます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/",
-          "publishedOn": "2021-09-29T20:03:25.000Z",
-          "wordCount": 265,
-          "title": "Amazon Connect Voice ID の一般提供を開始"
-        },
-        {
-          "id": "342645fa27e36a5a0e252aa8afef875fd312fa76",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日、Amazon EMR がアイドル状態の EMR クラスターの自動終了をサポートするようになったことを発表します。これは、コストを削減するために、EMR クラスターがアイドル状態の場合に自動的に終了する新機能です。担当者がクラスターのアクティビティをモニタリングする必要はありません。既存のクラスターと新しいクラスターの両方のために自動終了を有効にするときにアイドルタイムアウト値を指定できます。EMR は、指定された時間にわたってアイドル状態が継続するとクラスターを自動的に終了します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/",
-          "publishedOn": "2021-09-29T20:02:36.000Z",
-          "wordCount": 249,
-          "title": "コストを削減するためにアイドル状態の EMR クラスターの自動終了が可能に"
-        },
-        {
-          "id": "44030c81365cd9ade39960f3333c79984d327dc0",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS でゲノミクスデータをペタバイト規模で処理するためのゲノミクスおよびライフサイエンス分野のお客様向けのオープンソースツールである Amazon Genomics CLI の一般提供を発表しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-genomics-cli-available/",
-          "publishedOn": "2021-09-29T20:01:47.000Z",
-          "wordCount": 228,
-          "title": "Amazon Genomics CLI の一般提供を開始"
-        },
-        {
-          "id": "be65e29dfa67e58d53a8f7b0b9eb9670aafb8a54",
-          "author": "aws@amazon.com",
-          "description": "AWS ソリューションチームは最近、AWS WAF Security Automations を更新しました。これは、一般的なウェブベースの攻撃をフィルタリングする一連の AWS WAF (ウェブアプリケーションファイアウォール) ルールを自動的にデプロイするソリューションです。ユーザーは、事前設定済みの保護機能を選択することで、AWS WAF ウェブアクセスコントロールリスト (ウェブ ACL) に含まれるルールを定義できます。デプロイされると、AWS WAF は、ウェブリクエストの検査を通じて、Amazon CloudFront ディストリビューションや Application Load Balancer を保護します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-security-automations-v3-2/",
-          "publishedOn": "2021-09-29T20:00:58.000Z",
-          "wordCount": 244,
-          "title": "AWS WAF Security Automations v3.2 のご紹介"
         }
       ]
     },
