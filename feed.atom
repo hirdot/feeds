@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-29T10:02:53.737Z</updated>
+    <updated>2021-10-29T22:02:20.907Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2021年はSEO激動の年、昨対168%もの順位変動の発生率！【海外＆国内SEO情報ウォッチ】]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11700</id>
+        <link href="https://www.suzukikenichi.com/blog/seowatch20211029/"/>
+        <updated>2021-10-29T21:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。2021 年は、Google 検索のランキング変動がかなり多い激動の年だったようだ。大きな順位変動が発生した日の比率が 68% 多かったと、SEM ラッシュが報告している。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) は、地理空間データの保存、クエリ、インデックス作成のサポート追加]]></title>
         <id>43b95cc9384c00fc9c39e8dbe989705a0adadd32</id>
@@ -3998,128 +4008,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[VMwareは、仮想化ハイパーバイザーであるvShpereの最新版となる「VMware vSphere 7 Update 3」を発表しました。 Announcing #vSphere7 Update 3! This platform emp...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が、通話、テキスト、E メール用の大量のアウトバウンド通信の提供を開始]]></title>
-        <id>61e931256ee32c6264e9e75597f2bfd59ad72364</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-communications/"/>
-        <updated>2021-09-30T08:33:35.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Wisdom の一般提供を開始]]></title>
-        <id>85efd8aa70acc5c28c7555f45bdcb9e709c1f068</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/"/>
-        <updated>2021-09-30T08:32:46.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard が Red Hat Enterprise Linux での Microsoft SQL Server Always On デプロイのサポートを開始]]></title>
-        <id>07ab871cfa72323d5b753a330c99e7bf2f7991e0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/"/>
-        <updated>2021-09-30T08:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 用の Red Hat Enterprise Linux with Microsoft SQL Server のリリースに続いて、AWS Launch Wizard を使用して RHEL SQL Server Always On 可用性グループを簡単にデプロイできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application Load Balancer が、ネットワークロードバランサーとの直接統合で、AWS PrivateLink および静的 IP アドレスを有効に]]></title>
-        <id>17073a0fd2047ab313739d32995fa42991cd45b4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/"/>
-        <updated>2021-09-30T08:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Elastic Load Balancing が、ネットワークロードバランサー (NLB) から Application Load Balancer (ALB) へのトラフィックの直接転送をサポートするようになりました。この機能により、AWS PrivateLink を使用して、ALB 上に構築されたアプリケーションの静的 IP アドレスを公開できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubyの式展開（string interpolation）についてまとめ: `#{}`、`%`、Railsの`?`]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_30/71369</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_30/71369"/>
-        <updated>2021-09-30T08:30:21.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2019/03/ruby_string_interpolation_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2019/03/07: 初版公開 2021/09/30: 更新 1. 一般的な「string interpolation」とは まずは一般的な話から。プログラミング言語で文字列を出力するときに、文字列の一部を変数の値や式の評価結果に差し替えたいことが非常によくあります。 "信号: 赤" "信号: 黄" "信号: 青" 上の文字列リテラル（" "で囲まれている部分）のうち、「赤」「黄」「青」を何らかの方法で変数から送り込んで差し替える操作を一般にstring interpolationと呼びます。 "信号: ●" # ←この●を「赤」「黄」「青」に差し替えたい 3つの文字列リテラルを使い分けるより、●を「 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_30/71369" data-wpel-link="internal" target="_self">Rubyの式展開（string interpolation）についてまとめ: `#{}`、`%`、Railsの`?`</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsのパターンとアンチパターン3: ビュー編（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_09_30/112127</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_09_30/112127"/>
-        <updated>2021-09-30T08:30:17.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails_patterns_antipatterns3_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Ruby on Rails View Patterns and Anti&#45;patterns &#124; AppSignal Blog 原文公開日: 2021/02/10 著者: Nikola Đuza: ハンガリーNovi Sad在住のエンジニア兼ライター、ブログや登壇で知識の普及に努めています。JavaScriptやRubyで面白いものを作るのが好きです。 サイト: AppSignal Blog Railsのパターンとアンチパターン3: ビュー編（翻訳） Ruby on Railsのパターンとアンチパターンシリーズの第3回目にようこそ。前回ま [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_09_30/112127" data-wpel-link="internal" target="_self">Railsのパターンとアンチパターン3: ビュー編（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パンデミックで露呈した顔認識システムの限界]]></title>
-        <id>https://www.technologyreview.jp/?p=257637</id>
-        <link href="https://www.technologyreview.jp/s/257637/the-pandemic-is-testing-the-limits-of-face-recognition/"/>
-        <updated>2021-09-30T05:53:02.000Z</updated>
-        <summary type="html"><![CDATA[米国では政府による顔認識システムの使用が拡大している。だが、失業給付金の不正受給防止に顔認識を利用したケースでは、困窮した市民が支援を受けられない事態も発生している。]]></summary>
-        <author>
-            <name>Mia Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スパイ容疑で中国人が不当に狙い撃ち＝米「百人会」が報告書]]></title>
-        <id>https://www.technologyreview.jp/?p=257171</id>
-        <link href="https://www.technologyreview.jp/s/257171/us-unfairly-targeting-chinese-over-industrial-spying-says-report/"/>
-        <updated>2021-09-30T03:32:19.000Z</updated>
-        <summary type="html"><![CDATA[米国内の経済スパイ事件に関する新たな報告書は、中国系米国人は同容疑で訴追される確率が他の人種よりも高く、人種的なバイアスが働いているのではないか、と指摘する。]]></summary>
-        <author>
-            <name>Eileen Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZippyDB：Facebookの強力な一貫性のあるKey-Valueストアのアーキテクチャ]]></title>
-        <id>https://www.infoq.com/jp/news/2021/09/facebook-zippydb/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/09/facebook-zippydb/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-09-30T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Facebook Engineering recently published how it built its general-purpose key-value store, known as ZippyDB. ZippyDB is Facebook's biggest key-value store, which has been in production for more than six years. It offers flexibility to applications in terms of tunable durability, consistency, availability, and latency guarantees.
- By Eran Stiller  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Eran Stiller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSはAmazon Elasticsearch ServiceをAmazon OpenSearch Serviceに名称変更]]></title>
-        <id>https://www.infoq.com/jp/news/2021/09/amazon-opensearch-service/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/09/amazon-opensearch-service/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-09-30T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[先頃、AWSはAmazon Elasticsearch Serviceの名称をAmazon OpenSearch Serviceに変更すると発表した。名称の変更に伴い、同社はOpenSearch 1.0をサポートするサービスをリリースし、Amazon Elasticsearch Serviceの後継サービスになった。
- By Steef-Jan Wiggers  Translated by Shoji Shigeki]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年9月第5週　MicrosoftのAndroid「Surface Duo 2」が発表 ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202109/30</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202109/30"/>
-        <updated>2021-09-30T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年9月第5週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「脳」とコンピューターは 似ている？違う？ 専門家に見解を聞いた]]></title>
-        <id>https://www.technologyreview.jp/?p=257585</id>
-        <link href="https://www.technologyreview.jp/s/257585/is-your-brain-a-computer/"/>
-        <updated>2021-09-29T23:27:29.000Z</updated>
-        <summary type="html"><![CDATA[人間の脳を「コンピューターのようなもの」とみなすことはできるのだろうか？ 長年、論争の種になってきたこの疑問について、複数の専門家に話を聞いた。]]></summary>
-        <author>
-            <name>Dan Falk</name>
         </author>
     </entry>
 </feed>
