@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-01T02:21:43.764Z</updated>
+    <updated>2021-11-01T03:02:44.329Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いつもと違うプログラミングの風景を見に行く]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/another-perspective</id>
+        <link href="https://blog.agile.esm.co.jp/entry/another-perspective"/>
+        <updated>2021-11-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[昨年、「プログラミング多言語主義」という記事を書きました。 それを踏まえて。 ふだんと違うプログラミング言語を使ったとき、実際にどんな風景が見えるのか、それ見に行こう… というのが、今回の記事の表のテーマです。 先に弁明をしておくと。 今回書くコードは「いつもと違う風景を見る」ことに重心を置いていて、効率とかは脇によけてあります。 その点はご容赦を。 どう書く？：すべての順列を生成するプログラム 早速ですが、一連の要素の順番を入れ替えてできる並びをすべて挙げる例を考えてみましょう。 例えば という入力に対して、 という出力をえる、というものです。 Rubyで書いたばあいであれば、このような結果…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第75回　Project Tsurugi（劔）報告会，MySQL 8.0.27リリース，PostgreSQL 14最新情報をオープンソースカンファレンスから ── OSSデータベース取り取り時報]]></title>
         <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0075</id>
