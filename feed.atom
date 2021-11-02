@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-02T10:02:57.466Z</updated>
+    <updated>2021-11-02T22:02:30.787Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［速報］Microsoft Edge for Linux正式版がリリース。Ignite 2021]]></title>
+        <id>https://www.publickey1.jp/blog/21/microsoft_edge_for_linuxignite_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/microsoft_edge_for_linuxignite_2021.html"/>
+        <updated>2021-11-02T15:11:33.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトはLinuxに対応したWebブラウザ「Microsoft Edge for Linux」の正式版リリースを、オンラインイベント「Microsoft Ignite 2021」で発表しました。 We made it! #MSIgn...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS マネージドノードグループが Bottlerocket のネイティブサポートを追加]]></title>
+        <id>72dd8c4efc10409c546a36ddb8497e872571e317</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-eks-nodes-groups-bottlerocket/"/>
+        <updated>2021-11-02T14:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) は、すべての商用 AWS リージョンの EKS マネージドノードグループにおいて、Bottlerocket のネイティブサポートを追加しました。現在、EKS の顧客の多くは、様々なユースケースに対応した OS を搭載したワーカーノードにアプリケーションをデプロイしています。AWS は、コンテナの実行を目的として構築・最適化された、Linux ベースのミニマルなオープンソース OS Bottlerocket を発表しました。EKS マネージドノードグループと Bottlerocket を組み合わせることで、顧客は本番環境でコンテナを実行するための最新のベストプラクティスを用いて、コンピューティング性能のプロビジョニングと管理を簡単に行うことができます。Bottlerocket は、マネージドノードグループに組み込まれた AMI の選択肢として含まれており、顧客はワンクリックでコンテナに最適化されたワーカーノードをプロビジョニングすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 C6i インスタンスのご紹介]]></title>
+        <id>0765de6e363fd497838197d5f3d9847375ecd337</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/"/>
+        <updated>2021-11-02T14:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Service (AWS) は、コンピューティングに最適化された Amazon EC2 C6i インスタンスの一般提供を開始しました。C6i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサー (コードネーム: Ice Lake) を搭載し、様々なワークロードにおいて C5 インスタンスと比較して最大 15％ のコンピュートティングプライスパフォーマンスを提供し、インテルトータルメモリーエンクリプション (TME) を使用した常時メモリ暗号化を実現しています。C6i インスタンスは、計算負荷の高いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。これらのインスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーション向けに設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise は異なる階層で同じアセットモデルを使用するサポートを発表]]></title>
+        <id>a02f1c24859ce3f6c140e6a00d028279e81436e1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-iot-sitewise-support-same-asset-models-different-hierarchies/"/>
+        <updated>2021-11-02T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise では、顧客が同じアセットモデルを異なるアセットモデル階層で使用できるようになりました。この機能により、顧客は産業活動の仮想的な表現を構築するために必要なモデルの数を減らし、アセットモデリングを簡素化することができます。これまでは、異なるプロダクションサイトに配置された同じ種類のマシンに対して、ユーザーはプロダクションサイトのモデルごとに 1 つのアセットモデルを作成する必要がありました。これにより、ユーザーは 1 つのアセットモデルを作成し、それをすべてのプロダクションサイトモデルで再利用することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fargate がAmazon ECS の Windows コンテナをサポート]]></title>
+        <id>503a6cf288017c29abe688106219d869cb648ceb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/"/>
+        <updated>2021-11-02T14:33:28.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は、Amazon ECS の Windowsコンテナ向けに AWS Fargate を提供することを発表しました。この機能により、Amazon ECS の顧客は、AWS 上で Windows コンテナをより簡単に実行できるようになり、最新のコンテナ技術の導入を簡素化することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.4, 12.8, 11.13, 10.18 をサポート]]></title>
+        <id>fbf16c46b838885d7e0bded594cc8dfc047668ef</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-releases/"/>
+        <updated>2021-11-02T14:32:41.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートの発表を受け、Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL 13.4, 12.8, 11.13, 10.18 をサポートします。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。なお、Amazon Aurora PostgreSQL 9.6 は、2022 年 1 月 31 日にライフサイクルが終了します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が通話録音をサポート]]></title>
+        <id>44356cded0f44ca321a80e49f4e8688af8ca35f4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-phone-call-recording/"/>
+        <updated>2021-11-02T14:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK は、デベロッパーがアプリケーションにリアルタイムのオーディオ、ビデオ、画面共有、メッセージング機能を簡単に追加できるサービスです。PSTN (Public Switched Telephone Network) オーディオ API を利用することで、デベロッパーは、音声メニュー、クリックトゥコール、コールルーティングなどのカスタマイズされたテレフォニーアプリケーションを、サーバーレスの AWS Lambda 関数の俊敏性とオペレーションの簡便性を利用して構築することができます。本日より、デベロッパーは通話録音機能を使って、PSTN および SIP (Session Initiation Protocol) の音声通話を録音し、ご希望のAmazon Simple Storage Service (Amazon S3) バケットに保存することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora PostgreSQL が PostGIS 3.1 をサポート]]></title>
+        <id>c5a98bea5118516200cdb34b9acc4bc8ff1b9657</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-postgis/"/>
+        <updated>2021-11-02T14:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションは、PostGIS メジャーバージョン 3.1 をサポートするようになりました。この新しいバージョンの PostGIS は、PostgreSQL バージョン 13.4、12.8、11.13、10.18 以降で利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Textract が TIFF のサポートを開始し、領収書と請求書の処理用に非同期サポートを追加]]></title>
+        <id>88d6af518253942c832bc6e0c40d6ef85d857df6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/"/>
+        <updated>2021-11-02T13:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Textract は、PNG、JPEG、および PDF 形式に加えて、TIFF (Tag Image File Format) のドキュメントをサポートするようになりました。お客様は、DetectDocumentText、StartDocumentAnalysis、StartDocumentTextDetection、AnalyzeDocument、および AnalyzeExpense といった Amazon Textract API のいずれかを使用して、TIFF ドキュメントを同期または非同期で処理できるようになりました。Amazon Textract は、印刷および手書きのテキストとデータを任意のドキュメントから自動的に抽出する機械学習サービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 スポット配置スコアのご紹介]]></title>
+        <id>a8a68542d240787d2aa592fea03b95dc24c0c550</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/"/>
+        <updated>2021-11-02T13:31:54.000Z</updated>
+        <summary type="html"><![CDATA[本日、スポットのワークロードに最適な場所を見つけるのに役立つ、Amazon EC2 スポット配置スコアを導入します。スポットインスタンスの可用性は、インスタンスタイプ、時刻、リージョン、およびアベイラビリティーゾーンによって異なります。これまでは、スポットインスタンスを最初に起動しようとしない限り、スポット容量のニーズを満たすのに最適なリージョンまたはアベイラビリティーゾーンを見つける方法はありませんでした。今後は、スポット配置スコアが、スポット容量の要件に基づいてリージョンまたはアベイラビリティーゾーンを推奨できます。スポット配置スコアは、任意のリージョンまたはアベイラビリティーゾーンで起動できる、インスタンスタイプの柔軟なワークロードに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 が Auto Scaling グループ、EC2 フリート、およびスポットフリート用の属性ベースの多様なインスタンスタイプを発表]]></title>
+        <id>5011f181e9d213cd489a4579f14d2f4a2b969857</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/"/>
+        <updated>2021-11-02T13:31:05.000Z</updated>
+        <summary type="html"><![CDATA[本日より、ワークロードのインスタンス要件に基づいて EC2 容量をリクエストできます。Amazon EC2 Auto Scaling、EC2 フリート、およびスポットフリート用の新機能である属性ベースの多様なインスタンスタイプにより、EC2 インスタンスタイプを調査および選択しなくても、インスタンスフリートを簡単に作成および維持できます。これは、コンテナ、ビッグデータ、CI/CD などのインスタンスタイプの柔軟なワークロードとフレームワークを実行する場合や、インスタンスフリートで最新世代のインスタンスタイプを自動的に使用する必要があるシンプルな事例で役立ちます。受け入れ可能なインスタンスタイプのリストを作成して維持する代わりに、インスタンス要件を一度定義するだけで、残りの作業を属性ベースの多様なインスタンスタイプに任せることができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: 2021年度Rubyアソシエーション開発助成、Rails REST APIレベルで楽観的ロックほか（20211102後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_11_02/113145</id>
@@ -4139,47 +4249,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[クラウド、特にAWSを用いたSIerとして知られるクラスメソッドは、米国AWSとの戦略的提携を発表しました。 クラスメソッドは以前から国内でも数社しかいないAWSプレミアコンサルティングパートナーとして、AWSに関するコンサルティングや開発...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: Rails 7でbyebugがruby/debugに変更、GitHub Codespacesをサポートほか（20211004前編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_04/112129</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_04/112129"/>
-        <updated>2021-10-04T09:29:46.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/railswatch_20211004_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_04/112129" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Rails 7でbyebugがruby/debugに変更、GitHub Codespacesをサポートほか（20211004前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XP祭り 2021 に登壇した弊社メンバーのスライドまとめ]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/xpjug-2021-esm-slides</id>
-        <link href="https://blog.agile.esm.co.jp/entry/xpjug-2021-esm-slides"/>
-        <updated>2021-10-04T08:18:37.000Z</updated>
-        <summary type="html"><![CDATA[2021年9月18日(土) にオンライン開催した XP祭り 2021 の弊社メンバーのスライドまとめです。 xpjug.connpass.com @hiranabe 『自分のしたい、から、みんなのしたい、へ。 (Appreciative Inquiry behind Extreme Programming)』 Appreciating Your Way to XP from Kenji Hiranabe www.slideshare.net @haru01 『XP祭りの中でドメイン駆動設計の勉強会！！』 ワークショップのためスライドではなくブログとなります。 twop.agile.esm.co…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脳のモザイク現象は 「心の健康」に関係するか？ 探究続けた研究者の20年]]></title>
-        <id>https://www.technologyreview.jp/?p=257565</id>
-        <link href="https://www.technologyreview.jp/s/257565/the-quest-to-learn-if-our-brains-mutations-affect-mental-health/"/>
-        <updated>2021-10-04T02:34:52.000Z</updated>
-        <summary type="html"><![CDATA[脳の遺伝子モザイク現象と、自閉症や統合失調症、アルツハイマー病などの精神疾患との関連性が明らかになりつつある。マコーネル博士は極貧の大学院生時代から20年以上、この分野の研究にキャリアを費やしてきた。]]></summary>
-        <author>
-            <name>Roxanne Khamsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【タイムくん – 第111話：updataNOW21】]]></title>
-        <id>https://data.wingarc.com/?p=35474</id>
-        <link href="https://data.wingarc.com/taimu-kun-111-35474"/>
-        <updated>2021-10-03T23:00:21.000Z</updated>
-        <summary type="html"><![CDATA[ここがポイント：今年もやりますupdataNOW21！ みなさん、おはようございます。 今年もウイングアーク１ｓｔ主催のイベントが開催される季節になりました。昨年に引き続き「updataNOW」という名前で開催されるそう […]]]></summary>
-        <author>
-            <name>TotsukaKeisuke</name>
         </author>
     </entry>
 </feed>
