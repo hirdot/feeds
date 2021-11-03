@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-03T10:02:51.849Z</updated>
+    <updated>2021-11-03T22:02:32.106Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ザッカーバーグも賭ける「メタバース」の夢、その問われる真価]]></title>
+        <id>https://www.technologyreview.jp/?p=260104</id>
+        <link href="https://www.technologyreview.jp/s/260104/the-metaverse-could-actually-help-people/"/>
+        <updated>2021-11-03T21:50:22.000Z</updated>
+        <summary type="html"><![CDATA[フェイスブック（「メタ」に社名変更）が今後、事業の核にすると発表した3次元バーチャル空間「メタバース」は、技術系エリートが使うばかげたキャッチフレーズのようにも聞こえるが、現実世界をよりよく変える可能性がある。]]></summary>
+        <author>
+            <name>John David N. Dionisio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相手がメッセージを読んだかどうかがわかる既読通知の機能がGMBに追加]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11710</id>
+        <link href="https://www.suzukikenichi.com/blog/message-read-receipts-added-to-google-my-business/"/>
+        <updated>2021-11-03T21:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Google マイビジネスのメッセージ機能に既読通知を受け取れる設定が追加された。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Power AppsでiOS/Androidのネイティブアプリ開発が可能に。Iginte 2021]]></title>
+        <id>https://www.publickey1.jp/blog/21/microsoft_power_appsiosandroidiginte_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/microsoft_power_appsiosandroidiginte_2021.html"/>
+        <updated>2021-11-03T15:01:42.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、11月3日、4日に開催したオンラインイベント「Microsoft Ignite 2021」で、ローコード／ノーコード開発ツールのPower Appsの新機能として、iOSとAndroidのネイティブアプリ開発を可能にする「...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、コンテナをサーバレスで実行する「Azure Container Apps」発表。KEDAとDaprを採用。Ignite 2021]]></title>
+        <id>https://www.publickey1.jp/blog/21/azure_container_appskedadaprignite_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/azure_container_appskedadaprignite_2021.html"/>
+        <updated>2021-11-03T15:00:41.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトはコンテナをサーバレスで実行する新サービス「Azure Container Apps」を、オンラインイベント「Microsoft Ignite 2021」で発表しました。   Azure Container Appsは、コンテ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Transit Gateway Network Manager はグローバルネットワークにおけるネットワークとルートの分析を簡素化する新しい API を発表]]></title>
+        <id>ab0efbc5767df12bba20748f3c042cbb3a625738</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/"/>
+        <updated>2021-11-03T12:31:05.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Transit Gateway Network Manager は、グローバルネットワークの自動分析を行い、可視化を目的とした独自のトポロジービューの構築を可能にする新しいAPIを発表しました。以下の API を使用して、グローバルなネットワークリソースの集約されたビューを取得し、ルートを分析し、AWS リージョン間のテレメトリーデータを取得できます:
+ 
+ 
+ 
+グローバルネットワークのネットワークリソースの記述 (GetNetworkResources)
+ 
+ 
+グローバルネットワークのネットワークヘルス情報の取得 (GetNetworkTelemetry )
+ 
+ 
+特定のルートテーブルのネットワークルートの取得 (GetNetworkRoutes )
+ 
+ 
+特定のリソースのネットワークリソース関係の取得 (GetNetworkResourceRelationships)
+ 
+ 
+グローバルネットワークのネットワークリソース数の取得 (GetNetworkResourceCounts)]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon QLDB で新しいバージョンの QLDB Shell が利用可能に]]></title>
         <id>8392fd530808e3a504c993b39209a8eb0df04fca</id>
@@ -4178,57 +4244,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[AWSとVMwareは、「VMware Cloud on AWS Outpost」の正式リリースを発表しました（AWS Blogでの発表）。  VMwareはVMworld 2021の基調講演で発表しました AWSは2018年にオンプレミス...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsのパターンとアンチパターン4: コントローラ編（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_05/112108</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_05/112108"/>
-        <updated>2021-10-05T10:01:22.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/09/rails_patterns_antipatterns4_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Ruby on Rails Controller Patterns and Anti&#45;patterns &#124; AppSignal Blog 原文公開日: 2021/04/14 著者: Nikola Đuza: ハンガリーNovi Sad在住のエンジニア兼ライター、ブログや登壇で知識の普及に努めています。JavaScriptやRubyで面白いものを作るのが好きです。 サイト: AppSignal Blog Railsのパターンとアンチパターン4: コントローラ編（翻訳） Ruby on Railsのパターンとアンチパターンシリーズの第4回目 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_05/112108" data-wpel-link="internal" target="_self">Railsのパターンとアンチパターン4: コントローラ編（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脳インプラントでうつ病を大幅改善、個別化医療に期待]]></title>
-        <id>https://www.technologyreview.jp/?p=258082</id>
-        <link href="https://www.technologyreview.jp/s/258082/this-womans-brain-implant-zaps-her-with-electricity-when-it-senses-shes-getting-depressed/"/>
-        <updated>2021-10-05T07:38:54.000Z</updated>
-        <summary type="html"><![CDATA[うつ病が発症する兆候を検出すると脳に電気刺激を与える装置を頭蓋骨内に埋め込むことで、うつ病の症状を大幅に改善できることを示す研究が発表された。従来の治療で効果のなかった患者に対する個別化医療として期待される。]]></summary>
-        <author>
-            <name>Charlotte Jee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend が、2 つの Trusted Advisor チェックを追加]]></title>
-        <id>64acdea32910ed2d6222536202a51249b9bec57a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/"/>
-        <updated>2021-10-05T02:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend が、Amazon Comprehend エンドポイントのコストとセキュリティを最適化するのに役立つ、2 つの新しい AWS Trusted Advisor チェックをサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXのキーパーソン！？経営とデータサイエンスの橋渡し役　ビジネストランスレーターとは？]]></title>
-        <id>https://data.wingarc.com/?p=35862</id>
-        <link href="https://data.wingarc.com/all-about_business-translator-35862"/>
-        <updated>2021-10-05T00:50:21.000Z</updated>
-        <summary type="html"><![CDATA[DXを推進していく中で、担当者が直面する課題に「技術者とのコミュニケーションが専門的で分からない」ということがあると思います。 例えば、経営サイドからさまざまなデータ分析の要望が伝えられたとします。そのままデータ分析を担 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第156回　pt-archiverを使って部分的にテーブルから情報を取得する ── MySQL道普請便り]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0156</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0156"/>
-        <updated>2021-10-05T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は第9回　pt-query-digestを使って遅いクエリーを発見するや第116回　pt-upgradeを使ってインデックスチューニングの成果を確認するで紹介したPerocona Toolkitの1つ，pt-archiverを使って部分的に取得する方法を紹介します。]]></summary>
-        <author>
-            <name>木村浩一郎</name>
         </author>
     </entry>
 </feed>
