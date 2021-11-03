@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-03T04:03:33.328Z</updated>
+    <updated>2021-11-03T05:02:08.084Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon QLDB で新しいバージョンの QLDB Shell が利用可能に]]></title>
+        <id>8392fd530808e3a504c993b39209a8eb0df04fca</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-qldb-new-version-qldb-shell/"/>
+        <updated>2021-11-03T04:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Quantum Ledger Database (QLDB) で、インストールと使用がより簡単な新しいバージョンの QLDB Shell をご利用いただけるようになります。QLDB のお客様は、お気に入りのオペレーティングシステムに合わせた QLDB Shell をダウンロードして、他のインストール手順を実行したり、依存関係をインストールしたりすることなく、QLDB 台帳のクエリを開始できるようになりました。QLDB Shell はオープンソースであるため、エキスパートのユーザーは、ソースコードから構築し、カスタム要件に合わせて調整できます。更新された QLDB Shell は、クエリランタイム統計を改善し、クエリ出力用にオプションの表形式のデータフォーマットを導入し、優先オプションの保存のための設定ファイルサポートを提供し、表の一覧表示や、台帳、リージョン、およびエンドポイントの切り替えに便利なコマンドを追加します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GameLift が新しいリージョンで利用可能となり、Graviton2 のサポートも利用可能に]]></title>
+        <id>fbec69b3b241891ac464017f818a962fc6505b90</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/new-region-availability-graviton2-support-amazon-gamelift/"/>
+        <updated>2021-11-03T04:33:36.000Z</updated>
+        <summary type="html"><![CDATA[マルチプレイヤーゲーム用のクラウドサーバーをデプロイ、運用、およびスケールするフルマネージドの専用ゲームサーバーホスティングソリューションである Amazon GameLift が、AWS アジアパシフィック (大阪) リージョンでご利用いただけるようになりました。ゲームデベロッパーは、GameLift マルチリージョンフリートを使用して大阪にインスタンスをデプロイできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App2Container が ECS Fargate Windows のサポートを開始]]></title>
+        <id>41fb8e5f1a6a9220c4897378cf0c315b31ffab3e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/"/>
+        <updated>2021-11-03T04:31:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS App2Container (A2C) は、コンテナ化された Windows アプリケーションの AWS Fargate for ECS Windows コンテナへのデプロイをサポートするようになりました。この機能により、ユーザーは、これまでもサポートされていた ECS および EKS に加えて、デプロイランタイムとして AWS Fargate for ECS Windows コンテナをターゲットにできるようになりました。App2Container を使用すると、デベロッパーは、いくつかの簡単な手順で、実行中の Windows ベースの .NET アプリケーションまたは Windows サービスを利用して、分析、コンテナ化、および AWS Fargate for ECS Windows コンテナへのデプロイを実行できます。デベロッパーは、AWS Fargate が提供する Auto Scaling、ホスト管理、およびセキュリティで保護されたアプリケーションライフサイクル管理を利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コンピューターはどう進化してきたか？MITTRの誌面から]]></title>
         <id>https://www.technologyreview.jp/?p=259681</id>
