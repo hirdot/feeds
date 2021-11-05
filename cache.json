@@ -235,6 +235,33 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct11-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週2021年10月11日のJava総まとめでは、OpenJDK、JDK 18、Spring Framework、Grails 5.0、Micronaut 3.1、Helidon 2.3.4、Hibernate ORMおよびReactiveのポイントとGAリリース、WildFly 25の最近のGAリリースに関連するアップデート、GraalVM Native Build Tools 0.9.6、Apache Camel 3.11.3、Piranha 21.10.0、およびMultik多次元アレイライブラリを導入するJetBrainsからのニュースを特集している。\n By Michael Redlich  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct11-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-05T07:25:00.000Z",
+          "wordCount": 1587,
+          "title": "Javaニュース総まとめ: Grails 5.0、Spring Framework、Hibernate、WildFlyおよびKotlin Multik Library"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/11/ddd-vas-gateway-soundcloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vasco Veloso",
+          "description": "最近、ドメインゲートウェイの実装に向けたSoundCloudのサービスアーキテクチャの進化について説明する2つの記事が公開された。付加価値サービスはその過程にある。著者は、これらのドメイン駆動設計ベースのパターンがどのように重複を減らし、ビジネスと承認ロジックを均質化するのに役立ったかを説明している。\n By Vasco Veloso  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/11/ddd-vas-gateway-soundcloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-05T07:23:00.000Z",
+          "wordCount": 1126,
+          "title": "SoundCloudの付加価値サービスとドメインゲートウェイを備えたドメイン駆動設計とは"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/11/cloudflare-r2-egress-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "Cloudflareは先頃、エグレス(egress、下り通信)料金に関わりなく、大量のデータを格納可能なS3互換サービスのR2ストレージを発表した。既存のAWSデプロイメントの移行あるいは統合を促進するための手段として、Amazon S3からCloudflare R2へのオブジェクトの自動マイグレーションが提供される。\n By Renato Losio  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2021/11/cloudflare-r2-egress-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-05T07:10:00.000Z",
+          "wordCount": 1142,
+          "title": "CloudflareがR2ストレージとレグレス無償でAWSに挑む"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2021/10/api-design-principles-slack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Vasco Veloso",
           "description": "Slackが採用するAPI設計の原則とプロセスを解説した記事が先頃、Slack Engineeringブログ上で公開された。記事にはSlackが、簡潔性、安全性、拡張性、開発者エクスペリエンスを念頭においてAPIを設計する上で使用する、6つの設計原則について説明されている。これらの原則を実践する方法として、4ステップのレビューとテストのプロセスが存在する。ただし、ある程度の融通は認められている\n By Vasco Veloso  Translated by h_yoshida _",

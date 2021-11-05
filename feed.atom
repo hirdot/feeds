@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-05T07:02:51.649Z</updated>
+    <updated>2021-11-05T08:03:31.741Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Javaニュース総まとめ: Grails 5.0、Spring Framework、Hibernate、WildFlyおよびKotlin Multik Library]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct11-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct11-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-05T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[今週2021年10月11日のJava総まとめでは、OpenJDK、JDK 18、Spring Framework、Grails 5.0、Micronaut 3.1、Helidon 2.3.4、Hibernate ORMおよびReactiveのポイントとGAリリース、WildFly 25の最近のGAリリースに関連するアップデート、GraalVM Native Build Tools 0.9.6、Apache Camel 3.11.3、Piranha 21.10.0、およびMultik多次元アレイライブラリを導入するJetBrainsからのニュースを特集している。
+ By Michael Redlich  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SoundCloudの付加価値サービスとドメインゲートウェイを備えたドメイン駆動設計とは]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/ddd-vas-gateway-soundcloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/ddd-vas-gateway-soundcloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-05T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、ドメインゲートウェイの実装に向けたSoundCloudのサービスアーキテクチャの進化について説明する2つの記事が公開された。付加価値サービスはその過程にある。著者は、これらのドメイン駆動設計ベースのパターンがどのように重複を減らし、ビジネスと承認ロジックを均質化するのに役立ったかを説明している。
+ By Vasco Veloso  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Vasco Veloso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudflareがR2ストレージとレグレス無償でAWSに挑む]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/cloudflare-r2-egress-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/cloudflare-r2-egress-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-05T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflareは先頃、エグレス(egress、下り通信)料金に関わりなく、大量のデータを格納可能なS3互換サービスのR2ストレージを発表した。既存のAWSデプロイメントの移行あるいは統合を促進するための手段として、Amazon S3からCloudflare R2へのオブジェクトの自動マイグレーションが提供される。
+ By Renato Losio  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Database Activity Streams が Graviton2 ベースのインスタンスのサポートを開始]]></title>
         <id>1b4f3d736bacf23fdbddfc339c08b70924d12e24</id>
