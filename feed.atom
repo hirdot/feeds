@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-05T03:02:45.138Z</updated>
+    <updated>2021-11-05T04:03:35.551Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Database Activity Streams が Graviton2 ベースのインスタンスのサポートを開始]]></title>
+        <id>1b4f3d736bacf23fdbddfc339c08b70924d12e24</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/"/>
+        <updated>2021-11-05T03:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Database Activity Streams が、Amazon Aurora PostgreSQL 互換エディションおよび Amazon Aurora MySQL 互換エディションで Graviton2 ベースのインスタンスのサポートを開始しました。Amazon Aurora 用 Database Activity Streams は、監査とコンプライアンスの目的で、リレーショナルデータベース内のデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護できるようになり、コンプライアンスと規制要件への適合に役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021年11月5日号　Ubuntu 21.10 日本語Remixのリリース，AMD “Yellow Carp”プラットフォームの準備 ── Ubuntu Weekly Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202111/05</id>
@@ -4294,26 +4304,6 @@ Microsoftからの最新ニュースによると、今年11月の.NET 6のGAに�
         <summary type="html"><![CDATA[AWS は、AWS クラウドコントロール API の一般提供を発表しました。これは、デベロッパーがクラウドインフラストラクチャを一貫した方法で管理し、最新の AWS 機能をより迅速に活用できるようにするために設計された一連の一般的なアプリケーションプログラムインターフェイス (API) です。クラウドコントロール API を使用すると、デベロッパーは、個別のサービス固有の API を使用する代わりに、5 つの一貫した API を使用して数百の AWS リソースと十数個のサードパーティーのリソースのライフサイクルを管理できます。今回のリリースにより、AWS パートナーネットワーク (APN) パートナーは、新しいリソースが利用可能になったときにカスタム開発作業に数週間を費やす代わりに、ソリューションを既存および将来の AWS 機能およびサービスとどのように統合するかを 1 回の統合で自動化できるようになりました。HashiCorp による Terraform と Pulumi は、今回のリリースの一環としてソリューションを統合しました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンテナ標準のOCI対応、クラウドネイティブなWebAssemblyランタイム「WasmEdge」が、CNCFのサンドボックスプロジェクトに採用]]></title>
-        <id>https://www.publickey1.jp/blog/21/ociwebassemblywasmedgecncf.html</id>
-        <link href="https://www.publickey1.jp/blog/21/ociwebassemblywasmedgecncf.html"/>
-        <updated>2021-10-06T15:50:19.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースのWebAssemblyランタイム「WasmEdge」を開発するSecond Stateは、WasmEdgeがCloud Native Computing Foundation（CNCF）のサンドボックスプロジェクトに採用され...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンプレミスのストレージ群を抽象化してStorage as Codeを実現する「Pure Fusion」、Pure Storageが発表]]></title>
-        <id>https://www.publickey1.jp/blog/21/storage_as_codepure_fusionpure_storage.html</id>
-        <link href="https://www.publickey1.jp/blog/21/storage_as_codepure_fusionpure_storage.html"/>
-        <updated>2021-10-06T15:03:07.000Z</updated>
-        <summary type="html"><![CDATA[ストレージベンダのPure Storageは、同社のストレージ製品群を抽象化しコードで制御できる「Storage as Code」を実現する新サービス「Pure Fusion」を発表しました。   Pure Fusionはクラウドサービスと...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

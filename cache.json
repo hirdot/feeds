@@ -1485,24 +1485,6 @@
           "publishedOn": "2021-10-07T15:09:42.000Z",
           "wordCount": 240,
           "title": "GitHub Releasesにリリースノートを自動生成する新機能。テンプレートでのカスタマイズも可能"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/ociwebassemblywasmedgecncf.html",
-          "author": null,
-          "description": "オープンソースのWebAssemblyランタイム「WasmEdge」を開発するSecond Stateは、WasmEdgeがCloud Native Computing Foundation（CNCF）のサンドボックスプロジェクトに採用され...",
-          "link": "https://www.publickey1.jp/blog/21/ociwebassemblywasmedgecncf.html",
-          "publishedOn": "2021-10-06T15:50:19.000Z",
-          "wordCount": 190,
-          "title": "コンテナ標準のOCI対応、クラウドネイティブなWebAssemblyランタイム「WasmEdge」が、CNCFのサンドボックスプロジェクトに採用"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/storage_as_codepure_fusionpure_storage.html",
-          "author": null,
-          "description": "ストレージベンダのPure Storageは、同社のストレージ製品群を抽象化しコードで制御できる「Storage as Code」を実現する新サービス「Pure Fusion」を発表しました。   Pure Fusionはクラウドサービスと...",
-          "link": "https://www.publickey1.jp/blog/21/storage_as_codepure_fusionpure_storage.html",
-          "publishedOn": "2021-10-06T15:03:07.000Z",
-          "wordCount": 166,
-          "title": "オンプレミスのストレージ群を抽象化してStorage as Codeを実現する「Pure Fusion」、Pure Storageが発表"
         }
       ]
     },
@@ -2104,6 +2086,15 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "1b4f3d736bacf23fdbddfc339c08b70924d12e24",
+          "author": "aws@amazon.com",
+          "description": "Database Activity Streams が、Amazon Aurora PostgreSQL 互換エディションおよび Amazon Aurora MySQL 互換エディションで Graviton2 ベースのインスタンスのサポートを開始しました。Amazon Aurora 用 Database Activity Streams は、監査とコンプライアンスの目的で、リレーショナルデータベース内のデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護できるようになり、コンプライアンスと規制要件への適合に役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/",
+          "publishedOn": "2021-11-05T03:31:14.000Z",
+          "wordCount": 306,
+          "title": "Database Activity Streams が Graviton2 ベースのインスタンスのサポートを開始"
+        },
         {
           "id": "b375ab54bcc7526e78f7e988213ca7ab2dbafbc7",
           "author": "aws@amazon.com",
