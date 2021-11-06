@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-06T22:02:32.857Z</updated>
+    <updated>2021-11-06T23:02:41.414Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4042,16 +4042,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/"/>
         <updated>2021-10-08T13:01:09.000Z</updated>
         <summary type="html"><![CDATA[AWS Elastic Beanstalk は、Elastic Beanstalk 環境で動作するデータベースのデカップリングをサポートするようになりました。これまで、Elastic Beanstalk で作成したデータベースインスタンスは、環境のライフサイクルに縛られていました。このリリースにより、データベースインスタンスのライフサイクルがアプリケーションの環境のライフサイクルに縛られることがなくなり、Elastic Beanstalk で管理するデータベースと Beanstalk 環境を切り離すことができます。環境の健全性はデカップリングオペレーションによって影響を受けず、データベースを外部データベースとして運用し続けることができ、複数の環境が接続できるようになります。また、データベースを運用したまま Elastic Beanstalk 環境を終了させるオプションもあります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で時系列データの準備と可視化をする]]></title>
-        <id>46657b3b55667b1b90e88ead51ed4325ed5cd0c5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/"/>
-        <updated>2021-10-08T10:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
