@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-07T00:16:46.726Z</updated>
+    <updated>2021-11-07T01:50:09.524Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4022,26 +4022,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/"/>
         <updated>2021-10-08T14:00:56.000Z</updated>
         <summary type="html"><![CDATA[AWS App Mesh が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS App Mesh はアプリケーションレベルのネットワークを提供し、さまざまな種類のコンピューティングインフラストラクチャにわたり、お客様のサービスが相互に通信することを容易にするサービスメッシュです。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall がルールの順序とデフォルトドロップの新しい設定オプションを追加]]></title>
-        <id>77a19823cd428becc735de65f8286bb0ac247a18</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/"/>
-        <updated>2021-10-08T13:01:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall で、ルールの順序やデフォルトドロップに関する新しい設定オプションが提供され、Virtual Private Cloud (VPC) のトラフィックをモニタリングするためのルールの書き込みや処理が容易になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elastic Beanstalk が Elastic Beanstalk 環境でのデータベースデカップリングをサポート]]></title>
-        <id>590a866c37159826591dd4c077b8800b290783e0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/"/>
-        <updated>2021-10-08T13:01:09.000Z</updated>
-        <summary type="html"><![CDATA[AWS Elastic Beanstalk は、Elastic Beanstalk 環境で動作するデータベースのデカップリングをサポートするようになりました。これまで、Elastic Beanstalk で作成したデータベースインスタンスは、環境のライフサイクルに縛られていました。このリリースにより、データベースインスタンスのライフサイクルがアプリケーションの環境のライフサイクルに縛られることがなくなり、Elastic Beanstalk で管理するデータベースと Beanstalk 環境を切り離すことができます。環境の健全性はデカップリングオペレーションによって影響を受けず、データベースを外部データベースとして運用し続けることができ、複数の環境が接続できるようになります。また、データベースを運用したまま Elastic Beanstalk 環境を終了させるオプションもあります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
