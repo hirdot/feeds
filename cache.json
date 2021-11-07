@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11715",
+          "author": "Kenichi Suzuki",
+          "description": "ページ エクスペリエンス シグナルを、PC 検索でもランキング要因に取り入れることを Google は発表した。2022 年 2 月に展開を開始し、3 月末までに展開完了する予定だ。",
+          "link": "https://www.suzukikenichi.com/blog/google-will-introduce-page-experience-update-to-desktop-search/",
+          "publishedOn": "2021-11-07T21:30:44.000Z",
+          "wordCount": 689,
+          "title": "ページ エクスペリエンス シグナルがPC検索でもGoogleのランキング要因に、2022年2月アップデート開始"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11712",
           "author": "Kenichi Suzuki",
           "description": "スパム対策のためのアップデートを Google は実施した。“November 2021 spam update” と表現している。",
@@ -513,6 +522,15 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=260425",
+          "author": "Tatyana Woodall",
+          "description": "全米アカデミーズは11月4日、「天文学・天体物理学の10カ年計画」の報告書を発表した。科学的優先事項として、居住可能な太陽系外惑星、ブラックホール、銀河の起源と進化を挙げている。",
+          "link": "https://www.technologyreview.jp/s/260425/the-latest-decadal-survey-sets-a-new-course-for-us-astronomy/",
+          "publishedOn": "2021-11-07T21:31:43.000Z",
+          "wordCount": 723,
+          "title": "米国の宇宙科学10カ年計画、居住可能惑星など優先"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=260125",
           "author": "Victor Mbarika",
@@ -1076,6 +1094,33 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/21/javajava_community_processjcpjava.html",
+          "author": null,
+          "description": "マイクロソフトは、Javaの仕様策定や関連技術の開発、実装などを行う「Java Community Process」（JCP）への参加を発表しました。 Microsoft Deepens Its Investments in #Javaht...",
+          "link": "https://www.publickey1.jp/blog/21/javajava_community_processjcpjava.html",
+          "publishedOn": "2021-11-07T15:05:32.000Z",
+          "wordCount": 191,
+          "title": "マイクロソフト、Javaの仕様を策定するJava Community Process（JCP）への参加を発表。Javaへのコミットをさらに強める"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/linux_kernel_515ltsntfssmb_3.html",
+          "author": null,
+          "description": "Linuxカーネルの最新版となるLinux Kernel 5.15が10月31日付けで正式にリリースされました。 Linuxカーネルは毎年「Longterm Maintenance Kernel」と呼ばれる長期リリース版（いわゆるLTS版）...",
+          "link": "https://www.publickey1.jp/blog/21/linux_kernel_515ltsntfssmb_3.html",
+          "publishedOn": "2021-11-07T15:00:08.000Z",
+          "wordCount": 183,
+          "title": "Linux Kernel 5.15リリース。LTS版、新しいNTFS対応ドライバ、インカーネルSMB 3サーバ、不揮発性メモリへのスワップアウトなど新機能"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/githubnat_friedman_ceogithubceo.html",
+          "author": null,
+          "description": "GitHubのNat Friedman CEOが退任を発表しました。11月15日には新CEOとなるThomas Dohmke氏にポジションを譲り、以後の肩書きは名誉会長（Chairman Emeritus）になるとのことです。 BIG ne...",
+          "link": "https://www.publickey1.jp/blog/21/githubnat_friedman_ceogithubceo.html",
+          "publishedOn": "2021-11-07T15:00:01.000Z",
+          "wordCount": 374,
+          "title": "GitHubのNat Friedman CEOが退任を発表、マイクロソフト買収後のGitHubを支えたCEO"
+        },
         {
           "id": "https://www.publickey1.jp/blog/21/chrome_97devtoolswebpuppeteer.html",
           "author": null,
@@ -3490,6 +3535,15 @@
       "feedUrl": "https://weblog.rubyonrails.org/feed/atom.xml",
       "siteUrl": "https://weblog.rubyonrails.org/",
       "articles": [
+        {
+          "id": "https://weblog.rubyonrails.org/2021/11/7/this-week-in-rails-nested-attributes-for-delegated-types-improved-performances-and-more-73a8f5cf/",
+          "author": null,
+          "description": "Hey! Robin here with the latest news from the Ruby on Rails world. Support accepts_nested_attributes_for for delegated types Rails 6.1 introduced delegated types to ease handling some polymorphic relationships. This pull request makes using accepts_nested_attributes_for on such types a piece of cake. Use nested queries doing UPDATE with GROUP BY and HAVING on MySQL Since MySQL doesn’t support UPDATE with GROUP BY and HAVING clauses, this patch fixes such scenario to rely on a sub-query. A similar patch has been merged to deal with DELETE queries. Raise a specific error on unsafe redirects Rails 7.0 prevents redirects to other hosts than the current one unless you explicitly ask it to. In case of unsafe redirects, an ArgumentError was raised. Now, the error is more specific, allowing you to rely on a rescue_from block to deal with such cases. Add url_from to check if an URL is internal In line with the previous patch, a new url_from method is available in controllers to check whether an URL is internal or not, simplifying the way to provide an alternative in case it is not. Improved Active Job test helpers error messages This is the kind of little changes that make life easier. The error messages of assert_enqueued_with and assert_performed_with have been improved to ease debugging when the assertion failed. Happy testing! Optimize ActiveSupport::CurrentAttributes method generation It’s always lovely to see performance optimizations. This patch is about method generation of classes inheriting from ActiveSupport::CurrentAttributes. The trick here is to generate the code as a string rather than relying on a closure. 13 people contributed to Rails since last time. All the changes can be checked here. Until next week!",
+          "link": "https://weblog.rubyonrails.org/2021/11/7/this-week-in-rails-nested-attributes-for-delegated-types-improved-performances-and-more-73a8f5cf/",
+          "publishedOn": "2021-11-07T00:00:00.000Z",
+          "wordCount": 315,
+          "title": "Nested attributes for delegated types, improved performances and more!"
+        },
         {
           "id": "https://weblog.rubyonrails.org/2021/10/31/this-week-in-rails-halloween-edition-zeitwerk-migration-guide-selenium-webdriver-and-some-ruby-3-1-snacks-66c67b91/",
           "author": null,
