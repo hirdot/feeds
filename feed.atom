@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-07T01:50:09.524Z</updated>
+    <updated>2021-11-07T02:21:39.067Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3992,36 +3992,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/"/>
         <updated>2021-10-08T14:31:32.000Z</updated>
         <summary type="html"><![CDATA[Amazon Simple Email Service (Amazon SES) のお客様は、2048 ビットのドメインキーアイデンティファイドメール (DKIM) キーを使用して、メールのセキュリティを強化できるようになりました。DKIM は、特定のドメインから送られてきたとクレームする電子メールが、そのドメインの所有者によって実際に承認されたものであることを確認するために設計された、E メールセキュリティ基準です。パブリックキー暗号化を使用して、プライベートキーで E メールに署名します。受信者側サーバーはドメインの DNS に公開されたパブリックキーを使用して、送信中に E メールの一部が変更されていないことを確認できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift が、次世代の Amazon Redshift クエリエディタを発表]]></title>
-        <id>6b17bb8ffd4710f2aacc0e022b4168de0bda0680</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/"/>
-        <updated>2021-10-08T14:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift クエリエディタ V2 は、データアナリスト、データサイエンティスト、データベースデベロッパーなどの SQL ユーザー向けのウェブベースのツールにより、Amazon Redshift データウェアハウスおよびデータレイク内のデータへのアクセスを簡単にします。クエリエディタ V2 により、データの探索、分析、共同作業ができます。インフラストラクチャを管理することなく、データの探索に集中できるウェブベースのアプリケーションを提供することで、クエリツール管理の運用コストを削減できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[横串検索の新しいデータソースとして、Amazon RDS for MySQL および Amazon Aurora MySQL データベースの一般提供開始を発表]]></title>
-        <id>f022e17cf8e69f4ed70325f7635687ef8ae3da1d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/"/>
-        <updated>2021-10-08T14:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift の横串検索機能により、多くのお客様は、運用データベースのライブデータを Amazon Redshift データウェアハウスのデータおよび Amazon S3 データレイク環境のデータと組み合わせて、企業内のすべてのデータにわたって統合された分析ビューを得ることができます。今回、Amazon Redshift 横串検索のサポートが、既存の Amazon Aurora PostgreSQL および Amazon RDS for PostgreSQL データベースに加えて、Amazon Aurora MySQL および Amazon RDS for MySQL データベースで一般利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS App Mesh が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に]]></title>
-        <id>95715c0c652af8f51fb322fb777d3f7d83638a52</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/"/>
-        <updated>2021-10-08T14:00:56.000Z</updated>
-        <summary type="html"><![CDATA[AWS App Mesh が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS App Mesh はアプリケーションレベルのネットワークを提供し、さまざまな種類のコンピューティングインフラストラクチャにわたり、お客様のサービスが相互に通信することを容易にするサービスメッシュです。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
