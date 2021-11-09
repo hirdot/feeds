@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-09T04:03:29.127Z</updated>
+    <updated>2021-11-09T05:02:23.399Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lake Formation が AWS PrivateLink のサポートを開始]]></title>
+        <id>7c8efe9f6e4f8121450f09822a90a2a5bfffd7fc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/"/>
+        <updated>2021-11-09T04:47:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lake Formation が、Virtual Private Cloud (VPC) 内のデータレイクにアクセスするためのマネージド VPC エンドポイント (AWS PrivateLink を利用) をサポートするようになりました。  AWS Lake Formation マネージドエンドポイントを使用すると、プライベート IP 接続により、VPC 内およびオンプレミスのクライアントアプリケーションとサービスのデータレイクへのアクセスを承認できるようになりました。また、VPC エンドポイントポリシーを設定して、サービスが AWS Lake Formation にアクセスする方法をよりきめ細かくコントロールすることも可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora Global Database が AWS GovCloud (米国) リージョンで利用可能に]]></title>
+        <id>1219ff61f85bcbe124290ddce785ae783e94e5ff</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-aurora-global-database-aws-govcloud/"/>
+        <updated>2021-11-09T04:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora Global Database は、Amazon Aurora の機能です。グローバルに提供するサービス規模のアプリケーションに対応できるように設計されています。単一の Aurora データベースが複数の AWS リージョンにまたがり使用することを可能にし、迅速なレプリケーションにより、低レイテンシーでグローバルな読み込みとリージョン全体での災害復旧を可能にします。本日のリリースにより、Amazon Aurora Global Database は AWS GovCloud (米国東部および米国西部) リージョンで利用可能になります。Amazon Aurora Global Database のお客様は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョン間でレプリケーションできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup Vault Lock が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に]]></title>
+        <id>6d3672cab3e713cc486c12c0eec2333ae403b86a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-vault-lock-available-aws-china-regions/"/>
+        <updated>2021-11-09T04:46:20.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup Vault Lock が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS Backup を使用すると、お客様は、フルマネージドかつ費用対効果の高いソリューションを通じて、AWS のサービス全体のデータ保護を一元化および自動化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 が Red Hat ナレッジベースへのアクセスをサポート開始]]></title>
+        <id>7168b02dd041141127f6d6bcd683a3ee7c3dba40</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/"/>
+        <updated>2021-11-09T04:36:55.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon EC2 で Red Hat Enterprise Linux を含むサブスクリプションを実行しているお客様は、追加費用なしで Red Hat ナレッジベースにシームレスにアクセスできるようになります。このナレッジベースは、お客様が技術的な問題を解決するのに役立つ記事、よくある質問 (FAQ)、およびベストプラクティスガイドなどのライブラリです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Time Sync Service でタイムスタンプの生成と比較がより簡単に]]></title>
         <id>756a33bc03a4e1aa3edbbbbf08517cc4ba2f71b8</id>
