@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-09T10:03:07.745Z</updated>
+    <updated>2021-11-09T22:02:25.020Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google推奨の動画SEO: 各動画に専用ページを作成する]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11719</id>
+        <link href="https://www.suzukikenichi.com/blog/google-recommends-creating-a-dedicated-page-for-each-video/"/>
+        <updated>2021-11-09T21:45:57.000Z</updated>
+        <summary type="html"><![CDATA[動画だけを掲載するページの作成を推奨するガイドを、検索セントラル サイトの動画検索のベストプラクティスに Google は追加した。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DataSync で Hadoop Distributed File Systems (HDFS)および AWS ストレージサービス間のデータのコピーが可能に]]></title>
+        <id>52b381934b08524884df60ae28ab533b079e32a4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/"/>
+        <updated>2021-11-09T20:01:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS DataSync で、Hadoop Distributed File Systems (HDFS) および Amazon S3、Amazon Elastic File System (EFS) 、または Amazon FSx for Windows File Server 間でデータの転送ができるようになりました。DataSync を使用して、Hadoop クラスターの HDFS から AWS ストレージにファイルやフォルダをすばやく、また簡単かつ安全に移行できます。また、DataSync を使用して、ビジネスの継続性維持のために Hadoop クラスターのデータを AWS にレプリケートし、AWS にデータをコピーしてデータレイクに格納できます。また、クラスターおよび AWS 間でデータを転送し、分析や処理を行えます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS サーバーレスアプリケーションとお気に入りの CI/CD システムのための CI/CD 設定の簡素化 – 一般提供]]></title>
+        <id>5514acb1e6928a4e9c32ca733a8cef81d7f357f1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/"/>
+        <updated>2021-11-09T20:01:05.000Z</updated>
+        <summary type="html"><![CDATA[サーバーレスアプリケーションの新しいパイプライン設定機能により、組織のベストプラクティスに従った安全な継続的インテグレーションとデプロイ (CI/CD) のパイプラインを作成できるようになりました。AWS サーバーアプリケーションモデルパイプライン (AWS SAM パイプライン) は、AWS SAM CLI の新機能で、デプロイ頻度の加速、変更のリードタイムの短縮、デプロイエラーの低減などの CI/CD の利点を数分でご利用いただけるようになります。AWS SAM パイプラインには CloudBees CI/Jenkins、GitLab CI/CD、GitHub Actions、Bitbucket Pipelines、AWS CodeBuild/CodePipeline などの一般的な CI/CD システム向けに、AWS のデプロイのベストプラクティスに従ったデフォルトのパイプラインテンプレートが用意されています。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料のフルマネージドなグラフデータベース「Neo4j AuraDB Free」発表。5万ノード、17万5000リレーションシップまで利用可能]]></title>
+        <id>https://www.publickey1.jp/blog/21/neo4j_auradb_free5175000.html</id>
+        <link href="https://www.publickey1.jp/blog/21/neo4j_auradb_free5175000.html"/>
+        <updated>2021-11-09T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Neo4j社は、同社が提供する代表的なグラフデータベース製品のマネージドサービス「Neo4j AuraDB」の無料版「Neo4j AuraDB Free」を発表しました。 We’re excited to announce that eve...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Azure、わざと障害を発生させてサービスの耐障害性を鍛える「Azure Chaos Studio」発表]]></title>
+        <id>https://www.publickey1.jp/blog/21/microsoft_azureazure_chaos_studio.html</id>
+        <link href="https://www.publickey1.jp/blog/21/microsoft_azureazure_chaos_studio.html"/>
+        <updated>2021-11-09T16:21:03.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、Microsoft Azure上で人為的に障害や性能低下などを発生させることで、アプリケーションの耐障害性を確認し改善できる、いわゆるカオスエンジニアリングを実現する新サービス「Azure Chaos Studio」をプレ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker は SageMaker Studio からのカスタムドメインやヘッダーを使った推論テストをサポートするようになりました]]></title>
+        <id>4c0080ce20233ea5f8f24db746a3e317a360deea</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/"/>
+        <updated>2021-11-09T10:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Studio でお客様がカスタム URL のエンドポイントや、特定のヘッダーを必要とするエンドポイントへのテスト推論のリクエストを行えるようになりました。Amazon SageMaker は、ML 専用に構築された幅広い一連の機能をまとめて提供することにより、データサイエンティストとデベロッパーが高品質の機械学習 (ML) モデルを迅速に準備、構築、トレーニング、およびデプロイするのを支援します。Amazon SageMaker Studio は単独のウェブベースビジュアルインターフェイスを装備し、そこではすべてのML開発ステップを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda は Amazon Elastic Container Registry からのクロスアカウントコンテナイメージのプルをサポートするようになりました]]></title>
+        <id>cb9c2cd30a3e5cdd672fd4e71d991de607e3a07d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/"/>
+        <updated>2021-11-09T10:32:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda は AWS Lambda 関数のアカウントとは異なる AWS アカウントの Amazon ECR リポジトリに保存されたコンテナイメージで、関数の作成や更新ができるようになりました。以前は AWS Lambda 関数と同じ AWS アカウントの Amazon ECR リポジトリに保存されているコンテナイメージにのみアクセスできました。Amazon ECR リポジトリに一元化されたアカウントを使用している場合、コンテナイメージを Lambda 関数と同じアカウントの Amazon ECR リポジトリにコピーする必要がありました。Amazon ECR リポジトリに保存されているコンテナイメージに、別のアカウントでアクセスすることで、このワークフローを簡単にすることができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REALFORCE R3にしました]]></title>
         <id>https://techracho.bpsinc.jp/baba/2021_11_09/113315</id>
@@ -4127,159 +4197,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[マイクロソフトは同社のクラウドサービスMicrosoft Azureで仮想デスクトップ環境を提供している「Azure Virtual Desktop」が、Windows 11に対応したことを発表しました。 #Windows11 is now...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Application Migration Service は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) の各リージョンでご利用いただけるようになりました。]]></title>
-        <id>e9efcbb95275a74a59f30cb57399a0672ee40713</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/"/>
-        <updated>2021-10-11T09:46:45.000Z</updated>
-        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) は、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、および欧州 (ロンドン) といった 4 つの追加の AWS リージョンでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQL の新しいマイナーバージョン 13.4、12.8、11.13、10.18 および 9.6.23、 Outposts Supports の Amazon RDS の新しい PostgreSQL マイナーバージョン 13.4 および 12.8]]></title>
-        <id>97f02e142a457d7df895293befc9d18f6f2bfcf5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/"/>
-        <updated>2021-10-11T09:38:37.000Z</updated>
-        <summary type="html"><![CDATA[PostgreSQL データベースのアップデートの発表に伴い、PostgreSQL のマイナーバージョン 13.4、12.8、11.13、10.18、および 9.6.23 をサポートするために、Amazon Relational Database Service (Amazon RDS) をアップデートしました。また、Outposts の Amazon RDS に PostgreSQL マイナーバージョン 13.4 および 12.8 のサポートを追加しました。このリリースでは、PostgreSQL のセキュリティの脆弱性が解消されており、PostgreSQL コミュニティによって行われたバグ修正や機能改善が含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Location Service は、変更検出を追加]]></title>
-        <id>a91a71f3336f718b7af2bc9882583b34cb071ff8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-location-service-change-detection/"/>
-        <updated>2021-10-11T09:35:46.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Location Service は、デバイスの位置情報更新に距離ベースのフィルタリングを追加します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR が Apache Ranger 統合が有効になっている場合に Apache Spark SQL をサポートし、Apache Hive メタデータテーブルにデータを挿入したり、Apache Hive メタデータテーブルを更新したりすることが可能に]]></title>
-        <id>cde5a5087490fa05ae0431ad88b8dd61183ae275</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/"/>
-        <updated>2021-10-11T09:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR と Apache Ranger の統合を使用する場合に、Apache Hive メタデータテーブルを更新するために Apache Spark SQL を使用することについてのサポートを発表します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Cloud on AWS Outposts の一般提供開始を発表]]></title>
-        <id>f0085b4068a30f81d69132b346ef1c0f37041cff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/"/>
-        <updated>2021-10-11T09:31:40.000Z</updated>
-        <summary type="html"><![CDATA[VMware Cloud on AWS Outposts は、共同設計されたソリューションで、事実上 AWS Outposts を備えたデータセンター、コロケーションスペース、またはオンプレミス施設のほぼすべてに、VMware Cloud on AWS をフルマネージドエクスペリエンスとして提供します。VMware のエンタープライズクラスの Software-Defined Data Center (SDDC) ソフトウェアを、AWS Nitro System ベースの EC2 ベアメタルアウトポスト専用インスタンス上で実行します。VMware Cloud on AWS Outposts は、オンプレミスのシステム、ローカルのデータ処理、またはデータレジデンシーへの低レイテンシーのアクセスを必要とする VMware ワークロードのために構築されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: ServerTimingミドルウェア追加、paramsで数値キーを許可、Railsで多要素認証ほか（20211011前編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_11/112364</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_11/112364"/>
-        <updated>2021-10-11T09:17:22.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/railswatch_20211011_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_11/112364" data-wpel-link="internal" target="_self">週刊Railsウォッチ: ServerTimingミドルウェア追加、paramsで数値キーを許可、Railsで多要素認証ほか（20211011前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Sagemaker Studio から直接 Amazon EMR クラスターの Apache Spark、Hive および Presto を使用して、ラージスケールのデータ処理や機械学習ができるようになりました。]]></title>
-        <id>e0424da0e327aae881563eaf07c087dd4456de79</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/"/>
-        <updated>2021-10-11T08:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR クラスターで実行されている Apache Spark、Apache Hive および Prestoなどのオープンソースフレームワークを、直接 Amazon SageMaker Studio ノートブックから使用して、ペタバイトスケールのデータ分析や機械学習を実行できるようになりました。Amazon EMR はオープンソースフレームワークを自動的にインストールして設定し、標準のオープンソースと互換性があり、より高速な、パフォーマンスに最適化されたランタイムを提供します。例：Amazon EMR の Spark 3.0 は同等のオープンソースに比べ、1.7 倍高速です。Amazon SageMaker Studio は、データの準備、モデルの構築、トレーニング、およびデプロイに必要なすべての ML 開発ステップを実行できる単一のウェブベースのビジュアルインターフェイスを提供します。大量のデータの分析、変換、準備は、データサイエンスと ML ワークフローの基本的なステップです。今回のリリースにて、EMR クラスターで実行されている Apache Spark、Hive および Presto などの一般的なフレームワークを直接 Sagemaker Studio から使用して、データサイエンスや ML ワークフローを簡素化することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MSK で Apache Kafka バージョン 2.8.1 のサポート追加]]></title>
-        <id>86ffc324ad6fcf69cddaf165b62a8333a9be939a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/"/>
-        <updated>2021-10-11T08:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 2.8.1 のサポートが開始されました。Apache Kafka 2.8.1 には、いくつかのバグ修正が含まれています。これらの修正の詳細については、Apache Kafka 2.8.1 のリリースノートを確認してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda が別のアカウントの Amazon SQS キューからの Lambda 関数のトリガーのサポートを開始]]></title>
-        <id>8a6d69891e6d9674e78aa2fd064ce4faa2420329</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/"/>
-        <updated>2021-10-11T08:33:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda では、異なる AWS アカウントにある Amazon Simple Queue Service (Amazon SQS) キューから関数をトリガーできるようになりました。これまでは、お客様は同じアカウントの SQS キューからのみ Lambda 関数をトリガーできました。本日より、お客様は、各アカウントでイベントソースをレプリケートすることなく、複数の AWS アカウントで Lambda 関数を作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS アカウントの代替連絡先をプログラムで管理できるようになりました]]></title>
-        <id>211367e08ca1129b2a4d482b75458d3fd0c6de71</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/"/>
-        <updated>2021-10-11T08:31:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS コマンドラインインターフェイス (CLI) と AWS SDK を使用して、AWS アカウントの代替連絡先を簡単に表示および更新できるようになりました。これで、アカウントの請求、運用、セキュリティの連絡先をプログラムで最新の状態に保ち、AWS アカウントに関する重要な通知を確実に受け取れるようになります。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主張：史上初のドローン空爆から20年、そろそろ失敗を認める時だ]]></title>
-        <id>https://www.technologyreview.jp/?p=258329</id>
-        <link href="https://www.technologyreview.jp/s/258329/its-20-years-since-the-first-drone-strike-its-time-to-admit-theyve-failed/"/>
-        <updated>2021-10-11T07:55:28.000Z</updated>
-        <summary type="html"><![CDATA[史上初のドローン空爆はその目的を達成できず、それから20年経った今も民間人が殺害されている。テクノロジーの失敗を認める時だ。]]></summary>
-        <author>
-            <name>Emran Feroz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エディターズ・レター：「脳」と「心」の関係を理解する]]></title>
-        <id>https://www.technologyreview.jp/?p=257560</id>
-        <link href="https://www.technologyreview.jp/s/257560/understanding-the-mind/"/>
-        <updated>2021-10-11T07:21:31.000Z</updated>
-        <summary type="html"><![CDATA[脳を理解することは、私たち自身について知ることにつながる。最新の脳科学の研究動向から、PTSD治療の最前線、人工知能への応用まで、「脳と心」特集に寄せる米国版責任編集者からのエディターズ・レター。]]></summary>
-        <author>
-            <name>Michael Reilly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のソフトウェアの注目は何か - Randy Shoup氏の選ぶQCon Plusのトップトピック]]></title>
-        <id>https://www.infoq.com/jp/news/2021/10/top-qcon-plus-topics/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/10/top-qcon-plus-topics/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-10-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[QConのソフトウェアカンファレンスは、幅広いテクノロジに携わるシニアソフトウェアリーダたちで構成された委員会によって、それぞれが独立した形式で運営されている。先日我々がインタビューした、eBayのエンジニアリングVP兼チーフアーキテクトでQCcon Plus November 2021委員会メンバのRandy Shoup氏は、今年11月のイベントを楽しみにしている、と語った上で、いくつかのトラックについて紹介してくれた。
- By Adelina Turcu  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Adelina Turcu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーティクル: サービスメッシュ必読ガイド - 第2版: 次世代のマイクロサービス開発]]></title>
-        <id>https://www.infoq.com/jp/articles/service-mesh-ultimate-guide-2e/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/articles/service-mesh-ultimate-guide-2e/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-10-11T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[この第2版のサービスメッシュ必読ガイドの記事では、マルチクラウド、マルチクラスタ、マルチテナントモデル、サービスメッシュ拡張、およびサービスメッシュのプロダクションでの運用面などのサービスメッシュテクノロジーの最新の開発について説明します。
- By Srini Penchikala  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Srini Penchikala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動き出した米国初の大規模な気候関連法案、その成果と課題は？]]></title>
-        <id>https://www.technologyreview.jp/?p=258411</id>
-        <link href="https://www.technologyreview.jp/s/258411/video-how-cheap-renewables-and-rising-activism-are-shifting-climate-politics/"/>
-        <updated>2021-10-10T23:28:47.000Z</updated>
-        <summary type="html"><![CDATA[米国のバイデン大統領は気候変動問題を自身の政治活動の中心に据え、米国初の大掛かりな気候関連法案を成立させようとしている。その画期性と課題を識者らが語った。]]></summary>
-        <author>
-            <name>James Temple</name>
         </author>
     </entry>
 </feed>
