@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-09T03:02:57.086Z</updated>
+    <updated>2021-11-09T04:03:29.127Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Time Sync Service でタイムスタンプの生成と比較がより簡単に]]></title>
+        <id>756a33bc03a4e1aa3edbbbbf08517cc4ba2f71b8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/"/>
+        <updated>2021-11-09T03:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Time Sync Service では、オープンソースのデーモンおよびライブラリである ClockBound を使用して、Amazon EC2 インスタンスからタイムスタンプを簡単に生成および比較できるようになりました。この情報は、それぞれのインスタンスの地理的な場所にかかわらず、EC2 インスタンス全体でイベントとトランザクションの順序および一貫性を判断するのに役立ちます。ClockBound は、Amazon EC2 インスタンスのクロックエラーバウンドを計算してそのクロック精度を測定し、インスタンスの現在のクロックに対して、特定のタイムスタンプが過去か未来かを確認できるようにします。ClockBound は、呼び出しごとに、2 つの情報 (現在の時刻および関連する絶対エラー範囲) を同時に返します。これは、ClockBound タイムスタンプの実際の時間が設定された範囲内にあることを意味します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が SQLAlchemy および Apache Airflow オープンソースフレームワークのネイティブサポートを発表]]></title>
+        <id>fc83e7cf3a053ec22c247ef13fb32295a22cebc8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/"/>
+        <updated>2021-11-09T03:33:29.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースの SQLAlchemy (sqlalchemy-redshift) と Apache Airflow フレームワークのネイティブサポートが Amazon Redshift で利用可能となりました。SQLAlchemy 向けの更新された Amazon Redshift ダイアレクトは、Amazon Redshift のオープンソース Python ドライバーをサポートします。このリリースでは、アイデンティティプロバイダー (IdP) でシングルサインオンを使用して Redshift クラスターに接続し、認証情報の管理の手間を省くことができます。SQLAlchemy および Apache Airflow の最新の Redshift ダイアレクトに移行する際の TIMESTAMPTZ および TIMETZ といったデータ型の使用など、Amazon Redshift の新しい機能を使用することもできます。これらの機能は、sqlalchemy-redshift バージョン 0.8.6 以降で使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DevOps Guru が Amazon EKS メトリクスのカバレッジを拡大し、クラスターごとのメトリクスビューを追加]]></title>
+        <id>795b540bbcf95cd9e5aa61d3da9969648c21b487</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/"/>
+        <updated>2021-11-09T03:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DevOps Guru は、Amazon Elastic Kubernetes Service (EKS) によって管理されるクラスター用のノードおよびポッドレベルで追加のメトリクスをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS on AWS Outposts がデータベースログの Amazon CloudWatch へのエクスポートのサポートを開始]]></title>
+        <id>e398c9e89601f4aead33aa6669547d05e2f351bc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/"/>
+        <updated>2021-11-09T03:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) on AWS Outposts では、データベースログを Amazon CloudWatch にエクスポートできるようになりました。AWS リージョンの Amazon RDS データベースインスタンスと同じ単一ウィンドウから、すべての Amazon RDS on AWS Outposts データベースインスタンスをモニタリングできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto 17 のサポートのロードマップに関するお知らせ]]></title>
+        <id>53b264b3c353f6c42ecfdce7f9d3bc83adafaf52</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/"/>
+        <updated>2021-11-09T03:31:05.000Z</updated>
+        <summary type="html"><![CDATA[9 月 16 日に Corretto 17 の一般提供をお知らせしました。本日は、Corretto 17 の長期サポート (LTS) を 2028 年 9 月まで提供することをお知らせします。また、このリリース時点において、他の OpenJDK コミュニティとともに、Corretto LTS のリリース頻度を新たに 2 年間とする予定です。詳細については、AWS オープンソースブログの Corretto 17 Announcement の記事をお読みください。Corretto 17 は、ダウンロードページからご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Amplify が Admin UI でさらに充実したデータ管理機能を提供開始]]></title>
         <id>662a3194fd7d84eabd03efab09ca1a0b343b797a</id>
@@ -4197,16 +4247,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <link href="https://www.publickey1.jp/blog/21/facebook_1.html"/>
         <updated>2021-10-10T18:48:22.000Z</updated>
         <summary type="html"><![CDATA[Haystack社はGitHubのリポジトリを監視し、プルリクエストやマージなどをメトリクス化して分析することでプログラマの生産性やボトルネックなどを計測するサービスを提供しています。 同社は、Facebookが障害によって停止した日はいつ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内パブリッククラウドサービス市場、2020年から5年で2.3倍の2兆9134億円に。IDC Japan]]></title>
-        <id>https://www.publickey1.jp/blog/21/202052329134idc_japan.html</id>
-        <link href="https://www.publickey1.jp/blog/21/202052329134idc_japan.html"/>
-        <updated>2021-10-10T15:44:07.000Z</updated>
-        <summary type="html"><![CDATA[調査会社のIDC japanは国内パブリッククラウドサービス市場予測を発表しました。 同社は2021年の国内パブリッククラウドサービス市場規模は1兆5087億円になると予測。2020年～2025年の年間平均成長率は18.4％で推移し、202...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
