@@ -3574,60 +3574,6 @@
           "publishedOn": "2021-10-11T21:02:40.000Z",
           "wordCount": 255,
           "title": "Amazon ECR Public がコンテナを AWS App Runner に直接起動する機能を追加"
-        },
-        {
-          "id": "8af390461655be74500acf37fcc9d904c6a6af97",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Events は、AWS GovCloud (米国西部) リージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/aws-iot-events-available-aws-govcloud-us-west-region/",
-          "publishedOn": "2021-10-11T21:01:51.000Z",
-          "wordCount": 265,
-          "title": "AWS IoT Events が AWS GovCloud (米国西部) リージョンで利用可能に"
-        },
-        {
-          "id": "a908ebde5b426c0453e0053d7976b40cac767cd8",
-          "author": "aws@amazon.com",
-          "description": "次世代の AWS Graviton2 プロセッサを利用する AWS Lambda 関数が一般的に利用可能となりました。Arm ベースのプロセッサアーキテクチャを使用する Graviton2 関数は、ウェブおよびモバイルバックエンド、データ、メディア処理などのさまざまなサーバーレスワークロードのために、最大 19% 優れたパフォーマンスを 20% 低いコストで提供するように設計されています。AWS Graviton2 プロセッサを使用する関数は、レイテンシーが低くパフォーマンスが優れているため、ミッションクリティカルなサーバーレスアプリケーションのために使用するのが理想的です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/",
-          "publishedOn": "2021-10-11T21:00:59.000Z",
-          "wordCount": 266,
-          "title": "AWS Graviton2 プロセッサを利用する AWS Lambda 関数を使用して最大 34% 優れた料金/パフォーマンスを実現"
-        },
-        {
-          "id": "2d222b24fea87136fa2223732b9141354f06e7fb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。メディアキャプチャパイプラインによって、デベロッパーは Amazon Chime SDK ミーティングのコンテンツをキャプチャし、選択した Amazon Simple Storage Service (Amazon S3) バケットに保存できるようになりました。本日よりデベロッパーは、API を設定して音声、動画、コンテンツのストリームをキャプチャする方法を簡単に切り替え、アプリケーションのメディアキャプチャエクスペリエンスを、カスタマイズすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/",
-          "publishedOn": "2021-10-11T20:33:44.000Z",
-          "wordCount": 252,
-          "title": "Amazon Chime SDK メディアキャプチャパイプラインは、カスタマイズ可能なメディアキャプチャのための API を設定する機能を追加"
-        },
-        {
-          "id": "2f808ce01ad39b82a8702ee5590f9e3760e628c2",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon EC2Mac インスタンスは、欧州 (ストックホルム)、欧州 (ロンドン)、欧州 (フランクフルト)、アジアパシフィック (ソウル)、アジアパシフィック (東京)、アジアパシフィック (ムンバイ)、アジアパシフィック (シドニー) リージョンで利用できます。Apple の Mac mini コンピュータ上に構築された EC2 Mac インスタンスにより、お客様は AWS クラウドでオンデマンドの macOS ワークロードを初めて実行できるようになり、すべての Apple デベロッパーが AWS の柔軟性、スケーラビリティ、およびコストメリットから恩恵を受けることができます。EC2 Mac インスタンスを使用すると、iPhone、iPad、Mac、Apple Watch、Apple TV、および Safari 用アプリケーションを構築するデベロッパーは、macOS 環境を数分でプロビジョニングしてアクセスできます。EC2 Mac を使用すると、デベロッパーは必要に応じて動的に容量を拡張でき、AWS 従量制料金制を活用したアプリケーションの開発、構築、テスト、署名、公開を行うことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/",
-          "publishedOn": "2021-10-11T20:32:55.000Z",
-          "wordCount": 389,
-          "title": "Amazon EC2 Mac インスタンスが追加の AWS リージョンでご利用可能に"
-        },
-        {
-          "id": "982848b3e75cfe2775d194d291f793ee92af62ce",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon Lexボットを設定するとユーザーリクエストが処理されている間、定期的に更新を行うことができます。カスタマーサポートでの会話は、ビジネスロジックの実行が必要になることが多く、完了までに時間がかかる場合があります。例えば、旅程の変更を航空会社の予約システムで行う場合、ピーク時には数分かかることがあります。通常、サポートエージェントが通話を保留にしてリクエストが実行されるまで、定期的に更新を行います (例:「リクエストを実行中です。ご不便をおかけしますがしばらくお待ちください」)。会話中、このように定期的な更新を自動的に行えるよう、簡単にボットを設定できるようになりました。進捗状況の更新機能を使うことで、ボットビルダーは、仮想コンタクトセンターエージェントとスマートアシスタントの機能をすばやく強化することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-lex-progress-updates/",
-          "publishedOn": "2021-10-11T20:32:06.000Z",
-          "wordCount": 214,
-          "title": "Amazon Lex はフルフィルメントの進捗状況の更新を開始"
-        },
-        {
-          "id": "e21a4e6b8cbc5442ca3b074f6b84809f7c9627a6",
-          "author": "aws@amazon.com",
-          "description": "更新された Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) の管理コンソールは、サービスでの OpenSearch や Elasticsearch クラスターの設定管理に関する全体的なエクスペリエンスを高めています。新しいコンソールは、ドメインの作成や更新、ドメインに関する情報をより簡単に入手できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/",
-          "publishedOn": "2021-10-11T20:31:15.000Z",
-          "wordCount": 240,
-          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が改善された管理コンソールを装備"
         }
       ]
     },
