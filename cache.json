@@ -230,6 +230,51 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct18-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週2021年10月18日のJava総まとめでは、OpenJDK JEP、2021年10月のOracleリリースクリティカルパッチアップデート、JDK 18、多数のSpring Projectsアップデート、Quakus 2.3.1、Payaraプラットフォーム、Hibernate Search 6.0.7、GraalVM 21.3、Java for VS Code 1.0とApache Camel for VS Code 0.1.0、JakartaOne Livestream 2021カンファレンスのプログラムの完成からのニュースを特集する。\n By Michael Redlich  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct18-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-10T03:00:00.000Z",
+          "wordCount": 1605,
+          "title": "Javaニュース総まとめ: OpenJDKの更新、Spring、Quarkus、Payara、Hibernate、QuarkusとJakartaOne"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/11/scale-pinterest-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vasco Veloso",
+          "description": "Nishant Roy氏は、Pinterest Engineering Blogに、広告コーパスのスケーリング問題を克服するための戦略を書いている。彼らの既存のソリューションはスケーリングの限界に達していた。そのため、さらなる成長が必要であった。再設計により、広告インデックスがKey-Valueストアにオフロードされ、Goアプリケーションのガベージコレクションが最適化されて、広告コーパスのサイズが60倍に増加した。\n By Vasco Veloso  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/11/scale-pinterest-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-10T02:58:00.000Z",
+          "wordCount": 1120,
+          "title": "Pinterestが広告配信アーキテクチャをどのようにスケールアップしたか"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/11/anthos-for-vms-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "Google Cloud Next'21バーチャルイベント中に、GoogleはAnthos for Virtual Machines（VM）のプレビューを発表した。さらに、同社は新しいAnthos Multi-Cloud APIを導入した。これは、第4四半期に一般提供される予定だ。\n By Steef-Jan Wiggers  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2021/11/anthos-for-vms-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-10T02:53:00.000Z",
+          "wordCount": 1165,
+          "title": "GoogleがAnthos for VMのプレビューを発表"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2021/11/aws-amazon-prometheus-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "先ごろ、AWSは、Amazon Managed Service for Prometheus (AMP) の一般提供 (GA) を発表した。これは、コンテナインフラストラクチャとコンテナのアプリケーションメトリックスの Prometheus 互換のモニタリングサービスだ。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2021/11/aws-amazon-prometheus-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-10T02:31:00.000Z",
+          "wordCount": 1283,
+          "title": "AWSがAmazon Managed Service for Prometheusの一般提供を発表"
+        },
+        {
+          "id": "https://www.infoq.com/jp/articles/ai-devops-takeover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Sam Bocetta",
+          "description": "AIツールは開発者の役割をゆっくりと - DevOpsがかって行ったように - 置き換えています。そして最終的には、DevOpsに完全に取って代わるでしょう。この予測の正しさを評価するのは難しいのですが、この記事では、AIが開発プロセスにもたらすものは何かを確認した上で、それが人間である開発者の作業を本当に引き継ぐことができるのか、数十年後のDevOpsがどのようなものになっているのかを見ていきます。\n By Sam Bocetta  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/articles/ai-devops-takeover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2021-11-10T02:26:00.000Z",
+          "wordCount": 1289,
+          "title": "アーティクル: AIはDevOpsに取って代わるのか？"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2021/11/azure-translator-100-languages/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Steef-Jan Wiggers",
           "description": "Microsoft Translatorは、Azure上の人工知能（AI）を利用したテキスト翻訳サービスだ。コグニティブサービスの一部である。最近、同社は12の新しい言語と方言がサービスに追加されたことを発表した。これは、100を超える言語と方言の間で翻訳できるようになった。\n By Steef-Jan Wiggers  Translated by  編集部T _",
