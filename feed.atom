@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-10T05:02:15.525Z</updated>
+    <updated>2021-11-10T06:06:04.124Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Athena がクエリ実行プランにコストの詳細を追加]]></title>
+        <id>ece8acd62fd8372f900d122af3cbede439560a97</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/"/>
+        <updated>2021-11-10T05:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Athena は、クエリのコンピューティングコストを実行プランとともに表示するようになりました。EXPLAIN ANALYZE ステートメントのリリースにより、Athena は指定されたクエリを実行し、各ステージの CPU 使用率および処理された行数とともに、実行プランの詳細な内訳を返すことができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core for LoRaWAN がマネージドファームウェアの無線通信経由アップデートをサポート]]></title>
+        <id>f429e2e471f5d96f8b107965e385e48d2f161cfa</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/"/>
+        <updated>2021-11-10T05:31:36.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN Network Server (LNS) であり、省電力長距離広域ネットワーク (LoRaWAN) テクノロジーを使用するワイヤレスデバイスを AWS クラウドに接続するのを可能にします。現在、AWS IoT Core for LoRaWAN は、Firmware Over-the-Air Update (FUOTA) をサポートしています。これにより、お客様は、LoRa Alliance によって定義された LoRaWAN マルチキャストおよびフラグメンテーションメカニズムを使用して、フィールド内のデバイスに安全で信頼性の高いファームウェアアップデートを配信できます。これらのメカニズムは、デバイスのバッテリー消費を最小限に抑え、大規模なファイル転送 (数百 KB) を処理することを目的としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DevOps Guru が AWS Organizations とのマルチアカウントのインサイトの集約のサポートを開始]]></title>
+        <id>aae6fc67db86c3634361cf485a71c4786b3d92ef</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/"/>
+        <updated>2021-11-10T05:30:48.000Z</updated>
+        <summary type="html"><![CDATA[委任された単一の管理者アカウントから、組織内のすべてのアカウントで生成されたインサイトを表示できるようになりました。インサイトは、Amazon DevOps Guru がアプリケーションのモニタリング中に運用上の問題を検出したときに生成されるアラートです。これらのインサイトは、現在生じているか、差し迫ったアプリケーションの問題を特定し、問題を引き起こしている可能性のある事象を示し、顧客に影響を及ぼすイベントの発生を防ぐのに役立つ是正措置を推奨します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Javaニュース総まとめ: OpenJDKの更新、Spring、Quarkus、Payara、Hibernate、QuarkusとJakartaOne]]></title>
         <id>https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct18-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>

@@ -2073,6 +2073,33 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ece8acd62fd8372f900d122af3cbede439560a97",
+          "author": "aws@amazon.com",
+          "description": "Amazon Athena は、クエリのコンピューティングコストを実行プランとともに表示するようになりました。EXPLAIN ANALYZE ステートメントのリリースにより、Athena は指定されたクエリを実行し、各ステージの CPU 使用率および処理された行数とともに、実行プランの詳細な内訳を返すことができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/",
+          "publishedOn": "2021-11-10T05:32:24.000Z",
+          "wordCount": 263,
+          "title": "Amazon Athena がクエリ実行プランにコストの詳細を追加"
+        },
+        {
+          "id": "f429e2e471f5d96f8b107965e385e48d2f161cfa",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN Network Server (LNS) であり、省電力長距離広域ネットワーク (LoRaWAN) テクノロジーを使用するワイヤレスデバイスを AWS クラウドに接続するのを可能にします。現在、AWS IoT Core for LoRaWAN は、Firmware Over-the-Air Update (FUOTA) をサポートしています。これにより、お客様は、LoRa Alliance によって定義された LoRaWAN マルチキャストおよびフラグメンテーションメカニズムを使用して、フィールド内のデバイスに安全で信頼性の高いファームウェアアップデートを配信できます。これらのメカニズムは、デバイスのバッテリー消費を最小限に抑え、大規模なファイル転送 (数百 KB) を処理することを目的としています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/",
+          "publishedOn": "2021-11-10T05:31:36.000Z",
+          "wordCount": 299,
+          "title": "AWS IoT Core for LoRaWAN がマネージドファームウェアの無線通信経由アップデートをサポート"
+        },
+        {
+          "id": "aae6fc67db86c3634361cf485a71c4786b3d92ef",
+          "author": "aws@amazon.com",
+          "description": "委任された単一の管理者アカウントから、組織内のすべてのアカウントで生成されたインサイトを表示できるようになりました。インサイトは、Amazon DevOps Guru がアプリケーションのモニタリング中に運用上の問題を検出したときに生成されるアラートです。これらのインサイトは、現在生じているか、差し迫ったアプリケーションの問題を特定し、問題を引き起こしている可能性のある事象を示し、顧客に影響を及ぼすイベントの発生を防ぐのに役立つ是正措置を推奨します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/",
+          "publishedOn": "2021-11-10T05:30:48.000Z",
+          "wordCount": 297,
+          "title": "Amazon DevOps Guru が AWS Organizations とのマルチアカウントのインサイトの集約のサポートを開始"
+        },
+        {
           "id": "52b381934b08524884df60ae28ab533b079e32a4",
           "author": "aws@amazon.com",
           "description": "AWS DataSync で、Hadoop Distributed File Systems (HDFS) および Amazon S3、Amazon Elastic File System (EFS) 、または Amazon FSx for Windows File Server 間でデータの転送ができるようになりました。DataSync を使用して、Hadoop クラスターの HDFS から AWS ストレージにファイルやフォルダをすばやく、また簡単かつ安全に移行できます。また、DataSync を使用して、ビジネスの継続性維持のために Hadoop クラスターのデータを AWS にレプリケートし、AWS にデータをコピーしてデータレイクに格納できます。また、クラスターおよび AWS 間でデータを転送し、分析や処理を行えます。",
