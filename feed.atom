@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-11T05:02:25.771Z</updated>
+    <updated>2021-11-11T06:03:09.645Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex がオーストリアドイツ語のサポートを開始]]></title>
+        <id>b975a18cb9181680581572b21a7fe2e866d4b4b7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-lex-launches-support-austrian-german/"/>
+        <updated>2021-11-11T05:49:01.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Lex は、オーストリアドイツ語の言語サポートを発表しました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。これで、オーストリアドイツ語を理解する、堅牢でローカライズされた会話体験を提供できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Toolkits for Cloud9、AWS Toolkits for JetBrains および AWS Toolkits for VS Code 向け AWS Toolkit が 200 を超える新リソースタイプでのインタラクションのサポートを開始]]></title>
+        <id>1a4af821e151feb2c6fc4ecf302791fb06e3a2be</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-toolkits-cloud9-jetbrains-vs-code/"/>
+        <updated>2021-11-11T05:48:11.000Z</updated>
+        <summary type="html"><![CDATA[AWS Toolkit for JetBrains、AWS Toolkit for VS Code および AWS Toolkit for Cloud9 で、お客様は、IDE から離脱せず、 94 のサービス全体で 245 のリソースタイプのリストから選択および表示できるようになりました。このリリースにより、AWS Explorer ペインにデフォルトでリストされている AWS のサービスにアクセスすることに加え、お客様は、何百ものリソースから選択し、やり取りすることができます。この機能は、AWS Cloud Control API を使用して、将来、Toolkit に継続的かつ素早く新しいリソースタイプを追加させます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Translate が AWS KMS 暗号化のサポートを開始]]></title>
+        <id>7d11fa40187bd8a927939e2b00bd23210486c244</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-supports-aws-kms-encryption/"/>
+        <updated>2021-11-11T05:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日より、AWS Key Management Service (KMS) から独自の暗号化キーを使用して、S3 バケットに配置されたデータを暗号化できるようになりました。これまで、Amazon Translate では Amazon S3-SSE を使用してデータを暗号化していました。AWS KMS を使用することで、キーを簡単に作成・管理しながら、幅広い AWS のサービスやアプリケーションで暗号化の使用を制御できるようになります。AWS KMS はセキュアで弾力性の高いサービスで、キーのセキュリティを保護するために FIPS 140-2 で検証されたハードウェアセキュリティモジュールを使用します。AWS KMS は AWS CloudTrail と統合されており、すべてのキーの使用ログを表示できるため、規制およびコンプライアンスの要求に応えるために役立ちます。この機能は、AWS マネジメントコンソールあるいは SDK を介して設定でき、Amazon Translate の非同期バッチ翻訳ジョブをサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Fleet および Spot Fleet が、容量リバランスでの自動インスタンス終了のサポートを開始]]></title>
+        <id>53bf7a0df1b198d240ca6062b1f4cd95da61d887</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-fleet-spot-fleet-capacity-rebalancing/"/>
+        <updated>2021-11-11T05:46:12.000Z</updated>
+        <summary type="html"><![CDATA[今日から、容量リバランスを使用した場合に EC2 Fleet と Spot Fleet にスポットインスタンスを自動的に終了させるよう設定することができます。容量リバランスを使用すれば、表示されたように中断のリスクが上がった場合に、EC2 Fleet と Spot Fleet が EC2 Instance レコメンデーション信号により、 スポットインスタンスの置き換えを試みます。これまで、EC2 Fleet または Spot Fleet は、リバランスのレコメンデーションを受け取ったスポットインスタンスを終了せずに、交換用のスポットインスタンスを起動していました。つまり、ワークロードのリバランスが完了したらインスタンスを手動で終了するか、EC2 によって中断されるまでインスタンスを実行する必要があったのです。EC2 Fleet または Spot Fleet が指定された終了遅延でリバランスレコメンデーションを受信したインスタンスを自動的に終了するよう設定できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud SpannerがPostgreSQLインターフェースを追加：PostgreSQLはクラウドデータベースの標準になるか]]></title>
         <id>https://www.infoq.com/jp/news/2021/11/cloud-spanner-postgresql/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
