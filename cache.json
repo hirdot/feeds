@@ -221,15 +221,6 @@
           "publishedOn": "2021-10-13T21:30:28.000Z",
           "wordCount": 684,
           "title": "URL検査ツールでインデックスされているURLがカバレッジレポートで[クロール済み – インデックス未登録]になるのは更新が遅いから"
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/?p=11660",
-          "author": "Kenichi Suzuki",
-          "description": "AMP テストとモバイル フレンドリー テスト、リッチリザルト テストに、URL 検査ツールと同じ UI および同じ機能を Google は実装した。",
-          "link": "https://www.suzukikenichi.com/blog/amp-test-rich-result-test-and-mobile-friendly-test-have-the-same-ui-and-functions-with-url-inspection/",
-          "publishedOn": "2021-10-12T21:30:34.000Z",
-          "wordCount": 549,
-          "title": "AMPテスト・モバイルフレンドリーテスト・リッチリザルトテストの3ツールがURL検査ツールと同じUIと機能を実装"
         }
       ]
     },
@@ -2055,6 +2046,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "eb3691e7fc8816a6354b1484c9402040d1467339",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch アラームの状態をチェックし、AWS Systems Manager (SSM) Automations を実行する AWS Fault Injection Simulator (FIS) 実験を作成し、実行できるようになりました。また、事前に設定された SSM Agent ドキュメントを使用して、I/O、ネットワークブラックホール、パケットロスの障害を Amazon EC2 インスタンスに注入する新しい FIS 実験アクションを実行できるようになりました。テスト環境でも本番環境でも、実際の世界の状況下でアプリケーションがストレスに対してどのように反応するかを予測するのは困難な場合があるため、アラームチェックと自動ランブックを FIS の実験に統合することにより、ネットワークの問題、インスタンスの終了、API のスロットリング、その他の障害状態などの破壊的なイベントを注入する際の信頼性を高めることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/",
+          "publishedOn": "2021-11-11T09:34:13.000Z",
+          "wordCount": 356,
+          "title": "AWS Fault Injection Simulator は Amazon CloudWatch アラームと AWS Systems Manager Automation Runbooks のサポートするようになりました。"
+        },
+        {
+          "id": "76e5e569032d0db7af285a515591e4c41c547cec",
+          "author": "aws@amazon.com",
+          "description": "お客様がモデル構築のステップを定義し、オーケストレートすることを目的として構築されたサービスである Amazon SageMaker Pipelines は、失敗/停止したパイプラインの実行再開と、パイプラインステップの再試行ポリシーをサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/",
+          "publishedOn": "2021-11-11T09:32:35.000Z",
+          "wordCount": 271,
+          "title": "Amazon SageMaker Pipelines で再試行ポリシーと再開のサポートを開始"
+        },
+        {
           "id": "46b7b23d1679f7ffa03022107d5a8a8446932649",
           "author": "aws@amazon.com",
           "description": "本日、AWS Systems Manager の Incident Manager が、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ)、米国西部 (北カリフォルニア) の 7 つの AWS リージョンで一般利用可能 (GA) になったことをお知らせいたします。Incident Manager の詳細については、Incident Manager の製品ページを参照してください。",
@@ -3403,24 +3412,6 @@
           "publishedOn": "2021-10-13T00:01:51.000Z",
           "wordCount": 246,
           "title": "新しい AWS ソリューションのご紹介: Amazon Lex 上に構築されたセルフサービスの対話型チャットボットである AWS QnABot"
-        },
-        {
-          "id": "31253bbae9e96075d5de91b46c9c63089afcb689",
-          "author": "aws@amazon.com",
-          "description": "Amazon Personalize リソースのエンドツーエンドのオートメーションとスケジューリングを提供する AWS ソリューション実装である Maintaining Personalized Experiences with Machine Learning の提供の開始を発表します。このソリューションは、項目とユーザーデータを最新の状態に保ち、モデルの再トレーニングを管理して、レコメンデーションが最近のユーザーアクティビティに合わせて最新に保たれるようにし、ユーザーとの関連性が維持されるようにします。このソリューションは、Amazon Personalize モデルのオフラインメトリクスを Amazon CloudWatch に公開して、時間の経過に伴うモデルの質の遷移の方向感を提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/",
-          "publishedOn": "2021-10-12T22:01:56.000Z",
-          "wordCount": 238,
-          "title": "新しい AWS ソリューション: Maintaining Personalized Experiences using Machine Learning"
-        },
-        {
-          "id": "4132ce6b095a67215f07defadf8556e5e6e4f75d",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Backup は、AWS Backup Vault Lock の提供開始を発表しました。この新機能は、不注意または悪意のあるアクションから、お客様がより強力にバックアップを保護できるようにします。これは、お客様が Write-Once-Read-Many (WORM) モデル*を使用してバックアップを確実に保存するための保護手段を実装するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/",
-          "publishedOn": "2021-10-12T22:01:07.000Z",
-          "wordCount": 260,
-          "title": "AWS Backup で AWS Backup Vault Lock が利用可能になり、バックアップ保護のためのレイヤーがさらに追加"
         }
       ]
     },
