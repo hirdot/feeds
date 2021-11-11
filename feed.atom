@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-11T08:03:20.445Z</updated>
+    <updated>2021-11-11T09:02:46.935Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メガネ歴ン十年のプログラマが眼内コンタクトレンズ手術をしてみた]]></title>
+        <id>https://techracho.bpsinc.jp/morimorihoge/2021_11_11/113045</id>
+        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_11_11/113045"/>
+        <updated>2021-11-11T08:30:52.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/intraocular_lens_implantation_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。飲食店の夜間営業解禁ほんとうれしい。 先日いわゆる眼内コンタクトレンズ手術（ICL）というやつをやりまして、小学生時代以来手放せなかったメガネを付けない生活を手に入れました。 ちょいちょいZoomとかで聞かれることもあったので、術後2か月以上経過したここいらでどんな感じだったかをまとめてみます。 ※免責事項：本記事の情報はN=1の僕自身の体験および考えであり、記載されている内容の医学的・統計的正確性及び判断の客観的妥当性について保証するものではありません。内容の解釈・リスクの判断については他のサイトや直接医師とも相談するなど各自自分で判断するようにしてください。 ※参照URLをいくつ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_11_11/113045" data-wpel-link="internal" target="_self">メガネ歴ン十年のプログラマが眼内コンタクトレンズ手術をしてみた</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Systems Manager の Incident Manager が、新たに 7 つの AWS リージョンで利用可能に]]></title>
         <id>46b7b23d1679f7ffa03022107d5a8a8446932649</id>
@@ -4052,76 +4063,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[AMP テストとモバイル フレンドリー テスト、リッチリザルト テストに、URL 検査ツールと同じ UI および同じ機能を Google は実装した。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family の顧客は、Amazon S3 Access Point のエイリアスをきめ細やかで、シンプルなデータアクセスコントロールに活用できるようになりました]]></title>
-        <id>9411e6efa93e4250b574067e57c086e83d94b77b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/"/>
-        <updated>2021-10-12T20:35:41.000Z</updated>
-        <summary type="html"><![CDATA[AWS Transfer Family は、Amazon S3 の機能である Amazon S3 アクセスポイントをサポートするようになりました。これにより、共有データセットのアクセスを簡単に、きめ細かく管理することができます。S3 アクセスポイントのエイリアスは現在、何百もの SFTP、FTP、FTPS のユーザーやグループによって活用されている共有データセットに使われている S3 バケット名であればどこでも使用することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Braket が D-Wave の Advantage 4.1 の量子アニーリングシステムを提供]]></title>
-        <id>07a86927abde02e4739def856df1ddc656f763cf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/"/>
-        <updated>2021-10-12T20:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Braket 上で、D-Wave の Advantage 4.1 の AWS 量子アニーリングシステムにアクセスできるようになりました。D-Wave によると、新しい Advantage 量子処理ユニット (QPU) は 5000 を超える量子ビットを備え、15 通りの接続方法があるため、研究者やデベロッパーはより大規模かつ複雑な量子最適化の問題を研究できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RDS Performance Insights はさらに 4 つのリージョンでご利用可能に]]></title>
-        <id>b78fa969f230d1fccd370677d2b0d4b2937f0363</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/"/>
-        <updated>2021-10-12T20:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) Performance Insights は中東 (バーレーン)、アフリカ (ケープタウン)、欧州 (ミラノ)、アジア太平洋 (大坂) でもご利用可能になりました。Amazon RDS Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Audit Manager が AWS CloudFormation のサポートを開始]]></title>
-        <id>efef47cc1c0dec9607c4d14d12f0411b50cf02c8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/"/>
-        <updated>2021-10-12T20:33:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Audit Managerer は AWS CloudFormation をサポートし、AWS CloudFormation のテンプレートを使って、データ保護ポリシーのコンプライアンスに関する監査やレポートができるようになりました。AWS CloudFormation テンプレートを使って AWS Backup Audit Manager のプレビルドされたカスタマイズ可能な管理機能をデプロイし、すべてのバックアップがポリシーに準拠しているかどうかを評価することができるようになりました。また、監査レポートを生成することにより、オペレーション状況をモニタリングしたり、バックアップが規制要件に準拠していることを証明したりすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションのサポートを発表]]></title>
-        <id>d023e411ab8df227043796b8dee9e5cbca91b220</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/"/>
-        <updated>2021-10-12T20:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) はクロスクラスターレプリケーションをサポートしており、AWS アカウントやリージョンが同じでも、異なっても、ドメインから別のドメインへのインデックスの複製や同期を低レイテンシーで自動化することが可能になりました。クロスクラスターレプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Audit Manager はコンプライアンスレポートを追加しました]]></title>
-        <id>3c6c61e2868ecb4df2905bcdba37095a9a3a298c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/"/>
-        <updated>2021-10-12T20:31:36.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Audit Manager により、AWS Backup で定義したデータ保護ポリシーのコンプライアンスを追跡するためのレポートを生成できるようになりました。指定した Amazon S3 バケット内のコンプライアンスレポートに、AWS Backup Audit Manager でレポートプランを作ることができます。これらのレポートを使って、データ保護ポリシー違反を特定し、修復を実行し、規制要件を満たすためにデータ保護ポリシーのコンプライアンスを実証することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 容量予約フリートは、インスタンスタイプ全体で、Amazon EC2 容量予約のマイグレーションを容易にします]]></title>
-        <id>10a2457ecf5bfbe30494d91a3f3c4c0f2d63c446</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/"/>
-        <updated>2021-10-12T20:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 容量予約フリートを使うことで、 予約した Amazon EC2 の容量を新しく作成したインスタンスタイプに簡単にマイグレーションすることができます。容量予約により、容量を予約して特定のインスタンスタイプおよびにアベイラビリティーゾーンへすぐに適用することが可能です。また、いつでもキャンセルすることができます。容量予約フリートにより、インスタンスタイプのプライオリティリスト全体で容量を予約することができます。プライオリティの低いインスタンスタイプに予約した容量が未使用の場合、自動的にプライオリティの高いインスタンスタイプに容量が振り分けられます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
