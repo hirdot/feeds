@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-12T22:02:38.388Z</updated>
+    <updated>2021-11-12T23:02:15.517Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4021,67 +4021,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[Googleは、Kubernetesをベースにマルチクラウド環境を構築するAnthosで、仮想マシンも管理対象に組み入れることができる新機能「Anthos for VMs」プレビュー版を発表しました。 Anthos for VMsAntho...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby正規表現の後読みでは長さ不定の量指定子は原則使えない]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_14/49115</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_14/49115"/>
-        <updated>2021-10-14T10:43:30.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/12/ruby_regexp_lookbehind_quantifiers_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2017/12/05: 初版公開 2021/10/14: 更新 こんにちは、hachi8833です。「ライフ」カテゴリの記事でアドベント書きたかったのですが、こちらの小ネタにします。 正規表現の先読みと後読みについては「正規表現の先読み・後読み（look ahead、look behind）を活用しよう」をご覧ください。 以下は基本的にRubyの正規表現（onigmo）を使います。他の正規表現ライブラリではこのとおりにならない可能性があります。 Rubyの正規表現の後読みは長さを不定にできない 以下の文字列が対象です。 word work wording working interesting part [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_14/49115" data-wpel-link="internal" target="_self">Ruby正規表現の後読みでは長さ不定の量指定子は原則使えない</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB の NoSQL Workbench で、サンプルデータのインポートと自動追加が可能になりデータモデルの構築と可視化が簡単に]]></title>
-        <id>e06f9fff2c3a818127f7a6e70690234dcaa22479</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/nosql-workbench-amazon-dynamodb-import-populate-sample-data-build-visualize-data-models/"/>
-        <updated>2021-10-14T10:37:07.000Z</updated>
-        <summary type="html"><![CDATA[ポイントアンドクリックインターフェースを使用して非リレーショナルデータモデルを設計、可視化、クエリするのを助けるクライアント側のツール、NoSQL Workbench for DynamoDB により、データモデルの構築と可視化に役立つサンプルデータインポートおよび自動追加が容易になりました。サンプルデータを csv ファイルから新しいデータモデルおよび既存のデータモデルにインポートできるようになりました。NoSQL Workbench オペレーションビルダから .csv ファイルのクエリ結果をエクスポートすることもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fraud Detector がイベントデータセットのサポートを開始]]></title>
-        <id>88c408c090ca4813dea723b878ff694efc994b47</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-fraud-detector-event-datasets/"/>
-        <updated>2021-10-14T10:36:15.000Z</updated>
-        <summary type="html"><![CDATA[私達は、Amazon Fraud Detector のイベントデータストレージについて発表することができとても興奮しています。この新機能により、お客様は本番稼働の不正データを Amazon Fraud Detector 内に直接簡単に送信および保存できます。このモデルはアカウントの年数や購入頻度などの値を自動的に計算することで新しいイベントに過去のコンテキストを適用できるため、お客様はイベントデータセットを使用して、より予測パフォーマンスの高い機械学習 (ML) モデルをトレーニングできます。新しいトレーニングデータセットを S3 にアップロードせずにモデルを取得できるため素早い動きも可能です。また、保存されたイベントの不正ラベルを更新することにより、オフライン不正調査からフィードバックループをクローズできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fraud Detector がオンライン取引の不正検出のための新たな機械学習モデルをリリース]]></title>
-        <id>8e1d6fc2af82418744be90eaa14e73509a350753</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/"/>
-        <updated>2021-10-14T10:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Fraud Detector は、取引不正検出インサイトモデルを発表できることに興奮しています。このモデルは、オンラインカードレス決済決済の不正を検出するために特別に設計された低レイテンシーの不正検出機械学習 (ML) モデルです。他の Amazon Fraud Detector モデルのように、取引不正インサイトは Amazon および AWS の 20 年以上の不正検出の専門知識を活かしたサービスです。この新しい取引不正インサイトモデルタイプは、Amazon Fraud Detector の前モデルタイプであるオンライン不正インサイトと比較して、不正取引検出率は最大 30% 増、パフォーマンスの維持期間は最大 6 か月長くなりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS は AWS GovCloud (米国) リージョンの MySQL の T3 インスタンスタイプおよび MariaDB データベースをサポート]]></title>
-        <id>60d3c900b67ef662f8a7ad249d982488a0ed4a7a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-t3-mysql-mariadb-aws-govcloud/"/>
-        <updated>2021-10-14T10:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MySQL および AWS GovCloud (米国) リージョンの Amazon RDS for MariaDB を使用する際に、T3 データベースインスタンスタイプを起動できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS がAmazon Fraud Detector 機械学習不正予測の料金を最大 56% 値下げすることを発表]]></title>
-        <id>a064c708640859d4ec95aa6f9fa3706e4c9e67d9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-price-reduction-amazon-fraud-detector/"/>
-        <updated>2021-10-14T10:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Fraud Detector の機械学習 (ML) に基づく不正予測の料金値下げに関する発表ができとても嬉しいです。Fraud Detector は、偽アカウントの作成やオンライン決済詐欺といった、不正の疑いのあるオンライン活動を簡単に特定できるフルマネージドサービスです。内部で ML を使用し、Amazon の 20 年以上かけて蓄積してきた不正検出の専門知識に基づいて、Fraud Detector は、潜在的な不正行為をミリ秒単位で自動的に識別します。機械学習の専門知識は必要ありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
