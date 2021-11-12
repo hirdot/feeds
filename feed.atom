@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-12T09:02:29.028Z</updated>
+    <updated>2021-11-12T10:02:58.030Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -1096,6 +1096,17 @@ Amazon SageMaker に移行することができます。]]></summary>
         <updated>2021-11-04T08:30:53.000Z</updated>
         <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rubymine_deleting_unused_local_branches_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。RubyMineは便利に使ってるのですが、いまいちWindows &#8211; subpixelレンダリングでしっくりくるフォントが見つからず色々試している昨今です（最近はRicty Diminished Discordを試し中）。 僕はRubyMine（IDEA）の操作感が好きで、Git系の操作もほぼすべてCLIではなくRubyMineから行っているのですが、開発で大量に増えてきたローカルブランチを削除したいという機会があってやり方を調べていました。 結論特に特別な機能というわけではなかったのですが、それまでちまちま1つずつ削除してたので、もし参考になる方がいればということで記事 [&#8230;]</p>
 <p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_11_04/113099" data-wpel-link="internal" target="_self">RubyMine（IDEA）で使わなくなったローカルブランチをまとめて削除する方法</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railsのdefault_scopeは使うな、絶対（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_04/47302</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_04/47302"/>
+        <updated>2021-11-04T08:30:24.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/10/dont_use_default_scope_eyecatch3-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Don’t use default_scope. Ever. 公開日: 2017/10/01 著者: Andy Croll &#8212; フリーランスのRuby開発者です。 2017/10/31: 初版公開 2021/11/04: 更新 Railsのdefault_scopeは使うな、絶対（翻訳） あるモデル全体にスコープを適用したい場合、default_scopeが利用できます。詳しくはRailsガイド: Active Recordクエリインターフェイス 14.スコープ（日本語）かRails APIドキュメントをご覧ください。 投稿を非表示にできる機 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_04/47302" data-wpel-link="internal" target="_self">Railsのdefault_scopeは使うな、絶対（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
         </author>
@@ -4083,16 +4094,6 @@ AWS Systems Manager パッチマネージャー: EC2 インスタンスなどの
         <summary type="html"><![CDATA[2021年10月第3週のAndroid関連のニュースをお届けします。]]></summary>
         <author>
             <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URL検査ツールでインデックスされているURLがカバレッジレポートで[クロール済み – インデックス未登録]になるのは更新が遅いから]]></title>
-        <id>https://www.suzukikenichi.com/blog/?p=11662</id>
-        <link href="https://www.suzukikenichi.com/blog/google-explains-why-indexed-urls-are-marked-as-crawled-currently-not-indexed-in-coverage-report/"/>
-        <updated>2021-10-13T21:30:28.000Z</updated>
-        <summary type="html"><![CDATA[正常にインデックスされている URL がカバレッジ レポートに [クロール済み – インデックス未登録] として記録される理由を Google は説明した。]]></summary>
-        <author>
-            <name>Kenichi Suzuki</name>
         </author>
     </entry>
 </feed>
