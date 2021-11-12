@@ -613,6 +613,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=260954",
+          "author": "MIT Technology Review Japan",
+          "description": "MITテクノロジーレビューは、マガジン『MITテクノロジーレビュー［日本版］Vol.5』の発売を記念して、本書の感想をネット上で紹介してくれる読者モニターを募集いたします。",
+          "link": "https://www.technologyreview.jp/s/260954/magazine-reviewers-wanted-vol5/",
+          "publishedOn": "2021-11-12T07:17:41.000Z",
+          "wordCount": 555,
+          "title": "MITテクノロジーレビューVol.5 読者モニター募集のお知らせ"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=260676",
           "author": "Simon Lewsen",
           "description": "トロント大学の化学者であるアスプル・グージック教授は、これまでは20年かかったような新材料探索のプロセスを、AIやロボットを組み合わせて自動化することで、数年あるいは数カ月にまで短縮しようとしている。",
@@ -3403,42 +3412,6 @@
           "publishedOn": "2021-10-14T07:31:59.000Z",
           "wordCount": 253,
           "title": "AWS FPGA デベロッパーキットが Amazon EC2 F1 インスタンス向けに仮想イーサネットフレームワークで Jumbo フレームのサポートを開始"
-        },
-        {
-          "id": "64a2ed9ca7f54d80e9f5edfefe126306398d2190",
-          "author": "aws@amazon.com",
-          "description": "独立系ソフトウェアベンダー (ISV) やコンサルティングパートナーを含む AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) から Professional Services の契約内容の確認、提供のキャンセル、提供の有効期限の延長ができるようになりました。AWS Marketplace の Professional Services では、ISV やコンサルティングパートナーが AWS Marketplace に新しい Professional Services のリストを作成し、AWS のお客様に Private Offers を広げることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/",
-          "publishedOn": "2021-10-13T19:37:40.000Z",
-          "wordCount": 238,
-          "title": "AWS Marketplace が、Professional Services の契約内容の確認や提供のキャンセルおよび延長をサポート"
-        },
-        {
-          "id": "8cd4d475df068b1a1880e5fda9855f6d5af31d87",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkMail は、Mobile Device Access Rules (MDAR) の機能の拡張を提供できるようになりました。この新しい Mobile Device Access Override API (MDOA) では、CLI を使ってマニュアルで、またはサードパーティーの Mobile Device Management (MDM) ツールを使って自動で、既存の MDAR を調整することができます。お客様は信頼できるサードパーティーの MDM ツールを使用して、セキュリティ体制の評価を実行してから、デバイスに企業リソースへのアクセス許可を付与することができます。新しい API は、デフォルトの MDAR に対する例外の作成と管理を簡素化します。これは、体制の悪いデバイスの WorkMail への接続を許可する必要がある場合や、ユーザーが特定のデバイスの盗難や紛失を報告した場合に適用されます。この場合、個々のデバイスをブロックして、データ漏洩のリスクを軽減することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/",
-          "publishedOn": "2021-10-13T19:34:14.000Z",
-          "wordCount": 260,
-          "title": "Amazon WorkMail が Mobile Device Access Override API と MDM 統合機能を追加"
-        },
-        {
-          "id": "de701ce25115038ab631a274172f4b763ca12364",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect Tasks が HIPAA (Health Insurance Portability and Accountability Act) 対応になりました。Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。HIPAA 対応となることで、保護対象保険情報 (PHI: Protected Health Information) を使用したタスクの優先順位付けや自動化が可能となり、顧客からの問い合わせやサービスリクエストの解決に必要な情報をエージェントに提供することもできます。Salesforce や Zendesk などの顧客関係管理アプリケーション (CRM)、Epic や Cerner などの電子ヘルスレコード (EHR) システム、あるいは自社開発のアプリケーションやビジネス特有のアプリケーションを使って、タスクの優先順位付けや自動化を行うことができます。Amazon Connect は 2017 年より HIPAA 対応です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/",
-          "publishedOn": "2021-10-13T19:33:24.000Z",
-          "wordCount": 289,
-          "title": "Amazon Connect Tasks が HIPAA に対応"
-        },
-        {
-          "id": "11e26d374f5dfd8b0793a7217f9e6c573b26ed70",
-          "author": "aws@amazon.com",
-          "description": "AWS Instance Scheduler は、Amazon Elastic Compute Cloud (Amazon EC2 オンデマンドインスタンス) および Amazon Relational Database Service (Amazon RDS) インスタンスのスタートと停止のスケジュールを設定することにより、AWS リソースコストを管理するのに役立つソリューションです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/",
-          "publishedOn": "2021-10-13T19:32:36.000Z",
-          "wordCount": 259,
-          "title": "AWS Instance Scheduler v2.0 の紹介"
         }
       ]
     },
