@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-12T08:03:38.979Z</updated>
+    <updated>2021-11-12T09:02:29.028Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Batch はフェアシェアスケジューリングを導入します]]></title>
+        <id>f10fc330cea24434007b1ba58045e8641dc00636</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/"/>
+        <updated>2021-11-12T08:35:16.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Batch は AWS Batch のジョブキューのフェアシェアスケジューリングを導入し、1 つのキューで異なるワークロードを実行することが簡単になります。現在、カスタマーは先入れ先出し (FIFO) でジョブを実行するか、「フェアシェア」ポリシーを決定することができます。これは、リソースを平等に、または管理者が定義した重みと優先順位に基づいて分配できます。ジョブのフェアシェアスケジューリングにより、AWS Batch はワークロードが最初に表すどちらか以外の要素に基づいて、複数のユーザーとワークロードにおけるコンピューティングの割り当てを処理します。これにより、改善された処理効率とユーザーとワークロードの優先重位をより尊重することになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Device Farm、Amazon VPC でのホストされたウェブアプリテストのサポートを発表]]></title>
+        <id>e843f53d091fadea1ddcfee9e520f417ce76f06e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/"/>
+        <updated>2021-11-12T08:34:29.000Z</updated>
+        <summary type="html"><![CDATA[AWS Device Farm の Desktop Browser Testing 機能があれば、Chrome、Firefox、Internet Explorer、Microsoft Edge ブラウザの異なるデスクトップバージョンでウェブアプリケーションをテストできます。今日の起動により、Amazon Virtual Private Cloud (VPC) でホストされているウェブアプリテストのサポートを追加しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SNS で APN モバイルプッシュ通知のトークンベース認証に対応]]></title>
+        <id>a014cc0984c69cad6851b12ef5ce70464f1c6e10</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/"/>
+        <updated>2021-11-12T08:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Notification Service (Amazon SNS) は、Apple デバイスへのモバイルプッシュ通知の送信をトークンベース認証に対応しました。Amazon SNS コンソールまたは API で、新しいプラットフォームアプリケーションを作成する際、トークンベース (.p8 キーファイル) または証明書ベース (.p12 証明書) 認証が選べるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 での Windows Server および SQL Server アプリケーションの新しいライセンスタイプの切り替え機能を AWS が発表]]></title>
+        <id>69b478bfe1131eb265829c3fc9a6b70aa0a16d7e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/"/>
+        <updated>2021-11-12T08:30:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS では、AWS License Manager を使用して Windows Server や SQL Server のワークロードを、AWS 提供のライセンスと自分のライセンス (BYOL) とで簡単に切り替えることができるようになりました。ライセンスの切り替え機能は、ビジネスやライセンスのニーズ変化に応じて使用することができます。インスタンスに関するライセンスタイプを変更しても、ワークロードに関するアプリケーション、インスタンス、およびネットワーク構成は保持されるため、時間と労力の節約になります。次回の請求から、新しいライセンスタイプごとに請求されます。オプションにおける柔軟性として、AWS はテナンシーを共通から専用、またはその逆に変更する機能も提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MITテクノロジーレビューVol.5 読者モニター募集のお知らせ]]></title>
         <id>https://www.technologyreview.jp/?p=260954</id>

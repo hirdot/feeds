@@ -2073,6 +2073,42 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "f10fc330cea24434007b1ba58045e8641dc00636",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Batch は AWS Batch のジョブキューのフェアシェアスケジューリングを導入し、1 つのキューで異なるワークロードを実行することが簡単になります。現在、カスタマーは先入れ先出し (FIFO) でジョブを実行するか、「フェアシェア」ポリシーを決定することができます。これは、リソースを平等に、または管理者が定義した重みと優先順位に基づいて分配できます。ジョブのフェアシェアスケジューリングにより、AWS Batch はワークロードが最初に表すどちらか以外の要素に基づいて、複数のユーザーとワークロードにおけるコンピューティングの割り当てを処理します。これにより、改善された処理効率とユーザーとワークロードの優先重位をより尊重することになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/",
+          "publishedOn": "2021-11-12T08:35:16.000Z",
+          "wordCount": 284,
+          "title": "AWS Batch はフェアシェアスケジューリングを導入します"
+        },
+        {
+          "id": "e843f53d091fadea1ddcfee9e520f417ce76f06e",
+          "author": "aws@amazon.com",
+          "description": "AWS Device Farm の Desktop Browser Testing 機能があれば、Chrome、Firefox、Internet Explorer、Microsoft Edge ブラウザの異なるデスクトップバージョンでウェブアプリケーションをテストできます。今日の起動により、Amazon Virtual Private Cloud (VPC) でホストされているウェブアプリテストのサポートを追加しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/",
+          "publishedOn": "2021-11-12T08:34:29.000Z",
+          "wordCount": 277,
+          "title": "AWS Device Farm、Amazon VPC でのホストされたウェブアプリテストのサポートを発表"
+        },
+        {
+          "id": "a014cc0984c69cad6851b12ef5ce70464f1c6e10",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Notification Service (Amazon SNS) は、Apple デバイスへのモバイルプッシュ通知の送信をトークンベース認証に対応しました。Amazon SNS コンソールまたは API で、新しいプラットフォームアプリケーションを作成する際、トークンベース (.p8 キーファイル) または証明書ベース (.p12 証明書) 認証が選べるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/",
+          "publishedOn": "2021-11-12T08:33:41.000Z",
+          "wordCount": 312,
+          "title": "Amazon SNS で APN モバイルプッシュ通知のトークンベース認証に対応"
+        },
+        {
+          "id": "69b478bfe1131eb265829c3fc9a6b70aa0a16d7e",
+          "author": "aws@amazon.com",
+          "description": "AWS では、AWS License Manager を使用して Windows Server や SQL Server のワークロードを、AWS 提供のライセンスと自分のライセンス (BYOL) とで簡単に切り替えることができるようになりました。ライセンスの切り替え機能は、ビジネスやライセンスのニーズ変化に応じて使用することができます。インスタンスに関するライセンスタイプを変更しても、ワークロードに関するアプリケーション、インスタンス、およびネットワーク構成は保持されるため、時間と労力の節約になります。次回の請求から、新しいライセンスタイプごとに請求されます。オプションにおける柔軟性として、AWS はテナンシーを共通から専用、またはその逆に変更する機能も提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/",
+          "publishedOn": "2021-11-12T08:30:57.000Z",
+          "wordCount": 321,
+          "title": "Amazon EC2 での Windows Server および SQL Server アプリケーションの新しいライセンスタイプの切り替え機能を AWS が発表"
+        },
+        {
           "id": "96f90318136ef75fed2882fc45b34636da3d43be",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK は、米国西部 (オレゴン)、欧州 (フランクフルト)、およびアジアパシフィック (シンガポール) の AWS リージョンでミーティング API エンドポイントを提供するようになりました。これにより、18 の Amazon Chime メディアリージョンのいずれかでホストできるミーティングの作成と管理に使用する AWS リージョンを選択できるようになりました。",
