@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T00:16:00.304Z</updated>
+    <updated>2021-11-13T01:44:10.482Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS on AWS Fargate が Fluent Bit Kubernetes Filter のサポートを開始]]></title>
+        <id>bff68f4b5a43980778cbf5817a95528b476486cc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/"/>
+        <updated>2021-11-12T23:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) on Fargate は、Fluent Bit ログに充実した Kubernetes 固有のメタデータを提供する Kubernetes Fluent Bit フィルターの使用をサポートします。お客様は、アプリケーションログに Kubernetes ポッド、コンテナ、名前空間名などの Kubernetes メタデータを関連させることで、より簡単にアプリケーションの観察やトラブルシューティングを行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Inference エンドポイントの新しいデプロイガードレールを発表]]></title>
+        <id>5b7f847c06b583652bee6834a614002f3983a3a4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/"/>
+        <updated>2021-11-12T23:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Inference は、機械学習モデルを更新するため、新モデルのデプロイオプションをサポートしています。新しいデプロイガードレールを使用して、生産中の現行モデルから新モデルへ制御された方法で簡単に切り替えることができます。今回の起動で、canary と linear の各モードが導入され、更新中に現行モデルから新モデルへのトラフィック移行のきめ細かい制御ができるようになりました。自動ロールバックなどの安全装置が組み込まれているため、素早く問題を発見して生産に大きな影響が出る前に、自動的な修正作業を実行することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Translate がアイルランド語、マラーティー語、ポルトガル語 (ポルトガル)、パンジャブ語の 4 言語とバリアントのサポートを追加]]></title>
+        <id>705838f4d8897061ff7f1338552323652327d6d7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/"/>
+        <updated>2021-11-12T23:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Translate は、高品質でカスタマイズ可能な言語翻訳をリアルタイムかつ手ごろな料金で提供する、フルマネージド型のニューラル機械翻訳サービスです。本日、Amazon Translate にマラーティー語、ポルトガル語 (ポルトガル)、パンジャブ語のサポートが追加されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Single Sign-On で JumpCloud ユーザーの AWS へのアクセスを一元管理]]></title>
+        <id>f76918853298451e983b64558024c86048dc22ae</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/manage-access-jumpcloud-aws-single-sign-on/"/>
+        <updated>2021-11-12T23:35:18.000Z</updated>
+        <summary type="html"><![CDATA[お客様は、JumpCloud Directory Platform (JumpCloud) をアマゾン ウェブ サービス (AWS) Single Sign-On (SSO) に一度接続し、AWS SSO で AWS へのアクセスを一元管理し、エンドユーザーが JumpCloud を使用してサインインして、割り当てられたすべての AWS アカウントにアクセスできるようになりました。この統合により、ID を管理する管理者やサインインするエンドユーザーにとって慣れ親しんだ JumpCloud におけるエクスペリエンスを維持しながら、複数のアカウントにわたる AWS アクセス管理を簡素化できます。AWS SSO と JumpCloud は、標準ベースの自動化を使用してユーザーとグループを AWS SSO にプロビジョニングし、管理時間を節約してセキュリティを向上させます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS がコンテナインスタンスのヘルス情報を追加]]></title>
+        <id>8dca3d8ff069a152313f20023e7f4822e526cc87</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecs-container-instance-health-information/"/>
+        <updated>2021-11-12T23:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) は、お客様のコンピューティングインフラストラクチャのヘルスに対する可視性を強化しました。Amazon ECSをAmazon Elastic Compute Cloud （Amazon EC2）上、またはAmazon ECS Anywhere を使ってオンプレミスでコンテナ型ワークロードを実行しているお客様は、Amazon ECS APIから直接コンテナインスタンスのコンテナランタイム（すなわちDocker）のヘルスステータスをクエリできるようになりました。これにより、お客様はアプリケーションの回復力を向上させることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Resilience Hubの一般提供開始を発表]]></title>
+        <id>5c47e77a2f3d3d387d5d635f89d3d1812f7665b1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-resilience-hub-general-availability/"/>
+        <updated>2021-11-12T23:32:52.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス（AWS）は、ソフトウェア、インフラストラクチャ、運用の障害による不要なダウンタイムを回避するために、アプリケーションのレジリエンスを定義、検証、追跡するための単一の場所を提供する新サービスAWS Resilience Hubの一般提供を開始したことを発表しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Control Tower が、検出ガドレールの同時操作をサポート]]></title>
+        <id>c63d4dd4492631fe6af2668da8b4151b51529c01</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-control-tower-concurrent-operations-detective-guardrails/"/>
+        <updated>2021-11-12T23:32:03.000Z</updated>
+        <summary type="html"><![CDATA[AWS Control Tower が、検出ガードレールの同時操作をサポートし、ガードレール管理の迅速化を図ります。個々のガードレールの操作が完了するのを待つことなく、複数の検出ガードレールを有効にすることができるようになりました。Control Tower は、セキュリティ、運用、およびコンプライアンスの体制を強化するためにデプロイできる、すぐに使用できる予防および検出ガードレールをお客様に提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backupは、データ保護ポリシーのための新しいリソース割り当てルールを提供します。]]></title>
+        <id>9574d578065215687b679641cc2a89f98376af88</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/"/>
+        <updated>2021-11-12T23:31:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backupは、アプリケーションのデータ保護を大規模に管理することを容易にする新しいリソース割り当てオプションを導入しています。新しいリソース割り当てオプションは、 AWS がサポートするリソースタイプ、AWSタグとリソースIDの組み合わせを使って選択基準を定義することができ、ビジネスクリティカルなアプリケーションのデータを保存するAWSリソースを自動的に特定し、イミュータブルバックアップを使ってデータを保護することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[どの程度アダルトならGoogle検索でアダルトコンテンツ扱いになるの？【海外＆国内SEO情報ウォッチ】]]></title>
         <id>https://www.suzukikenichi.com/blog/?p=11736</id>
