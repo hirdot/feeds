@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-18T22:02:19.290Z</updated>
+    <updated>2021-11-18T23:02:33.827Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サステナブルを人々はどのくらい意識している？ データから見る持続可能性への意識変化]]></title>
+        <id>https://data.wingarc.com/?p=33094</id>
+        <link href="https://data.wingarc.com/minding-sustainability-33094?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=minding-sustainability"/>
+        <updated>2021-11-18T23:00:57.000Z</updated>
+        <summary type="html"><![CDATA[限りある地球環境の中で生活する私たち。技術の向上により安価で豊かな生活ができるようになる中で、地球の資源とどのように折り合いをつけて行くか、は世界的な課題の一つと言えます。 一方で二酸化炭素6%削減、なんていわれても個人 […]]]></summary>
+        <author>
+            <name>大藤 ヨシヲ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SafariがネイティブLazy-loadをサポートする日が近いかも]]></title>
         <id>https://www.suzukikenichi.com/blog/?p=11745</id>
@@ -3912,26 +3922,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[すべての人が等しく情報にアクセスできることを目指し、国際規格であるDAISY（Digital Accessible Information System：アクセシブルな情報システム）規格の開発・維持・普及のために設立された国際団体「DAIS...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用した自動データ有効期限切れのサポートを開始]]></title>
-        <id>cb4320263e037d5ca7a934d998160d1beeb03c72</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/"/>
-        <updated>2021-10-20T10:31:58.000Z</updated>
-        <summary type="html"><![CDATA[スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、Time to Live (TTL) 設定を使用して自動データ有効期限をサポートするようになりました。TTL を使用する場合、テーブルの属性または行に有効期限を設定し、Keyspaces はそうした有効期限が切れた属性または行を自動的に削除します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkSpaces Windows Server 2019 バンドルが AWS GovCloud (米国西部) リージョンで利用可能に]]></title>
-        <id>0cf84d2d2e21becde6707b4bd8d5325671f86b3b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/"/>
-        <updated>2021-10-20T10:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkSpaces は、Windows Server 2019 を搭載した新しいバンドルの提供開始により、AWS GovCloud (米国西部) リージョンで、64 ビット Microsoft Office 2019 Professional Plus バンドルオプションとともに Windows 10 デスクトップエクスペリエンスを提供します。この機能は、Windows 10 デスクトップエクスペリエンスを更新し、最新の Windows バージョンを必要とするアプリケーションの実行を可能にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
