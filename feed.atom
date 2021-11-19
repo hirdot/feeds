@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T07:03:08.654Z</updated>
+    <updated>2021-11-19T08:03:47.549Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FreeRTOS セルラー LTE-M インターフェイスライブラリの一般提供を開始]]></title>
+        <id>4d2b1de6c37fe2bf94ebcc3b25645b092cc5dfdc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/freertos-cellular-lte-m-interface-library-generally-available/"/>
+        <updated>2021-11-19T07:37:35.000Z</updated>
+        <summary type="html"><![CDATA[本日より、セルラー LTE-M インターフェイスライブラリが FreeRTOS で一般的にご利用いただけるようになりました。今回のリリースにより、デベロッパーは、クラウドに接続するためにセルラー LTE-M プロトコルを使用する IoT デバイスをより容易に構築できます。FreeRTOS の主なダウンロードには、Sierra Wireless、u-blox、Quectel などのベンダーのセルラーモジュールとの AWS IoT リファレンス統合が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Transfer Family に ID プロバイダーオプションと強化されたモニタリング機能が導入される]]></title>
+        <id>ef1832fa15e5ee0ae675093924ec5e951b112d6b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-transfer-family-identity-provider-enhanced-monitoring/"/>
+        <updated>2021-11-19T07:36:47.000Z</updated>
+        <summary type="html"><![CDATA[本日から、AWS Lambda と AWS Transfer Family サーバーを使用して、任意の ID プロバイダーを統合することができます。これにより、ユーザーの認証と承認がより簡単になります。さらに、AWS Transfer Family 管理コンソールの一元化された CloudWatch メトリクスのダッシュボードを使用することで、ファイル転送をモニタリングできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Translate がアクティブなカスタム翻訳のサポートをすべての言語ペアの組み合わせに拡大]]></title>
+        <id>80b50140d345a1dd53472140b48c7867ea1908f0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-active-custom-translation-language-combinations/"/>
+        <updated>2021-11-19T07:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日、現在サポートされている任意の言語間での翻訳をカスタマイズできる Active Custom Translation (ACT) の一般提供が開始されたことをお知らせします。例えば、ドイツ語とフランス語の間で ACT が使えるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch アプリケーションインサイトを使用して SAP HANA データベースを確認する]]></title>
+        <id>b26ddfdcc194c72e4f2483238be7e3689dbafc7f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-insights-sap-hana-databases/"/>
+        <updated>2021-11-19T07:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch アプリケーションインサイト は、SAP HANA データベースのオブザーバビリティをサポートするようになったため、SAP HANA ベースのワークロードに影響する問題のトラブルシューティングと解決をより簡単に行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.8.23 のサポートを開始]]></title>
+        <id>c2ad21106960ac7271277f103b931485476a1212</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/"/>
+        <updated>2021-11-19T07:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ で RabbitMQ 3.8.23 ブローカーを起動できるようになりました。この RabbitMQ パッチアップデートには、これまでサポートされていたバージョン RabbitMQ 3.8.22 からのいくつかの修正と新機能が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppStream 2.0 が Linux アプリケーションストリーミングを導入]]></title>
+        <id>394ac0433673f413e1a6fc0226ab722d4dea18f0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/"/>
+        <updated>2021-11-19T07:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon AppStream 2.0 に Amazon Linux 2 のサポートが追加されました。このリリースにより、Linux アプリケーションとデスクトップをユーザーにストリーム配信できるようになり、Matlab、Eclipse、Firefox、PuTTY、およびその他の類似アプリケーションを Windows から Amazon AppStream 2.0 上の Linux に移行することで、総ストリーミングコストを大幅に削減することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Network Firewall が SOC に準拠]]></title>
+        <id>3c2081208249ad57a2651299c7c8e0093dd9509a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-network-firewall-soc-compliant/"/>
+        <updated>2021-11-19T07:32:46.000Z</updated>
+        <summary type="html"><![CDATA[AWS Network Firewall が SOC 1、SOC 2、および SOC 3 に準拠しました。System and Organization Controls (SOC) レポートの対象となるユースケースで AWS Network Firewall を使用できるようになりました。AWS SOC Reports レポート は、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Location Service、地理検索結果のフィルタリング機能を強化]]></title>
+        <id>b4949f5166483dd43423ea4ff0408435c3bdc3d2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-location-service-filter-geographical-search-results/"/>
+        <updated>2021-11-19T07:31:56.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Location Service は 5 つの新しいパラメータを追加し、デベロッパーが目標地点、住所 (ジオコーディング)、地理的位置 (リバースジオコーディング) の検索結果をフィルタリングして処理するための機能を追加しました。これらの新しいパラメータを使用することで、特定のアプリケーションのニーズに合わせて位置結果を調整および最適化できます。たとえば、デベロッパーは、最も近い検索結果のみを選択したり、結果をエンドユーザーの好みの言語にカスタマイズしたり、ホームオートメーションアプリケーションの照明のオン/オフなどの時間関連機能を有効にしたりできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify が、Amplify で作成したバックエンドに CDK と CloudFormation を使ってカスタム AWS リソースを追加する機能を発表]]></title>
+        <id>3c3b6031d924849e6f073a1f74719823a46c4697</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-custom-aws-resources-amplify-created-backends-cdk-cloudformation/"/>
+        <updated>2021-11-19T07:31:06.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Amplify は、AWS Cloud Development Kit (CDK) またはAWS CloudFormation を使用して、Amplify で作成したバックエンドに 175 以上の AWS サービスを追加する新しい「amplify add custom」コマンドを発表いたします。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。カスタムリソースを追加する新しい機能により、デベロッパーは 1 つのコマンドで Amplify の組み込みユースケース以外のリソースを追加することが可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無料のクラウドスキルトレーニングを拡大 - 2025 年までに 2,900 万人のクラウドスキル育成支援に向けて]]></title>
         <id>3378823f32452f0f6cf0683feedb31308e8c16d7</id>
