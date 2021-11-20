@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-20T04:03:34.124Z</updated>
+    <updated>2021-11-20T05:02:02.255Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3953,16 +3953,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/"/>
         <updated>2021-10-21T17:04:57.000Z</updated>
         <summary type="html"><![CDATA[AWS Elemental MediaConvert は、IMSC 1.1 テキストプロファイルの字幕のリッチテキストレンダリングと TTML 字幕形式をサポートするようになりました。これらの形式は両方とも、テキストサイズ、位置、両端揃え、色、スタイル、および影付きを含む詳細なフォーマットを可能にします。多くの視聴者にとって、画面上の字幕は視聴体験の重要な部分であり、この機能により、字幕の作成者は画面上でのテキストのレンダリング方法をよりクリエイティブに制御できます。さらに、IMSC と TTML では、右から左へのテキスト、ルビ、垂直テキストなど、テキストローカリゼーションのためのより多くのオプションを使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新の AWS ドライバーで更新された新しいイメージを作成するための Amazon WorkSpaces API の発表]]></title>
-        <id>22a4b8354008b63bad76c253e6b2a3e2f1b345f1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/"/>
-        <updated>2021-10-21T17:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkSpaces は、WorkSpaces イメージを最新の AWS ドライバーで最新の状態に保つために使用できる API を提供するようになりました。これまでは、WorkSpaces インスタンスを手動で起動し、ドライバーの更新をインストールして新しいイメージを作成することにより、WorkSpaces イメージを最新の状態に保っていました。このリリースでは、WorkSpaces API を使用して、ご利用のイメージのために最新の AWS ドライバーが利用可能かどうかを確認し、それらの更新をインストールして、更新されたイメージを作成できます。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。WorkSpaces を最新の AWS ドライバーで最新の状態に保つことで、AWS が提供する最新のインスタンスタイプやその他のインフラストラクチャコンポーネントの利点を活用できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
