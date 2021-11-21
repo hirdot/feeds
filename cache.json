@@ -3354,6 +3354,15 @@
       "siteUrl": "https://weblog.rubyonrails.org/",
       "articles": [
         {
+          "id": "https://weblog.rubyonrails.org/2021/11/21/this-week-in-rails-automated-shard-swapping-middleware-standardised-error-reporting-interface-and-more-843a0431/",
+          "author": null,
+          "description": "Hey, this is Greg, bringing you the latest news about Ruby on Rails.",
+          "link": "https://weblog.rubyonrails.org/2021/11/21/this-week-in-rails-automated-shard-swapping-middleware-standardised-error-reporting-interface-and-more-843a0431/",
+          "publishedOn": "2021-11-21T00:00:00.000Z",
+          "wordCount": 486,
+          "title": "Automated shard swapping middleware, standardised error reporting interface and more!"
+        },
+        {
           "id": "https://weblog.rubyonrails.org/2021/11/7/this-week-in-rails-nested-attributes-for-delegated-types-improved-performances-and-more-73a8f5cf/",
           "author": null,
           "description": "Hey! Robin here with the latest news from the Ruby on Rails world. Support accepts_nested_attributes_for for delegated types Rails 6.1 introduced delegated types to ease handling some polymorphic relationships. This pull request makes using accepts_nested_attributes_for on such types a piece of cake. Use nested queries doing UPDATE with GROUP BY and HAVING on MySQL Since MySQL doesn’t support UPDATE with GROUP BY and HAVING clauses, this patch fixes such scenario to rely on a sub-query. A similar patch has been merged to deal with DELETE queries. Raise a specific error on unsafe redirects Rails 7.0 prevents redirects to other hosts than the current one unless you explicitly ask it to. In case of unsafe redirects, an ArgumentError was raised. Now, the error is more specific, allowing you to rely on a rescue_from block to deal with such cases. Add url_from to check if an URL is internal In line with the previous patch, a new url_from method is available in controllers to check whether an URL is internal or not, simplifying the way to provide an alternative in case it is not. Improved Active Job test helpers error messages This is the kind of little changes that make life easier. The error messages of assert_enqueued_with and assert_performed_with have been improved to ease debugging when the assertion failed. Happy testing! Optimize ActiveSupport::CurrentAttributes method generation It’s always lovely to see performance optimizations. This patch is about method generation of classes inheriting from ActiveSupport::CurrentAttributes. The trick here is to generate the code as a string rather than relying on a closure. 13 people contributed to Rails since last time. All the changes can be checked here. Until next week!",
