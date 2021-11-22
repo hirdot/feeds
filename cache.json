@@ -1982,6 +1982,87 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "6d9673a494e7c97b35c1dde8fcad5308582607de",
+          "author": "aws@amazon.com",
+          "description": "カスタマーサポートの会話では、エージェントが顧客の要求を処理する前に発信者に姓名やアカウント ID などの入力を求めて、情報を確認することがよくあります。本日より、Amazon Lex ボットを設定して、名、姓、E メールアドレス、英数字、および英国の郵便番号の組み込みスロットタイプのスペル (「ZAC」など) または音声の説明 (例: Zebra の場合は Z、Apple の場合は A、Cat の場合は C）をキャプチャできるようになります。発信者は、スペルサポートを使用することで、難しいスペルや区別がつきにくい名前（「Chris (クリス) 」と「Chris (クリス) 」など）を付けることができます。音声による説明を使用することで、「N」と「M」などの紛らわしい文字を明確にすることができます。（例えば、Min のスペルの場合、「Mary の M 、Idea の I、Nancy の N」のように行います。）スペル機能が組み込みのスロットタイプで拡張されるため、ダイアログ管理を簡素化し、エンドユーザーエクスペリエンスを向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-lex-spelling-support/",
+          "publishedOn": "2021-11-22T17:04:11.000Z",
+          "wordCount": 273,
+          "title": "Amazon Lex のスペルサポートの紹介"
+        },
+        {
+          "id": "d621c37f46eb8a43621e88ee4f94c7b4e06ea1c4",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は、サポートされている製品の 1 年、2 年、または 3 年の契約で、お客様が AWS Marketplace から Amazon マシンイメージ (AMI) およびコンテナ製品を購入できるようになったことを発表しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-marketplace-contract-pricing-amazon-machine-images-ami-container-products/",
+          "publishedOn": "2021-11-22T14:06:34.000Z",
+          "wordCount": 274,
+          "title": "AWS Marketplace が、Amazon マシンイメージ (AMI) およびコンテナ製品の前払い契約料金を開始"
+        },
+        {
+          "id": "b5409d00d2e2058a62003c7bb263afea5c78a5a8",
+          "author": "aws@amazon.com",
+          "description": "AWS Application Migration Service (AWS MGN) が、VMware vCenter バージョン 6.7 および 7.0 から AWS クラウドへのエージェントレスレプリケーションのサポートを開始しました。AWS Application Migration Service は、AWS へのリフトアンドシフト移行のための主要なサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-application-migration-agentless-replication/",
+          "publishedOn": "2021-11-22T14:05:46.000Z",
+          "wordCount": 298,
+          "title": "AWS Application Migration Service がエージェントレスレプリケーションのサポートを開始"
+        },
+        {
+          "id": "67d2125f905252ff235c1144545487529cea560c",
+          "author": "aws@amazon.com",
+          "description": "本日より、独自 IP の持ち込み (BYOIP) が 7 つの追加 AWS リージョンで利用可能になります。これらの AWS リージョンは、アフリカ (ケープタウン)、アジアパシフィック (大阪、ソウル)、欧州 (ミラノ、パリ、ストックホルム)、および中東 (バーレーン) です。今回のローンチで、BYOIP はすべての商用リージョン、AWS GovCloud (米国東部)、および AWS GovCloud (米国西部) で利用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-byoip-seven-regions/",
+          "publishedOn": "2021-11-22T14:04:58.000Z",
+          "wordCount": 340,
+          "title": "Amazon Virtual Private Cloudc が、7 つの追加 AWS リージョンで独自 IP の持ち込み (BYOIP) のサポートを開始"
+        },
+        {
+          "id": "5c51d0f8dd73837208c106296aa73d516b366d4a",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch Container Insights コンソールから直接Amazon CloudWatch Application Insights の問題を介して、ワークロード固有のモニタリングを簡単にセットアップし、これらのワークロードの状態を表示できるようになりました。これにより、問題の詳細な調査、問題のトラブルシューティング、解決までの平均時間の短縮が簡単になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-container-insights-console-amazon-cloudwatch-application-insights-problems/",
+          "publishedOn": "2021-11-22T14:04:10.000Z",
+          "wordCount": 332,
+          "title": "Amazon CloudWatch Container Insights が Amazon CloudWatch Application Insights の問題を介してワークロードの問題を視覚化するためのコンソールサポートを追加"
+        },
+        {
+          "id": "57580ca8bd6c5024d5103a5462c7d3e40319a726",
+          "author": "aws@amazon.com",
+          "description": "本日、オンプレミスおよびクラウドベースのアプリケーションの高速で信頼性の高いリカバリにより、組織がダウンタイムとデータ損失を最小限に抑えることを可能にする新しいサービス、AWS Elastic Disaster Recovery (AWS DRS) の一般提供開始を発表します。AWS Elastic Disaster Recovery は、AWS の災害対策のための推奨サービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/",
+          "publishedOn": "2021-11-22T14:03:22.000Z",
+          "wordCount": 338,
+          "title": "AWS Elastic Disaster Recovery の一般提供開始を発表"
+        },
+        {
+          "id": "c37389ca27eeb626be679c8750d75145a7b48fec",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Network Firewall はISO 9001、ISO 27001、ISO 27017、ISO 27018、および ISO 27701 規格に準拠しています。AWS では、認証を維持するための広範な統制に対する監査を行い、企業とその顧客情報の機密性、完全性、および可用性に影響を与える可能性のある情報セキュリティリスクを適切に管理しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-network-firewall-iso-compliance/",
+          "publishedOn": "2021-11-22T14:02:35.000Z",
+          "wordCount": 292,
+          "title": "AWS Network Firewall が ISO への準拠を達成"
+        },
+        {
+          "id": "aa1d4b8aade1390b5aa812eabb4b5b06954468be",
+          "author": "aws@amazon.com",
+          "description": "Amazon Rekognition は、画像内のテキストを検出して読み取り、見つかった各単語のバウンディングボックスを返せるます。本日より、Amazon Rekognition は画像内のテキスト検出を新たに 7 言語でサポートします。新たな言語は、アラビア語、ロシア語、ドイツ語、フランス語、イタリア語、ポルトガル語、スペイン語です。Amazon Rekognition は、画像内の全てのサポート言語のテキストを自動で検出し抽出します。言語パラメータは必要ありません。また、Amazon Rekognition は全体的にも、画像内の仮想テキストと歪曲したテキストに関しても精度が向上しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-rekognition-text-detection-7-new-languages-accuracy/",
+          "publishedOn": "2021-11-22T14:01:47.000Z",
+          "wordCount": 285,
+          "title": "Amazon Rekognition テキスト検出のサーポート言語が 7 言語追加され、精度も向上"
+        },
+        {
+          "id": "f48002e461d62b2aacca51f5cab37851ab44de50",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Elastic Kubernetes Service (EKS) Connector の一般提供を開始することを発表します。EKS Connector を使用して、EKS コンソールを拡張し、AWS 外で Kubernetes クラスターを表示できるようになりました。EKS コンソールを使用して、オンプレミスの Kubernetes クラスター、Amazon Elastic Compute Cloud (EC2) で実行されている自己管理クラスター、他のクラウドプロバイダーのクラスターなどの Kubernetes クラスターを視覚化できます。一度接続すれば、すべてのクラスターのステータス、設定、ワークロードを EKS コンソール上の 1 か所で確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/",
+          "publishedOn": "2021-11-22T14:00:59.000Z",
+          "wordCount": 286,
+          "title": "Amazon EKS Connector でのすべての Kubernetes クラスターの 1 か所での視覚化の一般提供開始"
+        },
+        {
           "id": "55716be6ca484d32d92e9dba12a24e632fc8b182",
           "author": "aws@amazon.com",
           "description": "Amazon Rekognition Custom Labels は、自動機械学習 (AutoML) サービスです。機械学習に関する深い専門知識がなくても、ビジネスニーズに特化したものやシーンを検出するカスタムコンピュータビジョンモデルを構築することができます。本日より、Amazon Rekognition Custom Labels コンソールを更新し、カスタムモデルの管理、トレーニング、評価の方法をステップバイステップで紹介しています。今回刷新されたガイド付きエクスペリエンスでは、数回クリックするだけの簡単な 4 ステップで、独自のコンピュータビジョンモデルをより簡単にトレーニングすることができます。",
