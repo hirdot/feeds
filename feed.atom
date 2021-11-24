@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-24T10:02:47.114Z</updated>
+    <updated>2021-11-24T22:02:25.213Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界的スパイウェア企業「NSO」、米制裁で企業存亡の危機]]></title>
+        <id>https://www.technologyreview.jp/?p=262066</id>
+        <link href="https://www.technologyreview.jp/s/262066/nso-was-about-to-sell-hacking-tools-to-france-now-its-in-crisis/"/>
+        <updated>2021-11-24T21:55:10.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルのNSOはこれまで、悪名高いスパイウェア「ペガサス」を幾多の独裁国家に販売してきたことを非難されつつもビジネスを続けてきた。しかし、米国政府が制裁を科すことを発表した現在、存亡の危機に瀕している。]]></summary>
+        <author>
+            <name>Patrick Howell O'Neill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[構造化データ マークアップ支援ツールは古い、リッチリザルトの最新要件を反映せず]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11756</id>
+        <link href="https://www.suzukikenichi.com/blog/structured-data-markup-helper-is-a-bit-outdated/"/>
+        <updated>2021-11-24T21:30:21.000Z</updated>
+        <summary type="html"><![CDATA[構造化データ マークアップ支援ツールは、Google 検索のリッチスニペット表示に必要な構造化データの最新の要件を必ずしも反映していない。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[システム管理ツール「Prometheus」が「Prometheus Agent」モードを提供、エッジ環境やIoTなど限られたリソースでも利用可能に]]></title>
+        <id>https://www.publickey1.jp/blog/21/prometheusprometheus_agentiot.html</id>
+        <link href="https://www.publickey1.jp/blog/21/prometheusprometheus_agentiot.html"/>
+        <updated>2021-11-24T14:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetesをはじめとするクラウドネイティブを実現するオープンソースソフトウェアの開発を推進する「Cloud Native Computing Foundation」は、システム管理ツール「Prometheus」の新機能「Prome...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Service Management Connector は、 ServiceNow のガイド付きセットアップで簡単にインストール]]></title>
+        <id>d7b0bfe7ab86bbf13e8133f4e64c33456c30cc9a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-service-management-connector-installation-easier-servicenow-guided-setup/"/>
+        <updated>2021-11-24T12:33:23.000Z</updated>
+        <summary type="html"><![CDATA[本日より、お客様は、ServiceNow のガイド付きセットアップで、AWS Service Management Connector をインストールすることができます。このガイド付きセットアップは、ServiceNow スコープ対象のアプリケーション設定タスクを簡素化し、AWS と ServiceNow の間の接続を確立するために必要な専門知識を最小限に抑えます。ServiceNow の管理者、または Connector スコープ対象のアプリケーションにアクセス許可を持つパワーユーザーは、ガイド付きステップに従って、各タスクに完了またはスキップのマークを付けるだけです（該当する場合）。AWS Service Management Connector のドキュメントには、AWS 環境をセットアップする AWS CloudFormation ベースラインアクセス許可テンプレートも含まれています。したがって、ServiceNow ガイド付きセットアップと AWS ベースラインアクセス許可を使用して、お客様は、統合された AWS のサービスを介したガードレールと検出制御の開発、および AWS と ServiceNow との接続の検証に集中することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SNS が、単一の API リクエストで最大10個のメッセージのバッチを発行するサポートを開始]]></title>
+        <id>53f3340c6e7fd86ddb22e9b25f57118353e3f0df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/"/>
+        <updated>2021-11-24T12:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Notification Service (Amazon SNS) が、発行アクションのメッセージバッチ処理をサポートするようになりました。これにより、最大10個のメッセージを単一のバッチリクエストで、スタンダードトピックまたはFIFOトピックのいずれかに発行できます。メッセージを単一の API リクエストにバッチ処理することは、分離されたアプリケーションを Amazon SNS に接続させることに関連するコストを削減したい人を対象としています。以前は、Amazon SNS では、発行されたメッセージごとに個別の API リクエストを必要としていました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly で新しいフランス語のニューラルテキスト読み上げ音声を新たにローンチ]]></title>
+        <id>248cdd82a56ce025b543567e543fa62b7b6f1315</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/"/>
+        <updated>2021-11-24T12:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、フランス語の Polly 音声である Léa のニューラルテキスト読み上げ (NTTS) バージョンの一般提供の開始を発表します。これで、Amazon Polly のお客様は、NTTS またはスタンダードの音声のいずれかで、 Léa をご利用になれます。今回の発表により、13 の言語で 23 の NTTS 音声が提供されるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ServiceNow 向け AWS Service Management Connector が AWS Systems Manager Change Manager をサポート]]></title>
+        <id>e37ab69e5827c1b614c189fcf495b282f8ec71ae</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/"/>
+        <updated>2021-11-24T12:30:58.000Z</updated>
+        <summary type="html"><![CDATA[本日より、お客様は AWS Systems Manager Change Manager を介して、ServiceNow 内のテンプレートに基づいて AWS リソース/サービスの変更リクエストを行うことができます。ServiceNow 内で承認すると、これらの変更リクエストは、変更テンプレートに関連付けられた AWS Systems Manager Automation ランブックを実行します。AWS Systems Manager Change Manager では、AWS でのインフラストラクチャおよびアプリケーションの設定に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。この統合により、お客様は AWS リソース/サービスのメンテナンス、管理、ガバナンスを、使い慣れた IT Change Management (有効化) プロセスおよびツールで合理化し調整することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruby 3.1: ES6風のハッシュリテラル省略記法が追加（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_11_24/113383</id>
@@ -4128,159 +4198,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[Amazon.comは、これまで同社内で従業員向けに提供してきたセキュリティのオンライントレーニングコースを無償で一般公開しました。 Starting today, we're making the same cybersecuri...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: YJITがRuby 3.1向けにマージ、ripperのドキュメント化、crontabの罠ほか（20211026後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_10_26/112885</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_10_26/112885"/>
-        <updated>2021-10-26T09:58:26.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/railswatch_20211026_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_10_26/112885" data-wpel-link="internal" target="_self">週刊Railsウォッチ: YJITがRuby 3.1向けにマージ、ripperのドキュメント化、crontabの罠ほか（20211026後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails / OSS パッチ会オンライン 2021年10月のお知らせ]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20211028</id>
-        <link href="https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20211028"/>
-        <updated>2021-10-26T07:10:29.000Z</updated>
-        <summary type="html"><![CDATA[2021年10月の Rails / OSS パッチ会を 10月28日(木)にオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS への upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひご参加下さい。Zoo…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい AWS ソリューション実装: Web Client for AWS Transfer Family]]></title>
-        <id>235f609b121e2657f920a2cb48beb6127a901b04</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/"/>
-        <updated>2021-10-26T05:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Web Client for AWS Transfer Family は、Secure Shell File Transfer Protocol (SFTP) で AWS Transfer を使用するための直感的なウェブブラウザインターフェースとなります。AWS Transfer Family の採用に加えて、企業 SFTP 環境へのシンプルなウェブポータルを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fault Injection Simulator がスポットインスタンス中断のサポートを開始]]></title>
-        <id>cbf1520b1a0d310a06ec0a8954d49839c40c5dcd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/"/>
-        <updated>2021-10-26T05:30:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Fault Injection Simulator (FIS) を使用して、Amazon EC2スポットインスタンスの割り込みをスポットインスタンスワークロードに設定できるようになりました。スポットインスタンスを使用すると、Amazon EC2 で容量を戻す必要があるときにスポットインスタンスを返す代わりに、Amazon EC2 でコンピューティングワークロードを大幅な割引で実行できます。スポットインスタンスが中断される可能性は常にあるため、アプリケーションがスポットインスタンスの中断に備えていることを確認する必要があります。ただし、これまでは、アプリケーションの応答方法を評価および改善するために、スポットインスタンスの中断の状況を再現することは困難でした。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fault Injection Simulator がスポットの中断のサポートを開始]]></title>
-        <id>003dcb27e8d87438e7c63eb29bb9ebaaa1959828</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/"/>
-        <updated>2021-10-26T02:48:27.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Fault Injection Simulator (FIS) を使用して Amazon EC2 スポットインスタンスの中断をトリガーできます。スポットインスタンスは、オンデマンド料金と比較して最大 90% 割引で利用できる予備の EC2 容量を使用します。割引と引き換えに、Amazon EC2 が容量を戻す必要がある場合、スポットインスタンスは Amazon EC2 によって中断される可能性があります。スポットインスタンスを使用する場合は、中断に備えておく必要があります。FIS を使用すると、ワークロードの回復力をテストし、インスタンスを終了する前に EC2 が送信する中断通知にアプリケーションが反応していることを検証できます。ASG、フリート、EMR などのインスタンスにタグを付けるサービスによって管理されるクラスター内の個々のスポットインスタンスまたはインスタンスのサブセットをターゲットにすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が動画の背景ぼかしのサポートを開始]]></title>
-        <id>5da204fbafb70a68342f8894cd49cecbccbb7027</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/"/>
-        <updated>2021-10-26T02:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、および画面共有をウェブアプリケーションに追加できます。デベロッパーは、動画の背景のぼかしを使用して、ユーザーの周囲を難読化することができるようになりました。これにより、視覚面でのプライバシーを高めることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub が AWS セキュリティ体制の評価と改善の方法を簡素化するために、検出結果のリージョン間の集約のサポートを追加]]></title>
-        <id>ac1caa13e8936db6ce1b7ac87e9c0d606be1ebd4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/"/>
-        <updated>2021-10-26T02:46:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub では、集約リージョンを指定し、一部またはすべてのリージョンをその集約リージョンにリンクできるようになりました。これにより、すべてのアカウントおよびすべてのリンクされたリージョン全体のすべての検出結果を一元的に表示できます。あるリージョンを集約リージョンにリンクすると、検出結果はリージョン間で継続的に同期されます。リンクされたリージョンの検出結果に対する更新は集約リージョンにレプリケートされ、集約リージョンの検出結果に対する更新は、検出結果の発生元のリンクされたリージョンにレプリケートされます。 この機能の詳細については、こちらのドキュメントをお読みください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama Appliance の一般提供を発表]]></title>
-        <id>93273f745176bd51a812d0c7c7dcce083b360896</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-panorama-appliance-available/"/>
-        <updated>2021-10-26T02:46:05.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Panorama Appliance の一般提供を開始しました。AWS Panorama Appliance は、既存のオンプレミスカメラを使用し、コンピュータビジョンを使用してローカルに動画ストリームを分析することにより、お客様がオペレーションを改善し、コストを削減できるようにする新しいデバイスです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Transcribe がストリーミング文字起こし向けにカスタム言語モデルのサポートを開始]]></title>
-        <id>7d520d658803aad874bcce498e571a9715b9f0bf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/"/>
-        <updated>2021-10-26T02:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Transcribe は、ストリーミング文字起こし用のカスタム言語モデル (CLM) をサポートするようになります。Amazon Transcribe は、音声をテキストに変換する機能をアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。CLM を使用すると、既存のデータを活用して、文字起こしのユースケースに合わせたカスタム音声エンジンを構築できます。事前の機械学習の経験は必要ありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Synthetics によってアーティファクトを暗号化するための AWS KMS カスタマーマネージドキーのサポートのご紹介]]></title>
-        <id>13d01b6b1459ce1600be8ed03767d7ee0033147c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/"/>
-        <updated>2021-10-26T02:33:39.000Z</updated>
-        <summary type="html"><![CDATA[CloudWatch Synthetics は、CloudWatch Synthetics が Amazon Simple Storage Service (Amazon S3) バケットに保存する canary 実行データを暗号化するために提供する AWS Key Management Service (AWS KMS) キーの使用をサポートするようになりました。デフォルトでは、これらのアーティファクトは AWS マネージドキーを使用して保管時に暗号化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for MySQL on Outposts が新しいマイナーバージョンをサポート]]></title>
-        <id>c13b681865c1912c91645f81d10a69d4d4343742</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/"/>
-        <updated>2021-10-26T02:32:44.000Z</updated>
-        <summary type="html"><![CDATA[MySQL のマイナーバージョン 8.0.23 および 8.0.25 をサポートするように、Amazon Relational Database Service (Amazon RDS) for MySQL on Outposts を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight が新しいテーブルとピボットテーブルの機能強化をリリース]]></title>
-        <id>451f55165a83ebefd761d2bab8a66b0412105c0d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/"/>
-        <updated>2021-10-26T02:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight は、テーブルとピボットテーブル向けの高度なスタイル設定をサポートするようになりました。作成者は、罫線や色をカスタマイズするために新しくリリースされたオプションを使用して、見た目のよいテーブルを作成したり、デザインパターンを採用したり、標準化されたコーポレートアイデンティティを表形式のビジュアルに適用したりできます。また、合計と小計にカスタムの罫線とスタイルを適用して、損益計算書などの財務報告書を作成することもできます。詳細については、こちらをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3回　より思慮深いコードレビューを書くためには ── 細分化とコードレビュー見直しによるイテレーション的ソフトウェア開発のメリット]]></title>
-        <id>https://gihyo.jp/dev/serial/01/iterative-software-development/0003</id>
-        <link href="https://gihyo.jp/dev/serial/01/iterative-software-development/0003"/>
-        <updated>2021-10-26T00:53:00.000Z</updated>
-        <summary type="html"><![CDATA[フィードバックは私たちにとってソフトウェア本体同様に，個人的にも業務的にも重要です。今回は，コード作者とレビュアーのためのコミュニケーション戦略について紹介します。]]></summary>
-        <author>
-            <name>伊藤俊廷</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[価格とパフォーマンスの比率が向上するAWS Graviton2 プロセッサを使用したAWS Lambda関数]]></title>
-        <id>https://www.infoq.com/jp/news/2021/10/aws-lambda-graviton2-processor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/10/aws-lambda-graviton2-processor/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-10-26T00:44:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Graviton2 プロセッサは、顧客にWebやモバイルのバックエンド、データ、メディア処理などのワークロードのパフォーマンス対価格の比率を向上させるAWSによってカスタムビルドされた64ビットArmベースプロセッサだ。先頃、AWSは、AWS Graviton2 プロセッサを使用したAWS Lambda関数の一般提供 (GA) を発表した。
- By Steef-Jan Wiggers  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicrosoftがAzure Purviewの提供開始を発表]]></title>
-        <id>https://www.infoq.com/jp/news/2021/10/microsoft-azure-purview-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/10/microsoft-azure-purview-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-10-26T00:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftは先頃、同社クラウドのデータガバナンスソリューションであるAzure Purviewの供与を開始(General Availability, GA)すると発表した。オンプレミス、クラウド、およびアプリケーションベースのシステムを対象とする、統合的なデータガバナンスソリューションをユーザに提供する。今回のGAリリースは、約1年前の公開プレビューリリースからのフォローアップに位置付けられる
- By Steef-Jan Wiggers  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
         </author>
     </entry>
 </feed>
