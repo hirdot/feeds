@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-25T00:16:30.553Z</updated>
+    <updated>2021-11-25T01:47:41.228Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudFrontが設定可能なCORSとカスタムHTTPレスポンスヘッダーをサポート]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/cloudfront-response-headers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/cloudfront-response-headers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-25T01:27:00.000Z</updated>
+        <summary type="html"><![CDATA[先ごろ、Amazon CloudFront はレスポンスヘッダーポリシーのサポートの追加によって、レスポンスヘッダーを挿入するためのカスタム Lambda@Edge およびCloudFront ファンクションの不要とした。この新機能により、開発者はクロスオリジンリソースシェアリング (CORS)、セキュリティ、およびカスタムヘッダーを HTTP レスポンスに追加できる。
+ By Renato Losio  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Vault 1.8に診断コマンド、キー管理シークレットエンジン、および有効期限マネージャを追加]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/HashiCorp-vault-1-8/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/HashiCorp-vault-1-8/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-25T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[HashiCorp Vault 1.8 は、Vault 診断、統合されたストレージオートパイロット、AWS のキー管理シークレットエンジン、有効期限管理の改善、コントロールグループトリガなど機密性とプライバシー製品に注目すべき機能と改善をもたらす。Vault は、UI、CLI や HTTP API を使用しユーザがシークレットを管理し、機密データを保護するのに役立つ。
+ By Feynman Zhou  Translated by Shoji Shigeki]]></summary>
+        <author>
+            <name>Feynman Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Flink、Kafka、およびPinotを使用したUberでのリアルタイムの正確に1回のイベント処理]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/exactly-once-uber-flink-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/exactly-once-uber-flink-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-25T01:10:00.000Z</updated>
+        <summary type="html"><![CDATA[UberEats に広告を導入した後、Uber はいくつかの困難に直面した。生成したイベントは、迅速、確実、正確に処理する必要があった。これらの要件は、広告イベントのストリームを正確に1回のセマンティクスでリアルタイムに処理する、Apache Flink、Kafka、および Pinot をベースにしたシステムによって満たされた。このアーキテクチャを説明する記事が最近 Uber Engineering ブログに公開された。
+ By Vasco Veloso  Translated by Shoji Shigeki]]></summary>
+        <author>
+            <name>Vasco Veloso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第3回　儲かるオープンソースのカギは大企業の参加 ～スマホ屋から金融企業まで盛り上がるコンプライアンスSIG ── 日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く]]></title>
+        <id>https://gihyo.jp/dev/serial/01/china-oss-frontline/0003</id>
+        <link href="https://gihyo.jp/dev/serial/01/china-oss-frontline/0003"/>
+        <updated>2021-11-25T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[第1回，第2回で紹介したとおり，中国でのオープンソース・ムーブメントはまさに今拡大中。コミュニティは「今から俺たちがムーブメントを盛り上がるぞ！」という熱気で満ちています。]]></summary>
+        <author>
+            <name>高須正和</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年11月第4週　新タブレット「Pixel Tablet」登場の兆しが見え隠れ ── Android Weekly Topics]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/awt/202111/25</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202111/25"/>
+        <updated>2021-11-25T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年11月第4週のAndroid関連のニュースをお届けします。]]></summary>
+        <author>
+            <name>傍島康雄</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物流業界の方必見！ 「物流DX・データ活用」イベント・セミナー5選 2021年12月版]]></title>
         <id>https://data.wingarc.com/?p=37038</id>
