@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-26T08:04:39.481Z</updated>
+    <updated>2021-11-26T09:02:41.104Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10/11でWSL環境を移行する方法]]></title>
+        <id>https://techracho.bpsinc.jp/morimorihoge/2021_11_26/113804</id>
+        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_11_26/113804"/>
+        <updated>2021-11-26T08:30:57.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/windows10_11_migrating_wsl_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。ようやく寒くなってきましたね。 直近諸々の事情で2，3回ほどWindows10/11作業環境を再構築する機会があり、WSL環境の移行も行いましたのでその辺りの手順について忘れないうちにまとめておきます。 開発環境をWSL環境内に集約しておけばとても簡単に移行できるので、参考になれば。 なお、基本的な手順は以下の公式ドキュメントにも記載されています。WSL2環境を前提に書いていますが、基本的な手順はWSL1でも踏襲できると思われます。細部が異なるとは思いますがその点はご了承下さい。 参考：WSL で使用する Linux ディストリビューションをインポートする wsl --exportで [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_11_26/113804" data-wpel-link="internal" target="_self">Windows 10/11でWSL環境を移行する方法</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人開発中に見た不可解な挙動を調べたらHTML Living Standardに行き着いた話]]></title>
         <id>https://blog.agile.esm.co.jp/entry/search-living-standard</id>
