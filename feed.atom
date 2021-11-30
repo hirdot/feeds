@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T10:02:14.294Z</updated>
+    <updated>2021-11-30T22:02:22.840Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【画像SEO】CDN配信する画像にはサイトとは別にクロールバジェットが割り当てられる]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11770</id>
+        <link href="https://www.suzukikenichi.com/blog/google-allocates-separate-server-capacity-to-a-site-and-its-external-cdn/"/>
+        <updated>2021-11-30T21:45:49.000Z</updated>
+        <summary type="html"><![CDATA[画像を CDN でホストしている構成では、本サイトと CND サーバーのクロール バジェットは別々に割り当てられるそうだ。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Iceberg による Amazon Athena ACID トランザクション (プレビュー) を発表]]></title>
+        <id>add7ac7de014558dc6487bb83e4d1383fc09eb19</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/"/>
+        <updated>2021-11-30T20:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Athena ACID トランザクションの公開レビューを発表します。この新機能は、Athena の SQL のデータ操作言語 (DML) に、書き込み、削除、更新、タイムトラベルなどの各種操作を追加します。Athena ACID トランザクションにより、複数ユーザーが同時に、Athena のコンソール、API、および ODBC/JDBC ドライバーから、自身の Amazon S3 データに信頼できる、行レベルの変更を加えられるようになります。Apache Iceberg テーブルプラットフォームに組み込まれた Athena ACID トランザクションは、Amazon EMR および Apache Spark など、Iceberg のテーブル形式をサポートする他のサービスやエンジンと互換性があります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］AWS、ARMベースの独自プロセッサを強化した「Graviton 3」および新インスタンス「C7gインスタンス」発表。AWS re:Invent 2021]]></title>
+        <id>https://www.publickey1.jp/blog/21/awsarmgraviton_3c7gaws_reinvent_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/awsarmgraviton_3c7gaws_reinvent_2021.html"/>
+        <updated>2021-11-30T19:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Servicesは、同社がクラウド向けに開発しているARMプロセッサの新型「Graviton 3」と、その搭載インスタンスである「C7gインスタンス」を、開催中のイベント「AWS re:Invent 2021」で発表し...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］米NASDAQ、取引市場をAWS上へ段階的に移行。2022年から開始すると発表。AWS re:Invent 2021]]></title>
+        <id>https://www.publickey1.jp/blog/21/nasdaqaws2022aws_reinvent_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/nasdaqaws2022aws_reinvent_2021.html"/>
+        <updated>2021-11-30T18:03:59.000Z</updated>
+        <summary type="html"><![CDATA[新興企業を中心とした証券取引市場を運営する米Nasdaqは、2022年からオプション取引市場のNasdaq MRXを皮切りに、証券取引市場を段階的にAWS上に移行していく予定であることを、AWSのイベント「AWS re:Invent 202...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECR PublicからDocker公式イメージが取得可能に。Docker Hubのプル制限を回避可能。AWS re:Invent 2021]]></title>
+        <id>https://www.publickey1.jp/blog/21/amazon_ecr_publicdockerdocker_hubaws_reinvent_2021.html</id>
+        <link href="https://www.publickey1.jp/blog/21/amazon_ecr_publicdockerdocker_hubaws_reinvent_2021.html"/>
+        <updated>2021-11-30T17:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、同社のクラウドサービスとしてDockerコンテナイメージのレジストリサービスを提供する「Amazon Elastic Container Registry Public」（以下、Amazo...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Single Sign-On が、AWS SOC レポートの対象となりました]]></title>
+        <id>e4a259a38a3d069753dacd2df6ededf911aea2bf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/"/>
+        <updated>2021-11-30T14:02:25.000Z</updated>
+        <summary type="html"><![CDATA[AWS Single Sign-On (AWS SSO) は、AWS SOC 1、SOC 2、SOC 3 レポートの対象となりました。当社の System and Organization Controls (SOC) レポートでコントロールの監査証拠を必要とするアプリケーションに、AWS SSO が使用できるようになりました。例えば、AWS を使用してアカウントやアプリケーションへのアクセスを管理している場合、SOC レポートを利用することでそれらのユースケースのコンプライアンス要件を満たすことができます。   AWS SOC レポートは、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda は、Amazon SQS、Amazon DynamoDB、Amazon Kinesis をイベントソースとするイベントフィルタリングをサポートしました]]></title>
+        <id>e4f657d3bfe84277c01387f419408583b0b4acca</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/"/>
+        <updated>2021-11-30T14:01:37.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda は、イベントソースとして SQS、DynamoDB、Kinesis のコンテンツフィルタリングオプションを提供するようになりました。イベントパターンのコンテンツフィルタリングでは、お客様が指定したフィルタリング条件の下で、SQS、DynamoDB、Kinesis からのみ Lambda 関数がトリガーされるような複雑なルールを書くことができます。これにより、お客様の Lambda 関数へのトラフィックを減らし、コードを簡素化し、全体的なコストを削減することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インターネット上のデータ転送における AWS の値下げについて]]></title>
+        <id>fe7f6c24982625384244ebc7472bcd4a602c0d57</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
+        <updated>2021-11-30T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[2021 年 12 月 1 日より、AWS はインターネット上のデータ転送について、2 つの価格変更を行います。毎月、Amazon Cloudfront からの最初のテラバイトデータ転送、最初の 1,000 万回の HTTP/S リクエスト、最初の 200 万回の CloudFront Functions 呼び出しが無料になります。CloudFront からの無料データ転送は、最初の 12 か月間に限定されなくなりました。また、すべての AWS リージョン (中国と GovCoud を除く) からのデータ転送について、最初の 100 ギガバイト/月は無料となります。AWS リージョンからの無料データ転送も、最初の 12 か月間に限定されなくなりました。これらの変更は、既存のデータ転送および CloudFront の AWS 無料利用枠提供を置き換えるもので、AWS のお客様には今後、これらの変更が自動的に反映された AWS の請求書が届きます。今回の価格変更は、すべての AWS のお客様にメリットがあり、何百万のお客様がデータ転送料を無料にすることになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: Value Objectで「基本データ型への執着」と戦う（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_30/113818</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_30/113818"/>
+        <updated>2021-11-30T10:06:21.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/rails_value_object_against_primitive_obsession_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Fighting the primitive obsession with Value objects &#124; Arkency Blog 原文公開日: 2021/05/01 原著者: 原著者: Szymon Fiedler サイト: arkency 週刊Railsウォッチ20210510『Value Objectをクラスで定義してプリミティブな値と戦う』もどうぞ。 参考: Primitive&#45;obsession&#40;基本データ型への執着&#41; &#45; Qiita Rails: Value Objectで「基本データ型への執着」と [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_30/113818" data-wpel-link="internal" target="_self">Rails: Value Objectで「基本データ型への執着」と戦う（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS App2Container が CI/CD パイプラインのセットアップで Jenkins をサポート]]></title>
         <id>cb8d70b40bbc13bb27990f4ae0645d614b17b9a5</id>
@@ -4797,77 +4888,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[AWS Serverless Application Model (SAM) は、AWS SAM Accelerate のパブリックプレビューを発表します。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。SAM Accelerate は、SAM CLI の新機能であり、デベロッパーがサーバーレスアプリケーションに対してローカルに行われたコード変更をクラウドベースの環境に対してテストすることをより迅速かつ容易にし、ローカルの反復作業から本番環境への準備までの時間を短縮します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: Rails 7アセットパイプライン解説記事、ロジックをapp/operatorsで整理ほか（20211101前編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_01/113130</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_01/113130"/>
-        <updated>2021-11-01T09:49:50.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/railswatch_20211101_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。直近ですが、明日11/2（火）19:30より「大江戸Ruby会議09 出前Edition」がオンライン開催されます。Rails界隈で知られた「あの人」や「あの人」も登壇するそうです。皆さんもぜひ！ Asakusa.rb主催の大江戸Ruby会議09 出前Editionが週明け火曜の11/02 19:30より開催されます。Railsエンジニアなら一度は聞いたことのある「あの人」も登壇するとても豪華なイベントなので、まだ参加申込みしていない人はぜひ！ #oedo09 https://t.co/nu9cR0EIea &#8212; 銀座Rails (@GinzaRails) Octob [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_01/113130" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Rails 7アセットパイプライン解説記事、ロジックをapp/operatorsで整理ほか（20211101前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世代、役割、組織の枠組みを超えて ビジネスとテクノロジーの間をつなぐ]]></title>
-        <id>https://data.wingarc.com/?p=36846</id>
-        <link href="https://data.wingarc.com/ciojapansummit2021_interview02-36846?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ciojapansummit2021_interview02"/>
-        <updated>2021-11-01T04:00:24.000Z</updated>
-        <summary type="html"><![CDATA[その2人目となるのは白石卓也氏だ。フューチャーアーキテクトや日本IBMなどを経て、ローソンでは執行役員、ローソンデジタルイノベーション代表取締役社長、オープンイノベーションセンターのトップとして同社のデジタル改革を推進。 […]]]></summary>
-        <author>
-            <name>野島光太郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いつもと違うプログラミングの風景を見に行く]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/another-perspective</id>
-        <link href="https://blog.agile.esm.co.jp/entry/another-perspective"/>
-        <updated>2021-11-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[昨年、「プログラミング多言語主義」という記事を書きました。 それを踏まえて。 ふだんと違うプログラミング言語を使ったとき、実際にどんな風景が見えるのか、それ見に行こう… というのが、今回の記事の表のテーマです。 先に弁明をしておくと。 今回書くコードは「いつもと違う風景を見る」ことに重心を置いていて、効率とかは脇によけてあります。 その点はご容赦を。 どう書く？：すべての順列を生成するプログラム 早速ですが、一連の要素の順番を入れ替えてできる並びをすべて挙げる例を考えてみましょう。 例えば という入力に対して、 という出力をえる、というものです。 Rubyで書いたばあいであれば、このような結果…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第75回　Project Tsurugi（劔）報告会，MySQL 8.0.27リリース，PostgreSQL 14最新情報をオープンソースカンファレンスから ── OSSデータベース取り取り時報]]></title>
-        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0075</id>
-        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0075"/>
-        <updated>2021-11-01T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
-        <author>
-            <name>梶山隆輔，溝口則行</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB+DB PRESS Vol.124へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ]]></title>
-        <id>https://gihyo.jp/dev/serial/01/readers-forum/vol125</id>
-        <link href="https://gihyo.jp/dev/serial/01/readers-forum/vol125"/>
-        <updated>2021-11-01T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはこんにちは!！ やっと涼しくなってきましたね。最近はリモートワークで歩く機会がめっきり減ってしまい，運動不足なのか太り気味になってしまいました。]]></summary>
-        <author>
-            <name>はまちや2，竹原</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【タイムくん – 第113話：ダイナミック・ケパビリティ】]]></title>
-        <id>https://data.wingarc.com/?p=36920</id>
-        <link href="https://data.wingarc.com/taimu-kun-113-36920?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taimu-kun-113"/>
-        <updated>2021-10-31T23:00:13.000Z</updated>
-        <summary type="html"><![CDATA[ここがポイント：「危険を察知！」と言えばトントントントンヒノノニトン みなさん、おはようございます。 僕はそんなにスリルと興奮を味わいたい強い方ではないので、ギャンブルってあんまり興味無いというか、そんなにのめり込んだり […]]]></summary>
-        <author>
-            <name>TotsukaKeisuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイナミック・ケイパビリティ（企業変革力）とは？ オーディナリー・ケイパビリティとの違いや3つの構成要素も解説]]></title>
-        <id>https://data.wingarc.com/?p=34384</id>
-        <link href="https://data.wingarc.com/dynamic-capability-34384?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dynamic-capability"/>
-        <updated>2021-10-31T22:58:57.000Z</updated>
-        <summary type="html"><![CDATA[ベストプラクティスを見つけて、労働生産性を最大化したい……！ そう志してデータ活用に取り組むことを目指す経営層の方々や、ミッションとするビジネスパーソンの方々は少なくないはずです。 しかし、コロナ禍など予期せぬ事態やVU […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
         </author>
     </entry>
 </feed>
