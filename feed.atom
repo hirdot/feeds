@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-30T00:17:06.719Z</updated>
+    <updated>2021-11-30T01:40:16.736Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AmazonがRPOとRTOを監視・改善するためのAWS Resilience Hubを発表]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/aws-resilience-hub/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/aws-resilience-hub/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-30T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは最近、AWS Resilience Hubが利用できるようになったことを発表した。これは、顧客がクラウド上のアプリケーションの復元力の定義、測定、管理をサポートするために設計されたサービスである。
+ By Renato Losio  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DaprのCNCFインキュベーターへの参加とYaron Schneider氏とのQ & A]]></title>
+        <id>https://www.infoq.com/jp/news/2021/11/dapr-joins-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2021/11/dapr-joins-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2021-11-30T00:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Native Computing Foundation (CNCF) は先ごろ、分散アプリケーションランタイム (Dapr) を CNCF インキュベーションプロジェクトとして受け入れたことを発表した。この声明は、Dapr プロジェクトの運営および技術委員会 (STC) の設立を発表した、以前の Dapr による発表に続くものだ。
+ By Eran Stiller  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Eran Stiller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第35回　Days of WINE and Struggles again［4］ ── 続・玩式草子 ―戯れせんとや生まれけん―]]></title>
+        <id>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0035</id>
+        <link href="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0035"/>
+        <updated>2021-11-30T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[3Dのシューティングやアクションゲームを試す際に知っておくと便利なのが，DXVKというライブラリです。今回はこのDXVKを紹介しつつWINEを使うコツを考えることにしましょう。]]></summary>
+        <author>
+            <name>こじまみつひろ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第160回　pt-show-grantsを使ってユーザアカウントを移行する ── MySQL道普請便り]]></title>
+        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0160</id>
+        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0160"/>
+        <updated>2021-11-30T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は本連載において何度か登場しているPercona Toolkitのツールの1つ，pt-show-grantsについて紹介したいと思います。]]></summary>
+        <author>
+            <name>北川健太郎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人や組織の幸せとデータのイマとこれから。 因果関係と相関関係から見る幸福との向き合い方とは]]></title>
         <id>https://data.wingarc.com/?p=37198</id>
@@ -1693,6 +1735,17 @@
         <summary type="html"><![CDATA[本日、Amazon Elastic Kubernetes Service (EKS) Connector の一般提供を開始することを発表します。EKS Connector を使用して、EKS コンソールを拡張し、AWS 外で Kubernetes クラスターを表示できるようになりました。EKS コンソールを使用して、オンプレミスの Kubernetes クラスター、Amazon Elastic Compute Cloud (EC2) で実行されている自己管理クラスター、他のクラウドプロバイダーのクラスターなどの Kubernetes クラスターを視覚化できます。一度接続すれば、すべてのクラスターのステータス、設定、ワークロードを EKS コンソール上の 1 か所で確認できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[binstubをしっかり理解する: RubyGems、rbenv、bundlerの挙動（翻訳+解説）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_22/25037</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_22/25037"/>
+        <updated>2021-11-22T08:30:46.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2016/08/rails_binstub_rbenv_bundler_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 Rails関連の記事でbinstubについてちょくちょく見かける割に、ちゃんとした理解がつい後回しになっていたので、rbenvのwikiにあるUnderstanding binstubs をこの機会にさっと訳してみました。原文の最終更新は2015年11月です。なお、訳文では原則「binstub」と単数形で表記しています。 さらに、訳文の技術チェックを行っていただいた弊社Webチーム部長のmorimorihogeさんによる解説を翻訳の後に追加いたしましたので、合わせてご覧ください。 binstubを理解する（翻訳） 概要 Mislav Marohnić氏の許諾を得て翻訳・公開し [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_22/25037" data-wpel-link="internal" target="_self">binstubをしっかり理解する: RubyGems、rbenv、bundlerの挙動（翻訳+解説）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
