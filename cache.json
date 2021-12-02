@@ -1878,6 +1878,15 @@
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
         {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202112/02",
+          "author": "傍島康雄",
+          "description": "2021年12月第1週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202112/02",
+          "publishedOn": "2021-12-02T00:15:00.000Z",
+          "wordCount": 429,
+          "title": "2021年12月第1週　AndroidにもRISC-Vの波が来るのか ── Android Weekly Topics"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0035",
           "author": "こじまみつひろ",
           "description": "3Dのシューティングやアクションゲームを試す際に知っておくと便利なのが，DXVKというライブラリです。今回はこのDXVKを紹介しつつWINEを使うコツを考えることにしましょう。",
@@ -4374,33 +4383,6 @@
           "publishedOn": "2021-11-02T14:31:05.000Z",
           "wordCount": 276,
           "title": "Amazon Aurora PostgreSQL が PostGIS 3.1 をサポート"
-        },
-        {
-          "id": "88d6af518253942c832bc6e0c40d6ef85d857df6",
-          "author": "aws@amazon.com",
-          "description": "Amazon Textract は、PNG、JPEG、および PDF 形式に加えて、TIFF (Tag Image File Format) のドキュメントをサポートするようになりました。お客様は、DetectDocumentText、StartDocumentAnalysis、StartDocumentTextDetection、AnalyzeDocument、および AnalyzeExpense といった Amazon Textract API のいずれかを使用して、TIFF ドキュメントを同期または非同期で処理できるようになりました。Amazon Textract は、印刷および手書きのテキストとデータを任意のドキュメントから自動的に抽出する機械学習サービスです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/",
-          "publishedOn": "2021-11-02T13:32:41.000Z",
-          "wordCount": 265,
-          "title": "Amazon Textract が TIFF のサポートを開始し、領収書と請求書の処理用に非同期サポートを追加"
-        },
-        {
-          "id": "a8a68542d240787d2aa592fea03b95dc24c0c550",
-          "author": "aws@amazon.com",
-          "description": "本日、スポットのワークロードに最適な場所を見つけるのに役立つ、Amazon EC2 スポット配置スコアを導入します。スポットインスタンスの可用性は、インスタンスタイプ、時刻、リージョン、およびアベイラビリティーゾーンによって異なります。これまでは、スポットインスタンスを最初に起動しようとしない限り、スポット容量のニーズを満たすのに最適なリージョンまたはアベイラビリティーゾーンを見つける方法はありませんでした。今後は、スポット配置スコアが、スポット容量の要件に基づいてリージョンまたはアベイラビリティーゾーンを推奨できます。スポット配置スコアは、任意のリージョンまたはアベイラビリティーゾーンで起動できる、インスタンスタイプの柔軟なワークロードに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/",
-          "publishedOn": "2021-11-02T13:31:54.000Z",
-          "wordCount": 224,
-          "title": "Amazon EC2 スポット配置スコアのご紹介"
-        },
-        {
-          "id": "5011f181e9d213cd489a4579f14d2f4a2b969857",
-          "author": "aws@amazon.com",
-          "description": "本日より、ワークロードのインスタンス要件に基づいて EC2 容量をリクエストできます。Amazon EC2 Auto Scaling、EC2 フリート、およびスポットフリート用の新機能である属性ベースの多様なインスタンスタイプにより、EC2 インスタンスタイプを調査および選択しなくても、インスタンスフリートを簡単に作成および維持できます。これは、コンテナ、ビッグデータ、CI/CD などのインスタンスタイプの柔軟なワークロードとフレームワークを実行する場合や、インスタンスフリートで最新世代のインスタンスタイプを自動的に使用する必要があるシンプルな事例で役立ちます。受け入れ可能なインスタンスタイプのリストを作成して維持する代わりに、インスタンス要件を一度定義するだけで、残りの作業を属性ベースの多様なインスタンスタイプに任せることができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/",
-          "publishedOn": "2021-11-02T13:31:05.000Z",
-          "wordCount": 278,
-          "title": "Amazon EC2 が Auto Scaling グループ、EC2 フリート、およびスポットフリート用の属性ベースの多様なインスタンスタイプを発表"
         }
       ]
     },
