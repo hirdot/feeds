@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T10:03:09.149Z</updated>
+    <updated>2021-12-03T22:02:29.664Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Microservice Extractor for .NET のご紹介]]></title>
+        <id>9aa55c74a3742cc54437245d072feb910d1486c4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-microservice-extractor-net/"/>
+        <updated>2021-12-03T21:42:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Microservice Extractor for .NET は、アプリケーションをより小さなコードプロジェクトに再構築するプロセスを簡素化します。ソースコードとランタイムメトリクスを分析してアプリケーションとその依存関係を視覚的に表現する支援ツールを使用して、.NET アプリケーションを最新化および変換します。このツールは、アプリケーションのソースコードを全体的に視覚化し、コードのリファクタリングを支援し、コードベースを個別のコードプロジェクトに抽出して、チームが独立して開発、構築、運用できるようにし、俊敏性、稼働時間、スケーラビリティを向上させます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 Glacier ストレージクラスが刷新され、Amazon S3 Glacier Flexible Retrieval になりました。ストレージ料金は 10% 引き下げられ、一括取り出しは無料です]]></title>
+        <id>aaf27d82b58096ee9eeaed0783c583f666acfaa7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/"/>
+        <updated>2021-12-03T21:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 Glacier ストレージクラスは Amazon S3 Glacier Flexible Retrieval という名前に変更され、10% の料金値下げに加えて無料の一括検索が含まれるようになり、バックアップや災害対策などのユースケースに最適化されました。S3 Glacier Flexible Retrieval はさらに費用効果が高くなり、無料の一括検索は、大規模なデータセットを年に 1〜2 回取得する必要があり、取得コストを気にしたくない場合に最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Lustre が、Amazon S3 でデータが削除および移動されたときに、ファイルシステムのコンテンツを自動的に更新できるようになりました]]></title>
+        <id>4c34829aec92f5f6d6e0224eea84207d1e89d0dc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/"/>
+        <updated>2021-12-03T21:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Lustre は、コンピューティングワークロード用の費用効果が高く高性能でスケーラブルなファイルシステムを提供するサービスであり、S3 でデータが削除または移動されたときに、FSx for Luster ファイルシステムのコンテンツを自動的に更新できるようにすることで、Amazon S3 にあるデータの処理をさらに簡単にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 Object Ownership で、S3 内のデータのアクセス管理をシンプル化するためのアクセスコントロールリストの無効化が可能に]]></title>
+        <id>e1d9406f6fe440797f16b1dffb4446fcbb25aa5d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-object-ownership-simplify-access-management-data-s3/"/>
+        <updated>2021-12-03T21:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 が新しい S3 Object Ownership 設定を導入し、アクセスコントロールリスト (ACL) を無効にするバケット所有者が強制され、S3 に保存されているデータのアクセス管理が簡素化されます。このバケットレベルの設定を適用すると、S3 バケット内のすべてのオブジェクトがバケット所有者によって所有され、許可を付与するために ACL が使用されることはなくなります。その結果、データへのアクセスは、IAM ID に適用される AWS Identity and Access Management (IAM) ポリシー、セッションポリシー、Amazon S3 バケットとアクセスポイントポリシー、Virtual Private Cloud (VPC) エンドポイントポリシーを含むポリシーに基づきます。この設定は、バケット内の新規オブジェクトと既存オブジェクトの両方に適用され、IAM ポリシーを使用してこの設定へのアクセスをコントロールできます。この新しい S3 Object Ownership 設定を使用すると、ポリシーのみを使用して、Amazon S3 の共有データセットへのアクセスを簡単に確認、管理、変更できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Lustre が、ファイルの更新の Amazon S3 への自動エクスポートをサポート開始]]></title>
+        <id>c24fbdb37f22c46d6a6ae919da16910b9b1749b6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/"/>
+        <updated>2021-12-03T21:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Lustre は、コンピューティングワークロード用の費用効果が高く高性能でスケーラブルなファイルシステムを提供するサービスであり、FSx for Luster ファイルシステムでデータが更新されるときに S3 バケットのコンテンツを自動的に更新できるようにすることで、Amazon S3 にあるデータの処理をさらに簡単にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup for Amazon S3 のプレビューの発表]]></title>
+        <id>9561fc9fa4e955aabe2a9cc7681ae417c099eef3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-amazon-s3-backup/"/>
+        <updated>2021-12-03T21:12:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、 AWS Backup for Amazon S3 の公開プレビューを発表いたします。AWS Backup で単一のポリシーを作成して、S3 のみ、またはストレージ、コンピューティング、データベース用の他の 11 の AWS のサービスと一緒に保存されたアプリケーションデータの保護を自動化できるようになりました。AWS Backup と AWSOrganizations のシームレスな統合を使用すると、独立してイミュータブルで暗号化されたバックアップを作成し、AWS アカウント全体で S3 バケットとオブジェクトのバックアップと復元を一元管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 コンソールが、S3 ポリシーを作成するときに、IAM Access Analyzer からのセキュリティ警告、エラー、および提案をレポートするようになりました]]></title>
+        <id>8c230cc314aa52b873141acd2a878c051ff4e55d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-console-warnings-errors-suggestions-iam-access-analyzer/"/>
+        <updated>2021-12-03T21:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Storage Service (S3) コンソールが、S3 ポリシーを作成するときに、Identity and Access Management (IAM) Access Analyzer からのセキュリティ警告、エラー、および提案をレポートするようになりました。コンソールは、ポリシーを検証するために 100 を超えるポリシーチェックを自動的に実行します。こうしたチェックは時間を節約し、エラーを解決するためのガイドとなり、セキュリティのベストプラクティスを適用するのに役立ちます。S3 コンソールによってレポートされたエラーやセキュリティ警告を解決することにより、ポリシーを S3 バケットまたはアクセスポイントにアタッチする前に、ポリシーが機能していることを検証できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup で VMware ワークロードのサポートを開始]]></title>
+        <id>aa58102968356bf1c4e58c595d58eecbce5533c6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-vmware-workloads/"/>
+        <updated>2021-12-03T21:00:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup を使用すると、オンプレミスとクラウドで VMware ワークロードを VMware CloudTM on AWS として一元的に保護できるようになり、ビジネスと規制コンプライアンスのニーズを満たすことができます。AWS Backup で単一のポリシーを使用して、AWS Backup ですでにサポートされている 12 の AWS のサービス (コンピューティング、ストレージ、データベースなど) とともにハイブリッド VMware 環境を一元的に保護できるようになりました。AWS Backup を使用すると、バックアップ、コピー、および復元の操作をモニタリングし、データガバナンスと規制要件を満たすのに役立つ統合された監査対応レポートを生成できるため、組織のデータ保護ポリシーのコンプライアンスステータスを示すことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Device Management Fleet Indexing が 2 つの追加データソースのサポートを開始 (プレビュー)]]></title>
+        <id>0bdf8bf15b204222ca89385a30a7a82bbbc95cf9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-device-management-fleet-indexing-additional-data-sources-preview/"/>
+        <updated>2021-12-03T20:54:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Device Management Fleet Indexing が、2 つの追加データソースとの統合を提供するようになりました。シャドウという名前の AWS IoT Core と AWS IoT Device Defender が違反を検出します。このリリースで、フリートインデックスでサポートされるデータソースが 3 (AWS IoT Core レジストリ、シャドウ、接続ライフサイクルイベント) から 5 に増えました 。新たに追加された 2 つのデータソースは、さまざまなサービスやシステムに IoT フリートデータを保存し、フリートモニタリング、ヘルスチェック、無線通信経由 (OTA) の更新、トラブルシューティングのためにデータに定期的にアクセスする IoT のお客様を支援します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 が 3 つのストレージクラスにおける最大 31% の値下げを発表]]></title>
+        <id>e7d57fb51c839e24de52b78f305f7927b98d1752</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/"/>
+        <updated>2021-12-03T20:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 が 3 つの S3 ストレージクラスでストレージ料金を最大 31% 引き下げたことを発表いたします。具体的には、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (大阪)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、米国西部 (北カリフォルニア)、南米 (サンパウロ) の 9 つの AWS リージョンで、S3 標準 – 低頻度アクセスおよび S3 ワンゾーン-低頻度アクセスのストレージ料金を最大 31% 引き下げます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon WorkSpaces が Amazon WorkSpaces Web を導入]]></title>
+        <id>6d16b024cea65a3f7a1e8e3da66286260e40e72e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-workspaces-introduces-amazon-workspaces-web/"/>
+        <updated>2021-12-03T20:42:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon WorkSpaces Web の一般提供開始を発表しました。WorkSpaces Web は、エンドユーザーコンピューティングスイートの新機能であり、安全なウェブベースのワークロードを促進するために特別に構築された低コストのフルマネージド WorkSpace です。WorkSpaces Web を使用すると、アプライアンスや専用のクライアントソフトウェアを管理する負担なしで、従業員に内部ウェブサイトおよび SaaS ウェブアプリケーションへのアクセスを安全に提供することが容易になります。WorkSpaces Web は、容量管理、スケーリング、ブラウザーイメージの保守などの一般的なタスクをオフロードしながら、ユーザーの操作に合わせて調整されたシンプルなポリシーツールを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Lustre が、複数の Amazon S3 バケットのファイルシステムへのリンクをサポート開始]]></title>
+        <id>2ee16b68869c862db941a8d5ba225855d6a1f1c5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/"/>
+        <updated>2021-12-03T20:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Lustre は、コンピューティングワークロード用の費用効果が高く高性能でスケーラブルなファイルシステムを提供するサービスであり、FSx for Lustre ファイルシステムを複数の S3 バケットにリンクできるようにすることで、Amazon S3 に存在するデータの処理をさらに容易にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for OpenZFS のご紹介]]></title>
+        <id>5ed2608cf40d56faf96418ef292533c22c63872c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-openzfs/"/>
+        <updated>2021-12-03T20:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for OpenZFS を使用すると、AWS でフルマネージドファイルシステムを起動、実行、スケーリングできます。これにより、オンプレミスで実行する ZFS またはその他の Linux ベースのファイルサーバーを置き換え、俊敏性を向上させ、コストを削減できます。FSx for OpenZFS は、Amazon FSx ファミリーのサービスの中で最新のサービスであり、NetApp ONTAP、Windows File Server、Lustre などの広く活用されているファイルシステムを選択することで、フル機能を備えた高性能のファイルストレージを実現できます。FSx for OpenZFS ファイルシステムは、業界標準の NFS プロトコル (v3、v4.0、v4.1、v4.2) を介して、Linux、Windows、および macOS のコンピューティングインスタンスやコンテナからアクセスできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次世代の Amazon FSx for Lustre ファイルシステムを発表]]></title>
+        <id>c313e81b39023387b59b6e1c43f12b0593ca37a7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/"/>
+        <updated>2021-12-03T20:16:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Graviton プロセッサ上に構築された次世代 Amazon FSx for Lustre ファイルシステムは、パフォーマンスと料金に 3 つの改善をもたらします。まず、新しいファイルシステムは、前世代のファイルシステムと比較して、テラバイトあたり最大 5 倍のスループット (テラバイトあたり最大 1 GB/秒) を実現しています。次に、複数のネットワークインターフェイスを備えたクライアントインスタンスのサポートにより、P4d や DL1 など、 Amazon EC2 インスタンスで最大 400 Gbps のネットワーク帯域幅を駆動できるようになりました。第 3 に、次世代 FSx for Lustre ファイルシステムは、前世代のファイルシステムと比較してスループットのコストを最大 60% 引き下げます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エージェントエクスペリエンスとお客様とのやり取り改善するために、Amazon Connect で統合されたエージェントアプリケーションをリリース]]></title>
+        <id>5b36645077b22e5a9399c6fee0ddc1e4d38ec44f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-unified-agent-application/"/>
+        <updated>2021-12-03T20:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect が、コンタクトを管理し、お客様の問題を解決するためのエージェントアプリケーションを提供するようになりました。コンタクトセンターで、エージェントは適切なお客様情報を表示し、解決しようとしているお客様の問題の状況に応じたナレッジ記事を表示しながら、複数のコンタクト (音声、チャット、タスク) を簡単に処理できる方法を必要としています。ブラウザでエージェントアプリケーションを起動すると、エージェントはすぐにサインインして顧客認証、通話、チャットを管理し、主要な顧客インサイトやナレッジ記事を表示できます。例えば、エージェントが電話またはチャットを受信すると、Amazon Connect Customer Profiles が、名前、電話番号、E メールアドレスなどの顧客情報を共有します。エージェントが顧客と話している間、Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、リアルタイムで発信者のアイデンティティの確認したり、信頼スコアとステータスを表示したりします。その後、コンタクト全体を通じて、Amazon Connect Wisdom が顧客の問題を検出し、ナレッジ記事にあるレコメンデーションをリアルタイムでプロアクティブに提供します。Amazon Connect エージェントアプリケーションを使用すると、顧客の問題を解決し、個人的な体験を提供し、顧客満足度を向上させるための適切な情報をエージェントに提供するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[改訂版チェリー本発売記念tenji-maker-challengeを解いてみた]]></title>
         <id>https://techracho.bpsinc.jp/morimorihoge/2021_12_03/114105</id>
@@ -4667,251 +4817,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[個人事業主は1月から12月が会計年度と決まっているので、12月が近づくと、今年の売り上げの着地を想定しつつ、いまのうちに経費を使っておくべきかどうか考え始めます。 といっても、IT系ライターにとって経費として大きな金額が使えるものなんて、パ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RubyMine（IDEA）で使わなくなったローカルブランチをまとめて削除する方法]]></title>
-        <id>https://techracho.bpsinc.jp/morimorihoge/2021_11_04/113099</id>
-        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_11_04/113099"/>
-        <updated>2021-11-04T08:30:53.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rubymine_deleting_unused_local_branches_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。RubyMineは便利に使ってるのですが、いまいちWindows &#8211; subpixelレンダリングでしっくりくるフォントが見つからず色々試している昨今です（最近はRicty Diminished Discordを試し中）。 僕はRubyMine（IDEA）の操作感が好きで、Git系の操作もほぼすべてCLIではなくRubyMineから行っているのですが、開発で大量に増えてきたローカルブランチを削除したいという機会があってやり方を調べていました。 結論特に特別な機能というわけではなかったのですが、それまでちまちま1つずつ削除してたので、もし参考になる方がいればということで記事 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_11_04/113099" data-wpel-link="internal" target="_self">RubyMine（IDEA）で使わなくなったローカルブランチをまとめて削除する方法</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsのdefault_scopeは使うな、絶対（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_04/47302</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_04/47302"/>
-        <updated>2021-11-04T08:30:24.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/10/dont_use_default_scope_eyecatch3-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Don’t use default_scope. Ever. 公開日: 2017/10/01 著者: Andy Croll &#8212; フリーランスのRuby開発者です。 2017/10/31: 初版公開 2021/11/04: 更新 Railsのdefault_scopeは使うな、絶対（翻訳） あるモデル全体にスコープを適用したい場合、default_scopeが利用できます。詳しくはRailsガイド: Active Recordクエリインターフェイス 14.スコープ（日本語）かRails APIドキュメントをご覧ください。 投稿を非表示にできる機 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_04/47302" data-wpel-link="internal" target="_self">Railsのdefault_scopeは使うな、絶対（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COP26開幕も、 「国連任せ」には限界 気候変動対策を加速する方法]]></title>
-        <id>https://www.technologyreview.jp/?p=259885</id>
-        <link href="https://www.technologyreview.jp/s/259885/the-glasgow-climate-talks-will-fall-short-here-are-other-ways-to-accelerate-progress/"/>
-        <updated>2021-11-04T07:06:49.000Z</updated>
-        <summary type="html"><![CDATA[グラスゴーでの国連気候会議（COP26）が開幕した。これまで国連は気候変動対策としてパリ協定をまとめるなど、一定の役割は果たしてきた。しかしグラスゴーでの会議で何が決まろうとも、気候変動がさらに進むことは確実だ。]]></summary>
-        <author>
-            <name>James Temple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA新型ローバーはチームで動く、「分散型」でリスク低減]]></title>
-        <id>https://www.technologyreview.jp/?p=260244</id>
-        <link href="https://www.technologyreview.jp/s/260244/nasas-new-rovers-will-be-a-fleet-of-mobile-robots-that-work-together/"/>
-        <updated>2021-11-04T03:30:38.000Z</updated>
-        <summary type="html"><![CDATA[NASAは、月や他の惑星を探査するために、自律型の小型ローバー隊を開発している。1台のローバーに問題が起こってもミッションを継続できるうえ、従来のローバーでは行けない場所も探索できるようになる。]]></summary>
-        <author>
-            <name>Tatyana Woodall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS DeepRacer がマルチユーザーアカウント管理を導入]]></title>
-        <id>53f73221dedbb382c217e7d8d10a01e6e8f18c67</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-deepracer-multi-user-account-management/"/>
-        <updated>2021-11-04T02:59:16.000Z</updated>
-        <summary type="html"><![CDATA[マルチユーザーの設定では、組織 (アカウント管理者) は、レーサーにアカウント ID での AWS DeepRacer サービスへのアクセスを提供し、AWS DeepRacer コンソールから、トレーニングやストレージへの支出をモニタリングし、トレーニングの有効化/無効化を行い、アカウント内のすべてのユーザーのモデルを表示/管理することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MemoryDB for Redis が AWS CloudFormation のサポートを開始]]></title>
-        <id>562dc9604eddf3f085af47f54332a979bf446999</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/"/>
-        <updated>2021-11-04T02:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Amazon MemoryDB for Redis が、AWS CloudFormation のサポートを開始、CloudFormation テンプレートを使用して MemoryDB リソースを管理できるようになります。Amazon MemoryDB for Redis は、Redis と互換性があり、耐久性のあるインメモリデータベースサービスで、超高速なパフォーマンスを実現します。AWS CloudFormation は、インフラストラクチャをコードとして扱うことで、AWS およびサードパーティーのリソースをモデル化、プロビジョニング、管理することができます。CloudFormation を使用すると、コンソールから MemoryDB を個別に設定しなくても、MemoryDB リソースを簡単に作成および管理できるようになります。例えば、CloudFormation テンプレートを使用して、MemoryDB クラスター、サブネットグループ、パラメータグループ、ユーザーを作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Simple Email Service が、新しいコンソールエクスペリエンスを提供開始]]></title>
-        <id>87480a5d642d6c649c352e8dfd3718c8c9aabf57</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-simple-email-service-new-console-experience/"/>
-        <updated>2021-11-04T02:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Email Service (Amazon SES) が、新しく再設計されたサービスコンソールの開始を発表しました。合理化されたルックアンドフィールを備えた新しいコンソールにより、お客様は、Amazon SES が提供する速度、信頼性、および柔軟性をさらに簡単に活用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Global Accelerator が 2 つの新しい Amazon CloudWatch メトリクスをサポート開始]]></title>
-        <id>b7115170268f8d88747a412966ba1a41bb7c7aa6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-global-accelerator-support-new-amazon-cloudwatch-metrics/"/>
-        <updated>2021-11-04T02:55:17.000Z</updated>
-        <summary type="html"><![CDATA[本日より、2 つの新しい Amazon CloudWatch メトリクスを使用して、AWS Global Accelerator 環境をモニタリングできます。EC2 インスタンス、Application Load Balancer、ネットワークロードバランサー、Elastic IP アドレスなど、アクセラレーターによって提供される正常なエンドポイントの総数と異常なエンドポイントの総数をモニタリングできるようになりました。2 つの新しいメトリクスを使用すると、CloudWatch アラームを作成して、Global Accelerator エンドポイントの問題をより迅速かつ簡単に検出できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 は AWS Organizations とOrganizational Units 間での Amazon マシンイメージの共有をサポート]]></title>
-        <id>be262328847c8b4a1be0e24382a36e67a8543170</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-amazon-machine-images-organizations/"/>
-        <updated>2021-11-04T02:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Amazon マシンイメージ (AMI) を AWS Organizations や Organizational Units (OU) と共有できるようになりました。これまでは、特定の AWS アカウント ID でのみ AMI を共有することができました。AWS Organizations で AMI を共有するには、AWS Organizations に追加されたり、AWS Organizations から削除された AWS アカウントと AMI の共有を明示的に管理する必要がありました。この新機能により、組織変更のために AMI のパーミッションを更新する必要がなくなりました。組織変更があった場合、AMI の共有は自動的に同期されます。この機能により、AWS アカウントの成長と拡張に合わせて、AMI を一元的に管理・運営することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS App Mesh Metric Extension が一般提供を開始]]></title>
-        <id>73bd0b45f0b18b39ad523282c16c840426d45bbf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-app-mesh-metric-extension-available/"/>
-        <updated>2021-11-04T02:50:30.000Z</updated>
-        <summary type="html"><![CDATA[AWS App Mesh Metric Extension が一般提供を開始しました。Metric Extension により、顧客は App Mesh サービスのメトリクスを収集し、フィルタリングすることで、デバッグやモニタリングの簡素化、利用コストの削減に役立てることができます。App Mesh Metric Extension は、Amazon EC2、Amazon ECS、Amazon EKS、および自己管理型 Kubernetes 上でワークロードを実行しているすべての顧客が利用できます。 AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピュートインフラストラクチャを介して、サービス同士の通信を容易にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babelfish for PostgreSQL オープンソースプロジェクトの利用開始を発表]]></title>
-        <id>46acf3ea036c5e0177fa9ca1411868cb865ef4ad</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/babelfish-postgresql-open-source-project/"/>
-        <updated>2021-11-04T02:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Babelfish for PostgreSQL オープンソースプロジェクトが利用可能になりました。Babelfish for PostgreSQL は、PostgreSQL が Microsoft SQL Server 用に作成されたアプリケーションからのクエリを理解する機能を提供します。Babelfish を使用すると、現在 SQL Server で実行されているアプリケーションを、従来の移行と比較して、わずかな作業のみを必要として PostgreSQL で直接実行できます。Babelfish は、SQL Server のワイヤープロトコルと Microsoft SQL Server クエリ言語である T-SQL を理解しているため、データベースドライバーを切り替えたり、すべてのアプリケーションクエリを書き直したりする必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Transcribe が AWS ストックホルムおよびケープタウンリージョンでのバッチトランスクリプションをサポートしました。]]></title>
-        <id>883d52fa98eca0a1b462b1483e68d2ceb93587ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-transcribe-batch-transcription-aws-stockholm-cape-town-regions/"/>
-        <updated>2021-11-04T02:48:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Transcribe は、自動音声認識 (ASR) サービスで、機械学習の専門知識がなくても、アプリケーションに音声をテキストにする機能を簡単に追加することができます。本日より、Amazon Transcribe は、AWS ストックホルムおよびケープタウンリージョンでのバッチトランスクリプションをサポートします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lightsail がインスタンス、ディスク、データベースの AWS CloudFormation をサポート]]></title>
-        <id>35ea5a7481ed9e075269891428cc0ac8bc1e75be</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/"/>
-        <updated>2021-11-04T02:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail は、AWS CloudFormation をサポートしており、CloudFormation テンプレートを利用して、Lightsail インスタンス、ディスク、データベースで構成されるアプリケーションスタックのプロビジョニングと管理を行うことができます。必要に応じてスタックの自動化や複製を簡単に行うこともできます。これにより、Lightsail コンソールや AWS CLI/SDK に加えて、Lightsail リソースを管理する便利な方法が追加されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babelfish for Aurora PostgreSQL の一般提供開始]]></title>
-        <id>7dc9193fa47db0fef8b10bf4c327875a28a4093d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/babelfish-aurora-postgresql-now-generally-available/"/>
-        <updated>2021-11-04T02:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新機能であり、Microsoft SQL Server 用に作成されたアプリケーションからのクエリを理解できるようにします。Babelfish を使用すると、現在 SQL Server で実行されているアプリケーションを、従来の移行と比較して、わずかな作業のみを必要として Aurora PostgreSQL で直接実行できます。Babelfish は、SQL Server のワイヤープロトコル (TDS) と Microsoft SQL Server クエリ言語である T-SQL を理解しているため、データベースドライバーを切り替えたり、すべてのアプリケーションクエリを書き直したりする必要はありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Chat がリアルタイムメッセージストリーミング API を追加]]></title>
-        <id>fd3f6407c4909f54212460cbd73c2f4d224c8bc0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-chat-real-time-message-streaming-apis/"/>
-        <updated>2021-11-04T02:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Chat では、チャットメッセージのリアルタイムストリームを購読できるようにすることで、お客様にカスタマイズされた体験を提供できる新しい API を提供しています。新しい API を使用すると、Amazon Connect Chat を SMS ソリューションやサードパーティのメッセージングアプリケーション（Facebook Messenger、Twitter など）と統合したり、モバイルプッシュ通知を有効にしたり、チャットメッセージのアクティビティを監視・追跡する分析ダッシュボードを作成したりすることができます。メッセージは Amazon Simple Notification Service (Amazon SNS) を介して公開され、Amazon SNS コンソールにアクセスして新しい SNS トピックを作成することで、数回のクリックで設定することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 R5b インスタンスをご利用いただけるリージョンが 2 つ増えました]]></title>
-        <id>5378afae72e531b985e12644274a60c01ef47b3d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-ec2-r5b-instances-available-additional-regions/"/>
-        <updated>2021-11-04T02:40:08.000Z</updated>
-        <summary type="html"><![CDATA[EC2 で最速のブロックストレージパフォーマンスを提供する Amazon EC2 R5b インスタンスが、AWS 欧州 (アイルランドとロンドン) リージョンで利用できるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを提供します。これらのインスタンスは、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Rekognition Video でcelebrity recognition が向上]]></title>
-        <id>c38bdfbf92ae2587901d56acf0afdee344742a7a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-rekognition-video-improved-celebrity-recognition/"/>
-        <updated>2021-11-04T02:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Rekognition は機械学習 (ML) をベースにしたサービスで、画像やビデオを分析して、オブジェクト、人、顔、テキスト、シーン、アクティビティ、不適切なコンテンツなどを検出することができます。Celebrity Recognition では 、画像や動画に映っている何万人もの著名人を、顧客が機械学習を使うことにより、自動的に認識することができます。Clebrity Recognition は、制作されたメディアコンテンツにタグを付け、検索可能にするための反復的な手作業を大幅に削減します。8/26 に Rekognition Image のアップデート を実施し、精度の向上 (誤検出・誤認識の低減) と世界の著名人のカバー率向上を実現しました。さらに、認識された著名人ごとに、「性別」、「表情」、「笑顔」の 3 つの属性が追加されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect がアジアパシフィック (ソウル) AWS リージョンで利用可能に]]></title>
-        <id>076ac8aa1f51071b4491b2ac4593c6821c698d45</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/amazon-connect-asia-pacific-seoul-aws-region/"/>
-        <updated>2021-11-04T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect はアジアパシフィック (ソウル) AWS リージョンでの利用が可能になり、Amazon Connect を利用できる AWS リージョンが 10 ヵ所に増えました。韓国のフリーダイヤルと市内の電話番号を請求できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Marketplace が SaaS 契約の発注管理を発表]]></title>
-        <id>decfba01ea58268b755e95457288e371fce8c4b3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-marketplace-purchase-order-saas-contracts/"/>
-        <updated>2021-11-04T02:34:20.000Z</updated>
-        <summary type="html"><![CDATA[AWS Marketplace が SaaS 契約の発注管理を発表
- 本日、AWS Marketplace は、SaaS 契約の発注管理を発表しました。これにより、お客様は AWS Marketplace で購入した SaaS 契約の AWS 請求書に発注番号を追加できます。以前は、すべての AWS Marketplace の取引で 1 つの発注番号しか追加できませんでした。これで、AWS Marketplace で取引する際に、SaaS 契約のパブリックオファーとプライベートオファーに固有の発注番号を追加できるようになります。AWS Marketplace で入力された発注番号は、対応する請求書に表示され、ソフトウェア支出の内部予算への割り当てを容易にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elemental MediaLive が、視聴者測定のために Nielsen 透かしのサポートを開始]]></title>
-        <id>0a6c3c02fea7725004b7a025b09eb135b2500b80</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/10/aws-elemental-medialive-nielsen-watermarking/"/>
-        <updated>2021-11-04T02:33:33.000Z</updated>
-        <summary type="html"><![CDATA[視聴者測定のために Nielsen を使用している場合、AWS Elemental MediaLive を使用して、MediaLive チャネルで Nielsen 独自の透かしをエンコードできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第690回　BCCでeBPFのコードを書いてみる ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0690</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0690"/>
-        <updated>2021-11-04T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第688回ではBPF Compiler Collectionに付属の各種サンプルツールの使い方を紹介しました。今回はコンパイラーを活用して，自分でeBPF用コードを書くための基礎を学んでみましょう。]]></summary>
-        <author>
-            <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”セーフ・トゥ・フェイル”アプローチによってチームに心理的安全性を確立する]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/safe-fail-psychological-safety/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/safe-fail-psychological-safety/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2021-11-04T00:34:00.000Z</updated>
-        <summary type="html"><![CDATA[企業は、従業員の中に"心理的安全性(psychological safety)"の文化 — 失敗が非難の対象ではなく、誰にも起こり得るものとして受け入れられる文化を確立することができる。"セーフ・トゥ・フェイル(safe-to-fail)"を企業文化の一部にするべきである。成功に対するイメージの転換は、失敗の所在をより深く理解することを可能にし、恐れを克服する勇気を我々に与えてくれる。
- By Ben Linders  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持の高まる週4日勤務]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/four-day-workweek/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/four-day-workweek/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2021-11-04T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[最近になって、週4日勤務への移行に必要な変更や影響を検討した論文やレビューが数多く公開されている。共通しているのは、克服すべき課題がいくつかあるものの、一般的には週4日勤務に移行することでスタッフの幸福度や熱意が向上し、結果として生産性の向上が実現する、という認識だ。
- By Shane Hastie  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Shane Hastie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年11月第1週　Googleが大画面デバイス向け「Android 12L」を発表 ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202111/04</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202111/04"/>
-        <updated>2021-11-04T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年11月第1週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
 </feed>
