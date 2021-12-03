@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T22:02:29.664Z</updated>
+    <updated>2021-12-03T23:02:24.433Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Snow ファミリーがオフラインテープデータ移行機能の提供を開始]]></title>
+        <id>7d5908c650fb311cf685b1b1966ec8466761d210</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/"/>
+        <updated>2021-12-03T22:02:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Snow ファミリー は、AWS Snowball Edge 用の安全なオフラインテープデータ移行機能をリリースしました。これにより、既存のテープベースのバックアップワークフローを変更することなく、物理テープに保存されているペタバイトのデータを AWS に移行できます。この機能を使用すると、ネットワーク接続の制限、帯域幅の制約、および高いネットワーク接続コストがある環境から AWS にテープデータを移行できます。テープデータを AWS に移動すると、物理的なテープインフラストラクチャの費用を削減し、テープデータにオンラインでアクセスできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Microservice Extractor for .NET のご紹介]]></title>
         <id>9aa55c74a3742cc54437245d072feb910d1486c4</id>
