@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-04T01:46:56.701Z</updated>
+    <updated>2021-12-04T02:23:09.202Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新しい Amazon S3 Glacier Instant Retrieval ストレージクラスを発表 - ミリ秒単位で取り出し可能な最低コストのアーカイブストレージ]]></title>
+        <id>afa72a34d066747aa85ffa1f5dd75ca95a400949</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/"/>
+        <updated>2021-12-04T01:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 Glacier Instant Retrieval は、アクセスされることがほとんどなく、ミリ秒単位の取得が必要な、長期間有効なデータ用に最低コストのストレージを提供する新しいアーカイブストレージクラスです。S3 Glacier Instant Retrieval を使用すると、四半期に一度データにアクセスする場合、S3 標準 – 低頻度アクセスストレージクラスを使用する場合と比較して、ストレージコストを最大 68% 節約できます。S3 Glacier Instant Retrieval は、S3 Standard および S3 標準 – IA ストレージクラスと同じスループットとミリ秒でのアクセスによる、アーカイブストレージへの最速のアクセスを提供します。さらに、既存の S3 Glacier ストレージクラスの名前が S3 Glacier Flexible Retrieval に変更され、無料の一括取得と 10% のストレージ価格の引き下げが含まれるようになり、バックアップや災害対策のユースケースに最適化されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい S3 Intelligent-Tiering Archive Instant Access ティアの発表 – ストレージコストを自動的に最大 68% 節約]]></title>
+        <id>a04da9d0913ce63cc2a8a19afada019ec3b5ebcd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/"/>
+        <updated>2021-12-04T01:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 Intelligent-Tiering ストレージクラスに、ミリ秒単位での取得と高スループットのパフォーマンスを必要とするめったにアクセスされないデータに対して最大 68% のコスト削減を実現する、新しいアーカイブインスタントアクセスティアが自動的に含まれるようになりました。S3 Intelligent-Tiering は、パフォーマンスへの影響、取得費用、運用上のオーバーヘッドなしに、アクセス頻度に基づいてデータを最も費用効果の高いアクセスティアに自動的に移動することにより、きめ細かいオブジェクトレベルでストレージコストを自動的に削減できる初めてのクラウドストレージです。S3 Intelligent-Tiering は、高頻度、低頻度、および新しいアーカイブインスタントアクセスティアで、頻繁に、稀に、そして今ではめったにアクセスされないデータに対して、ミリ秒単位でのレイテンシーと高スループットのパフォーマンスを提供します。これで、S3 Intelligent-Tiering を、事実上すべてのワークロード、特にデータレイク、データ分析、新しいアプリケーション、およびユーザー生成コンテンツのデフォルトのストレージクラスとして使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After "Hello, World!"、何書いてますか？]]></title>
         <id>https://blog.agile.esm.co.jp/entry/after-hello-world</id>
