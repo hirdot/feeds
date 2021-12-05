@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-05T10:02:37.542Z</updated>
+    <updated>2021-12-05T22:02:28.692Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMPに明るい未来はあるのか？ アメブロやTwitterなど有名サイトが次々とAMPサポートを打ち切る]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11776</id>
+        <link href="https://www.suzukikenichi.com/blog/is-the-future-of-amp-bright-or-bleak/"/>
+        <updated>2021-12-05T21:30:15.000Z</updated>
+        <summary type="html"><![CDATA[多くのサイトが AMP のサポートを打ち切り始めている。AMP に明るい未来はあるのだろうか？]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リポジトリを監視してコードのバグを自動検出、指摘してくれるツール「Sider Scan」。CI/CDに統合可能［PR］]]></title>
+        <id>https://www.publickey1.jp/blog/21/sider_scancicdpr.html</id>
+        <link href="https://www.publickey1.jp/blog/21/sider_scancicdpr.html"/>
+        <updated>2021-12-05T15:55:06.000Z</updated>
+        <summary type="html"><![CDATA[開発プロジェクトのコードリポジトリを常駐監視し、まるでアンチウイルスツールのようにバグを発見してくれるツールが「Sider Scan」です。JenkinsやGitHub Actionsなどのツールに連携してソースコードを解析し、バグの恐れが...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware、vSphere上のアプリケーションを解析し、Dockerコンテナへ変換する「Application Transformer for VMware Tanzu」発表]]></title>
+        <id>https://www.publickey1.jp/blog/21/vmwarevspheredockerapplication_transformer_for_vmware_tanzu.html</id>
+        <link href="https://www.publickey1.jp/blog/21/vmwarevspheredockerapplication_transformer_for_vmware_tanzu.html"/>
+        <updated>2021-12-05T15:02:07.000Z</updated>
+        <summary type="html"><![CDATA[VMwareは、vSphere上のアプリケーションを解析し、依存関係などを調査したうえで、Kubernetes上で実行可能なDockerコンテナと設定ファイルなどを生成する「Application Transformer for VMwar...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジャイル開発の外部委託が「偽装請負」と疑われないために／Chromeで操作を記録／Excel関数ベースのローコード言語ほか、2021年11月の人気記事]]></title>
+        <id>https://www.publickey1.jp/blog/21/chromeexcel202111.html</id>
+        <link href="https://www.publickey1.jp/blog/21/chromeexcel202111.html"/>
+        <updated>2021-12-05T15:00:41.000Z</updated>
+        <summary type="html"><![CDATA[毎年12月はAmazon Web Services（AWS）の大型イベント「AWS re:Invent」が行われ、そのストリーミング配信を何日も連続で深夜に見ながら記事を書くせいで寝不足になります。 今年もちょうど先週「AWS re:Inv...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新しい Amazon S3 Glacier Instant Retrieval ストレージクラスを発表 - ミリ秒単位で取り出し可能な最低コストのアーカイブストレージ]]></title>
         <id>afa72a34d066747aa85ffa1f5dd75ca95a400949</id>
