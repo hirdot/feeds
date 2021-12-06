@@ -2,10 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-06T10:03:19.427Z</updated>
+    <updated>2021-12-06T22:03:09.055Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カスタムレンズを使用した AWS Well-Architected レビューのカスタマイズ]]></title>
+        <id>1bfbb4032c1dfdb029a8e828ed7567c2e84c3327</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-well-architected-tool-custom-lenses/"/>
+        <updated>2021-12-06T21:51:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Well-Architected Tool は、お客様が独自のカスタムレンズを作成する機能の提供を開始しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7.0 RC1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively]]></title>
+        <id>https://weblog.rubyonrails.org/2021/12/6/Rails-7-0-rc-1-released/</id>
+        <link href="https://weblog.rubyonrails.org/2021/12/6/Rails-7-0-rc-1-released/"/>
+        <updated>2021-12-06T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re almost ready to declare Rails 7 done! The feedback since the first alpha release has been wonderful, we’ve eliminated a slew of issues, and we’ve seen Basecamp, HEY, GitHub, and Shopify all run in production on this alpha series. So we now feel so confident that this is nearly ready that we’re skipping straight from alpha to release candidate. This is RC1.]]></summary>
+        <author>
+            <name>Riding Rails</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton2 プロセッサを搭載した新しい Amazon EC2 G5g インスタンスを発表]]></title>
+        <id>ef010f3566bc9e1e7d9377d9587a6cbc33fd9b08</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/"/>
+        <updated>2021-12-06T21:45:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、当社は、AWS Graviton2 プロセッサを搭載し、NVIDIA T4G Tensor Core GPU を備えた新しい Amazon EC2 G5g インスタンスを発表いたします。G5g は、主要なクラウドで最初の Arm ベースのインスタンスであり、GPU アクセラレーションを備え、Android ゲームストリーミング向け Amazon EC2 で最高のコストパフォーマンスを提供します。G5g インスタンスを使用すると、Android ゲームデベロッパーは、Arm ベースのインスタンスでネイティブに実行し、レンダリングされたグラフィックをエンコードし、ネットワーク経由でゲームをモバイルデバイスにストリーミングすることができます。これにより、開発作業が簡素化され、1時間あたりのストリーミングごとのコストが最大 30％ 削減されます。また、G5g インスタンスは、コスト効率の高い推論を求め、 CPU パフォーマンスに敏感な ML モデルを有し、NVIDIA の AI ライブラリを活用する機械学習デベロッパーにとっても最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米Googleモバイル画像検索で最新画像だけを掲載するLatestセクション]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11778</id>
+        <link href="https://www.suzukikenichi.com/blog/google-shows-a-section-dedicated-to-latest-photos-in-image-search/"/>
+        <updated>2021-12-06T21:45:41.000Z</updated>
+        <summary type="html"><![CDATA[最新の画像だけを集めたセクションを画像検索に Google は表示するようになった。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT エッジアプリケーションの構築を容易にする新しいコンポーネントを含む新しい Greengrass Software Catalog]]></title>
+        <id>1c7baac18581a36c5ba9ad527d5c5bcbd6676514</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/greengrass-software-catalog-iot-edge-applications/"/>
+        <updated>2021-12-06T21:39:46.000Z</updated>
+        <summary type="html"><![CDATA[本日、Greengrass コミュニティによって開発された AWS IoT Greengrass ソフトウェアコンポーネントのコレクションである Greengrass Software Catalog をリリースします。デバイスアプリケーションをゼロから開発するのではなく、GitHub で事前に構築された Greengrass コンポーネントのリストから選択して、IoT エッジアプリケーションを開始できます。これらのコンポーネントを簡単にインストール、使用、および変更して、IoT プロジェクトを加速できます。今回のリリースの一環として、ローカル開発環境でカタログコンポーネントを構成および構築するために使用できる Greengrass 開発キット Command Line Interface (CLI) も提供しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Data Exchange for APIs の紹介]]></title>
+        <id>f9b53b971ceaa9bae1f5139c1b622ef9141c128b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-data-exchange-for-apis/"/>
+        <updated>2021-12-06T21:33:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Data Exchange for APIs の提供を開始いたします。これは、AWS Data Exchange でプロバイダーからのサードパーティー API 製品の検索、サブスクライブ、使用を可能にする新しい機能です。AWS Data Exchange for APIs では、AWS ネイティブの認証とガバナンスを活用し、整合性のある API ドキュメントを調べ、サポート対象の AWS SDK を利用して API コールを実行できます。これによりデータプロバイダーは API を AWS Data Exchange カタログに追加することで、API ベースのデータを使用している数百万の AWS にアクセスできるようになります。また、サブスクライバーの認証とエンタイトルメント、請求をより簡単に管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンピュータサイエンス誌「bit」、1969年の創刊号から全386巻が電子復刻版としてAmazon Kindleで販売開始。1冊わずか198円]]></title>
+        <id>https://www.publickey1.jp/blog/21/bit1969386amazon_kindle1198.html</id>
+        <link href="https://www.publickey1.jp/blog/21/bit1969386amazon_kindle1198.html"/>
+        <updated>2021-12-06T15:39:41.000Z</updated>
+        <summary type="html"><![CDATA[技術雑誌の電子復刻プロジェクトを運営するイースト株式会社は、1969年から2001年に共立出版から刊行された月刊コンピュータサイエンス誌「bit」全386巻を電子復刻し、Amazon kindleでの販売を開始したことを発表しました。 bi...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Direct Connect SiteLink のご紹介]]></title>
+        <id>2a808e6cd0c2e719517fce21b9f319878834d0c2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-direct-connect-sitelink/"/>
+        <updated>2021-12-06T11:40:44.000Z</updated>
+        <summary type="html"><![CDATA[本日 AWS は、AWS Direct Connect SiteLink の一般提供を発表しました。SiteLink は、オフィスやデータセンターなどオンプレミスのロケーションを、世界中の Direct Connect のロケーションに接続することで、プライベートネットワーク接続を簡単に作成します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) が、意図しないネットワークアクセスを簡単に特定できる Network Access Analyzer を発表]]></title>
+        <id>35322b42757a1d9b3f4b550bfbf9e1c506425272</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-vpc-network-access-analyzer/"/>
+        <updated>2021-12-06T11:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon VPC Network Access Analyzerは、AWS上のリソースへの意図しないネットワークアクセスの特定に有効な新しい特徴があります。Network Access Analyzer を使用すると、 Virtual Private Cloud (VPC) リソースのネットワークアクセスが、セキュリティやコンプライアンスのガイドラインを満たしているかどうかを検証することができます。Network Access Analyzer を使用すると、クラウドのセキュリティ体制を評価し、改善点を特定することができます。さらに、Network Access Analyzer を使用することで、ネットワークが特定の規制要件を満たしていることを簡単に実証することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡素化されたFreeRTOSの創造的なAWS IoT接続体験を発表]]></title>
+        <id>094a1fa67dd6e6a5589461a9fff04248c551c02b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/freertos-aws-iot-connectivity-experience/"/>
+        <updated>2021-12-06T11:28:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、パートナーが提供する2つのFreeRTOSリファレンス統合ボード：the STM32L4+ and the ESP32-C3に実装できる、新たに簡素化され、そして創造的なAWS IoT接続体験について発表できることを喜ばしく思います。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Managed Microsoft AD は、Amazon CloudWatch のディレクトリメトリクスによるスケーリングの決定を最適化]]></title>
+        <id>9dc9e46b1479454918e788d3e298816f3cd34ad1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-managed-microsoft-ad-amazon-cloudwatch/"/>
+        <updated>2021-12-06T11:22:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Directory Service for Microsoft Active Directory (AWS Managed Microsoft AD) は、Amazon CloudWatch により、パフォーマンスとレジリエンスを向上させるためスケーリングの決定を最適化できるようになりました。本日より、AWS Managed Microsoft AD は Amazon CloudWatch で新規および既存のディレクトリに対し、ドメインコントローラーとディレクトリの使用率メトリクスを自動的に提供します。これらの使用率メトリクスを分析すると、平均およびピーク時のロード時間を定量化して、ドメインコントローラーの追加が必要かを確認することができます。これで、パフォーマンス、レジリエンスおよびコストなどの要件を満たすドメインコントローラーの数を定義することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SQS が標準キューのデッドレターキュー管理エクスペリエンスを強化]]></title>
+        <id>19448c6620169c2059a879150de1aac4a97121d9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sqs-dead-letter-queue-management-experience-queues/"/>
+        <updated>2021-12-06T11:16:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Queue Service (SQS) は、デッドレターキュー (DLQ) のソースキューへのリドライブをサポートして、消費されていないメッセージのライフサイクルを適切にコントロールできるようになりました。デッドレターキューは、Amazon SQS の既存の機能で、アプリケーションが正常に消費できなかったメッセージを保存することができます。Amazon SQS コンソールで、メッセージをデッドレターキューからソースキューへ効率的にリドライブできるようになりました。DLQ リドライブは、デベロッパーのデッドレターキュー管理エクスペリエンスを強化して、消費されていないメッセージの調査、コードエラーからの回復、デッドレターキュー内メッセージの再処理が可能であることを確認してアプリケーションを構築します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMakerがクロスアカウントリネージトラッキングとマルチホップリネージクエリーに対応]]></title>
+        <id>5e5e3126f95f490e050cc2d04c036d31890fd478</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/"/>
+        <updated>2021-12-06T11:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMakerでは、 機械学習（ML）のリネージトラッキング機能が強化され、MLのワークフローにおけるデータ、特徴、モデルなどのアーティファクトのリネージを追跡し、照会することができるようになりました。これによりお客様は、データ準備からモデルデプロイまでのワークフロー全体を網羅したエンドツーエンドのリネージグラフを1つのクエリで取得することができます。この特徴により、ワークフローのステップごとにリネージ情報を取得し、それらを手作業でつなぎ合わせるような、未分化な作業が不要になります。また、あるステップをフォーカルポイントとして定義し、そのフォーカルポイントの上流または下流にあるステップのリネージを照会することで、ワークフローのセグメントのリネージ情報を取得することができます。例えば、お客様はモデルを中心的なエンティティとして定義し、そのモデルをトレーニングするために特徴が抽出されたraw データセットの場所を検索することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Textract が身分証明書の自動処理に特化したサポートを発表]]></title>
+        <id>2f01eca6b6168247711ff2bef03294f2664621dd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-textract-automated-processing-identity-documents/"/>
+        <updated>2021-12-06T10:58:44.000Z</updated>
+        <summary type="html"><![CDATA[あらゆるドキュメントや画像からテキストやデータを抽出する機械学習サービスのAmazon Textractは、 現在、米国などの身分証明書からデータを抽出するための特別なサポートを提供しています。運転免許証と米国。パスポート。名前や住所などの明示されないフィールドだけでなく、生年月日、発行日、有効期限、ID番号、IDタイプなどの明示的なフィールドも、キーと値のペアの形式で抽出できます。今日まで、現行のOCRベースのソリューションは限られており、豊富な背景画像のためにすべての必須フィールドを正確に抽出する能力や、名前と住所、およびそれらに関連付けられたフィールドを認識する能力（例：ワシントン州のIDでは自宅の住所が「8」というキーで記載されます）、国や州によって異なるIDのデザインやフォーマットをサポートする能力はありませんでした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Transit Gatewayがリージョン内ピアリングを導入し、クラウドオペレーションとネットワークコネクティビティを簡素化]]></title>
+        <id>87bdb13ae124cfc5a9bd92d4b71a9292e539969c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-transit-gateway-intra-region-cloud-network/"/>
+        <updated>2021-12-06T10:52:44.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Transit Gatewayはリージョン内ピアリングをサポートし、同じAWSリージョン内の複数のTransit Gateway間でピアリング接続を確立できるようになりました。この変更により、組織内のさまざまなユニットが独自のTransit Gatewayを導入し、それらを簡単に相互接続することができるようになり、管理コストの削減と自律的な運用が可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker パイプラインは SageMaker Model Monitor と SageMaker Clarify に統合されました]]></title>
+        <id>9ae80e72edf150322c4d05a4c1b76b5ee9b1bdfb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sagemaker-pipelines-integrates-sagemaker-model-monitor-sagemaker-clarify/"/>
+        <updated>2021-12-06T10:46:44.000Z</updated>
+        <summary type="html"><![CDATA[エンドツーエンドの機械学習 (ML) ワークフローの作成、自動化、管理を可能にするフルマネージドサービスである Amazon SageMaker Pipelines は Amazon SageMaker Model Monitor とAmazon SageMaker Clarify の統合をサポートするようになりました。これらの統合により、ML ワークフローにモデルの品質やバイアスの検出を簡単に組み込むことができます。オートメーションの向上は ML モデルの構築や管理におけるオペレーション負荷を軽減に役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Shield Advanced がアプリケーションレイヤーの DDoS 自動軽減機能を導入]]></title>
+        <id>72befbb68faa2fc3179ecc1b822968ee657e41e8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-shield-advanced-application-layer-ddos-mitigation/"/>
+        <updated>2021-12-06T10:40:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Shield Advanced は、アプリケーションレイヤー（レイヤー7）のDDoSイベントをブロックすることで、ユーザーや AWS Shield Response Team（SRT）がマニュアルで介入することなく、ウエブアプリケーションを自動的に保護するようになりました。AWS Shield Advanced でリソースを保護し、アプリケーションレイヤーの DDoS 自動緩和を有効にすると、Shield アドバンストはレイヤー7の DDoS イベントに関連するパターンを識別し、ウエブアクセスコントロールリスト（ACL）に AWS WAFルールを自動作成することで、この異常トラフィックを隔離します。これらのルールは、カウントモードで実装して、リソースのトラフィックにどのような影響を与えるかを観察した後、ブロックモードでデプロイすることができます。これらの機能により、アプリケーションの可用性を脅かすDDoS イベントに素早く対応し、緩和を有効にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) は AWS での IP アドレス管理を簡素化する IP Address Manager (IPAM) を発表]]></title>
+        <id>a07474b72837a6b0c43fbf90608a93278c3cb4f8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-virtual-private-cloud-vpc-announces-ip-address-manager-ipam/"/>
+        <updated>2021-12-06T10:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon VPC IP Address Manager (IPAM) は AWS ワークロードの IP アドレスの計画、追跡、モニタリングを簡単にする新しい機能です。IPAM の自動ワークフローにより、ネットワーク管理者はより効率的に IP アドレスを管理することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlanetScaleがMySQLをスケールアップするManaged Cloudを導入]]></title>
         <id>https://www.infoq.com/jp/news/2021/12/planetscale-managed-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
@@ -4880,16 +5060,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[GitHubのNat Friedman CEOが退任を発表しました。11月15日には新CEOとなるThomas Dohmke氏にポジションを譲り、以後の肩書きは名誉会長（Chairman Emeritus）になるとのことです。 BIG ne...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nested attributes for delegated types, improved performances and more!]]></title>
-        <id>https://weblog.rubyonrails.org/2021/11/7/this-week-in-rails-nested-attributes-for-delegated-types-improved-performances-and-more-73a8f5cf/</id>
-        <link href="https://weblog.rubyonrails.org/2021/11/7/this-week-in-rails-nested-attributes-for-delegated-types-improved-performances-and-more-73a8f5cf/"/>
-        <updated>2021-11-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey! Robin here with the latest news from the Ruby on Rails world. Support accepts_nested_attributes_for for delegated types Rails 6.1 introduced delegated types to ease handling some polymorphic relationships. This pull request makes using accepts_nested_attributes_for on such types a piece of cake. Use nested queries doing UPDATE with GROUP BY and HAVING on MySQL Since MySQL doesn’t support UPDATE with GROUP BY and HAVING clauses, this patch fixes such scenario to rely on a sub-query. A similar patch has been merged to deal with DELETE queries. Raise a specific error on unsafe redirects Rails 7.0 prevents redirects to other hosts than the current one unless you explicitly ask it to. In case of unsafe redirects, an ArgumentError was raised. Now, the error is more specific, allowing you to rely on a rescue_from block to deal with such cases. Add url_from to check if an URL is internal In line with the previous patch, a new url_from method is available in controllers to check whether an URL is internal or not, simplifying the way to provide an alternative in case it is not. Improved Active Job test helpers error messages This is the kind of little changes that make life easier. The error messages of assert_enqueued_with and assert_performed_with have been improved to ease debugging when the assertion failed. Happy testing! Optimize ActiveSupport::CurrentAttributes method generation It’s always lovely to see performance optimizations. This patch is about method generation of classes inheriting from ActiveSupport::CurrentAttributes. The trick here is to generate the code as a string rather than relying on a closure. 13 people contributed to Rails since last time. All the changes can be checked here. Until next week!]]></summary>
-        <author>
-            <name>Riding Rails</name>
         </author>
     </entry>
 </feed>
