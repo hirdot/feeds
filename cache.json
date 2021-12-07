@@ -2018,6 +2018,195 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "670e40b24f5e91b74f82825733792823d6bf0b21",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch RUM は、リアルユーザーモニタリング機能であり、ウェブアプリケーションのクライアント側の問題を特定してデバッグし、エンドユーザーのデジタルエクスペリエンスを強化するのに役立ちます。CloudWatch RUM を使用すると、アプリケーションデベロッパーと DevOps エンジニアは、より迅速な解決が可能になることで、クライアント側のパフォーマンスの問題解決に要する平均時間 (MTTR) を短縮することができます。Amazon CloudWatch RUM は、Amazon CloudWatch Synthetics および Amazon CloudWatch Evidently とともに、CloudWatch のデジタルエクスペリエンスモニタリングの一部です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-rum-applications-client-side-performance/",
+          "publishedOn": "2021-12-06T23:56:44.000Z",
+          "wordCount": 308,
+          "title": "アプリケーションのクライアント側のパフォーマンスをモニタリングする Amazon CloudWatch RUM の紹介"
+        },
+        {
+          "id": "a7559bae8c6ece2ea4956d2ef7dc4eab7fe542de",
+          "author": "aws@amazon.com",
+          "description": "本日、当社は、First Annual AWS BugBust re:Invent チャレンジを発表しました。すべてのスキルレベルの Java および Python のデベロッパーは、できるだけ多くのソフトウェアバグの修正を競って、ポイントを獲得してください。グローバルリーダーボードに載ります。パーカーやハエたたきから Amazon Echo Dot まで、さまざまな賞品が用意されています。チャレンジの特定のマイルストーンを達成した参加者が手にすることができます。また、「究極の AWS BugBuster」という待望のタイトルもあり、イベント中にバグを追い払って最も多くのポイントを獲得した人には 1500 USD の賞金を贈呈します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-bugbust-aws-reinvent-challenge/",
+          "publishedOn": "2021-12-06T23:50:44.000Z",
+          "wordCount": 316,
+          "title": "Amazon BugBust が First Annual AWS BugBust re:Invent チャレンジを発表"
+        },
+        {
+          "id": "4fd42de22c79eb6725f5fbf305a2a0ea12799127",
+          "author": "aws@amazon.com",
+          "description": "Amazon Timestream に 3 つの新たな機能が加わりました。スケジュールされたクエリ、複数測定レコード、マグネティックストレージ書き込みです。これにより時系列データ処理が迅速になり、コスト効率も高いため、より多くのお客様が利用しやすくなります。これらの機能を使うと、より経済的かつ効率的に時系列データの書き込み、保存、アクセスを実行し、引き続きデータからインサイトを得るとともに、データに基づいてよりよいビジネス上の決定を行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-timestream-scheduled-queries-multi-measure-records-magnetic-storage-writes/",
+          "publishedOn": "2021-12-06T23:44:44.000Z",
+          "wordCount": 303,
+          "title": "Amazon Timestream がスケジュールされたクエリ、複数測定レコード、マグネティックストレージ書き込みを介して高速でコスト効率の高い時系列データ処理を提供"
+        },
+        {
+          "id": "b94b8504828040d7b604986716e30f839f0be466",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Greengrass は本日、AWS Systems Manager との新たな統合を発表しました。これにより、IT およびエッジデバイスの管理者は産業用機器や産業用PCのようなエッジデバイスのほか、EC2 インスタンス、AWS Outposts、オンプレミスサーバーなどの IT アセットを安全に管理できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/",
+          "publishedOn": "2021-12-06T23:38:44.000Z",
+          "wordCount": 303,
+          "title": "AWS Systems Manager を使用した AWS IoT Greengrass エッジデバイスのセキュアな管理"
+        },
+        {
+          "id": "a9e484b673d2152475eb7ed01f1f8f03a47baaa1",
+          "author": "aws@amazon.com",
+          "description": "AWS Compute Optimizer により、ダッシュボードレベルメトリクスの 2 つの新しいセット (節約の機会とパフォーマンス改善の機会) を通じて、上位の最適化の機会をすばやく特定して優先順位付けができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-compute-optimizer-resource-efficiency-metrics/",
+          "publishedOn": "2021-12-06T23:33:44.000Z",
+          "wordCount": 274,
+          "title": "AWS Compute Optimizer がリソース効率性メトリクスを提供"
+        },
+        {
+          "id": "a7020b587422a9c18e1919ca38e289b379574a10",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize が、マーケティングチャネルを通じてより効果的にプロスペクティングキャンペーンを行えるようにするインテリジェントなユーザーセグメンテーションの提供を開始しました。従来、ユーザーセグメンテーションは、人口統計情報と手動でキュレートされたビジネスルールに依存して、ユーザーの意図について推測し、それらを事前定義されたオーディンスセグメントに割り当ててきました。Amazon Personalize は、機械学習技術を使用して、お客様のアイテム、ユーザー、およびユーザーがお客様のアイテムにどのように反応するかについて学習します。Amazon Personalize は、さまざまな製品、カテゴリー、ブランドなどの好みに基づいてユーザーを分類します。これにより、マーケティングキャンペーンへのエンゲージメントを高め、的を絞ったメッセージングを通じて顧客維持率を増やし、マーケティング費用の投資収益率を改善することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-personalize-intelligent-user-segmentation/",
+          "publishedOn": "2021-12-06T23:27:44.000Z",
+          "wordCount": 260,
+          "title": "より効果的なマーケティングキャンペーンの展開に役立つ Amazon Personalize のインテリジェントなユーザーセグメンテーションの紹介"
+        },
+        {
+          "id": "c319b170202090ace63612d21e2ccae58f7c639a",
+          "author": "aws@amazon.com",
+          "description": "AWS パートナーネットワーク (APN) は、差別化プログラム (AWS サービスデリバリー、AWS Service Ready、AWS コンピテンシー、および AWS マネージドサービスプロバイダープログラム) で AWS パートナーに AWS GameDay の利点を導入します。AWS GameDay の利点を通じて、パートナーは AWS パートナー差別化プログラムの成果の利点として AWS GameDay リーグ、AWS GameDay クエストデベロッパーキット (QDK)、またはその両方を選択できます。 高レベルの技術的支援、AWS エキスパートとの直接のつながり、質の高いリードは、差別化プログラムに参加する AWS パートナーの最大の利点です。パートナー向けの AWS GameDay の利点は、これら 3 つすべてを提供します。AWS GameDay の利点により、プログラムを通じて技術的な検証を達成するための作業の見返りとして、パートナーに具体的な付加価値のある機会を得ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-gameday-benefits-differentiated-partners/",
+          "publishedOn": "2021-12-06T23:21:44.000Z",
+          "wordCount": 335,
+          "title": "差別化されたパートナー向けの AWS GameDay の新しい利点"
+        },
+        {
+          "id": "07ae2748e4f759327daf684ee5a6faa1536382ba",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS 移行コンピテンシーとモダナイゼーションコンピテンシーを発表しました。 これらの AWS パートナーは、お客様がクラウドに移行する間にアプリケーションを移行および最新化できるソフトウェア製品を提供することに関して、深い専門知識を持っています。AWS 移行コンピテンシーとモダナイゼーションコンピテンシーパートナーは、お客様がコストを最適化し、TCO を削減し、レガシーアプリケーションとデータをモダナイゼーションし、運用上の負担を軽減するのを支援します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-migration-modernization-competency/",
+          "publishedOn": "2021-12-06T23:15:44.000Z",
+          "wordCount": 256,
+          "title": "AWS 移行コンピテンシーとモダナイゼーションコンピテンシーの紹介"
+        },
+        {
+          "id": "b4eadf9ba09b951e58c30cd4f5638291150b3387",
+          "author": "aws@amazon.com",
+          "description": "AWS Graviton ベースの Amazon Elastic Compute Cloud (Amazon EC2) インスタンスをサポートするソフトウェア製品を備えた AWS パートナー向けの新しい AWS Graviton Ready Program を発表できることをうれしく思います。  お客様が AWS Graviton ベースのインスタンスを採用して Amazon EC2 で最高のコストパフォーマンスを実現するためには、Linux ベースのコンテナ化されたワークロードの統合、デプロイ、モニタリング、保護に役立つ適切なソフトウェアソリューションが必要です。AWS Graviton Ready パートナーは、オペレーティングシステムとプラットフォームサービス、セキュリティ、モニタリングとオブザーバビリティ、CI/CD、データと分析、クラウドデバイスなどの Graviton 対応のソフトウェア製品を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-graviton-ready-program/",
+          "publishedOn": "2021-12-06T23:09:44.000Z",
+          "wordCount": 296,
+          "title": "AWS Graviton Ready Program の紹介"
+        },
+        {
+          "id": "1738ac5a9a0e6645bcf2d5124fbb59ed813d703c",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise は、産業機器からのデータの大規模な収集、保存、整理、およびモニタリングを実行するためのマネージドサービスです。AWS IoT SiteWise は、機器データで 2 つのストレージ層に対応できるようになりました。リアルタイムのアプリケーション向けに最適化されたホット層と、分析アプリケーション向けのコールド層です。ホット層には頻繁にアクセスするデータが保存され、書き込みから読み取りへのレイテンシーを低減します。機器から最新の測定値にすばやくアクセスする必要のある産業用アプリケーションでは、ホット層にデータを保存できます。インタラクティブなダッシュボードでリアルタイムのメトリクスを可視化するアプリケーションや、オペレーションをモニタリングしてアラームをトリガーし、機器のパフォーマンスの問題を特定するアプリケーションなどです。コールド層には、アクセス頻度が低く、高い読み取りレイテンシーを許容できるデータを保存します。コールド層のデータを使うと、履歴データへのアクセスが必要なアプリケーションを作成できます。ビジネスインテリジェンス (BI) ダッシュボードや AI、機械学習 (ML) トレーニング、履歴レポート、バックアップなどです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/",
+          "publishedOn": "2021-12-06T23:03:44.000Z",
+          "wordCount": 297,
+          "title": "AWS IoT SiteWise が産業データ用のホットストレージとコールドストレージの階層をサポート"
+        },
+        {
+          "id": "9787dd4df43df6bdb70291475b3770ac229279e9",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT RoboRunner は、ロボットのフリートがシームレスに連携するのに役立つアプリケーションをエンタープライズが簡単に構築しデプロイできるようにする新しいロボティクスサービスです。AWS IoT RoboRunner を使用すると、ロボットを相互に接続したり産業ソフトウェアシステムに接続したりするのに必要な複雑な開発作業を減らして、単一のビューからロボットを相互運用およびオーケストレートできるアプリケーションを簡単に構築できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-roborunner-available-preview/",
+          "publishedOn": "2021-12-06T22:57:45.000Z",
+          "wordCount": 268,
+          "title": "AWS IoT RoboRunner のプレビュー提供を開始"
+        },
+        {
+          "id": "c71b91aed31cff3059baa1347ad6ab596bf5b764",
+          "author": "aws@amazon.com",
+          "description": "オブジェクトが Amazon S3 イベント通知を使用して、イベント駆動型アプリケーションを構築できるようになりました。このイベント通知は、オブジェクトが S3 ライフサイクルで移行または期限切れ（削除）になったとき、または S3 Intelligent-Tiering ストレージクラス内でアーカイブアクセス層またはディープアーカイブアクセス層に移動したときにトリガーされます。また、オブジェクトタグやアクセスコントロールリスト (ACLs) への変更に対して S3 イベント通知をトリガーすることもできます。バケット全体、またはプレフィックスやサフィックスを使用してオブジェクトのサブセットに対してこれらの新しい通知を生成し、それらを Amazon EventBridge、Amazon SNS、Amazon SQS、または AWS Lambda 関数に配信することを選択できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-s3-event-notifications-s3-lifecycle-intelligent-tiering-object-tags-object-access-control-lists/",
+          "publishedOn": "2021-12-06T22:51:44.000Z",
+          "wordCount": 311,
+          "title": "Amazon S3 が S3 ライフサイクル、S3 Intelligent-Tiering、オブジェクトタグ、オブジェクトアクセスコントロールリストの新しい S3 イベント通知を追加"
+        },
+        {
+          "id": "baeb39132dfde9a64c7f2dd1a0a1c06642a503f3",
+          "author": "aws@amazon.com",
+          "description": "AWS Compute Optimizerは、強化されたインフラストラクチャメトリクスの提供を開始しました。これは、アクティベートされると、月次または四半期ごとの使用パターンを把握して Amazon EC2 インスタンスと Auto Scaling グループのレコメンデーションを強化する有料機能です。Compute Optimizer は、Amazon CloudWatch 使用率メトリクス履歴を、デフォルトの Compute Optimizer オプション（最大3か月の履歴と14日）の最大6倍取り込んで分析することにより、これを行います。Compute Optimizer コンソールまたは API を介して、既存および新規に作成されたすべての EC2 インスタンスおよび Auto Scaling グループに対して、組織、アカウント、またはリソースレベルで本機能をアクティベートできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-compute-optimizer-enhanced-infrastructure-metrics-ec2-instances/",
+          "publishedOn": "2021-12-06T22:45:44.000Z",
+          "wordCount": 283,
+          "title": "AWS Compute Optimizer が EC2 レコメンデーションの新機能である強化されたインフラストラクチャメトリクスを提供開始"
+        },
+        {
+          "id": "36f9bb500ad78416e52c144249f66ee0e42bc1b7",
+          "author": "aws@amazon.com",
+          "description": "本日、予測分析を主流の分析ワークスペースに埋め込む一連の AWS パートナーソリューションである AWS AI for data analytics (AIDA) を発表しました。AWS パートナーソリューションは、ビジネスエキスパートが人工知能 (AI) と機械学習 (ML) を使用して、データからより良いインサイトを導き出し、行動を起こすのを容易にします。AIDA は、AWS パートナー (Amplitude、Anaplan、 Causality Link、Domo、Exasol、Interworks、 Pegasystems、Provectus、Qlik、Snowflake、Tableau、TIBCO、Workato）のソリューションを備えています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-ai-data-analytics-aida-partner-solutions/",
+          "publishedOn": "2021-12-06T22:39:45.000Z",
+          "wordCount": 270,
+          "title": "AWS AI for data analytics (AIDA) パートナーソリューション"
+        },
+        {
+          "id": "9c91e6f5c4abf6fa498e89960de87ed200ba798c",
+          "author": "aws@amazon.com",
+          "description": "アプリケーションのリファクタリングをすばやく行いたいですか？ AWS Migration Hub リファクタリングスペースは、アプリケーションの増分リファクタリングを行う新たな起点となり、本番稼働中にリファクタリングプロセスを管理しやすくなります。リファクタリングスペースを使用すると、リファクタリングを可能にする基本的なインフラストラクチャの作成と管理ではなく、アプリケーションのリファクタリング自体に注力できます。この Migration Hub の新機能により、アプリケーションがマイクロサービスになったり、マイクロサービスに書き込まれる新たな機能で既存のアプリケーションが拡張されたりするビジネス上のリスクを低減できます。リファクタリングスペースは、複数のアカウントで AWS のサービスを調整し、徐々にアプリケーションを進化させるリファクタリング環境を整えるため、お客様はより早い段階で価値を実感できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-migration-hub-refactor-spaces/",
+          "publishedOn": "2021-12-06T22:33:44.000Z",
+          "wordCount": 264,
+          "title": "AWS Migration Hub リファクタリングスペースの紹介 - プレビュー"
+        },
+        {
+          "id": "4ee6ec9950366f688f503e58726417dd17c25d31",
+          "author": "aws@amazon.com",
+          "description": "Amazon Braket Hybrid Jobs を使用すると、古典計算リソースと量子コンピューティングデバイスを組み合わせて今日の量子システムのパフォーマンスを最適化している Variational Quantum Eigensolver (VQE) や Quantum Approximate Optimization Algorithm (QAOA) などのハイブリッド量子古典アルゴリズムを簡単に実行できるようになります。この新機能では、アルゴリズムスクリプトを提供し、ターゲットデバイス (量子処理ユニット (QPU) または量子回路シミュレーター) を選択するだけで済みます。Amazon Braket Hybrid Jobs は、ターゲット量子デバイスが利用できるときに、要求された古典リソースを起動し、アルゴリズムを実行し、完了した後にインスタンスを解放するよう設計されているため、料金は従量課金制です。Braket Hybrid Jobs は、アルゴリズムメトリクスへのライブインサイトを提供して、アルゴリズムの進行をモニタリングし、より迅速に調整できるようにします。最も重要なのは、実験期間中、ジョブが選択された QPU に優先的なアクセスができることで、制御が可能になり、より速くより予測可能な実行を提供できるようになるということです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-braket-hybrid-jobs-quantum-classical-workloads/",
+          "publishedOn": "2021-12-06T22:27:44.000Z",
+          "wordCount": 324,
+          "title": "Amazon Braket 上でハイブリッド量子古典ワークロードを実行する Amazon Braket Hybrid Jobs を発表"
+        },
+        {
+          "id": "022f683f0179d2fd6ff9713ae750747aef7f9bf0",
+          "author": "aws@amazon.com",
+          "description": "本日より、EBS スナップショットの新しい階層である Amazon EBS スナップショットアーカイブを使用して、90 日間以上保持し、ほとんどアクセスしない EBS スナップショットのストレージコストを最大 75％ 節約できます。EBS スナップショットは増分であり、最後のスナップショット以降の変更のみを保存し、頻繁にアクセスする必要がある毎日および毎週のバックアップに対して費用対効果が高くなります。また、プロジェクトの最後に作成されたスナップショットや規制上の理由で長期間保持する必要のあるスナップショットなど、数か月に 1 度、数年に 1 度アクセスし、データへの高速アクセスは必要としないスナップショットをお持ちかもしれません。このようなユースケースのために、EBS スナップショットアーカイブを使用して、月当たり 0.0125 USD/GB* のストレージコストで完全なポイントインタイムスナップショットを保存できるようになりました。アーカイブ階層のスナップショットの最小保存期間は 90 日です。アーカイブ階層からの取得には、転送されたデータの 0.03 USD/GB* の料金が発生します。\n  \n*us-east-1 の料金",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/",
+          "publishedOn": "2021-12-06T22:21:44.000Z",
+          "wordCount": 302,
+          "title": "Amazon EBS スナップショットが新しい階層 (Amazon EBS Snapshots Archive) を導入して EBS スナップショットの長期保有コストを最大 75% 削減"
+        },
+        {
+          "id": "97100412744aadf07ea07f6b01e40edf06d5f49d",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) では、今日の世界で必要なエネルギー需要を安全に満たす一方、よりバランスの取れた持続可能なエネルギーの未来に迅速に移行できるよう世界のエネルギー業界をサポートすることに献身しています。11月29日にラスベガスで開催された re:invent の Global Partner Summit Keynote で、AWS は新しい AWS エネルギーコンピテンシープログラムを発表しました。これは、技術的な専門知識に関して AWS パートナーを差別化し、世界中でエネルギー顧客企業が繰り返し成功できるように支援するプログラムです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-competency-program-partners-energy-industry-expertise/",
+          "publishedOn": "2021-12-06T22:15:44.000Z",
+          "wordCount": 269,
+          "title": "新しい AWS コンピテンシープログラムがエネルギー業界の専門知識で AWS パートナーを差別化"
+        },
+        {
+          "id": "224e4144d9eedfdcb98af3dba106023478cd72fc",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、セキュリティの脆弱性を検出し、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-codeguru-reviewer-hardcoded-secrets-java-python/",
+          "publishedOn": "2021-12-06T22:09:44.000Z",
+          "wordCount": 287,
+          "title": "Amazon CodeGuru Reviewer が Java リポジトリと Python リポジトリ内のハードコードされたシークレットを検出"
+        },
+        {
+          "id": "cbbd8ba4c75ed47dc1e64977343159e25ed629fa",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Registry (Amazon ECR) が、パブリックにアクセス可能なレジストリからイメージを自動的に同期するように設計された新機能であるプルスルーキャッシュリポジトリのサポートを開始しました。本日のリリースにより、お客様は、パブリックイメージ用の Amazon ECR のダウンロードパフォーマンス、セキュリティ、および可用性をご利用になれます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecr-cache-repositories/",
+          "publishedOn": "2021-12-06T22:03:44.000Z",
+          "wordCount": 256,
+          "title": "Amazon ECR がプルスルーキャッシュリポジトリを発表"
+        },
+        {
+          "id": "65f092221dc09baed69835962a267cd3d796a84f",
+          "author": "aws@amazon.com",
+          "description": "メトリクスインサイトは、プレビュー中の Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンであるメトリクスインサイトは、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。メトリクスインサイトを使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。メトリクスインサイトおよびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-metrics-insights-preview/",
+          "publishedOn": "2021-12-06T21:57:44.000Z",
+          "wordCount": 272,
+          "title": "Amazon CloudWatch メトリクスインサイトの紹介 (プレビュー)"
+        },
+        {
           "id": "1bfbb4032c1dfdb029a8e828ed7567c2e84c3327",
           "author": "aws@amazon.com",
           "description": "AWS Well-Architected Tool は、お客様が独自のカスタムレンズを作成する機能の提供を開始しました。",
