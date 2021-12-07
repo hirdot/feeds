@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-07T03:04:32.659Z</updated>
+    <updated>2021-12-07T04:04:54.930Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK Serverless のご紹介 (公開プレビュー)]]></title>
+        <id>4a2e06b161a264a1a3f8e23a6a5e323ed6e50488</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/"/>
+        <updated>2021-12-07T03:53:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon MSK Serverless を公開プレビューで発表いたしました。これは、デベロッパーが容量を管理しなくても Apache Kafka を簡単に実行できる新しいタイプの Amazon MSK クラスターです。MSK Serverless は、コンピューティングリソースとストレージリソースを自動的にプロビジョニングおよびスケーリングし、スループットベースの料金を提供するため、Apache Kafka をオンデマンドで使用し、ストリーミングおよび保持するデータの料金に対して支払いを行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が継続的な脆弱性管理のための新しい Amazon Inspector を発表]]></title>
+        <id>baa55015716c059eb276853410f7aa3f32716d66</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-inspector-continual-vulnerability-management/"/>
+        <updated>2021-12-07T03:47:44.000Z</updated>
+        <summary type="html"><![CDATA[新しい Amazon Inspector は、ソフトウェアの脆弱性や意図しないネットワーク露出がないか継続的に AWS ワークロードをスキャンする脆弱性管理サービスですが、グローバルに一般利用が可能になりました。Amazon Inspector は、脆弱性管理を自動化し、ほぼリアルタイムで調査結果を提供して新しい脆弱性を検出する時間を最小化するよう完全に再設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton3 プロセッサを搭載した新しい Amazon EC2 C7g インスタンスを発表]]></title>
+        <id>b77c9cc70d876da1c4e81f24c69de969923bcf11</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-c7g-instances-aws-graviton3-processors/"/>
+        <updated>2021-12-07T03:41:44.000Z</updated>
+        <summary type="html"><![CDATA[本日より、最カスタム設計された新世代の AWS Graviton3 プロセッサを搭載した新しい Amazon EC2 C7g インスタンスがプレビューで利用可能になります。Amazon EC2 C7g インスタンスは、ハイパフォーマンスコンピューティング (HPC)、ゲーム、ビデオエンコーディング、CPU ベースの機械学習推論など、コンピューティングを多用するワークロードに対して、Amazon EC2 で最高の価格性能比を提供します。これらのインスタンスは、クラウドで初めての DDR5 メモリテクノロジーを搭載しており、DDR4 メモリと比較して 50% 広い帯域幅を提供します。C7g インスタンスは、AWS Graviton2 プロセッサに基づく前世代の C6g インスタンスと比較して 20% 高いネットワーク帯域幅を提供します。また、高レベルのノード間通信を必要とするハイパフォーマンスコンピューティングなどのアプリケーションに向けて、Elastic Fabric Adapter (EFA) もサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Chatbot が Slack での AWS リソースの管理をサポート (プレビュー)]]></title>
+        <id>36a6f7d09bc3baf19e80e7dd0dc1fc3dd358decf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-chatbot-management-resources-slack/"/>
+        <updated>2021-12-07T03:35:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Chatbot を使用してAWS リソースを管理し、Slack チャネルから AWS CLI コマンドを実行してAWS ワークロード内の問題を修正できる新機能の公開プレビューを発表いたします。以前は、AWS Chatbot を使用して AWS リソースをモニタリングし、診断情報を取得することしかできませんでした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift で自動マテリアライズドビューのプレビュー機能をサポート開始]]></title>
+        <id>a68ab13cd9277b93dc15f1e91339c90455762a61</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/"/>
+        <updated>2021-12-07T03:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift の 自動マテリアライズドビュー (AutoMV) は、ダッシュボードクエリなどの繰り返し可能なワークロードのクエリレイテンシーを短縮するのに役立ちます。これにより、マテリアライズドビューを手動で作成および管理するための労力を最小限に抑えることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Control Tower が Terraform アカウントのプロビジョニングとカスタマイズを導入]]></title>
+        <id>9e2aecc57ea59c272eb0a93eccd058ca426e46d5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-control-tower-terraform/"/>
+        <updated>2021-12-07T03:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Terraform を使用して、AWS Control Tower と AWS Control Tower Account Factory for Terraform (AFT) を介してアカウントをプロビジョニングおよびカスタマイズできるようになりました。デベロッパーは、完全に機能するアカウントのプロビジョニングを自動化する合理化されたプロセスを利用できるようになり、ユーザーが成功するために必要なリソースにすばやくアクセスできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トップ営業パーソンNo.1を決めるガチンコ大会 「第5回SalesNo.1GrandPrixONLINE」リポート]]></title>
         <id>https://data.wingarc.com/?p=37412</id>
@@ -5272,16 +5332,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[ページ エクスペリエンス シグナルを、PC 検索でもランキング要因に取り入れることを Google は発表した。2022 年 2 月に展開を開始し、3 月末までに展開完了する予定だ。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト、Javaの仕様を策定するJava Community Process（JCP）への参加を発表。Javaへのコミットをさらに強める]]></title>
-        <id>https://www.publickey1.jp/blog/21/javajava_community_processjcpjava.html</id>
-        <link href="https://www.publickey1.jp/blog/21/javajava_community_processjcpjava.html"/>
-        <updated>2021-11-07T15:05:32.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフトは、Javaの仕様策定や関連技術の開発、実装などを行う「Java Community Process」（JCP）への参加を発表しました。 Microsoft Deepens Its Investments in #Javaht...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>
