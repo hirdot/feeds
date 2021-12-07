@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-07T10:03:50.587Z</updated>
+    <updated>2021-12-07T22:02:23.455Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ページネーションしたページをすべて1ページ目に正規化できるか？]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11780</id>
+        <link href="https://www.suzukikenichi.com/blog/is-it-fine-to-canonicalize-all-paginated-pages-to-first-page/"/>
+        <updated>2021-12-07T21:45:28.000Z</updated>
+        <summary type="html"><![CDATA[ページ分割している構成で、すべてのページを 1 ページ目に正規化することができる。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google AnthosがMicrosoft Azureに正式対応。これでGoogle、AWS、Azureを連携させたマルチクラウドでのKubernetesやCloud Runなどの統合運用などが可能に]]></title>
+        <id>https://www.publickey1.jp/blog/21/google_anthosmicrosoft_azuregoogleawsazurekubernetescloud_run.html</id>
+        <link href="https://www.publickey1.jp/blog/21/google_anthosmicrosoft_azuregoogleawsazurekubernetescloud_run.html"/>
+        <updated>2021-12-07T16:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、Kubernetesをベースにしたマルチクラウドプラットフォームを実現するAnthosがMicrosoft Azureに正式対応したことを発表しました。   Anthosは、Kubernetesによってインフラレイヤを抽象化...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、負荷テストのマネージドサービス「Azure Load Testing」発表。JMeterのスクリプトを実行可能]]></title>
+        <id>https://www.publickey1.jp/blog/21/azure_load_testingjmeter.html</id>
+        <link href="https://www.publickey1.jp/blog/21/azure_load_testingjmeter.html"/>
+        <updated>2021-12-07T16:34:29.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトはMicrosoft Azureのクラウドサービスとして負荷テストを実行する「Azure Load Testing」のプレビュー版を発表しました。 Fix performance bottlenecks at scale. S...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集中する技術]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/tips_for_concentrate</id>
+        <link href="https://blog.agile.esm.co.jp/entry/tips_for_concentrate"/>
+        <updated>2021-12-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。@color_box です。 この記事は、ESM Advent Calender 2021 の8日目の記事です。 みなさん集中できてますか？ ついついTwitterとか見てませんか？ 私は見ちゃいます。 この記事では私が集中する時に気が散るのを防ぐためにやっていることを紹介します。 /etc/hostsを書き換えてtwitterなどへのアクセスを遮断する 手始めに/etc/hostsを書き換えましょう。 私は下記のように書き換えて運用しています。 0.0.0.0 www.youtube.com 0.0.0.0 abs.twimg.com 0.0.0.0 twitter.com 0.…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誤って削除されたスナップショットをごみ箱を使用して復元]]></title>
+        <id>75868aacbd80ab4e910d8006f5ae0fac9cb9bd9b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/"/>
+        <updated>2021-12-07T13:36:44.000Z</updated>
+        <summary type="html"><![CDATA[本日より、EBS スナップショットのごみ箱を使用して、誤って削除してしまったスナップショットを復元し、ビジネス継続性のニーズを満たすことができます。以前は、スナップショットを誤って削除すると、前の時点でスナップショットにロールバックする必要があり、目標復旧時点が増加していました。ごみ箱を使用すると、保存期間を指定して、保存期間が満了する前に削除されたスナップショットなら復元できます。復元されたスナップショットは、削除前に持っていたタグ、アクセス許可、暗号化ステータスなどの属性を保持し、ボリュームの作成にすぐに使用できます。ごみ箱から復元されなかったスナップショットは、保持期間が終了すると完全に削除されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: 改訂2版『プロを目指す人のためのRuby入門』、『研鑽Rubyプログラミング β版』ほか（20211207後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_12_07/114109</id>
@@ -5689,70 +5739,6 @@ Amazon SageMaker に移行することができます。]]></summary>
         <summary type="html"><![CDATA[本日、Amazon CloudFront がレスポンスヘッダーポリシーのサポートを開始します。CloudFront ディストリビューションが返す HTTP レスポンスに、CORS (cross-origin resource sharing)、セキュリティ、およびカスタムヘッダーを追加できるようになりました。これらのヘッダーを挿入するために、オリジンを設定したり、Lambda@Edge や CloudFront のカスタム機能を使用する必要はもうありません。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ:（20211108前編）RubyKaigiの過去講演動画が多数公開、Active ResourceとHerほか]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_08/113344</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_08/113344"/>
-        <updated>2021-11-08T09:53:20.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/railswatch_20211108_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_08/113344" data-wpel-link="internal" target="_self">週刊Railsウォッチ:（20211108前編）RubyKaigiの過去講演動画が多数公開、Active ResourceとHerほか</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インドが「2070年に排出ゼロ」を宣言、転換期を迎えた気候対策]]></title>
-        <id>https://www.technologyreview.jp/?p=260336</id>
-        <link href="https://www.technologyreview.jp/s/260336/indias-2070-net-zero-pledge-is-achievable-appropriate-and-right-on-time/"/>
-        <updated>2021-11-08T06:51:52.000Z</updated>
-        <summary type="html"><![CDATA[インドのナレンドラ・モディ首相が11月1日、国連気候会議「COP26」で2070年にCO2排出量を実質ゼロにするという目標を明らかにした。世界最速で成長する途上国の宣言は、大きな転換になる。]]></summary>
-        <author>
-            <name>Casey Crownhart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年11月8日　Fedora Linux 35リリース，GNOME 41がデフォルトに ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202111/08</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202111/08"/>
-        <updated>2021-11-08T05:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Fedoraプロジェクトは11月2日，「Feodra Linux 35」の正式リリースを公開した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Translatorが100を超える言語と方言をサポート]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/azure-translator-100-languages/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/azure-translator-100-languages/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-11-08T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Translatorは、Azure上の人工知能（AI）を利用したテキスト翻訳サービスだ。コグニティブサービスの一部である。最近、同社は12の新しい言語と方言がサービスに追加されたことを発表した。これは、100を超える言語と方言の間で翻訳できるようになった。
- By Steef-Jan Wiggers  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TriggerMeshのCloud Native Integration Platformがオープンソースとしてリリースされた]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/triggermesh-cloud-native-oss/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/triggermesh-cloud-native-oss/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-11-08T01:54:00.000Z</updated>
-        <summary type="html"><![CDATA[先ごろ、クラウドネイティブ統合プラットフォームプロバイダの TriggerMesh は、Cloud Native Integration Platform がオープンソースになり、Apache Software License 2.0 で利用できるようになったと発表した。これにより、クラウドオペレーターと DevOps プラクティショナは、コードによる統合で自由にデプロイできるようにする。
- By Steef-Jan Wiggers  Translated by Shoji Shigeki]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET MAUI Preview 9 - ボーダ、コーナ、シャドウ、パフォーマンスの向上]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/dotnet-maui-preview-9/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/dotnet-maui-preview-9/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-11-08T01:52:00.000Z</updated>
-        <summary type="html"><![CDATA[.NET MAUI Previewエディションの今月のリリースには、コントロールとレイアウトに対するボーダ、コーナ、シャドウのサポートが導入されている。さらにもうひとつ、Preview 9の重点は、50を越えるコントロールやレイアウトを完成させることだった。Preview 9は現在、Androidアプリケーションの起動時間をパフォーマンス改善する.NET MAUIスタートアップトレーシングを含めて提供されている。
- By Almir Vuk  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Almir Vuk</name>
         </author>
     </entry>
 </feed>
