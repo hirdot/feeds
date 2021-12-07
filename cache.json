@@ -1720,6 +1720,15 @@
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
         {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202112/07",
+          "author": "階戸アキラ",
+          "description": "illumos傘下のOpenIndianaプロジェクトは12月5日，OpenIndianaの最新スナップショットとなる「OpenIndiana 2021.10」のリリースを発表した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202112/07",
+          "publishedOn": "2021-12-07T04:47:00.000Z",
+          "wordCount": 363,
+          "title": "2021年12月7日　「OpenIndiana Hipster 2021.10」がリリース，OpenSolaris後継の最新版 ── Linux Daily Topics"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202112/01",
           "author": "階戸アキラ",
           "description": "Linus Torvaldsは11月28日，次期Linuxカーネル「Linux 5.16」の3本目のリリース候補版となる「Linux 5.16-rc3」を公開した。",
@@ -1999,6 +2008,69 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "b7d47f0f7039408ae7d3a7beb1f6126654d69b78",
+          "author": "aws@amazon.com",
+          "description": "AWS は本日、新たなオープンソース Kubernetes クラスターオートスケーリングプロジェクト、Karpenter のバージョン 0.5 の一般提供開始を発表しました。今後は本番稼働環境でご利用いただけます。Karpenter は、柔軟性のある高性能の Kubernetes Cluster Autoscaler で、アプリケーションの可用性とリソースの使用率を向上させることができます。Karpenter は変化するアプリケーションロードに対応し、1 分以内で適切なサイズの EC2 インスタンスを起動します。このような EC2 インスタンスは、コンピューティングやストレージ、アクセラレーション、スケジューリング要件などクラスターのワークロードの具体的なニーズに基づいています。Karpenter はどのような適合 Kubernetes クラスターでも使用できるよう設計されていますが、Amazon Elastic Kubernetes Service (EKS) では現在、AWS で Karpenter を使用してクラスターに対応しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-karpenter-v0-5/",
+          "publishedOn": "2021-12-07T04:36:44.000Z",
+          "wordCount": 305,
+          "title": "AWS Karpenter v0.5 の一般提供を開始"
+        },
+        {
+          "id": "3103ae844e89479e9e770c4b7225f2a2f403138c",
+          "author": "aws@amazon.com",
+          "description": "AWS Lake Formation は、データレイクの構築、保護、管理を簡素化する 3 つの新機能が利用可能になることを発表いたしました。まず、Amazon S3 テーブルの新しいタイプである Lake Formation Governed Tables は、マルチテーブルのトランザクションサポートを使用して復元力のあるデータパイプラインを簡単に構築します。Lake Formation はデータが追加または変更されると競合とエラーを自動的に管理して、すべてのユーザーが一貫したデータのビューを表示できるようにします。これにより、顧客がカスタムエラー処理コードを作成したり、更新をバッチ処理したりする必要がなくなります。次に、Governed Tables は、データの保存方法をモニタリングして自動的に最適化するため、クエリ時間が一貫して高速になります。また、テーブルと列に加えて、Lake Formation が行とセルレベルの権限をサポートするようになり、ユーザーによって表示が許可された一部データのみへのアクセスを許可することで、より簡単に機密情報へのアクセスを制限できるようになりました。Governed Tables、行およびセルレベルのアクセス許可は、Amazon Athena、Amazon Redshift Spectrum、AWS Glue、および Amazon QuickSight を通じてサポートされるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lake-formation-governed-tables-storage-security/",
+          "publishedOn": "2021-12-07T04:30:44.000Z",
+          "wordCount": 283,
+          "title": "AWS Lake Formation が、Governed Tables、ストレージの最適化、および行レベルのセキュリティをサポート"
+        },
+        {
+          "id": "a8b3ee9b5088ada3d643fd2626c60cb1950f92af",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR の新しいサーバーレスオプションである Amazon EMR Serverless のプレビューを発表いたします。これにより、データエンジニアやアナリストは、クラウドでペタバイト規模のデータ分析を簡単かつ費用対効果の高い方法で実行できます。Amazon EMR はクラウドのビッグデータプラットフォームです。お客様は Apache Spark、Apache Hive、Presto などのオープンソース分析フレームワークを使用して、大規模な分散データ処理ジョブ、インタラクティブ SQL クエリ、機械学習アプリケーションを実行するために使用しています。EMR Serverless を使用すれば、これらのフレームワークを使用して構築されたアプリケーションを数回のクリックだけで実行できます。クラスターを構成、最適化、または保護する必要はありません。EMR Serverless は、アプリケーションに必要なコンピューティングリソースとメモリリソースを自動的にプロビジョニングしてスケーリングし、お客様には使用したリソースに対してのみ料金をお支払いいただきます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/",
+          "publishedOn": "2021-12-07T04:24:44.000Z",
+          "wordCount": 295,
+          "title": "Amazon EMR Serverless のご紹介 (プレビュー)"
+        },
+        {
+          "id": "c66dc26ea362855b1d3a717c8a568d1db05d5520",
+          "author": "aws@amazon.com",
+          "description": "どの環境でもどの Kubernetes クラスターでも、AWS Marketplaceからサードパーティーの Kubernetes アプリケーションを検索、サブスクライブ、およびデプロイできるようになりました。これにより、コンテナ向けの既存の AWS Marketplace の機能が拡張されます。以前は、AWS Marketplace からコンテナ化されたサードパーティーアプリケーションを見つけて購入し、Amazon Elastic Kubernetes Service (EKS) と Amazon Elastic Container Service (ECS) にデプロイしていました。Amazon Elastic Kubernetes Service Anywhere (EKS-Anywhere)、またはオンプレミス環境または EC2 内のお客様の自己管理型 Kubernetes クラスターを使用して、サードパーティーの Kubernetes アプリケーションをオンプレミス環境にデプロイできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-customers-find-subscribe-deploy-kubernetes-aws-marketplace/",
+          "publishedOn": "2021-12-07T04:18:44.000Z",
+          "wordCount": 306,
+          "title": "Kubernetes 環境で実行するサードパーティーアプリケーションを AWS Marketplace から検出、サブスクライブ、デプロイすることが可能に"
+        },
+        {
+          "id": "a117d1b35580be5cc23fac71f964340538be332b",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Private 5G のプレビューを発表いたします。これは、企業が施設内でプライベート 5G モバイルネットワークを設定および拡張するまでかかる期間を数か月から数日に短縮する新しいマネージドサービスです。お客様は AWS コンソールを数回クリックするだけで、モバイルネットワークを構築する場所とデバイスに必要なネットワーク容量を指定できます。次に、AWS は、プライベート 5G ネットワークの設定とデバイスの接続に必要なスモールセル無線ユニット、サーバー、5G コアおよび無線アクセスネットワーク (RAN) ソフトウェア、および加入者識別モジュール (SIM カード) を提供してメンテナンスを行います。AWS Private 5G は、ネットワークの設定とデプロイを自動化し、オンデマンドで容量を拡張して、追加のデバイスと増加したネットワークトラフィックをサポートします。AWS Private 5G には前払い料金やデバイスごとに発生するコストはなく、お客様にはリクエストしたネットワーク容量とスループットに対してのみ料金をお支払いいただきます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/preview-aws-private-5g/",
+          "publishedOn": "2021-12-07T04:12:44.000Z",
+          "wordCount": 277,
+          "title": "AWS Private 5G のプレビューを発表"
+        },
+        {
+          "id": "257c2d5e5ce510195bc2b55265d91abbb7d62c8d",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas は、ビジネスアナリストが正確な機械学習 (ML) モデルを作成し、視覚的なポイントアンドクリックインターフェイスを使用して予測を生成できるようにする Amazon SageMaker の新機能です。コーディングは必要ありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-canvas-machine-learning-models/",
+          "publishedOn": "2021-12-07T04:05:45.000Z",
+          "wordCount": 283,
+          "title": "Amazon SageMaker Canvas のご紹介 - 正確な機械学習モデルを構築するための視覚的なノーコードインターフェイス"
+        },
+        {
+          "id": "76fa1519c5a0d3190b00bc0a4cd3e3eea5b6f57c",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) は、ソフトウェア無線 (SDR) 向けに広帯域デジタル中間周波数 (DigIF) をサポートすることを発表しました。お客様は、より多くのデータをより短い時間でダウンリンクしてコストを節約できるようになります。AWS Ground Station は現在、狭帯域 (54MHz 未満) の SDR に対応していますが、これまで広帯域 (54Mhz 以上) の SDR をサポートしたことはありません。SDR のサポートを広帯域向けの 400Mhz に拡張することで、SDR パートナーは新たな変調・暗号化スキームを提供し、地球画像企業や大学、政府機関のオペレーションコスト最適化を支援できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/",
+          "publishedOn": "2021-12-07T03:59:44.000Z",
+          "wordCount": 342,
+          "title": "AWS Ground Station がソフトウェア無線の拡張サポート (プレビュー) の提供を開始"
+        },
         {
           "id": "4a2e06b161a264a1a3f8e23a6a5e323ed6e50488",
           "author": "aws@amazon.com",
