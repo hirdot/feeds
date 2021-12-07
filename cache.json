@@ -2009,6 +2009,87 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "cbf51fc3af01d00402d7b6e0a75971387697cb91",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスです。本日、3 つの新機能のリリースを発表します。その 3 つの新機能とは、(1) 数回クリックするだけで完全に機能する検索アプリケーションを作成するための Experience Builder、(2) 検索インサイトとメトリクスのための Search Analytics Dashboard、および (3) 取り込み中の前処理とエンリッチメントを記録する Custom Document Enrichment です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-kendra-experience-builder-search-analytics-dashboard-custom-document-enrichment/",
+          "publishedOn": "2021-12-07T07:56:44.000Z",
+          "wordCount": 378,
+          "title": "Amazon Kendra で Experience Builder、Search Analytics Dashboard、および Custom Document Enrichment が利用可能に"
+        },
+        {
+          "id": "88b108fbc6856d5d33057fecc0f04ad087dedca5",
+          "author": "aws@amazon.com",
+          "description": "AWS Mainframe Modernization は、メインフレームの移行とモダナイゼーションを行うための独自のプラットフォームです。これにより、お客様はオンプレミスのメインフレームワークロードを AWS 上で管理された高可用性ランタイム環境に移行して最新化できます。このサービスは現在、リプラットフォームと自動リファクタリングの 2 つの主要な移行パターンをサポートしており、お客様は移行評価の結果に基づいて、最適な移行パスと関連するツールチェーンを選択できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/introducing-aws-mainframe-modernization/",
+          "publishedOn": "2021-12-07T07:50:44.000Z",
+          "wordCount": 256,
+          "title": "AWS Mainframe Modernization のご紹介"
+        },
+        {
+          "id": "23a9f9f325e8a53a471546d0510e969520a8d428",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift は、データウェアハウスのクラスターをプロビジョニングおよび管理することなく、分析を実行してスケーリングするためのサーバーレスオプション (プレビュー) を提供します。Amazon Redshift Serverless を使用すれば、データアナリスト、デベロッパー、データサイエンティストを含むすべてのユーザーが、Amazon Redshift を使用して数秒でデータから洞察を得ることができます。Amazon Redshift Serverless は、データウェアハウスの容量を自動的にプロビジョニングしてインテリジェントにスケーリングし、すべての分析にクラス最高のパフォーマンスを提供します。ワークロード期間中に使用したコンピューティングに対して、1 秒あたりの料金だけお支払いいただきます。既存の分析やビジネスインテリジェンスアプリケーションに変更を加えることなく、シンプルに利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-redshift-serverless/",
+          "publishedOn": "2021-12-07T07:44:44.000Z",
+          "wordCount": 291,
+          "title": "Amazon Redshift Serverless の発表 (プレビュー)"
+        },
+        {
+          "id": "8a435c529a1da6d3ba3667cff3eb05fc24c6abd2",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru for RDS は、Amazon Relational Database Service (Amazon RDS) 向けの機械学習 (ML) を利用した新しい機能であり、データベースのパフォーマンスおよび運用に関する問題を自動的に検出して診断し、ボトルネックを数日ではなく数分で解決できるようにします。Amazon DevOps Guru for RDS は、Amazon DevOps Guru の機能であり、すべての Amazon RDS エンジンと他の数十のリソースタイプの運用およびパフォーマンスに関する問題を検出します。DevOps Guru for RDS は、DevOps Guru の既存の機能を拡張して、リソースの過剰使用や SQL クエリの誤動作など、データベース関連のさまざまなパフォーマンスに関する問題を検出および診断し、修復に関するレコメンデーションを提供します。問題が発生すると、DevOps Guru for RDS はすぐにデベロッパーと DevOps エンジニアに通知し、診断情報、問題の範囲の詳細、およびお客様が問題を迅速に解決するのに役立つインテリジェントな修復に関するレコメンデーションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-devops-guru-rds-ml-powered-capability-amazon-aurora/",
+          "publishedOn": "2021-12-07T07:38:44.000Z",
+          "wordCount": 374,
+          "title": "Amazon Aurora 内のパフォーマンスおよび運用に関する問題を自動的に検出して診断する、機械学習を利用した機能である Amazon DevOps Guru for RDS の発表"
+        },
+        {
+          "id": "65dcd2291a3f0a5697a901f52a2ff2d0f1051eb3",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Custom は、基盤となる OS や DB 環境へのアクセスを必要とするレガシーアプリケーション、カスタムアプリケーション、パッケージアプリケーション向けのマネージドデータベースサービスです。Amazon RDS Custom は、SQL Server データベースエンジンで利用可能となりました。Amazon RDS Custom for SQL Server は、クラウドでのデータベースのセットアップ、オペレーション、およびスケーリングを自動化する一方で、設定の構成、ドライバーのインストール、および依存するアプリケーションの要件を満たすネイティブ機能の有効化を行うために、アクセス権をデータベースと基盤となるオペレーティングシステムに付与します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-rds-custom-sql-server/",
+          "publishedOn": "2021-12-07T07:32:44.000Z",
+          "wordCount": 322,
+          "title": "Amazon RDS Custom for SQL Server の発表"
+        },
+        {
+          "id": "d90871d32e5ab51c4eb931b4c4b28a4cc7362ac0",
+          "author": "aws@amazon.com",
+          "description": "インテルが提供する AWS DeepRacer Student は、世界中の高校や大学に在籍する学生向けの新しいサービスです。AWS DeepRacer Student は、受賞歴のある AWS DeepRacer サービスの成功に基づいて構築されています。このサービスでは、学生が直面する参入の障壁を取り除きながら、人工知能と機械学習 (AI/ML) について意欲的なデベロッパーを教育します。AWS DeepRacer Student は、無料の学習モジュール、モデルトレーニング、およびコンペティションを備えたオールインワンソリューションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-deepracer-student/",
+          "publishedOn": "2021-12-07T07:26:44.000Z",
+          "wordCount": 288,
+          "title": "AWS が、無料のモデルトレーニング、学習コンテンツ、および学生専用のグローバルな自動運転レーシングコンペティションを提供する AWS DeepRacer Student を発表"
+        },
+        {
+          "id": "da56c3328cf80c9e178692c1796e209f13cf427a",
+          "author": "aws@amazon.com",
+          "description": "本日は、AWS IoT FleetWise を発表いたします。これは、自動車メーカーが車両データをほぼリアルタイムで収集、変換、クラウドに転送する作業をより簡単かつ費用対効果の高い方法で行えるようにする新しいサービスです。データがクラウドに送信されると、自動車メーカーは、個々の車両の問題をリモートで診断したり、車両のフリート状態を分析して潜在的な保証請求やリコールを防止したり、自動運転や先進運転支援システム (ADAS) を改善する機械学習モデルをトレーニングするために豊富なセンサーデータを収集したりするなどのタスクに使用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-fleetwise-transferring-vehicle-data-cloud/",
+          "publishedOn": "2021-12-07T07:20:44.000Z",
+          "wordCount": 289,
+          "title": "車両データをより効率的にクラウドに転送するための新しいサービスである AWS IoT FleetWise (プレビュー) を発表"
+        },
+        {
+          "id": "ca59d9f76e4cb70c141d5ba81e76de627c5f77aa",
+          "author": "aws@amazon.com",
+          "description": "Amazon Fraud Detector が AWS SOC 1、SOC 2、および SOC 3 レポートの対象になりました。当社の System and Organization Controls (SOC) レポートでコントロールの監査証拠を必要とするアプリケーションに、Amazon Fraud Detector が使用できるようになりました。例えば、AWS を使用して不正や不正使用を検出する場合、SOC レポートを利用することでそれらのユースケースのコンプライアンス要件を満たすことができます。AWS SOC Reports レポート は、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-fraud-detector-in-scope-aws-soc-reports/",
+          "publishedOn": "2021-12-07T07:07:44.000Z",
+          "wordCount": 304,
+          "title": "Amazon Fraud Detector が AWS SOC レポートの対象になりました"
+        },
+        {
+          "id": "e8adce97015f3c75291e202689cad7aae40e74f3",
+          "author": "aws@amazon.com",
+          "description": "AWS Database Migration Service (AWS DMS) は、データベースを AWS に迅速かつ安全に移行するのに役立つサービスです。AWS DMS Fleet Advisor は、AWS DMS の新機能であり、フリートの検出と分析を自動化することで、データベースと分析の移行プランを迅速に構築することを可能にします。AWS DMS Fleet Advisor は、多数のデータベースおよび分析サーバーを AWS に移行することを検討しているユーザー向けです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-dms-fleet-advisor/",
+          "publishedOn": "2021-12-07T07:01:44.000Z",
+          "wordCount": 297,
+          "title": "データベースおよび分析ワークロードの自動検出および分析のための AWS DMS Fleet Advisor (プレビュー) のご紹介"
+        },
+        {
           "id": "02f8701631809d5271ef8e79e76183d7dfe6ffeb",
           "author": "aws@amazon.com",
           "description": "Amazon Kinesis Data Streams は、サーバーレスストリーミングデータサービスであり、あらゆる規模のストリーミングデータを簡単にキャプチャ、処理、保存できます。Kinesis Data Streams オンデマンドは、Kinesis Data Streams の新しい容量モードであり、容量に関するプランなしで 1 分あたりギガバイト単位の書き込みおよび読み取りスループットを提供できます。1 回のクリックで新しいオンデマンドデータストリームを作成したり、既存のデータストリームをオンデマンドモードに変換したりできます。サーバー、ストレージ、またはスループットをプロビジョニングおよび管理する必要はありません。オンデマンドモードでは、プロビジョニングされたリソースではなく、使用したスループットに対して支払いが行われるため、簡単にコストとパフォーマンスのバランスをとることができます。",
