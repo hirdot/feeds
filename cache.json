@@ -2009,6 +2009,69 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "02f8701631809d5271ef8e79e76183d7dfe6ffeb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kinesis Data Streams は、サーバーレスストリーミングデータサービスであり、あらゆる規模のストリーミングデータを簡単にキャプチャ、処理、保存できます。Kinesis Data Streams オンデマンドは、Kinesis Data Streams の新しい容量モードであり、容量に関するプランなしで 1 分あたりギガバイト単位の書き込みおよび読み取りスループットを提供できます。1 回のクリックで新しいオンデマンドデータストリームを作成したり、既存のデータストリームをオンデマンドモードに変換したりできます。サーバー、ストレージ、またはスループットをプロビジョニングおよび管理する必要はありません。オンデマンドモードでは、プロビジョニングされたリソースではなく、使用したスループットに対して支払いが行われるため、簡単にコストとパフォーマンスのバランスをとることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/",
+          "publishedOn": "2021-12-07T06:55:46.000Z",
+          "wordCount": 305,
+          "title": "Amazon Kinesis Data Streams On-Demand を発表"
+        },
+        {
+          "id": "f380d8ea8b9e28cbe6086386f0ee564c6acf6f37",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift で VARBYTE データ型のサポートを開始しました。VARBYTE とは、可変長のバイナリ文字列を格納および表現する可変長データ型です。Amazon Redshift でテーブルに VARBYTE 列を作成するための Amazon Redshift のコア機能、SQL UDF、SQL DDL で使用する可変長バイナリデータをサポートできるようになったことを発表します。VARBYTE (n) 構文を使用すると、柔軟にサイズ (‘n’) を指定できます。n のデフォルト値は 64KB で、最大値は 1MB です。すべてのバイナリバイトが表示/印刷できるようにするために、VARBYTE 値は 16 進数値で表わされます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/",
+          "publishedOn": "2021-12-07T06:45:44.000Z",
+          "wordCount": 278,
+          "title": "Amazon Redshift で VARBYTE データ型のサポートを開始"
+        },
+        {
+          "id": "6d6032f4084d33136842ba7ba5068e6c83c550b4",
+          "author": "aws@amazon.com",
+          "description": "AWS Outposts がコスタリカ、エクアドル、モロッコ、ナイジェリア、およびベトナムで出荷可能となり、お客様のデータセンターおよびオンプレミス環境でインストールできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-outposts-new-regions/",
+          "publishedOn": "2021-12-07T06:29:44.000Z",
+          "wordCount": 262,
+          "title": "コスタリカ、エクアドル、モロッコ、ナイジェリア、ベトナムでの AWS Outposts の提供開始を発表"
+        },
+        {
+          "id": "2c0db4098dc0bd04c4d1be9fd33eda111cffc0b3",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS IoT TwinMaker を発表いたします。これは、デベロッパーが実際のシステムのデジタルツインを作成および使用して、より迅速かつ容易に運用をモニタリングして最適化する新しいサービスです。デジタルツインは、建物、工場、生産ライン、機器などの物理システムの仮想表現であり、それらが表すシステムの構造、状態、および動作を模倣するために、定期的に実世界のデータで更新を行います。デジタルツインのユースケースは多種多様ですが、ほとんどのお客様は、既存のデータを簡単に使用して運用についてより深く理解するところから始めたいと考えることでしょう。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-twinmaker-build-digital-twins/",
+          "publishedOn": "2021-12-07T06:23:44.000Z",
+          "wordCount": 333,
+          "title": "デジタルツインの構築を容易にするサービスである AWS IoT TwinMaker (プレビュー) の発表"
+        },
+        {
+          "id": "60ab42271a5208e00eccf5ff245e17ad1e7b5cf3",
+          "author": "aws@amazon.com",
+          "description": "AWS Control Tower が新しいガードレールを提供し、お客様のデータを保存および処理する物理的な場所をより詳細に制御できるようになりました。この概念は、データレジデンシーといいます。Control Tower のデータレジデンシーガードレールは、お客様のデータ、つまり AWS アカウントで AWS サービスにアップロードする個人データが特定の AWS リージョン以外に保存または処理されないようにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-control-tower-controls-data-residency-requirements/",
+          "publishedOn": "2021-12-07T06:17:44.000Z",
+          "wordCount": 296,
+          "title": "AWS Control Tower がデータ常駐要件を満たすためのコントロールの提供を開始"
+        },
+        {
+          "id": "ce6f48d435ee97d69b0f4100f8668c7bc9e5aed8",
+          "author": "aws@amazon.com",
+          "description": "これで、AWS Control Tower を使用して、選択した AWS リージョンの Control Tower 環境でのサービスとオペレーションを拒否できます。リージョン拒否機能は、既存の AWS Control Tower リージョン選択およびリージョン選択解除機能を補完し、追加リージョンに拡張する際の費用対効果を向上させる一方で、コンプライアンスおよび規制要件に対応する機能を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/",
+          "publishedOn": "2021-12-07T06:11:44.000Z",
+          "wordCount": 296,
+          "title": "AWS Control Tower を使用して任意の AWS リージョンのサービスとオペレーションを拒否"
+        },
+        {
+          "id": "06013726708677008c2eeb9a2558f922f93815e9",
+          "author": "aws@amazon.com",
+          "description": "本日は、ストレージに最適化された次世代の Amazon EC2 Im4gn および Is4gen インスタンスを発表いたします。これらのインスタンスは AWS Nitro システム上に構築されており、AWS Graviton2 プロセッサを搭載しています。これらは、AWS によってカスタム設計された新しい AWS Nitro SSD を備えた最大 30 TB のストレージを備えており、SSD から継続的に読み取りと書き込みを行う SQL/NoSQL データベース、検索エンジン、分散ファイルシステム、データ分析などの I/O 集約型ワークロードのストレージパフォーマンスを最大化します。AWS Nitro SSD は、第 3 世代のストレージ最適化インスタンスと比較して、Im4gn および Is4gen インスタンスで最大 60% 低いレイテンシーと最大 75% 低いレイテンシー変動を実現します。これらのインスタンスは、中規模から大規模のデータセットを備えており、高いコンピューティングパフォーマンスと高いネットワークスループットを利用できるリレーショナルデータベース (MySQL、MariaDB、PostgreSQL など) や NoSQL データベース (KeyDB、ScyllaDB、Cassandra) など、I/O 集約型ワークロードで 1 秒あたり処理されるトランザクション (TPS) の数を最大化します。また、検索エンジンや、ローカルストレージ上のデータセットに対して、非常に高速なアクセスを必要とするデータ分析ワークロードにも最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/",
+          "publishedOn": "2021-12-07T06:05:44.000Z",
+          "wordCount": 474,
+          "title": "AWS Graviton2 プロセッサを搭載した新しい Amazon EC2 Im4gn および Is4gen インスタンスを発表"
+        },
+        {
           "id": "a620211dbe819f2f30fd0f714b33789383a55ebb",
           "author": "aws@amazon.com",
           "description": "",
