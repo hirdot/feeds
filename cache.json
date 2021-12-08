@@ -5067,33 +5067,6 @@
           "publishedOn": "2021-11-08T14:33:54.000Z",
           "wordCount": 292,
           "title": "EMR Studio で異なるサブネットにある EMR クラスターに接続する機能の導入"
-        },
-        {
-          "id": "30e6879e0ffd0e515628f6ffa4a152c6ec53a994",
-          "author": "aws@amazon.com",
-          "description": "本日、業界初のフルマネージド RStudio 統合開発環境 (IDE) である RStudio on Amazon SageMaker のリリースを発表いたします。いくつかの簡単な手順で、現在の RStudio ライセンスを簡単に取得し、セルフマネージド RStudio 環境を \nAmazon SageMaker に移行することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-launches-fully-managed-rstudio-workbench/",
-          "publishedOn": "2021-11-08T14:14:37.000Z",
-          "wordCount": 328,
-          "title": "Amazon SageMaker がフルマネージド RStudio Workbench を開始"
-        },
-        {
-          "id": "9d307561faf21fd197ad13573fb6d89fa2acab66",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) が、Amazon RDS スナップショットを Amazon S3 にエクスポートするときに、別のアカウントから AWS Key Management Service (KMS) カスタマーマスターキー (CMK) を指定する機能を提供するようになりました。このオプションは、スナップショットを持つ各アカウントでキーを作成する必要をなくすことにより、お客様が KMS キーを整理および統合するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-rds-cross-account-kms-keys-exporting-rds-snapshots/",
-          "publishedOn": "2021-11-08T14:11:59.000Z",
-          "wordCount": 290,
-          "title": "Amazon RDS が、RDS スナップショットをエクスポートするためのクロスアカウント KMS キーのサポートを開始"
-        },
-        {
-          "id": "bd14469f64905a9d7e72e10fee2d00c69f1739bc",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub が、AWS PrivateLink を介して Amazon Virtual Private Cloud (VPC) エンドポイントをサポートするようになりました。これにより、VPC 内から Security Hub への API コールを、インターネットを通過することなく安全に開始できます。Security Hub での AWS PrivateLink のサポートが、Security Hub をご利用いただいているすべての AWS リージョンでご利用可能になりました。この新機能を試すには、VPC コンソール、API、または SDK に移動して、VPC で Security Hub の VPC エンドポイントを作成します。これにより、指定したサブネットに Elastic Network Interface が作成されます。インターフェイスには、Security Hub 宛てのトラフィックのエントリポイントとして機能するプライベート IP アドレスがあります。Security Hub と PrivateLink の統合の詳細については、こちらをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-security-hub-support-privatelink-private-access-security-hub-apis/",
-          "publishedOn": "2021-11-08T14:07:31.000Z",
-          "wordCount": 369,
-          "title": "AWS Security Hub が、Security Hub API へのプライベートアクセスのための AWS PrivateLink のサポートを追加"
         }
       ]
     },
