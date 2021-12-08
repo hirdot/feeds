@@ -1982,6 +1982,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "5ebc7db0c8a6ad6b2874d8c4934bc9032cd74053",
+          "author": "aws@amazon.com",
+          "description": "本日、NICE EnginFrame 2021.0 の一般提供を開始しました。NICE EnginFrame は、お客様が HPC ジョブの送信や管理を容易にする、使いやすいウェブフロントエンドです。今回の最新リリースでは、新しい AWS HPC コネクタ機能を使用して、オンプレミスと AWS の両方の環境で NICE EnginFrame を使用することができます。これまでは、オンプレミスで NICE EnginFrame を使ってこれらの作業を行い、AWS CLI や AWS マネジメントコンソールを使って HPC 用の AWS リソースを個別に管理していたかもしれませんが、NICE EnginFrame をご利用のお客様は、単一の統一されたインターフェイスを使用して、オンプレミスと AWS の両方の環境でこれらの HPC ワークフローをすべて管理できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/nice-enginframe-aws-hpc-cluster-management-parallelcluster/",
+          "publishedOn": "2021-12-08T22:32:44.000Z",
+          "wordCount": 336,
+          "title": "NICE EnginFrame が AWS ParallelCluster で AWS HPC クラスター管理を追加"
+        },
+        {
+          "id": "63553a6435c41cd1b119e88c06f54852fec98cfa",
+          "author": "aws@amazon.com",
+          "description": "AWS Graviton2 ベースの R6g データベースインスタンスが、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム) の各リージョンの Amazon Aurora MySQL-Compatible Edition および Amazon Aurora PostgreSQL-Compatible Edition で利用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/",
+          "publishedOn": "2021-12-08T22:22:44.000Z",
+          "wordCount": 326,
+          "title": "AWS Graviton2 プロセッサを搭載した Amazon Aurora R6g インスタンスが、欧州 (ミラノ)、欧州 (パリ)、および欧州 (ストックホルム) リージョンで利用可能に"
+        },
+        {
           "id": "35fc3d0bd71e4dbba16013d11595883d6b700081",
           "author": "aws@amazon.com",
           "description": "Amazon Redshift は、Amazon Redshift Query Editor V2 の SQL Notebooks (プレビュー) のサポートにより、複数の SQL クエリの整理、ドキュメント化、共有を簡素化します。新しい Notebooks のインターフェイスにより、データアナリストやデータサイエンティストなどのユーザーは、複数の SQL クエリや注釈を 1 つのドキュメントに整理して、より簡単にクエリを作成することができます。また、Notebooks を共有して、チームメンバーと共同作業を行うこともできます。",
@@ -5121,24 +5139,6 @@
           "publishedOn": "2021-11-09T20:01:05.000Z",
           "wordCount": 305,
           "title": "AWS サーバーレスアプリケーションとお気に入りの CI/CD システムのための CI/CD 設定の簡素化 – 一般提供"
-        },
-        {
-          "id": "4c0080ce20233ea5f8f24db746a3e317a360deea",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Studio でお客様がカスタム URL のエンドポイントや、特定のヘッダーを必要とするエンドポイントへのテスト推論のリクエストを行えるようになりました。Amazon SageMaker は、ML 専用に構築された幅広い一連の機能をまとめて提供することにより、データサイエンティストとデベロッパーが高品質の機械学習 (ML) モデルを迅速に準備、構築、トレーニング、およびデプロイするのを支援します。Amazon SageMaker Studio は単独のウェブベースビジュアルインターフェイスを装備し、そこではすべてのML開発ステップを実行できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/",
-          "publishedOn": "2021-11-09T10:34:44.000Z",
-          "wordCount": 295,
-          "title": "Amazon SageMaker は SageMaker Studio からのカスタムドメインやヘッダーを使った推論テストをサポートするようになりました"
-        },
-        {
-          "id": "cb9c2cd30a3e5cdd672fd4e71d991de607e3a07d",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda は AWS Lambda 関数のアカウントとは異なる AWS アカウントの Amazon ECR リポジトリに保存されたコンテナイメージで、関数の作成や更新ができるようになりました。以前は AWS Lambda 関数と同じ AWS アカウントの Amazon ECR リポジトリに保存されているコンテナイメージにのみアクセスできました。Amazon ECR リポジトリに一元化されたアカウントを使用している場合、コンテナイメージを Lambda 関数と同じアカウントの Amazon ECR リポジトリにコピーする必要がありました。Amazon ECR リポジトリに保存されているコンテナイメージに、別のアカウントでアクセスすることで、このワークフローを簡単にすることができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/",
-          "publishedOn": "2021-11-09T10:32:04.000Z",
-          "wordCount": 308,
-          "title": "AWS Lambda は Amazon Elastic Container Registry からのクロスアカウントコンテナイメージのプルをサポートするようになりました"
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-08T22:02:23.840Z</updated>
+    <updated>2021-12-08T23:03:12.518Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NICE EnginFrame が AWS ParallelCluster で AWS HPC クラスター管理を追加]]></title>
+        <id>5ebc7db0c8a6ad6b2874d8c4934bc9032cd74053</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/nice-enginframe-aws-hpc-cluster-management-parallelcluster/"/>
+        <updated>2021-12-08T22:32:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、NICE EnginFrame 2021.0 の一般提供を開始しました。NICE EnginFrame は、お客様が HPC ジョブの送信や管理を容易にする、使いやすいウェブフロントエンドです。今回の最新リリースでは、新しい AWS HPC コネクタ機能を使用して、オンプレミスと AWS の両方の環境で NICE EnginFrame を使用することができます。これまでは、オンプレミスで NICE EnginFrame を使ってこれらの作業を行い、AWS CLI や AWS マネジメントコンソールを使って HPC 用の AWS リソースを個別に管理していたかもしれませんが、NICE EnginFrame をご利用のお客様は、単一の統一されたインターフェイスを使用して、オンプレミスと AWS の両方の環境でこれらの HPC ワークフローをすべて管理できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton2 プロセッサを搭載した Amazon Aurora R6g インスタンスが、欧州 (ミラノ)、欧州 (パリ)、および欧州 (ストックホルム) リージョンで利用可能に]]></title>
+        <id>63553a6435c41cd1b119e88c06f54852fec98cfa</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/"/>
+        <updated>2021-12-08T22:22:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Graviton2 ベースの R6g データベースインスタンスが、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム) の各リージョンの Amazon Aurora MySQL-Compatible Edition および Amazon Aurora PostgreSQL-Compatible Edition で利用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google、新しいレイアウトのトップニュースをPC検索に導入]]></title>
         <id>https://www.suzukikenichi.com/blog/?p=11782</id>
@@ -5773,26 +5793,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[マイクロソフトは、Microsoft Azure上で人為的に障害や性能低下などを発生させることで、アプリケーションの耐障害性を確認し改善できる、いわゆるカオスエンジニアリングを実現する新サービス「Azure Chaos Studio」をプレ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker は SageMaker Studio からのカスタムドメインやヘッダーを使った推論テストをサポートするようになりました]]></title>
-        <id>4c0080ce20233ea5f8f24db746a3e317a360deea</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/"/>
-        <updated>2021-11-09T10:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Studio でお客様がカスタム URL のエンドポイントや、特定のヘッダーを必要とするエンドポイントへのテスト推論のリクエストを行えるようになりました。Amazon SageMaker は、ML 専用に構築された幅広い一連の機能をまとめて提供することにより、データサイエンティストとデベロッパーが高品質の機械学習 (ML) モデルを迅速に準備、構築、トレーニング、およびデプロイするのを支援します。Amazon SageMaker Studio は単独のウェブベースビジュアルインターフェイスを装備し、そこではすべてのML開発ステップを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda は Amazon Elastic Container Registry からのクロスアカウントコンテナイメージのプルをサポートするようになりました]]></title>
-        <id>cb9c2cd30a3e5cdd672fd4e71d991de607e3a07d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/"/>
-        <updated>2021-11-09T10:32:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda は AWS Lambda 関数のアカウントとは異なる AWS アカウントの Amazon ECR リポジトリに保存されたコンテナイメージで、関数の作成や更新ができるようになりました。以前は AWS Lambda 関数と同じ AWS アカウントの Amazon ECR リポジトリに保存されているコンテナイメージにのみアクセスできました。Amazon ECR リポジトリに一元化されたアカウントを使用している場合、コンテナイメージを Lambda 関数と同じアカウントの Amazon ECR リポジトリにコピーする必要がありました。Amazon ECR リポジトリに保存されているコンテナイメージに、別のアカウントでアクセスすることで、このワークフローを簡単にすることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
