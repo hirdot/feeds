@@ -1452,6 +1452,15 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/takaneko/2021_12_08/113905",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/11/shell_navi_cheetsheets_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>事業推進チームのtakanekoです。 はじめに 最近(といっても3月ごろですが)、AWS ECSでexecute-commandによるコンテナアクセスが可能になりました。sshログインの代わりとしてよく利用するのですが、コマンドがすごく長いです 💦 execute-commandでbashを起動する例 aws --profile &#60;AWSプロファイル名&#62; ecs execute-command --cluster &#60;クラスタ名&#62; --task &#60;調べるの面倒くさいタスクID&#62; --container app --interactive --command /bin/bash  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/takaneko/2021_12_08/113905\" data-wpel-link=\"internal\" target=\"_self\">naviで運用コマンドチートシートを作る</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/takaneko/2021_12_08/113905",
+          "publishedOn": "2021-12-08T08:30:46.000Z",
+          "wordCount": 553,
+          "title": "naviで運用コマンドチートシートを作る"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_12_07/114109",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/railswatch_20211207_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_12_07/114109\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: 改訂2版『プロを目指す人のためのRuby入門』、『研鑽Rubyプログラミング β版』ほか（20211207後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",

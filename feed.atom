@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-08T08:04:18.043Z</updated>
+    <updated>2021-12-08T09:02:55.008Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[naviで運用コマンドチートシートを作る]]></title>
+        <id>https://techracho.bpsinc.jp/takaneko/2021_12_08/113905</id>
+        <link href="https://techracho.bpsinc.jp/takaneko/2021_12_08/113905"/>
+        <updated>2021-12-08T08:30:46.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/shell_navi_cheetsheets_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>事業推進チームのtakanekoです。 はじめに 最近(といっても3月ごろですが)、AWS ECSでexecute-commandによるコンテナアクセスが可能になりました。sshログインの代わりとしてよく利用するのですが、コマンドがすごく長いです 💦 execute-commandでbashを起動する例 aws --profile &#60;AWSプロファイル名&#62; ecs execute-command --cluster &#60;クラスタ名&#62; --task &#60;調べるの面倒くさいタスクID&#62; --container app --interactive --command /bin/bash  [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/takaneko/2021_12_08/113905" data-wpel-link="internal" target="_self">naviで運用コマンドチートシートを作る</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第695回　入門BPF CO-RE ── Ubuntu Weekly Recipe]]></title>
         <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0695</id>
