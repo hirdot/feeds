@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-08T10:03:22.772Z</updated>
+    <updated>2021-12-08T22:02:23.840Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google、新しいレイアウトのトップニュースをPC検索に導入]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11782</id>
+        <link href="https://www.suzukikenichi.com/blog/google-rolls-out-new-layouts-for-top-stories-on-desktop-search/"/>
+        <updated>2021-12-08T21:45:10.000Z</updated>
+        <summary type="html"><![CDATA[PC 検索のトップニュースに新しいレイアウトを Google は採用した。 2 カラムで、縦 2 列に記事が並ぶ。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift Query Editor V2 での SQL Notebooks サポートのプレビューを発表]]></title>
+        <id>35fc3d0bd71e4dbba16013d11595883d6b700081</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/"/>
+        <updated>2021-12-08T21:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、Amazon Redshift Query Editor V2 の SQL Notebooks (プレビュー) のサポートにより、複数の SQL クエリの整理、ドキュメント化、共有を簡素化します。新しい Notebooks のインターフェイスにより、データアナリストやデータサイエンティストなどのユーザーは、複数の SQL クエリや注釈を 1 つのドキュメントに整理して、より簡単にクエリを作成することができます。また、Notebooks を共有して、チームメンバーと共同作業を行うこともできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Resource Access Manager がグローバルリソースタイプのサポートを有効化]]></title>
+        <id>c1b50306fcec4606f2d9ce173f35f38e06d7e62a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/"/>
+        <updated>2021-12-08T21:14:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Resource Access Manager (RAM) は、グローバルリソースタイプをサポートするようになり、グローバルリソースを一度プロビジョニングして、そのリソースをアカウント間で共有できるようになりました。グローバルリソースは、複数の AWS リージョンで使用できるリソースです。例えば、AWS とオンプレミスネットワークを含むマネージドネットワークである AWS Cloud WAN コアネットワークと RAM リソース共有を作成し、組織全体で共有できるようになりました。その結果、クラウド WAN コアネットワークを使用して、リージョン間およびアカウント間で統合されたグローバルネットワークを一元的に運用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Pinpoint にワンタイムパスワード (OTP) 管理機能を追加]]></title>
+        <id>230bb74fed5fb4928a3a1f1e9ab95212ee2c2a86</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-pinpoint-otp/"/>
+        <updated>2021-12-08T20:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Pinpoint にワンタイムパスワード (OTP) 管理機能が追加されました。OTP とは、自動的に生成される文字列で、1 回のログインやトランザクションごとにユーザーを認証するものです。OTP 機能では、アプリケーション、サイト、サービスに OTP ワークフローを簡単に追加することができます。この機能を使用して、新しい OTP コードを生成し、SMS テキストメッセージとして受信者に送信することができます。その後、アプリケーションから Amazon Pinpoint API を呼び出して、受信者が入力した OTP コードが有効かどうかを検証することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS WAF が CloudWatch Log へのサポートと S3 バケットに直接ロギングする機能を追加]]></title>
+        <id>85fc5b7ed197de8b23c89dbf37474a93b5af8f12</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/"/>
+        <updated>2021-12-08T20:45:45.000Z</updated>
+        <summary type="html"><![CDATA[AWS WAF のログを CloudWatch Logs のロググループや Amazon S3 のバケットに直接送信できるようになりました。今回の発表では、既にサポートされていた Amazon Kinesis Data Firehose に加えて、WAF ログのオプションの送信先を新たに 2 つ追加しています。WAF のログ保存先として CloudWatch Logs を使用すると、CloudWatch Logs Insights を使って WAF コンソールで直接 WAF ログを検索および分析することができます。CloudWatch Logs Insights を使用すると、個々のログの表示、集約されたレポートの作成、視覚化の作成、ダッシュボードの構築が可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS と Open 3D Foundation のパートナーが Open 3D Engine 初の安定版リリースを発表]]></title>
+        <id>077cffaa5f62c8e58890777c6d67e5e4914a5029</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/"/>
+        <updated>2021-12-08T20:17:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS と Open 3D Foundation (O3DF) は、Open 3D Engine (O3DE) の最初の安定したリリースを発表しました。これは、デベロッパーが AAA ゲーム、動画制作用の映画品質の 3D ワールド、ライセンス料や商業条件に邪魔されないゲーム以外のユースケースのシミュレーションを構築できるようにする、Apache 2.0 ライセンスのマルチプラットフォーム 3D エンジンです。O3DF の形成と 7 月の O3DE デベロッパープレビューのリリース以来、さまざまな業界の 250 人を超えるデベロッパーが、デベロッパー機能の追加、安定性の向上、および O3DE をライブゲームやシミュレーションで使用できるようにするためのパフォーマンス増加のために、数千のプルリクエスト、問題、および数百万行のコードの変更に貢献してきました。Amazon Lumberyard の後継として、O3DE は、デベロッパーとコンテンツクリエーターに、幅広い 3D コンテンツ作成ツールのセットと、AccelByte、Adobe、Apocalypse Studios、Audiokinetic、AWS、Backtrace.io、Carbonated、Futurewei、GAMEPOCH、Genvid Technologies、Hadean、HERE Technologies、Huawei、インテル、International Game Developers Association、KitBash3D、Kythera AI、Niantic、Open Robotics、PopcornFX、Red Hat、Rochester Institute of Technology、SideFX、Tafi、TLM Partners、Wargaming を提供しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS SDK for Swift (デベロッパープレビュー)]]></title>
+        <id>2517f24daeff1753a81ef61266657903dd6dae9e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-sdk-swift-developer-preview/"/>
+        <updated>2021-12-08T19:59:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS SDK for Swift のデベロッパープレビューを発表することを嬉しく思います。AWS SDK for Swift は、Swift の簡潔な構文、マルチプラットフォーム機能、および Swift の新しい同時実行機能を利用するための機能拡張を慣用的にサポートするようにゼロから設計されています。この初期リリースは iOS、macOS、Linux をサポートしており、将来的には tvOS、watchOS、Catalyst、Windows などの他のプラットフォームもサポートする予定です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が AWS CloudTrail データイベントで Hyperplane Elastic Network Interface (ENI) ID のログを開始]]></title>
+        <id>00cc4210efd188e6dff4a985ebbc7075e10ff516</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/"/>
+        <updated>2021-12-08T19:53:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda は、Amazon Virtual Private Cloud (VPC) で実行される関数について、AWS CloudTrail のデータイベントに Hyperplane Elastic Network Interface (ENI) ID をログするようになりました。お客様は、AWS CloudTrail のデータイベントに含まれる ENI ID を利用して、アプリケーションのセキュリティを監査し、許可された関数のみが共有された Hyperplane ENI を介して VPC リソースにアクセスしていることを確認することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify Studio のご紹介]]></title>
+        <id>384ad37f4cb3a6deaed5dacc14d63cbbf06e1248</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-amplify-studio/"/>
+        <updated>2021-12-08T19:45:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Amplify は、フロントエンドデベロッパーに最小限のコーディングで UI 開発を加速化する新機能 (公開プレビュー) を提供すると同時に、Amplify の強力なバックエンド構成および管理機能を統合するビジュアル開発環境である AWS Amplify Studio を発表しました。Amplify Studio は、Figma で作成されたデザインを人間が読める形式の React UI コンポーネントコードに自動的に変換します。Amplify Studio 内で、デベロッパーは UI コンポーネントをアプリケーションのバックエンドデータに視覚的に接続できます。バックエンドを構成および管理するために、Amplify Admin UI の既存の機能は今後 Amplify Studio の一部となり、デベロッパーがフルスタックアプリケーションをより高速に構築できるようにする統合インターフェースを提供します。詳細はこちら。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Well-Architected Framework の新しいサステナビリティの柱]]></title>
+        <id>361762cbfe3f1e3fc8521b668192a46a15f209c4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/new-sustainability-pillar-aws-well-architected-framework/"/>
+        <updated>2021-12-08T19:25:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Well-Architected Framework は、2015 年以来 AWS のお客様がクラウドワークロードを改善するのを支援してきました。このフレームワークは、設計原則、課題と、優れた運用効率、セキュリティ、信頼性、パフォーマンス効率、コスト最適化の複数の柱にわたるベストプラクティスに照らしてワークロードをレビューできます。本日、クラウドコンピューティングの環境に関するベストプラクティスを使用して、組織がワークロードを学習、測定、改善できるように、新しい AWS Well-Architected のサステナビリティの柱を紹介します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly が新しい日本語のニューラル音声 (男性) 「Takumi」を導入]]></title>
+        <id>2931526d711cccfa443b1ffd3a0df4626e14c81d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/"/>
+        <updated>2021-12-08T19:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly の日本人男性のテキスト読み上げ (TTS) 音声のニューラルバージョン「Takumi」の一般提供の開始を発表します。Takumi のニューラル TTS は、自然で親しみやすく、スムーズに聞こえます。今回の発売で、Mizuki スタンダード、Takumi スタンダード、Takumi ニューラルの 3 種類の個性的な日本語 TTS 音声を選択することができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS SDK for Kotlin (デベロッパープレビュー)]]></title>
+        <id>eed43e736d9852fad74463b4156de38ebf08e20e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-sdk-kotlin-developer-preview/"/>
+        <updated>2021-12-08T19:09:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS SDK for Kotlin のデベロッパープレビューを発表することを嬉しく思います。AWS SDK for Kotlin を使用するとデベロッパーは、同時使用のネイティブコルーチンサポートなど、慣用的な Kotlin を使用して AWS のサービスを操作できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が Amazon Redshift Console に RA3 セルフサービスの RI 移行機能を搭載。]]></title>
+        <id>9538df1b7fb35c1722827640723bb0862bca6629</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-redshift-ra3-ri-migration-console/"/>
+        <updated>2021-12-08T18:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、シングルノードの RA3.xlplus クラスターを実行する機能を開始しました。Amazon Redshift RA3 クラスターは、Amazon Redshift Managed Storage (RMS)、データ共有、AQUA など、多くの重要な機能をサポートしています。シングルノードの RA3.xlplus クラスターでは、最先端の Redshift の機能を低コストで利用することができます。シングルノードの DS2.xlarge またはシングルノードの DC2.large クラスターを、クロスインスタンスの Classic Resize (従来のサイズ変更) 機能の一部として、シングルノードの RA3.xlplus クラスターに移行することができます。また、Amazon Redshift コンソール、CLI または API のリザーブドインスタンス (RI) 移行機能の一部として、クロスインスタンス Classic Resize を使用して、RI 契約の開始日または終了日を変更することなく、シングルノードの DS2.xlarge RI クラスターを RA3.xlplus RI クラスターに移行することができ、追加料金も発生しません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS 向けの Amazon EC2 M1 Mac インスタンスの発表]]></title>
+        <id>84f8d68e5f5500559ef306efc9e9a3d97cb5c670</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-m1-mac-instances-macos/"/>
+        <updated>2021-12-08T18:48:44.000Z</updated>
+        <summary type="html"><![CDATA[本日より、macOS 用の Amazon Elastic Compute Cloud (EC2) M1 Mac インスタンスのプレビューがご利用いただけます。Apple シリコン Mac miniコンピューター上に構築され、AWS Nitro System を搭載した、EC2 M1 Mac インスタンスは、iOS および macOS アプリケーション構築ワークロード用の x86 ベースの EC2 Mac インスタンスよりも最大 60％ 優れたコストパフォーマンスを提供します。EC2 M1 Mac インスタンスは、AWS で初めてネイティブ ARM64 macOS 環境を有効にして、Apple アプリケーションを開発、構築、テスト、デプロイ、および実行します。MacOS アプリケーションを再設計して Apple シリコン Mac をネイティブにサポートするデベロッパーは、ARM64 macOS 環境を数分以内にプロビジョニングし、必要に応じて容量を動的に拡張し、AWS の従量制料金を利用して、より高速な構築と便利な分散テストを行えるようになりました。EC2 M1 Mac インスタンスのプレビューの詳細と使用開始はこちら。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Model Registry が、エンドポイントの可視化、カスタムメタデータ、モデルメトリクスのサポートを開始]]></title>
+        <id>270a241dab411d1cfb3696b07ecf188fc9c7c9a5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/"/>
+        <updated>2021-12-08T18:42:44.000Z</updated>
+        <summary type="html"><![CDATA[SageMaker Model Registry は、お客様の機械学習モデルのカタログ化を可能にする目的で作られたサービスで、これにより Studio UI からのエンドポイントの可視化、カスタムメタデータの保存、特定のモデルに関する幅広いメトリクスの表示/保存が可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeRTOS 向けの拡張メンテナンスプランの発表]]></title>
+        <id>9dae2dcb89e2d51de246ae19eb56d8378463935a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/extended-maintenance-plan-freertos/"/>
+        <updated>2021-12-08T18:36:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、マイクロコントローラーのためのリアルタイムオペレーティングシステムである FreeRTOS の拡張メンテナンスプランを発表します。FreeRTOS 拡張メンテンナンス (EMP) を使用すると、組み込みデベロッパーは、選択した FreeRTOS 長期サポート (LTS) バージョンの重大なバグ修正とセキュリティパッチを、最初の LTS 期間の満了後最大 10 年間受け取ることができます。FreeRTOS EMP は、お客様がマイクロコントローラーベースのデバイスを何年にもわたって保護し、オペレーティングシステムのアップグレードコストを節約し、デバイスへのパッチ適用に関連するリスクを軽減するのに役立ちます。FreeRTOS EMP は、FreeRTOS LTS の対象となるライブラリに適用されるため、デベロッパーは、コストのかかるバージョンアップグレードを計画することなく、機能の安定性、セキュリティパッチ、および重大なバグ修正を提供するバージョンを引き続き使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager Fleet Manager がインスタンスプロセスの表示と管理をコンソールベースで提供開始]]></title>
+        <id>83cddbe5d1d30026c5c75abcca4d4d3441495df3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-systems-manager-fleet-console-instance-processes/"/>
+        <updated>2021-12-08T18:28:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager (SSM) の機能である Fleet Manager は、IT 管理者によるリモートサーバー管理作業の合理化とスケールを支援する機能ですが、今回、インスタンス上のプロセスを表示して管理するための簡単なコンソールベースのエクスペリエンスを提供します。この新機能により、お客様はインスタンス上で実行しているプロセスを統合的に把握することができ、リソースの消費量をリアルタイムで評価して、スタートおよび停止のアクションによってオペレーションを最適化することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が Construct Hub の一般提供を発表]]></title>
+        <id>2da2c412ca6f028af1b67a6f8ff363d501a3e630</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-construct-hub-availability/"/>
+        <updated>2021-12-08T18:22:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、クラウド開発を簡素化するためのオープンソースの構成ライブラリのレジストリである Construct Hub の一般提供を発表します。コンストラクトは、Cloud Development Kit (CDK) の再利用可能なビルディングブロックです。AWS Cloud Development Kit (CDK) の CDK コンストラクト、Kubernetes (CDK8s) のCDK、Terraform (CDKtf) の CDK、およびその他のコンストラクトベースのツールを見つけて共有します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud WAN プレビューのご紹介]]></title>
+        <id>cd6948f3dade798ac2de3ef38bec6c7eaaac948a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/introducing-aws-cloud-wan/"/>
+        <updated>2021-12-08T18:16:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は AWS Cloud WAN のプレビューリリースを発表しました。これは、クラウド内のリソースとオンプレミス環境の間で実行されるトラフィックを管理する統合グローバルネットワークの構築、管理、およびモニタリングを支援する新しいワイドエリアネットワーキング (WAN) サービスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS SDK for Rust (デベロッパープレビュー)]]></title>
+        <id>5aa7c2b71edf14a4756186ca44b29acd22f591d5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/"/>
+        <updated>2021-12-08T18:10:44.000Z</updated>
+        <summary type="html"><![CDATA[AWS SDK for Rust のデベロッパープレビューを発表することを嬉しく思います。AWS SDK for Rust を使用すると、デベロッパーは AWS のサービスを操作し、Rust のコードとベストプラクティスに従った API を楽しむことができます。async/await、ノンブロッキング IO、ビルダーなどの最新の Rust 言語機能を利用します。SDK は、Tokio、Tracing、Hyper などの Rust エコシステムで人気のあるライブラリとも統合されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しいコミュニティ主導型の質疑回答サービス、AWS re:Post のご紹介]]></title>
+        <id>b40c56f3c938b682747bc176f494de5eb0b0fb48</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-repost-community-question-answer-service/"/>
+        <updated>2021-12-08T17:51:44.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) は、AWS のお客様が技術的な障害を取り除き、イノベーションを加速し、運用を強化するのに役立つ、コミュニティ主導の新しい質問と回答サービスである AWS re:Post (re:Post) の提供を発表しました。AWS re:Post を使用すると、AWS でのワークロードの設計、構築、デプロイ、運用に関連する質問をしたり、AWS のお客様、パートナー、従業員などのコミュニティのエキスパートから回答を得たりできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud Development Kit (AWS CDK) v2 の一般提供開始]]></title>
+        <id>cad9faa9f61b2681f4405992885af5388a143e1c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/"/>
+        <updated>2021-12-08T17:40:44.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript、TypeScript、Java、Python、.NET、Go (プレビュー) 用の AWS Cloud Development Kit (AWS CDK) v2 が単一のパッケージで一般提供されるようになり、CDK を簡単に使用して今後進化する新しいバージョンに合わせて、最新の状態に保つことができます。AWS CDK v2 において AWS Construct ライブラリが aws-cdk-lib という名前で 1 つのパッケージに統合され、使用する各 AWS のサービスごとのパッケージをダウンロードする必要がなくなります。独自の CDK Construct ライブラリを作成する場合は、最小限の依存関係であるこの 1 つのパッケージへの依存のみとなり、AWS CDK のバージョンのうちライブラリ利用者が使うもののみを選ばせれば十分になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 1.23が正式リリース。IPv4/v6デュアルスタック、水平PodオートスケーラーAPIv2が安定版、Kubelet CRI APIがベータ版になど]]></title>
+        <id>https://www.publickey1.jp/blog/21/kubernetes_123ipv4v6podapiv2kubelet_cri_api.html</id>
+        <link href="https://www.publickey1.jp/blog/21/kubernetes_123ipv4v6podapiv2kubelet_cri_api.html"/>
+        <updated>2021-12-08T17:17:36.000Z</updated>
+        <summary type="html"><![CDATA[コンテナオーケストレーションを実現するKubernetesの最新版となる「Kubernetes 1.23」正式版がリリースされました。 下記はRancher Labsによるツイート。今回のリリースリードはRancher Labsの方だったよ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Forms APIがオープンベータに。プログラミングでGoogleフォームを作成、回答を取得可能]]></title>
+        <id>https://www.publickey1.jp/blog/21/google_forms_apigoogle.html</id>
+        <link href="https://www.publickey1.jp/blog/21/google_forms_apigoogle.html"/>
+        <updated>2021-12-08T15:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、アンケートやクイズなどを手軽に作成できるGoogle Formsを、API経由で操作する「Google Forms API」がオープンベータとして公開されたことを発表しました。10月に発表された時点では限定ベータでした。 T...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自作キーボードの魅力と PRK Firmware]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/custom-keyborads-appeal-and-prk-firmware</id>
+        <link href="https://blog.agile.esm.co.jp/entry/custom-keyborads-appeal-and-prk-firmware"/>
+        <updated>2021-12-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、@kasumi8pon です。 この記事は、PRK Firmware Advent Calendar 2021 と ESM Advent Calendar 2021 9日目の記事です。 わたしが感じている自作キーボードの魅力 わたしは昨年の 9 月に初めて自作キーボードの組み立てをして、今メインでつかっているこちらのキーボードはもう 1 年以上使っています。 my keyboard そんなわたしが感じている自作キーボードの魅力をお伝えします。（初級者のわたしがまだ味わっていない魅力は他にもたくさんありそうです。光らせるとか、1 から自分で設計できるとか……） 自分に合う形が選べる …]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS、「AWS Amplify Studio」を発表]]></title>
         <id>18e3ad4b6018c46530d4939ab9fbcad90b0f4fad</id>
@@ -5543,137 +5793,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[AWS Lambda は AWS Lambda 関数のアカウントとは異なる AWS アカウントの Amazon ECR リポジトリに保存されたコンテナイメージで、関数の作成や更新ができるようになりました。以前は AWS Lambda 関数と同じ AWS アカウントの Amazon ECR リポジトリに保存されているコンテナイメージにのみアクセスできました。Amazon ECR リポジトリに一元化されたアカウントを使用している場合、コンテナイメージを Lambda 関数と同じアカウントの Amazon ECR リポジトリにコピーする必要がありました。Amazon ECR リポジトリに保存されているコンテナイメージに、別のアカウントでアクセスすることで、このワークフローを簡単にすることができるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REALFORCE R3にしました]]></title>
-        <id>https://techracho.bpsinc.jp/baba/2021_11_09/113315</id>
-        <link href="https://techracho.bpsinc.jp/baba/2021_11_09/113315"/>
-        <updated>2021-11-09T05:07:17.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/realforce_r3_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>最近スマホをMotorola Edge 20 Fusionに買い替えたbabaです。Pixel 5aを一度買ったのですが、ディスプレイのあまりの黄色さに10日ほどで返品してしまいました。Pixel 6もかなり黄色いですし、他の多くのAndroidと違ってPixelには色温度設定がないのは、是非とも改善して欲しいところです。 この度メインキーボードを新発売のREALFORCE R3 R3HC13に変更したので、写真と購入初日の感想を記録しておきます。多分6台目くらいのリアフォです。 個人的なキーボードの好み JIS配列 慣れの問題と、USだと必要なキーが足りないのでJIS派です。 無変換/変換/ひらがなキーをそれぞ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/baba/2021_11_09/113315" data-wpel-link="internal" target="_self">REALFORCE R3にしました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lake Formation が AWS PrivateLink のサポートを開始]]></title>
-        <id>7c8efe9f6e4f8121450f09822a90a2a5bfffd7fc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/"/>
-        <updated>2021-11-09T04:47:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lake Formation が、Virtual Private Cloud (VPC) 内のデータレイクにアクセスするためのマネージド VPC エンドポイント (AWS PrivateLink を利用) をサポートするようになりました。  AWS Lake Formation マネージドエンドポイントを使用すると、プライベート IP 接続により、VPC 内およびオンプレミスのクライアントアプリケーションとサービスのデータレイクへのアクセスを承認できるようになりました。また、VPC エンドポイントポリシーを設定して、サービスが AWS Lake Formation にアクセスする方法をよりきめ細かくコントロールすることも可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora Global Database が AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>1219ff61f85bcbe124290ddce785ae783e94e5ff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-aurora-global-database-aws-govcloud/"/>
-        <updated>2021-11-09T04:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora Global Database は、Amazon Aurora の機能です。グローバルに提供するサービス規模のアプリケーションに対応できるように設計されています。単一の Aurora データベースが複数の AWS リージョンにまたがり使用することを可能にし、迅速なレプリケーションにより、低レイテンシーでグローバルな読み込みとリージョン全体での災害復旧を可能にします。本日のリリースにより、Amazon Aurora Global Database は AWS GovCloud (米国東部および米国西部) リージョンで利用可能になります。Amazon Aurora Global Database のお客様は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョン間でレプリケーションできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup Vault Lock が AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで利用可能に]]></title>
-        <id>6d3672cab3e713cc486c12c0eec2333ae403b86a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-vault-lock-available-aws-china-regions/"/>
-        <updated>2021-11-09T04:46:20.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup Vault Lock が、Sinnet が運営する Amazon Web Services 中国 (北京) リージョンと、NWCD が運営する Amazon Web Services 中国 (寧夏) リージョンで利用できるようになりました。AWS Backup を使用すると、お客様は、フルマネージドかつ費用対効果の高いソリューションを通じて、AWS のサービス全体のデータ保護を一元化および自動化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が Red Hat ナレッジベースへのアクセスをサポート開始]]></title>
-        <id>7168b02dd041141127f6d6bcd683a3ee7c3dba40</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/"/>
-        <updated>2021-11-09T04:36:55.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 で Red Hat Enterprise Linux を含むサブスクリプションを実行しているお客様は、追加費用なしで Red Hat ナレッジベースにシームレスにアクセスできるようになります。このナレッジベースは、お客様が技術的な問題を解決するのに役立つ記事、よくある質問 (FAQ)、およびベストプラクティスガイドなどのライブラリです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Time Sync Service でタイムスタンプの生成と比較がより簡単に]]></title>
-        <id>756a33bc03a4e1aa3edbbbbf08517cc4ba2f71b8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/"/>
-        <updated>2021-11-09T03:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Time Sync Service では、オープンソースのデーモンおよびライブラリである ClockBound を使用して、Amazon EC2 インスタンスからタイムスタンプを簡単に生成および比較できるようになりました。この情報は、それぞれのインスタンスの地理的な場所にかかわらず、EC2 インスタンス全体でイベントとトランザクションの順序および一貫性を判断するのに役立ちます。ClockBound は、Amazon EC2 インスタンスのクロックエラーバウンドを計算してそのクロック精度を測定し、インスタンスの現在のクロックに対して、特定のタイムスタンプが過去か未来かを確認できるようにします。ClockBound は、呼び出しごとに、2 つの情報 (現在の時刻および関連する絶対エラー範囲) を同時に返します。これは、ClockBound タイムスタンプの実際の時間が設定された範囲内にあることを意味します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift が SQLAlchemy および Apache Airflow オープンソースフレームワークのネイティブサポートを発表]]></title>
-        <id>fc83e7cf3a053ec22c247ef13fb32295a22cebc8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/"/>
-        <updated>2021-11-09T03:33:29.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースの SQLAlchemy (sqlalchemy-redshift) と Apache Airflow フレームワークのネイティブサポートが Amazon Redshift で利用可能となりました。SQLAlchemy 向けの更新された Amazon Redshift ダイアレクトは、Amazon Redshift のオープンソース Python ドライバーをサポートします。このリリースでは、アイデンティティプロバイダー (IdP) でシングルサインオンを使用して Redshift クラスターに接続し、認証情報の管理の手間を省くことができます。SQLAlchemy および Apache Airflow の最新の Redshift ダイアレクトに移行する際の TIMESTAMPTZ および TIMETZ といったデータ型の使用など、Amazon Redshift の新しい機能を使用することもできます。これらの機能は、sqlalchemy-redshift バージョン 0.8.6 以降で使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DevOps Guru が Amazon EKS メトリクスのカバレッジを拡大し、クラスターごとのメトリクスビューを追加]]></title>
-        <id>795b540bbcf95cd9e5aa61d3da9969648c21b487</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/"/>
-        <updated>2021-11-09T03:32:42.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DevOps Guru は、Amazon Elastic Kubernetes Service (EKS) によって管理されるクラスター用のノードおよびポッドレベルで追加のメトリクスをサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS on AWS Outposts がデータベースログの Amazon CloudWatch へのエクスポートのサポートを開始]]></title>
-        <id>e398c9e89601f4aead33aa6669547d05e2f351bc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/"/>
-        <updated>2021-11-09T03:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) on AWS Outposts では、データベースログを Amazon CloudWatch にエクスポートできるようになりました。AWS リージョンの Amazon RDS データベースインスタンスと同じ単一ウィンドウから、すべての Amazon RDS on AWS Outposts データベースインスタンスをモニタリングできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Corretto 17 のサポートのロードマップに関するお知らせ]]></title>
-        <id>53b264b3c353f6c42ecfdce7f9d3bc83adafaf52</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/"/>
-        <updated>2021-11-09T03:31:05.000Z</updated>
-        <summary type="html"><![CDATA[9 月 16 日に Corretto 17 の一般提供をお知らせしました。本日は、Corretto 17 の長期サポート (LTS) を 2028 年 9 月まで提供することをお知らせします。また、このリリース時点において、他の OpenJDK コミュニティとともに、Corretto LTS のリリース頻度を新たに 2 年間とする予定です。詳細については、AWS オープンソースブログの Corretto 17 Announcement の記事をお読みください。Corretto 17 は、ダウンロードページからご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify が Admin UI でさらに充実したデータ管理機能を提供開始]]></title>
-        <id>662a3194fd7d84eabd03efab09ca1a0b343b797a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-launches-data-management-capabilities-admin-ui/"/>
-        <updated>2021-11-09T01:04:10.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify Admin UI では、Faker を使用してシードデータを生成し、CSV ファイルにデータをダウンロードできるようになりました。 これにより、Amplify でのデータの作成および管理が簡素化され、デモデータをより現実的に、すばやく共有可能にすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Snowcone SSD が米国東部 (オハイオ)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンで利用可能に]]></title>
-        <id>1976fea04b65321bf7e6c632721a1eeef368d6f4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-snowcone-ssd-now-available-in-new-regions/"/>
-        <updated>2021-11-09T01:02:33.000Z</updated>
-        <summary type="html"><![CDATA[AWS Snowcone ソリッドステートドライブ (SSD) は、欧州 (フランクフルト)、欧州 (アイルランド)、米国東部 (バージニア北部)、米国西部 (オレゴン) を含むすでに Snowcone SSD が利用可能なリージョンに加えて、米国東部 (オハイオ)、米国西部 (サンフランシスコ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンでご利用いただけるようになりました。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ転送デバイスの AWS Snow ファミリーの最も小さなメンバーです。Snowcone はハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用可能です。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れてます。小型かつ軽量でリュックサックに収まり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイキン工業が挑む「デジタル変革」 今後求められるAI人材とその育成法の勘所は （わかる）と（できる）の溝を埋めること]]></title>
-        <id>https://data.wingarc.com/?p=36888</id>
-        <link href="https://data.wingarc.com/daikin_dx-36888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=daikin_dx"/>
-        <updated>2021-11-09T00:30:45.000Z</updated>
-        <summary type="html"><![CDATA[DX人材の不足が深刻になりつつある現在、「AI人材」や「デジタル人材」の育成・確保に注力する企業は少なくない。そのなかでも全国屈指の規模で、社内人材における「デジタル革命」を推進している企業がダイキン工業株式会社だ。空調 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
         </author>
     </entry>
 </feed>
