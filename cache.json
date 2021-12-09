@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11785",
+          "author": "Kenichi Suzuki",
+          "description": "Bento AMP を Google は正式公開した。Bento AMP とは、AMP をコンポーネントとして実装する技術。",
+          "link": "https://www.suzukikenichi.com/blog/google-officially-launches-bento-amp/",
+          "publishedOn": "2021-12-09T21:45:07.000Z",
+          "wordCount": 714,
+          "title": "Bento AMPをGoogleが正式公開🍱AMP存続の救世主になるか？"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11782",
           "author": "Kenichi Suzuki",
           "description": "PC 検索のトップニュースに新しいレイアウトを Google は採用した。 2 カラムで、縦 2 列に記事が並ぶ。",
@@ -470,51 +479,6 @@
           "publishedOn": "2021-11-11T02:13:00.000Z",
           "wordCount": 1182,
           "title": "AWSがAWS Data Exchange for Amazon Redshiftのパブリックプレビューを発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct18-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週2021年10月18日のJava総まとめでは、OpenJDK JEP、2021年10月のOracleリリースクリティカルパッチアップデート、JDK 18、多数のSpring Projectsアップデート、Quakus 2.3.1、Payaraプラットフォーム、Hibernate Search 6.0.7、GraalVM 21.3、Java for VS Code 1.0とApache Camel for VS Code 0.1.0、JakartaOne Livestream 2021カンファレンスのプログラムの完成からのニュースを特集する。\n By Michael Redlich  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/11/java-news-roundup-oct18-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-10T03:00:00.000Z",
-          "wordCount": 1605,
-          "title": "Javaニュース総まとめ: OpenJDKの更新、Spring、Quarkus、Payara、Hibernate、QuarkusとJakartaOne"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/scale-pinterest-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Vasco Veloso",
-          "description": "Nishant Roy氏は、Pinterest Engineering Blogに、広告コーパスのスケーリング問題を克服するための戦略を書いている。彼らの既存のソリューションはスケーリングの限界に達していた。そのため、さらなる成長が必要であった。再設計により、広告インデックスがKey-Valueストアにオフロードされ、Goアプリケーションのガベージコレクションが最適化されて、広告コーパスのサイズが60倍に増加した。\n By Vasco Veloso  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/11/scale-pinterest-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-10T02:58:00.000Z",
-          "wordCount": 1120,
-          "title": "Pinterestが広告配信アーキテクチャをどのようにスケールアップしたか"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/anthos-for-vms-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "Google Cloud Next'21バーチャルイベント中に、GoogleはAnthos for Virtual Machines（VM）のプレビューを発表した。さらに、同社は新しいAnthos Multi-Cloud APIを導入した。これは、第4四半期に一般提供される予定だ。\n By Steef-Jan Wiggers  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/11/anthos-for-vms-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-10T02:53:00.000Z",
-          "wordCount": 1165,
-          "title": "GoogleがAnthos for VMのプレビューを発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/aws-amazon-prometheus-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "先ごろ、AWSは、Amazon Managed Service for Prometheus (AMP) の一般提供 (GA) を発表した。これは、コンテナインフラストラクチャとコンテナのアプリケーションメトリックスの Prometheus 互換のモニタリングサービスだ。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/11/aws-amazon-prometheus-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-10T02:31:00.000Z",
-          "wordCount": 1283,
-          "title": "AWSがAmazon Managed Service for Prometheusの一般提供を発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/articles/ai-devops-takeover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Sam Bocetta",
-          "description": "AIツールは開発者の役割をゆっくりと - DevOpsがかって行ったように - 置き換えています。そして最終的には、DevOpsに完全に取って代わるでしょう。この予測の正しさを評価するのは難しいのですが、この記事では、AIが開発プロセスにもたらすものは何かを確認した上で、それが人間である開発者の作業を本当に引き継ぐことができるのか、数十年後のDevOpsがどのようなものになっているのかを見ていきます。\n By Sam Bocetta  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/articles/ai-devops-takeover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-10T02:26:00.000Z",
-          "wordCount": 1289,
-          "title": "アーティクル: AIはDevOpsに取って代わるのか？"
         }
       ]
     },
@@ -584,6 +548,24 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=263217",
+          "author": "Antonio Regalado",
+          "description": "複数の研究チームの実験により、ファイザー製ワクチンの2回接種者が有する抗体の効果は、オミクロン株に対して大幅に低下することがわかった。ただし、3回目の接種により、ワクチンの予防効果が回復するとの結果も得られた。",
+          "link": "https://www.technologyreview.jp/s/263217/pfizers-vaccine-takes-a-very-large-hit-from-omicron-but-boosters-help/",
+          "publishedOn": "2021-12-09T21:45:56.000Z",
+          "wordCount": 663,
+          "title": "ファイザー製ワクチン、オミクロン株への効果は「大幅低下」"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=263191",
+          "author": "Tatyana Woodall",
+          "description": "NASAは12月9日に、X線の偏光を測定できる初のX線観測衛星「IXPE」を打ち上げた。偏光の観測により、ブラックホールや中性子星の周辺で何が起こっているのかを、より詳細に知ることが可能となるだろう。",
+          "link": "https://www.technologyreview.jp/s/263191/a-new-nasa-telescope-is-going-to-look-at-our-galaxys-most-energetic-objects/",
+          "publishedOn": "2021-12-09T21:32:54.000Z",
+          "wordCount": 683,
+          "title": "NASAがX線観測衛星を打ち上げ、ブラックホールの謎に挑む"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=261960",
           "author": "Jane Qiu",
@@ -925,15 +907,6 @@
           "publishedOn": "2021-11-10T21:53:01.000Z",
           "wordCount": 666,
           "title": "急成長するサイバー監視産業、高まる安全保障への懸念"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=260130",
-          "author": "Casey Crownhart",
-          "description": "米国立気象局は、超高性能なスーパー・コンピューターの導入を予定している。ハリケーンの進路予測、強度予測から、日々の天気予報まで、精度が大きく向上する見込みだ。",
-          "link": "https://www.technologyreview.jp/s/260130/how-two-new-supercomputers-will-improve-weather-forecasts/",
-          "publishedOn": "2021-11-10T07:49:32.000Z",
-          "wordCount": 686,
-          "title": "最新スパコンで変わる天気予報、ハリケーンの進路や強さも分かる"
         }
       ]
     },
@@ -1084,6 +1057,24 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/21/github_8.html",
+          "author": null,
+          "description": "GitHubは検索機能を刷新し、新たに強化したコード検索機能「https://cs.github.com」のテクノロジープレビューを公開しました。 Check out the technology preview for GitHub co...",
+          "link": "https://www.publickey1.jp/blog/21/github_8.html",
+          "publishedOn": "2021-12-09T16:19:48.000Z",
+          "wordCount": 169,
+          "title": "GitHubがコード検索を強化。正規表現対応、プログラミング言語別、組織やリポジトリ、ファイルパスなど範囲指定、高速な結果表示"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/hashicorpnadaq1300.html",
+          "author": null,
+          "description": "TerraformやVagrantなどのソフトウェアで知られるHashiCorpは今日、米NASDAQ市場へ株式公開を果たしました。公開価格は1株80ドルで、同社の時価総額は12億ドル（1ドル110円換算で1320億円）となります。  NA...",
+          "link": "https://www.publickey1.jp/blog/21/hashicorpnadaq1300.html",
+          "publishedOn": "2021-12-09T15:46:56.000Z",
+          "wordCount": 148,
+          "title": "HashiCorpが今日、NADAQ市場へ株式公開。時価総額は約1300億円に"
+        },
         {
           "id": "https://www.publickey1.jp/blog/21/kubernetes_123ipv4v6podapiv2kubelet_cri_api.html",
           "author": null,
@@ -1808,15 +1799,6 @@
           "publishedOn": "2021-11-12T01:00:00.000Z",
           "wordCount": 470,
           "title": "2021年11月12日号　MultipassのApple M1 macへの対応，linux-iotカーネルフレーバー，OSS Gateオンボーディングの実施報告 ── Ubuntu Weekly Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0691",
-          "author": "あわしろいくや",
-          "description": "Intel Core i3-10105搭載PCでUbuntu 20.04.3 LTSを動作させ，すべてのハードウェアを認識するか，AMD Ryzen 3 PRO 4350G搭載PCと比較してパフォーマンスはどうなのかを計測します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0691",
-          "publishedOn": "2021-11-10T00:59:00.000Z",
-          "wordCount": 470,
-          "title": "第691回　Intel Core i3-10105で省エネコンパクトPCを構築する ── Ubuntu Weekly Recipe"
         }
       ]
     },
@@ -1976,15 +1958,6 @@
           "publishedOn": "2021-12-07T09:46:49.000Z",
           "wordCount": 175,
           "title": "【卒業生座談会レポ】受講生3人が講義を本音でレビュー"
-        },
-        {
-          "id": "https://octopass.jp/?p=4234",
-          "author": "OCTOPASS",
-          "description": "ベルフェイス株式会社について 弊社は、「勘と根性の営業をテクノロジーで解放し企業に新たなビジネス機会をもたらす」をミッションに、オンライン営業システム「bellFace（ベルフェイス）」を提供しています。 同システムは、 […]",
-          "link": "https://octopass.jp/4234/",
-          "publishedOn": "2021-11-10T01:34:35.000Z",
-          "wordCount": 276,
-          "title": "ベルフェイス新CTOが掲げるエンジニア組織のＤＸ戦略とは？"
         }
       ]
     },
@@ -1999,6 +1972,24 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "db5ab4874a6c661a3b53d8fd48bdbc098727ce86",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue ストリーミングの抽出、変換、ロード (ETL) ジョブを、AWS Glue スキーマレジストリを使用して作成された AWS Glue データカタログテーブルから読み取ることができるようになりました。AWS Glue のストリーミング ETL を使用すると、ストリーミングデータをオンザフライで準備し、数秒で分析できるようにする継続的取り込みパイプラインをセットアップできます。AWS Glue スキーマレジストリを使用すると、データストリームスキーマを一元的に検出、制御、展開させることができます。今回の統合により、ジョブのセットアッププロセスが合理化され、スキーマの適用が簡素化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/",
+          "publishedOn": "2021-12-09T18:46:44.000Z",
+          "wordCount": 274,
+          "title": "AWS Glue ストリーミング ETL ジョブが AWS Glue スキーマレジストリと統合"
+        },
+        {
+          "id": "d3ce9652afa9924a63f2dd1e11aa69dce9fe40ba",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Systems Manager が、最大セッションタイムアウトをサポートし、セッションを開始する理由を注釈に指定できる Session Manager の新機能を発表しました。AWS Systems Manager は、AWS の運用ハブであり、中央の場所から AWS のアプリケーション全体の運用上の問題を追跡および解決するための統合されたユーザーインターフェイスとなります。AWS Systems Manager Session Manager を使用すると、インタラクティブなブラウザベースのシェルまたはコマンドラインにより、EC2 インスタンス、エッジデバイス、オンプレミスサーバーおよび仮想マシン (VM) を管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/",
+          "publishedOn": "2021-12-09T18:34:44.000Z",
+          "wordCount": 284,
+          "title": "AWS Systems Manager が、最大セッションタイムアウトをサポートし、セッションを開始する理由を注釈に指定できる Session Manager の新機能を発表"
+        },
         {
           "id": "3fd9d5e648008bcf817c24df11d3c8a58e14990e",
           "author": "aws@amazon.com",
@@ -5139,33 +5130,6 @@
           "publishedOn": "2021-11-11T05:46:12.000Z",
           "wordCount": 299,
           "title": "Amazon EC2 Fleet および Spot Fleet が、容量リバランスでの自動インスタンス終了のサポートを開始"
-        },
-        {
-          "id": "ece8acd62fd8372f900d122af3cbede439560a97",
-          "author": "aws@amazon.com",
-          "description": "Amazon Athena は、クエリのコンピューティングコストを実行プランとともに表示するようになりました。EXPLAIN ANALYZE ステートメントのリリースにより、Athena は指定されたクエリを実行し、各ステージの CPU 使用率および処理された行数とともに、実行プランの詳細な内訳を返すことができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/",
-          "publishedOn": "2021-11-10T05:32:24.000Z",
-          "wordCount": 263,
-          "title": "Amazon Athena がクエリ実行プランにコストの詳細を追加"
-        },
-        {
-          "id": "f429e2e471f5d96f8b107965e385e48d2f161cfa",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN Network Server (LNS) であり、省電力長距離広域ネットワーク (LoRaWAN) テクノロジーを使用するワイヤレスデバイスを AWS クラウドに接続するのを可能にします。現在、AWS IoT Core for LoRaWAN は、Firmware Over-the-Air Update (FUOTA) をサポートしています。これにより、お客様は、LoRa Alliance によって定義された LoRaWAN マルチキャストおよびフラグメンテーションメカニズムを使用して、フィールド内のデバイスに安全で信頼性の高いファームウェアアップデートを配信できます。これらのメカニズムは、デバイスのバッテリー消費を最小限に抑え、大規模なファイル転送 (数百 KB) を処理することを目的としています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/",
-          "publishedOn": "2021-11-10T05:31:36.000Z",
-          "wordCount": 299,
-          "title": "AWS IoT Core for LoRaWAN がマネージドファームウェアの無線通信経由アップデートをサポート"
-        },
-        {
-          "id": "aae6fc67db86c3634361cf485a71c4786b3d92ef",
-          "author": "aws@amazon.com",
-          "description": "委任された単一の管理者アカウントから、組織内のすべてのアカウントで生成されたインサイトを表示できるようになりました。インサイトは、Amazon DevOps Guru がアプリケーションのモニタリング中に運用上の問題を検出したときに生成されるアラートです。これらのインサイトは、現在生じているか、差し迫ったアプリケーションの問題を特定し、問題を引き起こしている可能性のある事象を示し、顧客に影響を及ぼすイベントの発生を防ぐのに役立つ是正措置を推奨します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/",
-          "publishedOn": "2021-11-10T05:30:48.000Z",
-          "wordCount": 297,
-          "title": "Amazon DevOps Guru が AWS Organizations とのマルチアカウントのインサイトの集約のサポートを開始"
         }
       ]
     },
