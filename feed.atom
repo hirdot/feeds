@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-09T07:03:08.727Z</updated>
+    <updated>2021-12-09T08:03:26.985Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5823,26 +5823,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[動画だけを掲載するページの作成を推奨するガイドを、検索セントラル サイトの動画検索のベストプラクティスに Google は追加した。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS DataSync で Hadoop Distributed File Systems (HDFS)および AWS ストレージサービス間のデータのコピーが可能に]]></title>
-        <id>52b381934b08524884df60ae28ab533b079e32a4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/"/>
-        <updated>2021-11-09T20:01:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS DataSync で、Hadoop Distributed File Systems (HDFS) および Amazon S3、Amazon Elastic File System (EFS) 、または Amazon FSx for Windows File Server 間でデータの転送ができるようになりました。DataSync を使用して、Hadoop クラスターの HDFS から AWS ストレージにファイルやフォルダをすばやく、また簡単かつ安全に移行できます。また、DataSync を使用して、ビジネスの継続性維持のために Hadoop クラスターのデータを AWS にレプリケートし、AWS にデータをコピーしてデータレイクに格納できます。また、クラスターおよび AWS 間でデータを転送し、分析や処理を行えます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS サーバーレスアプリケーションとお気に入りの CI/CD システムのための CI/CD 設定の簡素化 – 一般提供]]></title>
-        <id>5514acb1e6928a4e9c32ca733a8cef81d7f357f1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/"/>
-        <updated>2021-11-09T20:01:05.000Z</updated>
-        <summary type="html"><![CDATA[サーバーレスアプリケーションの新しいパイプライン設定機能により、組織のベストプラクティスに従った安全な継続的インテグレーションとデプロイ (CI/CD) のパイプラインを作成できるようになりました。AWS サーバーアプリケーションモデルパイプライン (AWS SAM パイプライン) は、AWS SAM CLI の新機能で、デプロイ頻度の加速、変更のリードタイムの短縮、デプロイエラーの低減などの CI/CD の利点を数分でご利用いただけるようになります。AWS SAM パイプラインには CloudBees CI/Jenkins、GitLab CI/CD、GitHub Actions、Bitbucket Pipelines、AWS CodeBuild/CodePipeline などの一般的な CI/CD システム向けに、AWS のデプロイのベストプラクティスに従ったデフォルトのパイプラインテンプレートが用意されています。AWS SAM CLI は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
