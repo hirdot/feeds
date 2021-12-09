@@ -2009,6 +2009,15 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "3fd9d5e648008bcf817c24df11d3c8a58e14990e",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/",
+          "publishedOn": "2021-12-09T02:28:44.000Z",
+          "wordCount": 287,
+          "title": "Amazon S3 File Gateway が NFS ファイル共有監査のサポートを開始"
+        },
+        {
           "id": "247f1720c4edcf55aad98cd3ec3c87f4553a59b9",
           "author": "aws@amazon.com",
           "description": "Amazon S3 File Gateway は、ローカルセキュリティグループへのアクセスを提供することにより、Amazon S3 ファイルゲートウェイ- の SMB ファイル共有でロックされたファイルを強制的に閉じることができるようになりました。Amazon S3 File Gateway は、SMB および NFS プロトコルを使用して、オンプレミスのアプリケーションに、事実上無制限のクラウドストレージへのファイルベースのキャッシュアクセスを提供します。SMB 共有上のファイルを使用しているエンドユーザーやアプリケーションは、それらのファイルを閉じずに作業を停止する場合があります。これにより、ファイルは開いた状態またはロックされた状態のままになります。これまで、ゲートウェイ管理者にはこうしたファイルを閉じる許可がありませんでした。",
