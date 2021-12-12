@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T07:02:49.554Z</updated>
+    <updated>2021-12-12T08:03:35.517Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5539,56 +5539,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。グーグルが「アダルトコンテンツ」だと判断する基準は？ どんな仕組みでアダルト判定しているの？ アダルト自己申告 meta タグの書き方も含めて、基本的なことを知っておこう。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex が南アフリカ英語のサポートを開始]]></title>
-        <id>2ee996c714e0f440601fb8ac848b6ed629cf1cb9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-lex-south-african-english/"/>
-        <updated>2021-11-12T19:35:48.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Lex は、南アフリカ英語の言語サポートを発表しました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回新しく南アフリカ英語が追加されたことにより、会話型エクスペリエンスを構築し、拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CDK が AWS AppRunner 向けの高レベル API および Amazon ECS、AWS Step Functions のホットスワップをサポートする v1.126.0 - v1.130.0 をリリース]]></title>
-        <id>938312e650909dc5887fefb016034daa28b524cb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/"/>
-        <updated>2021-11-12T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[2021 年 10 月、JavaScript、TypeScript、Java、Python、.NET、および Go 向けに AWS Cloud Development Kit (AWS CDK) の 5 つの新しいバージョン (v1.126.0〜v.130.0) がリリースされました。AWS CDK には、フルマネージドサービスである AWS AppRunner 向けの高レベル API (L2 construct) が追加されており、デベロッパーはコンテナ化されたウェブアプリケーションや API を、大規模に、しかも事前のインフラ経験を必要とせずに簡単にデプロイすることができます。さらに、CDK CLI は、Amazon ECS タスクと AWS Step Functions のコンテナのホットスワップデプロイ を実行できるようになりました。これらのリリースは 40 の問題を解決し、ライブラリ全体の 50 を超える異なるモジュールで 50 の新機能を導入します。これらの変更の多くは、デベロッパーコミュニティによって提供されたものです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On で CyberArk ユーザーの AWS へのアクセスを一元管理]]></title>
-        <id>a491e64722e4d681ebe2fe0a4d712e350a87b39a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/manage-access-centrally-cyberark-users-aws-single-sign-on/"/>
-        <updated>2021-11-12T19:33:40.000Z</updated>
-        <summary type="html"><![CDATA[お客様は、CyberArk ワークフォースアイデンティティ (CyberArk) を AWS Single Sign-On (SSO) に一度接続し、AWS SSO で AWS へのアクセスを一元管理し、エンドユーザーが CyberArk ワークフォースアイデンティティを使用してサインインして、割り当てられたすべての AWS アカウントにアクセスできるようになりました。この統合により、ID を管理する管理者やサインインするエンドユーザーにとって慣れ親しんだ CyberArk ワークフォースアイデンティティにおけるエクスペリエンスを維持しながら、複数のアカウントにわたる AWS アクセス管理を簡素化できます。AWS SSO と CyberArk ワークフォースアイデンティティは、標準ベースの自動化を使用してユーザーとグループを AWS SSO にプロビジョニングし、管理時間を節約してセキュリティを向上させます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Marketplace が変更要求の提出方法の強化を発表]]></title>
-        <id>6b2daa92951c7b13fe3ef21762e6173d117518f0</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-marketplace-change-requests-submission/"/>
-        <updated>2021-11-12T19:32:18.000Z</updated>
-        <summary type="html"><![CDATA[AWS Marketplace の販売者は、AWS Marketplace Management Portal (AMMP) または AWS Marketplace Catalog API を使用して、複数のセルフサービスの変更リクエストを同時に送信できるようになりました。AWS Marketplaceの販売者は、AMI、コンテナ、プロフェッショナルサービス、機械学習製品については AMMP を介して、AMI、コンテナ製品について AWS Marketplace Catalog API を介して、複数のセルフサービス変更リクエストを開始することができるようになりました。販売者は、先行分の変更要求が処理の途中であっても、後続の製品変更リクエストを待たずに送信することができるようになりました。たとえば、販売者が製品情報と製品のバージョン情報を更新する場合、最初の要求が完了するのを待たずに、リクエストを連続して送信できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight が、IP ベースのアクセス制限とアカウント設定のための Bring-you-own-role を含む 4 つの新しい管理機能をリリース]]></title>
-        <id>1734bd8aa23a8c261fe1d3b72bfbbdc74966e720</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-quicksight-launches-ip-based-access-restrictions-bring-you-own-role-account-setup/"/>
-        <updated>2021-11-12T19:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight では、IP ベースのアクセス制限、AWS のサービスコントロールポリシーベースの制限、フェデレーション方式の SSO ユーザー向けのメール自動同期、QuickSight アカウントサインアップ時の Bring-Your-own-Role など、AWS 管理者が組織内のより多くのユーザーやアカウントにAmazon QuickSightを安全に展開することを容易にする 4 つの新機能のサポートを開始しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
