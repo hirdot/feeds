@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11790",
+          "author": "Kenichi Suzuki",
+          "description": "Search Console のカバレッジ レポートにリダイレクト エラーが発生していること警告する通知がたくさん届いている。Google 側の問題と思われ、Google は調査中だ。",
+          "link": "https://www.suzukikenichi.com/blog/redirect-errors-in-coverage-report-notified-by-google/",
+          "publishedOn": "2021-12-12T21:30:57.000Z",
+          "wordCount": 593,
+          "title": "リダイレクトエラーの警告がSearch Consoleから届く、Google側の不具合か？"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11788",
           "author": "Kenichi Suzuki",
           "description": "Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。「検索避け」には 3 つのやり方がある。そのうち確実に検索で出なくできるのは……。基本だが重要なテクニックを改めて理解しておこう。",
@@ -513,6 +522,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=263211",
+          "author": "Will Douglas Heaven",
+          "description": "自然言語処理におけるAI研究の主流となっている大規模言語モデルには、訓練に膨大な計算能力を必要とするという欠点がある、ディープマインドは外部メモリーを辞書として活用することで、訓練に要するコストを大幅に下げられるモデルを発表した。",
+          "link": "https://www.technologyreview.jp/s/263211/deepmind-says-its-new-language-model-can-beat-others-25-times-its-size/",
+          "publishedOn": "2021-12-12T21:55:23.000Z",
+          "wordCount": 687,
+          "title": "ディープマインドが言語モデル「RETRO」発表、訓練コストを大幅削減"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=263217",
           "author": "Antonio Regalado",
           "description": "複数の研究チームの実験により、ファイザー製ワクチンの2回接種者が有する抗体の効果は、オミクロン株に対して大幅に低下することがわかった。ただし、3回目の接種により、ワクチンの予防効果が回復するとの結果も得られた。",
@@ -985,6 +1003,24 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html",
+          "author": null,
+          "description": "Googleは、同社がクラウドサービスとして提供しているCloud SpannerをRailsのActive Recordに対応させるアダプタ「activerecord-spanner-adapter」が正式版となったことを発表しました。 ...",
+          "link": "https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html",
+          "publishedOn": "2021-12-12T15:14:37.000Z",
+          "wordCount": 183,
+          "title": "大規模分散DBのCloud Spannerが、RailsのActive Recordに対応。スケーラブルで高可用なRubyアプリケーションの開発が容易に"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/javalog4j.html",
+          "author": null,
+          "description": "オープンソースのロギングライブラリとしてさまざまなJavaアプリケーションに使われている「Apache Log4j」に、任意のリモートコードが実行できてしまう脆弱性が発見されました（CVE - CVE-2021-44228）。 これが悪用さ...",
+          "link": "https://www.publickey1.jp/blog/21/javalog4j.html",
+          "publishedOn": "2021-12-12T15:08:05.000Z",
+          "wordCount": 218,
+          "title": "広く使われているJavaライブラリ「Log4j」に深刻な脆弱性。速やかに確認と対策を"
+        },
         {
           "id": "https://www.publickey1.jp/blog/21/github_8.html",
           "author": null,
@@ -4815,78 +4851,6 @@
           "publishedOn": "2021-11-15T12:45:58.000Z",
           "wordCount": 405,
           "title": "AWS Security Hub が 3 つの新しい FSBP コントロールと 3 つの新しいパートナーを追加"
-        },
-        {
-          "id": "bff68f4b5a43980778cbf5817a95528b476486cc",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service (EKS) on Fargate は、Fluent Bit ログに充実した Kubernetes 固有のメタデータを提供する Kubernetes Fluent Bit フィルターの使用をサポートします。お客様は、アプリケーションログに Kubernetes ポッド、コンテナ、名前空間名などの Kubernetes メタデータを関連させることで、より簡単にアプリケーションの観察やトラブルシューティングを行うことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/",
-          "publishedOn": "2021-11-12T23:37:41.000Z",
-          "wordCount": 309,
-          "title": "Amazon EKS on AWS Fargate が Fluent Bit Kubernetes Filter のサポートを開始"
-        },
-        {
-          "id": "5b7f847c06b583652bee6834a614002f3983a3a4",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Inference は、機械学習モデルを更新するため、新モデルのデプロイオプションをサポートしています。新しいデプロイガードレールを使用して、生産中の現行モデルから新モデルへ制御された方法で簡単に切り替えることができます。今回の起動で、canary と linear の各モードが導入され、更新中に現行モデルから新モデルへのトラフィック移行のきめ細かい制御ができるようになりました。自動ロールバックなどの安全装置が組み込まれているため、素早く問題を発見して生産に大きな影響が出る前に、自動的な修正作業を実行することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/",
-          "publishedOn": "2021-11-12T23:36:53.000Z",
-          "wordCount": 286,
-          "title": "Amazon SageMaker Inference エンドポイントの新しいデプロイガードレールを発表"
-        },
-        {
-          "id": "705838f4d8897061ff7f1338552323652327d6d7",
-          "author": "aws@amazon.com",
-          "description": "Amazon Translate は、高品質でカスタマイズ可能な言語翻訳をリアルタイムかつ手ごろな料金で提供する、フルマネージド型のニューラル機械翻訳サービスです。本日、Amazon Translate にマラーティー語、ポルトガル語 (ポルトガル)、パンジャブ語のサポートが追加されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/",
-          "publishedOn": "2021-11-12T23:36:06.000Z",
-          "wordCount": 311,
-          "title": "Amazon Translate がアイルランド語、マラーティー語、ポルトガル語 (ポルトガル)、パンジャブ語の 4 言語とバリアントのサポートを追加"
-        },
-        {
-          "id": "f76918853298451e983b64558024c86048dc22ae",
-          "author": "aws@amazon.com",
-          "description": "お客様は、JumpCloud Directory Platform (JumpCloud) をアマゾン ウェブ サービス (AWS) Single Sign-On (SSO) に一度接続し、AWS SSO で AWS へのアクセスを一元管理し、エンドユーザーが JumpCloud を使用してサインインして、割り当てられたすべての AWS アカウントにアクセスできるようになりました。この統合により、ID を管理する管理者やサインインするエンドユーザーにとって慣れ親しんだ JumpCloud におけるエクスペリエンスを維持しながら、複数のアカウントにわたる AWS アクセス管理を簡素化できます。AWS SSO と JumpCloud は、標準ベースの自動化を使用してユーザーとグループを AWS SSO にプロビジョニングし、管理時間を節約してセキュリティを向上させます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/manage-access-jumpcloud-aws-single-sign-on/",
-          "publishedOn": "2021-11-12T23:35:18.000Z",
-          "wordCount": 410,
-          "title": "AWS Single Sign-On で JumpCloud ユーザーの AWS へのアクセスを一元管理"
-        },
-        {
-          "id": "8dca3d8ff069a152313f20023e7f4822e526cc87",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (Amazon ECS) は、お客様のコンピューティングインフラストラクチャのヘルスに対する可視性を強化しました。Amazon ECSをAmazon Elastic Compute Cloud （Amazon EC2）上、またはAmazon ECS Anywhere を使ってオンプレミスでコンテナ型ワークロードを実行しているお客様は、Amazon ECS APIから直接コンテナインスタンスのコンテナランタイム（すなわちDocker）のヘルスステータスをクエリできるようになりました。これにより、お客様はアプリケーションの回復力を向上させることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecs-container-instance-health-information/",
-          "publishedOn": "2021-11-12T23:34:30.000Z",
-          "wordCount": 273,
-          "title": "Amazon ECS がコンテナインスタンスのヘルス情報を追加"
-        },
-        {
-          "id": "5c47e77a2f3d3d387d5d635f89d3d1812f7665b1",
-          "author": "aws@amazon.com",
-          "description": "アマゾン ウェブ サービス（AWS）は、ソフトウェア、インフラストラクチャ、運用の障害による不要なダウンタイムを回避するために、アプリケーションのレジリエンスを定義、検証、追跡するための単一の場所を提供する新サービスAWS Resilience Hubの一般提供を開始したことを発表しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-resilience-hub-general-availability/",
-          "publishedOn": "2021-11-12T23:32:52.000Z",
-          "wordCount": 290,
-          "title": "AWS Resilience Hubの一般提供開始を発表"
-        },
-        {
-          "id": "c63d4dd4492631fe6af2668da8b4151b51529c01",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower が、検出ガードレールの同時操作をサポートし、ガードレール管理の迅速化を図ります。個々のガードレールの操作が完了するのを待つことなく、複数の検出ガードレールを有効にすることができるようになりました。Control Tower は、セキュリティ、運用、およびコンプライアンスの体制を強化するためにデプロイできる、すぐに使用できる予防および検出ガードレールをお客様に提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-control-tower-concurrent-operations-detective-guardrails/",
-          "publishedOn": "2021-11-12T23:32:03.000Z",
-          "wordCount": 277,
-          "title": "AWS Control Tower が、検出ガドレールの同時操作をサポート"
-        },
-        {
-          "id": "9574d578065215687b679641cc2a89f98376af88",
-          "author": "aws@amazon.com",
-          "description": "AWS Backupは、アプリケーションのデータ保護を大規模に管理することを容易にする新しいリソース割り当てオプションを導入しています。新しいリソース割り当てオプションは、 AWS がサポートするリソースタイプ、AWSタグとリソースIDの組み合わせを使って選択基準を定義することができ、ビジネスクリティカルなアプリケーションのデータを保存するAWSリソースを自動的に特定し、イミュータブルバックアップを使ってデータを保護することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/",
-          "publishedOn": "2021-11-12T23:31:15.000Z",
-          "wordCount": 249,
-          "title": "AWS Backupは、データ保護ポリシーのための新しいリソース割り当てルールを提供します。"
         }
       ]
     },
