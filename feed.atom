@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T10:03:19.135Z</updated>
+    <updated>2021-12-13T22:02:33.207Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トップニュースに掲載される非AMPページのロゴは構造化データでは指定できない]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11795</id>
+        <link href="https://www.suzukikenichi.com/blog/you-cant-specify-logo-for-non-amp-pages-in-top-stories-by-structured-data/"/>
+        <updated>2021-12-13T21:45:40.000Z</updated>
+        <summary type="html"><![CDATA[トップニュースに掲載される記事を公開しているサイトのロゴは構造化データで指定できる。しかし、これは AMP ページの場合で、非 AMP ページの場合は構造化データではロゴを指定できない。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex が AWS CloudFormation のサポートを開始]]></title>
+        <id>661ee3b7cfcffa8275f16de3a739f907c849a183</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/"/>
+        <updated>2021-12-13T19:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex が AWS CloudFormation のサポートを開始したので、CloudFormation スタックテンプレートを使用してボットを作成し、Amazon Lex リソースを整理できるようになりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。 CloudFormation がサポートされるようになったことにより、Lex V2 API のリソース (Bot、BotVersion、BotAlias、ResourcePolicy) を簡単にモデル化して、リソースを迅速かつ一貫性のある方法でプロビジョニングし、ライフサイクルを通じてリソースを管理できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が AWS CloudFormation のサポートを開始]]></title>
+        <id>c14a9f548bfa7c0f214b912a209e07a6e0297403</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/"/>
+        <updated>2021-12-13T18:16:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS CloudFormation テンプレートを使用して、Amazon FSx for NetApp ONTAP ファイルシステムを使うソリューションをすばやくデプロイできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DenoがJavaScriptの標準化を行うTC39ワーキンググループに参加を発表]]></title>
+        <id>https://www.publickey1.jp/blog/21/denojavascripttc39.html</id>
+        <link href="https://www.publickey1.jp/blog/21/denojavascripttc39.html"/>
+        <updated>2021-12-13T15:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Node.jsの作者であるライアン・ダール（Ryan Dahl）氏が新たに立ち上げ、サーバサイドでJavaScript/TypeScriptを実行するためのオープンソースのフレームワーク「Deno」と、その分散ホスティングである「Deno ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 でDocker 開発環境を構築する]]></title>
         <id>https://techracho.bpsinc.jp/mataka345/2021_12_13/114058</id>

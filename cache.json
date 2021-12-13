@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11795",
+          "author": "Kenichi Suzuki",
+          "description": "トップニュースに掲載される記事を公開しているサイトのロゴは構造化データで指定できる。しかし、これは AMP ページの場合で、非 AMP ページの場合は構造化データではロゴを指定できない。",
+          "link": "https://www.suzukikenichi.com/blog/you-cant-specify-logo-for-non-amp-pages-in-top-stories-by-structured-data/",
+          "publishedOn": "2021-12-13T21:45:40.000Z",
+          "wordCount": 655,
+          "title": "トップニュースに掲載される非AMPページのロゴは構造化データでは指定できない"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11790",
           "author": "Kenichi Suzuki",
           "description": "Search Console のカバレッジ レポートにリダイレクト エラーが発生していること警告する通知がたくさん届いている。Google 側の問題と思われ、Google は調査中だ。",
@@ -1013,6 +1022,15 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/21/denojavascripttc39.html",
+          "author": null,
+          "description": "Node.jsの作者であるライアン・ダール（Ryan Dahl）氏が新たに立ち上げ、サーバサイドでJavaScript/TypeScriptを実行するためのオープンソースのフレームワーク「Deno」と、その分散ホスティングである「Deno ...",
+          "link": "https://www.publickey1.jp/blog/21/denojavascripttc39.html",
+          "publishedOn": "2021-12-13T15:03:28.000Z",
+          "wordCount": 178,
+          "title": "DenoがJavaScriptの標準化を行うTC39ワーキンググループに参加を発表"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/21/dbcloud_spannerrailsactive_recordruby.html",
           "author": null,
           "description": "Googleは、同社がクラウドサービスとして提供しているCloud SpannerをRailsのActive Recordに対応させるアダプタ「activerecord-spanner-adapter」が正式版となったことを発表しました。 ...",
@@ -1900,6 +1918,24 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "661ee3b7cfcffa8275f16de3a739f907c849a183",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex が AWS CloudFormation のサポートを開始したので、CloudFormation スタックテンプレートを使用してボットを作成し、Amazon Lex リソースを整理できるようになりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。 CloudFormation がサポートされるようになったことにより、Lex V2 API のリソース (Bot、BotVersion、BotAlias、ResourcePolicy) を簡単にモデル化して、リソースを迅速かつ一貫性のある方法でプロビジョニングし、ライフサイクルを通じてリソースを管理できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/",
+          "publishedOn": "2021-12-13T19:05:20.000Z",
+          "wordCount": 292,
+          "title": "Amazon Lex が AWS CloudFormation のサポートを開始"
+        },
+        {
+          "id": "c14a9f548bfa7c0f214b912a209e07a6e0297403",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation テンプレートを使用して、Amazon FSx for NetApp ONTAP ファイルシステムを使うソリューションをすばやくデプロイできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/",
+          "publishedOn": "2021-12-13T18:16:05.000Z",
+          "wordCount": 290,
+          "title": "Amazon FSx for NetApp ONTAP が AWS CloudFormation のサポートを開始"
+        },
         {
           "id": "83a9424e398df364c84367569a4a564cad0f36a1",
           "author": "aws@amazon.com",
