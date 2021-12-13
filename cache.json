@@ -1892,6 +1892,132 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "83a9424e398df364c84367569a4a564cad0f36a1",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for NetApp ONTAP は、最小ファイルシステムスループット容量を 512 MB/秒から 128 MB/秒に削減しました。これにより、FSx for ONTAP ファイルシステムの最小コストが 50% 超削減されることになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/",
+          "publishedOn": "2021-12-13T06:50:39.000Z",
+          "wordCount": 285,
+          "title": "Amazon FSx for NetApp ONTAP が最小ファイルシステムスループット容量を 128 MB/秒に削減"
+        },
+        {
+          "id": "5ba9ba0d41d86708db7117748cce557e509c3cec",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kinesis Data Analytics は、アジアパシフィック (大阪) およびアフリカ (ケープタウン) のリージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-kinesis-data-analytics-available-regions/",
+          "publishedOn": "2021-12-13T06:49:52.000Z",
+          "wordCount": 315,
+          "title": "Amazon Kinesis Data Analytics がアジアパシフィック (大阪) およびアフリカ (ケープタウン) のリージョンで利用可能に"
+        },
+        {
+          "id": "f59047e269566b0b733bf7af9764dfaf0e8cbfc5",
+          "author": "aws@amazon.com",
+          "description": "Amazon Route 53 は、ドメイン固有の API アクションである DeleteDomain と ListPrices を追加しています。並べ替えとフィルタリングの機能も、API アクションの ListDomains に追加されています。DeleteDomain API アクションは、以前は AWS コンソールでのみ使用可能だった関数です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/",
+          "publishedOn": "2021-12-13T06:48:17.000Z",
+          "wordCount": 288,
+          "title": "Amazon Route 53 が API アクションを更新"
+        },
+        {
+          "id": "f77a9b2a7374cc84ff200c764f55718105508399",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall は、脅威インテリジェンスデータに基づくルールのグループである AWS マネージドルールをサポートするようになりました。これにより、独自のルールを記述して維持することなく、セキュリティ脅威に関する最新情報を常に入手できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/",
+          "publishedOn": "2021-12-13T06:47:28.000Z",
+          "wordCount": 301,
+          "title": "AWS Network Firewall が AWS マネージドルールのサポートを開始"
+        },
+        {
+          "id": "5f684b9e9023b6ec42abca27f2027313524a8ae6",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for NetApp ONTAP は、ファイルシステムの容量プールストレージ内に保存されているデータのデータ圧縮をサポートするようになりました。FSx for ONTAP のデータ重複排除と圧縮に関する既存のサポートと組み合わせると、データ圧縮により、幅広いデータセットのストレージコストを削減できます。例えば、汎用ファイル共有のコストを 65% 削減することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/",
+          "publishedOn": "2021-12-13T06:45:50.000Z",
+          "wordCount": 275,
+          "title": "Amazon FSx for NetApp ONTAP ファイルシステムで容量プールストレージのデータ圧縮の有効化が可能に"
+        },
+        {
+          "id": "837b7b3b08633420558e87f731b1f200704a5f93",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru は Amazon DevOps Guru for RDS の一部として、新しい機械学習 (ML) を活用した機能である Amazon Aurora データベースの強化された分析をサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/",
+          "publishedOn": "2021-12-13T06:25:21.000Z",
+          "wordCount": 387,
+          "title": "Amazon DevOps Guru は Amazon Aurora データベースの強化された分析と、アプリケーションバウンダリとしての AWS タグのサポートを発表"
+        },
+        {
+          "id": "b18bddca0611681c09de263c85d0315a2f2c1fbc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Comprehend Medical は HIPAA 対応の自然言語処理サービスで、機械学習を使用して非構造化医療テキストから健康データを正確かつ迅速に抽出します。今日の健康データは、医師のメモ、臨床試験結果、患者の健康記録などのフリーフォームの医療テキストです。手動でデータを抽出するには、同義語や非標準的な医療用語を幅広く使用する必要があり、時間のかかるプロセスです。その結果、ヘルスケアおよびライフサイエンス産業の発展に必要な大規模な分析で、データが使用できないことがよくあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/",
+          "publishedOn": "2021-12-13T06:23:46.000Z",
+          "wordCount": 306,
+          "title": "Amazon Comprehend Medical は、SNOMED CT のサポートを追加し、すべての API で価格を最大 90% 引き下げ"
+        },
+        {
+          "id": "5ff2bb8d76822002447b9cfc06c1c6a51e087964",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Core カスタム認証のワークフローを HTTP 接続に使用する際に、カスタムオーソライザーの Lambda が返すレスポンスをキャッシュできるようになりました。長時間の HTTP 接続を使用する際に、お客様のカスタムオーソライザーの Lambda が返すレスポンスのキャッシュ期間（つまり、refreshAfterInSecs）を定義できるようになりました。お客様は、「refreshAfterInSecs」を5分から24時間の間で設定することで、カスタムオーソライザーの Lambda の呼び出しを減らすことができます。この特徴の強化により、お客様はカスタムオーソライザーの Lambda のコストを削減し、HTTP の動作を AWS IoT Core がサポートする他のプロトコルの動作と一致させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/",
+          "publishedOn": "2021-12-13T06:22:59.000Z",
+          "wordCount": 283,
+          "title": "AWS IoT Core は、HTTP 接続を使用する際、お客様のカスタムオーソライザーの Lambda が返すレスポンスのキャッシュをサポートするようになりました。"
+        },
+        {
+          "id": "fa919ff042b43d8b50da016a913cbb61a2e0ec71",
+          "author": "aws@amazon.com",
+          "description": "2021年4月、IAM Access Analyzer にポリシー生成機能が追加され、AWS CloudTrail で見つかったアクセスアクティビティに基づいて IAM ポリシーを作成することができるようになりました。IAM Access Analyzer では、ポリシー生成クォータを1日あたり50個に増やし、アカウント内のより多くのロールに対する許可を適切に設定できるようになりました。アカウント内の複数のワークロードの権限を適正化する際に、ロールごとにポリシー生成を行い、必要な権限のみを付与することができるようになりました。IAM Access Analyzer のポリシー生成を使用するには、ロールの詳細ページにアクセスし、「ポリシーの生成」を選択してスタートします。お客様がポリシーをリクエストすると、IAM Access Analyzer は CloudTrail のログを確認して使用されたアクションを特定し、きめ細かなポリシーを作成します。詳細はこちらのブログをお読みください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/right-size-permissions-iam-access-analyzer/",
+          "publishedOn": "2021-12-13T06:21:25.000Z",
+          "wordCount": 278,
+          "title": "IAM Access Analyzer を使用して、アカウント内のより多くのロールの許可を適正化し、1日あたり50のきめ細かい IAM ポリシーを生成"
+        },
+        {
+          "id": "453fc27bf2f90789fba50237a00288620e63f656",
+          "author": "aws@amazon.com",
+          "description": "本日、 Amazon Location Service は、デベロッパーがコスト削減、精度向上、追跡アプリケーションの開発を簡素化できるよう、追跡の位置更新のメタデータを追加しました。Amazon Location Service Trackers は、デベロッパーが簡単にスケーラブルなデバイス追跡アプリケーションを構築できるように、追跡されたデバイスの現在と過去の位置情報を取得し、リンクされた関心領域 (ジオフェンス) に対するデバイスの位置を自動的に評価できるようにしています。新しいメタデータの特徴により、ユーザーが定義した 3 つのキーと値のペアを各位置の更新に含めることで、デベロッパーはこれらのアプリケーションに、各デバイスの位置に関する追加情報、たとえば自動車の速度、方向、エンジン温度などの情報を加えることができます。このデータを追跡するために追加のシステムやコードを構築することなく、例たとえばエンジンパフォーマンスを分析するために、デバイスの現在または過去の位置に関するこの情報を Amazon Location Service Tracker から直接取得できます。デベロッパーは、追跡されたデバイスがジオフェンスを通過した際に、Amazon EventBridge Entry and Exit イベントでこのメタデータを受け取ることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-location-service-metadata-reduce-costs/",
+          "publishedOn": "2021-12-13T06:20:35.000Z",
+          "wordCount": 320,
+          "title": "Amazon Location Service にメタデータが追加され、お客様のコスト削減に貢献"
+        },
+        {
+          "id": "13a8e0d8fbbbd24f268b8366563dd3d996c31fbe",
+          "author": "aws@amazon.com",
+          "description": "本日、ドイツで Vodafone の 4G/5G ネットワークを使った AWS Wavelength の一般提供を開始します。Wavelength Zone は、ベルリン、ミュンヘン、ドルトムントの 3 都市で展開しています。デベロッパー、エンタープライズ、独立系ソフトウェアベンダー (ISV) は、ドイツの AWS Wavelength Zone を利用して、モバイル機器やユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。Vodafone の 4G/5G ネットワークにおける AWS Wavelength Zone は、既に発表されているロンドンの Wavelength Zone を含め、欧州の 4 都市で提供されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/",
+          "publishedOn": "2021-12-13T06:19:00.000Z",
+          "wordCount": 289,
+          "title": "ドイツでの AWS Wavelength の一般提供に関する発表"
+        },
+        {
+          "id": "89b1b4de743f47189f7d29bff57b6679bd6b3aff",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard を使って、Amazon Elastic Kubernetes Service (Amazon EKS) のベストプラクティスのデプロイをリードすることができるようになりました。Amazon EKS では Kubernetes 管理インフラストラクチャが複数の AWS アベイラビリティーゾーンで運用されるため、単一障害点の排除に役立ちます。AWS Launch Wizard は AWS Well-Architected Quick Start アーキテクチャを使用して、Amazon EKS コントロールプレーンのサイジング、設定、デプロイ、ワーカーノードのクラスターへの接続、クラスター管理オペレーションのための要塞ホストの設定をガイドします。さらに、Launch Wizard のデプロイは、CloudFormation テンプレートで Kubernetes マニフェストや Helm チャートを直接宣言することによって、AWS CloudFormation を使用して Kubernetes アプリケーションをデプロイおよび管理できるようにするカスタムリソースを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/",
+          "publishedOn": "2021-12-13T06:18:13.000Z",
+          "wordCount": 307,
+          "title": "AWS Launch Wizard は Amazon EKS のガイド付きデプロイを提供開始"
+        },
+        {
+          "id": "f128363b5b196ff21f15982a89e804b8f0676c35",
+          "author": "aws@amazon.com",
+          "description": "本日から AWS アフリカ (ケープタウン) リージョンで Amazon EC2 C5n インスタンスをご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/",
+          "publishedOn": "2021-12-13T06:16:37.000Z",
+          "wordCount": 270,
+          "title": "Amazon EC2 C5n インスタンスがアフリカ (ケープタウン) リージョンで利用可能に"
+        },
+        {
+          "id": "f7fc0fdc9608ccb7119037600f32e1318d62765f",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard を使って、Amazon EC2 にあるセルフマネージドの Remote Desktop Gateway (RD Gateway) のベストプラクティスのデプロイをリードすることができるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での RD Gateway のサイジング、設定、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。RD ゲートウェイは、Remote Desktop Protocol (RDP) over HTTPS を採用して、リモートユーザーと Windows が実行されている Amazon EC2 インスタンス間のセキュアな暗号化接続を確立するのに役立ちます。この際、バーチャルプライベートネットワーク (VPN) 接続を設定する必要はありません。これにより、管理者向けのリモート管理ソリューションを提供しつつ、Windows ベースのインスタンスに対する攻撃対象領域を削減することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-remote-desktop-gateway/",
+          "publishedOn": "2021-12-13T06:15:49.000Z",
+          "wordCount": 318,
+          "title": "AWS Launch Wizard は Remote Desktop Gateway のガイド付きデプロイを提供開始"
+        },
+        {
           "id": "08e1b938e6b586e1470751ac3bfe9781e3b8e059",
           "author": "aws@amazon.com",
           "description": "AWS Toolkit for VS Code は、Amazon ECS コンテナに接続し、Amazon ECS Exec を使用してコマンドを発行する便利な IDE 機能をデベロッパーに提供します。これにより、VS Code のユーザーは、IDE を離れることなく、Amazon EC2 インスタンスや AWS Fargate で実行されている ECS コンテナにコマンドを実行したり、シェルを取得したりするなど、コンテナを直接操作することができます。ECS Exec は、実行中のコンテナとの接続を確立するために、AWS Systems Manager (SSM) Session Manager を内部で使用します。",
