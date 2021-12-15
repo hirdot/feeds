@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-15T06:05:20.472Z</updated>
+    <updated>2021-12-15T07:03:09.218Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5814,46 +5814,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[コンピューティングが今後、どこに向かうのかを予測するには、テクノロジーの歴史を振り返るのが役に立つかもしれない。テクノロジーの進歩には常に人間が関与しており、コンピューティングの歴史は米国史のミニチュア版なのだ。]]></summary>
         <author>
             <name>Margaret O’Mara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudFormation Registry に 34 の新しいリソースタイプを導入]]></title>
-        <id>611b8da256cd23927fc3e133efd73ff8e1d8eed3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/"/>
-        <updated>2021-11-15T18:33:22.000Z</updated>
-        <summary type="html"><![CDATA[2021 年 8 月の最終更新以降、AWS CloudFormation Registry を拡張し、2021 年 8 月から 10 月の間に 34 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラーアクセス許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code を扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョン、管理できるようになりました。さらに、4 つの新しい AWS のサービスがリリース日に CloudFormation のサポートを追加したことをお知らせします。これらのサービスには、Amazon Managed Service for Prometheus、Amazon OpenSearch Service、Amazon MemoryDB for Redisｍ、および Amazon Connect Wisdom が含まれます。CloudFormation は、165 の AWS のサービス、800 以上のリソースタイプ、および 40 以上のサードパーティーのリソースタイプをサポートしています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify はリアルタイムデータを使用するアプリケーションをより速く開くため Amplify DataStore 向けの新しい observeQuery API を発表]]></title>
-        <id>86fc1eabfa0b475c7ae1ad22ec3fae36e48f90da</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/"/>
-        <updated>2021-11-15T18:32:33.000Z</updated>
-        <summary type="html"><![CDATA[本日のリリースにより、デベロッパーは AWS Amplify DataStore の新しい observeQuery API を使用して、ローカルに保存されたデータを使用してアプリケーションをより速く開くことができ、コードを追加することなくリアルタイムのデータでアプリケーションの UI を更新することができます。DataStore を利用すると、デバイス (ウェブブラウザまたはモバイルデバイス) にデータを保存し自動的にクラウドとインターネット接続のあるデバイスにデータを同期することにより、フロントエンドのアプリケーションデベロッパーは、オフライン機能を搭載したリアルタイムのアプリケーションを構築できます。新しい observeQuery API を使用すると、デベロッパーは 1 回の API コールで、ローカルに保存されたデータを取得し、クラウドから同期された後続のデータ変更をサブスクライブできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Nimble Studio は、Nimble Studio コンソールを介して起動プロファイルの設定をテストする機能を開始しました。]]></title>
-        <id>fa41ea867921126f47a780728492b50257fcd57a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-nimble-studio-test-launch-profile-configurations/"/>
-        <updated>2021-11-15T18:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Nimble Studio は、現在、管理者がコンソールから直接起動プロファイル設定をテストする機能をサポートしており、アーティストがワークステーションのプロビジョニング時に経験するエラーの数を減らすことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CloudTrail が ErrorRate Insights を発表]]></title>
-        <id>50eca1ea074af7f27aa34d26f3aba191016913d2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cloudtrail-announces-launch-errorrate-insights/"/>
-        <updated>2021-11-15T18:30:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS CloudTrail は、CloudTrail Insights の新機能である CloudTrail ErrorRate Insights を発表しました。この機能により、お客様は API のエラーコードとそのエラー発生率に基づいて、AWS アカウントにおける異常な活動を特定することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>

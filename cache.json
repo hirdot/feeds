@@ -5103,42 +5103,6 @@
           "publishedOn": "2021-11-16T13:30:59.000Z",
           "wordCount": 539,
           "title": "AWS Graviton2 を搭載した Amazon EC2 M6gd および C6gd インスタンスが追加のリージョンで利用可能に"
-        },
-        {
-          "id": "611b8da256cd23927fc3e133efd73ff8e1d8eed3",
-          "author": "aws@amazon.com",
-          "description": "2021 年 8 月の最終更新以降、AWS CloudFormation Registry を拡張し、2021 年 8 月から 10 月の間に 34 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラーアクセス許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code を扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョン、管理できるようになりました。さらに、4 つの新しい AWS のサービスがリリース日に CloudFormation のサポートを追加したことをお知らせします。これらのサービスには、Amazon Managed Service for Prometheus、Amazon OpenSearch Service、Amazon MemoryDB for Redisｍ、および Amazon Connect Wisdom が含まれます。CloudFormation は、165 の AWS のサービス、800 以上のリソースタイプ、および 40 以上のサードパーティーのリソースタイプをサポートしています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/",
-          "publishedOn": "2021-11-15T18:33:22.000Z",
-          "wordCount": 355,
-          "title": "CloudFormation Registry に 34 の新しいリソースタイプを導入"
-        },
-        {
-          "id": "86fc1eabfa0b475c7ae1ad22ec3fae36e48f90da",
-          "author": "aws@amazon.com",
-          "description": "本日のリリースにより、デベロッパーは AWS Amplify DataStore の新しい observeQuery API を使用して、ローカルに保存されたデータを使用してアプリケーションをより速く開くことができ、コードを追加することなくリアルタイムのデータでアプリケーションの UI を更新することができます。DataStore を利用すると、デバイス (ウェブブラウザまたはモバイルデバイス) にデータを保存し自動的にクラウドとインターネット接続のあるデバイスにデータを同期することにより、フロントエンドのアプリケーションデベロッパーは、オフライン機能を搭載したリアルタイムのアプリケーションを構築できます。新しい observeQuery API を使用すると、デベロッパーは 1 回の API コールで、ローカルに保存されたデータを取得し、クラウドから同期された後続のデータ変更をサブスクライブできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/",
-          "publishedOn": "2021-11-15T18:32:33.000Z",
-          "wordCount": 281,
-          "title": "AWS Amplify はリアルタイムデータを使用するアプリケーションをより速く開くため Amplify DataStore 向けの新しい observeQuery API を発表"
-        },
-        {
-          "id": "fa41ea867921126f47a780728492b50257fcd57a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Nimble Studio は、現在、管理者がコンソールから直接起動プロファイル設定をテストする機能をサポートしており、アーティストがワークステーションのプロビジョニング時に経験するエラーの数を減らすことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-nimble-studio-test-launch-profile-configurations/",
-          "publishedOn": "2021-11-15T18:31:45.000Z",
-          "wordCount": 267,
-          "title": "Amazon Nimble Studio は、Nimble Studio コンソールを介して起動プロファイルの設定をテストする機能を開始しました。"
-        },
-        {
-          "id": "50eca1ea074af7f27aa34d26f3aba191016913d2",
-          "author": "aws@amazon.com",
-          "description": "AWS CloudTrail は、CloudTrail Insights の新機能である CloudTrail ErrorRate Insights を発表しました。この機能により、お客様は API のエラーコードとそのエラー発生率に基づいて、AWS アカウントにおける異常な活動を特定することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cloudtrail-announces-launch-errorrate-insights/",
-          "publishedOn": "2021-11-15T18:30:57.000Z",
-          "wordCount": 292,
-          "title": "AWS CloudTrail が ErrorRate Insights を発表"
         }
       ]
     },
