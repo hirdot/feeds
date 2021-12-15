@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-15T00:17:50.831Z</updated>
+    <updated>2021-12-15T01:50:25.464Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第696回　UbuntuでもWi-Fi 6を使用する ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0696</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0696"/>
+        <updated>2021-12-15T00:48:00.000Z</updated>
+        <summary type="html"><![CDATA[現在最速のWi-Fi規格であるWi-Fi 6（IEEE 802.11ax）をUbuntuで使用し，どのくらいの速度が出るかをテストします。]]></summary>
+        <author>
+            <name>あわしろいくや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 6.0.4.3, 6.1.4.3, and 7.0.0.rc3 have been released]]></title>
         <id>https://weblog.rubyonrails.org/2021/12/14/Rails-6-0-4-3-6-1-4-3-and-7-0-0-rc3-have-been-released/</id>
@@ -5809,16 +5819,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[アジャイル開発において開発担当者を外部のベンダに依頼した場合、必然的に発注側の企業とベンダ側の開発者が1つのチームとなり密なコミュニケーションを行います。 すると、発注側の企業がベンダの開発者の業務遂行に対して具体的な指示を行う、いわゆる「...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub が 3 つの新しい FSBP コントロールと 3 つの新しいパートナーを追加]]></title>
-        <id>eb832d7ef306acee3dd909251c9b58870f90c3ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-security-hub-three-new-fsbp-controls-partners/"/>
-        <updated>2021-11-15T12:45:58.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub は、お客様の Cloud Security Posture Management (CSPM) を強化する目的で基本的なセキュリティのベストプラクティス標準 (FSBP) に 3 つの新しいコントロールをリリースしました。これらのコントロールは、Elastic Load Balancing と AWS Systems Manager のセキュリティのベストプラクティスに対して完全に自動化されたチェックを実行します。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS のセキュリティ体制を自動的にチェックするための 162 のセキュリティコントロールをサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
