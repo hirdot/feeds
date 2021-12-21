@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-21T07:01:06.551Z</updated>
+    <updated>2021-12-21T07:02:28.778Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -181,6 +181,16 @@
         <summary type="html"><![CDATA[Ruby言語によるWebアプリケーションフレームワークの最新版となる「Rails 7」が正式リリースされました。 Rails 7.0 FINAL: The fulfillment of a vision to present a truly...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This week in Rails: New releases, bugfixes and more!]]></title>
+        <id>https://rubyonrails.org/2021/12/19/this-week-in-rails-post-b2c9fb6a</id>
+        <link href="https://rubyonrails.org/2021/12/19/this-week-in-rails-post-b2c9fb6a"/>
+        <updated>2021-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi there, it is Greg, bringing you the latest news about Ruby on Rails! We had an exciting week, so let’s get to it.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
@@ -528,6 +538,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rails 7.0: Fulfilling a vision]]></title>
+        <id>https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision</id>
+        <link href="https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision"/>
+        <updated>2021-12-15T23:17:00.000Z</updated>
+        <summary type="html"><![CDATA[This version of Rails has been years in the conceptual making. It’s the fulfillment of a vision to present a truly full-stack approach to web development that tackles both the front- and back-end challenges with equal vigor. An omakase menu that includes everything from the aperitif to the dessert.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 6.0.4.4, and 6.1.4.4 have been released]]></title>
+        <id>https://rubyonrails.org/2021/12/15/Rails-6-0-4-4-and-6-1-4-4-have-been-released</id>
+        <link href="https://rubyonrails.org/2021/12/15/Rails-6-0-4-4-and-6-1-4-4-have-been-released"/>
+        <updated>2021-12-15T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone again!!! Rails versions 6.0.4.4, and 6.1.4.4, have been released!]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon EC2 M6i インスタンスをご利用いただけるリージョンが 2 つ増えました]]></title>
         <id>8d92d58dc108401838c08313dbefd648d53bb045</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-m6i-instances-regions/"/>
@@ -692,6 +722,16 @@
         <summary type="html"><![CDATA[System and Organization Control (SOC) コンプライアンスの対象となるアプリケーションで Amazon FinSpace を使用できるようになりました。AWS SOC Reports レポート は、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。AWS SOC レポートはAWS Artifact でダウンロードできます。詳細については、AWS コンプライアンスプログラムを参照するか、コンプライアンスプログラムによる AWS 対象範囲内のサービスのウェブページにアクセスして、各コンプライアンスプログラムが対象とするサービス一覧をご覧ください。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 6.0.4.2, 6.1.4.2, and 7.0.0.rc2 have been released]]></title>
+        <id>https://rubyonrails.org/2021/12/14/Rails-6-0-4-2-6-1-4-2-and-7-0-0-rc2-have-been-released</id>
+        <link href="https://rubyonrails.org/2021/12/14/Rails-6-0-4-2-6-1-4-2-and-7-0-0-rc2-have-been-released"/>
+        <updated>2021-12-14T20:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone!!! Rails versions 6.0.4.2, 6.1.4.2, and 7.0.0.rc2 have been released!]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
@@ -2627,6 +2667,16 @@ Cryostat は、JFR をコンテナ時代にもたらし、中央ハブから直�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rails 7.0 RC1: New JavaScript Answers, At-Work Encryption, Query Origin Logging, Zeitwerk Exclusively]]></title>
+        <id>https://rubyonrails.org/2021/12/6/Rails-7-0-rc-1-released</id>
+        <link href="https://rubyonrails.org/2021/12/6/Rails-7-0-rc-1-released"/>
+        <updated>2021-12-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re almost ready to declare Rails 7 done! The feedback since the first alpha release has been wonderful, we’ve eliminated a slew of issues, and we’ve seen Basecamp, HEY, GitHub, and Shopify all run in production on this alpha series. So we now feel so confident that this is nearly ready that we’re skipping straight from alpha to release candidate. This is RC1.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コンピュータサイエンス誌「bit」、1969年の創刊号から全386巻が電子復刻版としてAmazon Kindleで販売開始。1冊わずか198円]]></title>
         <id>https://www.publickey1.jp/blog/21/bit1969386amazon_kindle1198.html</id>
         <link href="https://www.publickey1.jp/blog/21/bit1969386amazon_kindle1198.html"/>
@@ -4349,6 +4399,16 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[jammyの開発はこの時期らしい一定の落ち着きと，大きなチャレンジが同時に行われるシーズンに入っています。]]></summary>
         <author>
             <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composable blobs, improved upsert and much more!]]></title>
+        <id>https://rubyonrails.org/2021/11/26/this-week-in-rails-composable-blobs-improved-upsert-and-much-more-38eb3426</id>
+        <link href="https://rubyonrails.org/2021/11/26/this-week-in-rails-composable-blobs-improved-upsert-and-much-more-38eb3426"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey, Wojtek here with recent additions to Rails. All of them today for FREE, for you. Thank you all the contributors for making Rails. Those from one-time to day by day committers.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
