@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-21T09:11:42.734Z</updated>
+    <updated>2021-12-21T10:12:25.772Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Railsアプリケーションでフロントエンドのパフォーマンス改善:初歩編]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/2021/12/21/191155</id>
+        <link href="https://blog.agile.esm.co.jp/entry/2021/12/21/191155"/>
+        <updated>2021-12-21T10:11:55.000Z</updated>
+        <summary type="html"><![CDATA[この記事は ESM Advent Calendar 2021 - Adventar の21日目の記事です。 こんにちは、swamp09です。 とあるRailsアプリケーション開発プロジェクトで、フロントエンドのパフォーマンスを計測するのに Lighthouse を使いました。パフォーマンスの項目を見てみると「レンダリングを妨げるリソースの除外」が指摘されており中身をみるとapplication.jsで多くの無駄が発生しているようです。Railsアプリケーションでは application.js が肥大化してしまうケースがたまに見られますね。 Eliminate render-blocking …]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊Railsウォッチ: Rails 7リリース、5.2系と6.0.x系のサポート終了時期決定、localhost gemで自己署名証明書生成ほか（20211221前編）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_12_21/114513</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_12_21/114513"/>
+        <updated>2021-12-21T10:06:02.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/railswatch_20211221_eyecatch-min-1-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。今年最後の週刊Railsウォッチ前編をお送りします。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いし [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_12_21/114513" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Rails 7リリース、5.2系と6.0.x系のサポート終了時期決定、localhost gemで自己署名証明書生成ほか（20211221前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東晶貿易株式会社さんが運営する「転職サイト比較Plus」で紹介されました]]></title>
         <id>https://techracho.bpsinc.jp/piichan1031/2021_12_21/114313</id>
@@ -5564,46 +5585,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[ここがポイント：「人生があなたにレモンを与えたならあなたはレモネードを作りなさい」ってあんまり意味わからないですよね…。 みなさん、おはようございます。 エフェクチュエーションって僕も初めて聞いて感化されまくってしまった […]]]></summary>
         <author>
             <name>TotsukaKeisuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天も出資する量子コンピューター企業、256キュービットの新記録]]></title>
-        <id>https://www.technologyreview.jp/?p=261553</id>
-        <link href="https://www.technologyreview.jp/s/261553/this-new-startup-has-built-a-record-breaking-256-qubit-quantum-computer/"/>
-        <updated>2021-11-21T21:55:41.000Z</updated>
-        <summary type="html"><![CDATA[ハーバード大とMITの物理学者が創業し、楽天も出資するスタートアップ企業「キュエラ･コンピューティング（QuEra Computing）」が、256キュービットの量子シミュレーターを開発した。量子論に基づく材料や力学のシミュレーションのほか、NP完全問題を解く量子アルゴリズムの構築にも取り組んでいる。]]></summary>
-        <author>
-            <name>Siobhan Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタバース、ネットの「分身」が生身に与える計り知れぬ影響]]></title>
-        <id>https://www.technologyreview.jp/?p=261415</id>
-        <link href="https://www.technologyreview.jp/s/261415/the-metaverse-is-the-next-venue-for-body-dysmorphia-online/"/>
-        <updated>2021-11-21T21:48:57.000Z</updated>
-        <summary type="html"><![CDATA[フェイスブック（メタに社名変更）が注力する「メタバース」の世界では自分そっくりのアバターを作れるようになるという。自分にそっくりなアバターを作ることができるのは嬉しいかもしれないが、身体イメージの問題をさらに悪化させる可能性があると懸念する声もある。]]></summary>
-        <author>
-            <name>Tanya Basu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleにインデックスされないのは品質の水準が以前よりも厳しくなったためか？]]></title>
-        <id>https://www.suzukikenichi.com/blog/?p=11751</id>
-        <link href="https://www.suzukikenichi.com/blog/has-google-raised-the-bar-for-indexing/"/>
-        <updated>2021-11-21T21:30:20.000Z</updated>
-        <summary type="html"><![CDATA[インデックスするために必要な品質水準を Google は以前よりも引き上げているように思える。]]></summary>
-        <author>
-            <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「細胞超越性」への一歩か？ 迷路を解く、大腸菌の 分散コンピューティング]]></title>
-        <id>https://www.technologyreview.jp/?p=260782</id>
-        <link href="https://www.technologyreview.jp/s/260782/an-e-coli-biocomputer-solves-a-maze-by-sharing-the-work/"/>
-        <updated>2021-11-21T21:18:15.000Z</updated>
-        <summary type="html"><![CDATA[種類の異なる大腸菌が協力し合って迷路問題を解くという、驚くべき研究が実施された。生物による分散コンピューティングが利用できるようになれば、農業や医薬品など幅広い分野の複雑な問題解決に役立つかもしれない。]]></summary>
-        <author>
-            <name>Siobhan Roberts</name>
         </author>
     </entry>
 </feed>
