@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-22T10:12:26.758Z</updated>
+    <updated>2021-12-22T22:10:53.919Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googlebotがクロールするのは1サイト1か所、複数の場所からはクロールしない]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11815</id>
+        <link href="https://www.suzukikenichi.com/blog/googlebot-crawls-from-one-location-per-site-but-dont-crawl-from-multiple-locations/"/>
+        <updated>2021-12-22T21:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Googlebot がクロールしてくる場所はサイトにつき 1 か所。複数の場所から Googlebot はクロールしない。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3で号砲、大規模化に明け暮れた2021年のAIシーン]]></title>
+        <id>https://www.technologyreview.jp/?p=264254</id>
+        <link href="https://www.technologyreview.jp/s/264254/2021-was-the-year-of-monster-ai-models/"/>
+        <updated>2021-12-22T21:23:17.000Z</updated>
+        <summary type="html"><![CDATA[驚くべき作文能力を持つオープンAI（OpenAI）の「GPT-3」は、モデルの大規模化を競い合いう人工知能（AI）の新トレンドの始まりだった。2021年は新しい言語モデルの構築に多大な労力が注がれたものの、AIはまだGPT-3の影響から抜け出せていない。]]></summary>
+        <author>
+            <name>Will Douglas Heaven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actionsの作成が容易に。リポジトリの中身に合わせておすすめのワークフローを一覧表示、検索機能も]]></title>
+        <id>https://www.publickey1.jp/blog/21/github_actions.html</id>
+        <link href="https://www.publickey1.jp/blog/21/github_actions.html"/>
+        <updated>2021-12-22T15:12:14.000Z</updated>
+        <summary type="html"><![CDATA[GitHubは、ソフトウェア開発のワークフローを自動化する機能であるGitHub Actionsの作成機能を強化したと発表しました。 これによりGitHub Actionsの作成が容易になると説明されています。   強化された1つ目の機能は...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: Ruby 3.1で多重代入の評価順が変更、Stimulusコンポーネントとベストプラクティスほか（20211222後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2021_12_22/114531</id>
@@ -5415,76 +5445,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[お客様が機械学習モデルをカタログ化できるようにする専用サービスの Amazon SageMaker Model Registry は、モデルバージョンのクロスアカウント登録をサポートするようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify が Amplify バックエンドを CDK スタックとしてエクスポートして CDK ベースのパイプラインに統合する機能を発表]]></title>
-        <id>b345c51813522424555ccb96265dcc0c231d5183</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-export-amplify-backends-cdk-stacks-integrate-cdk-based-pipelines/"/>
-        <updated>2021-11-23T08:36:40.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Amplify は、Amplify CLI で生成されたバックエンドを Cloud Development Kit (CDK) スタックとしてエクスポートし、既存の CDK デプロイパイプラインに組み込む機能を発表しました。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。この新機能により、フロントエンドデベロッパーはアプリケーションバックエンドを迅速に構築し、準備が整うたびに、DevOps チームに渡して本番稼働環境にデプロイできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon AppStream 2.0 でサーバーレスフリートタイプである Elastic フリートの起動が可能に]]></title>
-        <id>f2005f12c7b71ea58808c106aee5076c6b783260</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-appstream-2-0-launches-elastic-fleets-serverless-fleet-type/"/>
-        <updated>2021-11-23T08:35:17.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon AppStream 2.0 では、サーバーレスフリートタイプである Elastic フリートをご利用いただけるようになりました。これにより、お客様は、使用量を予測したり、スケーリングポリシーを作成および管理したり、イメージを作成したりすることを必要とせずに、AWS マネージドのストリーミングインスタンスのプールからエンドユーザーにアプリケーションをストリーミングできます。Elastic フリートは、容量を管理したり AppStream 2.0 イメージを作成したりせずにアプリケーションをユーザーにストリーミングすることをご希望のお客様向けに設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Athena が AWS Glue Data Catalog パーティションインデックスを使用してクエリを高速化]]></title>
-        <id>2be488d26ac5458cf69bbb86724621a827d36f25</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/"/>
-        <updated>2021-11-23T08:33:56.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Athena が、クエリプランニングを最適化し、クエリの実行時間を短縮するために、AWS Glue Data Catalog のパーティションインデックスをサポートするようになったことをお知らせします。多数のパーティションを含むテーブルをクエリすると、Athena は AWS Glue Data Catalog から使用可能なパーティションを取得し、クエリに必要なパーティションを特定します。新しいパーティションが追加されると、パーティションの取得に必要な時間が長くなり、クエリの実行時間が長くなる可能性があります。AWS Glue Data Catalog を使用すると、お客様はパーティションインデックスを作成して、数万から数十万のパーティションを持つテーブルのパーティションメタデータを取得およびフィルタリングするために必要な時間を短縮できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core が IoT Credential Provider エンドポイントでマルチアカウント登録証明書のサポートを開始]]></title>
-        <id>880f1903a55b65a242b87a1135d73772c010a854</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/"/>
-        <updated>2021-11-23T08:32:35.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Core Credential Provider エンドポイントでマルチアカウント登録証明書を使用できるようになりました。マルチアカウント登録は AWS IoT Core の機能であり、お客様が複数の AWS アカウントとエンドポイントで同じデバイス証明書を簡単に登録して使用できるようにします。例えば、お客様は同じ証明書をテストアカウントと本番稼働用アカウントに登録できます。その後、お客様は、デバイスが AWS IoT Core に接続するときにアカウントエンドポイントを指定することで、これらの AWS アカウント間でデバイスを簡単に移動できます。これまで、マルチアカウント登録証明書は、IoT データプレーンと IoT Jobs エンドポイントでのみサポートされていました。本日より、お客様は IoT Credential Provider エンドポイントでもマルチアカウント登録証明書をご利用いただけます。詳細については、AWS IoT デバイスのデータとサービスエンドポイントをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect CTI Adapter for Salesforce が機械学習ベースの音声認証をサポート]]></title>
-        <id>a99ebcef0da5ce0016ba49a0b175c8f992861fff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/"/>
-        <updated>2021-11-23T08:31:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Computer Telephony Integration (CTI) Adapter for Salesforce では、Amazon Connect Voice ID の統合により、コンタクトセンターの認証手順が簡素化され、音声操作がより高速かつ安全になりました。Amazon Connect Voice ID は、機械学習を使用して発信者の固有の音声特性を分析し、リアルタイムでアイデンティティの確認をサポートしたり、CTI Adapter の Contact Control Panel (CCP) 内に信頼スコアとステータスを表示したりします。CTI Actions および Flows を使用すると、Voice ID インタラクションの結果に基づいて、不正ケースの作成を自動化したり、通話を不正対応エージェントにルーティングしたりできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect CTI Adapter for Salesforce が顧客の問題を迅速に解決するための Wisdom をサポート]]></title>
-        <id>18cb256cd60d557e3fb368ca14f0dd7d68f4aacf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/"/>
-        <updated>2021-11-23T08:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Computer Telephony Integration (CTI) Adapter for Salesforce は、Amazon Connect Wisdom の統合により、エージェントが回答の検索に費やす時間を削減するのをサポートするようになりました。これまで、エージェントは、顧客の問題を解決するためにデータソース全体で情報を手動で検索するために貴重な時間を費やす必要があり、迅速なサポートを提供することができませんでした。Wisdom を使用すると、エージェントは、CTI Adapter 内から Salesforce ナレッジベースを含む接続されたリポジトリ全体で「what is the pet policy in hotel rooms」(ホテルの部屋のペットに関するポリシーとは) などの語句で検索できます。Wisdom は、Contact Lens とリアルタイムで使用された場合、通話中に顧客の問題を検出し、役立つ記事のレコメンデーションをリアルタイムかつプロアクティブに提供するように設計されています。Wisdom ウィジェットは、エージェントの Contact Control Panel (CCP) 内で、またはケース、連絡先、およびアカウントについてのエージェントの Salesforce Lightning 画面レイアウトと一緒に設定できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビッグデータ活用の成功の鍵は人間的洞察。 テクノロジー民俗学者トリシア・ワンが説く ThickData｜濃密データの重要性]]></title>
-        <id>https://data.wingarc.com/?p=37079</id>
-        <link href="https://data.wingarc.com/triciawang-thickdata-37079?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=triciawang-thickdata"/>
-        <updated>2021-11-22T22:45:04.000Z</updated>
-        <summary type="html"><![CDATA[ビックデータが市民権を得てしばらく経ち、膨大な量のデータをもとに企業経営や事業展開の方針を決定するケースは当たり前になりつつある。しかし、信頼性の高い数値に裏付けされた行動にも関わらず、「誤った選択肢」を選んでしまう企業 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
         </author>
     </entry>
 </feed>
