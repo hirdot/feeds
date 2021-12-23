@@ -1968,6 +1968,24 @@
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
         {
+          "id": "https://gihyo.jp/lifestyle/serial/01/comic_management/0004",
+          "author": "是澤太志",
+          "description": "北野優二（以下，優二）は大手スポーツメーカー・ライテックスにあこがれを持つ主人公です。",
+          "link": "https://gihyo.jp/lifestyle/serial/01/comic_management/0004",
+          "publishedOn": "2021-12-23T00:15:40.000Z",
+          "wordCount": 372,
+          "title": "第4回　『いいひと。』から学ぶマネージャーのスタンスと強みの総和を生み出すヒント ── 漫画から学ぶマネジメント"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202112/23",
+          "author": "傍島康雄",
+          "description": "前回に続いてBangle.js 2です。今回は開発環境やアプリ開発をみていきます。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202112/23",
+          "publishedOn": "2021-12-23T00:15:20.000Z",
+          "wordCount": 610,
+          "title": "2021年12月第4週　開発意欲をくすぐるスマートウォッチ「Bangle.js 2」（後編） ── Android Weekly Topics"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202112/1222",
           "author": null,
           "description": "ねこのしっぽはデリケートなので，持って遊んだりしないでください。あと，しっぽだけをしつこくなでなでしていると，ブチ切れられるので要注意。",
@@ -2089,6 +2107,24 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "737044a6196d1c2212b2216ae25dda1ccbaecc77",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) が AWS Ground Station の南米 (サンパウロ) リージョンへの拡大と、チリ、プンタアレーナスへの AWS Ground Station アンテナロケーションの開設 (プレビュー) を発表しました。これは AWS グローバルネットワークに接続された 10 番目の AWS Ground Stationn となります。AWS Ground Station は、人工衛星通信の制御や人工衛星データの処理、さらにスケーラブルな人工衛星の運用を可能にするフルマネージドサービスです。プンタアレーナスまでグローバル展開が広がったことで、衛星の所有者と運用者は衛星に接続し、宇宙のワークロードをより頻繁に処理できるようになります。南半球に AWS Ground Station のロケーションが追加されたことで、地球低軌道衛星への接続時間が短縮されます。このリージョンから操作する顧客は、さらに低いレイテンシーでの処理機能をご利用いただけるようになります。政府、企業、大学には、よりタイムリーな衛星データを活用することで、正確にデータ駆動型の意思決定を行えるという利点があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-ground-station-antenna-location-punta-arenas-preview/",
+          "publishedOn": "2021-12-22T23:29:01.000Z",
+          "wordCount": 339,
+          "title": "AWS Ground Station がプンタアレーナスにプレビュー用新規アンテナロケーションを開設"
+        },
+        {
+          "id": "6098749e5f58c770289ee5901fffbe9a221c713c",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Lex でポルトガル語、ポルトガル語 (ブラジル)、中国標準語のサポート開始が発表されました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、会話型エクスペリエンスを構築したり、それをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-lex-launches-support-new-languages/",
+          "publishedOn": "2021-12-22T23:26:39.000Z",
+          "wordCount": 264,
+          "title": "Amazon Lex でポルトガル語、ポルトガル語 (ブラジル)、中国標準語のサポートを開始"
+        },
         {
           "id": "0dfcd2b7ccd6fbf26a276d352b936fc76a90ca83",
           "author": "aws@amazon.com",
@@ -4743,24 +4779,6 @@
           "publishedOn": "2021-11-23T17:30:49.000Z",
           "wordCount": 279,
           "title": "Amazon EMR Studio が欧州 (パリ) と南米 (サンパウロ) で利用可能に"
-        },
-        {
-          "id": "8de8458e6be8e63825a2e86566ad513a6c960468",
-          "author": "aws@amazon.com",
-          "description": "Amazon CloudWatch は、メトリクスの数式に基づく異常検出をサポートするようになりました。Amazon CloudWatch 異常検出を利用することで、機械学習アルゴリズムを適用して、システムとアプリケーションのメトリクスを継続的に分析し、通常のベースラインを決定し、最小限のユーザー介入で異常を表面化させることができます。CloudWatch のメトリクスの数式では、メトリクスを集計および変換して、ヘルスおよびパフォーマンスのメトリクスのカスタム視覚化を作成できます。メトリクスの数式は、+、-、/、* などの基本的な数論的関数、AND & OR などの比較演算子や論理演算子、および RATE や INSIGHT_RULE_METRIC などのいくつかの追加の関数をサポートします。例えば、AWS Lambda メトリクスを使用すると、Errors メトリクスを Invocations メトリクスで除算してエラー率を取得したり、異常検出を使用してメトリクスグラフで想定値を視覚化したり、値が想定の範囲外になったときに動的にアラートを受け取るために異常検出アラームを作成したりできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-supports-anomaly-detection-metric-math-expressions/",
-          "publishedOn": "2021-11-23T11:32:31.000Z",
-          "wordCount": 272,
-          "title": "Amazon CloudWatch がメトリクスの数式の異常検出のサポートを開始"
-        },
-        {
-          "id": "1045037ff69f449b82fccaec93aba653c1c8bbc0",
-          "author": "aws@amazon.com",
-          "description": "お客様が機械学習モデルをカタログ化できるようにする専用サービスの Amazon SageMaker Model Registry は、モデルバージョンのクロスアカウント登録をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/Amazon-sagemaker-model-registry-registration/",
-          "publishedOn": "2021-11-23T11:31:30.000Z",
-          "wordCount": 287,
-          "title": "Amazon SageMaker Model Registry がモデルバージョンのクロスアカウント登録のサポートを開始"
         }
       ]
     },
