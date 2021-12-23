@@ -2108,6 +2108,24 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "85232439656abd14836b0b135e0a6193334cabd8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、問い合わせフローおよび問い合わせフローモジュールの 2 つの新しいリソースに対して AWS CloudFormation のサポートを開始します。AWS CloudFormation テンプレートを使用することで、他の AWS インフラストラクチャと共にこれらの Amazon Connect リソースを安全、効率的、繰り返し可能な方法でデプロイできるようになりました。加えて、これらのテンプレートを使用して Amazon Connect インスタンス全体の一貫線を維持できます。詳細については、 AWS CloudFormation ユーザーガイドの「Amazon Connect リソースタイプリファレンス」を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/",
+          "publishedOn": "2021-12-23T02:16:53.000Z",
+          "wordCount": 284,
+          "title": "Amazon Connect が問い合わせフローおよび問い合わせフローモジュールリソースへの AWS CloudFormation のサポートを提供開始"
+        },
+        {
+          "id": "6e337462e43e428698110b4f4685fa249aa4369d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Detective に、AWS Organizations に対するサポートが追加されました。これにより、組織内の既存および将来のアカウントすべてのセキュリティ運用と調査のためのアカウント管理が簡素化されます。このリリースにより、新規および既存の Detective カスタマーは最大 1,200 件の AWS アカウントを持つ Detective グラフデータベースにアクセスでき、一元的に管理できます。 このサポートは、現在、Detective がサポートするすべての AWS リージョンでご利用いただけます。詳細については、Amazon Detective 管理ガイドを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/",
+          "publishedOn": "2021-12-23T02:16:05.000Z",
+          "wordCount": 305,
+          "title": "AWS Organizations へのサポートにより、Amazon Detective でアカウント管理を簡素化"
+        },
+        {
           "id": "737044a6196d1c2212b2216ae25dda1ccbaecc77",
           "author": "aws@amazon.com",
           "description": "アマゾン ウェブ サービス (AWS) が AWS Ground Station の南米 (サンパウロ) リージョンへの拡大と、チリ、プンタアレーナスへの AWS Ground Station アンテナロケーションの開設 (プレビュー) を発表しました。これは AWS グローバルネットワークに接続された 10 番目の AWS Ground Stationn となります。AWS Ground Station は、人工衛星通信の制御や人工衛星データの処理、さらにスケーラブルな人工衛星の運用を可能にするフルマネージドサービスです。プンタアレーナスまでグローバル展開が広がったことで、衛星の所有者と運用者は衛星に接続し、宇宙のワークロードをより頻繁に処理できるようになります。南半球に AWS Ground Station のロケーションが追加されたことで、地球低軌道衛星への接続時間が短縮されます。このリージョンから操作する顧客は、さらに低いレイテンシーでの処理機能をご利用いただけるようになります。政府、企業、大学には、よりタイムリーな衛星データを活用することで、正確にデータ駆動型の意思決定を行えるという利点があります。",
