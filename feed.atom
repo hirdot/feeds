@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T22:10:48.372Z</updated>
+    <updated>2021-12-24T00:38:17.284Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[子どもたちのインターネット利用状況って？ 家庭内のルールは？ 気になる子どもとインターネットの実態にデータで迫る！]]></title>
+        <id>https://data.wingarc.com/?p=32743</id>
+        <link href="https://data.wingarc.com/internet-usage-for-kids-32743?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=internet-usage-for-kids"/>
+        <updated>2021-12-23T23:00:50.000Z</updated>
+        <summary type="html"><![CDATA[生まれたときから身近にインターネットがある、Z世代やα世代の子どもたち。彼らにとってインターネットを使うのはごく「自然」で「当たり前」のこと。 気軽にインターネットを利用して様々な情報を活用できることは子どもたちの可能性 […]]]></summary>
+        <author>
+            <name>大藤 ヨシヲ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 Image Builder がオンプレミスイメージからカスタムイメージを作成するためのコンソールサポートを追加]]></title>
+        <id>831ce47e0f507eebbe900cee07ff02ac52a28a73</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/ec2-image-builder-console-custom-image-creation-on-premise-images/"/>
+        <updated>2021-12-23T22:57:13.000Z</updated>
+        <summary type="html"><![CDATA[お客様は EC2 Image Builder を使用することで、オンプレミスのイメージからのカスタムイメージを単一のコンソールベースのエクスペリエンスで構築できるようになりました。この機能により、お客様は S3 に保存されているオンプレミスイメージ (OVA、VHD、VHDX、VMDK、raw 形式) を EC2 Image Builder パイプラインに容易に取り込むことができるようになります。これらのお客様は、プロセスオートメーション、ビルドセキュリティ、イメージディストリビューションなど、EC2 Image Builder の既存の機能を活用し、直感的なコンソールからイメージを構築できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK で Apache Kafka バージョン 2.7.2 のサポート追加]]></title>
+        <id>1c8ff9b195291dc92276487b530a49b9186ec38d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-msk-support-apache-kafka-version-2-7-2/"/>
+        <updated>2021-12-23T22:55:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 2.7.2 のサポートが開始されました。Apache Kafka 2.7.2 には、セキュリティの強化とバグ修正が含まれています。これらの修正の詳細については、Apache Kafka 2.7.2 のリリースノートを確認してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Customer Profiles が PCI に準拠し、SOC 1 および SOC 2 の対象範囲となる]]></title>
+        <id>a583283ee1b76420ed07bcb33fdd27b65d046c1c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-connect-pci-compliant-soc/"/>
+        <updated>2021-12-23T22:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Customer Profiles は、Payment Card Industry Data Security Standard (PCI) に準拠し、System Organization Controls (SOC 1 および SOC 2) の対象範囲になりました。Customer Profiles は複数のアプリケーションから顧客情報を自動的に収集し、お問い合わせ担当エージェントがお客様とやり取りする場で、そうした情報を見ることができるよう設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE DCV が複数の接続をサポートしたウェブクライアント SDK 1.0.4 をリリース]]></title>
+        <id>a74874456d9c5d8816003bf42ceb587274f6791a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/nice-dcv-web-sdk-1-0-4-multiple-connection-support/"/>
+        <updated>2021-12-23T22:51:38.000Z</updated>
+        <summary type="html"><![CDATA[NICE DCV ウェブクライアントソフトウェア開発キット (SDK) バージョン 1.0.4 は、複数同時接続のサポートを導入しています。デベロッパーは、ウェブクライアント SDK を使用して、1 つのウェブページで異なる DCV セッションを表示する複数のサイドバイサイドのストリーミングビューを持つアプリケーションを構築できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NICE DCV が DCV コネクションゲートウェイを搭載したバージョン 2021.3 をリリース]]></title>
+        <id>101aec48877f4b8c2fd87be0c2dda1492dcfa775</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/nice-dcv-version-2021-3-dcv-connection-gateway/"/>
+        <updated>2021-12-23T22:48:23.000Z</updated>
+        <summary type="html"><![CDATA[NICE DCV version 2021.3 では、DCV コネクションゲートウェイや、更新された DCV Web Client のユーザーインターフェイスなど、複数の新機能が導入されています。NICE DCV は、ハイパフォーマンスなリモートディスプレイプロトコルです。これを使うと、ハイパフォーマンス GPU を搭載したサーバーでホストされた 3D グラフィックスアプリケーションなどのリモートデスクトップ、またはアプリケーションのセッションに安全にアクセスできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Connection Manager (CMAN) をサポート]]></title>
+        <id>0199c3dfae287cef0d526e335e7de5479d719ca7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-rds-oracle-connection-manager-cman/"/>
+        <updated>2021-12-23T22:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Connection Manager (CMAN) の追加ユースケースをサポートするようになりました。CMAN は、データベースサーバーやその他のプロキシサーバーに接続要求を転送するプロキシサーバーです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[index.htmlの正規化はGoogle SEOで必要か？]]></title>
         <id>https://www.suzukikenichi.com/blog/?p=11818</id>
@@ -5317,46 +5387,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[Kubernetesをはじめとするクラウドネイティブを実現するオープンソースソフトウェアの開発を推進する「Cloud Native Computing Foundation」は、システム管理ツール「Prometheus」の新機能「Prome...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Service Management Connector は、 ServiceNow のガイド付きセットアップで簡単にインストール]]></title>
-        <id>d7b0bfe7ab86bbf13e8133f4e64c33456c30cc9a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-service-management-connector-installation-easier-servicenow-guided-setup/"/>
-        <updated>2021-11-24T12:33:23.000Z</updated>
-        <summary type="html"><![CDATA[本日より、お客様は、ServiceNow のガイド付きセットアップで、AWS Service Management Connector をインストールすることができます。このガイド付きセットアップは、ServiceNow スコープ対象のアプリケーション設定タスクを簡素化し、AWS と ServiceNow の間の接続を確立するために必要な専門知識を最小限に抑えます。ServiceNow の管理者、または Connector スコープ対象のアプリケーションにアクセス許可を持つパワーユーザーは、ガイド付きステップに従って、各タスクに完了またはスキップのマークを付けるだけです（該当する場合）。AWS Service Management Connector のドキュメントには、AWS 環境をセットアップする AWS CloudFormation ベースラインアクセス許可テンプレートも含まれています。したがって、ServiceNow ガイド付きセットアップと AWS ベースラインアクセス許可を使用して、お客様は、統合された AWS のサービスを介したガードレールと検出制御の開発、および AWS と ServiceNow との接続の検証に集中することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SNS が、単一の API リクエストで最大10個のメッセージのバッチを発行するサポートを開始]]></title>
-        <id>53f3340c6e7fd86ddb22e9b25f57118353e3f0df</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/"/>
-        <updated>2021-11-24T12:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Simple Notification Service (Amazon SNS) が、発行アクションのメッセージバッチ処理をサポートするようになりました。これにより、最大10個のメッセージを単一のバッチリクエストで、スタンダードトピックまたはFIFOトピックのいずれかに発行できます。メッセージを単一の API リクエストにバッチ処理することは、分離されたアプリケーションを Amazon SNS に接続させることに関連するコストを削減したい人を対象としています。以前は、Amazon SNS では、発行されたメッセージごとに個別の API リクエストを必要としていました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly で新しいフランス語のニューラルテキスト読み上げ音声を新たにローンチ]]></title>
-        <id>248cdd82a56ce025b543567e543fa62b7b6f1315</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/"/>
-        <updated>2021-11-24T12:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、フランス語の Polly 音声である Léa のニューラルテキスト読み上げ (NTTS) バージョンの一般提供の開始を発表します。これで、Amazon Polly のお客様は、NTTS またはスタンダードの音声のいずれかで、 Léa をご利用になれます。今回の発表により、13 の言語で 23 の NTTS 音声が提供されるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ServiceNow 向け AWS Service Management Connector が AWS Systems Manager Change Manager をサポート]]></title>
-        <id>e37ab69e5827c1b614c189fcf495b282f8ec71ae</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/"/>
-        <updated>2021-11-24T12:30:58.000Z</updated>
-        <summary type="html"><![CDATA[本日より、お客様は AWS Systems Manager Change Manager を介して、ServiceNow 内のテンプレートに基づいて AWS リソース/サービスの変更リクエストを行うことができます。ServiceNow 内で承認すると、これらの変更リクエストは、変更テンプレートに関連付けられた AWS Systems Manager Automation ランブックを実行します。AWS Systems Manager Change Manager では、AWS でのインフラストラクチャおよびアプリケーションの設定に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。この統合により、お客様は AWS リソース/サービスのメンテナンス、管理、ガバナンスを、使い慣れた IT Change Management (有効化) プロセスおよびツールで合理化し調整することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
