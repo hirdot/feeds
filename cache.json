@@ -220,15 +220,6 @@
           "publishedOn": "2021-11-25T21:45:38.000Z",
           "wordCount": 522,
           "title": "Google検索のtitleタグ書き換えの対処方法: タイトルリンクはテストしやすくなった"
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/?p=11756",
-          "author": "Kenichi Suzuki",
-          "description": "構造化データ マークアップ支援ツールは、Google 検索のリッチスニペット表示に必要な構造化データの最新の要件を必ずしも反映していない。",
-          "link": "https://www.suzukikenichi.com/blog/structured-data-markup-helper-is-a-bit-outdated/",
-          "publishedOn": "2021-11-24T21:30:21.000Z",
-          "wordCount": 526,
-          "title": "構造化データ マークアップ支援ツールは古い、リッチリザルトの最新要件を反映せず"
         }
       ]
     },
@@ -693,6 +684,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=264298",
+          "author": "Siobhan Roberts",
+          "description": "世界各地から数千人が参加するアドベント・オブ・コード（Advent of Code：AoC）は、エンジニアたちに人気のプログラミング・コンテストだ。最も速く問題を解くこと、プログラミングを学ぶ材料とすることなど、参加者の動機はさまざまだが、共通しているのは、参加者全員が毎日新しい問題を心待ちにしていることだ。",
+          "link": "https://www.technologyreview.jp/s/264298/this-puzzle-challenge-brings-joy-to-the-world-of-code/",
+          "publishedOn": "2021-12-24T09:14:12.000Z",
+          "wordCount": 743,
+          "title": "難問をプレゼント、世界のエンジニアが楽しむクリスマス・イベント"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=263812",
           "author": "James Temple",
           "description": "大西洋の広範囲にわたって循環する海流は、気候変動を理解するために重要な要素となる。しかし、直接観測する試みを進めるにつれて、この大西洋循環システムは、かつて考えられていたよりも得体のしれない、予測不可能なものであることが分かってきた。",
@@ -979,15 +979,6 @@
           "publishedOn": "2021-11-24T23:00:43.000Z",
           "wordCount": 772,
           "title": "MITTRが選ぶ、2021年の日本発「U35」イノベーターを発表"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=262066",
-          "author": "Patrick Howell O'Neill",
-          "description": "イスラエルのNSOはこれまで、悪名高いスパイウェア「ペガサス」を幾多の独裁国家に販売してきたことを非難されつつもビジネスを続けてきた。しかし、米国政府が制裁を科すことを発表した現在、存亡の危機に瀕している。",
-          "link": "https://www.technologyreview.jp/s/262066/nso-was-about-to-sell-hacking-tools-to-france-now-its-in-crisis/",
-          "publishedOn": "2021-11-24T21:55:10.000Z",
-          "wordCount": 664,
-          "title": "世界的スパイウェア企業「NSO」、米制裁で企業存亡の危機"
         }
       ]
     },
@@ -2143,6 +2134,78 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "75d3e2444243e409341c518ad2ba09efc489e196",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect チャットのユーザーインターフェイスは、お客様のウェブブラウザを介したブラウザ通知に対応し、エージェントがメッセージに応答したことをお客様に知らせることで、お客様満足度を向上させることができるようになりました。お客様が、他のアプリケーションまたはブラウザウィンドウで新しいチャットメッセージを受信すると、クリックして簡単にチャットユーザーインターフェイスでメッセージを表示することができるウェブブラウザを介して通知を受け取ることができます。この機能は、マニュアルで設定することなく、すぐにサポートされます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-connect-chat-user-interface-browser-notifications-customers/",
+          "publishedOn": "2021-12-24T09:46:38.000Z",
+          "wordCount": 251,
+          "title": "Amazon Connect チャットのユーザーインターフェイスがお客様のブラウザ通知に対応"
+        },
+        {
+          "id": "971c789875c96b66940e374211aaed2eccee0526",
+          "author": "aws@amazon.com",
+          "description": "本日より、お客様は AWS コスト管理コンソールで、時間単位の詳細レベルで Savings Plans の Utilization および Coverage を追跡できます。Savings Plans は柔軟な料金設定モデルであり、1 年間または 3 年間の一定量のコンピューティング使用 (USD/時間で測定) の契約と引き換えに、Amazon EC2、AWS Lambda、および AWS Fargate タイプを使用する Amazon ECS で最大 72% のコスト削減を実現できます。Savings Plans の割引は、時間単位で計算および適用されます。Savings Plans の Utilization レポートの時間単位の詳細レベルは、既存の Savings Plans のサブスクリプションを 1 時間あたりどの程度使用しているかを視覚化して理解するのに役立ちます。同様に、Savings Plans の Coverage レポートの時間単位の詳細レベルは、Savings Plans の対象となる支出の合計のうち、1 時間あたりの Savings Plans でカバーされる金額を視覚化して理解するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-cost-management-hourly-granularity-savings-reports/",
+          "publishedOn": "2021-12-24T09:45:52.000Z",
+          "wordCount": 371,
+          "title": "AWS コスト管理が Savings Plans の Utilization および Coverage レポートで時間単位の詳細レベルのサポートを開始"
+        },
+        {
+          "id": "2e727bda629c826106ae4e6a3c553e43d1851157",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Elemental MediaConnect は、Fujitsu Quality of Service (QoS) プロトコルをサポートします。Fujitsu QoS は、MediaConnect でサポートされているいくつかのトランスポートプロトコルの 1 つです。これには、Zixi、Reliable Internet Stream Transport (RIST)、Secure Reliable Transport (SRT)、および Real-Time Transport Protocol (RTP) が含まれています。MediaConnect はプロトコル間で変換を行うため、AWS の内部または外部で実行されている、信頼性の高いさまざまなライブ動画トランスポートアプリケーションを構築できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/",
+          "publishedOn": "2021-12-24T09:45:04.000Z",
+          "wordCount": 297,
+          "title": "Fujitsu QoS プロトコルのサポートが AWS Elemental MediaConnect で利用可能に"
+        },
+        {
+          "id": "a9f87c314f3aee124be3aa843a49878789507bef",
+          "author": "aws@amazon.com",
+          "description": "AWS Secrets Manager は、Amazon RDS MySQL、MariaDB、SQL Server、PostgreSQL、および MongoDB のデータベースシークレットのローテーション時に、SSL 接続を透過的にサポートするようになりました。AWS Secrets Manager が提供する AWS Lambda リソースを最初に修正することなく、これらのデータベースに対して SSL を常に有効にすることができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-secrets-manager-enables-ssl-connections-rotating-database/",
+          "publishedOn": "2021-12-24T09:43:01.000Z",
+          "wordCount": 288,
+          "title": "AWS Secrets Manager でデータベースシークレットのローテーション時に SSL 接続が自動的に有効に"
+        },
+        {
+          "id": "fefcd8451f0e843d068bc911f51f5aefa10dd09a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK ミーティングは、48kHz サンプリングと 128kbps エンコーディングのステレオ音声をサポートするようになりました。 これらの機能により、デベロッパーは、アプリケーションでライブ楽器やステレオマイクの音声をキャプチャしたり、事前に録音された音楽や他のステレオコンテンツをステレオ再生でユーザーに共有したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/",
+          "publishedOn": "2021-12-24T09:37:37.000Z",
+          "wordCount": 279,
+          "title": "Amazon Chime SDK がステレオ音声のサポートを開始"
+        },
+        {
+          "id": "fdce3282c41fe4aaedde7927524163fdf22fd8d0",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 on Outposts が両方の AWS GovCloud (米国) リージョンで利用可能になりました。AWS GovCloud (米国) リージョンでの提供開始により、米国政府関連機関や業者は、オブジェクトストレージの特定の規制およびコンプライアンス要件に対処して、機密ワークロードを AWS Outposts に移行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/",
+          "publishedOn": "2021-12-24T09:36:03.000Z",
+          "wordCount": 289,
+          "title": "Amazon S3 on Outposts が AWS GovCloud (米国) リージョンで利用可能に"
+        },
+        {
+          "id": "0e1dd2b8019aa8ee92bd3787ed21aba4d033dc07",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda は、インバウンド接続用の IPv6 エンドポイントをサポートするようになりました。これにより、お客様は IPv6 を介して Lambda 関数を呼び出すことができます。これは、お客様が IPv6 コンプライアンス要件を満たすのに役立ちます。また、IPv4 と IPv6 間のアドレス変換を処理するための高価なネットワーク機器が不要になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/",
+          "publishedOn": "2021-12-24T09:34:47.000Z",
+          "wordCount": 310,
+          "title": "AWS Lambda がインバウンド接続用のインターネットプロトコルバージョン 6 (IPv6) エンドポイントのサポートを開始"
+        },
+        {
+          "id": "5658d8f76eb58db4d8696778d4093ac54d9b15ff",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、新しいクラスターおよび既存のクラスター向けに Apache Kafka バージョン 2.6.3 のサポートが開始されました。Apache Kafka 2.6.3 には、セキュリティの強化とバグ修正が含まれています。これらの修正の詳細については、Apache Kafka 2.6.3 のリリースノートを確認してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-msk-apache-support-kafka-2-6-3/",
+          "publishedOn": "2021-12-24T09:33:13.000Z",
+          "wordCount": 306,
+          "title": "Amazon MSK が Apache Kafka バージョン 2.6.3 のサポートを追加"
+        },
         {
           "id": "9a6573107fbbc5febff8ce7197da460b97f0cef2",
           "author": "aws@amazon.com",
