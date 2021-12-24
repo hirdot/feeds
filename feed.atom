@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-24T02:35:04.014Z</updated>
+    <updated>2021-12-24T03:11:08.632Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CI fail は突然に ～cimg が compose v2 を使うようになって～]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/docker-compose-v2-in-latest-cimg</id>
+        <link href="https://blog.agile.esm.co.jp/entry/docker-compose-v2-in-latest-cimg"/>
+        <updated>2021-12-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メリークリスマス！ yucao24hours です。 こちらがおそらく 2021 年最後のアジャイル開発ブログとなります（予定）。今年も一年、私たちのブログに目を通していただきありがとうございました。 さて、今回は自分が関わっている数プロジェクトで発生した、突然の CI のふるまいの変化とその原因について調べた結果を書いてみます。 ことの発端 去る 12 月 8 日の夕方のことです。 GitHub にてとある Pull Request をマージしたところ、main ブランチにて CI が fail したことに気づきました。 CircleCI を使っているプロジェクトでしたので CircleCI…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「2年猶予」は衝撃か安堵か？ 1月施行「改正電子帳簿保存法」2年猶予も 過半数以上の51.4%が 「2022年中に運用をはじめる予定」と回答]]></title>
         <id>https://data.wingarc.com/?p=37633</id>
@@ -5427,16 +5437,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[構造化データ マークアップ支援ツールは、Google 検索のリッチスニペット表示に必要な構造化データの最新の要件を必ずしも反映していない。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[システム管理ツール「Prometheus」が「Prometheus Agent」モードを提供、エッジ環境やIoTなど限られたリソースでも利用可能に]]></title>
-        <id>https://www.publickey1.jp/blog/21/prometheusprometheus_agentiot.html</id>
-        <link href="https://www.publickey1.jp/blog/21/prometheusprometheus_agentiot.html"/>
-        <updated>2021-11-24T14:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetesをはじめとするクラウドネイティブを実現するオープンソースソフトウェアの開発を推進する「Cloud Native Computing Foundation」は、システム管理ツール「Prometheus」の新機能「Prome...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

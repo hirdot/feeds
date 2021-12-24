@@ -1443,15 +1443,6 @@
           "publishedOn": "2021-11-28T15:02:56.000Z",
           "wordCount": 177,
           "title": "PHP言語の開発と発展をリードする「The PHP Foundation」設立。JetBrains、Zend、Automatticなど10社"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/prometheusprometheus_agentiot.html",
-          "author": null,
-          "description": "Kubernetesをはじめとするクラウドネイティブを実現するオープンソースソフトウェアの開発を推進する「Cloud Native Computing Foundation」は、システム管理ツール「Prometheus」の新機能「Prome...",
-          "link": "https://www.publickey1.jp/blog/21/prometheusprometheus_agentiot.html",
-          "publishedOn": "2021-11-24T14:57:35.000Z",
-          "wordCount": 252,
-          "title": "システム管理ツール「Prometheus」が「Prometheus Agent」モードを提供、エッジ環境やIoTなど限られたリソースでも利用可能に"
         }
       ]
     },
@@ -4827,6 +4818,15 @@
       "feedUrl": "https://blog.agile.esm.co.jp/feed",
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
+        {
+          "id": "https://blog.agile.esm.co.jp/entry/docker-compose-v2-in-latest-cimg",
+          "author": null,
+          "description": "メリークリスマス！ yucao24hours です。 こちらがおそらく 2021 年最後のアジャイル開発ブログとなります（予定）。今年も一年、私たちのブログに目を通していただきありがとうございました。 さて、今回は自分が関わっている数プロジェクトで発生した、突然の CI のふるまいの変化とその原因について調べた結果を書いてみます。 ことの発端 去る 12 月 8 日の夕方のことです。 GitHub にてとある Pull Request をマージしたところ、main ブランチにて CI が fail したことに気づきました。 CircleCI を使っているプロジェクトでしたので CircleCI…",
+          "link": "https://blog.agile.esm.co.jp/entry/docker-compose-v2-in-latest-cimg",
+          "publishedOn": "2021-12-24T03:00:00.000Z",
+          "wordCount": 547,
+          "title": "CI fail は突然に ～cimg が compose v2 を使うようになって～"
+        },
         {
           "id": "https://blog.agile.esm.co.jp/entry/2021/12/21/191155",
           "author": null,
