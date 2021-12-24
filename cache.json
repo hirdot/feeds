@@ -6,6 +6,15 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=11821",
+          "author": "Kenichi Suzuki",
+          "description": "Web担当者Forum の連載コーナー「海外&国内SEO情報ウォッチ」を更新。2021 年のグーグル SEO 情報から、特に印象的だった 10 大トピックを振り返る。アルゴリズム アップデート、順位変動、テクニカル SEO、注目調査データなどなど、見落としたネタがないか最後に確認だ。",
+          "link": "https://www.suzukikenichi.com/blog/seowatch20211224/",
+          "publishedOn": "2021-12-24T21:30:33.000Z",
+          "wordCount": 493,
+          "title": "【鈴木謙一が選ぶ】グーグルSEOの2021年10大トピック【海外＆国内SEO情報ウォッチ】"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=11818",
           "author": "Kenichi Suzuki",
           "description": "現在の Google 検索においては index.html ありなしを明示的に正規化しなくても Google がほとんどの場合は自動的に正規化してくれる。",
@@ -578,33 +587,6 @@
           "publishedOn": "2021-11-29T01:56:00.000Z",
           "wordCount": 1252,
           "title": "Microsoftが新しいクラウドネイティブ製品、Azure Container Apps Serviceを発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/cloudfront-response-headers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "先ごろ、Amazon CloudFront はレスポンスヘッダーポリシーのサポートの追加によって、レスポンスヘッダーを挿入するためのカスタム Lambda@Edge およびCloudFront ファンクションの不要とした。この新機能により、開発者はクロスオリジンリソースシェアリング (CORS)、セキュリティ、およびカスタムヘッダーを HTTP レスポンスに追加できる。\n By Renato Losio  Translated by  Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/11/cloudfront-response-headers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-25T01:27:00.000Z",
-          "wordCount": 1211,
-          "title": "Amazon CloudFrontが設定可能なCORSとカスタムHTTPレスポンスヘッダーをサポート"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/HashiCorp-vault-1-8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Feynman Zhou",
-          "description": "HashiCorp Vault 1.8 は、Vault 診断、統合されたストレージオートパイロット、AWS のキー管理シークレットエンジン、有効期限管理の改善、コントロールグループトリガなど機密性とプライバシー製品に注目すべき機能と改善をもたらす。Vault は、UI、CLI や HTTP API を使用しユーザがシークレットを管理し、機密データを保護するのに役立つ。\n By Feynman Zhou  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/11/HashiCorp-vault-1-8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-25T01:19:00.000Z",
-          "wordCount": 1177,
-          "title": "HashiCorp Vault 1.8に診断コマンド、キー管理シークレットエンジン、および有効期限マネージャを追加"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/11/exactly-once-uber-flink-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Vasco Veloso",
-          "description": "UberEats に広告を導入した後、Uber はいくつかの困難に直面した。生成したイベントは、迅速、確実、正確に処理する必要があった。これらの要件は、広告イベントのストリームを正確に1回のセマンティクスでリアルタイムに処理する、Apache Flink、Kafka、および Pinot をベースにしたシステムによって満たされた。このアーキテクチャを説明する記事が最近 Uber Engineering ブログに公開された。\n By Vasco Veloso  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/11/exactly-once-uber-flink-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-11-25T01:10:00.000Z",
-          "wordCount": 1182,
-          "title": "Apache Flink、Kafka、およびPinotを使用したUberでのリアルタイムの正確に1回のイベント処理"
         }
       ]
     },
@@ -970,15 +952,6 @@
           "publishedOn": "2021-11-25T21:59:34.000Z",
           "wordCount": 549,
           "title": "COP26で確立された炭素市場のルール、その意義と「抜け穴」"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=262154",
-          "author": "MIT Technology Review Japan",
-          "description": "MITテクノロジーレビュー［日本版］は、35歳未満のイノベーターを表彰する「Innovators Under 35 Japan 2021」の受賞者を発表した。",
-          "link": "https://www.technologyreview.jp/s/262154/the-winners-of-innovators-under-35-japan-2021-have-been-announced/",
-          "publishedOn": "2021-11-24T23:00:43.000Z",
-          "wordCount": 772,
-          "title": "MITTRが選ぶ、2021年の日本発「U35」イノベーターを発表"
         }
       ]
     },
@@ -1103,15 +1076,6 @@
           "publishedOn": "2021-11-29T00:00:35.000Z",
           "wordCount": 516,
           "title": "日本のものづくりはどこまで自由になれるのか？"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37038",
-          "author": "tadokoroyusuke",
-          "description": "様々な業界でデジタルトランスフォーメーション（DX）が加速しているものの、物流業界のDX化に向けた課題は山積み状態です。 企業間の規格の不統一、人材不足、コロナ禍対策の影響による効率や営業力の低下の抑制、さらなるサービス […]",
-          "link": "https://data.wingarc.com/seminarlist_202112-37038?utm_source=rss&utm_medium=rss&utm_campaign=seminarlist_202112",
-          "publishedOn": "2021-11-25T00:00:01.000Z",
-          "wordCount": 576,
-          "title": "物流業界の方必見！ 「物流DX・データ活用」イベント・セミナー5選 2021年12月版"
         }
       ]
     },
@@ -1765,15 +1729,6 @@
           "publishedOn": "2021-11-26T08:30:57.000Z",
           "wordCount": 343,
           "title": "Windows 10/11でWSL環境を移行する方法"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2021_11_25/113829",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/11/ruby_security_fix_303_275_269_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby 3.0.3/2.7.5/2.6.9セキュリティ修正がリリースされました。 リリースノート Ruby 3&#46;0&#46;3 リリース コミットログ差分 Comparing v3&#95;0&#95;2&#46;&#46;&#46;v3&#95;0&#95;3 · ruby/ruby Ruby 2&#46;7&#46;5 リリース コミットログ差分 Comparing v2&#95;7&#95;4&#46;&#46;&#46;v2&#95;7&#95;5 · ruby/ruby Ruby 2&#46;6&#46;9 リリース コミットログ差分 Comparing v2&#95;6&#95;8&#46; [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_11_25/113829\" data-wpel-link=\"internal\" target=\"_self\">Ruby 3.0.3/2.7.5/2.6.9セキュリティ修正がリリースされました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2021_11_25/113829",
-          "publishedOn": "2021-11-25T03:55:15.000Z",
-          "wordCount": 475,
-          "title": "Ruby 3.0.3/2.7.5/2.6.9セキュリティ修正がリリースされました"
         }
       ]
     },
@@ -1907,15 +1862,6 @@
           "publishedOn": "2021-11-26T00:59:00.000Z",
           "wordCount": 415,
           "title": "2021年11月26日号　jammyの開発/“YellowCarp”対応とsystemdの更新 ── Ubuntu Weekly Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202111/25",
-          "author": "階戸アキラ",
-          "description": "Amazon Web Services（AWS）は11月22日，「Amazon Linux 2022」のパブリックプレビューを発表した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202111/25",
-          "publishedOn": "2021-11-25T05:10:00.000Z",
-          "wordCount": 401,
-          "title": "2021年11月25日　Amazon Linux 2022のパブリックプレビューが全リージョンで提供開始 ── Linux Daily Topics"
         }
       ]
     },
@@ -1977,15 +1923,6 @@
           "publishedOn": "2021-11-30T00:15:00.000Z",
           "wordCount": 990,
           "title": "第160回　pt-show-grantsを使ってユーザアカウントを移行する ── MySQL道普請便り"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0003",
-          "author": "高須正和",
-          "description": "第1回，第2回で紹介したとおり，中国でのオープンソース・ムーブメントはまさに今拡大中。コミュニティは「今から俺たちがムーブメントを盛り上がるぞ！」という熱気で満ちています。",
-          "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0003",
-          "publishedOn": "2021-11-25T00:15:20.000Z",
-          "wordCount": 358,
-          "title": "第3回　儲かるオープンソースのカギは大企業の参加 ～スマホ屋から金融企業まで盛り上がるコンプライアンスSIG ── 日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く"
         }
       ]
     },
@@ -2074,15 +2011,6 @@
           "publishedOn": "2021-11-30T00:15:20.000Z",
           "wordCount": 488,
           "title": "第35回　Days of WINE and Struggles again［4］ ── 続・玩式草子 ―戯れせんとや生まれけん―"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202111/25",
-          "author": "傍島康雄",
-          "description": "2021年11月第4週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202111/25",
-          "publishedOn": "2021-11-25T00:15:00.000Z",
-          "wordCount": 433,
-          "title": "2021年11月第4週　新タブレット「Pixel Tablet」登場の兆しが見え隠れ ── Android Weekly Topics"
         }
       ]
     },
@@ -4743,87 +4671,6 @@
           "publishedOn": "2021-11-25T13:31:15.000Z",
           "wordCount": 271,
           "title": "AWS Database Migration Service が Kafka のマルチトピックに対応"
-        },
-        {
-          "id": "9f79f6ccd371d4d15c4eedb61f30e4c56f413508",
-          "author": "aws@amazon.com",
-          "description": "AWS App Mesh が ARM64 ベースの Envoy イメージのサポートを開始しました。App Mesh 最適化 ARM64 Envoy イメージを使用すると、お客様のご要望に合わせて、デプロイの柔軟性とプラットフォームサポートを向上させることができます。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピュートインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/",
-          "publishedOn": "2021-11-24T23:37:30.000Z",
-          "wordCount": 284,
-          "title": "AWS App Mesh が ARM64 ベースの Envoy イメージのサポートを開始"
-        },
-        {
-          "id": "5b763536579092315a6ce8097825c09ab0b50277",
-          "author": "aws@amazon.com",
-          "description": "精度が最大 40% アップした予測を行なう Amazon Forecast の 2 つの新しい予測 API を発表できることを嬉しく思います。これは、料金、休日、天気または項目カテゴリなど、どのファクターが最もお客様の予測に影響を与えているかを把握するのに役立ちます。Forecast は、機械学習 (ML) を使用して、より正確な需要予測を生成します。機械学習の経験は不要です。Forecast は、Amazon で使用されているものと同じテクノロジーをフルマネージドサービスとしてデベロッパーに提供し、リソースを管理する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-forecast-api-forecasts-explainability/",
-          "publishedOn": "2021-11-24T23:36:43.000Z",
-          "wordCount": 304,
-          "title": "Amazon Forecast が、精度が最大 40% アップした予測を行い説明可能性を提供する新たな API を発表"
-        },
-        {
-          "id": "ab94a9859246fdb1dd665bc9b0c6efd568246a14",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS CloudFormation StackSets は同時実行の複数操作を実行する機能を発表します。StackSets は、1 回の操作で複数の AWS のアカウントとリージョンにまたがるスタックを作成、更新、または削除できるようにすることで、CloudFormation スタックの機能を拡張します。スタックセット 1 つにつき 2 つ以上の同時に実行する作業を送信できるようになりました。この機能により、StackSets で全処理時間を低減できるようになります。加えて、StackSets に送信した操作をバッチ処理およびキュー処理するためにロジック構築のオーバーヘッドを回避できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/",
-          "publishedOn": "2021-11-24T23:35:55.000Z",
-          "wordCount": 275,
-          "title": "AWS CloudFormation StackSets で同時実行の複数操作送信が可能に"
-        },
-        {
-          "id": "ab31caec79e291a1e8134323a45e0e53bcfbd375",
-          "author": "aws@amazon.com",
-          "description": "Amazon Linux 2 が、Linux カーネル (5.10) で Amazon マシンイメージ (AMI) として利用可能になりました。カーネル 5.10 は、インテル Ice Lake プロセッサの最適化や最新世代の Amazon EC2 インスタンスに電力を供給する AWS Graviton2 プロセッサなど、多くの機能とパフォーマンスの向上をもたらします。カーネル 5.10 のライブパッチは、x86 と ARM アーキテクチャの両方で Amazon Linux 2 でサポートされています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-linux-2-ami-kernel-5-10/",
-          "publishedOn": "2021-11-24T23:35:07.000Z",
-          "wordCount": 333,
-          "title": "Amazon Linux 2 AMI が、カーネル 5.10 で利用可能に"
-        },
-        {
-          "id": "5d4a45e8c7930932df88972f0819a5cac4f50d07",
-          "author": "aws@amazon.com",
-          "description": "AWS Database Migration Service (AWS DMS) はパーティションデータの Amazon S3 への並行ロードのサポートを追加することにより機能を拡張しました。これにより、サポートされたデータベースエンジンソースデータから Amazon S3 へのパーティションデータの移行のロード時間が向上します。この機能は、データベースソースのテーブルの各パーティションの Amazon S3 のサブフォルダを作成し、AWS DMS が並行プロセスを実行し各サブフォルダにデータを格納することを許可します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-database-migration-parallel-load-partitioned-data/",
-          "publishedOn": "2021-11-24T23:34:18.000Z",
-          "wordCount": 273,
-          "title": "AWS Database Migration Service がパーティションデータの S3 への並行ロードのサポートを開始"
-        },
-        {
-          "id": "825488c5ff417a4f8c77ed5953fd6e67deee99b7",
-          "author": "aws@amazon.com",
-          "description": "Amazon Pinpoint は、アプリケーションの異なる SMS 送信シナリオ処理をテストする SMS シミュレーター機能を搭載しました。この機能により、SMS メッセージを Amazon Pinpoint が提供する送信先電話番号へ送信することによりシミュレーションを行うことができます。これにより、送信先の国の送信先電話番号を所有しなくても、送信先の国ごとに配信受領を表示できます (メッセージ例を参照)。SMS シミュレーターを使用して、アプリケーションのロジックがシミュレートで正常または失敗した送信により意図した通りに機能しているかをテストすることができます。また、この機能を使用してクォータに影響を与えることなく、送信元アイデンティティスループットをテストすることもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-pinpoint-sms-simulator-feature/",
-          "publishedOn": "2021-11-24T23:33:31.000Z",
-          "wordCount": 277,
-          "title": "Amazon Pinpoint に SMS シミュレーター機能を追加"
-        },
-        {
-          "id": "8087cb1279d6cca15e7cdeca1675b01a0eb136df",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda が Amazon MSK および自己管理型 Kafka のイベントソースとしての TLS 認証のサポートを開始しました。お客様には、クライアント証明書を提供し、イベントソースとして構成されている AWS Lambda および Amazon MSK または自己管理型 Kafka ブローカーの間の信頼関係を確立するという選択肢ができました。Lambda は、ポーラーに Kafka ブローカーを信頼させるルート CA 証明書をお客様に提供いただくことにより、自己管理型 Kafka イベントソースのための自己署名型サーバー証明書またはプライベート CA が署名したサーバー証明書をサポートします。自己署名型サーバー証明書のサポートは、MSK イベントソースには必要ありません。これは、すべての MSK ブローカーが Amazon Trust Services CAs が署名したパブリック証明書を使用しており、Lambda がこれをデフォルトで信頼しているためです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/",
-          "publishedOn": "2021-11-24T23:32:43.000Z",
-          "wordCount": 301,
-          "title": "AWS Lambda が Amazon MSK のイベントソースとしての mTLS 認証のサポートを開始"
-        },
-        {
-          "id": "eb3d7ab86e0f57f72b566869385221567cb72789",
-          "author": "aws@amazon.com",
-          "description": "本日、ラージスケール向け配信ハイパーパラメータ向けオープンソース Python ライブラリとニューラルアーキテクチャの最適化、Syne Tone の一般提供を発表します。これは、ベイズ最適化、Hyperband および集団ベースのトレーニングなど、複数の最先端のグローバルオプティマイザーの実装を提供するものです。加えて、制約のある多目的な最適化をサポートしており、これによりユーザーは独自のグローバルな最適化アルゴリズムを使用することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/",
-          "publishedOn": "2021-11-24T23:31:56.000Z",
-          "wordCount": 271,
-          "title": "Syne Tone の一般提供、配信ハイパーパラメータ向けオープンソースライブラリとニューラルアーキテクチャの最適化"
-        },
-        {
-          "id": "878586738e85f5efe1372bac862f531d7ea78a8a",
-          "author": "aws@amazon.com",
-          "description": "本日のリリースにより、AWS Amplify は React、Angular、および Vue で構築したウェブアプリケーション向けの新しい Authenticator UI コンポーネントを提供します。デベロッパーは 1 行のコードでとても簡単にアプリケーションにログイン体験を追加することができます。新しい Authenticator UI コンポーネントは、アプリケーションへユーザーログインと登録ワークフローをすぐに追加できる方法をデベロッパーに提供するだけでなく、完全なデベロッパーの裁量で設計に合わせてレイアウトと動作を変更できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-amplify-authenticator-ui-component-react-angular-vue/",
-          "publishedOn": "2021-11-24T23:31:07.000Z",
-          "wordCount": 294,
-          "title": "AWS Amplify UI が React、Angular、および Vue 向けの新たな Authenticator コンポーネントをリリース"
         }
       ]
     },
