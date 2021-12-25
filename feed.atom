@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-25T10:11:19.875Z</updated>
+    <updated>2021-12-25T22:10:33.747Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5053,58 +5053,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[AWS Graviton2 Processors 搭載の AWS Fargate for Amazon Elastic Container Service (Amazon ECS) が一般提供されました。AWS Graviton2 プロセッサは、64 ビットの Arm Neoverse コアを使用してアマゾンウェブサービスがカスタムビルドしたもので、Graviton2 を搭載した Fargate は、同等のインテル x86 ベースの Fargate に比べて、最大 40% の料金性能向上と 20% の低コストを実現し、アプリケーションサーバー、Web サービス、ハイパフォーマンスコンピューティング、メディア処理などのさまざまなワークロードに対応します。これにより、お客様が Fargate のサーバーレスコンピューティング上でコンテナ化されたワークロードを実行する際に、パフォーマンスとコストを最適化するための選択肢がさらに追加されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RailsのCSRF保護を詳しく調べてみた（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_26/46891</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_26/46891"/>
-        <updated>2021-11-26T08:32:58.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/10/rails_deep_dive_csrf_protection_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A Deep Dive into CSRF Protection in Rails 公開日: 2017/07/31 著者: Alex Taylor サイト: Ruby Inside 2017/10/23: 初版公開 2021/11/26: 更新 RailsのCSRF保護を詳しく調べてみた（翻訳） 現在Railsを使っていればCSRF保護を使うことがあるでしょう。この機能はRailsのほぼ初期から存在し、即座に導入して開発を楽にできるRailsの機能のひとつです。 CSRF（Cross-Site Request Forgery）を簡単に説明すると、悪意のあ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_26/46891" data-wpel-link="internal" target="_self">RailsのCSRF保護を詳しく調べてみた（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10/11でWSL環境を移行する方法]]></title>
-        <id>https://techracho.bpsinc.jp/morimorihoge/2021_11_26/113804</id>
-        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_11_26/113804"/>
-        <updated>2021-11-26T08:30:57.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/windows10_11_migrating_wsl_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。ようやく寒くなってきましたね。 直近諸々の事情で2，3回ほどWindows10/11作業環境を再構築する機会があり、WSL環境の移行も行いましたのでその辺りの手順について忘れないうちにまとめておきます。 開発環境をWSL環境内に集約しておけばとても簡単に移行できるので、参考になれば。 なお、基本的な手順は以下の公式ドキュメントにも記載されています。WSL2環境を前提に書いていますが、基本的な手順はWSL1でも踏襲できると思われます。細部が異なるとは思いますがその点はご了承下さい。 参考：WSL で使用する Linux ディストリビューションをインポートする wsl --exportで [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_11_26/113804" data-wpel-link="internal" target="_self">Windows 10/11でWSL環境を移行する方法</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人開発中に見た不可解な挙動を調べたらHTML Living Standardに行き着いた話]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/search-living-standard</id>
-        <link href="https://blog.agile.esm.co.jp/entry/search-living-standard"/>
-        <updated>2021-11-26T06:02:03.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは @color_box です。 個人開発中に遭遇した疑問を調べていたら、HTMLのLiving Standardに行き着いた話について書きます。]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年11月26日号　jammyの開発/“YellowCarp”対応とsystemdの更新 ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202111/26</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202111/26"/>
-        <updated>2021-11-26T00:59:00.000Z</updated>
-        <summary type="html"><![CDATA[jammyの開発はこの時期らしい一定の落ち着きと，大きなチャレンジが同時に行われるシーズンに入っています。]]></summary>
-        <author>
-            <name>吉田史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composable blobs, improved upsert and much more!]]></title>
-        <id>https://rubyonrails.org/2021/11/26/this-week-in-rails-composable-blobs-improved-upsert-and-much-more-38eb3426</id>
-        <link href="https://rubyonrails.org/2021/11/26/this-week-in-rails-composable-blobs-improved-upsert-and-much-more-38eb3426"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey, Wojtek here with recent additions to Rails. All of them today for FREE, for you. Thank you all the contributors for making Rails. Those from one-time to day by day committers.]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
         </author>
     </entry>
 </feed>
