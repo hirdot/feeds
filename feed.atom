@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-26T04:14:25.171Z</updated>
+    <updated>2021-12-26T05:11:02.460Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4981,86 +4981,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-redshift-region-data-sharing/"/>
         <updated>2021-11-26T17:31:06.000Z</updated>
         <summary type="html"><![CDATA[Amazon Redshift データ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を取り除いて、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。同じ AWS アカウント内およびアカウント間のクラスター間でデータを共有する機能は既に利用可能です。異なる AWS リージョンの Redshift クラスター間でのデータ共有がプレビューで利用可能になりました。クロスリージョンのデータ共有プレビューは、すべての Redshift RA3 ノードタイプでサポートされています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Application Load Balancer とネットワークロードバランサーのエンドツーエンドの IPv6 サポート]]></title>
-        <id>5c6868d856d341acd5c872e87c6cf464faecb832</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/application-load-balancer-network-load-balancer-end-to-end-ipv6-support/"/>
-        <updated>2021-11-26T17:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Application Load Balancer とネットワークロードバランサーが、Internet Protocol version 6 (IPv6) によるエンドツーエンドの接続をサポートするようになりました。クライアントは、アプリケーションやネットワークロードバランサーに接続したり、バックエンドのアプリケーションに IPv6 でアクセスできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache for Redis が Redis 6.2 のサポートを追加]]></title>
-        <id>d1959853ca51910044b2b85dc5b8cfbc9cb34342</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-elasticache-redis-support-redis-6-2/"/>
-        <updated>2021-11-26T17:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ElastiCache は Redis 6.2 をサポートします。ElastiCache for Redis 6.2 では、8vCPU 以上の x86 ノードタイプまたは 4vCPU 以上の Graviton2 ノードタイプを使用した TLS 対応クラスターのパフォーマンスが改善されています。これらの機能拡張は、暗号化を他の CPU にオフロードすることで、スループットを向上させ、クライアントの接続確立時間を短縮することを目的としています。Amazon ElastiCache for Redis 6.2 では、Pub/Sub チャンネルへのアクセスをアクセスコントロールリスト (ACL) ルールで管理することもできます。Amazon ElastiCache for Redis 6.2 (enhanced) の改善点のリストは、こちらをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Transcribe がストリーミングトランスクリプションの自動言語識別をサポート]]></title>
-        <id>b542b18bb7340597fae3984007015c92af4af64a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-transcribe-language-identification-streaming-transcription/"/>
-        <updated>2021-11-26T17:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Transcribe は、音声をテキストに変換する機能をアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。本日、ストリーミングトランスクリプションのための自動言語識別を発表します。これまで、Transcribe ストリーミング API を使用するには、主要言語をマニュアルで識別する必要がありました。今後は、ストリーミングをスタートするだけで、Transcribe は音声信号から主要言語を検出し、識別された言語でトランスクリプトを生成することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMR Studio の別のノートブックから Python ファイルとノートブックを実行できるようになりました]]></title>
-        <id>61bc64c82497fc18d04d08ac90e91e129e58ed1d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/execute-python-files-notebooks-notebook-emr-studio/"/>
-        <updated>2021-11-26T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。 本日、EMR Studio の 2 つの新機能を発表いたします。まず、より簡単に EMR Studio ノートブックから直接 Python スクリプトを実行できるようになりました。次に、EMR Studio のノートブックから他の依存する Jupyter ノートブックを直接実行できるようになりました。以前は、これらの機能の両方で、こうしたファイルを EMR Studio から EMR クラスターに手動でコピーする必要がありました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache for Redis のデータ階層化を発表]]></title>
-        <id>08a315d1205ff4484ba305aa346aaa3e8580e740</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/data-tiering-amazon-elasticache-redis/"/>
-        <updated>2021-11-26T17:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ElastiCache for Redis のデータ階層化を、最大数百テラバイトの容量までクラスターを拡張する低コストな方法として利用できるようになりました。データ階層化は、データをメモリに保存するだけでなく、各クラスターノードに搭載された低コストのソリッドステートドライブ (SSD) を利用することで、Redis のワークロードに新たな料金パフォーマンスの選択肢を提供します。データセット全体の最大 20％ に定期的にアクセスするワークロードや、SSD 上のデータにアクセスする際に追加のレイテンシーを許容できるアプリケーションに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FinSpace の新しいデータ管理 API]]></title>
-        <id>5a6d62f4e7760999553752eaa56d87897df5ee57</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-finspace-data-management-apis/"/>
-        <updated>2021-11-26T17:03:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FinSpace では、お客様が AWS SDK や CLI を使って Amazon FinSpace 環境のデータを扱うことができるデータ管理 API を提供するようになりました。これらの新しい API により、お客様は Amazon FinSpace でデータリソースを管理する自動ワークフローにステップを追加することができます。新しい API を使用することで、お客様は Amazon FinSpace のデータセットを作成したり、変更セットを使用してデータをロードしたり、分析のためのポイントインタイムビューを作成したりすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS が AWS Distro for OpenTelemetry との新しい統合を発表]]></title>
-        <id>865d3ea07fd67b6df5632e42237f1f7ec9016aa1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecs-new-integration-aws-distro-opentelemetry/"/>
-        <updated>2021-11-26T17:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) は、AWS Distro for OpenTelemetry (ADOT) を使用して、トレースやカスタムメトリクスによるアプリケーションのモニタリングとデバッグを迅速に開始できるようになりました。この機能により、Amazon ECS のお客様は、コンソールを使用してメトリクスとトレースの収集を有効にし、わずか数クリックで Amazon CloudWatch、Amazon Managed Service for Prometheus、AWS X-Ray にエクスポートすることができます。 このエクスペリエンスにより、タスク定義で ADOT を設定する複数のステップのマニュアルプロセスが簡素化され、お客様はアプリケーションの可用性やパフォーマンスの問題を解決できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton2 Processors を搭載した AWS Fargate for Amazon ECS を発表]]></title>
-        <id>73414d494ea83ac08aeeda7edcd7e6d43db72cdb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-fargate-amazon-ecs-aws-graviton2-processors/"/>
-        <updated>2021-11-26T17:00:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Graviton2 Processors 搭載の AWS Fargate for Amazon Elastic Container Service (Amazon ECS) が一般提供されました。AWS Graviton2 プロセッサは、64 ビットの Arm Neoverse コアを使用してアマゾンウェブサービスがカスタムビルドしたもので、Graviton2 を搭載した Fargate は、同等のインテル x86 ベースの Fargate に比べて、最大 40% の料金性能向上と 20% の低コストを実現し、アプリケーションサーバー、Web サービス、ハイパフォーマンスコンピューティング、メディア処理などのさまざまなワークロードに対応します。これにより、お客様が Fargate のサーバーレスコンピューティング上でコンテナ化されたワークロードを実行する際に、パフォーマンスとコストを最適化するための選択肢がさらに追加されました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
