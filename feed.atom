@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-29T10:12:08.080Z</updated>
+    <updated>2021-12-29T22:10:52.869Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4520,79 +4520,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[2021 年 12 月 1 日より、AWS はインターネット上のデータ転送について、2 つの価格変更を行います。毎月、Amazon Cloudfront からの最初のテラバイトデータ転送、最初の 1,000 万回の HTTP/S リクエスト、最初の 200 万回の CloudFront Functions 呼び出しが無料になります。CloudFront からの無料データ転送は、最初の 12 か月間に限定されなくなりました。また、すべての AWS リージョン (中国と GovCoud を除く) からのデータ転送について、最初の 100 ギガバイト/月は無料となります。AWS リージョンからの無料データ転送も、最初の 12 か月間に限定されなくなりました。これらの変更は、既存のデータ転送および CloudFront の AWS 無料利用枠提供を置き換えるもので、AWS のお客様には今後、これらの変更が自動的に反映された AWS の請求書が届きます。今回の価格変更は、すべての AWS のお客様にメリットがあり、何百万のお客様がデータ転送料を無料にすることになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: Value Objectで「基本データ型への執着」と戦う（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_11_30/113818</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_11_30/113818"/>
-        <updated>2021-11-30T10:06:21.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/11/rails_value_object_against_primitive_obsession_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Fighting the primitive obsession with Value objects &#124; Arkency Blog 原文公開日: 2021/05/01 原著者: 原著者: Szymon Fiedler サイト: arkency 週刊Railsウォッチ20210510『Value Objectをクラスで定義してプリミティブな値と戦う』もどうぞ。 参考: Primitive&#45;obsession&#40;基本データ型への執着&#41; &#45; Qiita Rails: Value Objectで「基本データ型への執着」と [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_11_30/113818" data-wpel-link="internal" target="_self">Rails: Value Objectで「基本データ型への執着」と戦う（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS App2Container が CI/CD パイプラインのセットアップで Jenkins をサポート]]></title>
-        <id>cb8d70b40bbc13bb27990f4ae0645d614b17b9a5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-app2C-container-jenkins-setting-up-ci-cd-pipeline/"/>
-        <updated>2021-11-30T04:12:09.000Z</updated>
-        <summary type="html"><![CDATA[AWS App2Container(A2C) が、AWS でのコンテナの構築とデプロイを自動化する CI/CD パイプラインのセットアップで Jenkins をサポートするようになりました。この新しい統合により、お客様は、現在の Jenkins 環境で既存の Jenkins パイプラインを構成し、コンテナ化されたアプリケーションの自動化された構築とデプロイを管理することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AmazonがRPOとRTOを監視・改善するためのAWS Resilience Hubを発表]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/aws-resilience-hub/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/aws-resilience-hub/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-11-30T00:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは最近、AWS Resilience Hubが利用できるようになったことを発表した。これは、顧客がクラウド上のアプリケーションの復元力の定義、測定、管理をサポートするために設計されたサービスである。
- By Renato Losio  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaprのCNCFインキュベーターへの参加とYaron Schneider氏とのQ & A]]></title>
-        <id>https://www.infoq.com/jp/news/2021/11/dapr-joins-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/11/dapr-joins-cncf/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-11-30T00:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud Native Computing Foundation (CNCF) は先ごろ、分散アプリケーションランタイム (Dapr) を CNCF インキュベーションプロジェクトとして受け入れたことを発表した。この声明は、Dapr プロジェクトの運営および技術委員会 (STC) の設立を発表した、以前の Dapr による発表に続くものだ。
- By Eran Stiller  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Eran Stiller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第35回　Days of WINE and Struggles again［4］ ── 続・玩式草子 ―戯れせんとや生まれけん―]]></title>
-        <id>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0035</id>
-        <link href="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0035"/>
-        <updated>2021-11-30T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[3Dのシューティングやアクションゲームを試す際に知っておくと便利なのが，DXVKというライブラリです。今回はこのDXVKを紹介しつつWINEを使うコツを考えることにしましょう。]]></summary>
-        <author>
-            <name>こじまみつひろ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第160回　pt-show-grantsを使ってユーザアカウントを移行する ── MySQL道普請便り]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0160</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0160"/>
-        <updated>2021-11-30T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は本連載において何度か登場しているPercona Toolkitのツールの1つ，pt-show-grantsについて紹介したいと思います。]]></summary>
-        <author>
-            <name>北川健太郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人や組織の幸せとデータのイマとこれから。 因果関係と相関関係から見る幸福との向き合い方とは]]></title>
-        <id>https://data.wingarc.com/?p=37198</id>
-        <link href="https://data.wingarc.com/iwasakikeiko-37198?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=iwasakikeiko"/>
-        <updated>2021-11-30T00:00:17.000Z</updated>
-        <summary type="html"><![CDATA[近年、個人の幸せの追求はもちろん、会社組織としても労働者の生産性を上げるために、経済学的な観点から幸福（ウェルビーイング）の向上を目指す必要性が高まっている。ただ、幸福度やこころの健康が大切だと理解しているつもりでも、ど […]]]></summary>
-        <author>
-            <name>野島光太郎</name>
         </author>
     </entry>
 </feed>
