@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-30T10:11:55.732Z</updated>
+    <updated>2021-12-30T22:10:46.019Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4346,100 +4346,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[Googleは、Kubernetes上でサーバレス基盤を構築するオープンソースソフトウェアの「Knative」（ケイネイティブ）を、Cloud Native Computing Foundation（以下、CNCF）に寄贈すると発表しました...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: Railsで「Read Model」を使う、Ruby Prize 2021受賞者決定、pru gemほか（20211201後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2021_12_01/113859</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2021_12_01/113859"/>
-        <updated>2021-12-01T09:08:46.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/railswatch_20211201_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。TechRachoのアドベントカレンダー2021が始まる季節になりました。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrach [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_12_01/113859" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Railsで「Read Model」を使う、Ruby Prize 2021受賞者決定、pru gemほか（20211201後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javaニュース総まとめ: JDK 18 の OpenJDK JEP、Springの更新、 Payara Platform、Kotlin 1.6]]></title>
-        <id>https://www.infoq.com/jp/news/2021/12/java-news-roundup-nov15-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/12/java-news-roundup-nov15-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-12-01T08:32:00.000Z</updated>
-        <summary type="html"><![CDATA[今週2021年11月15日のJava総まとめでは、OpenJDK JEP、JDK 18、Project Loom、Springプロジェクトの多数のポイントリリース、MicroProfile 5.0-RC2、Payara Platform、提案された新しいJakarta EE仕様、JHipster 7.4.0、TornadoVM 0.12、Apache Camel K 1.7およびKotlin 1.6.0からのニュースを特集する。
- By Michael Redlich  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Michael Redlich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡単そうで難しい要件定義：サービスメンテナンス機能編]]></title>
-        <id>https://techracho.bpsinc.jp/morimorihoge/2021_12_01/114013</id>
-        <link href="https://techracho.bpsinc.jp/morimorihoge/2021_12_01/114013"/>
-        <updated>2021-12-01T08:30:55.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/defining_requirements_for_maintenance_features_eyecatch4-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。今年もTechRachoアドベントカレンダーを実施します。TechRachoを運営している弊社（BPS株式会社）及び弊社にご縁のある会社・個人の記事を公開していきますので、皆様お楽しみに！ さて、僕は職位としてはマネージャ職に当たりますが、良くある開発チームの例に漏れずちょいちょいチームの手が足りない所ではプロジェクト管理や設計、実装に入ったりすることもあります。上流から実装・運用までやるいわゆるなんでも屋ですね。 そんな中で上流設計・要件定義を詰めていく役割もよくやることがあるので、今回はその辺りの内容がテーマです。 開発現場のエンジニアはもちろんですが、ビジネスサイドでエンジニア [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2021_12_01/114013" data-wpel-link="internal" target="_self">簡単そうで難しい要件定義：サービスメンテナンス機能編</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モブプログラミングの集団的習慣は技術品質を高めるための土壌になり得る]]></title>
-        <id>https://www.infoq.com/jp/news/2021/12/mob-programming-tech-quality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2021/12/mob-programming-tech-quality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2021-12-01T08:26:00.000Z</updated>
-        <summary type="html"><![CDATA[モブ(mob)プログラミングは、プロダクトをアジャイル手法で開発する上で、古い習慣を新しく効果的な習慣に変えるための有効な手段だ。周りを人に囲まれた環境において集団で培われた習慣は、簡単に忘れることはない。モブプログラミングは各メンバに対して、新たな習慣を定常的に実践させることによって、それらを取り入れやすくする。チームは同じ作業の繰り返しを容認しない。仕事を行うためのよりよい方法を探しているのだ。
- By Ben Linders  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年12月1日　Linux 5.16-rc3がリリース，Intel Alder Lakeで発生していたバグを修正 ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202112/01</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202112/01"/>
-        <updated>2021-12-01T04:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvaldsは11月28日，次期Linuxカーネル「Linux 5.16」の3本目のリリース候補版となる「Linux 5.16-rc3」を公開した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、データウェアハウスをサーバレス化する「Amazon Redshift Serverless」や「Amazon EMR Serverless」など発表。AWS re:Invent 2021]]></title>
-        <id>https://www.publickey1.jp/blog/21/awsamazon_redshift_serverlessamazon_emr_serverlessaws_reinvent_2021.html</id>
-        <link href="https://www.publickey1.jp/blog/21/awsamazon_redshift_serverlessamazon_emr_serverlessaws_reinvent_2021.html"/>
-        <updated>2021-12-01T02:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、Amazon Redshift ServerlessやAmazon EMR Serverlessなど4つのデータ分析サービスのサーバレス機能追加を、開催中のイベント「AWS re:Inve...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第694回　libbpfとclangでポータブルなBPF CO-REバイナリ作成 ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0694</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0694"/>
-        <updated>2021-12-01T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は一般的なコンパイラのようにバイナリを生成でき，移植性が高く，そして近い将来eBPFを使うための本流のひとつとなりそうなBPF CO-REについて紹介します。]]></summary>
-        <author>
-            <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPA社会基盤センターが DXを学んで、知って、実践する ポータルサイト「DXSQUARE」を公開]]></title>
-        <id>https://data.wingarc.com/?p=37389</id>
-        <link href="https://data.wingarc.com/ipa_dxsquare-37389?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ipa_dxsquare"/>
-        <updated>2021-12-01T00:20:13.000Z</updated>
-        <summary type="html"><![CDATA[IPA（独立行政法人情報処理推進機構、理事長：富田達夫）では、DXを本格的に展開していく上で、DXによりビジネスをどう変えるかといった経営戦略の方向性を定めていくという課題とともに、これまでの既存システムが老朽化・複雑化 […]]]></summary>
-        <author>
-            <name>データのじかん編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第76回　MySQL Database ServiceとHeatWaveの事例，PostgreSQL Conference Japanがオンサイト開催 ── OSSデータベース取り取り時報]]></title>
-        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0076</id>
-        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0076"/>
-        <updated>2021-12-01T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
-        <author>
-            <name>梶山隆輔，溝口則行</name>
         </author>
     </entry>
 </feed>
