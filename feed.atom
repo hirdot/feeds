@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-30T07:11:03.077Z</updated>
+    <updated>2021-12-30T08:13:40.404Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4450,26 +4450,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[画像を CDN でホストしている構成では、本サイトと CND サーバーのクロール バジェットは別々に割り当てられるそうだ。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Iceberg による Amazon Athena ACID トランザクション (プレビュー) を発表]]></title>
-        <id>add7ac7de014558dc6487bb83e4d1383fc09eb19</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/"/>
-        <updated>2021-11-30T20:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Athena ACID トランザクションの公開レビューを発表します。この新機能は、Athena の SQL のデータ操作言語 (DML) に、書き込み、削除、更新、タイムトラベルなどの各種操作を追加します。Athena ACID トランザクションにより、複数ユーザーが同時に、Athena のコンソール、API、および ODBC/JDBC ドライバーから、自身の Amazon S3 データに信頼できる、行レベルの変更を加えられるようになります。Apache Iceberg テーブルプラットフォームに組み込まれた Athena ACID トランザクションは、Amazon EMR および Apache Spark など、Iceberg のテーブル形式をサポートする他のサービスやエンジンと互換性があります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］AWS、ARMベースの独自プロセッサを強化した「Graviton 3」および新インスタンス「C7gインスタンス」発表。AWS re:Invent 2021]]></title>
-        <id>https://www.publickey1.jp/blog/21/awsarmgraviton_3c7gaws_reinvent_2021.html</id>
-        <link href="https://www.publickey1.jp/blog/21/awsarmgraviton_3c7gaws_reinvent_2021.html"/>
-        <updated>2021-11-30T19:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Servicesは、同社がクラウド向けに開発しているARMプロセッサの新型「Graviton 3」と、その搭載インスタンスである「C7gインスタンス」を、開催中のイベント「AWS re:Invent 2021」で発表し...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>
