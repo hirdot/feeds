@@ -3915,33 +3915,6 @@
           "publishedOn": "2021-11-30T20:02:36.000Z",
           "wordCount": 295,
           "title": "Apache Iceberg による Amazon Athena ACID トランザクション (プレビュー) を発表"
-        },
-        {
-          "id": "e4a259a38a3d069753dacd2df6ededf911aea2bf",
-          "author": "aws@amazon.com",
-          "description": "AWS Single Sign-On (AWS SSO) は、AWS SOC 1、SOC 2、SOC 3 レポートの対象となりました。当社の System and Organization Controls (SOC) レポートでコントロールの監査証拠を必要とするアプリケーションに、AWS SSO が使用できるようになりました。例えば、AWS を使用してアカウントやアプリケーションへのアクセスを管理している場合、SOC レポートを利用することでそれらのユースケースのコンプライアンス要件を満たすことができます。   AWS SOC レポートは、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/",
-          "publishedOn": "2021-11-30T14:02:25.000Z",
-          "wordCount": 313,
-          "title": "AWS Single Sign-On が、AWS SOC レポートの対象となりました"
-        },
-        {
-          "id": "e4f657d3bfe84277c01387f419408583b0b4acca",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda は、イベントソースとして SQS、DynamoDB、Kinesis のコンテンツフィルタリングオプションを提供するようになりました。イベントパターンのコンテンツフィルタリングでは、お客様が指定したフィルタリング条件の下で、SQS、DynamoDB、Kinesis からのみ Lambda 関数がトリガーされるような複雑なルールを書くことができます。これにより、お客様の Lambda 関数へのトラフィックを減らし、コードを簡素化し、全体的なコストを削減することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/",
-          "publishedOn": "2021-11-30T14:01:37.000Z",
-          "wordCount": 275,
-          "title": "AWS Lambda は、Amazon SQS、Amazon DynamoDB、Amazon Kinesis をイベントソースとするイベントフィルタリングをサポートしました"
-        },
-        {
-          "id": "fe7f6c24982625384244ebc7472bcd4a602c0d57",
-          "author": "aws@amazon.com",
-          "description": "2021 年 12 月 1 日より、AWS はインターネット上のデータ転送について、2 つの価格変更を行います。毎月、Amazon Cloudfront からの最初のテラバイトデータ転送、最初の 1,000 万回の HTTP/S リクエスト、最初の 200 万回の CloudFront Functions 呼び出しが無料になります。CloudFront からの無料データ転送は、最初の 12 か月間に限定されなくなりました。また、すべての AWS リージョン (中国と GovCoud を除く) からのデータ転送について、最初の 100 ギガバイト/月は無料となります。AWS リージョンからの無料データ転送も、最初の 12 か月間に限定されなくなりました。これらの変更は、既存のデータ転送および CloudFront の AWS 無料利用枠提供を置き換えるもので、AWS のお客様には今後、これらの変更が自動的に反映された AWS の請求書が届きます。今回の価格変更は、すべての AWS のお客様にメリットがあり、何百万のお客様がデータ転送料を無料にすることになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/",
-          "publishedOn": "2021-11-30T14:00:49.000Z",
-          "wordCount": 378,
-          "title": "インターネット上のデータ転送における AWS の値下げについて"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-30T01:58:24.977Z</updated>
+    <updated>2021-12-30T02:35:02.065Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4490,36 +4490,6 @@ Meta と AWS が、AWS 上で PyTorch を活用して深層学習モデルをよ
         <summary type="html"><![CDATA[Amazon Web Services（AWS）は、同社のクラウドサービスとしてDockerコンテナイメージのレジストリサービスを提供する「Amazon Elastic Container Registry Public」（以下、Amazo...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が、AWS SOC レポートの対象となりました]]></title>
-        <id>e4a259a38a3d069753dacd2df6ededf911aea2bf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/"/>
-        <updated>2021-11-30T14:02:25.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On (AWS SSO) は、AWS SOC 1、SOC 2、SOC 3 レポートの対象となりました。当社の System and Organization Controls (SOC) レポートでコントロールの監査証拠を必要とするアプリケーションに、AWS SSO が使用できるようになりました。例えば、AWS を使用してアカウントやアプリケーションへのアクセスを管理している場合、SOC レポートを利用することでそれらのユースケースのコンプライアンス要件を満たすことができます。   AWS SOC レポートは、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda は、Amazon SQS、Amazon DynamoDB、Amazon Kinesis をイベントソースとするイベントフィルタリングをサポートしました]]></title>
-        <id>e4f657d3bfe84277c01387f419408583b0b4acca</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/"/>
-        <updated>2021-11-30T14:01:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda は、イベントソースとして SQS、DynamoDB、Kinesis のコンテンツフィルタリングオプションを提供するようになりました。イベントパターンのコンテンツフィルタリングでは、お客様が指定したフィルタリング条件の下で、SQS、DynamoDB、Kinesis からのみ Lambda 関数がトリガーされるような複雑なルールを書くことができます。これにより、お客様の Lambda 関数へのトラフィックを減らし、コードを簡素化し、全体的なコストを削減することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インターネット上のデータ転送における AWS の値下げについて]]></title>
-        <id>fe7f6c24982625384244ebc7472bcd4a602c0d57</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
-        <updated>2021-11-30T14:00:49.000Z</updated>
-        <summary type="html"><![CDATA[2021 年 12 月 1 日より、AWS はインターネット上のデータ転送について、2 つの価格変更を行います。毎月、Amazon Cloudfront からの最初のテラバイトデータ転送、最初の 1,000 万回の HTTP/S リクエスト、最初の 200 万回の CloudFront Functions 呼び出しが無料になります。CloudFront からの無料データ転送は、最初の 12 か月間に限定されなくなりました。また、すべての AWS リージョン (中国と GovCoud を除く) からのデータ転送について、最初の 100 ギガバイト/月は無料となります。AWS リージョンからの無料データ転送も、最初の 12 か月間に限定されなくなりました。これらの変更は、既存のデータ転送および CloudFront の AWS 無料利用枠提供を置き換えるもので、AWS のお客様には今後、これらの変更が自動的に反映された AWS の請求書が届きます。今回の価格変更は、すべての AWS のお客様にメリットがあり、何百万のお客様がデータ転送料を無料にすることになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
