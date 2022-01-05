@@ -1520,6 +1520,24 @@
       "siteUrl": "https://gihyo.jp/dev",
       "articles": [
         {
+          "id": "https://gihyo.jp/dev/column/newyear/2022/carbon-neutral",
+          "author": "濱野賢一朗",
+          "description": "ITにおけるグリーンやカーボンニュートラルの現状と今後の展望，2022年を迎えたいま知っておきたいことなど，現場で携わる皆さんにお話を伺いました。",
+          "link": "https://gihyo.jp/dev/column/newyear/2022/carbon-neutral",
+          "publishedOn": "2022-01-05T00:16:00.000Z",
+          "wordCount": 357,
+          "title": "2022年，カーボンニュートラルへの動きがソフトウェア/ITシステムの世界にやってくる ── 新春特別企画"
+        },
+        {
+          "id": "https://gihyo.jp/dev/column/newyear/2022/pwa-prospect",
+          "author": "まぁし / 知念",
+          "description": "今回の記事では，国内でのPWAの動向を振り返り，改めてPWA開発のスタンダードとこれからのPWAについてまとめます。",
+          "link": "https://gihyo.jp/dev/column/newyear/2022/pwa-prospect",
+          "publishedOn": "2022-01-05T00:15:40.000Z",
+          "wordCount": 361,
+          "title": "Progressive Web Appsの振り返りとこれから ── 新春特別企画"
+        },
+        {
           "id": "https://gihyo.jp/dev/column/newyear/2022/iot-tech-torends",
           "author": "松下享平",
           "description": "Wi-FiやLTEといった通信を使って現場をデジタル化したり，遠隔からモノを操作するのが「IoT」です。",
@@ -3294,105 +3312,6 @@
           "publishedOn": "2021-12-06T21:33:44.000Z",
           "wordCount": 334,
           "title": "AWS Data Exchange for APIs の紹介"
-        },
-        {
-          "id": "2a808e6cd0c2e719517fce21b9f319878834d0c2",
-          "author": "aws@amazon.com",
-          "description": "本日 AWS は、AWS Direct Connect SiteLink の一般提供を発表しました。SiteLink は、オフィスやデータセンターなどオンプレミスのロケーションを、世界中の Direct Connect のロケーションに接続することで、プライベートネットワーク接続を簡単に作成します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-direct-connect-sitelink/",
-          "publishedOn": "2021-12-06T11:40:44.000Z",
-          "wordCount": 288,
-          "title": "AWS Direct Connect SiteLink のご紹介"
-        },
-        {
-          "id": "35322b42757a1d9b3f4b550bfbf9e1c506425272",
-          "author": "aws@amazon.com",
-          "description": "Amazon VPC Network Access Analyzerは、AWS上のリソースへの意図しないネットワークアクセスの特定に有効な新しい特徴があります。Network Access Analyzer を使用すると、 Virtual Private Cloud (VPC) リソースのネットワークアクセスが、セキュリティやコンプライアンスのガイドラインを満たしているかどうかを検証することができます。Network Access Analyzer を使用すると、クラウドのセキュリティ体制を評価し、改善点を特定することができます。さらに、Network Access Analyzer を使用することで、ネットワークが特定の規制要件を満たしていることを簡単に実証することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-vpc-network-access-analyzer/",
-          "publishedOn": "2021-12-06T11:34:44.000Z",
-          "wordCount": 342,
-          "title": "Amazon Virtual Private Cloud (VPC) が、意図しないネットワークアクセスを簡単に特定できる Network Access Analyzer を発表"
-        },
-        {
-          "id": "094a1fa67dd6e6a5589461a9fff04248c551c02b",
-          "author": "aws@amazon.com",
-          "description": "本日、パートナーが提供する2つのFreeRTOSリファレンス統合ボード：the STM32L4+ and the ESP32-C3に実装できる、新たに簡素化され、そして創造的なAWS IoT接続体験について発表できることを喜ばしく思います。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/freertos-aws-iot-connectivity-experience/",
-          "publishedOn": "2021-12-06T11:28:44.000Z",
-          "wordCount": 250,
-          "title": "簡素化されたFreeRTOSの創造的なAWS IoT接続体験を発表"
-        },
-        {
-          "id": "9dc9e46b1479454918e788d3e298816f3cd34ad1",
-          "author": "aws@amazon.com",
-          "description": "AWS Directory Service for Microsoft Active Directory (AWS Managed Microsoft AD) は、Amazon CloudWatch により、パフォーマンスとレジリエンスを向上させるためスケーリングの決定を最適化できるようになりました。本日より、AWS Managed Microsoft AD は Amazon CloudWatch で新規および既存のディレクトリに対し、ドメインコントローラーとディレクトリの使用率メトリクスを自動的に提供します。これらの使用率メトリクスを分析すると、平均およびピーク時のロード時間を定量化して、ドメインコントローラーの追加が必要かを確認することができます。これで、パフォーマンス、レジリエンスおよびコストなどの要件を満たすドメインコントローラーの数を定義することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-managed-microsoft-ad-amazon-cloudwatch/",
-          "publishedOn": "2021-12-06T11:22:44.000Z",
-          "wordCount": 299,
-          "title": "AWS Managed Microsoft AD は、Amazon CloudWatch のディレクトリメトリクスによるスケーリングの決定を最適化"
-        },
-        {
-          "id": "19448c6620169c2059a879150de1aac4a97121d9",
-          "author": "aws@amazon.com",
-          "description": "Amazon Simple Queue Service (SQS) は、デッドレターキュー (DLQ) のソースキューへのリドライブをサポートして、消費されていないメッセージのライフサイクルを適切にコントロールできるようになりました。デッドレターキューは、Amazon SQS の既存の機能で、アプリケーションが正常に消費できなかったメッセージを保存することができます。Amazon SQS コンソールで、メッセージをデッドレターキューからソースキューへ効率的にリドライブできるようになりました。DLQ リドライブは、デベロッパーのデッドレターキュー管理エクスペリエンスを強化して、消費されていないメッセージの調査、コードエラーからの回復、デッドレターキュー内メッセージの再処理が可能であることを確認してアプリケーションを構築します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sqs-dead-letter-queue-management-experience-queues/",
-          "publishedOn": "2021-12-06T11:16:46.000Z",
-          "wordCount": 263,
-          "title": "Amazon SQS が標準キューのデッドレターキュー管理エクスペリエンスを強化"
-        },
-        {
-          "id": "5e5e3126f95f490e050cc2d04c036d31890fd478",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMakerでは、 機械学習（ML）のリネージトラッキング機能が強化され、MLのワークフローにおけるデータ、特徴、モデルなどのアーティファクトのリネージを追跡し、照会することができるようになりました。これによりお客様は、データ準備からモデルデプロイまでのワークフロー全体を網羅したエンドツーエンドのリネージグラフを1つのクエリで取得することができます。この特徴により、ワークフローのステップごとにリネージ情報を取得し、それらを手作業でつなぎ合わせるような、未分化な作業が不要になります。また、あるステップをフォーカルポイントとして定義し、そのフォーカルポイントの上流または下流にあるステップのリネージを照会することで、ワークフローのセグメントのリネージ情報を取得することができます。例えば、お客様はモデルを中心的なエンティティとして定義し、そのモデルをトレーニングするために特徴が抽出されたraw データセットの場所を検索することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/",
-          "publishedOn": "2021-12-06T11:10:44.000Z",
-          "wordCount": 246,
-          "title": "Amazon SageMakerがクロスアカウントリネージトラッキングとマルチホップリネージクエリーに対応"
-        },
-        {
-          "id": "2f01eca6b6168247711ff2bef03294f2664621dd",
-          "author": "aws@amazon.com",
-          "description": "あらゆるドキュメントや画像からテキストやデータを抽出する機械学習サービスのAmazon Textractは、 現在、米国などの身分証明書からデータを抽出するための特別なサポートを提供しています。運転免許証と米国。パスポート。名前や住所などの明示されないフィールドだけでなく、生年月日、発行日、有効期限、ID番号、IDタイプなどの明示的なフィールドも、キーと値のペアの形式で抽出できます。今日まで、現行のOCRベースのソリューションは限られており、豊富な背景画像のためにすべての必須フィールドを正確に抽出する能力や、名前と住所、およびそれらに関連付けられたフィールドを認識する能力（例：ワシントン州のIDでは自宅の住所が「8」というキーで記載されます）、国や州によって異なるIDのデザインやフォーマットをサポートする能力はありませんでした。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-textract-automated-processing-identity-documents/",
-          "publishedOn": "2021-12-06T10:58:44.000Z",
-          "wordCount": 268,
-          "title": "Amazon Textract が身分証明書の自動処理に特化したサポートを発表"
-        },
-        {
-          "id": "87bdb13ae124cfc5a9bd92d4b71a9292e539969c",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Transit Gatewayはリージョン内ピアリングをサポートし、同じAWSリージョン内の複数のTransit Gateway間でピアリング接続を確立できるようになりました。この変更により、組織内のさまざまなユニットが独自のTransit Gatewayを導入し、それらを簡単に相互接続することができるようになり、管理コストの削減と自律的な運用が可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-transit-gateway-intra-region-cloud-network/",
-          "publishedOn": "2021-12-06T10:52:44.000Z",
-          "wordCount": 272,
-          "title": "AWS Transit Gatewayがリージョン内ピアリングを導入し、クラウドオペレーションとネットワークコネクティビティを簡素化"
-        },
-        {
-          "id": "9ae80e72edf150322c4d05a4c1b76b5ee9b1bdfb",
-          "author": "aws@amazon.com",
-          "description": "エンドツーエンドの機械学習 (ML) ワークフローの作成、自動化、管理を可能にするフルマネージドサービスである Amazon SageMaker Pipelines は Amazon SageMaker Model Monitor とAmazon SageMaker Clarify の統合をサポートするようになりました。これらの統合により、ML ワークフローにモデルの品質やバイアスの検出を簡単に組み込むことができます。オートメーションの向上は ML モデルの構築や管理におけるオペレーション負荷を軽減に役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-sagemaker-pipelines-integrates-sagemaker-model-monitor-sagemaker-clarify/",
-          "publishedOn": "2021-12-06T10:46:44.000Z",
-          "wordCount": 305,
-          "title": "Amazon SageMaker パイプラインは SageMaker Model Monitor と SageMaker Clarify に統合されました"
-        },
-        {
-          "id": "72befbb68faa2fc3179ecc1b822968ee657e41e8",
-          "author": "aws@amazon.com",
-          "description": "AWS Shield Advanced は、アプリケーションレイヤー（レイヤー7）のDDoSイベントをブロックすることで、ユーザーや AWS Shield Response Team（SRT）がマニュアルで介入することなく、ウエブアプリケーションを自動的に保護するようになりました。AWS Shield Advanced でリソースを保護し、アプリケーションレイヤーの DDoS 自動緩和を有効にすると、Shield アドバンストはレイヤー7の DDoS イベントに関連するパターンを識別し、ウエブアクセスコントロールリスト（ACL）に AWS WAFルールを自動作成することで、この異常トラフィックを隔離します。これらのルールは、カウントモードで実装して、リソースのトラフィックにどのような影響を与えるかを観察した後、ブロックモードでデプロイすることができます。これらの機能により、アプリケーションの可用性を脅かすDDoS イベントに素早く対応し、緩和を有効にします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-shield-advanced-application-layer-ddos-mitigation/",
-          "publishedOn": "2021-12-06T10:40:44.000Z",
-          "wordCount": 296,
-          "title": "AWS Shield Advanced がアプリケーションレイヤーの DDoS 自動軽減機能を導入"
-        },
-        {
-          "id": "a07474b72837a6b0c43fbf90608a93278c3cb4f8",
-          "author": "aws@amazon.com",
-          "description": "Amazon VPC IP Address Manager (IPAM) は AWS ワークロードの IP アドレスの計画、追跡、モニタリングを簡単にする新しい機能です。IPAM の自動ワークフローにより、ネットワーク管理者はより効率的に IP アドレスを管理することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-virtual-private-cloud-vpc-announces-ip-address-manager-ipam/",
-          "publishedOn": "2021-12-06T10:34:44.000Z",
-          "wordCount": 359,
-          "title": "Amazon Virtual Private Cloud (VPC) は AWS での IP アドレス管理を簡素化する IP Address Manager (IPAM) を発表"
         }
       ]
     },
