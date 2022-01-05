@@ -166,15 +166,6 @@
           "publishedOn": "2021-12-07T21:45:28.000Z",
           "wordCount": 539,
           "title": "ページネーションしたページをすべて1ページ目に正規化できるか？"
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/?p=11778",
-          "author": "Kenichi Suzuki",
-          "description": "最新の画像だけを集めたセクションを画像検索に Google は表示するようになった。",
-          "link": "https://www.suzukikenichi.com/blog/google-shows-a-section-dedicated-to-latest-photos-in-image-search/",
-          "publishedOn": "2021-12-06T21:45:41.000Z",
-          "wordCount": 516,
-          "title": "米Googleモバイル画像検索で最新画像だけを掲載するLatestセクション"
         }
       ]
     },
@@ -3294,69 +3285,6 @@
           "publishedOn": "2021-12-06T22:15:44.000Z",
           "wordCount": 269,
           "title": "新しい AWS コンピテンシープログラムがエネルギー業界の専門知識で AWS パートナーを差別化"
-        },
-        {
-          "id": "224e4144d9eedfdcb98af3dba106023478cd72fc",
-          "author": "aws@amazon.com",
-          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、セキュリティの脆弱性を検出し、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-codeguru-reviewer-hardcoded-secrets-java-python/",
-          "publishedOn": "2021-12-06T22:09:44.000Z",
-          "wordCount": 287,
-          "title": "Amazon CodeGuru Reviewer が Java リポジトリと Python リポジトリ内のハードコードされたシークレットを検出"
-        },
-        {
-          "id": "cbbd8ba4c75ed47dc1e64977343159e25ed629fa",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Registry (Amazon ECR) が、パブリックにアクセス可能なレジストリからイメージを自動的に同期するように設計された新機能であるプルスルーキャッシュリポジトリのサポートを開始しました。本日のリリースにより、お客様は、パブリックイメージ用の Amazon ECR のダウンロードパフォーマンス、セキュリティ、および可用性をご利用になれます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ecr-cache-repositories/",
-          "publishedOn": "2021-12-06T22:03:44.000Z",
-          "wordCount": 256,
-          "title": "Amazon ECR がプルスルーキャッシュリポジトリを発表"
-        },
-        {
-          "id": "65f092221dc09baed69835962a267cd3d796a84f",
-          "author": "aws@amazon.com",
-          "description": "メトリクスインサイトは、プレビュー中の Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンであるメトリクスインサイトは、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。メトリクスインサイトを使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。メトリクスインサイトおよびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-cloudwatch-metrics-insights-preview/",
-          "publishedOn": "2021-12-06T21:57:44.000Z",
-          "wordCount": 272,
-          "title": "Amazon CloudWatch メトリクスインサイトの紹介 (プレビュー)"
-        },
-        {
-          "id": "1bfbb4032c1dfdb029a8e828ed7567c2e84c3327",
-          "author": "aws@amazon.com",
-          "description": "AWS Well-Architected Tool は、お客様が独自のカスタムレンズを作成する機能の提供を開始しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-well-architected-tool-custom-lenses/",
-          "publishedOn": "2021-12-06T21:51:44.000Z",
-          "wordCount": 294,
-          "title": "カスタムレンズを使用した AWS Well-Architected レビューのカスタマイズ"
-        },
-        {
-          "id": "ef010f3566bc9e1e7d9377d9587a6cbc33fd9b08",
-          "author": "aws@amazon.com",
-          "description": "本日、当社は、AWS Graviton2 プロセッサを搭載し、NVIDIA T4G Tensor Core GPU を備えた新しい Amazon EC2 G5g インスタンスを発表いたします。G5g は、主要なクラウドで最初の Arm ベースのインスタンスであり、GPU アクセラレーションを備え、Android ゲームストリーミング向け Amazon EC2 で最高のコストパフォーマンスを提供します。G5g インスタンスを使用すると、Android ゲームデベロッパーは、Arm ベースのインスタンスでネイティブに実行し、レンダリングされたグラフィックをエンコードし、ネットワーク経由でゲームをモバイルデバイスにストリーミングすることができます。これにより、開発作業が簡素化され、1時間あたりのストリーミングごとのコストが最大 30％ 削減されます。また、G5g インスタンスは、コスト効率の高い推論を求め、 CPU パフォーマンスに敏感な ML モデルを有し、NVIDIA の AI ライブラリを活用する機械学習デベロッパーにとっても最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/",
-          "publishedOn": "2021-12-06T21:45:44.000Z",
-          "wordCount": 405,
-          "title": "AWS Graviton2 プロセッサを搭載した新しい Amazon EC2 G5g インスタンスを発表"
-        },
-        {
-          "id": "1c7baac18581a36c5ba9ad527d5c5bcbd6676514",
-          "author": "aws@amazon.com",
-          "description": "本日、Greengrass コミュニティによって開発された AWS IoT Greengrass ソフトウェアコンポーネントのコレクションである Greengrass Software Catalog をリリースします。デバイスアプリケーションをゼロから開発するのではなく、GitHub で事前に構築された Greengrass コンポーネントのリストから選択して、IoT エッジアプリケーションを開始できます。これらのコンポーネントを簡単にインストール、使用、および変更して、IoT プロジェクトを加速できます。今回のリリースの一環として、ローカル開発環境でカタログコンポーネントを構成および構築するために使用できる Greengrass 開発キット Command Line Interface (CLI) も提供しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/greengrass-software-catalog-iot-edge-applications/",
-          "publishedOn": "2021-12-06T21:39:46.000Z",
-          "wordCount": 296,
-          "title": "IoT エッジアプリケーションの構築を容易にする新しいコンポーネントを含む新しい Greengrass Software Catalog"
-        },
-        {
-          "id": "f9b53b971ceaa9bae1f5139c1b622ef9141c128b",
-          "author": "aws@amazon.com",
-          "description": "AWS Data Exchange for APIs の提供を開始いたします。これは、AWS Data Exchange でプロバイダーからのサードパーティー API 製品の検索、サブスクライブ、使用を可能にする新しい機能です。AWS Data Exchange for APIs では、AWS ネイティブの認証とガバナンスを活用し、整合性のある API ドキュメントを調べ、サポート対象の AWS SDK を利用して API コールを実行できます。これによりデータプロバイダーは API を AWS Data Exchange カタログに追加することで、API ベースのデータを使用している数百万の AWS にアクセスできるようになります。また、サブスクライバーの認証とエンタイトルメント、請求をより簡単に管理できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/aws-data-exchange-for-apis/",
-          "publishedOn": "2021-12-06T21:33:44.000Z",
-          "wordCount": 334,
-          "title": "AWS Data Exchange for APIs の紹介"
         }
       ]
     },
