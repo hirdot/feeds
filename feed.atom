@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T08:14:04.108Z</updated>
+    <updated>2022-01-06T09:11:48.586Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ruby: JSON.parseのあまり知られていない機能（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329"/>
+        <updated>2022-01-06T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/ruby_lesser_known_capability_of_json.parse-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A lesser known capability of Ruby&#8217;s JSON&#46;parse &#124; Arkency Blog 原文公開日: 2021/10/23 原著者: Szymon Fiedler サイト: arkency 参考: 週刊Railsウォッチ20211110 Ruby: JSON.parseのあまり知られていない機能（翻訳） RubyのJSON.parseが文字列キーのハッシュを返すことにうんざりしたことのある方、シンボルキーのハッシュが欲しい方、本記事は皆さんのためにあります。 こんなときは、Rails開発者 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329" data-wpel-link="internal" target="_self">Ruby: JSON.parseのあまり知られていない機能（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年1月6日　メモリ管理機能の「CleanCache」，Linuxメインラインから削除へ ── Linux Daily Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/linux_dt/202201/06</id>
@@ -970,6 +981,17 @@
         <updated>2021-12-23T08:30:33.000Z</updated>
         <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/announce_chinese_manga_translation_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>どうもこんにちは、BPS渡辺です。弊社の出資先に国内漫画の海外販売、海外漫画の国内販売を行う会社があります。どちらかといえば国内の日本語で描かれた漫画を漫画翻訳して海外で販売するほうが収益の大部分をしめますが、2年前から準備を始めた中国語漫画の日本国内での配信を本格化します。 今月1本、来年の春に1本、その後も2~3本の新作を予定しています。今月のは「玄皓戦記」と言いまして、ほぼ全ての電子書店で配信しております。絵のテイストはちょっと好みがあるかもですが、ストーリーは王道ぽい魔法や召喚ありのバトルものです。もしよければ。：） なお、海外に向けて作品を配信したい方や、海外の作品を日本で配信したい方へ、漫画翻訳を専門 [&#8230;]</p>
 <p>The post <a href="https://techracho.bpsinc.jp/piichan1031/2021_12_23/114558" data-wpel-link="internal" target="_self">2年前から準備を始めた中国語漫画の日本国内での配信を本格化します</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby: 文字列マッチは正規表現より先に専用メソッドを使おう]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2021_12_23/82048</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2021_12_23/82048"/>
+        <updated>2021-12-23T08:30:27.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2019/10/ruby_string_match_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>正規表現は文字列メソッドより「遅い」 新しい話ではなくて恐縮です。 Rubyに限らず、一般に正規表現は言語の文字列マッチメソッドより低速になります。 複雑なパターンを調べたい場合は正規表現を使うことになりますが、特に「開始文字列」「終了文字列」とのマッチを単純にチェックするだけなら、String#start_with?やString#end_with?でマッチを取る方が可読性の上でも速度面からもおすすめです。 本記事ではtrue/falseを返す文字列マッチメソッドについてのみ言及していますが、文字列の取り出しや置換といった操作についても、専用メソッドの方が正規表現よりも一般に高速なので、「正規表現は次なる手段」 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2021_12_23/82048" data-wpel-link="internal" target="_self">Ruby: 文字列マッチは正規表現より先に専用メソッドを使おう</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
         </author>

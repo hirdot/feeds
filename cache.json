@@ -1137,6 +1137,15 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/ruby_lesser_known_capability_of_json.parse-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A lesser known capability of Ruby&#8217;s JSON&#46;parse &#124; Arkency Blog 原文公開日: 2021/10/23 原著者: Szymon Fiedler サイト: arkency 参考: 週刊Railsウォッチ20211110 Ruby: JSON.parseのあまり知られていない機能（翻訳） RubyのJSON.parseが文字列キーのハッシュを返すことにうんざりしたことのある方、シンボルキーのハッシュが欲しい方、本記事は皆さんのためにあります。 こんなときは、Rails開発者 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329\" data-wpel-link=\"internal\" target=\"_self\">Ruby: JSON.parseのあまり知られていない機能（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329",
+          "publishedOn": "2022-01-06T08:30:21.000Z",
+          "wordCount": 442,
+          "title": "Ruby: JSON.parseのあまり知られていない機能（翻訳）"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_05/114798",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_workaround_ruby310_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>現象 Ruby 3.1.0がリリースされた直後にRails 7.0.0をRuby 3.1.0で動かそうとすると、以下のRails::Engine is abstract, you cannot instantiate it directly.エラーが出て動きませんでした。これはrails newの場合ですが、他の操作でも出ました。 $ dip rails new . --skip-git Calling `DidYouMean::SPELL_CHECKERS.merge!(error_name =&#62; spell_checker)' has been deprecated. Please call `DidY [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_05/114798\" data-wpel-link=\"internal\" target=\"_self\">Rails 7.0.0+Ruby 3.1.0のGemfileは7-0-stableブランチの指定が必要</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -1207,6 +1216,15 @@
           "publishedOn": "2021-12-23T08:30:33.000Z",
           "wordCount": 236,
           "title": "2年前から準備を始めた中国語漫画の日本国内での配信を本格化します"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_12_23/82048",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2019/10/ruby_string_match_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>正規表現は文字列メソッドより「遅い」 新しい話ではなくて恐縮です。 Rubyに限らず、一般に正規表現は言語の文字列マッチメソッドより低速になります。 複雑なパターンを調べたい場合は正規表現を使うことになりますが、特に「開始文字列」「終了文字列」とのマッチを単純にチェックするだけなら、String#start_with?やString#end_with?でマッチを取る方が可読性の上でも速度面からもおすすめです。 本記事ではtrue/falseを返す文字列マッチメソッドについてのみ言及していますが、文字列の取り出しや置換といった操作についても、専用メソッドの方が正規表現よりも一般に高速なので、「正規表現は次なる手段」 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_12_23/82048\" data-wpel-link=\"internal\" target=\"_self\">Ruby: 文字列マッチは正規表現より先に専用メソッドを使おう</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_12_23/82048",
+          "publishedOn": "2021-12-23T08:30:27.000Z",
+          "wordCount": 516,
+          "title": "Ruby: 文字列マッチは正規表現より先に専用メソッドを使おう"
         },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2021_12_22/114531",
