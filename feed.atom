@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T00:43:11.537Z</updated>
+    <updated>2022-01-06T02:08:22.468Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年1月6日　とっくに明けておりますが・・・ ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0106</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0106"/>
+        <updated>2022-01-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年トラ柄年の始まりです。]]></summary>
+        <author>
+            <name>gihyo.jp：LIFESTYLE STAGE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第77回　2021年北東アジアOSS貢献者賞と，MySQL ＆ PostgreSQLの2021年の主なニュース  ── OSSデータベース取り取り時報]]></title>
         <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0077</id>
@@ -3122,16 +3132,6 @@ Cryostat は、JFR をコンテナ時代にもたらし、中央ハブから直�
         <summary type="html"><![CDATA[こんにちは。@color_box です。 この記事は、ESM Advent Calender 2021 の8日目の記事です。 みなさん集中できてますか？ ついついTwitterとか見てませんか？ 私は見ちゃいます。 この記事では私が集中する時に気が散るのを防ぐためにやっていることを紹介します。 /etc/hostsを書き換えてtwitterなどへのアクセスを遮断する 手始めに/etc/hostsを書き換えましょう。 私は下記のように書き換えて運用しています。 0.0.0.0 www.youtube.com 0.0.0.0 abs.twimg.com 0.0.0.0 twitter.com 0.…]]></summary>
         <author>
             <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誤って削除されたスナップショットをごみ箱を使用して復元]]></title>
-        <id>75868aacbd80ab4e910d8006f5ae0fac9cb9bd9b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/"/>
-        <updated>2021-12-07T13:36:44.000Z</updated>
-        <summary type="html"><![CDATA[本日より、EBS スナップショットのごみ箱を使用して、誤って削除してしまったスナップショットを復元し、ビジネス継続性のニーズを満たすことができます。以前は、スナップショットを誤って削除すると、前の時点でスナップショットにロールバックする必要があり、目標復旧時点が増加していました。ごみ箱を使用すると、保存期間を指定して、保存期間が満了する前に削除されたスナップショットなら復元できます。復元されたスナップショットは、削除前に持っていたタグ、アクセス許可、暗号化ステータスなどの属性を保持し、ボリュームの作成にすぐに使用できます。ごみ箱から復元されなかったスナップショットは、保持期間が終了すると完全に削除されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>

@@ -1644,6 +1644,15 @@
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
         {
+          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0106",
+          "author": null,
+          "description": "2022年トラ柄年の始まりです。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0106",
+          "publishedOn": "2022-01-06T01:00:00.000Z",
+          "wordCount": 322,
+          "title": "2022年1月6日　とっくに明けておりますが・・・ ── 帰ってきた『技評ねこ部通信』"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/column/newyear/2022/privacy-standards",
           "author": null,
           "description": "あけましておめでとうございます。@_natこと崎村夏彦です。2022年の年頭にあたり，2021年のプライバシー関連の動きを振り返り，その上で2022年を展望してみたいと思います。",
@@ -2718,15 +2727,6 @@
           "publishedOn": "2021-12-08T08:59:45.000Z",
           "wordCount": 465,
           "title": "AWS、3 つのアナリティクスサービス向けに新たなサーバーレスオプションを発表"
-        },
-        {
-          "id": "75868aacbd80ab4e910d8006f5ae0fac9cb9bd9b",
-          "author": "aws@amazon.com",
-          "description": "本日より、EBS スナップショットのごみ箱を使用して、誤って削除してしまったスナップショットを復元し、ビジネス継続性のニーズを満たすことができます。以前は、スナップショットを誤って削除すると、前の時点でスナップショットにロールバックする必要があり、目標復旧時点が増加していました。ごみ箱を使用すると、保存期間を指定して、保存期間が満了する前に削除されたスナップショットなら復元できます。復元されたスナップショットは、削除前に持っていたタグ、アクセス許可、暗号化ステータスなどの属性を保持し、ボリュームの作成にすぐに使用できます。ごみ箱から復元されなかったスナップショットは、保持期間が終了すると完全に削除されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/",
-          "publishedOn": "2021-12-07T13:36:44.000Z",
-          "wordCount": 250,
-          "title": "誤って削除されたスナップショットをごみ箱を使用して復元"
         }
       ]
     },
