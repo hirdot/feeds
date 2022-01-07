@@ -513,6 +513,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=264474",
+          "author": "MIT Technology Review Editors",
+          "description": "今や、気候変動による海水面上昇は多くの人が知ることとなった。ここまで地球環境が悪化するまで、人類は何をしていたのだろうか。MITテクノロジーレビューの過去の記事を読み返すと、気候変動や海洋環境についての見方が時代によって変わっていることが分かる。",
+          "link": "https://www.technologyreview.jp/s/264474/from-the-archives-3/",
+          "publishedOn": "2022-01-07T07:49:30.000Z",
+          "wordCount": 707,
+          "title": "人類は海洋環境の変化をどのように見てきたか？ MITTRの誌面から"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=265966",
           "author": "Koichi Motoda",
           "description": "MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、東京大学大学院の武田俊太郎氏のプレゼンテーションの内容を要約して紹介する。",
@@ -1163,6 +1172,15 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7.0.1_release_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby on Rails 7.0.1がリリースされました。 Rails 7.0.1 has been released with support to Ruby 3.1 https://t.co/XIwUELdlFx &#8212; Ruby on Rails (@rails) January 6, 2022 リリース情報: Ruby on Rails — Rails 7.0.1 has been released 英語版Changelogの概要を見るにはGItHubのリリースタグ↓が便利です。v7.0.1タグの日付は日本時間の2022年01月07日08:59でした。 リリースタグ: Release 7.0.1 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834\" data-wpel-link=\"internal\" target=\"_self\">Rails 7.0.1がリリースされました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834",
+          "publishedOn": "2022-01-07T07:30:13.000Z",
+          "wordCount": 351,
+          "title": "Rails 7.0.1がリリースされました"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329",
           "author": null,
@@ -2709,51 +2727,6 @@
           "publishedOn": "2021-12-08T20:17:44.000Z",
           "wordCount": 339,
           "title": "AWS と Open 3D Foundation のパートナーが Open 3D Engine 初の安定版リリースを発表"
-        },
-        {
-          "id": "2517f24daeff1753a81ef61266657903dd6dae9e",
-          "author": "aws@amazon.com",
-          "description": "AWS SDK for Swift のデベロッパープレビューを発表することを嬉しく思います。AWS SDK for Swift は、Swift の簡潔な構文、マルチプラットフォーム機能、および Swift の新しい同時実行機能を利用するための機能拡張を慣用的にサポートするようにゼロから設計されています。この初期リリースは iOS、macOS、Linux をサポートしており、将来的には tvOS、watchOS、Catalyst、Windows などの他のプラットフォームもサポートする予定です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-sdk-swift-developer-preview/",
-          "publishedOn": "2021-12-08T19:59:44.000Z",
-          "wordCount": 288,
-          "title": "AWS SDK for Swift (デベロッパープレビュー)"
-        },
-        {
-          "id": "00cc4210efd188e6dff4a985ebbc7075e10ff516",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda は、Amazon Virtual Private Cloud (VPC) で実行される関数について、AWS CloudTrail のデータイベントに Hyperplane Elastic Network Interface (ENI) ID をログするようになりました。お客様は、AWS CloudTrail のデータイベントに含まれる ENI ID を利用して、アプリケーションのセキュリティを監査し、許可された関数のみが共有された Hyperplane ENI を介して VPC リソースにアクセスしていることを確認することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/",
-          "publishedOn": "2021-12-08T19:53:44.000Z",
-          "wordCount": 354,
-          "title": "AWS Lambda が AWS CloudTrail データイベントで Hyperplane Elastic Network Interface (ENI) ID のログを開始"
-        },
-        {
-          "id": "384ad37f4cb3a6deaed5dacc14d63cbbf06e1248",
-          "author": "aws@amazon.com",
-          "description": "AWS Amplify は、フロントエンドデベロッパーに最小限のコーディングで UI 開発を加速化する新機能 (公開プレビュー) を提供すると同時に、Amplify の強力なバックエンド構成および管理機能を統合するビジュアル開発環境である AWS Amplify Studio を発表しました。Amplify Studio は、Figma で作成されたデザインを人間が読める形式の React UI コンポーネントコードに自動的に変換します。Amplify Studio 内で、デベロッパーは UI コンポーネントをアプリケーションのバックエンドデータに視覚的に接続できます。バックエンドを構成および管理するために、Amplify Admin UI の既存の機能は今後 Amplify Studio の一部となり、デベロッパーがフルスタックアプリケーションをより高速に構築できるようにする統合インターフェースを提供します。詳細はこちら。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-amplify-studio/",
-          "publishedOn": "2021-12-08T19:45:44.000Z",
-          "wordCount": 336,
-          "title": "AWS Amplify Studio のご紹介"
-        },
-        {
-          "id": "361762cbfe3f1e3fc8521b668192a46a15f209c4",
-          "author": "aws@amazon.com",
-          "description": "AWS Well-Architected Framework は、2015 年以来 AWS のお客様がクラウドワークロードを改善するのを支援してきました。このフレームワークは、設計原則、課題と、優れた運用効率、セキュリティ、信頼性、パフォーマンス効率、コスト最適化の複数の柱にわたるベストプラクティスに照らしてワークロードをレビューできます。本日、クラウドコンピューティングの環境に関するベストプラクティスを使用して、組織がワークロードを学習、測定、改善できるように、新しい AWS Well-Architected のサステナビリティの柱を紹介します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/new-sustainability-pillar-aws-well-architected-framework/",
-          "publishedOn": "2021-12-08T19:25:44.000Z",
-          "wordCount": 259,
-          "title": "AWS Well-Architected Framework の新しいサステナビリティの柱"
-        },
-        {
-          "id": "2931526d711cccfa443b1ffd3a0df4626e14c81d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly の日本人男性のテキスト読み上げ (TTS) 音声のニューラルバージョン「Takumi」の一般提供の開始を発表します。Takumi のニューラル TTS は、自然で親しみやすく、スムーズに聞こえます。今回の発売で、Mizuki スタンダード、Takumi スタンダード、Takumi ニューラルの 3 種類の個性的な日本語 TTS 音声を選択することができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/",
-          "publishedOn": "2021-12-08T19:12:46.000Z",
-          "wordCount": 277,
-          "title": "Amazon Polly が新しい日本語のニューラル音声 (男性) 「Takumi」を導入"
         }
       ]
     },

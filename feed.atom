@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-07T07:10:53.173Z</updated>
+    <updated>2022-01-07T08:13:46.047Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人類は海洋環境の変化をどのように見てきたか？ MITTRの誌面から]]></title>
+        <id>https://www.technologyreview.jp/?p=264474</id>
+        <link href="https://www.technologyreview.jp/s/264474/from-the-archives-3/"/>
+        <updated>2022-01-07T07:49:30.000Z</updated>
+        <summary type="html"><![CDATA[今や、気候変動による海水面上昇は多くの人が知ることとなった。ここまで地球環境が悪化するまで、人類は何をしていたのだろうか。MITテクノロジーレビューの過去の記事を読み返すと、気候変動や海洋環境についての見方が時代によって変わっていることが分かる。]]></summary>
+        <author>
+            <name>MIT Technology Review Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7.0.1がリリースされました]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834"/>
+        <updated>2022-01-07T07:30:13.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7.0.1_release_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Ruby on Rails 7.0.1がリリースされました。 Rails 7.0.1 has been released with support to Ruby 3.1 https://t.co/XIwUELdlFx &#8212; Ruby on Rails (@rails) January 6, 2022 リリース情報: Ruby on Rails — Rails 7.0.1 has been released 英語版Changelogの概要を見るにはGItHubのリリースタグ↓が便利です。v7.0.1タグの日付は日本時間の2022年01月07日08:59でした。 リリースタグ: Release 7.0.1 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834" data-wpel-link="internal" target="_self">Rails 7.0.1がリリースされました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon RDS Proxy が 8 つの追加 AWS リージョンで利用可能に]]></title>
         <id>e27f6ee3f9886a01cfff8b5fd4f24d17861d4061</id>
@@ -3096,56 +3117,6 @@ Cryostat は、JFR をコンテナ時代にもたらし、中央ハブから直�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/"/>
         <updated>2021-12-08T20:17:44.000Z</updated>
         <summary type="html"><![CDATA[本日、AWS と Open 3D Foundation (O3DF) は、Open 3D Engine (O3DE) の最初の安定したリリースを発表しました。これは、デベロッパーが AAA ゲーム、動画制作用の映画品質の 3D ワールド、ライセンス料や商業条件に邪魔されないゲーム以外のユースケースのシミュレーションを構築できるようにする、Apache 2.0 ライセンスのマルチプラットフォーム 3D エンジンです。O3DF の形成と 7 月の O3DE デベロッパープレビューのリリース以来、さまざまな業界の 250 人を超えるデベロッパーが、デベロッパー機能の追加、安定性の向上、および O3DE をライブゲームやシミュレーションで使用できるようにするためのパフォーマンス増加のために、数千のプルリクエスト、問題、および数百万行のコードの変更に貢献してきました。Amazon Lumberyard の後継として、O3DE は、デベロッパーとコンテンツクリエーターに、幅広い 3D コンテンツ作成ツールのセットと、AccelByte、Adobe、Apocalypse Studios、Audiokinetic、AWS、Backtrace.io、Carbonated、Futurewei、GAMEPOCH、Genvid Technologies、Hadean、HERE Technologies、Huawei、インテル、International Game Developers Association、KitBash3D、Kythera AI、Niantic、Open Robotics、PopcornFX、Red Hat、Rochester Institute of Technology、SideFX、Tafi、TLM Partners、Wargaming を提供しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS SDK for Swift (デベロッパープレビュー)]]></title>
-        <id>2517f24daeff1753a81ef61266657903dd6dae9e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-sdk-swift-developer-preview/"/>
-        <updated>2021-12-08T19:59:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS SDK for Swift のデベロッパープレビューを発表することを嬉しく思います。AWS SDK for Swift は、Swift の簡潔な構文、マルチプラットフォーム機能、および Swift の新しい同時実行機能を利用するための機能拡張を慣用的にサポートするようにゼロから設計されています。この初期リリースは iOS、macOS、Linux をサポートしており、将来的には tvOS、watchOS、Catalyst、Windows などの他のプラットフォームもサポートする予定です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda が AWS CloudTrail データイベントで Hyperplane Elastic Network Interface (ENI) ID のログを開始]]></title>
-        <id>00cc4210efd188e6dff4a985ebbc7075e10ff516</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/"/>
-        <updated>2021-12-08T19:53:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda は、Amazon Virtual Private Cloud (VPC) で実行される関数について、AWS CloudTrail のデータイベントに Hyperplane Elastic Network Interface (ENI) ID をログするようになりました。お客様は、AWS CloudTrail のデータイベントに含まれる ENI ID を利用して、アプリケーションのセキュリティを監査し、許可された関数のみが共有された Hyperplane ENI を介して VPC リソースにアクセスしていることを確認することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify Studio のご紹介]]></title>
-        <id>384ad37f4cb3a6deaed5dacc14d63cbbf06e1248</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-amplify-studio/"/>
-        <updated>2021-12-08T19:45:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify は、フロントエンドデベロッパーに最小限のコーディングで UI 開発を加速化する新機能 (公開プレビュー) を提供すると同時に、Amplify の強力なバックエンド構成および管理機能を統合するビジュアル開発環境である AWS Amplify Studio を発表しました。Amplify Studio は、Figma で作成されたデザインを人間が読める形式の React UI コンポーネントコードに自動的に変換します。Amplify Studio 内で、デベロッパーは UI コンポーネントをアプリケーションのバックエンドデータに視覚的に接続できます。バックエンドを構成および管理するために、Amplify Admin UI の既存の機能は今後 Amplify Studio の一部となり、デベロッパーがフルスタックアプリケーションをより高速に構築できるようにする統合インターフェースを提供します。詳細はこちら。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Well-Architected Framework の新しいサステナビリティの柱]]></title>
-        <id>361762cbfe3f1e3fc8521b668192a46a15f209c4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/new-sustainability-pillar-aws-well-architected-framework/"/>
-        <updated>2021-12-08T19:25:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Well-Architected Framework は、2015 年以来 AWS のお客様がクラウドワークロードを改善するのを支援してきました。このフレームワークは、設計原則、課題と、優れた運用効率、セキュリティ、信頼性、パフォーマンス効率、コスト最適化の複数の柱にわたるベストプラクティスに照らしてワークロードをレビューできます。本日、クラウドコンピューティングの環境に関するベストプラクティスを使用して、組織がワークロードを学習、測定、改善できるように、新しい AWS Well-Architected のサステナビリティの柱を紹介します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly が新しい日本語のニューラル音声 (男性) 「Takumi」を導入]]></title>
-        <id>2931526d711cccfa443b1ffd3a0df4626e14c81d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/"/>
-        <updated>2021-12-08T19:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly の日本人男性のテキスト読み上げ (TTS) 音声のニューラルバージョン「Takumi」の一般提供の開始を発表します。Takumi のニューラル TTS は、自然で親しみやすく、スムーズに聞こえます。今回の発売で、Mizuki スタンダード、Takumi スタンダード、Takumi ニューラルの 3 種類の個性的な日本語 TTS 音声を選択することができるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
