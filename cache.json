@@ -2700,33 +2700,6 @@
           "publishedOn": "2021-12-08T21:14:44.000Z",
           "wordCount": 300,
           "title": "AWS Resource Access Manager がグローバルリソースタイプのサポートを有効化"
-        },
-        {
-          "id": "230bb74fed5fb4928a3a1f1e9ab95212ee2c2a86",
-          "author": "aws@amazon.com",
-          "description": "Amazon Pinpoint にワンタイムパスワード (OTP) 管理機能が追加されました。OTP とは、自動的に生成される文字列で、1 回のログインやトランザクションごとにユーザーを認証するものです。OTP 機能では、アプリケーション、サイト、サービスに OTP ワークフローを簡単に追加することができます。この機能を使用して、新しい OTP コードを生成し、SMS テキストメッセージとして受信者に送信することができます。その後、アプリケーションから Amazon Pinpoint API を呼び出して、受信者が入力した OTP コードが有効かどうかを検証することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-pinpoint-otp/",
-          "publishedOn": "2021-12-08T20:55:44.000Z",
-          "wordCount": 274,
-          "title": "Amazon Pinpoint にワンタイムパスワード (OTP) 管理機能を追加"
-        },
-        {
-          "id": "85fc5b7ed197de8b23c89dbf37474a93b5af8f12",
-          "author": "aws@amazon.com",
-          "description": "AWS WAF のログを CloudWatch Logs のロググループや Amazon S3 のバケットに直接送信できるようになりました。今回の発表では、既にサポートされていた Amazon Kinesis Data Firehose に加えて、WAF ログのオプションの送信先を新たに 2 つ追加しています。WAF のログ保存先として CloudWatch Logs を使用すると、CloudWatch Logs Insights を使って WAF コンソールで直接 WAF ログを検索および分析することができます。CloudWatch Logs Insights を使用すると、個々のログの表示、集約されたレポートの作成、視覚化の作成、ダッシュボードの構築が可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/",
-          "publishedOn": "2021-12-08T20:45:45.000Z",
-          "wordCount": 319,
-          "title": "AWS WAF が CloudWatch Log へのサポートと S3 バケットに直接ロギングする機能を追加"
-        },
-        {
-          "id": "077cffaa5f62c8e58890777c6d67e5e4914a5029",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS と Open 3D Foundation (O3DF) は、Open 3D Engine (O3DE) の最初の安定したリリースを発表しました。これは、デベロッパーが AAA ゲーム、動画制作用の映画品質の 3D ワールド、ライセンス料や商業条件に邪魔されないゲーム以外のユースケースのシミュレーションを構築できるようにする、Apache 2.0 ライセンスのマルチプラットフォーム 3D エンジンです。O3DF の形成と 7 月の O3DE デベロッパープレビューのリリース以来、さまざまな業界の 250 人を超えるデベロッパーが、デベロッパー機能の追加、安定性の向上、および O3DE をライブゲームやシミュレーションで使用できるようにするためのパフォーマンス増加のために、数千のプルリクエスト、問題、および数百万行のコードの変更に貢献してきました。Amazon Lumberyard の後継として、O3DE は、デベロッパーとコンテンツクリエーターに、幅広い 3D コンテンツ作成ツールのセットと、AccelByte、Adobe、Apocalypse Studios、Audiokinetic、AWS、Backtrace.io、Carbonated、Futurewei、GAMEPOCH、Genvid Technologies、Hadean、HERE Technologies、Huawei、インテル、International Game Developers Association、KitBash3D、Kythera AI、Niantic、Open Robotics、PopcornFX、Red Hat、Rochester Institute of Technology、SideFX、Tafi、TLM Partners、Wargaming を提供しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/",
-          "publishedOn": "2021-12-08T20:17:44.000Z",
-          "wordCount": 339,
-          "title": "AWS と Open 3D Foundation のパートナーが Open 3D Engine 初の安定版リリースを発表"
         }
       ]
     },
