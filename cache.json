@@ -166,15 +166,6 @@
           "publishedOn": "2021-12-09T21:45:07.000Z",
           "wordCount": 714,
           "title": "Bento AMPをGoogleが正式公開🍱AMP存続の救世主になるか？"
-        },
-        {
-          "id": "https://www.suzukikenichi.com/blog/?p=11782",
-          "author": "Kenichi Suzuki",
-          "description": "PC 検索のトップニュースに新しいレイアウトを Google は採用した。 2 カラムで、縦 2 列に記事が並ぶ。",
-          "link": "https://www.suzukikenichi.com/blog/google-rolls-out-new-layouts-for-top-stories-on-desktop-search/",
-          "publishedOn": "2021-12-08T21:45:10.000Z",
-          "wordCount": 649,
-          "title": "Google、新しいレイアウトのトップニュースをPC検索に導入"
         }
       ]
     },
@@ -1820,6 +1811,51 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "0f05881012c04e912e99d228b77a442204913a78",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift 向け AWS Data Exchange を一般的にご利用いただけるようになりました。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけてサブスクライブし、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスをサブスクライバーに付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/",
+          "publishedOn": "2022-01-07T09:35:19.000Z",
+          "wordCount": 316,
+          "title": "Amazon Redshift 向け AWS Data Exchange を発表"
+        },
+        {
+          "id": "0092f2440b8e82ad93413c18748ac3f2ac564dc7",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) では、過去のデータの傾向、パターン、および季節性を特定するために、履歴データの機械学習ベースの異常検出をご利用いただけるようになりました。履歴データの異常検出により、お客様は、過去のデータから貴重なインサイトを導き出し、アプリケーションの全体的な効率を向上させるための適切なアクションを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/",
+          "publishedOn": "2022-01-07T09:34:31.000Z",
+          "wordCount": 329,
+          "title": "Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が履歴データの異常検出のサポートを開始"
+        },
+        {
+          "id": "57f3661a4ff839367e0a4553b3d4c4a7cd13c3e8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) をサポートするようになりました。Oracle Database 12.1 の 2021 年 10 月のパスセットアップデート (PSU) がまもなくリリースされます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/",
+          "publishedOn": "2022-01-07T09:33:32.000Z",
+          "wordCount": 349,
+          "title": "Amazon RDS for Oracle が Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) のサポートを開始"
+        },
+        {
+          "id": "088970c4cf757790b901a19dbe8d60fa41f6868a",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR on EKS はカスタムイメージ (Amazon EMR on EKS で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。今後は、カスタムイメージ機能を使用して、AWS Graviton ベースのインスタンスのコンテナイメージをカスタマイズできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/",
+          "publishedOn": "2022-01-07T09:32:41.000Z",
+          "wordCount": 307,
+          "title": "Amazon EMR on EKS が AWS Graviton ベースの EC2 インスタンス用にカスタマイズされたコンテナイメージのサポートを追加"
+        },
+        {
+          "id": "53bb8b83a0c17b4db41a5b2f565402e0fdebe12d",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR on EKS は、DescribeJobRun API の一部として追加のエラーメッセージを提供するようになりました。これにより、失敗したジョブを簡単にデバッグすることが可能となります。このリリースでは、EMR on EKS は、DescribeJobRun API 応答の状態の詳細で、詳細なエラーメッセージ (該当するジョブの失敗の根本的な理由であると判断される情報) を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/",
+          "publishedOn": "2022-01-07T09:31:04.000Z",
+          "wordCount": 284,
+          "title": "Amazon EMR on EKS が、デバッグを簡素化するために DescribeJobRun API 応答にエラーメッセージの詳細を追加"
+        },
+        {
           "id": "e27f6ee3f9886a01cfff8b5fd4f24d17861d4061",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (RDS) Proxy は、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (大阪)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 ( バーレーン)、および南米 (サンパウロ) の AWS リージョンでご利用いただけるようになりました。",
@@ -2682,24 +2718,6 @@
           "publishedOn": "2021-12-08T22:22:44.000Z",
           "wordCount": 326,
           "title": "AWS Graviton2 プロセッサを搭載した Amazon Aurora R6g インスタンスが、欧州 (ミラノ)、欧州 (パリ)、および欧州 (ストックホルム) リージョンで利用可能に"
-        },
-        {
-          "id": "35fc3d0bd71e4dbba16013d11595883d6b700081",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、Amazon Redshift Query Editor V2 の SQL Notebooks (プレビュー) のサポートにより、複数の SQL クエリの整理、ドキュメント化、共有を簡素化します。新しい Notebooks のインターフェイスにより、データアナリストやデータサイエンティストなどのユーザーは、複数の SQL クエリや注釈を 1 つのドキュメントに整理して、より簡単にクエリを作成することができます。また、Notebooks を共有して、チームメンバーと共同作業を行うこともできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/",
-          "publishedOn": "2021-12-08T21:24:44.000Z",
-          "wordCount": 303,
-          "title": "Amazon Redshift Query Editor V2 での SQL Notebooks サポートのプレビューを発表"
-        },
-        {
-          "id": "c1b50306fcec4606f2d9ce173f35f38e06d7e62a",
-          "author": "aws@amazon.com",
-          "description": "AWS Resource Access Manager (RAM) は、グローバルリソースタイプをサポートするようになり、グローバルリソースを一度プロビジョニングして、そのリソースをアカウント間で共有できるようになりました。グローバルリソースは、複数の AWS リージョンで使用できるリソースです。例えば、AWS とオンプレミスネットワークを含むマネージドネットワークである AWS Cloud WAN コアネットワークと RAM リソース共有を作成し、組織全体で共有できるようになりました。その結果、クラウド WAN コアネットワークを使用して、リージョン間およびアカウント間で統合されたグローバルネットワークを一元的に運用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/",
-          "publishedOn": "2021-12-08T21:14:44.000Z",
-          "wordCount": 300,
-          "title": "AWS Resource Access Manager がグローバルリソースタイプのサポートを有効化"
         }
       ]
     },

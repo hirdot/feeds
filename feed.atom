@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-07T09:11:47.730Z</updated>
+    <updated>2022-01-07T10:12:43.807Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を発表]]></title>
+        <id>0f05881012c04e912e99d228b77a442204913a78</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/"/>
+        <updated>2022-01-07T09:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を一般的にご利用いただけるようになりました。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけてサブスクライブし、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスをサブスクライバーに付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が履歴データの異常検出のサポートを開始]]></title>
+        <id>0092f2440b8e82ad93413c18748ac3f2ac564dc7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/"/>
+        <updated>2022-01-07T09:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) では、過去のデータの傾向、パターン、および季節性を特定するために、履歴データの機械学習ベースの異常検出をご利用いただけるようになりました。履歴データの異常検出により、お客様は、過去のデータから貴重なインサイトを導き出し、アプリケーションの全体的な効率を向上させるための適切なアクションを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) のサポートを開始]]></title>
+        <id>57f3661a4ff839367e0a4553b3d4c4a7cd13c3e8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/"/>
+        <updated>2022-01-07T09:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) をサポートするようになりました。Oracle Database 12.1 の 2021 年 10 月のパスセットアップデート (PSU) がまもなくリリースされます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR on EKS が AWS Graviton ベースの EC2 インスタンス用にカスタマイズされたコンテナイメージのサポートを追加]]></title>
+        <id>088970c4cf757790b901a19dbe8d60fa41f6868a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/"/>
+        <updated>2022-01-07T09:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR on EKS はカスタムイメージ (Amazon EMR on EKS で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。今後は、カスタムイメージ機能を使用して、AWS Graviton ベースのインスタンスのコンテナイメージをカスタマイズできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR on EKS が、デバッグを簡素化するために DescribeJobRun API 応答にエラーメッセージの詳細を追加]]></title>
+        <id>53bb8b83a0c17b4db41a5b2f565402e0fdebe12d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/"/>
+        <updated>2022-01-07T09:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR on EKS は、DescribeJobRun API の一部として追加のエラーメッセージを提供するようになりました。これにより、失敗したジョブを簡単にデバッグすることが可能となります。このリリースでは、EMR on EKS は、DescribeJobRun API 応答の状態の詳細で、詳細なエラーメッセージ (該当するジョブの失敗の根本的な理由であると判断される情報) を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人類は海洋環境の変化をどのように見てきたか？ MITTRの誌面から]]></title>
         <id>https://www.technologyreview.jp/?p=264474</id>
@@ -3057,36 +3107,6 @@ Cryostat は、JFR をコンテナ時代にもたらし、中央ハブから直�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/"/>
         <updated>2021-12-08T22:22:44.000Z</updated>
         <summary type="html"><![CDATA[AWS Graviton2 ベースの R6g データベースインスタンスが、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム) の各リージョンの Amazon Aurora MySQL-Compatible Edition および Amazon Aurora PostgreSQL-Compatible Edition で利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、新しいレイアウトのトップニュースをPC検索に導入]]></title>
-        <id>https://www.suzukikenichi.com/blog/?p=11782</id>
-        <link href="https://www.suzukikenichi.com/blog/google-rolls-out-new-layouts-for-top-stories-on-desktop-search/"/>
-        <updated>2021-12-08T21:45:10.000Z</updated>
-        <summary type="html"><![CDATA[PC 検索のトップニュースに新しいレイアウトを Google は採用した。 2 カラムで、縦 2 列に記事が並ぶ。]]></summary>
-        <author>
-            <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift Query Editor V2 での SQL Notebooks サポートのプレビューを発表]]></title>
-        <id>35fc3d0bd71e4dbba16013d11595883d6b700081</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/"/>
-        <updated>2021-12-08T21:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift は、Amazon Redshift Query Editor V2 の SQL Notebooks (プレビュー) のサポートにより、複数の SQL クエリの整理、ドキュメント化、共有を簡素化します。新しい Notebooks のインターフェイスにより、データアナリストやデータサイエンティストなどのユーザーは、複数の SQL クエリや注釈を 1 つのドキュメントに整理して、より簡単にクエリを作成することができます。また、Notebooks を共有して、チームメンバーと共同作業を行うこともできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resource Access Manager がグローバルリソースタイプのサポートを有効化]]></title>
-        <id>c1b50306fcec4606f2d9ce173f35f38e06d7e62a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/"/>
-        <updated>2021-12-08T21:14:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Resource Access Manager (RAM) は、グローバルリソースタイプをサポートするようになり、グローバルリソースを一度プロビジョニングして、そのリソースをアカウント間で共有できるようになりました。グローバルリソースは、複数の AWS リージョンで使用できるリソースです。例えば、AWS とオンプレミスネットワークを含むマネージドネットワークである AWS Cloud WAN コアネットワークと RAM リソース共有を作成し、組織全体で共有できるようになりました。その結果、クラウド WAN コアネットワークを使用して、リージョン間およびアカウント間で統合されたグローバルネットワークを一元的に運用できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
