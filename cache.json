@@ -2457,51 +2457,6 @@
           "publishedOn": "2021-12-13T06:15:49.000Z",
           "wordCount": 318,
           "title": "AWS Launch Wizard は Remote Desktop Gateway のガイド付きデプロイを提供開始"
-        },
-        {
-          "id": "08e1b938e6b586e1470751ac3bfe9781e3b8e059",
-          "author": "aws@amazon.com",
-          "description": "AWS Toolkit for VS Code は、Amazon ECS コンテナに接続し、Amazon ECS Exec を使用してコマンドを発行する便利な IDE 機能をデベロッパーに提供します。これにより、VS Code のユーザーは、IDE を離れることなく、Amazon EC2 インスタンスや AWS Fargate で実行されている ECS コンテナにコマンドを実行したり、シェルを取得したりするなど、コンテナを直接操作することができます。ECS Exec は、実行中のコンテナとの接続を確立するために、AWS Systems Manager (SSM) Session Manager を内部で使用します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/",
-          "publishedOn": "2021-12-10T16:10:44.000Z",
-          "wordCount": 312,
-          "title": "AWS Toolkit for VS Code に Amazon ECS のトラブルシューティング用 Amazon ECS Exec のサポートが追加"
-        },
-        {
-          "id": "c159ae1d0b5c31b7b14374bc7aaf5f863c264b0d",
-          "author": "aws@amazon.com",
-          "description": "AWS Systems Manager の機能の 1 つである Application Manager は、AWS Cost Explorer との統合により、お客様のアプリケーションのコストを報告し、可視化する新機能を発表しました。Application Manager は、アプリケーションの作成、表示、操作を単一のコンソールで行うための AWS のセントラルハブです。Application Manager を使用すると、AWS CloudFormation、AWS Launch Wizard、AWS Service Catalog App Registry、AWS Resource Groups、Amazon Elastic Kubernetes Service (Amazon EKS)、Amazon Elastic Container Service (Amazon ECS) などの複数の AWS のサービス間でアプリケーションを探して管理できます。この機能を使用することで、IT 専門家は Application Manager コンソール内でアプリケーションやアプリケーションコンポーネントのコストを確認することができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/",
-          "publishedOn": "2021-12-10T16:04:44.000Z",
-          "wordCount": 317,
-          "title": "AWS Systems Manager がアプリケーションレベルのコストレポートに対応"
-        },
-        {
-          "id": "9011b2cac098c5b911ab9fe43f4957f058655054",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Location Service に Suggestions 機能が追加されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-location-suggestion-capability/",
-          "publishedOn": "2021-12-10T15:46:44.000Z",
-          "wordCount": 297,
-          "title": "Amazon Location に Suggestion 機能を追加"
-        },
-        {
-          "id": "6bc660c250a075a9fc3fc4e44588e90360395117",
-          "author": "aws@amazon.com",
-          "description": "AWS EMP は、ガイド付きユーザーインターフェイス (UI) 体験を通じて、インストールメディアが利用できないサポートが終了した (EOS) Windows Server アプリケーションのパッケージングのサポートを開始します。本日発表された Guided Reverse Packaging (GRP) 機能では、お客様はアプリケーションに関連するファイルやフォルダを入力でき、ツールがレジストリキーや関連ファイルなどの依存関係を自動的に検索し、ユーザーに提示して確認してもらうことができます。次に、一般的なアプリケーションのワークフローをシミュレーションすることで、依存関係の全範囲を確実に把握することができます。その後、お客様は必要な互換性パッケージを生成し、実行中のアプリケーションと一緒に EC2 のサポートされている新しいバージョンの Windows Server にデプロイすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/",
-          "publishedOn": "2021-12-10T15:34:44.000Z",
-          "wordCount": 279,
-          "title": "AWS End-of-support Migration Program (EMP) がインストールメディアを持たないアプリケーションのアシストパッケージングに対応"
-        },
-        {
-          "id": "7ce8055dfad88fc13d56a3387481d8a53f70f4c2",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が、MariaDB のマイナーバージョン 10.5.13、10.4.22、10.3.32、および 10.2.41 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-rds-mariadb-supports-new-minor-versions/",
-          "publishedOn": "2021-12-10T15:18:44.000Z",
-          "wordCount": 281,
-          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.5.13、10.4.22、10.3.32、10.2.41 をサポート"
         }
       ]
     },
