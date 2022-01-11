@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T09:11:52.685Z</updated>
+    <updated>2022-01-11T10:12:44.314Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dockerfile: 非推奨化されたapt-keyを置き換える]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803"/>
+        <updated>2022-01-11T10:00:36.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/docker_remove_deprecated_apt-key_eyecatch-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>docker-composeでビルド中に以下のwarningが表示されているのに気づきました。 #5 65.11 Warning: apt-key output should not be parsed (stdout is not a terminal) warning自体はさほど気にすることはなさそうです。 参考: Reduce Docker container build warnings ついでにapt-keyについて調べてみると、apt-keyが非推奨化されていることを知りました。 以下は私が使っているDockerfileの抜粋です。PostgreSQLとYarnのインストールで使う認証キーを取得する部 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803" data-wpel-link="internal" target="_self">Dockerfile: 非推奨化されたapt-keyを置き換える</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盛り上がるeサイクリング、「お隣さん」が世界王者になる？]]></title>
         <id>https://www.technologyreview.jp/?p=266176</id>
@@ -2972,26 +2983,6 @@ Cryostat は、JFR をコンテナ時代にもたらし、中央ハブから直�
  By Andrea Messetti  Translated by  Shoji Shigeki]]></summary>
         <author>
             <name>Andrea Messetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディープマインドが言語モデル「RETRO」発表、訓練コストを大幅削減]]></title>
-        <id>https://www.technologyreview.jp/?p=263211</id>
-        <link href="https://www.technologyreview.jp/s/263211/deepmind-says-its-new-language-model-can-beat-others-25-times-its-size/"/>
-        <updated>2021-12-12T21:55:23.000Z</updated>
-        <summary type="html"><![CDATA[自然言語処理におけるAI研究の主流となっている大規模言語モデルには、訓練に膨大な計算能力を必要とするという欠点がある、ディープマインドは外部メモリーを辞書として活用することで、訓練に要するコストを大幅に下げられるモデルを発表した。]]></summary>
-        <author>
-            <name>Will Douglas Heaven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リダイレクトエラーの警告がSearch Consoleから届く、Google側の不具合か？]]></title>
-        <id>https://www.suzukikenichi.com/blog/?p=11790</id>
-        <link href="https://www.suzukikenichi.com/blog/redirect-errors-in-coverage-report-notified-by-google/"/>
-        <updated>2021-12-12T21:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Search Console のカバレッジ レポートにリダイレクト エラーが発生していること警告する通知がたくさん届いている。Google 側の問題と思われ、Google は調査中だ。]]></summary>
-        <author>
-            <name>Kenichi Suzuki</name>
         </author>
     </entry>
 </feed>
