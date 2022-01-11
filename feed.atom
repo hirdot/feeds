@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T10:12:44.314Z</updated>
+    <updated>2022-01-11T22:11:12.217Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[より多くの場所でウェブストーリーをGoogleが掲載し始める]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=11841</id>
+        <link href="https://www.suzukikenichi.com/blog/google-showing-more-web-stories-across-google/"/>
+        <updated>2022-01-11T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[ウェブストーリーを、より多くの場所で Google は掲載し始めているようだ。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Hpc6a インスタンスのご紹介]]></title>
+        <id>6b57caa0ae7c3d12fb4b624cf85e33795546ab1e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/"/>
+        <updated>2022-01-11T20:39:38.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) から、Amazon EC2 Hpc6a インスタンスの一般向けの提供を開始したことをお知らせいたします。これらのインスタンスは、数値流体力学、貯留層モデル、気象シミュレーション、有限要素解析など、コンピューティングを多用する高性能コンピューティングワークロードを効率的に実行するように最適化されています。Hpc6a インスタンスは、同等の Amazon EC2 x86 ベースのコンピューティング最適化インスタンスよりも最大 65% 優れた料金パフォーマンスを提供します。Hpc6a インスタンスを使用すると、AWS の伸縮性とスケーラビリティを活用しながら、HPC ワークロードのコストを大幅に削減できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Compute Optimizer が、複数の EC2 インスタンスアーキテクチャを活用することで最適化をより容易に]]></title>
+        <id>52e354a0a990cdb55d803c6562686a58d6d6d3fb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/"/>
+        <updated>2022-01-11T20:38:50.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Compute Optimizer は、複数の CPU アーキテクチャを活用することで、お客様が EC2 インスタンスをより容易に最適化することを可能にする新機能を発表しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.36 および 8.0.27) のサポートを開始]]></title>
+        <id>6a4cec5c758a20aa34d006ce73d523eb431e8b7b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/"/>
+        <updated>2022-01-11T20:38:03.000Z</updated>
+        <summary type="html"><![CDATA[MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.36 および 8.0.27 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。データベースインスタンスのアップグレードの詳細については、Amazon RDS ユーザーガイドを参照してください。また、Amazon RDS マネジメントコンソールで利用できる最新のマイナーバージョンを使用して、フルマネージドの Amazon RDS データベースを作成または更新してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SNS で属性ベースのアクセス制御 (ABAC) のサポートを開始]]></title>
+        <id>0f1f6a63d4d00aedbc907f04b568d24eaaaebb67</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/"/>
+        <updated>2022-01-11T20:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Notification Service (Amazon SNS) は、Publish や PublishBatch などの API アクション向けの属性ベースのアクセス制御 (ABAC) をサポートするようになりました。ABAC は、IAM ユーザーやロールなどの IAM リソース、および Amazon SNS トピックなどの AWS リソースにアタッチできるタグに基づいてアクセス許可を定義し、許可管理を簡素化する承認戦略です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex 向けの AWS PrivateLink のサポートを発表]]></title>
+        <id>be371adb0bb7a67835277b44a9ec970f739522ff</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/"/>
+        <updated>2022-01-11T20:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex は、AWS PrivateLink を介して Amazon Virtual Private Cloud (VPC) エンドポイントをサポートするようになりました。これにより、パブリック IP を使用したり、トラフィックをパブリックインターネットに公開したりすることなく、VPC 内から Amazon Lex V2 API への呼び出しを安全に開始できます。AWS PrivateLink では、Amazon のネットワークから出ることなく VPC と AWS のサービスをプライベートに接続し、内部ネットワークアーキテクチャを大幅に簡素化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMR Studio を使用したリアルタイムのコラボレーションノートブックのご紹介]]></title>
+        <id>658467569c2a53359ab26aa88773d28a4eb6b455</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/"/>
+        <updated>2022-01-11T20:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、データサイエンティスト、エンジニア、およびアナリストが EMR Studio を使用して、チーム間でリアルタイムにコラボレーションできるようになったことを発表します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Toolkit for JetBrains IDE が ECS コンテナのトラブルシューティングのために ECS-Exec のサポートを追加]]></title>
+        <id>d3cb6c1817bc30d02ede28a76106b0e6a12cc5d1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/"/>
+        <updated>2022-01-11T20:32:51.000Z</updated>
+        <summary type="html"><![CDATA[AWS Toolkit for JetBrains は、Amazon ECS コンテナに接続し、Amazon ECS Exec を使用してコマンドを発行する便利な IDE 機能をデベロッパーに提供します。これにより、デベロッパーは、IDE を離れることなく、Amazon EC2 インスタンスや AWS Fargate で実行されている ECS コンテナにコマンドを実行したり、シェルを取得したりするなど、コンテナを直接操作できます。ECS Exec は、実行中のコンテナとの接続を確立するために、AWS Systems Manager (SSM) Session Manager を内部で使用します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssemblyランタイム「Wasmer 2.1」リリース。WASI用に仮想ファイルシステムを実装し、ブラウザでもWASIが利用可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/webassemblywasmer_21wasiwasi.html</id>
+        <link href="https://www.publickey1.jp/blog/22/webassemblywasmer_21wasiwasi.html"/>
+        <updated>2022-01-11T15:42:27.000Z</updated>
+        <summary type="html"><![CDATA[米Wasmer社はオープンソースのWebAssemblyランタイム「Wasmer 2.1」の正式リリースを2021年12月2日付けで発表しています。 Wasmer 2.1では、仮想ファイル機能を提供することでWebブラウザやNode.jsで...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryがJSONにネイティブ対応。SQLでJSONに対するクエリが可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/bigqueryjsonsqljson.html</id>
+        <link href="https://www.publickey1.jp/blog/22/bigqueryjsonsqljson.html"/>
+        <updated>2022-01-11T15:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloudは、大規模データ分析サービスのBigQueryにおいてJSON型データへのネイティブ対応機能をパブリックプレビューとして公開しました。 Big news: BigQuery now natively supports...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年のエンタープライズIT市場、売り上げ1位は圧倒的強さでマイクロソフト。2位IBM、3位にAmazonが食い込む。4位には中国Huawei。Synergy Research Group]]></title>
+        <id>https://www.publickey1.jp/blog/22/2021it12ibm3amazon4huaweisynergy_research_group.html</id>
+        <link href="https://www.publickey1.jp/blog/22/2021it12ibm3amazon4huaweisynergy_research_group.html"/>
+        <updated>2022-01-11T15:01:12.000Z</updated>
+        <summary type="html"><![CDATA[調査会社のSynergy Research Groupは、2021年におけるエンタープライズIT市場の売り上げランキング「2021 Review – Microsoft and Amazon Dominate IT Vendor Reven...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for SQL Server は、SSAS 多次元のサポートを開始]]></title>
+        <id>626fd427b5757ace81ee17308cf693cff299d136</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/"/>
+        <updated>2022-01-11T11:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS for SQL Server は、多次元モードで SQL Server Analysis Services (SSAS) のサポートを開始しました。Amazon RDS for SQL Server DB インスタンスに、SSAS を直接インストールするための追加費用は発生しません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMR Studio は、JupyterLab v3.1.4 にアップグレードしました。]]></title>
+        <id>4d79000101fdd3992a57424f596ad24dd2753a1a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/"/>
+        <updated>2022-01-11T11:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。EMR Studio では、JupyterLab をベースにしたフルマネージドノートブックを利用できます。JupyterLab は、オープンソース Project Jupyter の次世代ウェブベースでのユーザーインターフェイスです。本日、EMR Studio は JupyterLab v3.1.4 にアップグレードし、向上したユーザーエクスペリエンスと新しいユーザビリティ機能を提供することをお知らせいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Firewall Manager は、AWS Shield Advanced の自動アプリケーションレイヤー DDoS 緩和策のサポートを開始]]></title>
+        <id>309ecaa18f69ffd3ba32642a18fe8449803e5c3c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/"/>
+        <updated>2022-01-11T11:31:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS Firewall Manager では、組織内のアカウント全体に AWS Shield Advanced の自動アプリケーションレイヤー (L7) DDoS 保護を一元的にデプロイできるようになりました。 AWS Shield Advanced の自動 L7 DDoS 保護は、アプリケーションレイヤー DDoS イベントをブロックし、手動での介入は必要ありません。今回のリリースにより、AWS Firewall Manager のセキュリティ管理者は、AWS Shield Advanced の Firewall Manager セキュリティポリシーを使用して、アカウント間で自動的に L7 DDoS 保護を有効にすることができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dockerfile: 非推奨化されたapt-keyを置き換える]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803</id>
@@ -2820,169 +2960,6 @@ AWS Backup が、 Amazon S3 と VMware のワークロードに集中的なデ�
         <summary type="html"><![CDATA[Node.jsの作者であるライアン・ダール（Ryan Dahl）氏が新たに立ち上げ、サーバサイドでJavaScript/TypeScriptを実行するためのオープンソースのフレームワーク「Deno」と、その分散ホスティングである「Deno ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 でDocker 開発環境を構築する]]></title>
-        <id>https://techracho.bpsinc.jp/mataka345/2021_12_13/114058</id>
-        <link href="https://techracho.bpsinc.jp/mataka345/2021_12_13/114058"/>
-        <updated>2021-12-13T08:30:31.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/docker_dev_env_for_windows_11_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに Windows 11 を使うことになった経緯 2021年秋に、Windows 11 がリリースされました。 会社としては、Windows 11 へのアップデートは しばらく様子を見てからするようにとのことでしたが、 PCを入れ替えることになったためWindows 11 が自動的にインストールされ 結果的にWindows 11 を使って業務を行うことになりました 🙇 以前の開発環境について 入った当初(2019年)は今以上に知識が疎く、当時トレーナーの方に開発環境のほとんどを作っていただきました。🙇 構成は以下のとおりでした。 Windows 11 でDocker 開発環境を構築 ここからは、早速ではあり [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/mataka345/2021_12_13/114058" data-wpel-link="internal" target="_self">Windows 11 でDocker 開発環境を構築する</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が最小ファイルシステムスループット容量を 128 MB/秒に削減]]></title>
-        <id>83a9424e398df364c84367569a4a564cad0f36a1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/"/>
-        <updated>2021-12-13T06:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP は、最小ファイルシステムスループット容量を 512 MB/秒から 128 MB/秒に削減しました。これにより、FSx for ONTAP ファイルシステムの最小コストが 50% 超削減されることになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kinesis Data Analytics がアジアパシフィック (大阪) およびアフリカ (ケープタウン) のリージョンで利用可能に]]></title>
-        <id>5ba9ba0d41d86708db7117748cce557e509c3cec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-kinesis-data-analytics-available-regions/"/>
-        <updated>2021-12-13T06:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kinesis Data Analytics は、アジアパシフィック (大阪) およびアフリカ (ケープタウン) のリージョンでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Route 53 が API アクションを更新]]></title>
-        <id>f59047e269566b0b733bf7af9764dfaf0e8cbfc5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/"/>
-        <updated>2021-12-13T06:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Route 53 は、ドメイン固有の API アクションである DeleteDomain と ListPrices を追加しています。並べ替えとフィルタリングの機能も、API アクションの ListDomains に追加されています。DeleteDomain API アクションは、以前は AWS コンソールでのみ使用可能だった関数です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall が AWS マネージドルールのサポートを開始]]></title>
-        <id>f77a9b2a7374cc84ff200c764f55718105508399</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/"/>
-        <updated>2021-12-13T06:47:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall は、脅威インテリジェンスデータに基づくルールのグループである AWS マネージドルールをサポートするようになりました。これにより、独自のルールを記述して維持することなく、セキュリティ脅威に関する最新情報を常に入手できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP ファイルシステムで容量プールストレージのデータ圧縮の有効化が可能に]]></title>
-        <id>5f684b9e9023b6ec42abca27f2027313524a8ae6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/"/>
-        <updated>2021-12-13T06:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP は、ファイルシステムの容量プールストレージ内に保存されているデータのデータ圧縮をサポートするようになりました。FSx for ONTAP のデータ重複排除と圧縮に関する既存のサポートと組み合わせると、データ圧縮により、幅広いデータセットのストレージコストを削減できます。例えば、汎用ファイル共有のコストを 65% 削減することが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DevOps Guru は Amazon Aurora データベースの強化された分析と、アプリケーションバウンダリとしての AWS タグのサポートを発表]]></title>
-        <id>837b7b3b08633420558e87f731b1f200704a5f93</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/"/>
-        <updated>2021-12-13T06:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DevOps Guru は Amazon DevOps Guru for RDS の一部として、新しい機械学習 (ML) を活用した機能である Amazon Aurora データベースの強化された分析をサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Comprehend Medical は、SNOMED CT のサポートを追加し、すべての API で価格を最大 90% 引き下げ]]></title>
-        <id>b18bddca0611681c09de263c85d0315a2f2c1fbc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/"/>
-        <updated>2021-12-13T06:23:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Comprehend Medical は HIPAA 対応の自然言語処理サービスで、機械学習を使用して非構造化医療テキストから健康データを正確かつ迅速に抽出します。今日の健康データは、医師のメモ、臨床試験結果、患者の健康記録などのフリーフォームの医療テキストです。手動でデータを抽出するには、同義語や非標準的な医療用語を幅広く使用する必要があり、時間のかかるプロセスです。その結果、ヘルスケアおよびライフサイエンス産業の発展に必要な大規模な分析で、データが使用できないことがよくあります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core は、HTTP 接続を使用する際、お客様のカスタムオーソライザーの Lambda が返すレスポンスのキャッシュをサポートするようになりました。]]></title>
-        <id>5ff2bb8d76822002447b9cfc06c1c6a51e087964</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/"/>
-        <updated>2021-12-13T06:22:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Core カスタム認証のワークフローを HTTP 接続に使用する際に、カスタムオーソライザーの Lambda が返すレスポンスをキャッシュできるようになりました。長時間の HTTP 接続を使用する際に、お客様のカスタムオーソライザーの Lambda が返すレスポンスのキャッシュ期間（つまり、refreshAfterInSecs）を定義できるようになりました。お客様は、「refreshAfterInSecs」を5分から24時間の間で設定することで、カスタムオーソライザーの Lambda の呼び出しを減らすことができます。この特徴の強化により、お客様はカスタムオーソライザーの Lambda のコストを削減し、HTTP の動作を AWS IoT Core がサポートする他のプロトコルの動作と一致させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IAM Access Analyzer を使用して、アカウント内のより多くのロールの許可を適正化し、1日あたり50のきめ細かい IAM ポリシーを生成]]></title>
-        <id>fa919ff042b43d8b50da016a913cbb61a2e0ec71</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/right-size-permissions-iam-access-analyzer/"/>
-        <updated>2021-12-13T06:21:25.000Z</updated>
-        <summary type="html"><![CDATA[2021年4月、IAM Access Analyzer にポリシー生成機能が追加され、AWS CloudTrail で見つかったアクセスアクティビティに基づいて IAM ポリシーを作成することができるようになりました。IAM Access Analyzer では、ポリシー生成クォータを1日あたり50個に増やし、アカウント内のより多くのロールに対する許可を適切に設定できるようになりました。アカウント内の複数のワークロードの権限を適正化する際に、ロールごとにポリシー生成を行い、必要な権限のみを付与することができるようになりました。IAM Access Analyzer のポリシー生成を使用するには、ロールの詳細ページにアクセスし、「ポリシーの生成」を選択してスタートします。お客様がポリシーをリクエストすると、IAM Access Analyzer は CloudTrail のログを確認して使用されたアクションを特定し、きめ細かなポリシーを作成します。詳細はこちらのブログをお読みください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Location Service にメタデータが追加され、お客様のコスト削減に貢献]]></title>
-        <id>453fc27bf2f90789fba50237a00288620e63f656</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-location-service-metadata-reduce-costs/"/>
-        <updated>2021-12-13T06:20:35.000Z</updated>
-        <summary type="html"><![CDATA[本日、 Amazon Location Service は、デベロッパーがコスト削減、精度向上、追跡アプリケーションの開発を簡素化できるよう、追跡の位置更新のメタデータを追加しました。Amazon Location Service Trackers は、デベロッパーが簡単にスケーラブルなデバイス追跡アプリケーションを構築できるように、追跡されたデバイスの現在と過去の位置情報を取得し、リンクされた関心領域 (ジオフェンス) に対するデバイスの位置を自動的に評価できるようにしています。新しいメタデータの特徴により、ユーザーが定義した 3 つのキーと値のペアを各位置の更新に含めることで、デベロッパーはこれらのアプリケーションに、各デバイスの位置に関する追加情報、たとえば自動車の速度、方向、エンジン温度などの情報を加えることができます。このデータを追跡するために追加のシステムやコードを構築することなく、例たとえばエンジンパフォーマンスを分析するために、デバイスの現在または過去の位置に関するこの情報を Amazon Location Service Tracker から直接取得できます。デベロッパーは、追跡されたデバイスがジオフェンスを通過した際に、Amazon EventBridge Entry and Exit イベントでこのメタデータを受け取ることもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドイツでの AWS Wavelength の一般提供に関する発表]]></title>
-        <id>13a8e0d8fbbbd24f268b8366563dd3d996c31fbe</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/"/>
-        <updated>2021-12-13T06:19:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、ドイツで Vodafone の 4G/5G ネットワークを使った AWS Wavelength の一般提供を開始します。Wavelength Zone は、ベルリン、ミュンヘン、ドルトムントの 3 都市で展開しています。デベロッパー、エンタープライズ、独立系ソフトウェアベンダー (ISV) は、ドイツの AWS Wavelength Zone を利用して、モバイル機器やユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。Vodafone の 4G/5G ネットワークにおける AWS Wavelength Zone は、既に発表されているロンドンの Wavelength Zone を含め、欧州の 4 都市で提供されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard は Amazon EKS のガイド付きデプロイを提供開始]]></title>
-        <id>89b1b4de743f47189f7d29bff57b6679bd6b3aff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/"/>
-        <updated>2021-12-13T06:18:13.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard を使って、Amazon Elastic Kubernetes Service (Amazon EKS) のベストプラクティスのデプロイをリードすることができるようになりました。Amazon EKS では Kubernetes 管理インフラストラクチャが複数の AWS アベイラビリティーゾーンで運用されるため、単一障害点の排除に役立ちます。AWS Launch Wizard は AWS Well-Architected Quick Start アーキテクチャを使用して、Amazon EKS コントロールプレーンのサイジング、設定、デプロイ、ワーカーノードのクラスターへの接続、クラスター管理オペレーションのための要塞ホストの設定をガイドします。さらに、Launch Wizard のデプロイは、CloudFormation テンプレートで Kubernetes マニフェストや Helm チャートを直接宣言することによって、AWS CloudFormation を使用して Kubernetes アプリケーションをデプロイおよび管理できるようにするカスタムリソースを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 C5n インスタンスがアフリカ (ケープタウン) リージョンで利用可能に]]></title>
-        <id>f128363b5b196ff21f15982a89e804b8f0676c35</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/"/>
-        <updated>2021-12-13T06:16:37.000Z</updated>
-        <summary type="html"><![CDATA[本日から AWS アフリカ (ケープタウン) リージョンで Amazon EC2 C5n インスタンスをご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard は Remote Desktop Gateway のガイド付きデプロイを提供開始]]></title>
-        <id>f7fc0fdc9608ccb7119037600f32e1318d62765f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-remote-desktop-gateway/"/>
-        <updated>2021-12-13T06:15:49.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard を使って、Amazon EC2 にあるセルフマネージドの Remote Desktop Gateway (RD Gateway) のベストプラクティスのデプロイをリードすることができるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での RD Gateway のサイジング、設定、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。RD ゲートウェイは、Remote Desktop Protocol (RDP) over HTTPS を採用して、リモートユーザーと Windows が実行されている Amazon EC2 インスタンス間のセキュアな暗号化接続を確立するのに役立ちます。この際、バーチャルプライベートネットワーク (VPN) 接続を設定する必要はありません。これにより、管理者向けのリモート管理ソリューションを提供しつつ、Windows ベースのインスタンスに対する攻撃対象領域を削減することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryostat 2.0の発表: JDK Flight Recorder for Containers]]></title>
-        <id>https://www.infoq.com/jp/news/2021/12/cryostat-jvm-profiler-container/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2021/12/cryostat-jvm-profiler-container/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2021-12-13T01:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat によって開発されたコンテナネイティブの JVM アプリケーションの Cryostat は、Java Flight Recorder (JFR) を使用して Java コンテナの監視およびプロファイリングのためのAPIを提供する。
-Cryostat は、JFR をコンテナ時代にもたらし、中央ハブから直接複数の JVM の分析とプロファイリングを可能にする。
- By Andrea Messetti  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Andrea Messetti</name>
         </author>
     </entry>
 </feed>
