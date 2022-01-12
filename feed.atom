@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T06:14:05.336Z</updated>
+    <updated>2022-01-12T07:11:06.714Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年1月12日　窓ねこ ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0112</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0112"/>
+        <updated>2022-01-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いい出窓を見かけると，「ねこがいるとさらにいいのに・・・」と思ってしまうねこ部です。]]></summary>
+        <author>
+            <name>gihyo.jp：LIFESTYLE STAGE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Data Exchange for API によりサードパーティAPIへの一貫したアクセスの提供]]></title>
         <id>https://www.infoq.com/jp/news/2022/01/aws-data-exchange-for-apis/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
@@ -3015,26 +3025,6 @@ AWS Backup が、 Amazon S3 と VMware のワークロードに集中的なデ�
         <summary type="html"><![CDATA[トップニュースに掲載される記事を公開しているサイトのロゴは構造化データで指定できる。しかし、これは AMP ページの場合で、非 AMP ページの場合は構造化データではロゴを指定できない。]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lex が AWS CloudFormation のサポートを開始]]></title>
-        <id>661ee3b7cfcffa8275f16de3a739f907c849a183</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/"/>
-        <updated>2021-12-13T19:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lex が AWS CloudFormation のサポートを開始したので、CloudFormation スタックテンプレートを使用してボットを作成し、Amazon Lex リソースを整理できるようになりました。Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。 CloudFormation がサポートされるようになったことにより、Lex V2 API のリソース (Bot、BotVersion、BotAlias、ResourcePolicy) を簡単にモデル化して、リソースを迅速かつ一貫性のある方法でプロビジョニングし、ライフサイクルを通じてリソースを管理できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が AWS CloudFormation のサポートを開始]]></title>
-        <id>c14a9f548bfa7c0f214b912a209e07a6e0297403</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/"/>
-        <updated>2021-12-13T18:16:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS CloudFormation テンプレートを使用して、Amazon FSx for NetApp ONTAP ファイルシステムを使うソリューションをすばやくデプロイできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
 </feed>
