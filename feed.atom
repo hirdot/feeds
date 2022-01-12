@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-12T00:40:49.746Z</updated>
+    <updated>2022-01-12T03:13:49.747Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[データのバッチ取り込みを容易にする Apache Spark 向けの Amazon SageMaker Feature Store コネクタ]]></title>
+        <id>1c44744a332b5fae0e8305580db9f4ca06bd5856</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/"/>
+        <updated>2022-01-12T01:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Feature Store が強化され、データのバッチ取り込みを容易にすることのできる Apache Spark 向けの強力なコネクタが追加されました。Amazon SageMaker Feature Store は、機械学習 (ML) モデル機能を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。これまで、SageMaker Feature Store には、PutRecord API、SageMaker Python SDK の FeatureGroup.ingest 機能、SageMaker Processing ジョブなどの方法でデータを取り込むことが可能でした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第699回　「ファイル（Nautilus）」のさまざまな機能 ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0699</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0699"/>
+        <updated>2022-01-12T00:39:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はUbuntuの中でも基本中の基本アプリケーションである「ファイル（Nautilus）」をあらためて紹介します。よく使うからこそ，さまざまな機能を知っておくと使い勝手が向上するでしょう。]]></summary>
+        <author>
+            <name>あわしろいくや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[より多くの場所でウェブストーリーをGoogleが掲載し始める]]></title>
         <id>https://www.suzukikenichi.com/blog/?p=11841</id>
@@ -2950,16 +2970,6 @@ AWS Backup が、 Amazon S3 と VMware のワークロードに集中的なデ�
         <summary type="html"><![CDATA[AWS CloudFormation テンプレートを使用して、Amazon FSx for NetApp ONTAP ファイルシステムを使うソリューションをすばやくデプロイできるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenoがJavaScriptの標準化を行うTC39ワーキンググループに参加を発表]]></title>
-        <id>https://www.publickey1.jp/blog/21/denojavascripttc39.html</id>
-        <link href="https://www.publickey1.jp/blog/21/denojavascripttc39.html"/>
-        <updated>2021-12-13T15:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Node.jsの作者であるライアン・ダール（Ryan Dahl）氏が新たに立ち上げ、サーバサイドでJavaScript/TypeScriptを実行するためのオープンソースのフレームワーク「Deno」と、その分散ホスティングである「Deno ...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

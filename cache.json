@@ -1128,15 +1128,6 @@
           "publishedOn": "2021-12-14T15:37:02.000Z",
           "wordCount": 208,
           "title": "DOMメモリリークのデバッグツール「Detached Element」、Microsoft EdgeのDevToolsに搭載"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/denojavascripttc39.html",
-          "author": null,
-          "description": "Node.jsの作者であるライアン・ダール（Ryan Dahl）氏が新たに立ち上げ、サーバサイドでJavaScript/TypeScriptを実行するためのオープンソースのフレームワーク「Deno」と、その分散ホスティングである「Deno ...",
-          "link": "https://www.publickey1.jp/blog/21/denojavascripttc39.html",
-          "publishedOn": "2021-12-13T15:03:28.000Z",
-          "wordCount": 178,
-          "title": "DenoがJavaScriptの標準化を行うTC39ワーキンググループに参加を発表"
         }
       ]
     },
@@ -1395,6 +1386,15 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0699",
+          "author": "あわしろいくや",
+          "description": "今回はUbuntuの中でも基本中の基本アプリケーションである「ファイル（Nautilus）」をあらためて紹介します。よく使うからこそ，さまざまな機能を知っておくと使い勝手が向上するでしょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0699",
+          "publishedOn": "2022-01-12T00:39:00.000Z",
+          "wordCount": 374,
+          "title": "第699回　「ファイル（Nautilus）」のさまざまな機能 ── Ubuntu Weekly Recipe"
+        },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202201/06",
           "author": "階戸アキラ",
@@ -1729,6 +1729,15 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "1c44744a332b5fae0e8305580db9f4ca06bd5856",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Feature Store が強化され、データのバッチ取り込みを容易にすることのできる Apache Spark 向けの強力なコネクタが追加されました。Amazon SageMaker Feature Store は、機械学習 (ML) モデル機能を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。これまで、SageMaker Feature Store には、PutRecord API、SageMaker Python SDK の FeatureGroup.ingest 機能、SageMaker Processing ジョブなどの方法でデータを取り込むことが可能でした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/",
+          "publishedOn": "2022-01-12T01:31:15.000Z",
+          "wordCount": 310,
+          "title": "データのバッチ取り込みを容易にする Apache Spark 向けの Amazon SageMaker Feature Store コネクタ"
+        },
         {
           "id": "6b57caa0ae7c3d12fb4b624cf85e33795546ab1e",
           "author": "aws@amazon.com",
