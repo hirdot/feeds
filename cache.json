@@ -184,6 +184,15 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/01/hazelcast-5-unified-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Andrea Messetti",
+          "description": "分散コンピューティング、ストレージプラットフォームのHazelcastは、Hazelcast Platformバージョン5.0のリリースを発表した。この新しいプラットフォームは、既存の製品であるHazelcast IMDGとHazelcast Jetを統合するものである。前者はデータを保存、取得、変更するための高速な方法を提供し、後者はデータの高速処理を提供する。\n By Andrea Messetti  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/hazelcast-5-unified-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-13T02:59:00.000Z",
+          "wordCount": 1325,
+          "title": "Hazelcastがバージョン5.0で新しい統合プラットフォームを発表"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/01/aws-data-exchange-for-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Steef-Jan Wiggers",
           "description": "先ごろのラスベガスでの AWS re:Invent の間に同社は AWS Data Exchange for API を発表した。この新機能により、顧客は AWS Data Exchange のプロバイダからサードパーティのAPI 製品 を検索、サブスクライブ、そして使用できる。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
@@ -451,6 +460,15 @@
       "feedUrl": "https://feed.infoq.com/jp/culture-methods/",
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/leading-devops-collaborative/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "author": "Ben Linders",
+          "description": "DevOps変革をリードする時、チームをチャンスに引き込む上で有用なのは透明性と可視性だ。ひとたび参加すれば、開発者は知識のマルチプライヤ(増幅器)として機能し、変革活動に貢献してくれる。頻繁に発生する問題の解決、複雑な問題への対処、変革の進捗状況の提示を組み合わせることで、ステークホルダの関与を維持することが可能になる。\n By Ben Linders  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/01/leading-devops-collaborative/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "publishedOn": "2022-01-13T02:58:00.000Z",
+          "wordCount": 1292,
+          "title": "DevOps変革をリードする - 協調的エンジニアリングアプローチ"
+        },
         {
           "id": "https://www.infoq.com/jp/news/2022/01/azure-load-testing-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
           "author": "Steef-Jan Wiggers",
@@ -2619,33 +2637,6 @@
           "publishedOn": "2021-12-14T20:46:13.000Z",
           "wordCount": 282,
           "title": "Amazon FinSpace が SOC 1、SOC 2、および SOC 3 コンプライアンスの対象に"
-        },
-        {
-          "id": "f3734409079cd861ec766cf9b648922026a021b5",
-          "author": "aws@amazon.com",
-          "description": "AWS App2Container (A2C) は、Linux で実行されている .NET アプリケーションのコンテナ化とデプロイをサポートするようになりました。このリリースでは、お客様は A2C を使用して .NET Core ランタイムバージョン (.NET Core 3.1、.NET 5、.NET 6) を検出し、対応するランタイムベースイメージを使用してアプリケーションをコンテナ化できます。お客様は、Linux コンテナが提供するコストとパフォーマンスから恩恵を受けることができます。お客様は、A2C を使用して、任意のコンテナプラットフォーム、Amazon Elastic Container Service (Amazon ECS)、Amazon Elastic Kubernetes Service (Amazon EKS)、AWS Fargate、および AWS App Runner にこれらのコンテナ化されたアプリケーションを引き続きデプロイできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/",
-          "publishedOn": "2021-12-14T15:05:57.000Z",
-          "wordCount": 296,
-          "title": "AWS App2Container (A2C) が .NET Core/.NET5 アプリケーションのコンテナ化のサポートを開始"
-        },
-        {
-          "id": "a37ed605c0ad067f5cfb3bde5eec01aab0cad35b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Block Store (EBS) Container Storage Interface (CSI) ドライバーが Amazon Elastic Kubernetes Service (Amazon EKS) アドオンでプレビューで利用できるようになりました。これにより、Amazon EKS コンソール、CLI、および API を使用してアドオンのインストールと管理を実行できます。このリリースは、Amazon VPC CNI ネットワークプラグイン、CoreDNS、および kube-proxy の既存のサポートに追加されるものであり、Amazon EKS を使用して一貫性のある Kubernetes クラスターを簡単に定義して最新の状態に保つことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/",
-          "publishedOn": "2021-12-14T15:02:44.000Z",
-          "wordCount": 310,
-          "title": "EBS CSI ドライバーがプレビューの EKS アドオンで利用可能に"
-        },
-        {
-          "id": "798977238c229ca631fe7790f9f41d8c46e976b4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、シングルノードの RA3.xlplus クラスターを実行する機能を開始しました。Amazon Redshift RA3 クラスターは、Amazon Redshift Managed Storage (RMS)、データ共有、AQUA など、多くの重要な機能をサポートしています。シングルノードの RA3.xlplus クラスターでは、最先端の Redshift の機能を低コストで利用することができます。シングルノードの DS2.xlarge またはシングルノードの DC2.large クラスターを、クロスインスタンスの Classic Resize (従来のサイズ変更) 機能の一部として、シングルノードの RA3.xlplus クラスターに移行することができます。また、Amazon Redshift コンソール、CLI または API のリザーブドインスタンス (RI) 移行機能の一部として、クロスインスタンス Classic Resize を使用して、RI 契約の開始日または終了日を変更することなく、シングルノードの DS2.xlarge RI クラスターを RA3.xlplus RI クラスターに移行することができ、追加料金も発生しません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/",
-          "publishedOn": "2021-12-14T15:01:56.000Z",
-          "wordCount": 313,
-          "title": "Amazon Redshift がシングルノードの RA3.xlplus クラスターを開始"
         }
       ]
     },
