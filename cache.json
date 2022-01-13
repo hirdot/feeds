@@ -943,15 +943,6 @@
           "publishedOn": "2021-12-14T21:46:58.000Z",
           "wordCount": 543,
           "title": "宇宙旅行だけじゃない スペースXの巨大ロケットに 科学者が期待する理由"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=263197",
-          "author": "Casey Crownhart",
-          "description": "米国のインフラ法案により資金提供を受けた4基の新しい実証プラントは、「忘れられた再生可能エネルギー」と揶揄されている地熱による発電の普及を後押しする可能性がある。",
-          "link": "https://www.technologyreview.jp/s/263197/what-it-will-take-to-unleash-the-potential-of-geothermal-power/",
-          "publishedOn": "2021-12-14T21:04:24.000Z",
-          "wordCount": 541,
-          "title": "忘れられた再エネ「地熱」、米インフラ投資で汚名返上なるか？"
         }
       ]
     },
@@ -1244,6 +1235,15 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_13/114757",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/rails_cache_and_read_models_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: The Difference Between a Cache and a Read Models, an example &#124; Arkency Blog 原文公開日: 2021/11/24 原著者: Tomasz Wróbel サイト: arkency&#46;com Rails: キャッシュとRead Modelの違いを例で理解する（翻訳） 以下のような、そこそこ複雑なビューがあるとします。カレンダー的なテーブルがあって、横軸は貸部屋、縦軸は利用可能な期間を表しています。 もちろん、このビューでは以下のような機能が欲しくなります。 利用可能かど [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_13/114757\" data-wpel-link=\"internal\" target=\"_self\">Rails: キャッシュとRead Modelの違いを例で理解する（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_01_13/114757",
+          "publishedOn": "2022-01-13T08:30:09.000Z",
+          "wordCount": 392,
+          "title": "Rails: キャッシュとRead Modelの違いを例で理解する（翻訳）"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_12/114818",
           "author": null,
@@ -1846,6 +1846,33 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "22ef954b90b40ade98f42013e097f0c77d5264cd",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスです。本日、Kendra によるクエリ言語のサポートを発表しました。これにより、お客様は必要に応じてより高度な検索用語と手法を駆使して、より正確な回答を取得できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-kendra-query-language/",
+          "publishedOn": "2022-01-13T08:51:59.000Z",
+          "wordCount": 283,
+          "title": "Amazon Kendra がクエリ言語のサポートを開始"
+        },
+        {
+          "id": "52325f36eec9c450ce6833d6e9a1c1370bc3a906",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync はマネージド GraphQL サービスです。このサービスを使用すると、1 つ以上のデータソースからのデータに安全にアクセス、操作、結合するための柔軟な API を作成でき、アプリケーション開発がシンプルになります。本日、AppSync は、AppSync の組み込みサーバー側キャッシュからの特定のエントリの削除をサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/",
+          "publishedOn": "2022-01-13T08:42:59.000Z",
+          "wordCount": 267,
+          "title": "AWS AppSync が、サーバー側のデータキャッシングのキャッシュエントリ削除のサポートを開始"
+        },
+        {
+          "id": "59d8da34c278f7abbe767a01600ccaf7386dd2a2",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は、Amazon Elastic Compute Cloud (EC2) で Microsoft Windows Server インスタンスを最大 65% 高速に起動する機能を発表しました。お客様は、Microsoft Windows Server を実行している Amazon マシンイメージ (AMI) にフラグを立てて、起動を高速化できます。フラグが立てられると、AMI から起動されるすべてのインスタンスが自動的により速く起動します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/",
+          "publishedOn": "2022-01-13T08:35:59.000Z",
+          "wordCount": 322,
+          "title": "AWS が、Amazon EC2 上の Microsoft Windows Server インスタンス向けの新しい起動速度の最適化を発表"
+        },
         {
           "id": "8b417cba919a632c9784735616506886b6da3962",
           "author": "aws@amazon.com",
@@ -2637,15 +2664,6 @@
           "publishedOn": "2021-12-15T22:15:58.000Z",
           "wordCount": 348,
           "title": "Amazon EC2 M6i インスタンスをご利用いただけるリージョンが 2 つ増えました"
-        },
-        {
-          "id": "1b100b118ee7f466c6858cc6be3c27de4a4cd399",
-          "author": "aws@amazon.com",
-          "description": "System and Organization Control (SOC) コンプライアンスの対象となるアプリケーションで Amazon FinSpace を使用できるようになりました。AWS SOC Reports レポート は、重要なコンプライアンス管理および目標を AWS がどのように達成したかを実証する、独立したサードパーティーによる審査報告書です。AWS SOC レポートはAWS Artifact でダウンロードできます。詳細については、AWS コンプライアンスプログラムを参照するか、コンプライアンスプログラムによる AWS 対象範囲内のサービスのウェブページにアクセスして、各コンプライアンスプログラムが対象とするサービス一覧をご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-finspace-soc-compliant/",
-          "publishedOn": "2021-12-14T20:46:13.000Z",
-          "wordCount": 282,
-          "title": "Amazon FinSpace が SOC 1、SOC 2、および SOC 3 コンプライアンスの対象に"
         }
       ]
     },
@@ -2704,15 +2722,6 @@
           "publishedOn": "2021-12-15T23:10:00.000Z",
           "wordCount": 151,
           "title": "Rails 6.0.4.4, and 6.1.4.4 have been released"
-        },
-        {
-          "id": "https://rubyonrails.org/2021/12/14/Rails-6-0-4-2-6-1-4-2-and-7-0-0-rc2-have-been-released",
-          "author": null,
-          "description": "Hi everyone!!! Rails versions 6.0.4.2, 6.1.4.2, and 7.0.0.rc2 have been released!",
-          "link": "https://rubyonrails.org/2021/12/14/Rails-6-0-4-2-6-1-4-2-and-7-0-0-rc2-have-been-released",
-          "publishedOn": "2021-12-14T20:33:56.000Z",
-          "wordCount": 180,
-          "title": "Rails 6.0.4.2, 6.1.4.2, and 7.0.0.rc2 have been released"
         }
       ]
     },
