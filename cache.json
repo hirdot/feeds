@@ -326,42 +326,6 @@
           "publishedOn": "2021-12-21T02:35:00.000Z",
           "wordCount": 1749,
           "title": "アーティクル: サーバレスシステムのデザインパターン"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/log4j-zero-day-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Olimpiu Pop",
-          "description": "12月9日、著名な Java ロギングライブラリである log4j でゼロデイエクスプロイトが発見されたことが Twitter で公開された。含まれるのは 2.0 から 2.14.1 までのすべてのライブラリのバージョンで影響を受ける。Log4j 2.15.0 がリリースされ、この脆弱性はなくなった。GitHub で公開された POC が指摘したように、log4j が攻撃者によって制御された文字列値をログに記録すると、RCE が発生する。\n By Olimpiu Pop  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/12/log4j-zero-day-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-17T02:10:00.000Z",
-          "wordCount": 1562,
-          "title": "RCEエクスプロイトが許可される複数のLog4jバージョンの脆弱性の影響"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/java-news-roundup-dec06-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週2021年12月6日の Java 総まとめでは、OpenJDK JEP、JDK 18 がランプダウンフェーズ1に移行、JDK 19 エキスパートグループの結成、Log4J のリモートコード実行の脆弱性の発見、MicroProfile 5.0、およびさまざまな Spring、Hibernate と Quarkus のポイントリリースのニュースを特集する。\n By Michael Redlich  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/12/java-news-roundup-dec06-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-17T02:08:00.000Z",
-          "wordCount": 1694,
-          "title": "Javaニュース総まとめ: JDK 18 のランプダウン、JDK 19エキスパートグループ、Log4j2の脆弱性、MicroProfile 5.0"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/aws-amplify-studio-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近のre:Inventで、AWSはAmplify Studioが発表した。これは、Figmaに接続された新しいローコードサービスで、開発者がクラウドに接続されたアプリをすばやく構築できるようにすることを目的としている。この新しいツールは、既存のAWS Amplifyサービスの拡張である。ウェブアプリとモバイルアプリの構築に重点を置いているが、Amplifyの使いやすいドラッグアンドドロップインターフェイスはない。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/12/aws-amplify-studio-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-17T01:57:00.000Z",
-          "wordCount": 1239,
-          "title": "AWSがre:InventでAmplify Studioを使った新しいローコード開発ツールのプレビュー版をリリース"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/outsystems-project-neo-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "OutSystemsは先頃、同社が毎年開催するNextStepイベントの中で、Project Neoという、新たなクラウドネイティブアプリケーションプラットフォームを発表した。OutSystemsが、企業レベルのローコード開発用プラットフォームであるOutSystems 11に続く、第2のプラットフォームをローンチしたのは、同社の歴史の中で初めてのことだ。\n By Steef-Jan Wiggers  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2021/12/outsystems-project-neo-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-17T01:55:00.000Z",
-          "wordCount": 1227,
-          "title": "OutStreams、クラウドベースの開発プラットフォーム”Project Neo”のプレビュー版を発表"
         }
       ]
     },
@@ -950,15 +914,6 @@
           "publishedOn": "2021-12-19T23:00:04.000Z",
           "wordCount": 345,
           "title": "【タイムくん – 第116話： おうちクリスマス】"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=33223",
-          "author": "BunkiMIyata",
-          "description": "みなさんは、「ダークデータ」とは何かご存じでしょうか。 簡単にいうと、分析者の目から隠れたデータを指し、データ分析において無視されている存在です。 ビッグデータの約80％を占めるという話もあり、データ活用時必ず「隠れる」 […]",
-          "link": "https://data.wingarc.com/hidden-dark-data-33223?utm_source=rss&utm_medium=rss&utm_campaign=hidden-dark-data",
-          "publishedOn": "2021-12-16T23:00:58.000Z",
-          "wordCount": 386,
-          "title": "【書評】私たちが「無視」しているデータにもっと注目を！『ダークデータ　隠れたデータこそが最強の武器になる』"
         }
       ]
     },
@@ -1360,24 +1315,6 @@
           "publishedOn": "2021-12-20T08:30:28.000Z",
           "wordCount": 269,
           "title": "火鉢のススメ"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/sugimura/2021_12_17/114077",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/img-banner_211202-key-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは。デザインチームのスギムラです。 在宅勤務で家から全然出ないので衣替えのタイミングが一生分からん…て言ってたら一年が過ぎました。 TechRachoの夏企画やアドベントカレンダー企画で毎回バナーが違うのは、お気づきでしょうか！？ 多分そこまで見ている方はいないのでお気づきでない方が大多数だと思います。 こちらのバナーはスギムラが作っているのですが、せっかくなので今まで作ったバナーの紹介をしていきたいと思います。 TechRachoの夏企画やアドベントカレンダー企画とは TechRachoでは「社内で普段記事を書く習慣や機会がない人に、書くきっかけを作る」という主旨で、年に2回記事の執筆者を広く募集する企 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/sugimura/2021_12_17/114077\" data-wpel-link=\"internal\" target=\"_self\">TechRachoの企画バナーのデザインとコンセプトをひっそりと紹介します</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/sugimura/2021_12_17/114077",
-          "publishedOn": "2021-12-17T08:30:48.000Z",
-          "wordCount": 276,
-          "title": "TechRachoの企画バナーのデザインとコンセプトをひっそりと紹介します"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/morimorihoge/2021_12_17/114550",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/ginza_rails39_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>morimorihogeです。RubyWorld Conference、良かった。松江に行きたくなりました。 またも間が空いてしまいましたが、銀座Rails#39の開催レポートになります。 銀座Railsについて 銀座Railsは3年以上継続して毎月開催されているRuby/Rails勉強会・発表コミュニティです。 技術的な内容にこだわらず、コミュニティ活動やRails開発者が興味を持つような開発一般の周辺トピックを扱っています。 過去の開催についてはConnpassのサイトをご覧ください。 Connpass: 銀座Rails 銀座Rails開催レポート バックナンバー 銀座Rails #38 開催レポート 銀座R [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2021_12_17/114550\" data-wpel-link=\"internal\" target=\"_self\">銀座Rails #39 開催レポート</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/morimorihoge/2021_12_17/114550",
-          "publishedOn": "2021-12-17T05:10:46.000Z",
-          "wordCount": 375,
-          "title": "銀座Rails #39 開催レポート"
         }
       ]
     },
@@ -1502,15 +1439,6 @@
           "publishedOn": "2021-12-20T04:39:00.000Z",
           "wordCount": 361,
           "title": "2021年12月20日　Debian 11.2がリリース，Log4jの脆弱性にも対応 ── Linux Daily Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202112/17",
-          "author": "吉田史",
-          "description": "非常に興味深い発表がCanonicalから行われました。Xilinxの特定のチップが搭載されたEVBとKria SoMについて，「最適化された」Ubuntuを提供するというものです。また，log4jの脆弱性⁠”Log4Shell⁠”へのUbuntuでの対応がまとめられています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202112/17",
-          "publishedOn": "2021-12-17T00:53:00.000Z",
-          "wordCount": 447,
-          "title": "2021年12月17日号　Xilinx Zynq UltraScale+ EVB用Ubuntuイメージ，“Log4Shell”への対応 ── Ubuntu Weekly Topics"
         }
       ]
     },
@@ -1590,15 +1518,6 @@
           "publishedOn": "2021-12-21T00:15:00.000Z",
           "wordCount": 358,
           "title": "第2回　Reactの何がエンジニアを夢中にさせるのか ── ちょっと気になる隣の技術畑"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007002",
-          "author": "礒部浩行",
-          "description": "今回のハッカーはWebサービスを開発している礒部浩行さんで，テーマは「Raisin入門」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007002",
-          "publishedOn": "2021-12-17T00:15:00.000Z",
-          "wordCount": 557,
-          "title": "第70回　Raisin入門 ―Rest APIマイクロフレームワークを使ってみよう！（2） ── Perl Hackers Hub"
         }
       ]
     },
@@ -2511,24 +2430,6 @@
           "publishedOn": "2021-12-20T04:06:00.000Z",
           "wordCount": 997,
           "title": "Takenaka Corporation Accelerates Digitization of Construction Industry with AWS"
-        },
-        {
-          "id": "7fbaa7587d521e51a65efc0bad4f73b8fd1b3dee",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon EC2 C6i インスタンスが、これらの追加の AWS リージョンで利用可能になります。米国西部 (北カリフォルニア)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ)。C6i インスタンスは、オールコアターボを搭載した第 3 世代インテル Xeon スケーラブルプロセッサ (コード名は Ice Lake) を搭載しています。3.5 GHz の周波数、さまざまなワークロードで C5 インスタンスよりも最大 15% 優れたコンピューティング料金パフォーマンスを提供し、インテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。C6i インスタンスは、計算負荷の高いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。これらのインスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーション向けに設計されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/",
-          "publishedOn": "2021-12-17T00:48:30.000Z",
-          "wordCount": 370,
-          "title": "Amazon EC2 C6i インスタンスが新たに 10 つの追加リージョンで利用可能に"
-        },
-        {
-          "id": "793b2843721c9a6e88844f2aa668da5b503b36f5",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon EC2 R6i インスタンス は、米国西部 (北カリフォルニア)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、欧州 (ロンドン)、欧州 (パリ) でご利用いただけるようになりました。R6i インスタンスは、メモリ使用が多いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。R6i インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名は Ice Lake) を搭載し、R5 インスタンスと比較して最大 15% 優れたコンピューティングのコストパフォーマンスと、インテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。これらのインスタンスは SAP 認定済みであり、SQL および noSQL データベース、Memcached や Redis などの分散ウェブスケールインメモリキャッシュ、SAP HANA などのインメモリデータベース、Hadoop や Spark クラスターなどのリアルタイムビッグデータ分析などのワークロードに最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-r6i-instances-8-regions/",
-          "publishedOn": "2021-12-17T00:48:24.000Z",
-          "wordCount": 378,
-          "title": "Amazon EC2 R6i インスタンスが新たに 8 つの追加リージョンで利用可能に"
         }
       ]
     },
@@ -2594,15 +2495,6 @@
           "publishedOn": "2021-12-21T10:11:55.000Z",
           "wordCount": 228,
           "title": "Railsアプリケーションでフロントエンドのパフォーマンス改善:初歩編"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20211221",
-          "author": null,
-          "description": "【重要】Rails/OSS パッチ会で運用していた Idobata ルームは閉鎖されました。本記事で言及している Discord へ引越しをお願いします。 2021年12月の Rails / OSS パッチ会を 12月21日(火)に Discord でのオンライン開催をします。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断や…",
-          "link": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20211221",
-          "publishedOn": "2021-12-17T06:21:08.000Z",
-          "wordCount": 296,
-          "title": "Rails / OSS パッチ会オンライン 2021年12月のお知らせ"
         }
       ]
     }
