@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-14T22:11:05.563Z</updated>
+    <updated>2022-01-15T00:39:53.031Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -2787,6 +2787,26 @@
         <summary type="html"><![CDATA[非常に興味深い発表がCanonicalから行われました。Xilinxの特定のチップが搭載されたEVBとKria SoMについて，「最適化された」Ubuntuを提供するというものです。また，log4jの脆弱性⁠”Log4Shell⁠”へのUbuntuでの対応がまとめられています。]]></summary>
         <author>
             <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 C6i インスタンスが新たに 10 つの追加リージョンで利用可能に]]></title>
+        <id>7fbaa7587d521e51a65efc0bad4f73b8fd1b3dee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/"/>
+        <updated>2021-12-17T00:48:30.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon EC2 C6i インスタンスが、これらの追加の AWS リージョンで利用可能になります。米国西部 (北カリフォルニア)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ)。C6i インスタンスは、オールコアターボを搭載した第 3 世代インテル Xeon スケーラブルプロセッサ (コード名は Ice Lake) を搭載しています。3.5 GHz の周波数、さまざまなワークロードで C5 インスタンスよりも最大 15% 優れたコンピューティング料金パフォーマンスを提供し、インテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。C6i インスタンスは、計算負荷の高いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。これらのインスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーション向けに設計されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 R6i インスタンスが新たに 8 つの追加リージョンで利用可能に]]></title>
+        <id>793b2843721c9a6e88844f2aa668da5b503b36f5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-ec2-r6i-instances-8-regions/"/>
+        <updated>2021-12-17T00:48:24.000Z</updated>
+        <summary type="html"><![CDATA[本日より、Amazon EC2 R6i インスタンス は、米国西部 (北カリフォルニア)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、欧州 (ロンドン)、欧州 (パリ) でご利用いただけるようになりました。R6i インスタンスは、メモリ使用が多いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。R6i インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名は Ice Lake) を搭載し、R5 インスタンスと比較して最大 15% 優れたコンピューティングのコストパフォーマンスと、インテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。これらのインスタンスは SAP 認定済みであり、SQL および noSQL データベース、Memcached や Redis などの分散ウェブスケールインメモリキャッシュ、SAP HANA などのインメモリデータベース、Hadoop や Spark クラスターなどのリアルタイムビッグデータ分析などのワークロードに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
