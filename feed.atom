@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-18T10:12:33.160Z</updated>
+    <updated>2022-01-18T22:16:36.210Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MySQL HeatWaveの性能をトヨタ自動車ら3社が他社DBと実際に比較検証。ファンコミュニケーションズは「とにかく速くなった」と評価。Oracle Cloud Days 2021［PR］]]></title>
+        <id>https://www.publickey1.jp/blog/22/mysql_heatwave3dboracle_cloud_days_2021pr.html</id>
+        <link href="https://www.publickey1.jp/blog/22/mysql_heatwave3dboracle_cloud_days_2021pr.html"/>
+        <updated>2022-01-19T13:29:36.000Z</updated>
+        <summary type="html"><![CDATA[MySQLの開発元であるオラクルが、Oracle Cloud Infrastructureの上でMySQLのマネージドサービス「MySQL Database Service」と、その追加機能として高速な大規模データ分析機能を提供する「Hea...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITエンジニアが投票した「ITエンジニア本大賞2022」ベスト10発表。「シェル・ワンライナー160本ノック」「モノリスからマイクロサービスへ」「恐れのない組織」など]]></title>
+        <id>https://www.publickey1.jp/blog/22/itit202210.html</id>
+        <link href="https://www.publickey1.jp/blog/22/itit202210.html"/>
+        <updated>2022-01-19T01:33:35.000Z</updated>
+        <summary type="html"><![CDATA[ITエンジニアが投票によって技術書やビジネス書を選ぶ「ITエンジニア本大賞 2022」の結果が発表されました。 「ITエンジニア本大賞」は、仕事の役に立った本、初学者におすすめの本、ずっと手元に置いておきたい本など、おすすめの本をITエン...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RubyがWebAssemblyのWASI対応へ前進。ブラウザでもサーバでもエッジでもどこでもWebAssembly版Rubyが動くように]]></title>
+        <id>https://www.publickey1.jp/blog/22/rubywebassemblywasiwebassemblyruby.html</id>
+        <link href="https://www.publickey1.jp/blog/22/rubywebassemblywasiwebassemblyruby.html"/>
+        <updated>2022-01-18T15:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Ruby言語のリファレンス実装、すなわち事実上の標準となっているRubyインタプリタはC言語で実装されています。そのため、このRubyインタプリタもしくはそのソースコードは一般に「CRuby」（もしくは、まつもとゆきひろ氏による実装という意...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊Railsウォッチ: Ruby 2.5〜3.1ベンチマーク、Opal 1.4、JRubyが20歳に、2022年のCSSほか（2022018後編）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_18/114915</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_18/114915"/>
+        <updated>2022-01-18T10:16:22.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/railswatch_20220118_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_18/114915" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Ruby 2.5〜3.1ベンチマーク、Opal 1.4、JRubyが20歳に、2022年のCSSほか（2022018後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不透明な米チャイナ・イニシアチブ、司法省がサイト書き換えも]]></title>
         <id>https://www.technologyreview.jp/?p=263003</id>
@@ -98,6 +139,86 @@
         <summary type="html"><![CDATA[今回はsysbench 1.0を使ってMySQLの負荷テストする方法を紹介したいと思います。]]></summary>
         <author>
             <name>北川健太郎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connector/Node.js 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/connector/nodejs/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/connector/nodejs/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Connector/Node.js 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connector/Python 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/connector/python/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/connector/python/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Connector/Python 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Community Server 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/mysql/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/mysql/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Community Server 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connector/J 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/connector/j/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/connector/j/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Connector/J 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Router 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/router/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/router/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Router 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Workbench 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/workbench/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/workbench/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Workbench 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Installer 8.0]]></title>
+        <id>https://dev.mysql.com/downloads/windows/installer/8.0.html</id>
+        <link href="https://dev.mysql.com/downloads/windows/installer/8.0.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Installer 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Installer 5.7]]></title>
+        <id>https://dev.mysql.com/downloads/windows/installer/5.7.html</id>
+        <link href="https://dev.mysql.com/downloads/windows/installer/5.7.html"/>
+        <updated>2022-01-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Installer 5.7 (5.7.37 GA, published on Tuesday, 18 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
         </author>
     </entry>
     <entry>
@@ -2979,47 +3100,6 @@
         <summary type="html"><![CDATA[マイクロソフトは、Windows TerminalがWindows 11におけるターミナルのデフォルトになる予定であることを明らかにしました。 Windows 11のデフォルトターミナルを選択可能に 現時点ではWindowsのコマンドプロン...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火鉢のススメ]]></title>
-        <id>https://techracho.bpsinc.jp/okada-ken/2021_12_20/114488</id>
-        <link href="https://techracho.bpsinc.jp/okada-ken/2021_12_20/114488"/>
-        <updated>2021-12-20T08:30:28.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/charcoal_brazier_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに こんにちは。okada.kenです。寒くなってきたので、火鉢を紹介します。火鉢はいいぞ。 火鉢は奈良時代から存在する暖房器具で、昭和30～40年代までは一般的に使われていたそうです。灰の上で炭を燃焼させて暖を取ったり調理器具として使ったりします。南部鉄器の鉄瓶でお湯を沸かすと、鉄分がカルキを除去するせいか円やかな味になりお茶やコーヒーが美味しくなります。 また餅などを焼いたり、鍋を置いて暖かい状態で食べることも可能です。焼き肉なども可能ですが油がしたたり落ちると灰が飛んで汚れてしまうので、私はやりません。 火鉢に必要な道具 火鉢を始めるためにまず必要なのは、火鉢本体と灰です。私が使っているのは関西長火鉢 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/okada-ken/2021_12_20/114488" data-wpel-link="internal" target="_self">火鉢のススメ</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年12月20日　Debian 11.2がリリース，Log4jの脆弱性にも対応 ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202112/20</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202112/20"/>
-        <updated>2021-12-20T04:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Debianプロジェクトは12月18日，「Debian 11 "Bulleseye"」の2回めのポイントリリースとなる「Debian 11.2」をリリースした。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Takenaka Corporation Accelerates Digitization of Construction Industry with AWS]]></title>
-        <id>0dfcd2b7ccd6fbf26a276d352b936fc76a90ca83</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2021/12/takenaka-corporation-accelerates-digitization-of-construction-industry-with-aws-en/"/>
-        <updated>2021-12-20T04:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Japanese company founded in 1610 powers its construction technology platform with AWS to drive sustainable urban development]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【タイムくん – 第116話： おうちクリスマス】]]></title>
-        <id>https://data.wingarc.com/?p=37488</id>
-        <link href="https://data.wingarc.com/taimu-kun-116-37488?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taimu-kun-116"/>
-        <updated>2021-12-19T23:00:04.000Z</updated>
-        <summary type="html"><![CDATA[ここがポイント：サンタと人生の4つのステージ みなさん、おはようございます。 街に流れるクリスマスソングとかデコレーションとか毎年同じなのに、クリスマスの時期って何歳になってもなんだかソワソワしちゃうのってなんなんですか […]]]></summary>
-        <author>
-            <name>TotsukaKeisuke</name>
         </author>
     </entry>
 </feed>
