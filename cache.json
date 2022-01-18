@@ -175,6 +175,42 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/01/rds-custom-sql-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "Amazonは、Amazon RDS Custom for SQL Serverの一般向け提供を発表した。新しいサービスはレガシーでカスタムのパッケージ化されたアプリケーションをサポートする。そのようなアプリケーションは、特定の構成とサードパーティツールに依存し、これまでフルマネージドデータベースに移行できなかった。\n By Renato Losio  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/rds-custom-sql-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-18T01:12:00.000Z",
+          "wordCount": 1297,
+          "title": "Amazon RDS Custom for SQL Serverが一般向け提供へ"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/java-news-roundup-dec13-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週2021年12月13日の Java 総まとめでは、JDK 19、Log4Shell 脆弱性の更新、製品に関連した Log4Shell のベンダーの声明、さまざまな Spring 関連プロジェクトと Hibernate のポイントリリース、WildFly 26、Payara Platform、Quarkus 2.5.3.Final、Apache Camel 3.14.0、Piranha 21.11.0、および Apache Tika 2.2.0 からのニュースを特集している。\n By Michael Redlich  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2022/01/java-news-roundup-dec13-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-18T01:05:00.000Z",
+          "wordCount": 1749,
+          "title": "Javaニュース総まとめ: Log4Shellの更新、Spring Framework 6.0-M1、WildFly 26"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/microservice-analysis-crisp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vasco Veloso",
+          "description": "マイクロサービスベースのシステムでエンドツーエンドの遅延を減らすために最適化する必要のあるサービスを見つけることは課題である。コールグラフが複雑すぎて読み取れない場合があるためだ。Uberはこの問題を解決するために開発されたCRISPと呼ばれるオープンソースツールについて説明した。このツールでは、コールグラフでクリティカルパスを見つける。クリティカルパスによって、最適化することでシステム全体に利益がある操作を特定できる。\n By Vasco Veloso  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/microservice-analysis-crisp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-18T01:00:00.000Z",
+          "wordCount": 608,
+          "title": "JaegerとUberのCRISPを使ったマイクロサービスコールのクリティカルパス分析"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/aws-outage-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "12月7日、AWS は、最も人気のあるリージョンのバージニア北部で多くのサービスに影響を与える1時間の停止を経験した。同クラウドプロバイダは、AWS の冗長性とマルチリージョンアプローチについて、コミュニティのスレッドを開始してインシデントの分析を公開した。\n By Renato Losio  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2022/01/aws-outage-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-18T00:58:00.000Z",
+          "wordCount": 1308,
+          "title": "AWS US-EAST-1の停止: ポストモーテムと学んだ教訓"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/01/aws-new-amazon-inspector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Steef-Jan Wiggers",
           "description": "Amazon Inspectorは、自動化された脆弱性管理サービスである。ソフトウェアの脆弱性と意図しないネットワークの露出に対してAWSの処理を継続的にスキャンする。これは2015年に初めてリリースされた。そして、最近のre:Invent 2021で、AWSはまったく新しいアーキテクチャと多くの新機能を持って再リリースした。新機能は、コンテナベースの処理、Amazon Event Bridgeとの統合、AWS Security Hubなどである。\n By Steef-Jan Wiggers  Translated by 編集部T _",
@@ -861,6 +897,24 @@
       "feedUrl": "https://data.wingarc.com/feed",
       "siteUrl": "https://data.wingarc.com",
       "articles": [
+        {
+          "id": "https://data.wingarc.com/?p=37831",
+          "author": "tadokoroyusuke",
+          "description": "ICT・IoT・AIの浸透が人々の生活をあらゆる面でより良い方向に変化させるデジタルトランスフォーメーション（DX）が急加速し、データ主導社会へと突入し始めています。 企業の多くはデジタルトランスフォーメーションの取り組 […]",
+          "link": "https://data.wingarc.com/meti_dx_report2-37831?utm_source=rss&utm_medium=rss&utm_campaign=meti_dx_report2",
+          "publishedOn": "2022-01-18T01:00:46.000Z",
+          "wordCount": 488,
+          "title": "経済産業省が羅針盤として発表したDXレポート2を読み解く 日本のDXの実情と方向性について"
+        },
+        {
+          "id": "https://data.wingarc.com/?p=37819",
+          "author": "tadokoroyusuke",
+          "description": "デジタルトランスフォーメーション（DX）の分類 デジタルトランスフォーメーション（DX）とは、データやデジタル技術を活用して企業のビジネスモデル、業務、プロセス、組織などを改めることです。 DXの場合、従来の慣習や常識に […]",
+          "link": "https://data.wingarc.com/semenodx_mamorinodx-37819?utm_source=rss&utm_medium=rss&utm_campaign=semenodx_mamorinodx",
+          "publishedOn": "2022-01-18T01:00:14.000Z",
+          "wordCount": 512,
+          "title": "攻めのDXと守りのDX 両者の違い、ハードル、実践の流れを解説"
+        },
         {
           "id": "https://data.wingarc.com/?p=37784",
           "author": "TotsukaKeisuke",
