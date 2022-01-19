@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T05:09:27.822Z</updated>
+    <updated>2022-01-19T06:12:51.578Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[MySQLの開発元であるオラクルが、Oracle Cloud Infrastructureの上でMySQLのマネージドサービス「MySQL Database Service」と、その追加機能として高速な大規模データ分析機能を提供する「Hea...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise Edgeは、断続的なクラウド接続のための新しいデータストレージとアップロードの優先順位付け戦略をサポートします]]></title>
+        <id>4108f2fac09cb7bd9cd69b56b944bf14d0a1ffc4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/"/>
+        <updated>2022-01-19T05:09:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise Edgeを使用すると、エッジデータストレージ戦略を定義して、切断中（最大30日）の運用データの損失を防ぎ、再接続時にクラウドへのデータアップロード戦略を選択できます。クラウドにアップロードされたアプリケーションデータは多くの場合タイムクリティカルであり、特定の年齢を超える値は短期間のアクションに関連しない場合があります。逆に、古い履歴データは、長期的な傾向を診断し、タイムクリティカルでないアプリケーションの機器の運用パフォーマンスを深く掘り下げる上で重要になる可能性があります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
@@ -64,6 +74,16 @@
         <summary type="html"><![CDATA[駆け出しからベテランまで，サーバ管理の世界ではネコも杓子もAWSが話題です。しかし，「AWSが便利そうなのはわかるけど，一体何が魅力なんだろう」とその正体を掴みかねている方もいらっしゃるでしょう。]]></summary>
         <author>
             <name>技術評論社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Cluster 7.6]]></title>
+        <id>https://dev.mysql.com/downloads/cluster/7.6.html</id>
+        <link href="https://dev.mysql.com/downloads/cluster/7.6.html"/>
+        <updated>2022-01-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Cluster 7.6 (7.6.21 GA, published on Wednesday, 19 Jan 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
         </author>
     </entry>
     <entry>
