@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-19T08:12:20.995Z</updated>
+    <updated>2022-01-19T09:11:08.996Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -14,6 +14,17 @@
         <summary type="html"><![CDATA[MySQLの開発元であるオラクルが、Oracle Cloud Infrastructureの上でMySQLのマネージドサービス「MySQL Database Service」と、その追加機能として高速な大規模データ分析機能を提供する「Hea...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: サーバーのIPアドレスを環境変数で設定するにはHOSTではなくBINDINGを使う]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936"/>
+        <updated>2022-01-19T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_env_variable_binding_host-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Rails 7でrails newするときにアセットをビルドするオプションを渡すと、以下が作成されます。 bin/dev このbinstubから以下のProcfile.devをforeman経由で呼び出す Procfile.dev このProcfile.devは、rails newで指定するオプションによって変わりますが、たとえば以下のようになります。 web: bin/rails server -p 3000 css: bin/rails tailwindcss:watch このセッティングでbin/devを実行すると、サーバーがlistenするIPアドレスは127.0.0.1になります。 しかし、bin/de [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936" data-wpel-link="internal" target="_self">Rails: サーバーのIPアドレスを環境変数で設定するにはHOSTではなくBINDINGを使う</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
