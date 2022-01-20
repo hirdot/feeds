@@ -166,6 +166,24 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/01/dual-stack-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Rags Srinivas",
+          "description": "InfoQ は Kubernetes デュアルスタックの設計と実装に関して、設計者である Microsoft の Khaled (Kal) Henidak 氏と Google のTim Hockin 氏に話を聞いた。\n By Rags Srinivas  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2022/01/dual-stack-kubernetes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-19T22:58:00.000Z",
+          "wordCount": 1052,
+          "title": "Kubernetes IPv4/IPv6 デュアルスタックの Q&A、Microsoft の Khaled (Kal) Henidak 氏と Google の Tim Hockin 氏"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/aws-mainframe-modernization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "re:Invent 2021で、AWSはメインフレーム移行サービスを開始した。これにより、顧客はオンプレミスのメインフレームワークロードを、モダンなAWS上のマネージドで高可用性ランタイム環境に移行できる。AWS Mainframe Modernizationと呼ばれるサービスは現在プレビュー中である。\n By Steef-Jan Wiggers  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/aws-mainframe-modernization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-19T22:54:00.000Z",
+          "wordCount": 1233,
+          "title": "AWSが顧客向けにメインフレームを移行するためのメインフレームモダン化サービスを提供"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/01/rds-custom-sql-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Renato Losio",
           "description": "Amazonは、Amazon RDS Custom for SQL Serverの一般向け提供を発表した。新しいサービスはレガシーでカスタムのパッケージ化されたアプリケーションをサポートする。そのようなアプリケーションは、特定の構成とサードパーティツールに依存し、これまでフルマネージドデータベースに移行できなかった。\n By Renato Losio  Translated by 編集部T _",
@@ -1653,6 +1671,15 @@
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
         {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202201/20",
+          "author": "傍島康雄",
+          "description": "2022年1月第4週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202201/20",
+          "publishedOn": "2022-01-20T00:15:00.000Z",
+          "wordCount": 409,
+          "title": "2022年1月第4週　今年はPixel 6 Proだけで行くと決めた理由 ── Android Weekly Topics"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202201/13",
           "author": "傍島康雄",
           "description": "2022年最初のAndroid関連のニュースをお届けします。",
@@ -2865,15 +2892,6 @@
           "publishedOn": "2021-12-24T03:00:00.000Z",
           "wordCount": 547,
           "title": "CI fail は突然に ～cimg が compose v2 を使うようになって～"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/2021/12/21/191155",
-          "author": null,
-          "description": "この記事は ESM Advent Calendar 2021 - Adventar の21日目の記事です。 こんにちは、swamp09です。 とあるRailsアプリケーション開発プロジェクトで、フロントエンドのパフォーマンスを計測するのに Lighthouse を使いました。パフォーマンスの項目を見てみると「レンダリングを妨げるリソースの除外」が指摘されており中身をみるとapplication.jsで多くの無駄が発生しているようです。Railsアプリケーションでは application.js が肥大化してしまうケースがたまに見られますね。 Eliminate render-blocking …",
-          "link": "https://blog.agile.esm.co.jp/entry/2021/12/21/191155",
-          "publishedOn": "2021-12-21T10:11:55.000Z",
-          "wordCount": 228,
-          "title": "Railsアプリケーションでフロントエンドのパフォーマンス改善:初歩編"
         }
       ]
     }
