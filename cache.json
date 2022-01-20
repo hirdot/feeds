@@ -862,15 +862,6 @@
           "publishedOn": "2021-12-22T07:47:33.000Z",
           "wordCount": 676,
           "title": "「千人計画」参加ハーバード大教授の裁判、今後の科学界への影響は？"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=263748",
-          "author": "Patrick Howell O'Neill",
-          "description": "メタ（旧フェイスブック）の内部調査により、同社プラットフォーム上での民間企業による大量監視の実態が明らかとなった。同社は監視対象となっていたジャーナリストや人権擁護者、活動家など5万人に対し、注意を喚起している。",
-          "link": "https://www.technologyreview.jp/s/263748/facebook-says-50000-users-were-targeted-by-cyber-mercenary-firms-in-2021/",
-          "publishedOn": "2021-12-21T21:54:56.000Z",
-          "wordCount": 672,
-          "title": "メタが明らかにした民間監視会社の実態、5万人が狙われていた"
         }
       ]
     },
@@ -1828,6 +1819,69 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "368a2c20639b7b1f5b54061fdbe12811ba5bd6c3",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager では、アウトバウンドのウェブフックを使用して、サードパーティーのツールやアプリケーションへの通知の送信やアクションを実行できるようになりました。アウトバウンドのウェブフックでは、Slack などを使用する多くのツールを簡単に統合することができます。Automation ランブックのステップとしてアウトバウンドウェブフックを呼び出し、組織内の既存のコラボレーション、モニタリング、インシデント対応ツールと容易に統合できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/",
+          "publishedOn": "2022-01-20T09:35:57.000Z",
+          "wordCount": 271,
+          "title": "AWS Systems Manager Automation の使用で、ウェブフックを通じてサードパーティーアプリケーションでのアクションが可能に"
+        },
+        {
+          "id": "95deecc6e979120d5e71a1ecda698f4b142ed369",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB は、SQL 互換のクエリ言語 PartiQL をサポートし、DynamoDB のテーブルデータをクエリ、挿入、更新、および削除することができます。DynamoDB PartiQL API は、オプションのパラメータである ReturnConsumedCapacity をサポートし、消費された読み取りと書き込みの合計容量と、オペレーションに含まれるテーブルとインデックスの統計を返し、クエリとスループットコストの最適化を支援します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/",
+          "publishedOn": "2022-01-20T09:35:08.000Z",
+          "wordCount": 282,
+          "title": "PartiQL API コールが消費するスループット容量を DynamoDB が返し、クエリとスループットコストの最適化を支援"
+        },
+        {
+          "id": "fda68342f70a5f47e81eaeaceb62cde035820394",
+          "author": "aws@amazon.com",
+          "description": "CloudWatch Application Insights により、AWS で稼働する Microsoft Active Directory と Microsoft SharePoint のモニタリング、アラーム、ダッシュボードを簡単かつ自動的に設定できるようになりました。CloudWatch Application Insights は、お客様が AWS リソースで実行されているエンタープライズアプリケーションのモニタリングとトラブルシューティングを実行できるようにするサービスです。新機能では、Active Directory と SharePoint のワークロードを自動的に検出し、その基盤となる EC2 リソースを決定し、そのヘルスとウェルネスをモニタリングするためのメトリクス、テレメトリ―、ログを設定します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/",
+          "publishedOn": "2022-01-20T09:34:07.000Z",
+          "wordCount": 338,
+          "title": "Amazon CloudWatch Application Insights が Microsoft Active Directory と SharePoint のモニタリングサービスを追加"
+        },
+        {
+          "id": "b9a15ff58374f9a6bd90bbdaa81d740367877e76",
+          "author": "aws@amazon.com",
+          "description": "本日より、シャーロット、デトロイト、ロサンゼルス、ミネアポリスにある Verizon の 5G Ultra Wideband ネットワークで、4 つの新しい AWS Wavelength Zone がご利用可能になりました。Wavelength Zone は、以前発表したアトランタ、ボストン、シカゴ、ダラス、デンバー、ヒューストン、ラスベガス、マイアミ、ニューヨーク市、フェニックス、サンフランシスコ、シアトル、ワシントン DC を含む 17 の主要都市でご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-wavelength-zones/",
+          "publishedOn": "2022-01-20T09:33:19.000Z",
+          "wordCount": 330,
+          "title": "シャーロット、デトロイト、ロサンゼルス、ミネアポリスで新しい AWS Wavelength Zone を発表"
+        },
+        {
+          "id": "f19259725f73ac94056a2cb677052810d7d481ea",
+          "author": "aws@amazon.com",
+          "description": "AWS Outposts は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) で FedRAMP Moderate 認可を、GovCloud (米国西部) および GovCloud (米国東部) で FedRAMP High 認可を得ました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/",
+          "publishedOn": "2022-01-20T09:32:32.000Z",
+          "wordCount": 302,
+          "title": "AWS Outposts が FedRAMP 認可を取得"
+        },
+        {
+          "id": "4211d8bee77bdba86b4bbc6cdc8d96aa79037dec",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager Automation では、AWS Chatbot を使用して、Slack からランブックを実行し、AWS 環境で安全にオペレーションタスクの実施、問題解決、アクションの実行が可能となりました。Automation ランブックを検索して、必要なインプットを提供し、Slack チャンネルから直接ランブックを実行できるようになりました。また、Slack 内で、ランブック実行の進行状況とステータスを追跡することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/",
+          "publishedOn": "2022-01-20T09:31:45.000Z",
+          "wordCount": 285,
+          "title": "Slack から AWS Systems Manager Automation のランブックを実行して、オペレーションの問題をより迅速に修正"
+        },
+        {
+          "id": "a1670a4699096acc4d58e3e817d871221a5a9c5a",
+          "author": "aws@amazon.com",
+          "description": "AWS Elastic Disaster Recovery (AWS DRS) は、vCenter サーバーへの自動でスケーラブルなフェイルバックをサポートするようになりました。新しい DRS Mass Failback Automation クライアント (DRSFA クライアント) は、大規模なフェイルバックのためのさらなる柔軟性と速度を与えます。これにより、複数の vCenter サーバーを同時にプライマリ vCenter 環境にフェイルバックできます。DRSFA クライアントを使用すると、すべての Recovery インスタンスや Recovery インスタンスのサブセットをフェイルバックできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-elastic-disaster-recovery-failback-automation/",
+          "publishedOn": "2022-01-20T09:30:56.000Z",
+          "wordCount": 319,
+          "title": "AWS Elastic Disaster Recovery がフェイルバックオートメーションのサポートを開始"
+        },
         {
           "id": "ed888701ac56ec4ab607d67fc9075753fe073508",
           "author": "aws@amazon.com",
