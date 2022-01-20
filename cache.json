@@ -344,42 +344,6 @@
           "publishedOn": "2021-12-23T04:03:00.000Z",
           "wordCount": 1246,
           "title": "AWSはre:Invent 2021でConstruct HubとAWSクラウド開発キットの新バージョンを発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/s3-glacier-instant-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "直近のre:Inventで、AmazonはS3 Glacier Instant Retrievalストレージクラスを発表した。これは、めったにアクセスされないが、ミリ秒単位での取得が要求されるデータ用の新しいストレージクラスだ。新たなバケット所有者強制オプションを使うと、顧客はバケットとオブジェクトに関連付けられたACLを無効にできる。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2021/12/s3-glacier-instant-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-22T05:55:00.000Z",
-          "wordCount": 1257,
-          "title": "Amazon S3が長期間利用されるデータに対する新しいストレージクラスを追加し、アクセス管理をシンプルに"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/azure-vm-ndm-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "先ごろ、Microsoft は、Azure の最新のバーチャルマシン (VM) シリーズ NDm A100 v4 シリーズの一般提供 (GA) を発表した。これは、NVIDIA A100 Tensor Core 80 GB GPU を搭載している。このハイパフォーマンスコンピューティング (HPC) VM は、さまざまな実際の HPC ワークロードに高性能、スケーラビリティ、およびコスト効率を提供するよう設計されている。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/12/azure-vm-ndm-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-22T05:50:00.000Z",
-          "wordCount": 1358,
-          "title": "MicrosoftはNDm A100 v4シリーズのバーチャルマシンの一般提供を発表"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/step-functions-sdk-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steffen Opel",
-          "description": "Amazon Web Services (AWS) は先ごろ AWS Step Functions が AWS SDK 統合を通じて 200 を超える AWS サービスのサポートを発表した。これにより、サポートされる API アクションの数が 46 から 9,000 を超えて拡張される。新しい統合タイプは、既存および将来のほとんどのサービスと API アクションがサポートされる。\n By Steffen Opel  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/12/step-functions-sdk-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-22T05:34:00.000Z",
-          "wordCount": 1450,
-          "title": "AWS Step Functionsが200を超える追加サービスと統合"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/aws-drs-cloud-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "先ごろ、AWS は AWS Elastic Disaster Recovery (AWS DRS) の一般提供 (GA) を発表した。この新しいサービスにより、組織はオンプレミスおよびクラウドベースアプリケーションの高速で信頼性の高いリカバリを通して、ダウンタイムとデータ損失を最小限に抑えることができる。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2021/12/aws-drs-cloud-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2021-12-22T05:29:00.000Z",
-          "wordCount": 1317,
-          "title": "AWSがElastic Disaster Recoveryの一般提供を発表"
         }
       ]
     },
@@ -423,15 +387,6 @@
           "publishedOn": "2022-01-12T05:36:00.000Z",
           "wordCount": 1249,
           "title": "リモートファーストSREとして非同期で働くには"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2021/12/great-paradox-future-workplace/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Olimpiu Pop",
-          "description": "パンデミックはオフィスを自宅へと移動させた。医療システムがそれを根絶して元の生活を取り戻そうとしている一方で、我々もニューノーマルがどのようなものになるかを理解する必要がある。可能になればすぐオフィスに戻るという一部のリーダや、メインアプローチとして完全リモートアプローチを採用する人たちもいるが、ハイブリッドアプローチが多くの人たちにとってのニューノーマルになるだろう。\n By Olimpiu Pop  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2021/12/great-paradox-future-workplace/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2021-12-22T05:32:00.000Z",
-          "wordCount": 1218,
-          "title": "ハイブリッドワークアプローチの”大きなパラドックス”は今後10年の課題となるか？"
         }
       ]
     },
@@ -440,6 +395,24 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=266975",
+          "author": "Chris Stokel-Walker",
+          "description": "海底火山の噴火によって大きな被害が出ているトンガで、インターネット接続が途絶えている。破損した海底ケーブルの復旧に数種間かかると見られており、インターネット接続の脆弱さが改めて浮き彫りになった。",
+          "link": "https://www.technologyreview.jp/s/266975/tongas-volcano-blast-cut-it-off-from-the-world-heres-what-it-will-take-to-get-it-reconnected/",
+          "publishedOn": "2022-01-20T21:45:33.000Z",
+          "wordCount": 711,
+          "title": "トンガ噴火で浮き彫りになったネットの脆弱さ、復旧に数週間か"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=263609",
+          "author": "Olga Dobrovidova",
+          "description": "旧ソ連の過剰なダム建設により、ロシアで最も重要な河川は機能不全に陥った。河川の汚染が進み、気候変動を加速させ、期待したほどの成果は得られていない。どうすればこの河川を元に戻せるのだろうか。",
+          "link": "https://www.technologyreview.jp/s/263609/the-soviets-turned-the-volga-river-into-a-machine-then-the-machine-broke/",
+          "publishedOn": "2022-01-20T21:28:52.000Z",
+          "wordCount": 561,
+          "title": "「母なる川」を破壊した ソ連の過剰なダム開発"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=266958",
           "author": "Antonio Regalado",
@@ -853,15 +826,6 @@
           "publishedOn": "2021-12-22T21:23:17.000Z",
           "wordCount": 572,
           "title": "GPT-3で号砲、大規模化に明け暮れた2021年のAIシーン"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=263485",
-          "author": "Antonio Regalado",
-          "description": "ハーバード大学の著名なナノテクノロジーの専門家が、中国との関係を隠した罪で裁判を受け、有罪判決が出た。中国の「千人計画」などの知財窃取に対抗する米国の取り組み「チャイナ・イニシアチブ」の一環であり、今後の影響が注目される。",
-          "link": "https://www.technologyreview.jp/s/263485/the-trial-of-charles-lieber-is-also-a-test-of-the-china-initiative/",
-          "publishedOn": "2021-12-22T07:47:33.000Z",
-          "wordCount": 676,
-          "title": "「千人計画」参加ハーバード大教授の裁判、今後の科学界への影響は？"
         }
       ]
     },
@@ -995,15 +959,6 @@
           "publishedOn": "2021-12-23T23:00:50.000Z",
           "wordCount": 576,
           "title": "子どもたちのインターネット利用状況って？ 家庭内のルールは？ 気になる子どもとインターネットの実態にデータで迫る！"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37608",
-          "author": "データのじかん編集部",
-          "description": "2021年12月16日、経済産業省は、「デジタル時代の人材政策に関する検討会」における第2回 実践的な学びの場ワーキンググループを実施した。 「実践的な学びの場ワーキンググループ」とは、日本おけるDXを推進する担い手不足 […]",
-          "link": "https://data.wingarc.com/meti_digital_jinzai_wg-37608?utm_source=rss&utm_medium=rss&utm_campaign=meti_digital_jinzai_wg",
-          "publishedOn": "2021-12-22T01:20:14.000Z",
-          "wordCount": 403,
-          "title": "経済産業省、今年度末（令和3年度末）までに DX人材育成を目指す学べる プラットフォームを立ち上げ"
         }
       ]
     },
@@ -1012,6 +967,15 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/susered_hat_enterprise_linuxcent_ossuse_liberty_linux.html",
+          "author": null,
+          "description": "SUSEは、SUSE Linux Enterprise Server（以下SLES）およびRed Hat Enterprise Linux（以下RHEL）、CnetOSに対応するサポートプログラム「SUSE Liberty Linux」の提...",
+          "link": "https://www.publickey1.jp/blog/22/susered_hat_enterprise_linuxcent_ossuse_liberty_linux.html",
+          "publishedOn": "2022-01-20T15:13:00.000Z",
+          "wordCount": 187,
+          "title": "SUSEがRed Hat Enterprise LinuxとCentOSにもテクニカルサポートやパッチを提供。「SUSE Liberty Linux」プログラムを発表"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/docker_desktopdocker_hubsaml_20_azure_active_directory.html",
           "author": null,
@@ -1450,24 +1414,6 @@
           "publishedOn": "2021-12-23T08:30:27.000Z",
           "wordCount": 516,
           "title": "Ruby: 文字列マッチは正規表現より先に専用メソッドを使おう"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2021_12_22/114531",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/railswatch_20211222_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。今年最後の週刊Railsウォッチ後編をお送りします。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いし [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2021_12_22/114531\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Ruby 3.1で多重代入の評価順が変更、Stimulusコンポーネントとベストプラクティスほか（20211222後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2021_12_22/114531",
-          "publishedOn": "2021-12-22T09:04:49.000Z",
-          "wordCount": 1056,
-          "title": "週刊Railsウォッチ: Ruby 3.1で多重代入の評価順が変更、Stimulusコンポーネントとベストプラクティスほか（20211222後編）"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/yosuke2/2021_12_22/114650",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/flutter_adjust_underlines_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>はじめに yosuke2です。 最近Flutterに触れていますが、触れ始めて月日が浅いためまだまだ知らないことがたくさんあります。 そんな中タイトル通りテキスト下線の位置を調節したいということがありました。 調べてもそこまで情報が無かったのでここに書いておこうと思います。 本題 まず、2021/12/06時点でFlutterのテキスト下線の位置を調節する正規の方法はありません。 そのためこの記事では疑似的にテキスト下線の位置を調節する方法を記載します。 text&#45;underline&#45;offset &#45; CSS: カスケーディングスタイルシート &#124; MDN 一応ウェブブラウザではこ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/yosuke2/2021_12_22/114650\" data-wpel-link=\"internal\" target=\"_self\">Flutterのテキスト下線位置を調節する方法</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/yosuke2/2021_12_22/114650",
-          "publishedOn": "2021-12-22T08:30:20.000Z",
-          "wordCount": 371,
-          "title": "Flutterのテキスト下線位置を調節する方法"
         }
       ]
     },
@@ -1583,15 +1529,6 @@
           "publishedOn": "2021-12-24T00:58:00.000Z",
           "wordCount": 471,
           "title": "2021年12月24日号　jammyの開発，SmartNICとUbuntu ── Ubuntu Weekly Topics"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0697",
-          "author": "柴田充也",
-          "description": "先日，AMD Ryzen 5 5800Xを購入しました。今年最後の連載では，年末年始にPCを新調する読者に向けて， Windowsをインストールする前の動作確認も兼ねたUbuntuでシステム情報を収集したり，動作確認を行う方法を学んでみます。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0697",
-          "publishedOn": "2021-12-22T00:55:00.000Z",
-          "wordCount": 473,
-          "title": "第697回　AMD Ryzen 5 5800Xで学ぶ，Ubuntuにおけるシステムの動作確認 ── Ubuntu Weekly Recipe"
         }
       ]
     },
@@ -1768,15 +1705,6 @@
           "publishedOn": "2021-12-23T00:15:20.000Z",
           "wordCount": 610,
           "title": "2021年12月第4週　開発意欲をくすぐるスマートウォッチ「Bangle.js 2」（後編） ── Android Weekly Topics"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202112/1222",
-          "author": null,
-          "description": "ねこのしっぽはデリケートなので，持って遊んだりしないでください。あと，しっぽだけをしつこくなでなでしていると，ブチ切れられるので要注意。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202112/1222",
-          "publishedOn": "2021-12-22T06:00:00.000Z",
-          "wordCount": 348,
-          "title": "2021年12月22日　くるりんしっぽ ── 帰ってきた『技評ねこ部通信』"
         }
       ]
     },
@@ -1796,17 +1724,7 @@
       "title": "朝日 勝雅｜電子書籍でNo.1を目指す企業のエンジニア組織統括に聞く、キャリアとマネジメント | 国内唯一のCTO/VPoE育成・転職支援サービス「OCTOPASS（オクトパス）」",
       "feedUrl": "https://octopass.jp/feed/",
       "siteUrl": "https://octopass.jp",
-      "articles": [
-        {
-          "id": "https://octopass.jp/?p=4317",
-          "author": "OCTOPASS",
-          "description": "株式会社イーブックイニシアティブジャパン 当社は、ヤフー株式会社と協力して電子書籍販売サービス「ebookjapan」事業と、紙書籍のオンライン販売「bookfan」事業を運営しています。今年で創業21年目を迎える当社は […]",
-          "link": "https://octopass.jp/4317/",
-          "publishedOn": "2021-12-22T01:48:00.000Z",
-          "wordCount": 262,
-          "title": "電子書籍でNo.1を目指す企業のエンジニア組織統括に聞く、キャリアとマネジメント"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Rubyist Magazine",
@@ -1819,6 +1737,60 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "001464eb6e47b42e0227aa3dc6cdcf7324449a13",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Trusted Advisor で、AWS Security Hub の Foundation Security Best Practices から自動的に取り込まれる 111 個のチェックが追加されました。Security Hub チェックの全一覧は、ここをクリックしてください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/",
+          "publishedOn": "2022-01-20T20:20:02.000Z",
+          "wordCount": 315,
+          "title": "AWS Trusted Advisor が AWS Security Hub と統合"
+        },
+        {
+          "id": "dc11c7373a28d4ab64ec9f747e6bfcfa61be1169",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Location Service にマトリックスルーティングが追加されました。これにより、顧客が複数の出発地から目的地までの運転時間と運転距離をすばやく簡単に計算できるようになります。マトリックスルーティングを使用すると、デベロッパーは 1 回の API リクエストで複数のルート計算におけるレイテンシを低減し、コードを簡素化し、顧客のエクスペリエンスを向上させることができます。例えば、配達ルートの計画を立てるアプリケーションでは、Amazon Location のマトリックスルーティング機能を使用して、所定時間のすべての配達の運転時間と距離をリクエストできるようになります。最大 350 箇所の配送元と 350 箇所の目的地の対の合計 122,500 の運転時間と距離を、単一のリクエストで取得できます。これにより、リクエストの回数とレイテンシーを減らすことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-matrix-routing/",
+          "publishedOn": "2022-01-20T20:19:15.000Z",
+          "wordCount": 301,
+          "title": "Amazon Location Service のマトリックスルーティングを発表"
+        },
+        {
+          "id": "20e5c33bd6e25241471615dd3ff37524d72771bb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Location Service では、アセットベースのアプリケーションを含むすべてのお客様のユースケースに対して、リクエストベースの価格設定を提供できるようになりました。例えば、配達のアプリケーションを構築するデベロッパーが配達先の住所に関連付けられた位置（緯度/経度）を特定する必要がある場合、検索された住所ごとに支払いが可能になります。Amazon Location なら、前払い料金も、必要な最低利用料金も、長期契約も必要ありません。デベロッパーは、アセットベースのアプリケーションに位置認識を追加するのがさらに簡単になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/",
+          "publishedOn": "2022-01-20T20:18:28.000Z",
+          "wordCount": 293,
+          "title": "Amazon Location Service では、すべてのお客様のユースケースに対してリクエストベースの価格設定を可能にします"
+        },
+        {
+          "id": "5497651030161d36d854453902ab80fba61803ad",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for NetApp ONTAP で Amazon CloudWatch のメトリクスを利用可能になりました。これにより、ご使用のファイルシステムとボリュームのパフォーマンスとストレージ使用量のメトリクスをモニタリングし、アラームを設定できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/",
+          "publishedOn": "2022-01-20T20:17:41.000Z",
+          "wordCount": 301,
+          "title": "Amazon FSx for NetApp ONTAP が Amazon CloudWatch でパフォーマンスと容量のメトリクスの提供を開始"
+        },
+        {
+          "id": "8ef090986feb003571b0ef48ee701eb84da45a70",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard が SAP S/4HANA 2021、SAP BW/4HANA 2021、SAP HANA SPS06、および SUSE Linux Enterprise Server (SLES) 15 SP3 のサポートを開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/",
+          "publishedOn": "2022-01-20T20:16:52.000Z",
+          "wordCount": 325,
+          "title": "AWS Launch Wizard が SUSE Linux Enterprise Server と SAP HANA、S/4HANA、および BW/4HANA の最新バージョンをサポート"
+        },
+        {
+          "id": "81d098dcb42a40ccffb7603fd1c329b7df3fd838",
+          "author": "aws@amazon.com",
+          "description": "AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) のリージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/",
+          "publishedOn": "2022-01-20T20:16:03.000Z",
+          "wordCount": 308,
+          "title": "AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) で利用可能になりました。"
+        },
         {
           "id": "368a2c20639b7b1f5b54061fdbe12811ba5bd6c3",
           "author": "aws@amazon.com",
