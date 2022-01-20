@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-20T08:12:45.832Z</updated>
+    <updated>2022-01-20T09:12:08.037Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR Studio が米国西部 (北カリフォルニア) で利用可能に]]></title>
+        <id>ed888701ac56ec4ab607d67fc9075753fe073508</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/"/>
+        <updated>2022-01-20T08:39:47.000Z</updated>
+        <summary type="html"><![CDATA[EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio の提供が米国西部 (北カリフォルニア) リージョンで開始されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.8.26 のサポートを開始]]></title>
+        <id>9d5e3b35eed12ad6a45b8afea102ef3692eab992</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/"/>
+        <updated>2022-01-20T08:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ が、RabbitMQ バージョン 3.8.26 をサポートするようになりました。この RabbitMQ パッチアップデートには、これまでサポートされていたバージョン RabbitMQ 3.8.23 からのいくつかの修正と新機能が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Interactive Video Service がサムネイル設定を追加]]></title>
+        <id>a7de6c922b06f7e431a2085b12f113f1937d83f9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/"/>
+        <updated>2022-01-20T08:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) を使用して、ライブストリームで生成するサムネイルの頻度を設定できるようになりました。 デフォルトでは、Amazon IVS は、標準のライブチャンネルで 60 秒ごとにサムネイル画像を生成します。この機能を使用すると、より頻繁にサムネイルを生成できます。60 秒ごとに最大 12 の画像 (5 秒ごとに 1 つの画像) を生成することに加えて、サムネイル生成を無効にすることもできます。頻繁に画像を生成することにより、ユーザーは、プレビュー画像にサムネイルを使用するアプリやウェブサイトを参照するときにライブストリームで発生していることに関する最新のビューを取得することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto 1 月の四半期更新情報]]></title>
+        <id>0fb1b615de4f7936ec8c04071be2678b3c870b3b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-corretto-january-updates/"/>
+        <updated>2022-01-20T08:36:03.000Z</updated>
+        <summary type="html"><![CDATA[1 月 18 日、Amazon は Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 11.0.14 および 8.322 のダウンロードが可能となりました。Amazon Corretto 17 のアップデートは、OpenJDK 17 のリポジトリにリリースがタグ付けされ次第まもなく提供されます。Amazon Corretto は、マルチプラットフォームで、本番稼働に対応した、無料の OpenJDK ディストリビューションです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Storage Gateway マネジメントコンソールがゲートウェイの作成と管理を簡素化]]></title>
+        <id>01854283ffb3f7583a891247ec2b0cc82ed84690</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/"/>
+        <updated>2022-01-20T08:34:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS Storage Gateway でハイブリッドクラウドストレージワークフローのセットアップと管理をすばやく簡単に開始できるようになりました。Storage Gateway のマネジメントコンソールを使用して、4 つの簡単なステップで新しいゲートウェイをすばやく作成できます。最初のステップでは、ローカルゲートウェイのセットアップを完了します。第 2 のステップでゲートウェイを AWS に接続します。第 3 のステップでゲートウェイをアクティブ化します。第 4 のステップでは、ゲートウェイ設定を最終化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: ActiveRecord::Relationにstructurally_compatible?が追加（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_20/114947</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_20/114947"/>
+        <updated>2022-01-20T08:30:29.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_ar_relation_structurally_compatible_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds ActiveRecord::Relation&#35;structurally&#95;compatible? &#124; Saeloun Blog 原文公開日: 2021/09/07 原著者: Keshav Biswa サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston 参考: 週刊Railsウォッチ20210830『ActiveRecord::Relation#structurally_com [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_20/114947" data-wpel-link="internal" target="_self">Rails 7: ActiveRecord::Relationにstructurally_compatible?が追加（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2022年は帳票DX元年?】帳票とは？ 種類や役割、電子帳票の導入メリットや実際の事例についても紹介]]></title>
         <id>https://data.wingarc.com/?p=37944</id>

@@ -1281,6 +1281,15 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_20/114947",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_ar_relation_structurally_compatible_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds ActiveRecord::Relation&#35;structurally&#95;compatible? &#124; Saeloun Blog 原文公開日: 2021/09/07 原著者: Keshav Biswa サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston 参考: 週刊Railsウォッチ20210830『ActiveRecord::Relation#structurally_com [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_20/114947\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: ActiveRecord::Relationにstructurally_compatible?が追加（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_01_20/114947",
+          "publishedOn": "2022-01-20T08:30:29.000Z",
+          "wordCount": 391,
+          "title": "Rails 7: ActiveRecord::Relationにstructurally_compatible?が追加（翻訳）"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_env_variable_binding_host-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Rails 7でrails newするときにアセットをビルドするオプションを渡すと、以下が作成されます。 bin/dev このbinstubから以下のProcfile.devをforeman経由で呼び出す Procfile.dev このProcfile.devは、rails newで指定するオプションによって変わりますが、たとえば以下のようになります。 web: bin/rails server -p 3000 css: bin/rails tailwindcss:watch このセッティングでbin/devを実行すると、サーバーがlistenするIPアドレスは127.0.0.1になります。 しかし、bin/de [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936\" data-wpel-link=\"internal\" target=\"_self\">Rails: サーバーのIPアドレスを環境変数で設定するにはHOSTではなくBINDINGを使う</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -1819,6 +1828,51 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "ed888701ac56ec4ab607d67fc9075753fe073508",
+          "author": "aws@amazon.com",
+          "description": "EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio の提供が米国西部 (北カリフォルニア) リージョンで開始されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/",
+          "publishedOn": "2022-01-20T08:39:47.000Z",
+          "wordCount": 286,
+          "title": "Amazon EMR Studio が米国西部 (北カリフォルニア) で利用可能に"
+        },
+        {
+          "id": "9d5e3b35eed12ad6a45b8afea102ef3692eab992",
+          "author": "aws@amazon.com",
+          "description": "Amazon MQ が、RabbitMQ バージョン 3.8.26 をサポートするようになりました。この RabbitMQ パッチアップデートには、これまでサポートされていたバージョン RabbitMQ 3.8.23 からのいくつかの修正と新機能が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/",
+          "publishedOn": "2022-01-20T08:38:53.000Z",
+          "wordCount": 296,
+          "title": "Amazon MQ が RabbitMQ バージョン 3.8.26 のサポートを開始"
+        },
+        {
+          "id": "a7de6c922b06f7e431a2085b12f113f1937d83f9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Interactive Video Service (Amazon IVS) を使用して、ライブストリームで生成するサムネイルの頻度を設定できるようになりました。 デフォルトでは、Amazon IVS は、標準のライブチャンネルで 60 秒ごとにサムネイル画像を生成します。この機能を使用すると、より頻繁にサムネイルを生成できます。60 秒ごとに最大 12 の画像 (5 秒ごとに 1 つの画像) を生成することに加えて、サムネイル生成を無効にすることもできます。頻繁に画像を生成することにより、ユーザーは、プレビュー画像にサムネイルを使用するアプリやウェブサイトを参照するときにライブストリームで発生していることに関する最新のビューを取得することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/",
+          "publishedOn": "2022-01-20T08:38:06.000Z",
+          "wordCount": 298,
+          "title": "Amazon Interactive Video Service がサムネイル設定を追加"
+        },
+        {
+          "id": "0fb1b615de4f7936ec8c04071be2678b3c870b3b",
+          "author": "aws@amazon.com",
+          "description": "1 月 18 日、Amazon は Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 11.0.14 および 8.322 のダウンロードが可能となりました。Amazon Corretto 17 のアップデートは、OpenJDK 17 のリポジトリにリリースがタグ付けされ次第まもなく提供されます。Amazon Corretto は、マルチプラットフォームで、本番稼働に対応した、無料の OpenJDK ディストリビューションです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-corretto-january-updates/",
+          "publishedOn": "2022-01-20T08:36:03.000Z",
+          "wordCount": 277,
+          "title": "Amazon Corretto 1 月の四半期更新情報"
+        },
+        {
+          "id": "01854283ffb3f7583a891247ec2b0cc82ed84690",
+          "author": "aws@amazon.com",
+          "description": "AWS Storage Gateway でハイブリッドクラウドストレージワークフローのセットアップと管理をすばやく簡単に開始できるようになりました。Storage Gateway のマネジメントコンソールを使用して、4 つの簡単なステップで新しいゲートウェイをすばやく作成できます。最初のステップでは、ローカルゲートウェイのセットアップを完了します。第 2 のステップでゲートウェイを AWS に接続します。第 3 のステップでゲートウェイをアクティブ化します。第 4 のステップでは、ゲートウェイ設定を最終化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/",
+          "publishedOn": "2022-01-20T08:34:14.000Z",
+          "wordCount": 274,
+          "title": "AWS Storage Gateway マネジメントコンソールがゲートウェイの作成と管理を簡素化"
+        },
         {
           "id": "37a0e5c6e2ef7e114dc74d01190355adb74d9c2f",
           "author": "aws@amazon.com",
