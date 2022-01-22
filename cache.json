@@ -2717,51 +2717,6 @@
           "publishedOn": "2021-12-23T22:47:36.000Z",
           "wordCount": 300,
           "title": "Amazon RDS for Oracle が Oracle Connection Manager (CMAN) をサポート"
-        },
-        {
-          "id": "6750712269c3b05271022128bd13ee8d7d45357c",
-          "author": "aws@amazon.com",
-          "description": "AWS DataSyncは、Amazon FSx for Lustreとの間でのデータのコピーをサポートするようになりました。これは、コンピューティングワークロードにコスト効率の高い高性能でスケーラブルなストレージを提供するフルマネージドサービスです。DataSyncを使用すると、あるFSx for Lustreファイルシステムから別のFSx for Lustreファイルシステムへのデータの移動、オンプレミスデータのFSx for Lustreファイルシステムへの移行、FSx for Lustreファイルシステム間でのデータのコピーなどのデータ移動タスクをすばやく安全に実行できます。 およびAmazon S3、Amazon Elastic File System（EFS）、Amazon FSx for Windows File Server などの他のAWSストレージサービス。DataSyncを使用して、オンプレミスストレージとAWS間の継続的なデータ転送を処理することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/",
-          "publishedOn": "2021-12-23T12:34:16.000Z",
-          "wordCount": 281,
-          "title": "AWS DataSyncは、Amazon FSx for Lustreとの間でデータをコピーできるようになりました"
-        },
-        {
-          "id": "f798e34b941075b9c33af1dca5c63dfd303ba5a2",
-          "author": "aws@amazon.com",
-          "description": "AWS Trusted Advisorは、Amazon EC2でのSQL Serverの最適化を簡素化するのに役立つ新しいレコメンデーションをサポートするようになりました。チェックはSQL Serverワークロードを検査し、最適化が必要なSQL Serverインスタンスを自動的に一覧表示します。次に、推奨されるアクションを実行して、コストを削減し、セキュリティを向上させることができます。以下の3つのチェックの詳細を確認できます。\n \n1.Microsoft SQL Server End of Supportを使用するAmazon EC2インスタンス-Amazon EC2インスタンスのSQL Serverバージョンをチェックし、バージョンがサポートの終わりに近づいているか、または終わりに達しているかどうかを警告します。たとえば、SQL Server 2012拡張サポートは2022年7月12日に終了します。チェックのレコメンデーションを通じて、AWSでの柔軟な移行およびアップグレードオプションを見つけることができます。\n 2.Microsoft SQL Server用にオーバープロビジョニングされたAmazon EC2インスタンス-SQL Serverを実行しているAmazon EC2インスタンスをチェックし、インスタンスがSQL ServerソフトウェアのvCPU制限を超えた場合に警告します。　たとえば、SQL Server スタンダードエディションのインスタンスは、最大48個のvCPUを使用できます。SQL Server Webを使用するインスタンスは、最大32個のvCPUを使用できます。\n 3.Microsoft SQL ServerのAmazon EC2インスタンスの統合 -Amazon EC2インスタンスをチェックし、インスタンスのSQL Serverライセンスの最小数より少ない場合はアラートを出します。小さなSQL Serverインスタンスを統合して、コストを削減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-trusted-advisor-optimization-microsoft-sql-ec2/",
-          "publishedOn": "2021-12-23T12:33:29.000Z",
-          "wordCount": 312,
-          "title": "AWS Trusted Advisorは、Amazon EC2上のMicrosoft SQL Serverに3つの最適化チェックを追加します"
-        },
-        {
-          "id": "9b84db39f4a27f55834fa553b8bd2a8557522f82",
-          "author": "aws@amazon.com",
-          "description": "Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日から、一般的に理解されている俗悪な用語をマスクして、翻訳に表示されないようにすることができます。　デフォルトでは、Amazon Translateは翻訳出力にクリーンな単語を選択します。翻訳された出力に冒とく的な単語が表示される場合、文字列「？$＃@ $」で冒とく的な単語やフレーズをマスクすることを選択できるようになりました。この5文字のシーケンスは、文字の長さや数に関係なく、冒とく的な単語やフレーズごとに使用されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/",
-          "publishedOn": "2021-12-23T12:32:41.000Z",
-          "wordCount": 246,
-          "title": "Amazon Translateが冒とく的なマスキングを発表します"
-        },
-        {
-          "id": "a8f2c9d9bfce5b48e6f46f6d1107e14cb6cd9289",
-          "author": "aws@amazon.com",
-          "description": "AWS Well-Architected は、最も影響力のあるリスクを特定し、それらを軽減するためのアクションを実行するためのベストプラクティスのレコメンデーションの統合されたホームとして、4つの新しいAWS Trusted Advisorチェック をサポートするようになりました。新しいチェックは次のとおりです：\n \n1.コスト最適化のためのAWS Well-Architected のリスクの高い問題\n 2.パフォーマンス効率に関するAWS Well-Architectedののリスクの高い問題\n 3.セキュリティに関するAWS Well-Architected のリスクの高い問題\n 4.信頼性に関するAWS Well-Architectedのリスクの高い問題",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/",
-          "publishedOn": "2021-12-23T12:31:54.000Z",
-          "wordCount": 284,
-          "title": "AWS Well-Architected Toolは、4つの新しいTrusted Advisorチェックを追加します"
-        },
-        {
-          "id": "b62c0cd6f32bcc8ceb2308697b4b773e97025330",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。メディアキャプチャパイプラインを使用すると、デベロッパーはAmazon Chime SDKミーティングのコンテンツを選択した Amazon Simple Storage Service（Amazon S3）バケットにキャプチャできます。デベロッパーは、AWS Key Management Service（SSE-KMS）を使用したサーバー側暗号化を使用して、顧客管理キーでサーバー側暗号化を使用するAmazon S3バケットでメディアキャプチャパイプラインを使用できるようになり、暗号化要件をサポートできるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/",
-          "publishedOn": "2021-12-23T12:31:06.000Z",
-          "wordCount": 280,
-          "title": "Amazon Chime SDKメディアキャプチャパイプラインは、AWS Key Management Serviceを使用したAmazon S3サーバー側の暗号化をサポートします"
         }
       ]
     },
