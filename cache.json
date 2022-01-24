@@ -817,15 +817,6 @@
           "publishedOn": "2021-12-26T21:01:36.000Z",
           "wordCount": 697,
           "title": "「ロボットに人間のような触覚を与える」モーションリブ 溝口貴弘"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=264415",
-          "author": "Stephanie Arnett",
-          "description": "コンピューティングから気候変動まで、MITテクノロジーレビューが選んだ2021年のベスト・フォトを紹介しよう。",
-          "link": "https://www.technologyreview.jp/s/264415/our-favorite-photographs-from-2021/",
-          "publishedOn": "2021-12-26T00:38:20.000Z",
-          "wordCount": 701,
-          "title": "ベスト・フォト2021：アートチームが選ぶテクノロジーを物語る17枚"
         }
       ]
     },
@@ -967,6 +958,15 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/kuberneteslitmuschaoscncf.html",
+          "author": null,
+          "description": "Kubernetesなどを始めとするクラウドネイティブを実現するためのオープンソース群の開発などを推進する団体Cloud Native Computing Foundationは、Kubernetesをベースにカオスエンジニアリングを実現で...",
+          "link": "https://www.publickey1.jp/blog/22/kuberneteslitmuschaoscncf.html",
+          "publishedOn": "2022-01-24T15:43:22.000Z",
+          "wordCount": 188,
+          "title": "Kubernetesにわざと障害を起こさせる仕組みを組み込める「LitmusChaos」がCNCFのインキュベーションプロジェクトに昇格"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/nginxigor_sysoevf5nginx.html",
           "author": null,
@@ -1737,6 +1737,78 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "3671f33f7e5773ca98e247d76a57f598df785617",
+          "author": "aws@amazon.com",
+          "description": "Amazon FinSpace マネージド Spark クラスターが Apache Spark 3.1.2 をサポートApache Spark 3 は、取引に関する大規模なファクトテーブルと実行センターに関する小規模なディメンションテーブルを結合するような結合を最適化する動的パーティションプルーニングなどのクエリ最適化機能を備えています。また、ANSI SQL 基準との互換性を高めるための変更を含み、30 個の新しい組み込み関数を特徴としています。FinSpace Spark クラスターでは、アナリストはクラスターの起動、接続、サイズ変更、終了を簡単に行うことができます。FinSpace Spark クラスターは 5 つのサイズから選択でき、ワークロードに適した構成を選択できます。また、ペタバイトスケールの過去の金融時系列データを準備し分析するための時系列分析ライブラリが含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-finspace-apache-spark-clusters-3/",
+          "publishedOn": "2022-01-24T19:38:27.000Z",
+          "wordCount": 267,
+          "title": "Amazon FinSpace マネージド Apache Spark クラスターが Apache Spark 3 をサポート"
+        },
+        {
+          "id": "22ac9ad52262c238d9d3ca6ef9e017697c3f59b6",
+          "author": "aws@amazon.com",
+          "description": "AWS Migration Hub Strategy Recommendations は、PostgreSQL 上の Microsoft SQL Server アプリケーションをほとんどコード変更することなく移行およびリプラットフォームすることを検討しているお客様に Babelfish for Aurora PostgreSQL をお勧めすることができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/",
+          "publishedOn": "2022-01-24T19:37:40.000Z",
+          "wordCount": 283,
+          "title": "AWS Migration Hub Strategy Recommendations に Aurora PostgreSQL の Babelfish のサポートを追加"
+        },
+        {
+          "id": "21791cca8c9f87cdfae4b8b67e71e8f832e11b92",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR 6.5.0 に Apache Iceberg バージョン 0.12 が追加されたことをお知らせします。Apache Iceberg は、Amazon S3 内の大規模データセット用のオープンなテーブルフォーマットで、大規模テーブルに対する高速なクエリパフォーマンス、アトミックコミット、同時書き込み、SQL 互換の進化したテーブルを提供します。現在のリリースでは、EMR クラスター上で Apache Spark 3.1.2 を Iceberg テーブル形式で使用することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-supports-apache-iceberg/",
+          "publishedOn": "2022-01-24T19:35:48.000Z",
+          "wordCount": 285,
+          "title": "Amazon EMR がデータレイク向けの高パフォーマンス、並列処理、ACID に準拠しているテーブルフォーマットの Apache Iceberg のサポートを開始"
+        },
+        {
+          "id": "6d74246fd776c5e42bbbbf7a7f4816c04f4c72c5",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 Object Ownership の設定であるバケット所有者の強制を使用して、AWS 中国 (北京)、AWS 中国 (寧夏)、および AWS GovCloud (米国) リージョンでアクセスコントロールリスト (ACL) を無効にして、S3 に保存されたデータのアクセス管理を簡素化できるようになりました。このバケットレベルの設定を適用すると、S3 バケット内のすべてのオブジェクトがバケット所有者によって所有され、許可を付与するために ACL が使用されることはなくなります。その結果、データへのアクセスは、IAM ID に適用される AWS Identity and Access Management (IAM) ポリシー、セッションポリシー、Amazon S3 バケットとアクセスポイントポリシー、Virtual Private Cloud (VPC) エンドポイントポリシーを含むポリシーに基づきます。この設定は、バケット内の新規オブジェクトと既存オブジェクトの両方に適用され、IAM ポリシーを使用してこの設定へのアクセスをコントロールできます。この新しい S3 Object Ownership 設定を使用すると、ポリシーのみを使用して、Amazon S3 の共有データセットへのアクセスを簡単に確認、管理、変更できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-s3-object-ownership-control-lists-aws-china-govcloud/",
+          "publishedOn": "2022-01-24T14:48:27.000Z",
+          "wordCount": 332,
+          "title": "Amazon S3 Object Ownership で、AWS 中国 (北京)、AWS 中国 (寧夏)、および AWS GovCloud (米国) リージョンのアクセスコントロールリストの無効化が可能に"
+        },
+        {
+          "id": "48163a5c2eefc2f91b1e25126a1c127432fac273",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR と AWS Lake Formation の統合を使用する場合に、Glue Data Catalog テーブルを更新するために Apache Spark SQL を使用することについてのサポートを発表します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-apache-spark-sql-glue-data-catalog-lake-formation/",
+          "publishedOn": "2022-01-24T14:47:39.000Z",
+          "wordCount": 315,
+          "title": "Amazon EMR が Apache Spark SQL のサポートを開始し、Lake Formation の統合が有効になっている場合に Glue Data Catalog テーブルへのデータ挿入や更新が可能に"
+        },
+        {
+          "id": "f1d616e25835a6a384e9b19da1b8e1136d6e38b8",
+          "author": "aws@amazon.com",
+          "description": "Amazon GuardDuty では、新しい脅威検出機能をご利用いただけるようになりました。この機能は、関連付けられた EC2 インスタンスが実行されているものとは異なる AWS アカウントが所有する IP アドレスから、API を呼び出すために EC2 インスタンスの認証情報が使用されたときに通知します。新しい検出結果タイプは、UnauthorizedAccess:IAMUser/InstanceCredentialExfiltration.InsideAWS です。Amazon GuardDuty は EC2 インスタンスの認証情報が AWS の外部から使用されたときに常に通知しますが、この新しい脅威検出は、悪意のあるアクターが、別の AWS アカウントから EC2 インスタンスの認証情報を使用して検出を回避するのを抑制します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-guardduty-ec2-instance-credentials-aws-account/",
+          "publishedOn": "2022-01-24T14:46:51.000Z",
+          "wordCount": 331,
+          "title": "Amazon GuardDuty で、別の AWS アカウントから使用された EC2 インスタンスの認証情報の検出が可能に"
+        },
+        {
+          "id": "34390b48ed99dacd9bdd64974166d1598a07192a",
+          "author": "aws@amazon.com",
+          "description": "AWS Client VPN では、VPN セッションが確立されたときに、AWS Client VPN Desktop アプリケーションにカスタマイズ可能なバナーを表示する機能をすべてのお客様にご利用いただけるようになりました。バナーテキストには、VPN アクセスを許可する前にエンドユーザーに表示されるプライバシーおよびセキュリティに関する通知を含めることができます。今後、お客様は、AWS コンソールまたは API を使用してバナーテキストを設定し、AWS Client Desktop アプリケーション (Windows v2.0.0 以降向けの AWS Client VPN、MacOS v2.0.0 以降向けの AWS Client VPN、Ubuntu Linux v2.0.0 以降向けの AWS Client VPN) で表示できるようになります。お客様は、特定のセキュリティおよびコンプライアンス要件を満たすのに役立つ最大セッション期間を設定することもできます。最大セッション期間は、VPN セッションを確立する前にエンドユーザーに再認証することを求めるトリガーです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/",
+          "publishedOn": "2022-01-24T14:46:03.000Z",
+          "wordCount": 300,
+          "title": "AWS Client VPN がバナーテキストと最大セッション期間のサポートを開始"
+        },
+        {
+          "id": "0372b4b8c6bdab219e03ff5a40b4e70967a54c73",
+          "author": "aws@amazon.com",
+          "description": "アジアパシフィック (大阪) の Amazon Relational Database Service (Amazon RDS) で、分析用の効率的なオープンカラムナーストレージ形式である Apache Parquet 形式でスナップショットデータを Amazon S3 にエクスポートできるようになりました。Parquet 形式は、テキスト形式と比較して、エクスポートが最大 2 倍速く、Amazon S3 でのストレージ使用量が最大 6 倍少なくすみます。エクスポートしたデータは、Amazon Athena や Amazon SageMaker などの AWS のツール、または Apache Spark などのオープンソースのビッグデータフレームワークを使用して分析できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/",
+          "publishedOn": "2022-01-24T10:31:06.000Z",
+          "wordCount": 290,
+          "title": "アジアパシフィック (大阪) における Amazon RDS スナップショットの S3 へのエクスポート機能のお知らせ"
+        },
         {
           "id": "770e0f40652a2f7b997400d561f1191927eb5f64",
           "author": "aws@amazon.com",
