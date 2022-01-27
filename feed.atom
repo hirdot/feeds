@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-27T08:13:17.742Z</updated>
+    <updated>2022-01-27T09:11:03.436Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: data-turbo-confirmはformタグに書く]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_27/115075</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_27/115075"/>
+        <updated>2022-01-27T08:30:42.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_data_turbo_confirm_on_form_tag_eyecatch_-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Rails 7で、フォームの送信ボタンをクリックしたときにTurboで確認ダイアログを出す方法がなかなかわからず、すっかりはまってしまいました。 結論から言うと、Rails 7とTurboでは、data: { turbo_confirm: 'Are you sure?' }は以下のようにform_withのオプションに渡すと表示されるようになります。 &#60;!-- Turboによる確認ダイアログが出る --&#62; &#60;%= form_with(url: check_path, data: { turbo_confirm: 'Are you sure?' }) do &#124;form&#124; %&#62; &#60;%=  [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_27/115075" data-wpel-link="internal" target="_self">Rails 7: data-turbo-confirmはformタグに書く</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) が地理空間クエリ機能を追加]]></title>
         <id>abd9f6561ebd615cb8a9d731680879ba9656f02f</id>
