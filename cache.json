@@ -1290,6 +1290,15 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_28/114954",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_activemodel_api_extraced_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 introduces ActiveModel::API &#124; Saeloun Blog 原文公開日: 2021/10/13 原著者: Alkesh Ghorpade サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston 日本語タイトルは内容に即したものにしました。 参考: 週刊Railsウォッチ20210921 ActiveModel::APIが追加 Rails 7: Active ModelからAct [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_28/114954\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: Active ModelからActiveModel::APIが切り出された（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_01_28/114954",
+          "publishedOn": "2022-01-28T08:30:57.000Z",
+          "wordCount": 411,
+          "title": "Rails 7: Active ModelからActiveModel::APIが切り出された（翻訳）"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_27/115075",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_data_turbo_confirm_on_form_tag_eyecatch_-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Rails 7で、フォームの送信ボタンをクリックしたときにTurboで確認ダイアログを出す方法がなかなかわからず、すっかりはまってしまいました。 結論から言うと、Rails 7とTurboでは、data: { turbo_confirm: 'Are you sure?' }は以下のようにform_withのオプションに渡すと表示されるようになります。 &#60;!-- Turboによる確認ダイアログが出る --&#62; &#60;%= form_with(url: check_path, data: { turbo_confirm: 'Are you sure?' }) do &#124;form&#124; %&#62; &#60;%=  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_27/115075\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: data-turbo-confirmはformタグに書く</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -3027,6 +3036,15 @@
       "feedUrl": "https://blog.agile.esm.co.jp/feed",
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
+        {
+          "id": "https://blog.agile.esm.co.jp/entry/2022/01/28/180000",
+          "author": null,
+          "description": "こんにちは。ima1zumi です。 私の開発している Rails アプリでは、Excel で読み込めるように 文字コードを Windows-31J に変換して CSV を出力する機能があります。 先日、CSV 出力にて Unicode の波ダッシュ 〜 を Windows-31J に変換しようとして Encoding::UndefinedConversionError が発生して CSV 出力に失敗したことがありました。なぜエラーになるのか、どうやって対応するのかをまとめました。 まとめ encode メソッドの fallback オプションを使って未定義文字の変換先を定義することで変換でき…",
+          "link": "https://blog.agile.esm.co.jp/entry/2022/01/28/180000",
+          "publishedOn": "2022-01-28T09:00:00.000Z",
+          "wordCount": 618,
+          "title": "U+301C from UTF-8 to Windows-31J (Encoding::UndefinedConversionError) に対応する"
+        },
         {
           "id": "https://blog.agile.esm.co.jp/entry/2-months-parental-leave",
           "author": null,

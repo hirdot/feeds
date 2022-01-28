@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-28T08:12:29.817Z</updated>
+    <updated>2022-01-28T09:11:32.882Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U+301C from UTF-8 to Windows-31J (Encoding::UndefinedConversionError) に対応する]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/2022/01/28/180000</id>
+        <link href="https://blog.agile.esm.co.jp/entry/2022/01/28/180000"/>
+        <updated>2022-01-28T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。ima1zumi です。 私の開発している Rails アプリでは、Excel で読み込めるように 文字コードを Windows-31J に変換して CSV を出力する機能があります。 先日、CSV 出力にて Unicode の波ダッシュ 〜 を Windows-31J に変換しようとして Encoding::UndefinedConversionError が発生して CSV 出力に失敗したことがありました。なぜエラーになるのか、どうやって対応するのかをまとめました。 まとめ encode メソッドの fallback オプションを使って未定義文字の変換先を定義することで変換でき…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: Active ModelからActiveModel::APIが切り出された（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_28/114954</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_28/114954"/>
+        <updated>2022-01-28T08:30:57.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7_activemodel_api_extraced_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails 7 introduces ActiveModel::API &#124; Saeloun Blog 原文公開日: 2021/10/13 原著者: Alkesh Ghorpade サイト: Saeloun Blog &#124; Ruby on Rails Consulting Company based in San Francisco and Boston 日本語タイトルは内容に即したものにしました。 参考: 週刊Railsウォッチ20210921 ActiveModel::APIが追加 Rails 7: Active ModelからAct [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_28/114954" data-wpel-link="internal" target="_self">Rails 7: Active ModelからActiveModel::APIが切り出された（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年1月28日号　jammyの開発/Ubuntu Proのデスクトップ展開，“PwnKit”脆弱性，GPD Pocket3用のUbuntu Mate  ── Ubuntu Weekly Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202201/28</id>
