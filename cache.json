@@ -166,6 +166,24 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/01/aws-rds-readable-standby/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "AWSは最近、Amazon RDSマルチAZデプロイで読み取り可能なスタンバイインスタンスを発表した。新しいデータベースクラスターオプションでは、より多くの読み取り容量と一貫性のあるトランザクション遅延が要求される処理を対象とした、高可用性と耐久性が提供される。\n By Renato Losio  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/aws-rds-readable-standby/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-28T10:02:00.000Z",
+          "wordCount": 1237,
+          "title": "Amazon RDSがマルチAZデプロイに読み取り可能なスタンバイインスタンスを導入"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/aws-local-zones-expansion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "AWSローカルゾーンはインフラストラクチャのデプロイである。これは、コンピューティング、ストレージ、データベース、および他の選択されたAWSサービスを大規模な人口と産業センターの近くに配置するものだ。そして、AWSは最近、世界中の重要な都市で30を超える新しいAWSローカルゾーンの立ち上げを発表した。\n By Steef-Jan Wiggers  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/aws-local-zones-expansion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-28T09:59:00.000Z",
+          "wordCount": 1223,
+          "title": "AWSがローカルゾーンの世界的なさらなる拡大を発表"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/01/kubernetes-1-23/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Mostafa Radwan",
           "description": "CNCF は先ごろ Kubernetes 1.23 をリリースした。このリリースには、kubectl の events サブコマンド、gRPC プローブ、カスタムリソースの式言語バリデーションなどの新機能、汎用的なエフェメラルボリューム、水平 Pod オートスケーリング、IPv4/IPv6 デュアルスタックネットワーキングなどの一般利用可能な機能、PodSecurity などのベータ機能、および FlexVolume などの非推奨化機能などがある。\n By Mostafa Radwan  Translated by Shoji Shigeki",
