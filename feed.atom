@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-31T00:37:49.477Z</updated>
+    <updated>2022-01-31T01:51:17.735Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -14,6 +14,50 @@
         <summary type="html"><![CDATA[WindowsやMacなどのローカル環境に簡単にDockerコンテナを用いた開発環境を導入できるソフトウェアが「Docker Desktop」です。 当初は無料で提供されてきましたが、2021年9月に有料化が開始されました。 ただし、個人利...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eBPF と Wasm: サービスメッシュデータプレーンの未来を探る]]></title>
+        <id>https://www.infoq.com/jp/news/2022/01/ebpf-wasm-service-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/01/ebpf-wasm-service-mesh/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-01-31T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[eBPF や WebAssembly (WASM) などの軽量ランタイムの進歩により、より軽く、より安全で、より高速な新世代のサービスメッシュデータプレーンソリューションが登場している。
+ By Vivian Hu  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Vivian Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetflixでCosmosを使ったビデオ品質測定のスケーリング]]></title>
+        <id>https://www.infoq.com/jp/news/2022/01/netflix-cosmos-video-quality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/01/netflix-cosmos-video-quality/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-01-31T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Netflixは、さまざまなビジネス目的に対する知覚的なビデオ品質の測定に依るところが大きい。メトリックが進化し、より多くのワークフローの一部になるにつれて、それらの測定ツールもスケーリングする必要がある。Netflixは最近、どのようにしてCosmosマイクロサービスを使って新しいビデオ品質測定ワークフローを実装するかを説明している。優れたスケーラビリティとデータの疎結合を備えた品質メトリックの革新を育てることを目的としたものである。
+ By Vasco Veloso  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Vasco Veloso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javaニュース総まとめ: JDK 18、JDK 19、Spring Integration の Groovy DSL、JHipster、Micronaut Foundation]]></title>
+        <id>https://www.infoq.com/jp/news/2022/01/java-news-roundup-jan03-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/01/java-news-roundup-jan03-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-01-31T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年1月3日版の Java ニュース総まとめは、もう1つの比較的静かな週になった。JDK 18 と JDK 19 のビルドアップデート、VMwareの CVE-2021-22096 のフォローアップとして CVE-2021-22060 の公開、Spring Integration のための新しい Groovy DSL、Helidon 2.4.1、Hibernate Search バージョン 6.0.8 および 6.1.0.Beta2、JHipster 7.5.0、JReleaser 0.10.0、および Gradle の Micronaut Foundation への参加を特集する。
+ By Michael Redlich  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSがスペースの制約がある場所に適した2つの新しいOutposts SKUを提供]]></title>
+        <id>https://www.infoq.com/jp/news/2022/01/aws-outposts-new-form-factors/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/01/aws-outposts-new-form-factors/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-01-31T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Outpostsは、オンプレミスのコンピューティングとストレージ監視が顧客に提供され、これはAWSによって使い慣れたAWS APIと同じコントロールで管理される。昨年のラスベガスのre:Inventで、AWSは2つの新しい小さなAWS Outpostsフォームファクターを発表した。スペースの制約と低レイテンシなコンピューティング能力にアクセスする必要があるブランチオフィス、小売店、病院、基地局などの場所に適している。
+ By Steef-Jan Wiggers  Translated by Shoji Shigeki]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
         </author>
     </entry>
     <entry>

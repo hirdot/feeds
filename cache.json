@@ -166,6 +166,42 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/01/ebpf-wasm-service-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vivian Hu",
+          "description": "eBPF や WebAssembly (WASM) などの軽量ランタイムの進歩により、より軽く、より安全で、より高速な新世代のサービスメッシュデータプレーンソリューションが登場している。\n By Vivian Hu  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2022/01/ebpf-wasm-service-mesh/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-31T01:41:00.000Z",
+          "wordCount": 780,
+          "title": "eBPF と Wasm: サービスメッシュデータプレーンの未来を探る"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/netflix-cosmos-video-quality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vasco Veloso",
+          "description": "Netflixは、さまざまなビジネス目的に対する知覚的なビデオ品質の測定に依るところが大きい。メトリックが進化し、より多くのワークフローの一部になるにつれて、それらの測定ツールもスケーリングする必要がある。Netflixは最近、どのようにしてCosmosマイクロサービスを使って新しいビデオ品質測定ワークフローを実装するかを説明している。優れたスケーラビリティとデータの疎結合を備えた品質メトリックの革新を育てることを目的としたものである。\n By Vasco Veloso  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/01/netflix-cosmos-video-quality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-31T01:36:00.000Z",
+          "wordCount": 1216,
+          "title": "NetflixでCosmosを使ったビデオ品質測定のスケーリング"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/java-news-roundup-jan03-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "2022年1月3日版の Java ニュース総まとめは、もう1つの比較的静かな週になった。JDK 18 と JDK 19 のビルドアップデート、VMwareの CVE-2021-22096 のフォローアップとして CVE-2021-22060 の公開、Spring Integration のための新しい Groovy DSL、Helidon 2.4.1、Hibernate Search バージョン 6.0.8 および 6.1.0.Beta2、JHipster 7.5.0、JReleaser 0.10.0、および Gradle の Micronaut Foundation への参加を特集する。\n By Michael Redlich  Translated by  Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2022/01/java-news-roundup-jan03-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-31T01:30:00.000Z",
+          "wordCount": 1559,
+          "title": "Javaニュース総まとめ: JDK 18、JDK 19、Spring Integration の Groovy DSL、JHipster、Micronaut Foundation"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/01/aws-outposts-new-form-factors/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "AWS Outpostsは、オンプレミスのコンピューティングとストレージ監視が顧客に提供され、これはAWSによって使い慣れたAWS APIと同じコントロールで管理される。昨年のラスベガスのre:Inventで、AWSは2つの新しい小さなAWS Outpostsフォームファクターを発表した。スペースの制約と低レイテンシなコンピューティング能力にアクセスする必要があるブランチオフィス、小売店、病院、基地局などの場所に適している。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
+          "link": "https://www.infoq.com/jp/news/2022/01/aws-outposts-new-form-factors/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-01-31T00:42:00.000Z",
+          "wordCount": 1314,
+          "title": "AWSがスペースの制約がある場所に適した2つの新しいOutposts SKUを提供"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/01/aws-iam-s3-access/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Renato Losio",
           "description": "AWSサポートが使うポリシーの予期しない変更により、顧客のS3データへのアクセスに関する懸念が生じた。当クラウドプロバイダは変更を元に戻した。アクセス許可は使用されなかったし、できなかったと述べ、セキュリティ速報を公開した。セキュリティ専門家は、将来の同じような問題を検出して防止するための手順を提案している。\n By Renato Losio  Translated by 編集部T _",
