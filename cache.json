@@ -1103,6 +1103,24 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/amazon_prime_videowebassemblywasm_vm.html",
+          "author": null,
+          "description": "Amazon.comは動画サービスのAmazon Prime Videoにおいて、テレビやFire TV、スマートフォンなどの再生デバイス上にWebAssemblyのランタイムをデプロイし、アプリケーションの一部にWebAssemblyを採...",
+          "link": "https://www.publickey1.jp/blog/22/amazon_prime_videowebassemblywasm_vm.html",
+          "publishedOn": "2022-01-31T15:59:06.000Z",
+          "wordCount": 309,
+          "title": "Amazon Prime Videoが動画再生にWebAssemblyを採用。再生デバイス上にWasm VMをデプロイ、高フレームレートなど実現"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/rancher_desktop_10winm1_macintel_mackubernteselectron.html",
+          "author": null,
+          "description": "SUSEは、インストールして起動するだけでWindows やMac上に簡単にDockerコンテナとKubernetes環境が導入される「Rancher Desktop 1.0」を正式リリースしたと発表しました。 SUSEがRancher L...",
+          "link": "https://www.publickey1.jp/blog/22/rancher_desktop_10winm1_macintel_mackubernteselectron.html",
+          "publishedOn": "2022-01-31T15:36:12.000Z",
+          "wordCount": 228,
+          "title": "「Rancher Desktop 1.0」正式リリース。Win/M1 Mac/Intel MacにコンテナとKuberntes環境を簡単に構築、設定できるElectronベースのアプリ"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/docker_desktop250100011_1.html",
           "author": null,
           "description": "WindowsやMacなどのローカル環境に簡単にDockerコンテナを用いた開発環境を導入できるソフトウェアが「Docker Desktop」です。 当初は無料で提供されてきましたが、2021年9月に有料化が開始されました。 ただし、個人利...",
@@ -1944,6 +1962,78 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "6b374f82239e1c1fe6c92065e2c0ceb5186fae0d",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/",
+          "publishedOn": "2022-01-31T19:02:42.000Z",
+          "wordCount": 228,
+          "title": "Untitled"
+        },
+        {
+          "id": "f23635d152a09f16f23b61c79ce028382d1fdf2d",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/",
+          "publishedOn": "2022-01-31T19:01:54.000Z",
+          "wordCount": 250,
+          "title": "Untitled"
+        },
+        {
+          "id": "5c5e76ecd134ccd22d2a64848f347352f252d176",
+          "author": "aws@amazon.com",
+          "description": "",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/",
+          "publishedOn": "2022-01-31T19:01:14.000Z",
+          "wordCount": 228,
+          "title": "Untitled"
+        },
+        {
+          "id": "ee66713917940cbeeda48dafb73bebb0627a5055",
+          "author": "aws@amazon.com",
+          "description": "PrivateLinkベースのVPCエンドポイントおよびエンドポイントサービスに関する5つの新しいメトリクスにアクセスできるようになりました。AWS PrivateLinkは、フルマネージド型のプライベート接続サービスで、お客様はネットワークトラフィックを非公開にしたまま、AWS上でホストされているAWSサービスやサードパーティサービス、企業内サービスに安全かつ拡張性の高い方法でアクセスできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/metrics-aws-privatelink/",
+          "publishedOn": "2022-01-31T18:34:27.000Z",
+          "wordCount": 219,
+          "title": "AWS PrivateLinkのメトリクスの提供を開始"
+        },
+        {
+          "id": "6037c3f1725657abbd874b79924e7287b7bf2da8",
+          "author": "aws@amazon.com",
+          "description": "機械学習モデルを本番環境に導入するためのコスト効率の高いGPUプラットフォームを提供するAmazon EC2 G4dnインスタンスが、アジアパシフィック（大阪）AWSリージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/",
+          "publishedOn": "2022-01-31T18:33:40.000Z",
+          "wordCount": 261,
+          "title": "AWSアジアパシフィック（大阪）でAmazon EC2 G4dnインスタンスの提供を開始"
+        },
+        {
+          "id": "9c41d31b96548072fe44433fc1ee46adf4101e5d",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS Performance Insights は、Amazon RDS for Oracleのクエリ実行プランの収集と追跡をサポートするようになり、クエリ実行プランの変更がパフォーマンスの悪化やスタックの原因であるかどうかをより容易に特定できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/",
+          "publishedOn": "2022-01-31T18:32:52.000Z",
+          "wordCount": 272,
+          "title": "Amazon RDS Performance InsightsがRDS for Oracleのクエリ実行プランキャプチャをサポートするようになりました。"
+        },
+        {
+          "id": "70c1328cc50113b9f93f24c5fe798bca8ebf07a6",
+          "author": "aws@amazon.com",
+          "description": "AWS アジアパシフィック (大阪) リージョンのお客様に、Amazon Elastic File System (Amazon EFS) をご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/",
+          "publishedOn": "2022-01-31T18:32:03.000Z",
+          "wordCount": 245,
+          "title": "AWS アジアパシフィック (大阪) リージョンで Amazon Elastic File System (Amazon EFS) が利用可能に"
+        },
+        {
+          "id": "23f48bba3220a7cd0812b695b6c1093bb2aacecc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS for PostgreSQL)とAmazon RDS on AWS OutpostsがPostgreSQLメジャーバージョン14をサポートするようになりました。 PostgreSQL 14 は、並列クエリ、重同期ワークロード、パーティション化されたテーブル、論理レプリケーション、およびバキューム処理に関する性能改善を含んでいます。PostgreSQL 14では、クライアントが切断された場合に長時間実行中のクエリをキャンセルしたり、アイドル状態のセッションをタイムアウトさせて終了させたり、ストアドプロシージャがデータを返したりといった新機能も追加され、機能性が向上しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/",
+          "publishedOn": "2022-01-31T18:31:15.000Z",
+          "wordCount": 272,
+          "title": "Amazon RDS for PostgreSQLとAmazon RDS on AWS OutpostsがPostgreSQL 14をサポートしました。"
+        },
         {
           "id": "c9956fa7458e2ff537ae305de3c3c749b5ad5d49",
           "author": "aws@amazon.com",
