@@ -549,6 +549,15 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=268045",
+          "author": "MIT Technology Review Japan",
+          "description": "東北大学の研究チームは、NTTと共同で、「ポスト量子」暗号（Post Quantum Cryptography）をソフトウェアやハードウェアに実装する際の安全性を高める技術を開発したと発表した。ポスト量子暗号技術の国際標 …",
+          "link": "https://www.technologyreview.jp/s/268045/the-technology-will-improve-the-implementation-security-of-post-quantum-cryptography/",
+          "publishedOn": "2022-02-02T21:27:53.000Z",
+          "wordCount": 680,
+          "title": "ポスト量子暗号の実装安全性を向上、東北大学とNTTが考案"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=268038",
           "author": "MIT Technology Review Japan",
           "description": "理化学研究所は2月2日、人々の日常的な活動における新型コロナウイルス（SARS-CoV-2）オミクロン株の感染リスクや対策について発表した。同研究所計算科学研究センターのチームリーダーを務める坪倉 誠・ 神戸大学教授のチ …",
@@ -934,15 +943,6 @@
           "publishedOn": "2022-01-04T20:59:56.000Z",
           "wordCount": 713,
           "title": "22年の仕事始めに試したい デジタル生活8つの行動"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=265610",
-          "author": "Koichi Motoda",
-          "description": "MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、トレジャーデータの古橋貞之氏のプレゼンテーションの内容を要約して紹介する。",
-          "link": "https://www.technologyreview.jp/s/265610/iu35-japan-summit-2021-sadayuki-furuhashi/",
-          "publishedOn": "2022-01-03T23:25:47.000Z",
-          "wordCount": 684,
-          "title": "「分散技術を人類普遍の技術に」トレジャーデータ 古橋貞之"
         }
       ]
     },
@@ -1120,6 +1120,33 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/webassemblyx86webvmweblinux.html",
+          "author": null,
+          "description": "Leaning Technologiesは、Webブラウザ上でx86バイナリをそのまま実行できるWebAsesmbly製の仮想マシン「WebVM」を発表しました（同社による紹介記事「WebVM: server-less x86 virtua...",
+          "link": "https://www.publickey1.jp/blog/22/webassemblyx86webvmweblinux.html",
+          "publishedOn": "2022-02-02T15:05:55.000Z",
+          "wordCount": 164,
+          "title": "WebAssembly製のx86仮想マシン「WebVM」が登場、Webブラウザ上でLinuxや各種コマンド、アプリがそのまま実行可能"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsaws_nyantech_2022222.html",
+          "author": null,
+          "description": "AWSジャパンは、猫を取り巻く課題に関するオンラインイベント「AWS Nyantech 2022」を2月22日に開催すると発表しました。 今年もやります！AWS Nyantech 2022~ Deploy Cat Friendly Worl...",
+          "link": "https://www.publickey1.jp/blog/22/awsaws_nyantech_2022222.html",
+          "publishedOn": "2022-02-02T15:01:58.000Z",
+          "wordCount": 169,
+          "title": "AWSジャパン、猫を取り巻く課題に関するオンラインイベント「AWS Nyantech 2022」を2月22日に開催"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/mariadb.html",
+          "author": null,
+          "description": "MySQLからフォークしたオープンソースデータベースとして知られるMariaDBを開発するMariaDB社が、ニューヨーク証券取引所への株式公開を行い、上場企業になることを発表しました。 株式公開は2022年下半期に完了する予定です。 #M...",
+          "link": "https://www.publickey1.jp/blog/22/mariadb.html",
+          "publishedOn": "2022-02-02T15:00:12.000Z",
+          "wordCount": 225,
+          "title": "MariaDBがニューヨーク証券取引所への株式公開を発表"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/awsvmfirecracker10aws_lambdaaws_fargate.html",
           "author": null,
@@ -1657,15 +1684,6 @@
           "publishedOn": "2022-01-05T08:30:17.000Z",
           "wordCount": 1372,
           "title": "Rails 7.0.0+Ruby 3.1.0のGemfileは7-0-stableブランチの指定が必要"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_01_04/114743",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/12/rails_propshaft_readme_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 README: rails/propshaft: Deliver assets for Rails 原文更新日: 2021/12/19（447e936） ライセンス: MIT propshaft README（翻訳） Propshaftは、Railsのアセットパイプライン用ライブラリです。Propshaftは、以下のような時代に合わせて構築されました。 HTTPコネクションを節約するためのアセットバンドルがもはや切実ではなくなった JavaScriptやCSSを専用のNode.jsバンドルでコンパイルするかブラウザに直接提供するようになった 帯域幅が増えたこ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_01_04/114743\" data-wpel-link=\"internal\" target=\"_self\">Propshaft gem README（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_01_04/114743",
-          "publishedOn": "2022-01-04T08:30:17.000Z",
-          "wordCount": 334,
-          "title": "Propshaft gem README（翻訳）"
         }
       ]
     },
@@ -1808,24 +1826,6 @@
           "publishedOn": "2022-01-05T00:57:00.000Z",
           "wordCount": 398,
           "title": "第698回　デスクトップ環境の2021-2022年 ── Ubuntu Weekly Recipe"
-        },
-        {
-          "id": "https://gihyo.jp/admin/column/newyear/2022/cloudnative-prospect",
-          "author": "青山真也",
-          "description": "あけましておめでとうございます。サイバーエージェントの青山真也です。今年の新春企画では，2022年にも動向を見ていきたいと思っている，2021年のCloudNative関連のトピックを紹介します。",
-          "link": "https://gihyo.jp/admin/column/newyear/2022/cloudnative-prospect",
-          "publishedOn": "2022-01-04T00:15:40.000Z",
-          "wordCount": 389,
-          "title": "2022年に注目したいCloudNative関連技術 ── 新春特別企画"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202201/04",
-          "author": "吉田史",
-          "description": "2022年のUbuntuにとってもっとも重要なイベントは，4月の22.04 LTSのリリースでしょう。GUIの基盤をXからWaylandへ切り替えた後の最初のLTSリリースであり，同時にいろいろな戦略の基盤となるリリースでもあります。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202201/04",
-          "publishedOn": "2022-01-04T00:15:20.000Z",
-          "wordCount": 386,
-          "title": "2022年1月4日新春特別号　2021-2022年のUbuntu ── Ubuntu Weekly Topics"
         }
       ]
     },
@@ -1932,15 +1932,6 @@
           "publishedOn": "2022-01-05T00:15:40.000Z",
           "wordCount": 361,
           "title": "Progressive Web Appsの振り返りとこれから ── 新春特別企画"
-        },
-        {
-          "id": "https://gihyo.jp/dev/column/newyear/2022/iot-tech-torends",
-          "author": "松下享平",
-          "description": "Wi-FiやLTEといった通信を使って現場をデジタル化したり，遠隔からモノを操作するのが「IoT」です。",
-          "link": "https://gihyo.jp/dev/column/newyear/2022/iot-tech-torends",
-          "publishedOn": "2022-01-04T00:16:00.000Z",
-          "wordCount": 378,
-          "title": "IoT活用で知っておきたい「2022年のIoT，3つのトレンド」 ── 新春特別企画"
         }
       ]
     },
@@ -2020,15 +2011,6 @@
           "publishedOn": "2022-01-06T01:00:00.000Z",
           "wordCount": 322,
           "title": "2022年1月6日　とっくに明けておりますが・・・ ── 帰ってきた『技評ねこ部通信』"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/column/newyear/2022/privacy-standards",
-          "author": null,
-          "description": "あけましておめでとうございます。@_natこと崎村夏彦です。2022年の年頭にあたり，2021年のプライバシー関連の動きを振り返り，その上で2022年を展望してみたいと思います。",
-          "link": "https://gihyo.jp/lifestyle/column/newyear/2022/privacy-standards",
-          "publishedOn": "2022-01-04T00:15:00.000Z",
-          "wordCount": 331,
-          "title": "2022年のプライバシー標準 ── 新春特別企画"
         }
       ]
     },
