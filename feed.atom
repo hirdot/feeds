@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-04T08:10:31.157Z</updated>
+    <updated>2022-02-04T09:09:52.135Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails 7: guard-livereload gemで開発中にライブリロードする]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_02_04/115417</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_02_04/115417"/>
+        <updated>2022-02-04T08:30:47.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails7_docker_guard_livereload_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Rails 7の新規アプリで遊んでいると、やはりライブリロード機能（ファイル更新を監視してブラウザを自動リロードする）が欲しくなったので、guard-livereload gemでDocker環境にライブリロード機能を導入しました。Rails 7でちょっと便利になった点があります。 環境 Docker（docker-compose）環境が前提 Docker Desktop for Mac: 4.4.2 (73305) Engine: 20.10.12 Compose: v2.2.3 Rails 7 + Ruby 3.1 Rails 7サーバーを./bin/devで起動できることが前提 インストール方法 Gemfi [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_02_04/115417" data-wpel-link="internal" target="_self">Rails 7: guard-livereload gemで開発中にライブリロードする</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年2月4日　Slackware 15.0がリリース，モダナイズされたLinux最古のディストリビューション ── Linux Daily Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/linux_dt/202202/04</id>
@@ -1003,6 +1014,17 @@
  By Mostafa Radwan  Translated by Shoji Shigeki]]></summary>
         <author>
             <name>Mostafa Radwan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails tips: コントローラでrescueする方法（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_27/55030</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_27/55030"/>
+        <updated>2022-01-27T08:30:56.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2018/04/rails_tips_rescue_controller_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Learn how to rescue from errors in a Ruby on Rails controller（リンク先は移動しました） 原文公開日: 2018/02/14 著者: Paweł Dąbrowsk（リンク先は移動しました） 2018/04/23: 初版公開 2022/01/27: 更新 Rails tips: コントローラでrescueする方法（翻訳） Railsのコントローラでエラーをrescueしなければならないことがあります。クエリをかけたがデータベースにレコードがない場合にraiseされるActiveRecord::Re [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_27/55030" data-wpel-link="internal" target="_self">Rails tips: コントローラでrescueする方法（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
