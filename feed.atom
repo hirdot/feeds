@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-04T10:09:35.750Z</updated>
+    <updated>2022-02-04T22:08:43.752Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NECが倉庫ロボ向け制御技術、専用通路なしで効率2倍に]]></title>
+        <id>https://www.technologyreview.jp/?p=268219</id>
+        <link href="https://www.technologyreview.jp/s/268219/the-new-warehouse-robot-control-technology-can-carry-goods-twice-as-fast/"/>
+        <updated>2022-02-04T21:58:23.000Z</updated>
+        <summary type="html"><![CDATA[NECは、倉庫で使用する搬送ロボット向けに、安全性を維持しながら搬送効率を2倍に高める制御技術を開発した。ロボット専用通路がない倉庫で作業員や障害物との接触を回避し、高速な搬送を実現する。 新技術では、ロボットが搭載する …]]></summary>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Keyspaces が FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Apache Cassandra ワークロードをより簡単に実行可能に]]></title>
+        <id>c078b08f8abd451b67ba15b3d2d83b6ae2b6da1a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/"/>
+        <updated>2022-02-04T20:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高く、フルマネージド型の Cassandra 互換のデータベースサービスで、FedRAMP Moderate コンプライアンスの対象となり、高度に規制された Cassandra ワークロードをより簡単に実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppFlow が Custom Connector SDK の提供を開始]]></title>
+        <id>11c2404466d50becf97b2ac4583056f2e80d004d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/"/>
+        <updated>2022-02-04T20:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Custom Connector ソフトウェア開発キット (SDK) を使用して、Amazon AppFlow のカスタムコネクタを構築できるようになりました。SDK を使用すると、AppFlow のコネクタのライブラリに追加することで、プライベート API、オンプレミスのプロプライエタリシステム、およびその他のクラウドサービスに接続できます。オープンソースであり、Java と Python の両方で利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 のお客様が、ごみ箱を使用して、Amazon マシンイメージの誤った削除から回復することが可能に]]></title>
+        <id>bcbc50d6f63413d1a82d244bfad44ad03c4b2e51</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/"/>
+        <updated>2022-02-04T20:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon マシンイメージ (AMI) のためにごみ箱を使用して、誤った削除から回復し、ビジネス継続性のニーズを満たすことができるようになりました。これまでは、誤って AMI の登録を解除した場合、その AMI を回復することはできませんでした。ごみ箱を使用すると、保持期間を指定し、保持期間が満了する前に、必要に応じて登録解除された AMI を回復できます。回復された AMI は、削除前に持っていたタグ、許可、および暗号化ステータスなどの属性を保持し、すぐに起動に使用できます。ごみ箱から復元されなかった AMI は、保持期間が終了すると完全に削除されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Windows File Server がFedRAMPに準拠しました]]></title>
+        <id>f59414aadf55aa87bf055ab98927df71fd4e158c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/"/>
+        <updated>2022-02-04T18:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Windows File Server は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) で FedRAMP Moderateとして、GovCloud (米国西部) および GovCloud (米国東部) で FedRAMP Highとして、それぞれ承認されました。Amazon FSx for Windows File Serverは、これらのリージョンにおいて、国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) としても承認されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for Lustre は FedRAMPに準拠しています]]></title>
+        <id>898b8525bb4c228b9d23bed2aea394f9512304ff</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/"/>
+        <updated>2022-02-04T18:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for Lusterは、米国東部（バージニア州北部）、米国東部（オハイオ州）、米国西部（カリフォルニア州北部）、米国西部（オレゴン州）ではFedRAMPモデレートとして、AWS GovCloud（米国西部) およびAWSGovCloud（米国東部）ではFedRAMP Highとして承認されています。Amazon FSx for Lusterは、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイドImpact Level 2（DoD SRG IL-2）としても承認されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: guard-livereload gemで開発中にライブリロードする]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_02_04/115417</id>
@@ -3783,78 +3843,6 @@
         <summary type="html"><![CDATA[Amazon Managed Blockchain (AMB) では、高度なチェーンコード管理とデータ共有機能を使用して Hyperledger Fabric 2.2 フルマネージドネットワークを起動できるようになりました。AMB は、数回のクリック操作だけでスケーラブルなプライベートブロックチェーンネットワークをセットアップして管理することのできるフルマネージドサービスです。AMB は、ブロックチェーンネットワークの作成に必要とされていたオーバーヘッドを削減し、無数のトランザクションを実行している何千ものアプリケーションからの要求に対処できるよう自動的にスケールします。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「実用的なエラー抑制で、量子技術が作る未来を叶えたい」NTT 遠藤 傑]]></title>
-        <id>https://www.technologyreview.jp/?p=265905</id>
-        <link href="https://www.technologyreview.jp/s/265905/iu35-japan-summit-2021-suguru-endo/"/>
-        <updated>2022-01-06T09:52:36.000Z</updated>
-        <summary type="html"><![CDATA[MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、NTTコンピュータ＆データサイエンス研究所の遠藤 傑氏のプレゼンテーションの内容を要約して紹介する。]]></summary>
-        <author>
-            <name>Koichi Motoda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby: JSON.parseのあまり知られていない機能（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329"/>
-        <updated>2022-01-06T08:30:21.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/ruby_lesser_known_capability_of_json.parse-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A lesser known capability of Ruby&#8217;s JSON&#46;parse &#124; Arkency Blog 原文公開日: 2021/10/23 原著者: Szymon Fiedler サイト: arkency 参考: 週刊Railsウォッチ20211110 Ruby: JSON.parseのあまり知られていない機能（翻訳） RubyのJSON.parseが文字列キーのハッシュを返すことにうんざりしたことのある方、シンボルキーのハッシュが欲しい方、本記事は皆さんのためにあります。 こんなときは、Rails開発者 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_06/114329" data-wpel-link="internal" target="_self">Ruby: JSON.parseのあまり知られていない機能（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 5.1〜7.0: &#8216;form_with&#8217; APIドキュメント（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_06/39502</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_06/39502"/>
-        <updated>2022-01-06T08:20:21.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/01/rails_5_7_form_with_api_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 更新（2019/09/13）: Rails 6.0時点のドキュメント更新を反映。 更新（2020/03/09）: Rails 6で削除された項目を反映。 更新（2021/01/22）: Rails 6.1の変更を反映（edge APIドキュメントに基づいています）。6.1 edgeドキュメントで追加または変更されたパラグラフ冒頭には「（6.1 edge）」を追加しています。 更新（2022/01/06）: Rails 7の更新を反映し、（6.1 edge）を削除。 こんにちは、hachi8833です。Rails 6.1の#form_withのAPIドキュメント変更を反映しました。form_withはRa [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_06/39502" data-wpel-link="internal" target="_self">Rails 5.1〜7.0: ‘form_with’ APIドキュメント（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1月6日　メモリ管理機能の「CleanCache」，Linuxメインラインから削除へ ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202201/06</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202201/06"/>
-        <updated>2022-01-06T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[LinuxカーネルメンテナーのStephen Rothwellは1月5日，開発版カーネルのGitリポジトリ「linux-next」から，メモリ管理機能「CleanCache」に関連するコードを削除した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主張：気候変動への適応には治水インフラの転換が必要だ]]></title>
-        <id>https://www.technologyreview.jp/?p=264500</id>
-        <link href="https://www.technologyreview.jp/s/264500/our-water-infrastructure-needs-to-change/"/>
-        <updated>2022-01-06T05:45:08.000Z</updated>
-        <summary type="html"><![CDATA[甚大な洪水や深刻な干ばつの被害が世界中で発生している。これまではダムや堤防を建設する治水工事によって対応してきたが、これからは自然を利用した治水が必要だ。]]></summary>
-        <author>
-            <name>Sandra Postel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1月6日　とっくに明けておりますが・・・ ── 帰ってきた『技評ねこ部通信』]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0106</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202201/0106"/>
-        <updated>2022-01-06T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年トラ柄年の始まりです。]]></summary>
-        <author>
-            <name>gihyo.jp：LIFESTYLE STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第77回　2021年北東アジアOSS貢献者賞と，MySQL ＆ PostgreSQLの2021年の主なニュース  ── OSSデータベース取り取り時報]]></title>
-        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0077</id>
-        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0077"/>
-        <updated>2022-01-06T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
-        <author>
-            <name>梶山隆輔，溝口則行</name>
         </author>
     </entry>
     <entry>
