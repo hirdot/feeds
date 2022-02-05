@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-05T10:09:29.838Z</updated>
+    <updated>2022-02-05T22:13:59.083Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dart Sass for Rails, Fiber-aware connection pool and more!]]></title>
+        <id>https://rubyonrails.org/2022/2/5/this-week-in-rails-dart-sass-for-rails-fiber-aware-connection-pool-and-more-51b0bf31</id>
+        <link href="https://rubyonrails.org/2022/2/5/this-week-in-rails-dart-sass-for-rails-fiber-aware-connection-pool-and-more-51b0bf31"/>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Greg and Robin, bringing you the latest news from the Rails world. Dart Sass for Rails As Ruby Sass has been deprecated a long time ago and since Webpacker has been retired, a new gem that wraps the standalone executable version of the Dart version of Sass has been released and makes it easy to use Sass stylesheets with Rails 7. Add ActiveSupport::TestCase#stub_const As some sort of syntax sugar, a new #stub_const method has been added to easily change the value of a constant for the duration of a block, silencing warnings. The implementation is not thread-safe if you have parallel testing enabled though. Improve error message using #associated with no reflection Using where.associated with a missing association used to raise a cryptic error message; this has now been improved with a much clearer message. Optimize Object#instance_values The performance of as_json  have been improved by using Array#to_h instead of Hash::[] and freezing the strings so Hash#[] doesn’t have to dup them. Another patch has also been merged to reduce the number of allocations done calling this method. Improve ActiveModel::Name#human performance Other performance improvements have been made on model name translation when a translation is missing. The trick here is pretty simple: caching. Another patch that improves performances on #human_attribute_name has been merged as well. Expand documentation on bi-directional associations As we are continuously learning, we might forget how it felt when we begun. This pull request improves documentation on bi-directional associations with some concrete examples that might be useful for new learners. Lovely! Make ActiveRecord::ConnectionPool Fiber-safe Last but not least, the Active Record connection pool is now fiber-safe. It now honors the value of your config.active_support.isolation_level to either rely on threads or fibers. This should give you better throughput on fiber-oriented servers like Falcon. Since last time, 38 people contributed to Rails. As usual, there’s too much changes to cover them but you can check out all of these here. Until next time!]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NECが倉庫ロボ向け制御技術、専用通路なしで効率2倍に]]></title>
         <id>https://www.technologyreview.jp/?p=268219</id>
@@ -3572,187 +3582,6 @@
         <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が IPv6 をサポートしたことにより、お客様は Kubernetes 上のコンテナ型アプリケーションをプライベート IPv4 アドレス空間の限界をはるかに超えてスケールし、最小限の複雑さで高いネットワーク帯域幅を実現することが可能になりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を発表]]></title>
-        <id>0f05881012c04e912e99d228b77a442204913a78</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/"/>
-        <updated>2022-01-07T09:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift 向け AWS Data Exchange を一般的にご利用いただけるようになりました。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけてサブスクライブし、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスをサブスクライバーに付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が履歴データの異常検出のサポートを開始]]></title>
-        <id>0092f2440b8e82ad93413c18748ac3f2ac564dc7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/"/>
-        <updated>2022-01-07T09:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) では、過去のデータの傾向、パターン、および季節性を特定するために、履歴データの機械学習ベースの異常検出をご利用いただけるようになりました。履歴データの異常検出により、お客様は、過去のデータから貴重なインサイトを導き出し、アプリケーションの全体的な効率を向上させるための適切なアクションを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) のサポートを開始]]></title>
-        <id>57f3661a4ff839367e0a4553b3d4c4a7cd13c3e8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/"/>
-        <updated>2022-01-07T09:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) をサポートするようになりました。Oracle Database 12.1 の 2021 年 10 月のパスセットアップデート (PSU) がまもなくリリースされます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR on EKS が AWS Graviton ベースの EC2 インスタンス用にカスタマイズされたコンテナイメージのサポートを追加]]></title>
-        <id>088970c4cf757790b901a19dbe8d60fa41f6868a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/"/>
-        <updated>2022-01-07T09:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR on EKS はカスタムイメージ (Amazon EMR on EKS で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。今後は、カスタムイメージ機能を使用して、AWS Graviton ベースのインスタンスのコンテナイメージをカスタマイズできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR on EKS が、デバッグを簡素化するために DescribeJobRun API 応答にエラーメッセージの詳細を追加]]></title>
-        <id>53bb8b83a0c17b4db41a5b2f565402e0fdebe12d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/"/>
-        <updated>2022-01-07T09:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR on EKS は、DescribeJobRun API の一部として追加のエラーメッセージを提供するようになりました。これにより、失敗したジョブを簡単にデバッグすることが可能となります。このリリースでは、EMR on EKS は、DescribeJobRun API 応答の状態の詳細で、詳細なエラーメッセージ (該当するジョブの失敗の根本的な理由であると判断される情報) を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類は海洋環境の変化をどのように見てきたか？ MITTRの誌面から]]></title>
-        <id>https://www.technologyreview.jp/?p=264474</id>
-        <link href="https://www.technologyreview.jp/s/264474/from-the-archives-3/"/>
-        <updated>2022-01-07T07:49:30.000Z</updated>
-        <summary type="html"><![CDATA[今や、気候変動による海水面上昇は多くの人が知ることとなった。ここまで地球環境が悪化するまで、人類は何をしていたのだろうか。MITテクノロジーレビューの過去の記事を読み返すと、気候変動や海洋環境についての見方が時代によって変わっていることが分かる。]]></summary>
-        <author>
-            <name>MIT Technology Review Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7.0.1がリリースされました]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834"/>
-        <updated>2022-01-07T07:30:13.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails7.0.1_release_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Ruby on Rails 7.0.1がリリースされました。 Rails 7.0.1 has been released with support to Ruby 3.1 https://t.co/XIwUELdlFx &#8212; Ruby on Rails (@rails) January 6, 2022 リリース情報: Ruby on Rails — Rails 7.0.1 has been released 英語版Changelogの概要を見るにはGItHubのリリースタグ↓が便利です。v7.0.1タグの日付は日本時間の2022年01月07日08:59でした。 リリースタグ: Release 7.0.1 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834" data-wpel-link="internal" target="_self">Rails 7.0.1がリリースされました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS Proxy が 8 つの追加 AWS リージョンで利用可能に]]></title>
-        <id>e27f6ee3f9886a01cfff8b5fd4f24d17861d4061</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/"/>
-        <updated>2022-01-07T02:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) Proxy は、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (大阪)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 ( バーレーン)、および南米 (サンパウロ) の AWS リージョンでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Snowcone が AWS 欧州 (ロンドン) で利用可能に]]></title>
-        <id>28f57a5dacbd8d0df29e94da8ffc283365829273</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/"/>
-        <updated>2022-01-07T02:20:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Snowcone サービスは、AWS 欧州 (ロンドン) でお客様のご注文に対応できるようになりました。これにより、AWS アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (フランクフルト)、欧州 (アイルランド)、南米 (サンパウロ)、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ) など、既に Snowcone を提供しているリージョンのリストが拡充され、今後も利用可能なリージョンが追加される予定です。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ移行デバイスのうち、AWS Snow ファミリーの最も小さなメンバーです。Snowcone は、AWS 欧州 (ロンドン) で、ハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用いただけるようになりました。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れています。バックパックに収納可能な程度に小型かつ軽量であり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で、AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Logs がクロスアカウントサブスクリプションに関する AWS Organizations のサポートを発表]]></title>
-        <id>155f9dae32949ff2526b2383717b33c295d36036</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/"/>
-        <updated>2022-01-07T02:19:17.000Z</updated>
-        <summary type="html"><![CDATA[CloudWatch Logs により、AWS Organizations のお客様は、CloudWatch Logs サブスクリプションフィルターの送信先アクセスポリシーを簡単に管理できるようになりました。サブスクリプションフィルターは、Amazon Kinesis Data Streams、Amazon Kinesis Data Firehose、Amazon Lambda などのサービスにリアルタイムでログデータを配信できるようにする機能です。サブスクリプションフィルターは、ログデータを他の AWS アカウントと共有するためにも使用されます。これで、送信先アクセスポリシーで組織 ID または組織パスを使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management が、大規模なデプロイの成功率を向上させるためにジョブの自動再試行機能の提供を開始]]></title>
-        <id>672c1a9ae1fb5c9d0de5e9e7d081619fae638bd4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/"/>
-        <updated>2022-01-07T02:18:29.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Management ジョブは、新しいジョブ実行再試行構成をサポートするようになりました。これにより、デベロッパーは、失敗したジョブ実行を確実に自動再デプロイすることを通じて、大規模なデプロイの成功率を高めることができます。失敗したデバイスを手動で特定して再デプロイする代わりに、お客様は、再試行動作をトリガーする基準とともに、ジョブのロールアウトまたはデプロイごとに [Job Execution Retry Configuration] (ジョブ実行の再試行構成) で最大再試行回数を定義できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能に]]></title>
-        <id>2f321593e84a89d5d0cd1ec122735b1b71d57422</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/"/>
-        <updated>2022-01-07T02:17:34.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK ミーティングが AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>68671beb5830d11b50de34de2aad5fa81e1c5877</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-meetings-aws-govcloud-us-regions/"/>
-        <updated>2022-01-07T02:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を使用すると、デベロッパーは 1 対 1 のミーティングまたはグループ会議で、リアルタイムの音声、動画、および画面共有をウェブおよびモバイルアプリケーションに追加できます。Amazon Chime SDK ミーティングは、AWS GovCloud (米国) リージョンでご利用いただけるようになりました。AWS GovCloud (米国) リージョンでの提供開始により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、ワークロードをクラウドに移行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネージド型の監査およびセキュリティレイクである AWS CloudTrail Lake を発表]]></title>
-        <id>36e27a41183bccf6bc8dbb2730e7adbe1a2acb6c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/"/>
-        <updated>2022-01-07T02:15:55.000Z</updated>
-        <summary type="html"><![CDATA[AWS は、AWS CloudTrail Lake の一般提供を発表しました。これは、監査、セキュリティ調査、および運用のトラブルシューティングのためにアクティビティログを集約し、不変に保存して、クエリすることを可能にするマネージド型の監査およびセキュリティレイクです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「日本独自の量子コンピューターで革新的な社会を」東大 武田俊太郎]]></title>
-        <id>https://www.technologyreview.jp/?p=265966</id>
-        <link href="https://www.technologyreview.jp/s/265966/iu35-japan-summit-2021-shutaro-takeda/"/>
-        <updated>2022-01-07T02:03:46.000Z</updated>
-        <summary type="html"><![CDATA[MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、東京大学大学院の武田俊太郎氏のプレゼンテーションの内容を要約して紹介する。]]></summary>
-        <author>
-            <name>Koichi Motoda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB+DB PRESS Vol.125へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ]]></title>
-        <id>https://gihyo.jp/dev/serial/01/readers-forum/vol126</id>
-        <link href="https://gihyo.jp/dev/serial/01/readers-forum/vol126"/>
-        <updated>2022-01-07T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはこんにちは!! めっきり寒くなりましたね。秋や冬の夜長にはやっぱり読書がはかどります。そんなわけで自分はAmazonのセールでKindle Fireの8インチタブレットを買いました。]]></summary>
-        <author>
-            <name>はまちや2，竹原</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【書評】『データマネジメントが30分でわかる本』は本当に「30分でわかる」？ おすすめポイントは？]]></title>
-        <id>https://data.wingarc.com/?p=34613</id>
-        <link href="https://data.wingarc.com/data-management-in-30-minutes-34613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-management-in-30-minutes"/>
-        <updated>2022-01-06T23:00:40.000Z</updated>
-        <summary type="html"><![CDATA[データマネジメントについてイチから学びたい。データサイエンティスト・アナリストに限らず、営業、マーケターなど幅広い職種でデータの有用性を知り、そう考えている方は少なくないはずです。 そこで取り上げたいのが、2020年3月 […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7.0.1 has been released]]></title>
-        <id>https://rubyonrails.org/2022/1/6/Rails-7-0-1-has-been-released</id>
-        <link href="https://rubyonrails.org/2022/1/6/Rails-7-0-1-has-been-released"/>
-        <updated>2022-01-06T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone,]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>

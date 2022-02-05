@@ -13,6 +13,30 @@
 
 <body>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-02-05">2022-02-05</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://rubyonrails.org/">Ruby on Rails</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 357)</span>Dart Sass for Rails, Fiber-aware connection pool and more!
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://rubyonrails.org/2022/2/5/this-week-in-rails-dart-sass-for-rails-fiber-aware-connection-pool-and-more-51b0bf31" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Hi, this is Greg and Robin, bringing you the latest news from the Rails world. Dart Sass for Rails As Ruby Sass has been deprecated a long time ago and since Webpacker has been retired, a new gem that wraps the standalone executable version of the Dart version of Sass has been released and makes it easy to use Sass stylesheets with Rails 7. Add ActiveSupport::TestCase#stub_const As some sort of syntax sugar, a new #stub_const method has been added to easily change the value of a constant for the duration of a block, silencing warnings. The implementation is not thread-safe if you have parallel testing enabled though. Improve error message using #associated with no reflection Using where.associated with a missing association used to raise a cryptic error message; this has now been improved with a much clearer message. Optimize Object#instance_values The performance of as_json  have been improved by using Array#to_h instead of Hash::[] and freezing the strings so Hash#[] doesn’t have to dup them. Another patch has also been merged to reduce the number of allocations done calling this method. Improve ActiveModel::Name#human performance Other performance improvements have been made on model name translation when a translation is missing. The trick here is pretty simple: caching. Another patch that improves performances on #human_attribute_name has been merged as well. Expand documentation on bi-directional associations As we are continuously learning, we might forget how it felt when we begun. This pull request improves documentation on bi-directional associations with some concrete examples that might be useful for new learners. Lovely! Make ActiveRecord::ConnectionPool Fiber-safe Last but not least, the Active Record connection pool is now fiber-safe. It now honors the value of your config.active_support.isolation_level to either rely on threads or fibers. This should give you better throughput on fiber-oriented servers like Falcon. Since last time, 38 people contributed to Rails. As usual, there’s too much changes to cover them but you can check out all of these here. Until next time!</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-02-04">2022-02-04</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -5431,189 +5455,6 @@ The post Dockerfile: 非推奨化されたapt-keyを置き換える first appear
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 316)</span>Amazon Redshift 向け AWS Data Exchange を発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Redshift 向け AWS Data Exchange を一般的にご利用いただけるようになりました。これは、お客様が AWS Data Exchange でサードパーティーのデータを見つけてサブスクライブし、Amazon Redshift のデータウェアハウスで数分でクエリを実行できるようにする新機能です。データプロバイダーは、AWS Data Exchange カタログに Amazon Redshift データセットを含む製品をリストアップして提供し、Amazon Redshift に保存されたデータへの直接の読み取り専用アクセスをサブスクライバーに付与することができます。この機能により、お客様はこれらのサードパーティーのデータセットを使用して、迅速にアプリケーションをクエリ、分析、構築することができます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) が履歴データの異常検出のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon OpenSearch Service (Amazon Elasticsearch Service の後継サービス) では、過去のデータの傾向、パターン、および季節性を特定するために、履歴データの機械学習ベースの異常検出をご利用いただけるようになりました。履歴データの異常検出により、お客様は、過去のデータから貴重なインサイトを導き出し、アプリケーションの全体的な効率を向上させるための適切なアクションを実行できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 349)</span>Amazon RDS for Oracle が Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) をサポートするようになりました。Oracle Database 12.1 の 2021 年 10 月のパスセットアップデート (PSU) がまもなくリリースされます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 307)</span>Amazon EMR on EKS が AWS Graviton ベースの EC2 インスタンス用にカスタマイズされたコンテナイメージのサポートを追加
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon EMR on EKS はカスタムイメージ (Amazon EMR on EKS で Apache Spark アプリケーションを実行するために使用する Docker コンテナイメージをカスタマイズする機能) をサポートします。今後は、カスタムイメージ機能を使用して、AWS Graviton ベースのインスタンスのコンテナイメージをカスタマイズできるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 284)</span>Amazon EMR on EKS が、デバッグを簡素化するために DescribeJobRun API 応答にエラーメッセージの詳細を追加
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon EMR on EKS は、DescribeJobRun API の一部として追加のエラーメッセージを提供するようになりました。これにより、失敗したジョブを簡単にデバッグすることが可能となります。このリリースでは、EMR on EKS は、DescribeJobRun API 応答の状態の詳細で、詳細なエラーメッセージ (該当するジョブの失敗の根本的な理由であると判断される情報) を提供します。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 302)</span>Amazon RDS Proxy が 8 つの追加 AWS リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Relational Database Service (RDS) Proxy は、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (大阪)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 ( バーレーン)、および南米 (サンパウロ) の AWS リージョンでご利用いただけるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 349)</span>AWS Snowcone が AWS 欧州 (ロンドン) で利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Snowcone サービスは、AWS 欧州 (ロンドン) でお客様のご注文に対応できるようになりました。これにより、AWS アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (フランクフルト)、欧州 (アイルランド)、南米 (サンパウロ)、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (オレゴン)、米国西部 (サンフランシスコ) など、既に Snowcone を提供しているリージョンのリストが拡充され、今後も利用可能なリージョンが追加される予定です。AWS Snowcone は、エッジコンピューティング、エッジストレージ、およびデータ移行デバイスのうち、AWS Snow ファミリーの最も小さなメンバーです。Snowcone は、AWS 欧州 (ロンドン) で、ハードディスクドライブ (HDD) とソリッドステートドライブ (SSD) の両方でご利用いただけるようになりました。どちらのデバイスモデルも持ち運び可能で、耐久性と安全性に優れています。バックパックに収納可能な程度に小型かつ軽量であり、過酷な環境に耐えることができます。お客様は、Snowcone を使用してエッジでアプリケーションをデプロイし、データを収集してローカルで処理できます。また、デバイスを AWS に発送することによりオフラインで、または Snowcone で AWS DataSync を使用してネットワーク経由で、AWS にデータを送信することによりオンラインでそのデータを AWS に移動できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 291)</span>Amazon CloudWatch Logs がクロスアカウントサブスクリプションに関する AWS Organizations のサポートを発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>CloudWatch Logs により、AWS Organizations のお客様は、CloudWatch Logs サブスクリプションフィルターの送信先アクセスポリシーを簡単に管理できるようになりました。サブスクリプションフィルターは、Amazon Kinesis Data Streams、Amazon Kinesis Data Firehose、Amazon Lambda などのサービスにリアルタイムでログデータを配信できるようにする機能です。サブスクリプションフィルターは、ログデータを他の AWS アカウントと共有するためにも使用されます。これで、送信先アクセスポリシーで組織 ID または組織パスを使用できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 284)</span>AWS IoT Device Management が、大規模なデプロイの成功率を向上させるためにジョブの自動再試行機能の提供を開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS IoT Device Management ジョブは、新しいジョブ実行再試行構成をサポートするようになりました。これにより、デベロッパーは、失敗したジョブ実行を確実に自動再デプロイすることを通じて、大規模なデプロイの成功率を高めることができます。失敗したデバイスを手動で特定して再デプロイする代わりに、お客様は、再試行動作をトリガーする基準とともに、ジョブのロールアウトまたはデプロイごとに [Job Execution Retry Configuration] (ジョブ実行の再試行構成) で最大再試行回数を定義できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 313)</span>AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Single Sign-On が AWS GovCloud (米国東部) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 312)</span>Amazon Chime SDK ミーティングが AWS GovCloud (米国) リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-meetings-aws-govcloud-us-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Chime SDK を使用すると、デベロッパーは 1 対 1 のミーティングまたはグループ会議で、リアルタイムの音声、動画、および画面共有をウェブおよびモバイルアプリケーションに追加できます。Amazon Chime SDK ミーティングは、AWS GovCloud (米国) リージョンでご利用いただけるようになりました。AWS GovCloud (米国) リージョンでの提供開始により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、ワークロードをクラウドに移行できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 317)</span>マネージド型の監査およびセキュリティレイクである AWS CloudTrail Lake を発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS は、AWS CloudTrail Lake の一般提供を発表しました。これは、監査、セキュリティ調査、および運用のトラブルシューティングのためにアクティビティログを集約し、不変に保存して、クエリすることを可能にするマネージド型の監査およびセキュリティレイクです。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp/dev">gihyo.jp：DEVELOPER STAGE</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 383)</span>WEB+DB PRESS Vol.125へのお便り ── はまちちゃんとわかばちゃんのREADER&#x27;S FORUM―読者のページ
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/dev/serial/01/readers-forum/vol126" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>こんにちはこんにちは!! めっきり寒くなりましたね。秋や冬の夜長にはやっぱり読書がはかどります。そんなわけで自分はAmazonのセールでKindle Fireの8インチタブレットを買いました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://techracho.bpsinc.jp">TechRacho</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 351)</span>Rails 7.0.1がリリースされました
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://techracho.bpsinc.jp/hachi8833/2022_01_07/114834" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Ruby on Rails 7.0.1がリリースされました。 Rails 7.0.1 has been released with support to Ruby 3.1 https://t.co/XIwUELdlFx — Ruby on Rails (@rails) January 6, 2022 リリース情報: Ruby on Rails — Rails 7.0.1 has been released 英語版Changelogの概要を見るにはGItHubのリリースタグ↓が便利です。v7.0.1タグの日付は日本時間の2022年01月07日08:59でした。 リリースタグ: Release 7.0.1 […]
-The post Rails 7.0.1がリリースされました first appeared on TechRacho.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
           </section>
         </section>
       </li>
@@ -5636,80 +5477,11 @@ The post Rails 7.0.1がリリースされました first appeared on TechRacho.<
           </section>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.technologyreview.jp">MITテクノロジーレビュー</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 707)</span>人類は海洋環境の変化をどのように見てきたか？ MITTRの誌面から
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/s/264474/from-the-archives-3/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>今や、気候変動による海水面上昇は多くの人が知ることとなった。ここまで地球環境が悪化するまで、人類は何をしていたのだろうか。MITテクノロジーレビューの過去の記事を読み返すと、気候変動や海洋環境についての見方が時代によって変わっていることが分かる。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 687)</span>「日本独自の量子コンピューターで革新的な社会を」東大 武田俊太郎
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/s/265966/iu35-japan-summit-2021-shutaro-takeda/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、東京大学大学院の武田俊太郎氏のプレゼンテーションの内容を要約して紹介する。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-06">2022-01-06</time></h2>
     <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://data.wingarc.com">データで越境者に寄り添うメディア データのじかん</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 441)</span>【書評】『データマネジメントが30分でわかる本』は本当に「30分でわかる」？ おすすめポイントは？
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://data.wingarc.com/data-management-in-30-minutes-34613?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;data-management-in-30-minutes" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>データマネジメントについてイチから学びたい。データサイエンティスト・アナリストに限らず、営業、マーケターなど幅広い職種でデータの有用性を知り、そう考えている方は少なくないはずです。 そこで取り上げたいのが、2020年3月 […]</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://rubyonrails.org/">Ruby on Rails</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 217)</span>Rails 7.0.1 has been released
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://rubyonrails.org/2022/1/6/Rails-7-0-1-has-been-released" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Hi everyone,</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.suzukikenichi.com/blog">海外SEO情報ブログ</a></h3>
