@@ -3456,33 +3456,6 @@
           "publishedOn": "2022-01-10T21:17:00.000Z",
           "wordCount": 339,
           "title": "Amazon EC2 AMD インスタンスがアジアパシフィック (ムンバイ) AWS リージョンで利用可能に"
-        },
-        {
-          "id": "a0bedf03d06963135a0d7650847c44785f649646",
-          "author": "aws@amazon.com",
-          "description": "本日より、SAML 2.0 属性アサーションに基づいて、Amazon AppStream 2.0 スタック内の特定のアプリケーションへのアクセスを制御できます。さらに、SAML 2.0 フェデレーティッドユーザー ID は、単一の SAML 2.0 サービスプロバイダー (SP) アプリケーションから複数の AppStream 2.0 スタックにアクセスできます。これまで、各スタックには、SAML 2.0 ID プロバイダー (IdP) で設定された個別のサービスプロバイダーアプリケーションが必要でした。これらの機能により、AppStream スタックへのアクセスコントロールを合理化し、アプリケーションのアクセス制限のために維持する必要のあるフリートとイメージの数を減らすことができます。例えば、単一の AppStream 2.0 スタックにリレーする IdP 内の単一の SAML 2.0 SP アプリケーションから、あるグループに属するユーザーにあるアプリケーションのセットについての使用権限を付与し、別のグループに別のアプリケーションのセットについての使用権限を付与することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/",
-          "publishedOn": "2022-01-10T20:34:38.000Z",
-          "wordCount": 347,
-          "title": "Amazon AppStream 2.0 が SAML 2.0 フェデレーティッドユーザー ID 向けにアプリケーションエンタイトルメントの提供を開始"
-        },
-        {
-          "id": "40971cea75d5b935685a46aa7fbe5a6e245f8f7b",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Core for LoRaWAN は、AWS IoT Core のフルマネージド LoRaWAN ネットワークサーバー (LNS) であり、お客様が低電力の長距離広域ネットワーク (LoRaWAN) テクノロジーを使用してワイヤレスデバイスを AWS クラウドに接続できるようにします。現在、AWS IoT Core for LoRaWAN は、 Downlink Queue Management と Network Analyzer の 2 つの新機能をサポートしており、お客様がデバイスとクラウド間の通信を管理およびモニタリングするのに役立ちます。Downlink Message Management 機能を使用することで、お客様は、ダウンリンクメッセージをスケジュール、削除、さらには消去できます。また、Network Analyzer は、メッセージをモニタリングし、アップリンクまたはダウンリンクイベントに関連する問題のトラブルシューティングに役立てるために使用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/",
-          "publishedOn": "2022-01-10T20:32:43.000Z",
-          "wordCount": 337,
-          "title": "AWS IoT Core for LoRaWAN がデバイスとクラウド間の通信を管理およびモニタリングするための 2 つの新機能を発表"
-        },
-        {
-          "id": "ea15db8d5698844036ff35923ce7fdecddc69ef1",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Elastic Container Registry (ECR) は、Amazon CloudWatch を介してリポジトリプル統計をモニタリングする機能の提供を開始しました。新しいプル統計は、リポジトリごとにイメージプルリクエストを監視することで、使用パターンをモニタリングしたり、異常な動作を特定したりするのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/",
-          "publishedOn": "2022-01-10T20:31:35.000Z",
-          "wordCount": 255,
-          "title": "Amazon ECR がリポジトリプル統計をモニタリングする機能を追加"
         }
       ]
     },
