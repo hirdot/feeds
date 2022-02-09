@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-09T09:10:17.638Z</updated>
+    <updated>2022-02-09T10:11:21.499Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週刊Railsウォッチ: Rubygems.orgのAPIキーに権限スコープが追加、RailsのDBパフォーマンス改善ほか（20220209後編）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452"/>
+        <updated>2022-02-09T09:36:15.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/02/railswatch_20220209_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Rubygems.orgのAPIキーに権限スコープが追加、RailsのDBパフォーマンス改善ほか（20220209後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年2月9日　StarlingX ―OpenStackの流れを汲むエッジコンピューティングのオープンソースプラットフォーム ── Linux Daily Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/linux_dt/202202/09</id>
@@ -3922,26 +3933,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[EC サイトで品切れになった商品のページはランキングに悪い影響を与えるのでしょうか？]]></summary>
         <author>
             <name>Kenichi Suzuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton2 を搭載した Amazon EC2 M6gd および C6gd インスタンスが追加のリージョンで利用可能に]]></title>
-        <id>6abe632a9e8d39a84fc91d0a7483996cdd411780</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/"/>
-        <updated>2022-01-10T21:17:47.000Z</updated>
-        <summary type="html"><![CDATA[本日より、中東地域（バーレーン）において、コンピューティングに最適化されたAmazon EC2 C6gインスタンスの提供を開始しました。用途: 高性能コンピューティング、ビデオエンコーディング、ゲーミング、CPU ベースの機械学習推論アクセラレータなど、コンピューティング集約型アプリケーション。また、ローカルNVMeベースのSSDストレージを搭載しメモリ用に最適化されているAmazon EC2 R6gdインスタンスは、アジア太平洋地域（ムンバイ）、カナダ（セントラル）、ヨーロッパ（パリ）でご利用いただけます。 R6gdインスタンスは、同等のx86ベースのインスタンスと比較して、NVMeストレージGB/vCPUが最大50%増加しており、高速かつ低遅延のストレージへのアクセスを必要とするアプリケーションや、バッチ処理やログ処理などのデータの一時保存、高速キャッシュやスクラッチファイルなどの用途に理想的です。Amazon EC2 C6gおよびR6gdインスタンスは、AWS Graviton2プロセッサを搭載しており、EC2において最高の価格パフォーマンスを実現します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 AMD インスタンスがアジアパシフィック (ムンバイ) AWS リージョンで利用可能に]]></title>
-        <id>2ddfb5d52da5f68ea991653962695c0e2cd3d7e4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/"/>
-        <updated>2022-01-10T21:17:00.000Z</updated>
-        <summary type="html"><![CDATA[今日から Amazon EC2 M5a、M5ad、R5a、R5ad、T3a インスタンスがアジアパシフィック (ムンバイ) リージョンで使用できます。コンピューティング、メモリ、ストレージ、およびネットワークリソースのバランスを提供するように設計されている M6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーを組み合わせた AWS Nitro System で構築されます。これは、ホストハードウェアのコンピューティングリソースおよびメモリリソースを実質的にすべてお客様のインスタンスに提供します。これらのインスタンスは SAP 認定を受けており、ウェブサーバー、アプリケーションサーバー、エンタープライズアプリケーションをサポートするバックエンドサーバー (Microsoft Exchange Server、SharePoint Server、SAP Business Suite、MySQL、Microsoft SQL Server、PostgreSQL データベースなど)、ウェブサーバー、マイクロサービス、マルチプレーヤーゲームサーバー、キャッシュフリートなどのワークロードや、アプリケーション開発環境に最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>

@@ -1695,6 +1695,15 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/02/railswatch_20220209_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Rubygems.orgのAPIキーに権限スコープが追加、RailsのDBパフォーマンス改善ほか（20220209後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452",
+          "publishedOn": "2022-02-09T09:36:15.000Z",
+          "wordCount": 675,
+          "title": "週刊Railsウォッチ: Rubygems.orgのAPIキーに権限スコープが追加、RailsのDBパフォーマンス改善ほか（20220209後編）"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_02_08/115441",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/02/railswatch_20220208_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 つっつきボイス:「このSUSEのYouTubeチャネルがめちゃくちゃ面白い↓」「お〜、英語の替え歌がどっさりですね」「映像も凝っていてクォリティが半端ない」 SUSE (openSUSEとかのとこ) のオフィシャルYouTubeチャネルが異常であることが判明しつつあり、こういうMVが無限にある、しかし不当に再生数が少ない https://t.co/hvx7Wjvrxk &#8212; moznion (@moznion) February 2, 2022 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_02_08/115441\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Rails 6.1を7.0にアップグレードしてみた、PostgreSQLでジョブキューほか（20220208前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -3438,24 +3447,6 @@
           "publishedOn": "2022-01-11T11:31:04.000Z",
           "wordCount": 337,
           "title": "AWS Firewall Manager は、AWS Shield Advanced の自動アプリケーションレイヤー DDoS 緩和策のサポートを開始"
-        },
-        {
-          "id": "6abe632a9e8d39a84fc91d0a7483996cdd411780",
-          "author": "aws@amazon.com",
-          "description": "本日より、中東地域（バーレーン）において、コンピューティングに最適化されたAmazon EC2 C6gインスタンスの提供を開始しました。用途: 高性能コンピューティング、ビデオエンコーディング、ゲーミング、CPU ベースの機械学習推論アクセラレータなど、コンピューティング集約型アプリケーション。また、ローカルNVMeベースのSSDストレージを搭載しメモリ用に最適化されているAmazon EC2 R6gdインスタンスは、アジア太平洋地域（ムンバイ）、カナダ（セントラル）、ヨーロッパ（パリ）でご利用いただけます。 R6gdインスタンスは、同等のx86ベースのインスタンスと比較して、NVMeストレージGB/vCPUが最大50%増加しており、高速かつ低遅延のストレージへのアクセスを必要とするアプリケーションや、バッチ処理やログ処理などのデータの一時保存、高速キャッシュやスクラッチファイルなどの用途に理想的です。Amazon EC2 C6gおよびR6gdインスタンスは、AWS Graviton2プロセッサを搭載しており、EC2において最高の価格パフォーマンスを実現します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/",
-          "publishedOn": "2022-01-10T21:17:47.000Z",
-          "wordCount": 488,
-          "title": "AWS Graviton2 を搭載した Amazon EC2 M6gd および C6gd インスタンスが追加のリージョンで利用可能に"
-        },
-        {
-          "id": "2ddfb5d52da5f68ea991653962695c0e2cd3d7e4",
-          "author": "aws@amazon.com",
-          "description": "今日から Amazon EC2 M5a、M5ad、R5a、R5ad、T3a インスタンスがアジアパシフィック (ムンバイ) リージョンで使用できます。コンピューティング、メモリ、ストレージ、およびネットワークリソースのバランスを提供するように設計されている M6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーを組み合わせた AWS Nitro System で構築されます。これは、ホストハードウェアのコンピューティングリソースおよびメモリリソースを実質的にすべてお客様のインスタンスに提供します。これらのインスタンスは SAP 認定を受けており、ウェブサーバー、アプリケーションサーバー、エンタープライズアプリケーションをサポートするバックエンドサーバー (Microsoft Exchange Server、SharePoint Server、SAP Business Suite、MySQL、Microsoft SQL Server、PostgreSQL データベースなど)、ウェブサーバー、マイクロサービス、マルチプレーヤーゲームサーバー、キャッシュフリートなどのワークロードや、アプリケーション開発環境に最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/",
-          "publishedOn": "2022-01-10T21:17:00.000Z",
-          "wordCount": 339,
-          "title": "Amazon EC2 AMD インスタンスがアジアパシフィック (ムンバイ) AWS リージョンで利用可能に"
         }
       ]
     },
