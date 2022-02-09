@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-09T10:11:21.499Z</updated>
+    <updated>2022-02-09T22:10:06.588Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ抗体、接種後3カ月で半減＝東北大が3000人対象調査]]></title>
+        <id>https://www.technologyreview.jp/?p=268576</id>
+        <link href="https://www.technologyreview.jp/s/268576/antibody-levels-of-novel-coronavirus-coronavirus-halved-in-3-months-after-vaccination/"/>
+        <updated>2022-02-09T21:29:27.000Z</updated>
+        <summary type="html"><![CDATA[東北大学東北メディカル・メガバンク機構が2021年7月から11月に、約3000人を対象に新型コロナウイルス（SARS-CoV-2）の抗体量を測定したところ、2回目のワクチン接種の翌月以降に実施した検査ではほぼ全員が抗体陽 …]]></summary>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロボットとAIを組み合わせて燃料電池の材料開発を効率化＝東大]]></title>
+        <id>https://www.technologyreview.jp/?p=268565</id>
+        <link href="https://www.technologyreview.jp/s/268565/robots-and-ai-streamline-the-work-of-developing-materials-for-fuel-cells/"/>
+        <updated>2022-02-09T21:12:25.000Z</updated>
+        <summary type="html"><![CDATA[東京大学などの研究チームは、燃料電池などのものづくりの核になる粉体膜乾燥プロセスを、人工知能（AI）とロボットを組み合わせることで、より少ない試行回数で最適化する手法を開発し、実証実験で新しい加熱方法を発見した。ロボット …]]></summary>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インテル、オープンな命令セットを推進する「RISC-V 」に最高位メンバーとして加盟。RISC-VベースのFPGAチップも提供開始など、RISC-Vへのコミットを明確に]]></title>
+        <id>https://www.publickey1.jp/blog/22/risc-v_risc-vfpgarisc-v.html</id>
+        <link href="https://www.publickey1.jp/blog/22/risc-v_risc-vfpgarisc-v.html"/>
+        <updated>2022-02-09T15:30:38.000Z</updated>
+        <summary type="html"><![CDATA[プロセッサのオープンな命令セットを推進する団体「RISC-V International」は、同団体の最高位メンバーであるプレミアメンバーシップとして米インテルが加盟することを発表しました。 これに伴い、Intel Foundryのバイスプ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: Rubygems.orgのAPIキーに権限スコープが追加、RailsのDBパフォーマンス改善ほか（20220209後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_02_09/115452</id>
@@ -3860,69 +3890,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[AWS Firewall Manager では、組織内のアカウント全体に AWS Shield Advanced の自動アプリケーションレイヤー (L7) DDoS 保護を一元的にデプロイできるようになりました。 AWS Shield Advanced の自動 L7 DDoS 保護は、アプリケーションレイヤー DDoS イベントをブロックし、手動での介入は必要ありません。今回のリリースにより、AWS Firewall Manager のセキュリティ管理者は、AWS Shield Advanced の Firewall Manager セキュリティポリシーを使用して、アカウント間で自動的に L7 DDoS 保護を有効にすることができるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dockerfile: 非推奨化されたapt-keyを置き換える]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803"/>
-        <updated>2022-01-11T10:00:36.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/docker_remove_deprecated_apt-key_eyecatch-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>docker-composeでビルド中に以下のwarningが表示されているのに気づきました。 #5 65.11 Warning: apt-key output should not be parsed (stdout is not a terminal) warning自体はさほど気にすることはなさそうです。 参考: Reduce Docker container build warnings ついでにapt-keyについて調べてみると、apt-keyが非推奨化されていることを知りました。 以下は私が使っているDockerfileの抜粋です。PostgreSQLとYarnのインストールで使う認証キーを取得する部 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_11/114803" data-wpel-link="internal" target="_self">Dockerfile: 非推奨化されたapt-keyを置き換える</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盛り上がるeサイクリング、「お隣さん」が世界王者になる？]]></title>
-        <id>https://www.technologyreview.jp/?p=266176</id>
-        <link href="https://www.technologyreview.jp/s/266176/competitive-e-cycling-lets-you-be-a-champion-from-your-apartment/"/>
-        <updated>2022-01-11T07:30:41.000Z</updated>
-        <summary type="html"><![CDATA[パンデミックを機に、バーチャル世界でのサイクリングレースがブームになっている。eサイクリングのトップライダーたちは現在、2月26日に開催される第2回目の世界選手権に向けて準備を進めている。アパートの部屋で一人孤独に、懸命に漕ぐ選手が世界王者になるかもしれない。]]></summary>
-        <author>
-            <name>Chris Baraniuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーティクル: KivaKitフレームワークの紹介]]></title>
-        <id>https://www.infoq.com/jp/articles/introducing-kivakit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/articles/introducing-kivakit/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-01-11T07:18:00.000Z</updated>
-        <summary type="html"><![CDATA[今回の記事では、オープンソースのJavaマイクロサービスアプリケーションフレームワークであるKivaKitを簡単に紹介します。KivaKitは共同動作するように設計されたミニフレームワークの集合体です。各ミニフレームワークの詳細はhttps://www.kivakit.orgの他、Jonathan Locke氏のブログ"State of the Art"にも記載されています。
- By Jonathan Locke  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Jonathan Locke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「生物多様性を守る取り組みをビジネスに」バイオーム 藤木庄五郎]]></title>
-        <id>https://www.technologyreview.jp/?p=266252</id>
-        <link href="https://www.technologyreview.jp/s/266252/iu35-japan-summit-2021-shogoro-fujiki/"/>
-        <updated>2022-01-11T06:23:33.000Z</updated>
-        <summary type="html"><![CDATA[MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、バイオーム　藤木庄五郎氏のプレゼンテーションの内容を要約して紹介する。]]></summary>
-        <author>
-            <name>Koichi Motoda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「テクノロジーによる計測でごみ問題を解決」ピリカ 小嶌不二夫]]></title>
-        <id>https://www.technologyreview.jp/?p=266246</id>
-        <link href="https://www.technologyreview.jp/s/266246/iu35-japan-summit-2021-fujio-kojima/"/>
-        <updated>2022-01-11T05:26:29.000Z</updated>
-        <summary type="html"><![CDATA[MITテクノロジーレビュー主催の「Innovators Under 35 Japan Summit 2021」から、ピリカの小嶌不二夫氏のプレゼンテーションの内容を要約して紹介する。]]></summary>
-        <author>
-            <name>Koichi Motoda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーティクル: Microservices — 字義と精神]]></title>
-        <id>https://www.infoq.com/jp/articles/microservices-concepts-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/articles/microservices-concepts-patterns/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-01-11T05:21:00.000Z</updated>
-        <summary type="html"><![CDATA[「分離サービス」のパターンになるマイクロサービスは、パターンを理解 (「スモール」と「分離」) し、開発者が目的と一致する特定の設計上の決定を行うことで、最大限に活用することができました。記事では、適切な実装と不十分な実装について説明します。「スモールサービス」と「分離サービス」または「字義 (Letter)」と「精神 (Spirit)」です。
- By Alaa Tadmori  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Alaa Tadmori</name>
         </author>
     </entry>
     <entry>
