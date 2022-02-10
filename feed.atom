@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-09T22:10:06.588Z</updated>
+    <updated>2022-02-10T00:41:23.509Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年2月第2週　Android 12Lが起爆剤？ 選択肢が増えたAndroidタブレット ── Android Weekly Topics]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/awt/202202/10</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202202/10"/>
+        <updated>2022-02-10T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[2022年2月第2週のAndroid関連のニュースをお届けします。]]></summary>
+        <author>
+            <name>傍島康雄</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なかなか進まない女性の社会進出。ボトルネックとなるのは非正規雇用比率の高さと役員比率の低さにある！]]></title>
+        <id>https://data.wingarc.com/?p=31885</id>
+        <link href="https://data.wingarc.com/women-in-society-31885?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=women-in-society"/>
+        <updated>2022-02-09T23:00:07.000Z</updated>
+        <summary type="html"><![CDATA[様々な場面で女性の社会進出が叫ばれていますが、実際には、女性が男性と同じようにイニシアティブを持って、経済や政治の課題に取り組める、という環境はまだまだ少ないもの。 特に、日本国内では主要国と比較した場合に、経済や政治の […]]]></summary>
+        <author>
+            <name>大藤 ヨシヲ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナ抗体、接種後3カ月で半減＝東北大が3000人対象調査]]></title>
         <id>https://www.technologyreview.jp/?p=268576</id>
@@ -3860,36 +3880,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[調査会社のSynergy Research Groupは、2021年におけるエンタープライズIT市場の売り上げランキング「2021 Review – Microsoft and Amazon Dominate IT Vendor Reven...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server は、SSAS 多次元のサポートを開始]]></title>
-        <id>626fd427b5757ace81ee17308cf693cff299d136</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/"/>
-        <updated>2022-01-11T11:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for SQL Server は、多次元モードで SQL Server Analysis Services (SSAS) のサポートを開始しました。Amazon RDS for SQL Server DB インスタンスに、SSAS を直接インストールするための追加費用は発生しません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMR Studio は、JupyterLab v3.1.4 にアップグレードしました。]]></title>
-        <id>4d79000101fdd3992a57424f596ad24dd2753a1a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/"/>
-        <updated>2022-01-11T11:32:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。EMR Studio では、JupyterLab をベースにしたフルマネージドノートブックを利用できます。JupyterLab は、オープンソース Project Jupyter の次世代ウェブベースでのユーザーインターフェイスです。本日、EMR Studio は JupyterLab v3.1.4 にアップグレードし、向上したユーザーエクスペリエンスと新しいユーザビリティ機能を提供することをお知らせいたします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Firewall Manager は、AWS Shield Advanced の自動アプリケーションレイヤー DDoS 緩和策のサポートを開始]]></title>
-        <id>309ecaa18f69ffd3ba32642a18fe8449803e5c3c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/"/>
-        <updated>2022-01-11T11:31:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Firewall Manager では、組織内のアカウント全体に AWS Shield Advanced の自動アプリケーションレイヤー (L7) DDoS 保護を一元的にデプロイできるようになりました。 AWS Shield Advanced の自動 L7 DDoS 保護は、アプリケーションレイヤー DDoS イベントをブロックし、手動での介入は必要ありません。今回のリリースにより、AWS Firewall Manager のセキュリティ管理者は、AWS Shield Advanced の Firewall Manager セキュリティポリシーを使用して、アカウント間で自動的に L7 DDoS 保護を有効にすることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
