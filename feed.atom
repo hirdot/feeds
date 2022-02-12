@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-12T10:10:20.302Z</updated>
-    <generator>osmosfeed 1.12.0</generator>
+    <updated>2022-02-12T22:09:38.206Z</updated>
+    <generator>osmosfeed 1.12.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
     <entry>
@@ -3612,69 +3612,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[Linuxカーネルのソースコードを変更することなく、カーネルの持つさまざまな機能をフックすることでカーネルに対してプラグインのように機能拡張を実現する技術「eBPF」が、昨年から急速に注目されはじめています。 参考：Google、Faceb...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubyの整数オーバーフローチェックを「スタンプ」で一掃する（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_14/112612</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_14/112612"/>
-        <updated>2022-01-14T08:30:48.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/10/ruby_stamping_out_overflow_checks_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Stamping Out Overflow Checks in Ruby 原文公開日: 2021/09/26 原著者: Chris Seaton 本記事ではstampの仮訳を「スタンプ」としています。またmaskingを「ビットマスク」としています。 型（type）とスタンプ（stamp）は一般に互いに近い関係にある言葉です。 Rubyの整数オーバーフローチェックを「スタンプ」で一掃する（翻訳） Rubyで整数演算のオーバーフロー（桁あふれ）チェックをオフにすることは可能かという質問をRedditで見かけました。質問者は、自分たちの演算がオーバーフローし [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_14/112612" data-wpel-link="internal" target="_self">Rubyの整数オーバーフローチェックを「スタンプ」で一掃する（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbnbはコラボレーティブホスティングのための統合アーキテクチャで開発プロセスを効率化]]></title>
-        <id>https://www.infoq.com/jp/news/2022/01/airbnb-unified-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/01/airbnb-unified-architecture/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-01-14T07:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Airbnbは最近、コラボレーションホスティング向けの統合アーキテクチャをどのように設計・構築したかについて詳しく説明した。このアーキテクチャによって新製品の開発プロセスが効率化される。エンジニアがすべてのホスティングユースケースをカバーする1つの中央フレームワークについて知るだけでよいためである。このフレームワークによって、特定のタイプのコラボレーションホスティングがカプセル化され、エンジニアがそのことを気にする必要がなくなる。
- By Eran Stiller  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Eran Stiller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QCon PlusからAPIアーキテクチャトラックの総括]]></title>
-        <id>https://www.infoq.com/jp/news/2022/01/api-architecture-qcon-plus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/01/api-architecture-qcon-plus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-01-14T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[QCon PlusのAPIアーキテクチャトラックには、APIを設計、構築、保守するソフトウェアエンジニアとアーキテクトに関連するトピックについて話し合う6人のスピーカーとパネリストが参加した。このトラックでは、拡張性やAPIライフサイクルなどの幅広い概念を取り上げ、REST、GraphQL、gRPCの対決を取り上げて、APIを構築するときに使用するのに最適なテクノロジーを決定した。
- By Thomas Betts  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Thomas Betts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS マネジメントコンソールで新しいコンソールホームを発表]]></title>
-        <id>436a8f1d9bb3090cf459bd427a81a8028a0a32b7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/console-home-aws-management-console/"/>
-        <updated>2022-01-14T01:55:59.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS マネジメントコンソール用のカスタマイズ可能なホームページである新しいコンソールホームの提供を開始しました。これは、お客様が必要な情報にアクセスするための単一の場所を提供するものです。新しいコンソールホームでは、ウィジェットを追加、削除、および再配置することで、コンソールホームのエクスペリエンスをカスタマイズできます。また、一部のウィジェットでは、簡単な要約を表示する通常のビューと、より包括的な概要を表示する拡張ビューのいずれかをお選びいただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年1月14日号　“ubuntu-advantage-desktop-daemon”，2GB Raspberry Pi 4でのデスクトップ ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202201/14</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202201/14"/>
-        <updated>2022-01-14T01:04:00.000Z</updated>
-        <summary type="html"><![CDATA[「次の」Ubuntuの姿として，もしかすると関連のある新しいユーティリティの準備が進められています。「ubuntu-advantage-desktop-daemon」と呼ばれる小さなアプリケーションです。]]></summary>
-        <author>
-            <name>吉田史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[何を学んだかではなくこれから何を学ぶかが重要！？ Googleがロールモデルとする「ラーニングアニマル」とはどんな人たち？]]></title>
-        <id>https://data.wingarc.com/?p=35503</id>
-        <link href="https://data.wingarc.com/learning-animals-35503?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=learning-animals"/>
-        <updated>2022-01-13T23:00:30.000Z</updated>
-        <summary type="html"><![CDATA[市場価値を高めるために、プログラミング、英語、Excelなど専門性の高いスキルを身につけたいと考えている方は多いでしょう。 しかし、単に「スペシャリストになること」を目的とするのは、少なくともGoogleでは求められてい […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
         </author>
     </entry>
     <entry>
