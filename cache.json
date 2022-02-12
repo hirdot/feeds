@@ -3276,42 +3276,6 @@
           "publishedOn": "2022-01-14T01:55:59.000Z",
           "wordCount": 277,
           "title": "AWS マネジメントコンソールで新しいコンソールホームを発表"
-        },
-        {
-          "id": "fc3ff5e0589ffd62f2520867015f08d4798da409",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift Spectrum を使用して、Amazon S3 データレイクをクエリする際に、外部テーブルのカスタムデータ検証ルールを特定することができるようになりました。この機能強化により、Redshift Spectrum が、サポートされていないUTF-8 文字や数値のオーバーフローなど、予期せぬ値を含むデータを外部テーブルで処理する方法を制御できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/",
-          "publishedOn": "2022-01-13T14:30:59.000Z",
-          "wordCount": 264,
-          "title": "Amazon Redshift Spectrum がカスタムデータ検証ルールを提供"
-        },
-        {
-          "id": "f4d10872d4da2e4d73ceb9db962ae25cd59a5d81",
-          "author": "aws@amazon.com",
-          "description": "本日、アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供を発表します。お客様は、これらの新しい Local Zones を使用して、これらの 3 つの都市圏のエンドユーザーまたはオンプレミスインストールに 1 桁ミリ秒のレイテンシーを必要とするアプリケーションを提供できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/",
-          "publishedOn": "2022-01-13T14:24:59.000Z",
-          "wordCount": 301,
-          "title": "アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供の発表"
-        },
-        {
-          "id": "d98212f77ce0c213311896e8bb68b5fee924334f",
-          "author": "aws@amazon.com",
-          "description": "AWS Launch Wizard は、SQL Server デプロイ完了時に、AWS Service Catalog 製品を作成するようになりました。そして、AWS Service Catalog 製品を使用して、EC2 で SQL Server を繰り返しデプロイできます。この機能により、その後の SQL Server デプロイは簡素化され、関連する設定スクリプトを再利用することで時間を節約して、既存の DevOps ツールとの統合が容易になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/",
-          "publishedOn": "2022-01-13T14:18:59.000Z",
-          "wordCount": 326,
-          "title": "AWS Launch Wizard に Microsoft SQL Server デプロイ対応の AWS Service Catalog 統合を追加"
-        },
-        {
-          "id": "edb5c7cde3946b3cc0c0fc4ce892260102b843ad",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio Workspace の機能として、SQL Explorer をご紹介します。この機能により、EMR Studio からデータカタログを参照し、EMR クラスターに対して SQL クエリを実行することができます。本リリースの SQL Explorer in EMR Studio は、Prestoバージョン 0.254.1 以降を実行している EC2 クラスター上の Amazon EMR における SQL クエリの実行をサポートしています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/",
-          "publishedOn": "2022-01-13T14:00:59.000Z",
-          "wordCount": 341,
-          "title": "SQL Explorer in EMR Studio の紹介"
         }
       ]
     },

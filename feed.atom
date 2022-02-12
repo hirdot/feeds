@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-12T01:59:27.078Z</updated>
+    <updated>2022-02-12T02:39:23.791Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3725,46 +3725,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[Amazon Web Services（AWS）は、サーバレスコンピューティング基盤として提供しているAWS Lambdaで、Node.js 14のランタイムにおいてJavaScriptのモジュール機能であるES Modulesのサポートを...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift Spectrum がカスタムデータ検証ルールを提供]]></title>
-        <id>fc3ff5e0589ffd62f2520867015f08d4798da409</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/"/>
-        <updated>2022-01-13T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Redshift Spectrum を使用して、Amazon S3 データレイクをクエリする際に、外部テーブルのカスタムデータ検証ルールを特定することができるようになりました。この機能強化により、Redshift Spectrum が、サポートされていないUTF-8 文字や数値のオーバーフローなど、予期せぬ値を含むデータを外部テーブルで処理する方法を制御できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供の発表]]></title>
-        <id>f4d10872d4da2e4d73ceb9db962ae25cd59a5d81</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/"/>
-        <updated>2022-01-13T14:24:59.000Z</updated>
-        <summary type="html"><![CDATA[本日、アトランタ、フェニックス、シアトルでの AWS Local Zones の一般提供を発表します。お客様は、これらの新しい Local Zones を使用して、これらの 3 つの都市圏のエンドユーザーまたはオンプレミスインストールに 1 桁ミリ秒のレイテンシーを必要とするアプリケーションを提供できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard に Microsoft SQL Server デプロイ対応の AWS Service Catalog 統合を追加]]></title>
-        <id>d98212f77ce0c213311896e8bb68b5fee924334f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/"/>
-        <updated>2022-01-13T14:18:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard は、SQL Server デプロイ完了時に、AWS Service Catalog 製品を作成するようになりました。そして、AWS Service Catalog 製品を使用して、EC2 で SQL Server を繰り返しデプロイできます。この機能により、その後の SQL Server デプロイは簡素化され、関連する設定スクリプトを再利用することで時間を節約して、既存の DevOps ツールとの統合が容易になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Explorer in EMR Studio の紹介]]></title>
-        <id>edb5c7cde3946b3cc0c0fc4ce892260102b843ad</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/"/>
-        <updated>2022-01-13T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。本日、EMR Studio Workspace の機能として、SQL Explorer をご紹介します。この機能により、EMR Studio からデータカタログを参照し、EMR クラスターに対して SQL クエリを実行することができます。本リリースの SQL Explorer in EMR Studio は、Prestoバージョン 0.254.1 以降を実行している EC2 クラスター上の Amazon EMR における SQL クエリの実行をサポートしています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
