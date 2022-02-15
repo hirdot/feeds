@@ -2218,6 +2218,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a4e7719d68737a2a0d7057c637aab83b78f86f00",
+          "author": "aws@amazon.com",
+          "description": "AWS マネージドサービス (AMS) Accelerate が、AWS GovCloud (米国) で一般利用可能になり、パブリックセクターおよび商業セクターの両方のお客様とそのパートナーに、GovCloud リージョンでの AWS マネージドサービスのオペレーション機能のメリットを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/",
+          "publishedOn": "2022-02-15T04:05:40.000Z",
+          "wordCount": 240,
+          "title": "AWS マネージドサービスが、AWS GovCloud (米国) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9284b9f4414d1da98754cce3890b9ab069c146f1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift が、Kinesis Data Streams (KDS) のストリーミング取り込みのサポートを開始します。Amazon Redshift のストリーミング取り込みを使用すると、データを Amazon Redshift に取り込む前に Amazon S3 でステージングする必要がなくなり、1 秒あたり数百メガバイトのストリーミングデータをデータウェアハウスに取り込みながら、数秒で低レイテンシーを実現できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/",
+          "publishedOn": "2022-02-15T04:04:51.000Z",
+          "wordCount": 282,
+          "title": "Amazon Redshift が、Kinesis データストリームのストリーミング取り込みのパブリックプレビューを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2a9549dccdb851503a344ace03ff1ba70edf22be",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Control Tower を AWS Foundational Security Best Practices の最新の更新に合わせる、AWS Control Tower の新機能を発表いたしました。 しいベストプラクティスとコントロールが特定および開発されるたびに、AWS Control Tower が機能を追加して、AWS アカウントとワークロードが整合していることを確認する必要があります。今回のリリースの新機能には、ライフサイクルポリシーとアクセスログバケットのアクセスログのサポート、およびLambda 関数のデッドレターキューの追加が含まれます。さらに、このリリースでは AWS Control Tower が更新され、AWS Config のサービスにリンクされたロールを使用して、AWS Config のベストプラクティスに一致するように構成ルールをセットアップおよび管理します。この変更により、構成データを暗号化するための AWS Control Tower KMS 構成プロセスが効率化され、CloudTrail の関連するステータスメッセージングが改善されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/",
+          "publishedOn": "2022-02-15T04:03:27.000Z",
+          "wordCount": 287,
+          "title": "AWS Control Tower が、AWS のベストプラクティスとリージョン拒否の更新されたサポートの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "3dd23d8e038b2b3b952d98089e84dc30eba14fd8",
           "author": "aws@amazon.com",
           "description": "Amazon Connect が開始した Amazon Cloudwatch の Chat メトリクスで、運用メトリクスが監視しやすくなりました。これで双方向のアクティブチャットといった稼働率メトリクスを収集し、それらを表示、分析することができます。この機能は、CloudWatch からデータアクセスするためのコーディングが不要ですぐに利用できます。",

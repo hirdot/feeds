@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-15T04:13:19.777Z</updated>
+    <updated>2022-02-15T05:10:43.096Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS マネージドサービスが、AWS GovCloud (米国) リージョンで利用可能に]]></title>
+        <id>a4e7719d68737a2a0d7057c637aab83b78f86f00</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/"/>
+        <updated>2022-02-15T04:05:40.000Z</updated>
+        <summary type="html"><![CDATA[AWS マネージドサービス (AMS) Accelerate が、AWS GovCloud (米国) で一般利用可能になり、パブリックセクターおよび商業セクターの両方のお客様とそのパートナーに、GovCloud リージョンでの AWS マネージドサービスのオペレーション機能のメリットを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が、Kinesis データストリームのストリーミング取り込みのパブリックプレビューを発表]]></title>
+        <id>9284b9f4414d1da98754cce3890b9ab069c146f1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/"/>
+        <updated>2022-02-15T04:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift が、Kinesis Data Streams (KDS) のストリーミング取り込みのサポートを開始します。Amazon Redshift のストリーミング取り込みを使用すると、データを Amazon Redshift に取り込む前に Amazon S3 でステージングする必要がなくなり、1 秒あたり数百メガバイトのストリーミングデータをデータウェアハウスに取り込みながら、数秒で低レイテンシーを実現できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Control Tower が、AWS のベストプラクティスとリージョン拒否の更新されたサポートの提供を開始]]></title>
+        <id>2a9549dccdb851503a344ace03ff1ba70edf22be</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/"/>
+        <updated>2022-02-15T04:03:27.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Control Tower を AWS Foundational Security Best Practices の最新の更新に合わせる、AWS Control Tower の新機能を発表いたしました。 しいベストプラクティスとコントロールが特定および開発されるたびに、AWS Control Tower が機能を追加して、AWS アカウントとワークロードが整合していることを確認する必要があります。今回のリリースの新機能には、ライフサイクルポリシーとアクセスログバケットのアクセスログのサポート、およびLambda 関数のデッドレターキューの追加が含まれます。さらに、このリリースでは AWS Control Tower が更新され、AWS Config のサービスにリンクされたロールを使用して、AWS Config のベストプラクティスに一致するように構成ルールをセットアップおよび管理します。この変更により、構成データを暗号化するための AWS Control Tower KMS 構成プロセスが効率化され、CloudTrail の関連するステータスメッセージングが改善されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Railsセキュリティ修正がリリースされました（7.0.2.2、6.1.4.6、6.0.4.6、5.2.6.2）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_02_15/115641</id>
