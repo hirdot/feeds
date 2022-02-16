@@ -436,42 +436,6 @@
           "publishedOn": "2022-01-19T22:54:00.000Z",
           "wordCount": 1233,
           "title": "AWSが顧客向けにメインフレームを移行するためのメインフレームモダン化サービスを提供"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/01/rds-custom-sql-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Amazonは、Amazon RDS Custom for SQL Serverの一般向け提供を発表した。新しいサービスはレガシーでカスタムのパッケージ化されたアプリケーションをサポートする。そのようなアプリケーションは、特定の構成とサードパーティツールに依存し、これまでフルマネージドデータベースに移行できなかった。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/01/rds-custom-sql-server/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-01-18T01:12:00.000Z",
-          "wordCount": 1297,
-          "title": "Amazon RDS Custom for SQL Serverが一般向け提供へ"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/01/java-news-roundup-dec13-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週2021年12月13日の Java 総まとめでは、JDK 19、Log4Shell 脆弱性の更新、製品に関連した Log4Shell のベンダーの声明、さまざまな Spring 関連プロジェクトと Hibernate のポイントリリース、WildFly 26、Payara Platform、Quarkus 2.5.3.Final、Apache Camel 3.14.0、Piranha 21.11.0、および Apache Tika 2.2.0 からのニュースを特集している。\n By Michael Redlich  Translated by  Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2022/01/java-news-roundup-dec13-2021/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-01-18T01:05:00.000Z",
-          "wordCount": 1749,
-          "title": "Javaニュース総まとめ: Log4Shellの更新、Spring Framework 6.0-M1、WildFly 26"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/01/microservice-analysis-crisp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Vasco Veloso",
-          "description": "マイクロサービスベースのシステムでエンドツーエンドの遅延を減らすために最適化する必要のあるサービスを見つけることは課題である。コールグラフが複雑すぎて読み取れない場合があるためだ。Uberはこの問題を解決するために開発されたCRISPと呼ばれるオープンソースツールについて説明した。このツールでは、コールグラフでクリティカルパスを見つける。クリティカルパスによって、最適化することでシステム全体に利益がある操作を特定できる。\n By Vasco Veloso  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/01/microservice-analysis-crisp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-01-18T01:00:00.000Z",
-          "wordCount": 608,
-          "title": "JaegerとUberのCRISPを使ったマイクロサービスコールのクリティカルパス分析"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/01/aws-outage-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "12月7日、AWS は、最も人気のあるリージョンのバージニア北部で多くのサービスに影響を与える1時間の停止を経験した。同クラウドプロバイダは、AWS の冗長性とマルチリージョンアプローチについて、コミュニティのスレッドを開始してインシデントの分析を公開した。\n By Renato Losio  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2022/01/aws-outage-postmortem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-01-18T00:58:00.000Z",
-          "wordCount": 1308,
-          "title": "AWS US-EAST-1の停止: ポストモーテムと学んだ教訓"
         }
       ]
     },
@@ -569,6 +533,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=268902",
+          "author": "Tate Ryan-Mosley",
+          "description": "アムネスティ・インターナショナルの報告書によると、ニューヨーク市には2万5500台以上の監視カメラが設置されており、監視カメラの台数が多い地域ほど警察による職務質問および持ち物検査の頻度が高いという。",
+          "link": "https://www.technologyreview.jp/s/268902/a-new-map-of-nycs-cameras-shows-more-surveillance-in-black-and-brown-neighborhoods/",
+          "publishedOn": "2022-02-16T21:55:42.000Z",
+          "wordCount": 696,
+          "title": "監視カメラの顔認識が助長するニューヨーク市警の差別的取締り",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/02/15091506/AP_19290763295504-1181x787.jpg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=268885",
           "author": "Tanya Basu",
@@ -1045,15 +1019,6 @@
           "publishedOn": "2022-01-19T07:20:52.000Z",
           "wordCount": 701,
           "title": "世界を変えるイノベーターは何を学んだか？ 遠藤 謙が語ったこと"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=263003",
-          "author": "Karen Hao",
-          "description": "米国政府が、国家安全保障における中国の脅威に対応するために2018年に開始した取り組み「チャイナ・イニシアチブ」には不透明な部分が多い。MITテクノロジーレビューは同イニシアチブの正当性や影響を調べるために、詳細なデータベースを構築している。",
-          "link": "https://www.technologyreview.jp/s/263003/we-built-a-database-to-understand-the-china-initiative-then-the-government-changed-its-records/",
-          "publishedOn": "2022-01-18T04:06:29.000Z",
-          "wordCount": 563,
-          "title": "不透明な米チャイナ・イニシアチブ、司法省がサイト書き換えも"
         }
       ]
     },
@@ -1290,24 +1255,6 @@
           "publishedOn": "2022-01-20T07:38:17.000Z",
           "wordCount": 559,
           "title": "【2022年保存版】ペーパーレス化とは 推進方法やメリット、実例まで徹底解説"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37831",
-          "author": "tadokoroyusuke",
-          "description": "ICT・IoT・AIの浸透が人々の生活をあらゆる面でより良い方向に変化させるデジタルトランスフォーメーション（DX）が急加速し、データ主導社会へと突入し始めています。 企業の多くはデジタルトランスフォーメーションの取り組 […]",
-          "link": "https://data.wingarc.com/meti_dx_report2-37831?utm_source=rss&utm_medium=rss&utm_campaign=meti_dx_report2",
-          "publishedOn": "2022-01-18T01:00:46.000Z",
-          "wordCount": 488,
-          "title": "経済産業省が羅針盤として発表したDXレポート2を読み解く 日本のDXの実情と方向性について"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37819",
-          "author": "tadokoroyusuke",
-          "description": "デジタルトランスフォーメーション（DX）の分類 デジタルトランスフォーメーション（DX）とは、データやデジタル技術を活用して企業のビジネスモデル、業務、プロセス、組織などを改めることです。 DXの場合、従来の慣習や常識に […]",
-          "link": "https://data.wingarc.com/semenodx_mamorinodx-37819?utm_source=rss&utm_medium=rss&utm_campaign=semenodx_mamorinodx",
-          "publishedOn": "2022-01-18T01:00:14.000Z",
-          "wordCount": 512,
-          "title": "攻めのDXと守りのDX 両者の違い、ハードル、実践の流れを解説"
         }
       ]
     },
@@ -1316,6 +1263,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/libreoffice_webassembly.html",
+          "author": null,
+          "description": "Microsoft Office互換のオープンソースソフトウェアであるLibreOfficeでは、現在WebAssembly版の開発が進められています。 今回、Webブラウザで動作させることができるLibreOffice WebAssemb...",
+          "link": "https://www.publickey1.jp/blog/22/libreoffice_webassembly.html",
+          "publishedOn": "2022-02-16T15:25:49.000Z",
+          "wordCount": 167,
+          "title": "LibreOffice WebAssemblyのデモが公開、今年秋にはリッチテキストエディターのウィジェットが登場予定",
+          "imageUrl": "https://www.publickey1.jp/2022/lowa_demo01.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/githubmarkdownmermaid.html",
+          "author": null,
+          "description": "GitHubは、Markdown構文で記述するとダイアグラムを表示できる「mermaid」のサポートを発表しました。 You can now embed diagrams directly into your Markdown files,...",
+          "link": "https://www.publickey1.jp/blog/22/githubmarkdownmermaid.html",
+          "publishedOn": "2022-02-16T15:22:34.000Z",
+          "wordCount": 191,
+          "title": "GitHub、Markdown構文でフローチャートやクラス図、ガントチャートなどのダイアグラムを表示できる「Mermaid」をサポート開始",
+          "imageUrl": "https://www.publickey1.jp/2022/RceNcJmZ.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/mongodbapioracle_database_api_for_mongodbautonomous_json_database.html",
           "author": null,
@@ -2069,24 +2036,6 @@
           "publishedOn": "2022-01-19T00:15:00.000Z",
           "wordCount": 427,
           "title": "第1回　AWSを知る1日～サーバ職人にお願いしなくてもインフラを作れる時代がやってきた？！ ── 連載"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/line2021/0011",
-          "author": "川添貴生，馮富久",
-          "description": "LINEのデータマネジメント室の室長である勝山公雄氏と，同じくデータマネジメント室の尾尻恒氏に，LINEとしてのデータ活用に関してお話を伺いました。",
-          "link": "https://gihyo.jp/dev/serial/01/line2021/0011",
-          "publishedOn": "2022-01-18T00:15:20.000Z",
-          "wordCount": 373,
-          "title": "国内最大規模のデータを扱うLINEだからこそ取り組む，全社横断でのデータリテラシー向上のアプローチ ── LINE テクノロジー＆エンジニアリング大全"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0163",
-          "author": "北川健太郎",
-          "description": "今回はsysbench 1.0を使ってMySQLの負荷テストする方法を紹介したいと思います。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0163",
-          "publishedOn": "2022-01-18T00:15:00.000Z",
-          "wordCount": 555,
-          "title": "第163回　sysbench 1.0を使ってMySQLの負荷テストをする ── MySQL道普請便り"
         }
       ]
     },
@@ -2209,6 +2158,26 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "ece8aabdaf412bb8788ff2e5f0a7a0cb4d1f9eec",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、セキュリティの脆弱性を検出し、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/",
+          "publishedOn": "2022-02-16T20:41:14.000Z",
+          "wordCount": 264,
+          "title": "CodeGuru Reviewer が新しい Detector Library とサンプルリポジトリの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4e3744ef3b8afbcf57bc2bab10bfcbf18dc4f535",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru は機械学習を利用したデベロッパーツールで、セキュリティの脆弱性を検出し、コードの品質を向上させ、最もコストの高いアプリケーションコード行を特定するためのインテリジェントなレコメンデーションを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/",
+          "publishedOn": "2022-02-16T20:35:15.000Z",
+          "wordCount": 257,
+          "title": "Amazon CodeGuru Reviewer がコード内の Apache Log4j およびその他のログインジェクションの脆弱性の検出を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "f5569756c31c8dc4c4c9957a752d0cfcba2a3ba5",
           "author": "aws@amazon.com",
@@ -3489,132 +3458,6 @@
           "publishedOn": "2022-01-19T00:00:00.000Z",
           "wordCount": 395,
           "title": "MySQL Cluster 7.6"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/connector/nodejs/8.0.html",
-          "author": null,
-          "description": "Connector/Node.js 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/connector/nodejs/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 291,
-          "title": "Connector/Node.js 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/connector/python/8.0.html",
-          "author": null,
-          "description": "Connector/Python 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/connector/python/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 342,
-          "title": "Connector/Python 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/mysql/8.0.html",
-          "author": null,
-          "description": "MySQL Community Server 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/mysql/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 444,
-          "title": "MySQL Community Server 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/connector/j/8.0.html",
-          "author": null,
-          "description": "Connector/J 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/connector/j/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 295,
-          "title": "Connector/J 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/router/8.0.html",
-          "author": null,
-          "description": "MySQL Router 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/router/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 375,
-          "title": "MySQL Router 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/workbench/8.0.html",
-          "author": null,
-          "description": "MySQL Workbench 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/workbench/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 483,
-          "title": "MySQL Workbench 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
-          "author": null,
-          "description": "MySQL Installer 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/windows/installer/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 352,
-          "title": "MySQL Installer 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/windows/installer/5.7.html",
-          "author": null,
-          "description": "MySQL Installer 5.7 (5.7.37 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/windows/installer/5.7.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 353,
-          "title": "MySQL Installer 5.7"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/connector/odbc/8.0.html",
-          "author": null,
-          "description": "Connector/ODBC 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/connector/odbc/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 354,
-          "title": "Connector/ODBC 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/mysql/5.7.html",
-          "author": null,
-          "description": "MySQL Community Server 5.7 (5.7.37 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/mysql/5.7.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 476,
-          "title": "MySQL Community Server 5.7"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/connector/net/8.0.html",
-          "author": null,
-          "description": "Connector/NET 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/connector/net/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 316,
-          "title": "Connector/NET 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/shell/8.0.html",
-          "author": null,
-          "description": "MySQL Shell 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/shell/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 418,
-          "title": "MySQL Shell 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/connector/cpp/8.0.html",
-          "author": null,
-          "description": "Connector/C++ 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/connector/cpp/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 417,
-          "title": "Connector/C++ 8.0"
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/cluster/8.0.html",
-          "author": null,
-          "description": "MySQL Cluster 8.0 (8.0.28 GA, published on Tuesday, 18 Jan 2022)",
-          "link": "https://dev.mysql.com/downloads/cluster/8.0.html",
-          "publishedOn": "2022-01-18T00:00:00.000Z",
-          "wordCount": 370,
-          "title": "MySQL Cluster 8.0"
         }
       ]
     },
