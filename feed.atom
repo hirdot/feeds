@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T00:37:28.150Z</updated>
+    <updated>2022-02-17T01:49:49.389Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleがコスト最適化のためにCloud Bigtableの自動スケーリングを導入]]></title>
+        <id>https://www.infoq.com/jp/news/2022/02/google-bigtable-autoscaling-cost/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/02/google-bigtable-autoscaling-cost/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-02-17T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Bigtableは、Google Cloud Platform（GCP）上の大規模な運用および分析処理向けの、フルマネージドでスケーラブルなNoSQLデータベースサービスである。そして最近、このパブリッククラウドプロバイダーは、Bigtable Autoscalingの一般向け提供を発表した。これにより、アプリケーションの需要の変化に応じて、容量が自動的に追加、削除され、コストの最適化ができるようになる。
+ By Steef-Jan Wiggers  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java News Roundup - LoomとPanamaのアップデート、Groovy 4.0、GraalVM 22.0 CE、Jakarta EE RPC]]></title>
+        <id>https://www.infoq.com/jp/news/2022/02/java-news-roundup-jan24-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/02/java-news-roundup-jan24-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-02-17T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[今週の"Java roundup for January 24th, 2021"では、OpenJDK、JDK 18、JDK 19、Projects LoomとPanama、Jakarta EE、Groovy 4.0、Spring Frameworkの最新版、Micronaut 3.3.0、GraalVM 22.0 CE、Liberica NIK、MicroProfile Reactive Streams Operators 3.0-RC1、Hibernateの最新版、JHipster 7.6、IntelliJ IDEA 2021.3.2、JReleaserアーリーアクセス、Apache CamelとCamel K、FOSDEMでのFoojay.ioといった話題をお届けする。
+ By Michael Redlich  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EtsyがReactからPreactに移行し、移行リスクを低減]]></title>
+        <id>https://www.infoq.com/jp/news/2022/02/etst-migration-from-react-preact/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/02/etst-migration-from-react-preact/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-02-17T01:32:00.000Z</updated>
+        <summary type="html"><![CDATA[EtsyのソフトウェアエンジニアBen Sangster氏は、最近、EtsyがReact v15.6からPreact 10に移行した理由を詳しく説明している。Sangster氏は、ライブラリのサイズの違い以上に、Preactを採用することで、Etsyの大規模なコードベースの移行に伴うリスクが低下したと主張している。PreactはEtsyのフロントエンドチームによってすでに使われていたため、Preactに移行することで、断片化されたスタックを維持する必要がなくなる。
+ By Bruno Couriol  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Bruno Couriol</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleがGCGCをオープンソース化：JavaGCログの分析ツール]]></title>
+        <id>https://www.infoq.com/jp/news/2022/02/apple-gcgc-java/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/02/apple-gcgc-java/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-02-17T01:27:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleはGCGCをオープンソース化した。これは、Python 3とpandasをベースとしたJavaガベージコレクター（GC）ログの視覚化のためのツールである。
+ By Andrea Messetti  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Andrea Messetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Braket で Rigetti の新しい 80 キュービット量子プロセッサのサポートを追加]]></title>
+        <id>012d2b1971db879773e87a8255f3044ee637b2d3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/"/>
+        <updated>2022-02-17T00:47:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスである Amazon Braket を使用すれば、量子コンピューターによる科学研究やソフトウェア開発を簡単に始めることができます。本日、Amazon Braket で Rigetti の新しい超電導方式量子ゲート型の 80 キュービットプロセッサ Aspen-M-1 のサポートが追加されました。このリリースにより、Braket で初めてマルチチップの量子プロセッサアーキテクチャを利用できるようになりました。この新しい 80 キュービット量子プロセッサを使用すると、前世代の Rigetti デバイスでサポートされているキュービット数の最大 2 倍のキュービットから成る量子回路を実行できるため、より大きな問題に取り組むことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS OpsWorks for Configuration Management が、新しいバージョンの Chef Automate のサポートを開始]]></title>
+        <id>fb1d90ec888d80627f7717c6a3a1b9c387ffbb75</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/"/>
+        <updated>2022-02-17T00:41:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS OpsWorks for Configuration Management は、マネージドサービス用の新しいバージョンの Chef Automate をサポートするようになりました。お客様は、お客様それぞれが個別にスケジュールした毎週のシステムメンテナンス期間中に更新を自動的に受け取ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第71回　ISUCONの実装から最近のPerlを学ぶ ―わかりやすく変更しやすいコードを実現する考え方と方法（2） ── Perl Hackers Hub]]></title>
         <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007102</id>

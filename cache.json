@@ -166,6 +166,46 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/02/google-bigtable-autoscaling-cost/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "Cloud Bigtableは、Google Cloud Platform（GCP）上の大規模な運用および分析処理向けの、フルマネージドでスケーラブルなNoSQLデータベースサービスである。そして最近、このパブリッククラウドプロバイダーは、Bigtable Autoscalingの一般向け提供を発表した。これにより、アプリケーションの需要の変化に応じて、容量が自動的に追加、削除され、コストの最適化ができるようになる。\n By Steef-Jan Wiggers  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/02/google-bigtable-autoscaling-cost/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-02-17T01:40:00.000Z",
+          "wordCount": 1192,
+          "title": "Googleがコスト最適化のためにCloud Bigtableの自動スケーリングを導入",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220216-0220/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/02/java-news-roundup-jan24-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週の\"Java roundup for January 24th, 2021\"では、OpenJDK、JDK 18、JDK 19、Projects LoomとPanama、Jakarta EE、Groovy 4.0、Spring Frameworkの最新版、Micronaut 3.3.0、GraalVM 22.0 CE、Liberica NIK、MicroProfile Reactive Streams Operators 3.0-RC1、Hibernateの最新版、JHipster 7.6、IntelliJ IDEA 2021.3.2、JReleaserアーリーアクセス、Apache CamelとCamel K、FOSDEMでのFoojay.ioといった話題をお届けする。\n By Michael Redlich  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/02/java-news-roundup-jan24-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-02-17T01:38:00.000Z",
+          "wordCount": 1579,
+          "title": "Java News Roundup - LoomとPanamaのアップデート、Groovy 4.0、GraalVM 22.0 CE、Jakarta EE RPC",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220216-0220/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/02/etst-migration-from-react-preact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Bruno Couriol",
+          "description": "EtsyのソフトウェアエンジニアBen Sangster氏は、最近、EtsyがReact v15.6からPreact 10に移行した理由を詳しく説明している。Sangster氏は、ライブラリのサイズの違い以上に、Preactを採用することで、Etsyの大規模なコードベースの移行に伴うリスクが低下したと主張している。PreactはEtsyのフロントエンドチームによってすでに使われていたため、Preactに移行することで、断片化されたスタックを維持する必要がなくなる。\n By Bruno Couriol  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/02/etst-migration-from-react-preact/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-02-17T01:32:00.000Z",
+          "wordCount": 1271,
+          "title": "EtsyがReactからPreactに移行し、移行リスクを低減",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220216-0220/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/02/apple-gcgc-java/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Andrea Messetti",
+          "description": "AppleはGCGCをオープンソース化した。これは、Python 3とpandasをベースとしたJavaガベージコレクター（GC）ログの視覚化のためのツールである。\n By Andrea Messetti  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/02/apple-gcgc-java/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-02-17T01:27:00.000Z",
+          "wordCount": 1332,
+          "title": "AppleがGCGCをオープンソース化：JavaGCログの分析ツール",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220216-0220/styles/static/images/logo/logo-big.jpg"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/02/whats-new-in-microprofile-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Michael Redlich",
           "description": "MicroProfile Working Group の支援の下配信され、MicroProfile 4.1 のリリースから5か月の後、予定されていた MicroProfile 5.0 のリリースが Java コミュニティで利用可能になった。この新しいリリースは、Jakarta EE 9.1 との連携と、コミュニティで開発された8つのコア API のすべてと1つのスタンドアロン API のアップデートを特徴としている。\n By Michael Redlich  Translated by  Shoji Shigeki",
@@ -2169,6 +2209,26 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "012d2b1971db879773e87a8255f3044ee637b2d3",
+          "author": "aws@amazon.com",
+          "description": "AWS の量子コンピューティングサービスである Amazon Braket を使用すれば、量子コンピューターによる科学研究やソフトウェア開発を簡単に始めることができます。本日、Amazon Braket で Rigetti の新しい超電導方式量子ゲート型の 80 キュービットプロセッサ Aspen-M-1 のサポートが追加されました。このリリースにより、Braket で初めてマルチチップの量子プロセッサアーキテクチャを利用できるようになりました。この新しい 80 キュービット量子プロセッサを使用すると、前世代の Rigetti デバイスでサポートされているキュービット数の最大 2 倍のキュービットから成る量子回路を実行できるため、より大きな問題に取り組むことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/",
+          "publishedOn": "2022-02-17T00:47:14.000Z",
+          "wordCount": 269,
+          "title": "Amazon Braket で Rigetti の新しい 80 キュービット量子プロセッサのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fb1d90ec888d80627f7717c6a3a1b9c387ffbb75",
+          "author": "aws@amazon.com",
+          "description": "AWS OpsWorks for Configuration Management は、マネージドサービス用の新しいバージョンの Chef Automate をサポートするようになりました。お客様は、お客様それぞれが個別にスケジュールした毎週のシステムメンテナンス期間中に更新を自動的に受け取ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/",
+          "publishedOn": "2022-02-17T00:41:14.000Z",
+          "wordCount": 260,
+          "title": "AWS OpsWorks for Configuration Management が、新しいバージョンの Chef Automate のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "ece8aabdaf412bb8788ff2e5f0a7a0cb4d1f9eec",
           "author": "aws@amazon.com",
