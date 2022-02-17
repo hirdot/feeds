@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-17T10:11:25.177Z</updated>
+    <updated>2022-02-17T22:10:54.850Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Resource Access Manager が PCI DSS に準拠]]></title>
+        <id>9974d37caeb64898276c5ee125dafad52d558f86</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/"/>
+        <updated>2022-02-17T21:31:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS Resource Access Manager (AWS RAM) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。AWS RAM は、組織内の AWS アカウント間または AWS Organizations 内の組織単位 (OU) 間で、ならびにサポートされているリソースタイプの AWS Identity and Access Management (IAM) ロールおよび IAM ユーザーとの間で、AWS リソースを安全に共有するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift 同時実行スケーリングの自動ワークロード管理を発表]]></title>
+        <id>5bbdbe6918efde45234307e8647843b35312ad1d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/"/>
+        <updated>2022-02-17T21:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift が、Redshift 同時実行スケーリングクラスターに対してより効率的なクエリ処理を提供できるようになりました。同時実行スケーリングは、数千人の同時ユーザーからの予測できない需要を処理するための容量を自動的に追加または削除します。
+ 自動ワークロード管理 (AutoWLM) は、クエリをより効率的に処理するように設計されており、同時実行スケーリングクラスターで有効になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「The State of JS 2021」公開。最も使われているフロントエンドのライブラリはReact、バックエンドはExpress、ビルドツールはWebpackなど]]></title>
+        <id>https://www.publickey1.jp/blog/22/the_state_of_js_2021reactexpresswebpack.html</id>
+        <link href="https://www.publickey1.jp/blog/22/the_state_of_js_2021reactexpresswebpack.html"/>
+        <updated>2022-02-17T16:22:17.000Z</updated>
+        <summary type="html"><![CDATA[JavaScriptに興味を持つ世界中のIT技術者1万11761人にアンケートを取り、結果をまとめた「The State of JavaScript 2021」が公開されています。 回答者の国別分布を上位5位までを見ると米国が14％、ドイツ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSがエッジクラウドへの投資を本格化。米国内に16のローカルゾーンを構築完了、今後2年間で全世界に30カ所以上を展開へ]]></title>
+        <id>https://www.publickey1.jp/blog/22/aws16230.html</id>
+        <link href="https://www.publickey1.jp/blog/22/aws16230.html"/>
+        <updated>2022-02-17T16:08:49.000Z</updated>
+        <summary type="html"><![CDATA[グローバルに大規模なデータセンターを展開してきたAmazon Web Servicesが、新たによりユーザーの近くにデータセンターを構築する、いわゆるクラウドのエッジに位置づけられる「AWS Local Zones」への投資を本格化します。...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クレデンシャルスタッフィング攻撃からログインページを保護するために AWS WAF で AWS WAF Fraud Control - Account Takeover Prevention を導入]]></title>
+        <id>e5846ca1d200a6cbe7fccb6447162f7d697d1d84</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/"/>
+        <updated>2022-02-17T13:07:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS WAF では、クレデンシャルスタッフィング攻撃、ブルートフォース試行、その他の異常ログインアクティビティからアプリケーションのログインページを保護するために AWS WAF Fraud Control - Account Takeover Prevention を立ち上げたことを発表しました。Account Takeover Prevention により、ネットワークのエッジでアカウントの乗っ取り試行をプロアクティブに阻止できます。Account Takeover Prevention を利用すれば、不正アクティビティにつながる可能性のある不正アクセスを防止したり、影響を受けるユーザーに知らせて、予防措置を講じられるようにしたりすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.9.13 のサポートを開始]]></title>
+        <id>a46f1cbef89d0b7d4c19907fda1a627de8f05a00</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/"/>
+        <updated>2022-02-17T13:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ が、RabbitMQ バージョン 3.9.13 をサポートするようになりました。この RabbitMQ アップデートには、これまでサポートされていたバージョン RabbitMQ 3.8.26 からのいくつかの修正と機能強化が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS SSO で PCI-DSS および IRAP に対するカスタマーコンプライアンスのサポートを拡張]]></title>
+        <id>b442cb81a38ece8785c002eb1cac72286e1dec8c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-sso-expands-support-customer-compliance/"/>
+        <updated>2022-02-17T13:01:14.000Z</updated>
+        <summary type="html"><![CDATA[本日、アマゾン ウェブ サービス (AWS) では、AWS Single Sign-On (AWS SSO) におけるセキュリティとプライバシーのカスタマーコンプライアンス要件への対応が拡大したことを発表しました。AWS SSO は、PCI DSS (Payment Card Industry – Data Security Standard) コンプライアンスを達成し、PROTECTED (保護対象) レベルの Information Security Registered Assessors Program (IRAP) 評価を取得しました。これらは追加であり、国際標準化機構 (ISO、International Organization for Standardization)、System and Organization Controls (SOC) 1、2、および 3、Esquema Nacional de Seguridad (ENS) の「高」、金融市場監査局 (FINMA、Financial Market Supervisory Authority) の International Standard on Assurance Engagements (ISAE) 3000 Type 2 Report の要件、および Multi-Tier Cloud Security (MTCS) に対するカスタマーコンプライアンスの既存の AWS SSO サポートが既に提供されています。結果として、お客様は、コンプライアンス標準に従う必要のある環境におけるマルチアカウントアクセス管理およびアプリケーション認証をさらに簡素化できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: importmap-rails + tailwindcss-railsでnode.jsが不要な理由]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_02_17/115435</id>
@@ -3632,117 +3703,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[こんにちは。 私は、2021年8月に妻が第1子出産をしたため、10月から2ヶ月間の育児休暇を取得しました。 男性の育児休暇取得は、所属のアジャイル事業部で初とのことで、育児休暇をテーマに記事にしてみます。 なぜ取得したか 育児休暇を取得した理由は、下記の2点が大きいです。 出産後の3ヶ月間は育児が特に大変であるため 育児休業給付金を利用できるため 子供は生後3ヶ月くらいまでは、2~3時間おきに泣き出すため、夫婦で協力して面倒を見ないと、睡眠時間ををまともに確保することができません。十分な睡眠ができないと、心身ともに脆くなってしまうので、この事態は避けたいなと考えていました。 また、国の育児休業…]]></summary>
         <author>
             <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: サーバーのIPアドレスを環境変数で設定するにはHOSTではなくBINDINGを使う]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936"/>
-        <updated>2022-01-19T08:30:17.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_env_variable_binding_host-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Rails 7でrails newするときにアセットをビルドするオプションを渡すと、以下が作成されます。 bin/dev このbinstubから以下のProcfile.devをforeman経由で呼び出す Procfile.dev このProcfile.devは、rails newで指定するオプションによって変わりますが、たとえば以下のようになります。 web: bin/rails server -p 3000 css: bin/rails tailwindcss:watch このセッティングでbin/devを実行すると、サーバーがlistenするIPアドレスは127.0.0.1になります。 しかし、bin/de [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_01_19/114936" data-wpel-link="internal" target="_self">Rails: サーバーのIPアドレスを環境変数で設定するにはHOSTではなくBINDINGを使う</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界を変えるイノベーターは何を学んだか？ 遠藤 謙が語ったこと]]></title>
-        <id>https://www.technologyreview.jp/?p=265594</id>
-        <link href="https://www.technologyreview.jp/s/265594/iu35-japan-summit-2021-ken-endo/"/>
-        <updated>2022-01-19T07:20:52.000Z</updated>
-        <summary type="html"><![CDATA[MITテクノロジーレビューの「35歳未満のイノベーター」の1人に2012年に選ばれた義足エンジニアの遠藤 謙氏。「乙武プロジェクト」でも知られる遠藤氏が、その後の経験から学んだこととは？]]></summary>
-        <author>
-            <name>Yasuhiro Hatabe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT SiteWise Edgeは、断続的なクラウド接続のための新しいデータストレージとアップロードの優先順位付け戦略をサポートします]]></title>
-        <id>4108f2fac09cb7bd9cd69b56b944bf14d0a1ffc4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/"/>
-        <updated>2022-01-19T05:09:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT SiteWise Edgeを使用すると、エッジデータストレージ戦略を定義して、切断中（最大30日）の運用データの損失を防ぎ、再接続時にクラウドへのデータアップロード戦略を選択できます。クラウドにアップロードされたアプリケーションデータは多くの場合タイムクリティカルであり、特定の年齢を超える値は短期間のアクションに関連しない場合があります。逆に、古い履歴データは、長期的な傾向を診断し、タイムクリティカルでないアプリケーションの機器の運用パフォーマンスを深く掘り下げる上で重要になる可能性があります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizardは、パフォーマンス要件の増加に対応するためのHANAベースのSAP派遣のスケーリングをサポートするようになりました]]></title>
-        <id>cc82605bfa7661be98f78f3348d124f3a9ee6fd9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/"/>
-        <updated>2022-01-19T04:56:59.000Z</updated>
-        <summary type="html"><![CDATA[パフォーマンスを向上させる必要がある場合は、派遣後にLaunch Wizardコンソール内からAWS Launch Wizardで派遣されたSAPシステムにノードを追加できるようになりました。これにより、Launch WizardでデプロイされたSAPアプリ（S / 4HANA、BW / 4HANA、およびNetWeaver）をサポートするインフラストラクチャを、同じガイド付きのベストプラクティスに沿った派遣過程を使用してスケーリングできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。]]></title>
-        <id>62eb4340bb3848134944f559cce53a31c15828a6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/"/>
-        <updated>2022-01-19T04:51:59.000Z</updated>
-        <summary type="html"><![CDATA[AWS Storage Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITエンジニアが投票した「ITエンジニア本大賞2022」ベスト10発表。「シェル・ワンライナー160本ノック」「モノリスからマイクロサービスへ」「恐れのない組織」など]]></title>
-        <id>https://www.publickey1.jp/blog/22/itit202210.html</id>
-        <link href="https://www.publickey1.jp/blog/22/itit202210.html"/>
-        <updated>2022-01-19T01:33:35.000Z</updated>
-        <summary type="html"><![CDATA[ITエンジニアが投票によって技術書やビジネス書を選ぶ「ITエンジニア本大賞 2022」の結果が発表されました。 「ITエンジニア本大賞」は、仕事の役に立った本、初学者におすすめの本、ずっと手元に置いておきたい本など、おすすめの本をITエン...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第700回　セルフホスト可能なチャット・タスク管理サービスMattermost ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0700</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0700"/>
-        <updated>2022-01-19T01:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Mattermostと言えば，Slackと双璧をなすFLOSSでセルフホスト可能なチャットサービスです。今回は改めて，Mattermostのインストールから紹介します。]]></summary>
-        <author>
-            <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第1回　AWSを知る1日～サーバ職人にお願いしなくてもインフラを作れる時代がやってきた？！ ── 連載]]></title>
-        <id>https://gihyo.jp/dev/serial/01/zukai-aws/0001</id>
-        <link href="https://gihyo.jp/dev/serial/01/zukai-aws/0001"/>
-        <updated>2022-01-19T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[駆け出しからベテランまで，サーバ管理の世界ではネコも杓子もAWSが話題です。しかし，「AWSが便利そうなのはわかるけど，一体何が魅力なんだろう」とその正体を掴みかねている方もいらっしゃるでしょう。]]></summary>
-        <author>
-            <name>技術評論社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL Cluster 7.5]]></title>
-        <id>https://dev.mysql.com/downloads/cluster/7.5.html</id>
-        <link href="https://dev.mysql.com/downloads/cluster/7.5.html"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQL Cluster 7.5 (7.5.25 GA, published on Wednesday, 19 Jan 2022)]]></summary>
-        <author>
-            <name>MySQL - New Product Releases</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL Cluster 7.4]]></title>
-        <id>https://dev.mysql.com/downloads/cluster/7.4.html</id>
-        <link href="https://dev.mysql.com/downloads/cluster/7.4.html"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQL Cluster 7.4 (7.4.35 GA, published on Wednesday, 19 Jan 2022)]]></summary>
-        <author>
-            <name>MySQL - New Product Releases</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL Cluster 7.6]]></title>
-        <id>https://dev.mysql.com/downloads/cluster/7.6.html</id>
-        <link href="https://dev.mysql.com/downloads/cluster/7.6.html"/>
-        <updated>2022-01-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQL Cluster 7.6 (7.6.21 GA, published on Wednesday, 19 Jan 2022)]]></summary>
-        <author>
-            <name>MySQL - New Product Releases</name>
         </author>
     </entry>
     <entry>
