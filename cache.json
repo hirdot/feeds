@@ -3587,24 +3587,6 @@
           "publishedOn": "2022-01-19T15:02:59.000Z",
           "wordCount": 299,
           "title": "AWS Systems Manager で、Command Document タイプトのドキュメントが分類できるようになりました"
-        },
-        {
-          "id": "2a786e3a5d3b550bebcee00b3dac4ca9e2e5efb1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。Performance Insights のデータを表示する方法の 1 つは、AWS マネジメントコンソールを使用することです。Performance Insights では独自のデータをクエリできるように、パブリック API も提供されています。今回、新しい API エンドポイントが 3 つ追加されました。それは、GetResourceMetadata、ListAvailableResourceDimensions、および ListAvailableResourceMetrics です。これらの新しい API を使えば、Performance Insights が収集したメトリクスに関するメタデータに、プログラムによるアクセスが可能になります。これにより、独自のモニタリングツールや好みのプラットフォームとの、より高質で動的な統合を簡単に実現できます。Performance Insights API の詳細については、「Performance Insights API によるメトリクスの取得」をご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/",
-          "publishedOn": "2022-01-19T14:33:59.000Z",
-          "wordCount": 338,
-          "title": "新しい API エンドポイントが Amazon RDS Performance Insights のサポート対象となりました"
-        },
-        {
-          "id": "602039d13227ab99032faa2b5ae75af1d33354d1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Pinpoint のジャーニーでは、各ジャーニー参加者を自動的に再評価して、コンタクトセンターアクティビティを通じてジャーニー参加者に送信できるようになりました。ジャーニーは、SMS、電子メール、プッシュ、音声といった複数のチャネルで使用できる複数ステップキャンペーンです。ジャーニーは、ユーザーエンゲージメント用のユースケースを持つお客様を対象としています。こういったお客様は、高価値なユーザーアクションをもたらすようなターゲットを絞った情報を送りたいと考えています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/",
-          "publishedOn": "2022-01-19T14:27:59.000Z",
-          "wordCount": 266,
-          "title": "Amazon Pinpoint で、コンタクトセンターアクティビティ向けのジャーニーエンドポイント再評価ロジックをサポート開始"
         }
       ]
     },

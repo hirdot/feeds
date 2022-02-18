@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-18T02:15:47.470Z</updated>
+    <updated>2022-02-18T03:02:38.193Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3755,26 +3755,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-command-document/"/>
         <updated>2022-01-19T15:02:59.000Z</updated>
         <summary type="html"><![CDATA[本日より、AWS Systems Manager では、Amazon 所有のコマンドドキュメントの分類がサポートされ、見つけるのが簡単になりましたAWS Systems Manager は、AWS の運用ハブであり、AWS のアプリケーション全体の運用上の問題を追跡および解決するための一元的な統合型ユーザーインターフェイスです。AWS Systems Manager のドキュメント (SSM ドキュメント) は、Systems Manager がマネージドノードで実行する操作を定義します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい API エンドポイントが Amazon RDS Performance Insights のサポート対象となりました]]></title>
-        <id>2a786e3a5d3b550bebcee00b3dac4ca9e2e5efb1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/"/>
-        <updated>2022-01-19T14:33:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。Performance Insights のデータを表示する方法の 1 つは、AWS マネジメントコンソールを使用することです。Performance Insights では独自のデータをクエリできるように、パブリック API も提供されています。今回、新しい API エンドポイントが 3 つ追加されました。それは、GetResourceMetadata、ListAvailableResourceDimensions、および ListAvailableResourceMetrics です。これらの新しい API を使えば、Performance Insights が収集したメトリクスに関するメタデータに、プログラムによるアクセスが可能になります。これにより、独自のモニタリングツールや好みのプラットフォームとの、より高質で動的な統合を簡単に実現できます。Performance Insights API の詳細については、「Performance Insights API によるメトリクスの取得」をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Pinpoint で、コンタクトセンターアクティビティ向けのジャーニーエンドポイント再評価ロジックをサポート開始]]></title>
-        <id>602039d13227ab99032faa2b5ae75af1d33354d1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/"/>
-        <updated>2022-01-19T14:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Pinpoint のジャーニーでは、各ジャーニー参加者を自動的に再評価して、コンタクトセンターアクティビティを通じてジャーニー参加者に送信できるようになりました。ジャーニーは、SMS、電子メール、プッシュ、音声といった複数のチャネルで使用できる複数ステップキャンペーンです。ジャーニーは、ユーザーエンゲージメント用のユースケースを持つお客様を対象としています。こういったお客様は、高価値なユーザーアクションをもたらすようなターゲットを絞った情報を送りたいと考えています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
