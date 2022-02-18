@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-18T07:03:13.689Z</updated>
+    <updated>2022-02-18T08:02:52.513Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -950,6 +950,17 @@
         <summary type="html"><![CDATA[本日より、Amazon CloudFront の AWS マネージドプレフィックスリストを使用して、CloudFront のオリジンに面したサーバーに属する IP アドレスのみからのオリジンへのインバウンド HTTP/HTTPS トラフィックを制限できます。CloudFront が、マネージドプレフィックスリストを CloudFront のオリジンに面したサーバーの IP アドレスで最新の状態に保つので、プレフィックスリストを自分で管理する必要がなくなります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby: パーセント記号 `%` の使い方まとめ]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_02_10/71052</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_02_10/71052"/>
+        <updated>2022-02-10T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2019/03/ruby_percent_sign_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2019/03/01: 初版公開 2019/09/04: Ruby 2.6で追加されたstepのエイリアスとしての%を追記 2022/02/10: Ruby 3.1.0で更新 Ruby公式ドキュメントに記載されている`%（パーセント）記号の説明の中から、以下についてまとめました。なお、検証にはRuby 2.6.1とRuby 3.1.0を使いました。 剰余（割り算の余り）を表す % %記法（リテラル記法）で使う % 出力フォーマット（書式設定）で使う % printfの% String#%メソッド String#%メソッドへの3種類の引数渡し方法 Range#stepのエイリアスとしての%（2.6〜） 参 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_02_10/71052" data-wpel-link="internal" target="_self">Ruby: パーセント記号 `%` の使い方まとめ</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
