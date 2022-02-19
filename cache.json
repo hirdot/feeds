@@ -3339,60 +3339,6 @@
           "publishedOn": "2022-01-24T06:01:13.000Z",
           "wordCount": 337,
           "title": "AWS Lambda がイベントソースとして Amazon MSK、Apache Kafka、Amazon MQ for Apache Active MQ、RabbitMQ の Max Batching Window をサポート"
-        },
-        {
-          "id": "001464eb6e47b42e0227aa3dc6cdcf7324449a13",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Trusted Advisor で、AWS Security Hub の Foundation Security Best Practices から自動的に取り込まれる 111 個のチェックが追加されました。Security Hub チェックの全一覧は、ここをクリックしてください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/",
-          "publishedOn": "2022-01-20T20:20:02.000Z",
-          "wordCount": 315,
-          "title": "AWS Trusted Advisor が AWS Security Hub と統合"
-        },
-        {
-          "id": "dc11c7373a28d4ab64ec9f747e6bfcfa61be1169",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Location Service にマトリックスルーティングが追加されました。これにより、顧客が複数の出発地から目的地までの運転時間と運転距離をすばやく簡単に計算できるようになります。マトリックスルーティングを使用すると、デベロッパーは 1 回の API リクエストで複数のルート計算におけるレイテンシを低減し、コードを簡素化し、顧客のエクスペリエンスを向上させることができます。例えば、配達ルートの計画を立てるアプリケーションでは、Amazon Location のマトリックスルーティング機能を使用して、所定時間のすべての配達の運転時間と距離をリクエストできるようになります。最大 350 箇所の配送元と 350 箇所の目的地の対の合計 122,500 の運転時間と距離を、単一のリクエストで取得できます。これにより、リクエストの回数とレイテンシーを減らすことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-matrix-routing/",
-          "publishedOn": "2022-01-20T20:19:15.000Z",
-          "wordCount": 301,
-          "title": "Amazon Location Service のマトリックスルーティングを発表"
-        },
-        {
-          "id": "20e5c33bd6e25241471615dd3ff37524d72771bb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Location Service では、アセットベースのアプリケーションを含むすべてのお客様のユースケースに対して、リクエストベースの価格設定を提供できるようになりました。例えば、配達のアプリケーションを構築するデベロッパーが配達先の住所に関連付けられた位置（緯度/経度）を特定する必要がある場合、検索された住所ごとに支払いが可能になります。Amazon Location なら、前払い料金も、必要な最低利用料金も、長期契約も必要ありません。デベロッパーは、アセットベースのアプリケーションに位置認識を追加するのがさらに簡単になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/",
-          "publishedOn": "2022-01-20T20:18:28.000Z",
-          "wordCount": 293,
-          "title": "Amazon Location Service では、すべてのお客様のユースケースに対してリクエストベースの価格設定を可能にします"
-        },
-        {
-          "id": "5497651030161d36d854453902ab80fba61803ad",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for NetApp ONTAP で Amazon CloudWatch のメトリクスを利用可能になりました。これにより、ご使用のファイルシステムとボリュームのパフォーマンスとストレージ使用量のメトリクスをモニタリングし、アラームを設定できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/",
-          "publishedOn": "2022-01-20T20:17:41.000Z",
-          "wordCount": 301,
-          "title": "Amazon FSx for NetApp ONTAP が Amazon CloudWatch でパフォーマンスと容量のメトリクスの提供を開始"
-        },
-        {
-          "id": "8ef090986feb003571b0ef48ee701eb84da45a70",
-          "author": "aws@amazon.com",
-          "description": "AWS Launch Wizard が SAP S/4HANA 2021、SAP BW/4HANA 2021、SAP HANA SPS06、および SUSE Linux Enterprise Server (SLES) 15 SP3 のサポートを開始しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/",
-          "publishedOn": "2022-01-20T20:16:52.000Z",
-          "wordCount": 325,
-          "title": "AWS Launch Wizard が SUSE Linux Enterprise Server と SAP HANA、S/4HANA、および BW/4HANA の最新バージョンをサポート"
-        },
-        {
-          "id": "81d098dcb42a40ccffb7603fd1c329b7df3fd838",
-          "author": "aws@amazon.com",
-          "description": "AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) のリージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/",
-          "publishedOn": "2022-01-20T20:16:03.000Z",
-          "wordCount": 308,
-          "title": "AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) で利用可能になりました。"
         }
       ]
     },

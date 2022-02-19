@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-19T08:02:57.740Z</updated>
+    <updated>2022-02-19T09:03:02.104Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3475,66 +3475,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[旧ソ連の過剰なダム建設により、ロシアで最も重要な河川は機能不全に陥った。河川の汚染が進み、気候変動を加速させ、期待したほどの成果は得られていない。どうすればこの河川を元に戻せるのだろうか。]]></summary>
         <author>
             <name>Olga Dobrovidova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Trusted Advisor が AWS Security Hub と統合]]></title>
-        <id>001464eb6e47b42e0227aa3dc6cdcf7324449a13</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/"/>
-        <updated>2022-01-20T20:20:02.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Trusted Advisor で、AWS Security Hub の Foundation Security Best Practices から自動的に取り込まれる 111 個のチェックが追加されました。Security Hub チェックの全一覧は、ここをクリックしてください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Location Service のマトリックスルーティングを発表]]></title>
-        <id>dc11c7373a28d4ab64ec9f747e6bfcfa61be1169</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-matrix-routing/"/>
-        <updated>2022-01-20T20:19:15.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Location Service にマトリックスルーティングが追加されました。これにより、顧客が複数の出発地から目的地までの運転時間と運転距離をすばやく簡単に計算できるようになります。マトリックスルーティングを使用すると、デベロッパーは 1 回の API リクエストで複数のルート計算におけるレイテンシを低減し、コードを簡素化し、顧客のエクスペリエンスを向上させることができます。例えば、配達ルートの計画を立てるアプリケーションでは、Amazon Location のマトリックスルーティング機能を使用して、所定時間のすべての配達の運転時間と距離をリクエストできるようになります。最大 350 箇所の配送元と 350 箇所の目的地の対の合計 122,500 の運転時間と距離を、単一のリクエストで取得できます。これにより、リクエストの回数とレイテンシーを減らすことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Location Service では、すべてのお客様のユースケースに対してリクエストベースの価格設定を可能にします]]></title>
-        <id>20e5c33bd6e25241471615dd3ff37524d72771bb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/"/>
-        <updated>2022-01-20T20:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Location Service では、アセットベースのアプリケーションを含むすべてのお客様のユースケースに対して、リクエストベースの価格設定を提供できるようになりました。例えば、配達のアプリケーションを構築するデベロッパーが配達先の住所に関連付けられた位置（緯度/経度）を特定する必要がある場合、検索された住所ごとに支払いが可能になります。Amazon Location なら、前払い料金も、必要な最低利用料金も、長期契約も必要ありません。デベロッパーは、アセットベースのアプリケーションに位置認識を追加するのがさらに簡単になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が Amazon CloudWatch でパフォーマンスと容量のメトリクスの提供を開始]]></title>
-        <id>5497651030161d36d854453902ab80fba61803ad</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/"/>
-        <updated>2022-01-20T20:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP で Amazon CloudWatch のメトリクスを利用可能になりました。これにより、ご使用のファイルシステムとボリュームのパフォーマンスとストレージ使用量のメトリクスをモニタリングし、アラームを設定できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard が SUSE Linux Enterprise Server と SAP HANA、S/4HANA、および BW/4HANA の最新バージョンをサポート]]></title>
-        <id>8ef090986feb003571b0ef48ee701eb84da45a70</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/"/>
-        <updated>2022-01-20T20:16:52.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard が SAP S/4HANA 2021、SAP BW/4HANA 2021、SAP HANA SPS06、および SUSE Linux Enterprise Server (SLES) 15 SP3 のサポートを開始しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) で利用可能になりました。]]></title>
-        <id>81d098dcb42a40ccffb7603fd1c329b7df3fd838</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/"/>
-        <updated>2022-01-20T20:16:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS Panorama がアジアパシフィック (シドニー) とアジアパシフィック (シンガポール) のリージョンで利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
