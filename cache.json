@@ -2251,6 +2251,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "911313b19b0f6476ef63441a5121ed220ee54385",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift のデータ共有を使用すると、データのコピーやデータの移動に伴う複雑さや遅延を伴うことなく、別々の Redshift クラスター間でトランザクションに一貫性のあるライブデータを共有できます。同じ AWS アカウント内およびアカウント間のクラスター間でデータを共有する機能は既に利用可能です。異なる AWS リージョンの Redshift クラスター間でのデータ共有が利用可能になりました。クロスリージョンのデータ共有は、すべての Amazon Redshift RA3 ノードタイプでサポートされています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/",
+          "publishedOn": "2022-02-21T08:39:14.000Z",
+          "wordCount": 239,
+          "title": "Amazon Redshift クロスリージョンデータ共有のお知らせ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9974d37caeb64898276c5ee125dafad52d558f86",
           "author": "aws@amazon.com",
           "description": "AWS Resource Access Manager (AWS RAM) は、PCI DSS (Payment Card Industry Data Security Standard) 準拠サービスとなりました。AWS RAM は、組織内の AWS アカウント間または AWS Organizations 内の組織単位 (OU) 間で、ならびにサポートされているリソースタイプの AWS Identity and Access Management (IAM) ロールおよび IAM ユーザーとの間で、AWS リソースを安全に共有するのに役立ちます。",
