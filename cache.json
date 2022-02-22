@@ -1767,24 +1767,6 @@
           "publishedOn": "2022-01-24T15:43:22.000Z",
           "wordCount": 188,
           "title": "Kubernetesにわざと障害を起こさせる仕組みを組み込める「LitmusChaos」がCNCFのインキュベーションプロジェクトに昇格"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/nginxigor_sysoevf5nginx.html",
-          "author": null,
-          "description": "世界中で最も使われているWebサーバの1つ「NGINX」のオリジナル開発者であり、NGINX社の協同創業者でもあるIgor Sysoev氏が、F5とNGINXから離れることが発表されました。 Sysoev氏は今後、家族との時間や個人的なプロ...",
-          "link": "https://www.publickey1.jp/blog/22/nginxigor_sysoevf5nginx.html",
-          "publishedOn": "2022-01-23T15:02:10.000Z",
-          "wordCount": 284,
-          "title": "NGINX開発者のIgor Sysoev氏が引退を発表。F5とNGINXから退任"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/22022.html",
-          "author": null,
-          "description": "調査会社のIDC japanは、サーバーとエンタープライズストレージシステムを合算した国内エンタープライズインフラ市場についての予測を発表しました（ストレージシステムはExternalおよびStorage Expansionのみ）。 発表に...",
-          "link": "https://www.publickey1.jp/blog/22/22022.html",
-          "publishedOn": "2022-01-23T14:59:58.000Z",
-          "wordCount": 163,
-          "title": "国内エンタープライズ向けインフラ市場は過去2年連続でマイナス成長。今年2022年はプラス成長へ"
         }
       ]
     },
@@ -2361,6 +2343,26 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "4e1f04b1565bc8356eabb354f6803a08e44e7f7a",
+          "author": "aws@amazon.com",
+          "description": "AWS 暗号化オープンソースライブラリで、QUIC プロトコルのオープンソース Rust 実装である s2n-quic が利用可能になったことをお知らせします。また、TLS プロトコルの AWS のオープンソース C 実装である s2n の名前が s2n-tls になります。 s2n-quic は、シンプルさを優先して、高速で小型になるように設計された API を搭載しています。 Rust で記述されているため、パフォーマンス、スレッド、メモリの安全性など、いくつかの利点を享受できます。TLS 1.3 ハンドシェイクの場合、s2n-quic は s2n-tls、または TLS のオープンソース Rust 実装である Rustls に依存します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/",
+          "publishedOn": "2022-02-22T02:56:14.000Z",
+          "wordCount": 261,
+          "title": "AWS は、QUIC プロトコルの新しいオープンソース実装である s2n-quic を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3f81ffa9a7bce795f82ad69800ddaa1cb2da8442",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用した AWS Fargate で、Amazon Elastic Kubernetes Service (EKS) で実行するアプリケーションのメトリクス収集をサポート対象に追加しました。ADOT は、AWS がサポートする OpenTelemetry プロジェクトの安全なディストリビューションです。お客様は、CPU、メモリ、ディスク、ネットワークなどの EKS Fargate メトリクスを簡単に収集し、Amazon CloudWatch の他のコンテナメトリクスと一緒に分析できるようになりました。これにより、お客様は CloudWatch Container Insights コンソールでアプリケーションのパフォーマンスとリソース使用率を直接観察できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/",
+          "publishedOn": "2022-02-22T02:50:14.000Z",
+          "wordCount": 286,
+          "title": "Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry を使用した Amazon EKS Fargate をサポート対象に追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "911313b19b0f6476ef63441a5121ed220ee54385",
           "author": "aws@amazon.com",
