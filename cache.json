@@ -3592,6 +3592,16 @@
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
         {
+          "id": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220225",
+          "author": null,
+          "description": "2022年2月の Rails / OSS パッチ会を 2月25日(金)に Discord でオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひ…",
+          "link": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220225",
+          "publishedOn": "2022-02-22T08:21:50.000Z",
+          "wordCount": 294,
+          "title": "Rails / OSS パッチ会オンライン 2022年2月のお知らせ",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438066077327/1645518110"
+        },
+        {
           "id": "https://blog.agile.esm.co.jp/entry/2022/01/28/180000",
           "author": null,
           "description": "こんにちは。ima1zumi です。 私の開発している Rails アプリでは、Excel で読み込めるように 文字コードを Windows-31J に変換して CSV を出力する機能があります。 先日、CSV 出力にて Unicode の波ダッシュ 〜 を Windows-31J に変換しようとして Encoding::UndefinedConversionError が発生して CSV 出力に失敗したことがありました。なぜエラーになるのか、どうやって対応するのかをまとめました。 まとめ encode メソッドの fallback オプションを使って未定義文字の変換先を定義することで変換でき…",
