@@ -3420,42 +3420,6 @@
           "publishedOn": "2022-01-24T19:35:48.000Z",
           "wordCount": 285,
           "title": "Amazon EMR がデータレイク向けの高パフォーマンス、並列処理、ACID に準拠しているテーブルフォーマットの Apache Iceberg のサポートを開始"
-        },
-        {
-          "id": "6d74246fd776c5e42bbbbf7a7f4816c04f4c72c5",
-          "author": "aws@amazon.com",
-          "description": "Amazon S3 Object Ownership の設定であるバケット所有者の強制を使用して、AWS 中国 (北京)、AWS 中国 (寧夏)、および AWS GovCloud (米国) リージョンでアクセスコントロールリスト (ACL) を無効にして、S3 に保存されたデータのアクセス管理を簡素化できるようになりました。このバケットレベルの設定を適用すると、S3 バケット内のすべてのオブジェクトがバケット所有者によって所有され、許可を付与するために ACL が使用されることはなくなります。その結果、データへのアクセスは、IAM ID に適用される AWS Identity and Access Management (IAM) ポリシー、セッションポリシー、Amazon S3 バケットとアクセスポイントポリシー、Virtual Private Cloud (VPC) エンドポイントポリシーを含むポリシーに基づきます。この設定は、バケット内の新規オブジェクトと既存オブジェクトの両方に適用され、IAM ポリシーを使用してこの設定へのアクセスをコントロールできます。この新しい S3 Object Ownership 設定を使用すると、ポリシーのみを使用して、Amazon S3 の共有データセットへのアクセスを簡単に確認、管理、変更できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-s3-object-ownership-control-lists-aws-china-govcloud/",
-          "publishedOn": "2022-01-24T14:48:27.000Z",
-          "wordCount": 332,
-          "title": "Amazon S3 Object Ownership で、AWS 中国 (北京)、AWS 中国 (寧夏)、および AWS GovCloud (米国) リージョンのアクセスコントロールリストの無効化が可能に"
-        },
-        {
-          "id": "48163a5c2eefc2f91b1e25126a1c127432fac273",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR と AWS Lake Formation の統合を使用する場合に、Glue Data Catalog テーブルを更新するために Apache Spark SQL を使用することについてのサポートを発表します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-apache-spark-sql-glue-data-catalog-lake-formation/",
-          "publishedOn": "2022-01-24T14:47:39.000Z",
-          "wordCount": 315,
-          "title": "Amazon EMR が Apache Spark SQL のサポートを開始し、Lake Formation の統合が有効になっている場合に Glue Data Catalog テーブルへのデータ挿入や更新が可能に"
-        },
-        {
-          "id": "f1d616e25835a6a384e9b19da1b8e1136d6e38b8",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty では、新しい脅威検出機能をご利用いただけるようになりました。この機能は、関連付けられた EC2 インスタンスが実行されているものとは異なる AWS アカウントが所有する IP アドレスから、API を呼び出すために EC2 インスタンスの認証情報が使用されたときに通知します。新しい検出結果タイプは、UnauthorizedAccess:IAMUser/InstanceCredentialExfiltration.InsideAWS です。Amazon GuardDuty は EC2 インスタンスの認証情報が AWS の外部から使用されたときに常に通知しますが、この新しい脅威検出は、悪意のあるアクターが、別の AWS アカウントから EC2 インスタンスの認証情報を使用して検出を回避するのを抑制します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-guardduty-ec2-instance-credentials-aws-account/",
-          "publishedOn": "2022-01-24T14:46:51.000Z",
-          "wordCount": 331,
-          "title": "Amazon GuardDuty で、別の AWS アカウントから使用された EC2 インスタンスの認証情報の検出が可能に"
-        },
-        {
-          "id": "34390b48ed99dacd9bdd64974166d1598a07192a",
-          "author": "aws@amazon.com",
-          "description": "AWS Client VPN では、VPN セッションが確立されたときに、AWS Client VPN Desktop アプリケーションにカスタマイズ可能なバナーを表示する機能をすべてのお客様にご利用いただけるようになりました。バナーテキストには、VPN アクセスを許可する前にエンドユーザーに表示されるプライバシーおよびセキュリティに関する通知を含めることができます。今後、お客様は、AWS コンソールまたは API を使用してバナーテキストを設定し、AWS Client Desktop アプリケーション (Windows v2.0.0 以降向けの AWS Client VPN、MacOS v2.0.0 以降向けの AWS Client VPN、Ubuntu Linux v2.0.0 以降向けの AWS Client VPN) で表示できるようになります。お客様は、特定のセキュリティおよびコンプライアンス要件を満たすのに役立つ最大セッション期間を設定することもできます。最大セッション期間は、VPN セッションを確立する前にエンドユーザーに再認証することを求めるトリガーです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/",
-          "publishedOn": "2022-01-24T14:46:03.000Z",
-          "wordCount": 300,
-          "title": "AWS Client VPN がバナーテキストと最大セッション期間のサポートを開始"
         }
       ]
     },
