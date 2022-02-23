@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-23T07:02:51.772Z</updated>
+    <updated>2022-02-23T08:03:11.533Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3478,36 +3478,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-emr-integration/"/>
         <updated>2022-01-24T23:31:02.000Z</updated>
         <summary type="html"><![CDATA[Amazon SageMaker Pipelines は、お客様がモデル構築ステップをワークフローとして定義し、オーケストレートすることができるフルマネージドサービスです。本日は、機械学習エンジニアが Amazon EMR クラスターで Apache Spark、Presto、Hive などのオープンソースフレームワークを使用してデータ処理アプリケーションを実行することができる新しいステップタイプをご紹介します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FinSpace マネージド Apache Spark クラスターが Apache Spark 3 をサポート]]></title>
-        <id>3671f33f7e5773ca98e247d76a57f598df785617</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-finspace-apache-spark-clusters-3/"/>
-        <updated>2022-01-24T19:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FinSpace マネージド Spark クラスターが Apache Spark 3.1.2 をサポートApache Spark 3 は、取引に関する大規模なファクトテーブルと実行センターに関する小規模なディメンションテーブルを結合するような結合を最適化する動的パーティションプルーニングなどのクエリ最適化機能を備えています。また、ANSI SQL 基準との互換性を高めるための変更を含み、30 個の新しい組み込み関数を特徴としています。FinSpace Spark クラスターでは、アナリストはクラスターの起動、接続、サイズ変更、終了を簡単に行うことができます。FinSpace Spark クラスターは 5 つのサイズから選択でき、ワークロードに適した構成を選択できます。また、ペタバイトスケールの過去の金融時系列データを準備し分析するための時系列分析ライブラリが含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Migration Hub Strategy Recommendations に Aurora PostgreSQL の Babelfish のサポートを追加]]></title>
-        <id>22ac9ad52262c238d9d3ca6ef9e017697c3f59b6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/"/>
-        <updated>2022-01-24T19:37:40.000Z</updated>
-        <summary type="html"><![CDATA[AWS Migration Hub Strategy Recommendations は、PostgreSQL 上の Microsoft SQL Server アプリケーションをほとんどコード変更することなく移行およびリプラットフォームすることを検討しているお客様に Babelfish for Aurora PostgreSQL をお勧めすることができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EMR がデータレイク向けの高パフォーマンス、並列処理、ACID に準拠しているテーブルフォーマットの Apache Iceberg のサポートを開始]]></title>
-        <id>21791cca8c9f87cdfae4b8b67e71e8f832e11b92</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-emr-supports-apache-iceberg/"/>
-        <updated>2022-01-24T19:35:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EMR 6.5.0 に Apache Iceberg バージョン 0.12 が追加されたことをお知らせします。Apache Iceberg は、Amazon S3 内の大規模データセット用のオープンなテーブルフォーマットで、大規模テーブルに対する高速なクエリパフォーマンス、アトミックコミット、同時書き込み、SQL 互換の進化したテーブルを提供します。現在のリリースでは、EMR クラスター上で Apache Spark 3.1.2 を Iceberg テーブル形式で使用することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
