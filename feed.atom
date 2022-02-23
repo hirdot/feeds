@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T22:02:53.816Z</updated>
+    <updated>2022-02-23T00:07:50.087Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[機械学習と量子化学計算で「不斉触媒」の設計に成功＝金沢大]]></title>
+        <id>https://www.technologyreview.jp/n/2022/02/22/269554</id>
+        <link href="https://www.technologyreview.jp/n/2022/02/23/269554"/>
+        <updated>2022-02-22T22:25:17.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可動部が一切ない自動運転車用LIDAR、産総研発ベンチャーが開発]]></title>
         <id>https://www.technologyreview.jp/n/2022/02/22/269529</id>
@@ -3549,16 +3558,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/"/>
         <updated>2022-01-24T14:46:03.000Z</updated>
         <summary type="html"><![CDATA[AWS Client VPN では、VPN セッションが確立されたときに、AWS Client VPN Desktop アプリケーションにカスタマイズ可能なバナーを表示する機能をすべてのお客様にご利用いただけるようになりました。バナーテキストには、VPN アクセスを許可する前にエンドユーザーに表示されるプライバシーおよびセキュリティに関する通知を含めることができます。今後、お客様は、AWS コンソールまたは API を使用してバナーテキストを設定し、AWS Client Desktop アプリケーション (Windows v2.0.0 以降向けの AWS Client VPN、MacOS v2.0.0 以降向けの AWS Client VPN、Ubuntu Linux v2.0.0 以降向けの AWS Client VPN) で表示できるようになります。お客様は、特定のセキュリティおよびコンプライアンス要件を満たすのに役立つ最大セッション期間を設定することもできます。最大セッション期間は、VPN セッションを確立する前にエンドユーザーに再認証することを求めるトリガーです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アジアパシフィック (大阪) における Amazon RDS スナップショットの S3 へのエクスポート機能のお知らせ]]></title>
-        <id>0372b4b8c6bdab219e03ff5a40b4e70967a54c73</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/"/>
-        <updated>2022-01-24T10:31:06.000Z</updated>
-        <summary type="html"><![CDATA[アジアパシフィック (大阪) の Amazon Relational Database Service (Amazon RDS) で、分析用の効率的なオープンカラムナーストレージ形式である Apache Parquet 形式でスナップショットデータを Amazon S3 にエクスポートできるようになりました。Parquet 形式は、テキスト形式と比較して、エクスポートが最大 2 倍速く、Amazon S3 でのストレージ使用量が最大 6 倍少なくすみます。エクスポートしたデータは、Amazon Athena や Amazon SageMaker などの AWS のツール、または Apache Spark などのオープンソースのビッグデータフレームワークを使用して分析できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
