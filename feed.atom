@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T04:02:43.725Z</updated>
+    <updated>2022-02-25T05:02:48.216Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MariaDB が遅延レプリケーションのサポートを開始]]></title>
+        <id>07a1f860cafbc981d843e815a365ce6ebab1c03b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/"/>
+        <updated>2022-02-25T04:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MariaDB では遅延レプリケーションがサポートされ、リードレプリカをソースデータベースより遅らせる時間を設定できるようになりました。MariaDB レプリケーションの標準設定では、ソースとレプリカの間のレプリケーション遅延が最小限に抑えられます。遅延レプリケーションでは、災害対策の戦略として意図的な遅延を導入できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年2月25日号　PPA用の新しいドメインの追加，GigabyteとCanonicalのパートナーシップ ── Ubuntu Weekly Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202202/25</id>
