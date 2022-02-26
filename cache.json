@@ -2382,6 +2382,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "01967ae1d51b2d0989d4004023ea2e9dceef8a0f",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/",
+          "publishedOn": "2022-02-26T00:26:14.000Z",
+          "wordCount": 239,
+          "title": "AWS Transfer Family がログインバナーのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f625b57d9484997e449505dc1daed54ee955a62f",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for SQL Server は、Standard Edition において、すべての AWS リージョンのマルチ AZ 設定用に Always On 可用性グループ (AG) の提供を開始しました。新たな高可用性オプションにより SQL Server におけるエンタープライズグレードの本稼働ワークロードの要件を満たすことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/",
+          "publishedOn": "2022-02-26T00:20:14.000Z",
+          "wordCount": 306,
+          "title": "Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "f46c3e4f6f02e05e3305d3b496281fa0969caf48",
           "author": "aws@amazon.com",
           "description": "NICE DCV ウェブクライアントソフトウェア開発キット (SDK) バージョン 1.1.0 には、React コンポーネントとして記述されたユーザーインターフェイス (UI) ライブラリが導入されています。デベロッパーは、ユーザーインターフェイスを最初から構築する代わりに、React UI コンポーネントを使用および変更して、アプリケーションをより高速に構築できるようになりました。",
@@ -3454,15 +3474,6 @@
           "publishedOn": "2022-01-28T12:30:55.000Z",
           "wordCount": 270,
           "title": "Amazon Textract は、単一ページの PDF ドキュメントの同期サポートと、JPEG 2000 でエンコードされた画像を含む PDF ドキュメントのサポートを追加"
-        },
-        {
-          "id": "cb3d6b534614ac6bd77aaad27dfe33130c3b66a3",
-          "author": "aws@amazon.com",
-          "description": "Amazon DocumentDB (MongoDB 互換) は、ミッションクリティカルな MongoDB ワークロードを運用するための、スケーラブルで高い耐久性を備えたフルマネージドデータベースサービスです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-compatibility-free-trial/",
-          "publishedOn": "2022-01-27T12:45:54.000Z",
-          "wordCount": 266,
-          "title": "Amazon DocumentDB (MongoDB 互換) 無料トライアルの提供開始"
         }
       ]
     },
