@@ -3396,42 +3396,6 @@
           "publishedOn": "2022-01-28T18:15:57.000Z",
           "wordCount": 261,
           "title": "Amazon S3 File Gateway がスケジュールベースのネットワーク帯域幅スロットリングを追加"
-        },
-        {
-          "id": "cddcf5da143eea2a0cba84e1b028c2e5d1fed2a3",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターアクティビティを継続的にモニタリングおよびプロファイリングして、コンテナワークロードに対する潜在的な脅威を表す悪意のあるまたは疑わしい動作を特定するためにカバレッジを拡張しました。Amazon GuardDuty for EKS Protection は、アカウント内の既存および新規の Amazon EKS クラスターからの Kubernetes 監査ログを分析することにより、コントロールプレーンのアクティビティをモニタリングします。GuardDuty は Amazon EKS と統合されているため、これらのログをオンにしたり保存したりしなくても、Kubernetes 監査ログに直接アクセスできます。脅威が検出されると、GuardDuty は、ポッド ID、コンテナイメージ ID、関連するタグなどのコンテナの詳細を含むセキュリティ検出結果を生成します。 GuardDuty for EKS Protection は、すべての新規および既存の GuardDuty アカウントでデフォルトで有効になり、GuardDuty または Amazon EKS で追加設定する必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/",
-          "publishedOn": "2022-01-28T12:33:45.000Z",
-          "wordCount": 325,
-          "title": "Amazon GuardDuty が Amazon Elastic Kubernetes Service クラスターの保護を開始"
-        },
-        {
-          "id": "996533586917ad5613f5598944b117a19c415787",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 R5b インスタンスが AWS アジアパシフィック (ソウル) リージョンでご利用いただけるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。R5b インスタンスは、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを実現し、R6i インスタンスと比較して 2 倍高い EBS 最適化パフォーマンスを実現します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/",
-          "publishedOn": "2022-01-28T12:32:57.000Z",
-          "wordCount": 306,
-          "title": "Amazon EC2 R5b インスタンスがアジアパシフィック (ソウル) で利用可能に"
-        },
-        {
-          "id": "219f5aa20dbc60cdd877f1090f4604a77e408714",
-          "author": "aws@amazon.com",
-          "description": "本日より、メモリに最適化された Amazon EC2 X2iezn インスタンスをご利用いただけるようになりました。Amazon EC2 X2iezn インスタンスは、インテル Xeon スケーラブルプロセッサの第 2 世代を搭載し、最大 4.5 GHz のオールコアターボ周波数を備えています。これはクラウドで最速です。X2iezn インスタンスは、クラウド内のインテル Xeon スケーラブルプロセッサから最高のオールコアターボ CPU パフォーマンスを実現し、さらに X1e インスタンスよりも最大 55% 優れたコンピューティングのコストパフォーマンスを実現します。これらは、Electronic Design Automation (EDA) ワークロードだけでなく、高いシングルスレッドプロセッサパフォーマンスと大きなメモリフットプリントの恩恵を受けるリレーショナルデータベースにも最適です。高いシングルスレッドコンピューティングパフォーマンスと、32:1 のメモリと vCPU 比を組み合わせることにより、X2iezn インスタンスは、物理検証、静的タイミング分析、電源サインオフ、フルチップゲートレベルシミュレーション、およびライセンスで制限されているデータベースワークロードなどの EDA ワークロードに最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/",
-          "publishedOn": "2022-01-28T12:31:44.000Z",
-          "wordCount": 326,
-          "title": "Amazon EC2 X2iezn インスタンスのご紹介"
-        },
-        {
-          "id": "d6a3a4755f8e5fd2c121e62bb321856dd83285f4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Textract は、スキャンされたドキュメントからテキスト、手書きの文字、データを自動抽出する機械学習サービスです。単純な光学文字認識 (OCR) のレベルにとどまらず、フォームやテーブルのデータも識別、理解したうえで抽出することが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/",
-          "publishedOn": "2022-01-28T12:30:55.000Z",
-          "wordCount": 270,
-          "title": "Amazon Textract は、単一ページの PDF ドキュメントの同期サポートと、JPEG 2000 でエンコードされた画像を含む PDF ドキュメントのサポートを追加"
         }
       ]
     },
