@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-26T22:02:52.619Z</updated>
+    <updated>2022-02-27T00:08:41.302Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[隠れニューラルネットを実装したAIチップ、東工大が開発]]></title>
+        <id>https://www.technologyreview.jp/n/2022/02/25/269822</id>
+        <link href="https://www.technologyreview.jp/n/2022/02/27/269822"/>
+        <updated>2022-02-26T22:21:03.000Z</updated>
+        <author>
+            <name>MIT Technology Review Event Producer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工透析の回避にアルドステロン拮抗薬、大阪大学が追跡研究]]></title>
         <id>https://www.technologyreview.jp/n/2022/02/21/269405</id>
@@ -3508,28 +3517,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[Amazon Textract は、スキャンされたドキュメントからテキスト、手書きの文字、データを自動抽出する機械学習サービスです。単純な光学文字認識 (OCR) のレベルにとどまらず、フォームやテーブルのデータも識別、理解したうえで抽出することが可能です。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誤ったIAMポリシーによるS3データへのAWSアクセスに関する疑問]]></title>
-        <id>https://www.infoq.com/jp/news/2022/01/aws-iam-s3-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/01/aws-iam-s3-access/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-01-28T10:08:00.000Z</updated>
-        <summary type="html"><![CDATA[AWSサポートが使うポリシーの予期しない変更により、顧客のS3データへのアクセスに関する懸念が生じた。当クラウドプロバイダは変更を元に戻した。アクセス許可は使用されなかったし、できなかったと述べ、セキュリティ速報を公開した。セキュリティ専門家は、将来の同じような問題を検出して防止するための手順を提案している。
- By Renato Losio  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javaニュース総まとめ：Brian GoetzによるプロジェクトValhallaの現状、GlassFish 7.0-M1、Project Loom Lab]]></title>
-        <id>https://www.infoq.com/jp/news/2022/01/java-news-roundup-dec27-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/01/java-news-roundup-dec27-2021/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-01-28T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年12月27日の週は非常に静かであった。しかし、InfoQは興味深いニュースをいくつか見つけた。それは、Brian Goetz氏が書いた3部構成のブログシリーズ「Project Valhallaの現状」、GlassFish 7.0.0-M1、Nicolai Parlog氏によって作成された新しいプロジェクト「Project Loom Lab」、Jakarta EEチュートリアルのJakarta EE 9.1への更新、Apache Camel 3.11.5、JDKMon 17.0.21である。
- By Michael Redlich  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Michael Redlich</name>
         </author>
     </entry>
     <entry>
