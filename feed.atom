@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T06:00:52.887Z</updated>
+    <updated>2022-03-02T07:00:39.772Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年3月2日　春は出会いの季節です ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0302</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0302"/>
+        <updated>2022-03-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暖かくなると，外ねこに出会える機会も増えますね。]]></summary>
+        <author>
+            <name>gihyo.jp：LIFESTYLE STAGE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第705回　Radeon Software for Linuxを使用する［2022年版］ ── Ubuntu Weekly Recipe]]></title>
         <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0705</id>
@@ -3856,56 +3866,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <id>5c5e76ecd134ccd22d2a64848f347352f252d176</id>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/"/>
         <updated>2022-01-31T19:01:14.000Z</updated>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS PrivateLinkのメトリクスの提供を開始]]></title>
-        <id>ee66713917940cbeeda48dafb73bebb0627a5055</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/metrics-aws-privatelink/"/>
-        <updated>2022-01-31T18:34:27.000Z</updated>
-        <summary type="html"><![CDATA[PrivateLinkベースのVPCエンドポイントおよびエンドポイントサービスに関する5つの新しいメトリクスにアクセスできるようになりました。AWS PrivateLinkは、フルマネージド型のプライベート接続サービスで、お客様はネットワークトラフィックを非公開にしたまま、AWS上でホストされているAWSサービスやサードパーティサービス、企業内サービスに安全かつ拡張性の高い方法でアクセスできるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSアジアパシフィック（大阪）でAmazon EC2 G4dnインスタンスの提供を開始]]></title>
-        <id>6037c3f1725657abbd874b79924e7287b7bf2da8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/"/>
-        <updated>2022-01-31T18:33:40.000Z</updated>
-        <summary type="html"><![CDATA[機械学習モデルを本番環境に導入するためのコスト効率の高いGPUプラットフォームを提供するAmazon EC2 G4dnインスタンスが、アジアパシフィック（大阪）AWSリージョンで利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS Performance InsightsがRDS for Oracleのクエリ実行プランキャプチャをサポートするようになりました。]]></title>
-        <id>9c41d31b96548072fe44433fc1ee46adf4101e5d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/"/>
-        <updated>2022-01-31T18:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS Performance Insights は、Amazon RDS for Oracleのクエリ実行プランの収集と追跡をサポートするようになり、クエリ実行プランの変更がパフォーマンスの悪化やスタックの原因であるかどうかをより容易に特定できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS アジアパシフィック (大阪) リージョンで Amazon Elastic File System (Amazon EFS) が利用可能に]]></title>
-        <id>70c1328cc50113b9f93f24c5fe798bca8ebf07a6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/"/>
-        <updated>2022-01-31T18:32:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS アジアパシフィック (大阪) リージョンのお客様に、Amazon Elastic File System (Amazon EFS) をご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for PostgreSQLとAmazon RDS on AWS OutpostsがPostgreSQL 14をサポートしました。]]></title>
-        <id>23f48bba3220a7cd0812b695b6c1093bb2aacecc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/"/>
-        <updated>2022-01-31T18:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS for PostgreSQL)とAmazon RDS on AWS OutpostsがPostgreSQLメジャーバージョン14をサポートするようになりました。 PostgreSQL 14 は、並列クエリ、重同期ワークロード、パーティション化されたテーブル、論理レプリケーション、およびバキューム処理に関する性能改善を含んでいます。PostgreSQL 14では、クライアントが切断された場合に長時間実行中のクエリをキャンセルしたり、アイドル状態のセッションをタイムアウトさせて終了させたり、ストアドプロシージャがデータを返したりといった新機能も追加され、機能性が向上しています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
