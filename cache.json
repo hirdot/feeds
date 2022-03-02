@@ -2011,6 +2011,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_02/116014",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails7_dartsass_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>週刊Railsウォッチ20220228でもお伝えしましたが、つい最近、dartsass-rails gemがRailsのGitHubリポジトリで正式に登場しました。 dartsass-railsは、本家Dart Sassのバイナリ実行ファイルをラップしています。現時点ではLinuxとmacOSでi32版とx64版、Windowsでx64版のバイナリ実行ファイルがあります。今回初めて気づきましたが、Dart Sassは2016年のごく初期からバイナリ実行ファイルをリリースし続けているんですね。 参考: Releases · sass/dart-sass どこかで見たような話ですね。そう、以下の記事にも書いたように、 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_02/116014\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: dartsass-rails gemはNode.jsなしで使える</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_02/116014",
+          "publishedOn": "2022-03-02T08:30:01.000Z",
+          "wordCount": 672,
+          "title": "Rails 7: dartsass-rails gemはNode.jsなしで使える",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails7_dartsass_eyecatch-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_01/115984",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/02/railswatch_20220301_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_01/115984\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Ruby標準のCSVライブラリは優秀、if代入のコーディングスタイル、rambulanceほか（20220301後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -3550,6 +3560,16 @@
           "title": "AWS Panorama Appliances の Amazon.com と Amazon ビジネスでの購入が可能になりました"
         },
         {
+          "id": "6b374f82239e1c1fe6c92065e2c0ceb5186fae0d",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch を使用して、Systems Manager Automation の同時実行数またはキューイング数を可視化および監視できるようになりました。また、CloudWatch アラームを作成し、使用量が AWS アカウントで利用可能なサービスクォータの 80 %など、定義されたしきい値を超えた場合に通知を受けることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/",
+          "publishedOn": "2022-02-02T09:32:28.000Z",
+          "wordCount": 257,
+          "title": "AWS Systems Manager Automationでは、Amazon CloudWatch でのサービス利用枠の監視が可能になりました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "edc4c8d207685dec3e89f89e176c6ff43cdbe817",
           "author": "aws@amazon.com",
           "description": "",
@@ -3640,6 +3660,16 @@
           "publishedOn": "2022-02-01T06:01:01.000Z",
           "wordCount": 295,
           "title": "Amazon SageMaker Autopilot が、Apache Parquet ファイル形式のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5c5e76ecd134ccd22d2a64848f347352f252d176",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Managerは、最大 500 件の Automation 同時実行に対応し、より大規模なインスタンスのパッチ適用などのオペレーションタスクの自動化を可能にします。 アダプティブ高同時実行性を有効にすると、Automation はスケーリング要件に基づいて同時実行性クォータを自動的に増減させます。Automation 環境設定タブから、アダプティブ高同時実行性を有効にすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/",
+          "publishedOn": "2022-02-01T05:56:17.000Z",
+          "wordCount": 249,
+          "title": "AWS Systems Manager で Automation 実行時の並行処理を強化",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         },
         {
