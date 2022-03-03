@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T02:21:32.241Z</updated>
+    <updated>2022-03-03T03:02:46.886Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS App Runner は Java プラットフォームを追加]]></title>
+        <id>31b68582faca9971ce75f27e6b024e6f40c70614</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/"/>
+        <updated>2022-03-03T02:38:18.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Runner は、Java ベースのウェブアプリケーションを構築および実行するための Java 言語プラットフォームのサポートを開始しました。App Runner の Java 言語プラットフォームは、2 つの Amazon Corretto ランタイム (Corretto 11 と Corretto 8) で起動しました。どちらのランタイムも、それぞれの Corretto ランタイムバージョンに加えて、Maven ツールと Gradle ツールをアプリケーションのコンテナに追加します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Mesh が Agent for Envoy を導入]]></title>
+        <id>5a1dd756690702c90df514f690692d5e22725ff0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/"/>
+        <updated>2022-03-03T02:37:30.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Mesh は、Envoy プロキシをモニタリングし、正常に保つのに役立つ新しいコンポーネントである Agent for Envoy を導入します。Agent for Envoy は、Envoy 接続のドレインも容易にし、アプリケーションの障害に対する耐性を高めます。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピューティングインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch エージェントは、NVIDIA GPU メトリクスのサポートを追加]]></title>
+        <id>cd816a02127f9485a75332a6bab2341feb73630d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/"/>
+        <updated>2022-03-03T02:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch エージェントは、Linux を実行している Amazon Elastic Compute Cloud (Amazon EC2) 高速コンピューティングインスタンスからの NVIDIA GPU パフォーマンスメトリクスのコレクションのサポートを開始しました。GPU ベースのインスタンスは、数千のコンピューティングコアを備えた NVIDIA GPU へのアクセスを提供します。これらのインスタンスを使用して、科学、工学、およびレンダリングのアプリケーションを高速化できます。お客様は、CloudWatch エージェントをインストールおよび設定して、Amazon EC2、オンプレミスホスト、およびコンテナ化されたアプリケーションからシステムとアプリケーションのメトリクスを収集し、CloudWatch に送信できます。CloudWatch は、アプリケーションをモニタリングし、リソース使用率の最適化を行うためのデータと実用的なインサイトを提供します。GPU メトリクスは、EC2 アクセラレーションインスタンスで GPU コプロセッサーの使用率をモニタリングしたいユーザーを対象としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 が、リクエストの整合性チェックを最大 90% 高速化]]></title>
+        <id>ee752d05bb7868fe1f13333eb3d11b3e51688c11</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/"/>
+        <updated>2022-03-03T02:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Simple Storage Service (Amazon S3) は、リクエストの整合性チェックを最大 90% 高速化します。クラウドで初めて、アップロードおよびダウンロードリクエストのデータ整合性チェックをサポートする 4 つのチェックサムアルゴリズムから選択できます。さらに、AWS SDK および S3 API の機能強化により、チェックサムの効率が大幅に向上し、パフォーマンスが向上し、データ検証のコストが削減されます。S3 からデータを保存または取得するときにチェックサムを自動的に計算および検証でき、新しい S3 API または S3 Inventory レポートを使用していつでもチェックサム情報にアクセスできます。データ検証にチェックサムを使用することは、データの耐久性のベストプラクティスであり、これらの機能により、パフォーマンスが向上し、そのためのコストが削減されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch エージェントは、ログフィルター式のサポートを追加]]></title>
+        <id>181d328489281b546d0904384ad66f64501a7098</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/"/>
+        <updated>2022-03-03T02:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch エージェントは、設定可能なログフィルター式のサポートを追加しました。お客様は CloudWatch エージェントをインストールして設定して、Amazon Elastic Compute Cloud (EC2)、オンプレミスホスト、コンテナ化されたアプリケーションからシステムとアプリケーションのログを収集し、CloudWatch に送信できます。この新しい設定オプションは、指定された条件を満たすログイベントのみを収集するユーザー向けです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue Schema Registry が Protocol Buffers (Protobuf) スキーマのサポートを開始]]></title>
+        <id>859d15db97e65e7485b12a4c6ad33251ae8788f7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/"/>
+        <updated>2022-03-03T02:34:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue Schema Registry は、Protocol Buffers (Protobuf) スキーマのサポートを開始しました。これにより、お客様は Protobuf スキーマを使用して、ストリーミングデータの進化を管理し、データストリームからデータレイクまでのデータ品質を一元管理できます。Glue Schema Registry は、Apache Kafka/Amazon Managed Streaming for Apache Kafka (Amazon MSK)、Amazon Kinesis Data Streams および Kafka Streams 用に開発された Java アプリケーションと統合する Protobuf 用の Apache ライセンスのシリアライザーとデシリアライザーとなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Serverless Application Model (AWS SAM) CLI での TypeScript ネイティブサポート (esbuild を使用) (パブリックプレビュー) を発表]]></title>
+        <id>f4ea26e0be3be8fed390688d03415b3562f34736</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/"/>
+        <updated>2022-03-03T02:33:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS Serverless Application Model (SAM) CLI は、TypeScript ネイティブサポートのパブリックプレビューを発表します。SAM CLI は、サーバーレスアプリケーションの初期化と設定、ローカルおよび AWS クラウドでの構築とテスト、AWS CloudFormation を使用したデプロイを目的としたデベロッパーツールです。SAM CLI の構築、テスト、およびデプロイ機能は、Visual Studio Code、JetBrains、WebStorm などの IDE からも使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch エージェントが、ロググループの保持期間を設定可能に]]></title>
+        <id>6f191ed8703a425b2fec5cf3cc73f5826299c65a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/"/>
+        <updated>2022-03-03T02:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch エージェントで、CloudWatch がログイベントを保持する期間を指定できるようになりました。CloudWatch エージェントをインストールして設定して、Amazon Elastic Compute Cloud (EC2)、オンプレミスホスト、コンテナ化されたアプリケーションからシステムとアプリケーションのログを収集し、CloudWatch に送信できます。この新しい設定オプションは、エージェントをデプロイするときにロググループの保持期間を統一したいユーザー向きです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS の支払い設定をカスタマイズするための支払いプロファイルを発表]]></title>
+        <id>18b9ee13f70d8d25e2df421552bd55d634d1cc8e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/"/>
+        <updated>2022-03-03T02:31:52.000Z</updated>
+        <summary type="html"><![CDATA[支払いプロファイルは、AWS サービスプロバイダー (「レコードの販売者」とも呼ばれます) による支払い設定をカスタマイズできる新しい支払い機能です。支払いプロファイルを使用すると、選択した支払い方法を使用して、さまざまなサービスプロバイダーから AWS の請求書を自動的に支払うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify で、The Authenticator UI Library for Flutter の一般提供を発表]]></title>
+        <id>89ddf27cf610a26b6e5a2c6b88e3d5008d77cb59</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-amplify-authenticator-ui-library-flutter/"/>
+        <updated>2022-03-03T02:31:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS Amplify で、The Authenticator UI Library for Flutter の一般提供が発表されます。Authenticator UI ライブラリを使用すると、Flutter デベロッパーは数分でログイン/登録エクスペリエンスを作成できます。デベロッパーが認証カテゴリを追加し、Amplify CLI または Amplify Studio から認証と検証の属性を設定すると、それに応じて Authenticator のログイン/登録フォームが表示されます。デベロッパーは、Authenticator フォームにカスタムテーマを適用し、ログイン/サインアップフィールドの検証をオーバーライドすることもできます。デベロッパーは、サインアップフォームで使用されるプロファイル属性フィールドを追加/削除することもできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Glue DataBrew で、レシピジョブ用に生成する単一または複数の出力ファイルの指定が可能に]]></title>
         <id>00a09f72f856ddf4a35230871186eef646466ef3</id>
