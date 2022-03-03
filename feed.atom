@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-03T01:26:53.015Z</updated>
+    <updated>2022-03-03T02:21:32.241Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue DataBrew で、レシピジョブ用に生成する単一または複数の出力ファイルの指定が可能に]]></title>
+        <id>00a09f72f856ddf4a35230871186eef646466ef3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-glue-databrew-output-files-recipe-jobs/"/>
+        <updated>2022-03-03T01:54:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue DataBrew をご利用のお客様は、DataBrew のレシピジョブ用に、自動生成ファイルではなく、単一または複数の出力ファイルを選択できるようになりました。お客様は、出力が小さい場合、またはダウンストリームシステムが出力をより簡単に使用する必要がある場合 (視覚化ツールなど) に、単一の出力ファイルを生成できます。場合によっては、効率的なストレージと転送のために出力ファイルのパーティションをカスタマイズしたいことがあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune が AWS アフリカ (ケープタウン) リージョンで利用可能に]]></title>
+        <id>574a926b7341cd08c1e9db6bc2bce1382feb7c7f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-neptune-africa-region/"/>
+        <updated>2022-03-03T01:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Neptune は、AWS アフリカ (ケープタウン) リージョンにおいて、エンジンバージョン 1.1.0.0 以降で利用可能になりました。R5、R5d、および T3 インスタンスタイプを使用して Neptune クラスターを作成できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling Warm Pool が、インスタンスの休止機能と、スケールイン時にインスタンスを Warm Pool に戻す機能のサポートを開始]]></title>
+        <id>e3bbf84de55fb1e0dfbe7a0e55123718b9a4acd7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/"/>
+        <updated>2022-03-03T01:50:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 Auto Scaling の Warm Pool は、2 つの新機能、すなわち、Warm Pool インスタンスの休止機能、およびスケールイン時に実行中のインスタンスを Warm Pool に戻すように Auto Scaling グループを設定する機能をサポートするようになりました。Warm Pool を使用すると、インスタンスを EC2 インスタンスの事前に初期化されたプールからサービスに移行することで、より迅速にスケールアウトできます。Warm Pool は、ギガバイト単位のデータのロード、サービスのプロビジョニング、カスタムスクリプトの実行など、時間のかかる初期化手順があり、EC2 インスタンスがトラフィックを処理できるようになるまでに数分以上かかる可能性があるアプリケーションに最適です。
+ 
+ 
+ 
+Warm Pool の休止機能のサポートは、メモリ状態の重要なスケールアウトを伴うアプリケーションをより迅速に支援します。以前にサポートされていた停止状態と実行状態に加えて、Warm Pool インスタンスを休止状態にすることを選択できるようになりました。休止を選択すると、稼働前に重要なメモリ状態を再構築する必要があるインスタンスについて、ディスクの状態だけでなく EC2 インスタンスの状態全体を事前に初期化できます。
+ 
+ 
+Warm Pool にスケールインすると、スケールイン中に新しい Warm Pool インスタンスを再構築する必要がなくなります。この機能拡張により、スケールインイベント中に実行中のインスタンスを Warm Pool に戻すことができます。これまで、EC2 Auto Scaling は、スケールイン中に実行中の「稼働中」のインスタンスの 1 つを終了してから、新しいインスタンスを起動して事前に初期化し、Warm Pool を補充していました。今後は、インスタンスをご希望の状態 (停止、休止、または実行中ではあるがアイドル状態) で Warm Pool に戻すことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MariaDB が IAM 認証のサポートを開始]]></title>
+        <id>63f0411a60322c0fac17b4896fa7be841bc85a28</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-mariadb-iam-authentication/"/>
+        <updated>2022-03-03T01:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) では、AWS Identity and Access Management (IAM) を使用して、Amazon RDS for MariaDB インスタンスのデータベースアクセスを管理できるようになりました。データベースの管理者はデータベースユーザーと IAM ユーザーやロールを関連付けることができるようになりました。IAM を使用することで、AWS リソースへのユーザーアクセスを 1 か所で管理でき、別の AWS リソースと同期していない許可に起因する問題を回避できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Firewall Manager が AWS Network Firewall の集約型デプロイモデルのサポートを開始]]></title>
+        <id>110f4a0be1f3a8ef659db13dd8a5b742d0ff9736</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/"/>
+        <updated>2022-03-03T01:46:50.000Z</updated>
+        <summary type="html"><![CDATA[AWS Firewall Manager では、AWS Network Firewall をデプロイし、集約型デプロイモデルを使用してトラフィックを検査できるようになりました。これまで、Firewall Manager では、分散型デプロイモデルでのみ AWS Network Firewall をデプロイすることが可能でした。このモデルでは、保護が必要な各 VPC に AWS Network Firewall をデプロイすることになります。このリリースでは、お客様は Firewall Manager を使用して、分散型デプロイモデルまたは集約型デプロイモデルのいずれかで AWS Network Firewall をデプロイできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年3月第1週　寝室で使うための「読書タブレット」選び（後編） ── Android Weekly Topics]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/awt/202203/03</id>
