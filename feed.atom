@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-04T10:00:45.293Z</updated>
+    <updated>2022-03-04T22:00:36.008Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS は中国を拠点とするお客様向けに中国人民元でのお支払いのサポートを強化]]></title>
+        <id>800fb46f7d12d159e69f2c10e77d8773f95ec649</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/"/>
+        <updated>2022-03-04T19:31:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、Amazon Web Services, Inc. (以下「AWS Inc.」) からの請求書に対する中国人民元でのお支払いのサポートを強化しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS QnABot が Genesys Cloud コンタクトセンター、クライアントフィルター、機密情報のログのリダクションのサポートを追加]]></title>
+        <id>b12744a3da18a91f9678fb9355f9f4a29ab60a50</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/"/>
+        <updated>2022-03-04T19:31:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS ソリューションは、AWS QnABot をアップデートしました。AWS QnABot は、Amazon Lex をベースに構築された、オープンソース、マルチチャネル、マルチ言語の対話型 chatbot で、顧客の質問、返答、フィードバックに対応します。AWS QnABot ソリューションでは、お客様はプログラミングをすることなく、コンタクトセンター、ウェブサイト、ソーシャルメディアチャネル、SMS テキストメッセージ、Amazon Alexa などの複数のチャネルにセルフサービスの対話型 AI を迅速にデプロイすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MQ が RabbitMQ バージョン 3.8.27 のサポートを開始]]></title>
+        <id>066ad2875132b543aa6123209da2e4cdc981916a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/"/>
+        <updated>2022-03-04T19:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MQ は、バージョン 3.8.26 に対するいくつかの修正を含む、RabbitMQ バージョン 3.8.27 のサポートを提供するようになりました。Amazon MQ は、AWS でより簡単にメッセージブローカーのセットアップや運用を行うことを可能にする Apache ActiveMQ および RabbitMQ 向けの、マネージド型メッセージブローカーサービスです。Amazon MQ を使用して、運用上の負担を軽減し、メッセージブローカーのプロビジョニング、セットアップ、メンテナンスを管理することができます。Amazon MQ は業界標準の API とプロトコルを使用して現在のアプリケーションに接続するため、コードを書き直すこともなく AWS への移行を簡単に実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.5、12.9、11.14、10.19 をサポート]]></title>
+        <id>b84d4f7f32538b58ff4e3b53a9d8445009df5927</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-aurora-supports-additional-postgresql-versions/"/>
+        <updated>2022-03-04T19:20:23.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートに関する発表を受けて、AWS では Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL バージョン 13.5、12.9、11.14 および 10.19 が、商用リージョンおよび AWS GovCloud (米国) リージョンでサポートされるようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2 Hibernation がアジアパシフィック (ジャカルタ) とアジアパシフィック (大阪) AWS リージョンで利用可能に]]></title>
+        <id>a1e21c965fbe37e6605bf349f2ddfc4332a5b87e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/"/>
+        <updated>2022-03-04T19:19:35.000Z</updated>
+        <summary type="html"><![CDATA[EC2 Hibernation 機能がアジアパシフィック (ジャカルタ) とアジアパシフィック (大阪) AWS リージョンで利用可能になりました。休止機能により、EC2 インスタンスの起動、インスタンスの自由なセットアップと一時停止、そして一時停止状態のインスタンスを必要に応じて再開することが可能になります。インスタンスとアプリケーションは、コールドブートからメモリフットプリントを再構築する代わりに、中断したところからすぐに再開します。休止機能を使用すれば、事前ウォーミング済みのインスタンスフリートを維持することで、既存のアプリケーションを修正することなく、短時間で稼働状態に入ることができます。休止機能は Linux と Windows OS が動作するインスタンスで利用可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Braket が Oxford Quantum Circuits の新しい量子処理ユニットへのサポートを追加し、欧州 (ロンドン) リージョンで利用可能に]]></title>
+        <id>ea9809f5964b4da02af4c03ff7328c8c6ce0f6ec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/"/>
+        <updated>2022-03-04T19:18:29.000Z</updated>
+        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスの Amazon Braket は、英国の Oxford Quantum Circuits (OQC) の新しい超伝導ゲートベース量子処理ユニット (QPU) である通称 Lucy というサポートを追加しました。今回のリリースにより、欧州のお客様は、より多くの種類の量子ハードウェアを、欧州の一般的な勤務時間中に利用できるようになりました。さらに、お客様は Amazon Braket 上の 2 種類の超伝導ゲート型デバイスで量子プログラムを実行することで、異なるプロバイダー間の量子ハードウェアを比較対照することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GameLift が FlexMatch への 3 つのアップデートを発表し、より優れた柔軟性を実現]]></title>
+        <id>6b1d01216a67b386d9bb159f24e0280a7ba9b336</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/"/>
+        <updated>2022-03-04T19:17:41.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) マネージドサービスである Amazon GameLift の FlexMatch について 3 つのアップデートをお知らせいたします。GameLift FlexMatch は、強力なマッチメイキングアルゴリズムと柔軟なデベロッパー定義のルールを使用して AWS 規模で高品質のマッチを作成する機能として 2017 年にリリースされました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Application Migration Service が Windows Server 2003、2008、2022 および Windows 10 のサポートを開始]]></title>
+        <id>8f50c68abe709a7b28a877e5e8bd6960cc434abd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/"/>
+        <updated>2022-03-04T19:16:53.000Z</updated>
+        <summary type="html"><![CDATA[AWS Application Migration Service (AWS MGN) は、Windows Server 2003 (32 ビットおよび 64 ビット)、および Windows Server 2008 (32 ビットおよび 64 ビット) のサポートを追加しました。Application Migration Service を使用して、これらのレガシーオペレーティングシステムで動作するアプリケーションをリホストできるようになりました。Application Migration Service は、Windows 10 および Windows Server 2022 のサポートも追加しました。サービスのサポート対応オペレーティングシステム一覧を参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Container Insights は AWS Distro for OpenTelemetry を使用した Helm チャートをサポート対象に追加]]></title>
+        <id>09eec0f07622702c7f4b0806efb2cc76b5d9a0c4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/"/>
+        <updated>2022-03-04T19:16:05.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon CloudWatch Container Insights は、AWS Distro for OpenTelemetry (ADOT) を使用して Amazon EKS on EC2 用 Helm チャートをサポート対象とし、お客様が EKS 上に構築されたアプリケーションを容易に定義、インストール、アップグレードできるようにしました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon MSK Serverless が欧州 (アイルランド) で利用可能に]]></title>
         <id>e0c7e1b5b9a232798fbcc097e12f43b2f0edf480</id>
@@ -3987,130 +4077,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[北京冬季オリンピックが始まりましたね。つい半年ほど前に東京オリンピックをテレビで見ていた記憶がまだ鮮明に残っているところで冬のオリンピックが始まるのは、なんだか不思議な気がします。 さて、先月の人気記事トップ10を紹介していきましょう。 1...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_02_03/115289</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_02_03/115289"/>
-        <updated>2022-02-03T08:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_webpacker→jsbundling_webpack_upgrade_guide_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: jsbundling-rails/switch_from_webpacker.md at main · rails/jsbundling-rails 原文更新日: 2022/01/24（a1bcd96） ライセンス: MIT 表記の大文字小文字は「Webpacker」「Shakapacker」「webpack」「jsbundling-rails」「cssbundling-rails」に統一しました。 Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳） 本ガイドでは、Webpacker 5か [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_02_03/115289" data-wpel-link="internal" target="_self">Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バックナンバー】百聞は一見に如かず！！【データのじかん】データに関連する展示会情報局｜2022年1月公開版]]></title>
-        <id>https://data.wingarc.com/?p=38467</id>
-        <link href="https://data.wingarc.com/datatimes_recommended_event-backnumber-202201-38467?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_recommended_event-backnumber-202201"/>
-        <updated>2022-02-03T06:24:13.000Z</updated>
-        <summary type="html"><![CDATA[2022.01.10 update! 「IIFES 2022」（2022年1月26日開催） 「第19回 自動認識総合展」（2022年2月24日開催） 「第26回 自治体総合フェア2022」（2022年5月18日開催） 「 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が動画の背景差し替えをサポート]]></title>
-        <id>d6e85aff09a861b3089f77ee35ea5c50d2b4f951</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/"/>
-        <updated>2022-02-03T03:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK では、デベロッパーがリアルタイムの音声、動画、および画面共有をウェブアプリケーションに追加することができます。デベロッパーは、ウェブカメラの動画背景を画像に置き換えて、視覚的な干渉を減らし、視覚的プライバシーを向上させることが可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアフリカ (ケープタウン) での提供開始]]></title>
-        <id>9c339e7ddf29e52b46ca661bf40f0ac162b7981b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/"/>
-        <updated>2022-02-03T03:33:28.000Z</updated>
-        <summary type="html"><![CDATA[アフリカ (ケープタウン) AWS リージョンで Apache Kafka アプリケーションを Amazon MSK に接続できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアジアパシフィック (大阪) での提供開始]]></title>
-        <id>b9f7ace40db5a58a52ec622337002ed57958c4f5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/"/>
-        <updated>2022-02-03T03:32:40.000Z</updated>
-        <summary type="html"><![CDATA[アジアパシフィック (大阪) AWS リージョンで Apache Kafka アプリケーションを Amazon MSK に接続できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fsx for NetApp ONTAP が SSD ストレージ容量の増加に対応]]></title>
-        <id>382ac93c8cce4cdfba4e7474e8c316bafa7a5fd3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/"/>
-        <updated>2022-02-03T03:31:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP では、ボタンをクリックするだけで SSD ストレージ容量を増加させることが可能になり、時間とともに変化するストレージニーズへの対応がよりすばやく簡単になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama Appliances の Amazon.com と Amazon ビジネスでの購入が可能になりました]]></title>
-        <id>68998876fec0a2e375653caa91b4cdac3bda5229</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/"/>
-        <updated>2022-02-03T03:31:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Panorama Appliance の Amazon.com、Amazon.ca、Amazon.co.uk、Amazon.fr、Amazon.de、Amazon.it、および Amazon.es での購入が可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLAlchemy用のGoogle Cloud Spanner方言が一般向け提供へ]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/cloud-spanner-sqlalchemy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/cloud-spanner-sqlalchemy/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-02-03T00:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloudは最近、SQLAlchemyアプリケーションを分散SQLデータベース管理およびストレージサービスで実行できるようにするSpanner方言の一般向け提供を発表した。
- By Renato Losio  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパフォーマンスコンピューティング用に最適化されたAmazon EC2 Hpc6aインスタンスが一般向け提供へ]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/amazon-ec2-hpc6a-instance-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/amazon-ec2-hpc6a-instance-ga/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-02-03T00:54:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、AWSはAmazon EC2 Hpc6aインスタンスの一般向け提供（GA）を発表した。このインスタンスで、同社はHPCコンピューティングオプションのポートフォリオを拡大する。
- By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[実車を使用したリモートソフトウェアの実証と妥当性確認の実装]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/remote-validation-real-vehicle/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/remote-validation-real-vehicle/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-02-03T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Bosch は、シミュレートされた車ではなく、実際の車を使って自動回帰テストとユーザテストを行っている。目的は、テストエンジニアとユーザの両方の観点で、ソフトウェアを可能な限り迅速にテストすることだ。車にはリモートでアクセスが可能で、チームメンバは乗車せずに行うことができる。
- By Ben Linders  Translated by Shoji Shigeki]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年2月第1週　Windows Subsystem for Androidを試してみる ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202202/03</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202202/03"/>
-        <updated>2022-02-03T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[2022年2月第1週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食・農の営みの「楽しい」をいかにデジタルで加速させるか？ プランティオCEO芹澤氏のDXの捉え方]]></title>
-        <id>https://data.wingarc.com/?p=38095</id>
-        <link href="https://data.wingarc.com/plantio_takayoshi-serizawa-38095?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=plantio_takayoshi-serizawa"/>
-        <updated>2022-02-02T22:30:54.000Z</updated>
-        <summary type="html"><![CDATA[ひと昔前までは当たり前だった、日本の食と農の営みを取り戻すための事業を行っているのがプランティオ株式会社だ。データ収集のためのデジタルデバイスや分析ツールの開発、都市型菜園の運営など幅広い同社の取り組みに欠かせないのが、 […]]]></summary>
-        <author>
-            <name>啓之藤冨</name>
         </author>
     </entry>
     <entry>
