@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-06T06:00:39.382Z</updated>
+    <updated>2022-03-06T07:00:32.532Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4091,26 +4091,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/"/>
         <updated>2022-02-04T20:46:14.000Z</updated>
         <summary type="html"><![CDATA[Amazon マシンイメージ (AMI) のためにごみ箱を使用して、誤った削除から回復し、ビジネス継続性のニーズを満たすことができるようになりました。これまでは、誤って AMI の登録を解除した場合、その AMI を回復することはできませんでした。ごみ箱を使用すると、保持期間を指定し、保持期間が満了する前に、必要に応じて登録解除された AMI を回復できます。回復された AMI は、削除前に持っていたタグ、許可、および暗号化ステータスなどの属性を保持し、すぐに起動に使用できます。ごみ箱から復元されなかった AMI は、保持期間が終了すると完全に削除されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for Windows File Server がFedRAMPに準拠しました]]></title>
-        <id>f59414aadf55aa87bf055ab98927df71fd4e158c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/"/>
-        <updated>2022-02-04T18:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for Windows File Server は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) で FedRAMP Moderateとして、GovCloud (米国西部) および GovCloud (米国東部) で FedRAMP Highとして、それぞれ承認されました。Amazon FSx for Windows File Serverは、これらのリージョンにおいて、国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) としても承認されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for Lustre は FedRAMPに準拠しています]]></title>
-        <id>898b8525bb4c228b9d23bed2aea394f9512304ff</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/"/>
-        <updated>2022-02-04T18:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for Lusterは、米国東部（バージニア州北部）、米国東部（オハイオ州）、米国西部（カリフォルニア州北部）、米国西部（オレゴン州）ではFedRAMPモデレートとして、AWS GovCloud（米国西部) およびAWSGovCloud（米国東部）ではFedRAMP Highとして承認されています。Amazon FSx for Lusterは、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイドImpact Level 2（DoD SRG IL-2）としても承認されています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
