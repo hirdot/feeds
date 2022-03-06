@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-06T09:00:47.768Z</updated>
+    <updated>2022-03-06T10:00:57.612Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4053,16 +4053,6 @@ Oracle PL/SQL 互換機能: 一連の PL/SQL 互換関数 (ROWNUM()、TO_CHAR()�
         <summary type="html"><![CDATA[Hi, this is Greg and Robin, bringing you the latest news from the Rails world. Dart Sass for Rails As Ruby Sass has been deprecated a long time ago and since Webpacker has been retired, a new gem that wraps the standalone executable version of the Dart version of Sass has been released and makes it easy to use Sass stylesheets with Rails 7. Add ActiveSupport::TestCase#stub_const As some sort of syntax sugar, a new #stub_const method has been added to easily change the value of a constant for the duration of a block, silencing warnings. The implementation is not thread-safe if you have parallel testing enabled though. Improve error message using #associated with no reflection Using where.associated with a missing association used to raise a cryptic error message; this has now been improved with a much clearer message. Optimize Object#instance_values The performance of as_json  have been improved by using Array#to_h instead of Hash::[] and freezing the strings so Hash#[] doesn’t have to dup them. Another patch has also been merged to reduce the number of allocations done calling this method. Improve ActiveModel::Name#human performance Other performance improvements have been made on model name translation when a translation is missing. The trick here is pretty simple: caching. Another patch that improves performances on #human_attribute_name has been merged as well. Expand documentation on bi-directional associations As we are continuously learning, we might forget how it felt when we begun. This pull request improves documentation on bi-directional associations with some concrete examples that might be useful for new learners. Lovely! Make ActiveRecord::ConnectionPool Fiber-safe Last but not least, the Active Record connection pool is now fiber-safe. It now honors the value of your config.active_support.isolation_level to either rely on threads or fibers. This should give you better throughput on fiber-oriented servers like Falcon. Since last time, 38 people contributed to Rails. As usual, there’s too much changes to cover them but you can check out all of these here. Until next time!]]></summary>
         <author>
             <name>Ruby on Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NECが倉庫ロボ向け制御技術、専用通路なしで効率2倍に]]></title>
-        <id>https://www.technologyreview.jp/?p=268219</id>
-        <link href="https://www.technologyreview.jp/s/268219/the-new-warehouse-robot-control-technology-can-carry-goods-twice-as-fast/"/>
-        <updated>2022-02-04T21:58:23.000Z</updated>
-        <summary type="html"><![CDATA[NECは、倉庫で使用する搬送ロボット向けに、安全性を維持しながら搬送効率を2倍に高める制御技術を開発した。ロボット専用通路がない倉庫で作業員や障害物との接触を回避し、高速な搬送を実現する。 新技術では、ロボットが搭載する …]]></summary>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
