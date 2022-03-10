@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-10T09:00:39.869Z</updated>
+    <updated>2022-03-10T10:00:48.602Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight で、直接クエリの自動更新コントロールが有効になります]]></title>
+        <id>cea0b5bfab70f62618a4ef0a74eb08f3120f3386</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/"/>
+        <updated>2022-03-10T08:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight が、24 時間ごとの直接クエリコントロールの自動更新をサポートするようになりました。この新機能は、QuickSight リーダーが、直接クエリデータセットからコントロール値を手動で更新しなくても、ダッシュボードのコントロールを使用できる、より効率化されたエクスペリエンスを実現します。QuickSight データの更新の詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Braket が、OpenQASM 3.0 のサポートを追加]]></title>
+        <id>e368f58c01fe092fc3f36355e1c3b25f617f154f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/"/>
+        <updated>2022-03-10T08:31:55.000Z</updated>
+        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスである Amazon Braket が、ゲートベースの量子デバイスおよびシミュレーター用の OpenQASM 3.0のサポートを追加しました。今回のリリースでは、Braket SDK を使用して以前と同じようにプログラムを構築および実行するか、Braket SDK および API を介して同等の OpenQASM 3.0 文字列を直接提供するかをお客様が選択できます。Amazon Braket による OpenQASM 3.0 の導入と継続的なサポートにより、さまざまな開発環境間で量子プログラムを簡単に移行できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始]]></title>
+        <id>3a504c2bac49ede99b240e0bf17a6b6480cfcc5a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/"/>
+        <updated>2022-03-10T08:31:06.000Z</updated>
+        <summary type="html"><![CDATA[複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955</id>
@@ -4265,36 +4295,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[Amazon Virtual Private Cloud (VPC) により、デュアルスタック VPC で IPv6 のみのサブネットを作成し、AWS アジアパシフィック (ジャカルタ) リージョンのこれらのサブネットで Nitro System に構築された EC2 インスタンスを起動できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本橋に集まった日本発・宇宙ベンチャーのビジョンとテクノロジー]]></title>
-        <id>https://www.technologyreview.jp/?p=268511</id>
-        <link href="https://www.technologyreview.jp/s/268511/japans-space-startups-share-their-visions-and-technologies/"/>
-        <updated>2022-02-08T21:57:27.000Z</updated>
-        <summary type="html"><![CDATA[注目の宇宙スタートアップ企業が12月、日本橋で初開催された宇宙ビジネス展示会に集まった。エンジン、観測衛星、デブリ除去など、それぞれの分野での活躍が期待されるスタートアップの取り組みを紹介する。]]></summary>
-        <author>
-            <name>Koichi Motoda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孤独を感じて仲間を求める脳内回路をマウスの実験で発見＝理研]]></title>
-        <id>https://www.technologyreview.jp/?p=268493</id>
-        <link href="https://www.technologyreview.jp/s/268493/researchers-have-discovered-a-brain-mechanism-that-allows-us-to-feel-lonely-and-seek-companionship/"/>
-        <updated>2022-02-08T21:28:13.000Z</updated>
-        <summary type="html"><![CDATA[理化学研究所 脳神経科学研究センターの研究チームは、雌マウスが孤独を感じ仲間を求める行動に重要な役割を持つ分子神経機構を発見した。群れで生活し共同で子育てするなど、哺乳動物が持つ高度な社会性を解明する手がかりとなるもので …]]></summary>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士通とCMU、デジタルツインで共同研究]]></title>
-        <id>https://www.technologyreview.jp/?p=268475</id>
-        <link href="https://www.technologyreview.jp/s/268475/fujitsu-and-cmu-begin-joint-research-on-social-digital-twin/"/>
-        <updated>2022-02-08T21:04:22.000Z</updated>
-        <summary type="html"><![CDATA[富士通と米カーネギーメロン大学（CMU）は、「ソーシャルデジタルツイン」の共同研究を2022年2月から開始する。実世界データをデジタル空間に再現し、人々や社会のモデルを構築することで、環境、交通渋滞、経済効率などの都市問 …]]></summary>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>

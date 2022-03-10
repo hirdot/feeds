@@ -1413,33 +1413,6 @@
           "publishedOn": "2022-02-09T21:12:25.000Z",
           "wordCount": 650,
           "title": "ロボットとAIを組み合わせて燃料電池の材料開発を効率化＝東大"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=268511",
-          "author": "Koichi Motoda",
-          "description": "注目の宇宙スタートアップ企業が12月、日本橋で初開催された宇宙ビジネス展示会に集まった。エンジン、観測衛星、デブリ除去など、それぞれの分野での活躍が期待されるスタートアップの取り組みを紹介する。",
-          "link": "https://www.technologyreview.jp/s/268511/japans-space-startups-share-their-visions-and-technologies/",
-          "publishedOn": "2022-02-08T21:57:27.000Z",
-          "wordCount": 698,
-          "title": "日本橋に集まった日本発・宇宙ベンチャーのビジョンとテクノロジー"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=268493",
-          "author": "MIT Technology Review Japan",
-          "description": "理化学研究所 脳神経科学研究センターの研究チームは、雌マウスが孤独を感じ仲間を求める行動に重要な役割を持つ分子神経機構を発見した。群れで生活し共同で子育てするなど、哺乳動物が持つ高度な社会性を解明する手がかりとなるもので …",
-          "link": "https://www.technologyreview.jp/s/268493/researchers-have-discovered-a-brain-mechanism-that-allows-us-to-feel-lonely-and-seek-companionship/",
-          "publishedOn": "2022-02-08T21:28:13.000Z",
-          "wordCount": 657,
-          "title": "孤独を感じて仲間を求める脳内回路をマウスの実験で発見＝理研"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=268475",
-          "author": "MIT Technology Review Japan",
-          "description": "富士通と米カーネギーメロン大学（CMU）は、「ソーシャルデジタルツイン」の共同研究を2022年2月から開始する。実世界データをデジタル空間に再現し、人々や社会のモデルを構築することで、環境、交通渋滞、経済効率などの都市問 …",
-          "link": "https://www.technologyreview.jp/s/268475/fujitsu-and-cmu-begin-joint-research-on-social-digital-twin/",
-          "publishedOn": "2022-02-08T21:04:22.000Z",
-          "wordCount": 660,
-          "title": "富士通とCMU、デジタルツインで共同研究"
         }
       ]
     },
@@ -2735,6 +2708,36 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "cea0b5bfab70f62618a4ef0a74eb08f3120f3386",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight が、24 時間ごとの直接クエリコントロールの自動更新をサポートするようになりました。この新機能は、QuickSight リーダーが、直接クエリデータセットからコントロール値を手動で更新しなくても、ダッシュボードのコントロールを使用できる、より効率化されたエクスペリエンスを実現します。QuickSight データの更新の詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/",
+          "publishedOn": "2022-03-10T08:32:43.000Z",
+          "wordCount": 236,
+          "title": "Amazon QuickSight で、直接クエリの自動更新コントロールが有効になります",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e368f58c01fe092fc3f36355e1c3b25f617f154f",
+          "author": "aws@amazon.com",
+          "description": "AWS の量子コンピューティングサービスである Amazon Braket が、ゲートベースの量子デバイスおよびシミュレーター用の OpenQASM 3.0のサポートを追加しました。今回のリリースでは、Braket SDK を使用して以前と同じようにプログラムを構築および実行するか、Braket SDK および API を介して同等の OpenQASM 3.0 文字列を直接提供するかをお客様が選択できます。Amazon Braket による OpenQASM 3.0 の導入と継続的なサポートにより、さまざまな開発環境間で量子プログラムを簡単に移行できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/",
+          "publishedOn": "2022-03-10T08:31:55.000Z",
+          "wordCount": 275,
+          "title": "Amazon Braket が、OpenQASM 3.0 のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3a504c2bac49ede99b240e0bf17a6b6480cfcc5a",
+          "author": "aws@amazon.com",
+          "description": "複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/",
+          "publishedOn": "2022-03-10T08:31:06.000Z",
+          "wordCount": 290,
+          "title": "Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "0d25974d19e40be3067aef9b2a2a0c4389775312",
           "author": "aws@amazon.com",
