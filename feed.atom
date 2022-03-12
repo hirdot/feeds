@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-12T10:00:57.306Z</updated>
+    <updated>2022-03-12T22:00:55.615Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4048,46 +4048,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[AWS Launch Wizard では、Red Hat Enterprise Linux バージョン 7.7 と 7.9で SAP をデプロイできるようになりました。これにより、最新の RHEL オペレーティングシステム (OS) バージョンを利用して、AWS で実行されている SAP システムをサポートできます。さらに、今回のリリースでは、既存の RHEL サブスクリプションを導入し、Launch Wizard を使用した新しい SAP デプロイメントもサポートできます。 これにより、AWS Marketplace で提供されるライセンス込みのイメージ、またはRed Hat Cloud Access プログラムのイメージを柔軟に選択することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Migration Hub Refactor Spaces – 一般的に利用可能に]]></title>
-        <id>afda5a5acfb62aa33951c009736b16491c3f54c4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/"/>
-        <updated>2022-02-11T08:47:39.000Z</updated>
-        <summary type="html"><![CDATA[アプリケーションのリファクタリングを迅速に行う準備はできていますか? AWS Migration Hub Refactor Spaces は、アプリケーションの増分リファクタリングの新しい出発点となります。Refactor Spaces を使用すると、リファクタリングを可能にする基盤のインフラストラクチャの作成と管理ではなく、アプリケーションのリファクタリング自体に注力できます。Refactor Spaces は、複数のアカウントで AWS のサービスをオーケストレートし、徐々にアプリケーションを進化させるリファクタリング環境を整えるため、お客様はより早い段階で価値を実感できます。この Migration Hub の新機能により、アプリケーションがマイクロサービスになったり、マイクロサービスに書き込まれる新たな機能で既存のアプリケーションが拡張されたりすることについてのビジネス上のリスクを低減できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family が AWS アジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>a045c45358db1e8a064cd0c4ab9535d777903dab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/"/>
-        <updated>2022-02-11T08:46:50.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Transfer Family がアジアパシフィック (大阪) リージョンで利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Rekognition Video で 7 つの新しい言語がサポートされるようになり、テキスト検出の精度も向上]]></title>
-        <id>982e76246d2c7005792bf0aa622f1657699926fd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/"/>
-        <updated>2022-02-11T08:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Rekognition は、画像または動画内のテキストを検出して読み取り、見つかった各単語のバウンディングボックスを返します。2021 年 11 月 17 日に、Amazon Rekognition の画像内のテキスト検出で 7 つの新しい言語 (アラビア語、ロシア語、ドイツ語、フランス語、イタリア語、ポルトガル語、スペイン語) のサポートを開始しました。Amazon Rekognition は、ユーザー入力として言語パラメータを必要とすることなく、サポートされているすべての言語の画像内のテキストを自動的に検出して抽出できます。また、Amazon Rekognition では、縦書きのテキストと歪んだテキストについての改善が実装されており、精度が全体的に向上しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7.0.2, schema versioning based on the Rails version, and more]]></title>
-        <id>https://rubyonrails.org/2022/2/11/this-week-in-rails-rails-7-0-2-schema-versioning-based-on-the-rails-version-and-more-cbcb0592</id>
-        <link href="https://rubyonrails.org/2022/2/11/this-week-in-rails-rails-7-0-2-schema-versioning-based-on-the-rails-version-and-more-cbcb0592"/>
-        <updated>2022-02-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi, this is Petrik, bringing you the latest news from the Rails world. Rails 7.0.2 has been released While this looks like a regular patch release there are a few notable changes. First, one feature that was introduced in 7.0.0 was removed: the ability to pass a service_name param to DirectUploadsController. This feature was causing significant issues when upgrading from Rails 6.1, so the Rails team decided to remove it while they work on a backward compatible change. They don’t take this decision lightly, and usually don’t remove features after they are released without a proper deprecation cycle, but at this time they decided to prioritize making it easier for people to upgrade.]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
