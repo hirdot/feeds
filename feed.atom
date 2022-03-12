@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T22:01:17.184Z</updated>
+    <updated>2022-03-12T00:00:47.972Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4126,26 +4126,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/"/>
         <updated>2022-02-10T20:32:44.000Z</updated>
         <summary type="html"><![CDATA[本日より、AWS Organizations コンソールが拡張され、AWS アカウントの代替連絡先を一元的に表示および更新できるようになります。AWS アカウントに関する重要な通知を確実に受け取るために、以前に Accounts SDK をリリースしました。これにより、組織内のアカウントの請求、オペレーション、セキュリティの連絡先をプログラムで管理できるようになりました。今回のリリースで、コンソールを使用すると、各アカウントにログインせずにこのオペレーションを簡単に実行できるようにもなりました。追加のアカウント設定のサポートは、今後のリリースで利用可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 Batch Replication は、バケット間の既存データの同期を行います]]></title>
-        <id>34fe47ac57885ce93f6be0d6402bf1d07ef1a220</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/"/>
-        <updated>2022-02-10T10:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon S3 Replication は、新たにアップロードされたオブジェクトを2つ以上の Amazon S3 バケットに複製し、バケットを同期させる、伸縮自在で完全に管理された低コストの機能です。S3 Batch Replication を使えば、バケット間で既存のオブジェクトを同期させることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager を使用して、EC２およびオンプレミスインスタンスに Alert Logic MDR Agent を一貫してデプロイできるようになりました]]></title>
-        <id>8c3297d53deb20b8e20fc8e5a5771242c19a14a1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/"/>
-        <updated>2022-02-10T10:31:13.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager の機能のひとつである Distributor で、使用可能なサードパーティーエージェントを選択し、インスタンス上でインストールおよび管理できるようになりました。今回の起動により、ソフトウェアパッケージの作成や保守を行うことなく、構築済みの Alert Logic Managed Detection and Response (MDR) エージェント を Distributor から直接EC２やオンプレミスインスタンスにデプロイすることができるようになりました。現在、既にデフォルトで対応しているサードパーティーおよび AWS のエージェントに加え、Alert Logic MDR もご利用いただけます。Distributor を使って、ご利用可能なこれらのエージェントをインスタンス上でインストールまたは更新したり、あるいはご自分のソフトウェアパッケージを作成して配信したりすることが可能になります。あなたのソフトウェアパッケージは Systems Manager に保存されるので、集中リポジトリによるバージョン管理が行えます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
