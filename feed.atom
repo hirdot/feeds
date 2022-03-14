@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T08:01:38.735Z</updated>
+    <updated>2022-03-14T09:01:07.689Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280"/>
+        <updated>2022-03-14T08:30:16.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_equality_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why I love Ruby: equality &#8211; DEV Community 👩‍💻👨‍💻 原文公開日: 2022/03/01 原著者: Ary Borenszweig💻 &#8212; Crystal言語の作者のひとりです 日本語タイトルは内容に即したものにしました。 Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳） この連載記事では、私がRubyで常日頃から気に入っている点を順に扱っていきたいと思います。他の言語では動作が異なるものもあれば、他の言語にはまったくないものもありますが、可能な限り比較を行ってみ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280" data-wpel-link="internal" target="_self">Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有機リチウムイオン電池を高電圧で動作させることに成功＝東北大]]></title>
         <id>https://www.technologyreview.jp/n/2022/03/12/270915/</id>
@@ -16,6 +27,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Swift のみを使用するように書き換えられた Amplify iOS ライブラリ (デベロッパープレビュー) の発表]]></title>
+        <id>43cea26a995e635d96a3d06546e46efc895a0574</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/"/>
+        <updated>2022-03-14T07:36:44.000Z</updated>
+        <summary type="html"><![CDATA[本日、Swift のみを使用するように書き換えられた Amplify iOS ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Swift デベロッパーは、認証、ストレージ、データ、API などのクラウドベースのアプリ機能を追加できます。基になるオープンソースコードをデバッグしたり、提供したりするために Objective-C に移行する必要はありません。今後のリリースでは、追加の Amplify ユースケースのほか、構造化された同時実行などの Swift ベースの言語機能へのサポートを追加する予定です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora で Aurora PostgreSQL 11 以降への複数メジャーバージョンアップグレードをサポート]]></title>
+        <id>b9fb2b3f58fc7c0a80754ac7c264f575c146b27c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/"/>
+        <updated>2022-03-14T07:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションで、複数メジャーバージョンアップグレードがサポートされるようになりました。これにより、複数のメジャーバージョンをまたいだメジャーバージョンアップデートを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Genomics CLI に Snakemake ワークフロー管理システムが追加]]></title>
+        <id>15793c7c84f77582c7e0277e8d92890996952ad3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/"/>
+        <updated>2022-03-14T07:32:43.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Genomics CLI のワークフロー管理ツールのカタログに、ゲノミクス分析のために Snakemake が追加されたことを発表しました。このカタログには、Cromwell、Nextflow、および miniWDL も含まれています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022年3月14日　Linux 5.17-rc8が公開，新たな脆弱性判明で正式リリースは3/20以降に ── Linux Daily Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/linux_dt/202203/14</id>
         <link href="https://gihyo.jp/admin/clip/01/linux_dt/202203/14"/>
@@ -23,6 +64,16 @@
         <summary type="html"><![CDATA[Linus Torvaldsは3月13日，次期LinuxカーネルLinux 5.17の8本目のリリース候補（RC）版となる「Linux 5.17-rc8」を公開した。]]></summary>
         <author>
             <name>階戸アキラ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeGuru Profiler との統合により Amazon DevOps Guru の Lambda へのサポートを拡張]]></title>
+        <id>7cae56bb65880a3f01d75a58e808a7ff9a9c2b0d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/"/>
+        <updated>2022-03-14T07:31:51.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon DevOps Guru と Amazon CodeGuru Profiler の統合が利用可能になったことを発表します。この統合により、DevOps Guru コンソールでインサイトとして Amazon CodeGuru Profiler からのレコメンデーションにアクセスできるようになり、アプリケーションのパフォーマンスの問題と、その問題の原因である基になるコードを簡単に紐づけることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
