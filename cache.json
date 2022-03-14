@@ -2552,6 +2552,16 @@
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
         {
+          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314",
+          "author": null,
+          "description": "ホワイトデーですね。なんかください。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314",
+          "publishedOn": "2022-03-14T06:00:00.000Z",
+          "wordCount": 354,
+          "title": "2022年3月14日　そこがねこのいるところ ── 帰ってきた『技評ねこ部通信』",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202203/10",
           "author": "傍島康雄",
           "description": "2022年3月第2週のAndroid関連のニュースをお届けします。",
@@ -2703,6 +2713,46 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "4b20944d16373c46e1cb76fb386894a5dfbd35a9",
+          "author": "aws@amazon.com",
+          "description": "コンテナワークロードを実行するために設計された Linux ベースのオペレーティングシステムである Bottlerocket は、NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプをサポートするようになりました。お客様は、機械学習、動画エンコーディング、ストリーミングワークロードなど、GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナが重要な役割を果たすホストオペレーティングシステムを使用できるようになりました。これは、お客様が、基盤となる専用のコンピューティングハードウェアを利用する単一のオペレーティングシステムで標準化するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/",
+          "publishedOn": "2022-03-14T06:46:49.000Z",
+          "wordCount": 282,
+          "title": "Bottlerocket が NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "60272685f08eb8eaa3c0a9b0cc65a2977ca592c3",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (RDS) for Oracle は、Oracle Database 21c をサポートするようになりました。Oracle Database 21c 用に Amazon RDS インスタンスを起動できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/",
+          "publishedOn": "2022-03-14T06:46:00.000Z",
+          "wordCount": 328,
+          "title": "Amazon RDS for Oracle で Oracle Database 21c のサポートを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "aa6e77d7a158fb4d0b58fc9d0ae2caf357d9ba5e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect の問い合わせ履歴とサードパーティーアプリケーションの異種の顧客データを 1 つの顧客プロファイルに統合した Amazon Connect Customer Profiles は、Salesforce や S3 などのソースからの顧客データを 1 つのプロファイルに集約する方法を設定するためのノーコードエクスペリエンスを提供するようになりました。これは、コードを記述せずにデータを顧客プロファイルに追加する方法をカスタマイズすることによって、管理者がエージェントに必要な顧客情報を簡単に提供できるようにするのに役立ちます。管理者は、Amazon Connect の AWS コンソールを介して、データを顧客プロファイルにマッピングする方法をカスタマイズしたり、プロファイルにユーザー定義のデータ属性を作成したり、プロファイルの検索に使用できる検索キーをカスタマイズしたりできます。リリース時には、Amazon Simple Storage Service (Amazon S3)、Salesforce、ServiceNow、Zendesk、Marketo といったデータソースがサポートされます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/",
+          "publishedOn": "2022-03-14T06:32:06.000Z",
+          "wordCount": 254,
+          "title": "Amazon Connect Customer Profiles でコンソールでデータ集約のカスタマイズが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2f4c0685a5a0110c14bbf755d03c557ae9d2bccb",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB は、各リクエストのオプションのパラメータとして、PartiQL オペレーションで処理される項目数の制限をサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/",
+          "publishedOn": "2022-03-14T06:31:17.000Z",
+          "wordCount": 240,
+          "title": "Amazon DynamoDB が PartiQL オペレーションの制限リクエストオプションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "715571dc1f092ef35cf9628b43049e04d549d0e7",
           "author": "aws@amazon.com",

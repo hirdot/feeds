@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T06:00:38.817Z</updated>
+    <updated>2022-03-14T07:01:10.751Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bottlerocket が NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプのサポートを追加]]></title>
+        <id>4b20944d16373c46e1cb76fb386894a5dfbd35a9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/"/>
+        <updated>2022-03-14T06:46:49.000Z</updated>
+        <summary type="html"><![CDATA[コンテナワークロードを実行するために設計された Linux ベースのオペレーティングシステムである Bottlerocket は、NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプをサポートするようになりました。お客様は、機械学習、動画エンコーディング、ストリーミングワークロードなど、GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナが重要な役割を果たすホストオペレーティングシステムを使用できるようになりました。これは、お客様が、基盤となる専用のコンピューティングハードウェアを利用する単一のオペレーティングシステムで標準化するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle で Oracle Database 21c のサポートを提供開始]]></title>
+        <id>60272685f08eb8eaa3c0a9b0cc65a2977ca592c3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/"/>
+        <updated>2022-03-14T06:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) for Oracle は、Oracle Database 21c をサポートするようになりました。Oracle Database 21c 用に Amazon RDS インスタンスを起動できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Customer Profiles でコンソールでデータ集約のカスタマイズが可能に]]></title>
+        <id>aa6e77d7a158fb4d0b58fc9d0ae2caf357d9ba5e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/"/>
+        <updated>2022-03-14T06:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect の問い合わせ履歴とサードパーティーアプリケーションの異種の顧客データを 1 つの顧客プロファイルに統合した Amazon Connect Customer Profiles は、Salesforce や S3 などのソースからの顧客データを 1 つのプロファイルに集約する方法を設定するためのノーコードエクスペリエンスを提供するようになりました。これは、コードを記述せずにデータを顧客プロファイルに追加する方法をカスタマイズすることによって、管理者がエージェントに必要な顧客情報を簡単に提供できるようにするのに役立ちます。管理者は、Amazon Connect の AWS コンソールを介して、データを顧客プロファイルにマッピングする方法をカスタマイズしたり、プロファイルにユーザー定義のデータ属性を作成したり、プロファイルの検索に使用できる検索キーをカスタマイズしたりできます。リリース時には、Amazon Simple Storage Service (Amazon S3)、Salesforce、ServiceNow、Zendesk、Marketo といったデータソースがサポートされます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB が PartiQL オペレーションの制限リクエストオプションのサポートを開始]]></title>
+        <id>2f4c0685a5a0110c14bbf755d03c557ae9d2bccb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/"/>
+        <updated>2022-03-14T06:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DynamoDB は、各リクエストのオプションのパラメータとして、PartiQL オペレーションで処理される項目数の制限をサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年3月14日　そこがねこのいるところ ── 帰ってきた『技評ねこ部通信』]]></title>
+        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314</id>
+        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314"/>
+        <updated>2022-03-14T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ホワイトデーですね。なんかください。]]></summary>
+        <author>
+            <name>gihyo.jp：LIFESTYLE STAGE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化]]></title>
         <id>715571dc1f092ef35cf9628b43049e04d549d0e7</id>
