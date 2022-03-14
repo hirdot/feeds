@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T04:01:05.025Z</updated>
+    <updated>2022-03-14T05:11:00.807Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化]]></title>
+        <id>715571dc1f092ef35cf9628b43049e04d549d0e7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/"/>
+        <updated>2022-03-14T03:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS Update Service API が Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新のサポートを開始]]></title>
+        <id>b0d158c98775339fb17ce08522a6d6ccca743f53</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/"/>
+        <updated>2022-03-14T03:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始]]></title>
+        <id>67d143df1c0ad9aa9add365544d1a9b0c1ea7e69</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/"/>
+        <updated>2022-03-14T03:31:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS WAFが不正管理としてAccount Takeover Protectionを導入]]></title>
         <id>https://www.infoq.com/jp/news/2022/03/aws-waf-fraud-control/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>

@@ -2704,6 +2704,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "715571dc1f092ef35cf9628b43049e04d549d0e7",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/",
+          "publishedOn": "2022-03-14T03:33:02.000Z",
+          "wordCount": 249,
+          "title": "Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b0d158c98775339fb17ce08522a6d6ccca743f53",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/",
+          "publishedOn": "2022-03-14T03:32:14.000Z",
+          "wordCount": 293,
+          "title": "Amazon ECS Update Service API が Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "67d143df1c0ad9aa9add365544d1a9b0c1ea7e69",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/",
+          "publishedOn": "2022-03-14T03:31:12.000Z",
+          "wordCount": 261,
+          "title": "AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "f5c20d42c54b9ac21700b896c4652cb88adc4d9b",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB のマイナーバージョン 10.6.7、10.5.15、10.4.24、10.3.34、および 10.2.43 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
