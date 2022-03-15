@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-15T03:02:04.814Z</updated>
+    <updated>2022-03-15T04:01:17.156Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 のアカウントレベルのブロックパブリックアクセスを Lightsail バケットに拡張]]></title>
+        <id>03fdbf828254d36233e83409175849763949cce3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/"/>
+        <updated>2022-03-15T03:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lightsail オブジェクトストレージで、ウェブサイトやアプリケーションで使用できる画像、動画、HTML ファイルなどの静的コンテンツを保存できる機能がご利用いただけるようになりました。Amazon S3 のアカウントレベルのブロックパブリックアクセス設定はすぐに有効となり、Lightsail オブジェクトストレージサービスのバケットに適用されます。この変更は、バケットが存在しているのが Amazon S3 または Lightsail のいずれであるかにかかわらず、すべてのバケットのセキュリティを向上させるためのものです。アカウントに S3 ブロックパブリックアクセス (BPA) 設定を追加すると、意図せずにパブリックインターネットに公開されることがないように、バケット内のデータが保護されます。アカウントレベルの BPA が有効になっている場合、バケットとオブジェクトに現在設定されているバケットアクセス許可にかかわらず、バケットとオブジェクトは「プライベート」になります (インターネット上のどのユーザーもアクセスすることはできません)。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 の X2idn および X2iedn インスタンスのご紹介]]></title>
+        <id>f184323ddb583ce1787a1f4b2edbcf1d35c18456</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/"/>
+        <updated>2022-03-15T03:33:28.000Z</updated>
+        <summary type="html"><![CDATA[本日より、メモリ最適化された Amazon EC2 の X2idn および X2iedn インスタンスが一般的にご利用いただけるようになりました。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[複数の論理演算回路を単一の有機トランジスタで実現＝東京理科大]]></title>
         <id>https://www.technologyreview.jp/n/2022/03/14/271030/</id>
@@ -4418,26 +4438,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[NECは、地上で撮影された景観画像と、上空から撮影された衛星画像や航空写真などの画像を照合することで、景観画像に写っている場所を推定する機械学習技術を開発した。従来、上空画像を使った景観画像の位置の特定は、目印となる大き …]]></summary>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国防総省、オープンソースをプロプライエタリより優先的に採用する調達方針を明らかに。同省CIOが書面で通知]]></title>
-        <id>https://www.publickey1.jp/blog/22/cio_2.html</id>
-        <link href="https://www.publickey1.jp/blog/22/cio_2.html"/>
-        <updated>2022-02-13T15:16:49.000Z</updated>
-        <summary type="html"><![CDATA[米国防総省は「Software Development and Open Source Software 」（ソフトウェアの開発とオープンソース）と題する同省CIO John B. Sherman氏の1月24日付けの書面を公開し、プロプライ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンソースの安全性を高める「アルファ-オメガプロジェクト」、OpenSSFが開始。マイクロソフトとGoogleがプロジェクトリーダーに]]></title>
-        <id>https://www.publickey1.jp/blog/22/-openssfgoogle.html</id>
-        <link href="https://www.publickey1.jp/blog/22/-openssfgoogle.html"/>
-        <updated>2022-02-13T15:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Linux Foundation傘下のOpen Security Software Foundation（OpenSSF）は、オープンソースソフトウェアのサプライチェーン問題を改善し安全性を高めるための大規模なプロジェクト「Alpha-Om...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>

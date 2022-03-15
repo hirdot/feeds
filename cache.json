@@ -2112,26 +2112,6 @@
           "wordCount": 183,
           "title": "Cloudflare Email Routingがオープンベータに、メールアドレスのカスタマイズと転送が無料で利用可能",
           "imageUrl": "https://www.publickey1.jp/2022/0iscekau.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/cio_2.html",
-          "author": null,
-          "description": "米国防総省は「Software Development and Open Source Software 」（ソフトウェアの開発とオープンソース）と題する同省CIO John B. Sherman氏の1月24日付けの書面を公開し、プロプライ...",
-          "link": "https://www.publickey1.jp/blog/22/cio_2.html",
-          "publishedOn": "2022-02-13T15:16:49.000Z",
-          "wordCount": 316,
-          "title": "米国防総省、オープンソースをプロプライエタリより優先的に採用する調達方針を明らかに。同省CIOが書面で通知",
-          "imageUrl": "https://www.publickey1.jp/2022/dod_oss2.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/-openssfgoogle.html",
-          "author": null,
-          "description": "Linux Foundation傘下のOpen Security Software Foundation（OpenSSF）は、オープンソースソフトウェアのサプライチェーン問題を改善し安全性を高めるための大規模なプロジェクト「Alpha-Om...",
-          "link": "https://www.publickey1.jp/blog/22/-openssfgoogle.html",
-          "publishedOn": "2022-02-13T15:04:23.000Z",
-          "wordCount": 258,
-          "title": "オープンソースの安全性を高める「アルファ-オメガプロジェクト」、OpenSSFが開始。マイクロソフトとGoogleがプロジェクトリーダーに",
-          "imageUrl": "https://www.publickey1.jp/2022/FKhh-1uVQAIUYGq.jpg"
         }
       ]
     },
@@ -2833,6 +2813,26 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "03fdbf828254d36233e83409175849763949cce3",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lightsail オブジェクトストレージで、ウェブサイトやアプリケーションで使用できる画像、動画、HTML ファイルなどの静的コンテンツを保存できる機能がご利用いただけるようになりました。Amazon S3 のアカウントレベルのブロックパブリックアクセス設定はすぐに有効となり、Lightsail オブジェクトストレージサービスのバケットに適用されます。この変更は、バケットが存在しているのが Amazon S3 または Lightsail のいずれであるかにかかわらず、すべてのバケットのセキュリティを向上させるためのものです。アカウントに S3 ブロックパブリックアクセス (BPA) 設定を追加すると、意図せずにパブリックインターネットに公開されることがないように、バケット内のデータが保護されます。アカウントレベルの BPA が有効になっている場合、バケットとオブジェクトに現在設定されているバケットアクセス許可にかかわらず、バケットとオブジェクトは「プライベート」になります (インターネット上のどのユーザーもアクセスすることはできません)。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/",
+          "publishedOn": "2022-03-15T03:35:43.000Z",
+          "wordCount": 264,
+          "title": "Amazon S3 のアカウントレベルのブロックパブリックアクセスを Lightsail バケットに拡張",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f184323ddb583ce1787a1f4b2edbcf1d35c18456",
+          "author": "aws@amazon.com",
+          "description": "本日より、メモリ最適化された Amazon EC2 の X2idn および X2iedn インスタンスが一般的にご利用いただけるようになりました。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/",
+          "publishedOn": "2022-03-15T03:33:28.000Z",
+          "wordCount": 420,
+          "title": "Amazon EC2 の X2idn および X2iedn インスタンスのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "cc7b0ff2c2add5b24cb6febde88dcea73a6c9a85",
           "author": "aws@amazon.com",
