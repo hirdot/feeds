@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-15T07:01:17.547Z</updated>
+    <updated>2022-03-15T08:01:17.069Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IAM条件とタグでGoogle Cloud SQLのアクセス制御が改善]]></title>
+        <id>https://www.infoq.com/jp/news/2022/03/cloud-sql-iam-conditions-tags/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/03/cloud-sql-iam-conditions-tags/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-03-15T07:51:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、GoogleはCloud SQL向けのIAM条件とタグの一般提供（GA）を発表した。これはMySQL、PostgreSQL、SQL Server用のフルマネージドリレーショナルデータベースサービスである。
+ By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Newsラウンドアップ - JEP 424、NetBeans 13、Hazelcast 5.1、JHipster 7.7、Spring Cloud Gateway CVE]]></title>
+        <id>https://www.infoq.com/jp/news/2022/03/java-news-roundup-feb28-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/03/java-news-roundup-feb28-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-03-15T07:47:00.000Z</updated>
+        <summary type="html"><![CDATA[今週2022年2月28日のJavaラウンドアップは、OpenJDKからのニュース、JDK 19、数々のSpringプロジェクトのポイントリリースとマイルストンリリース、Quarkus 2.7.3 Final、Micronaut 3.3.4、Hibernate Validatorバージョン6.2.2 Final・7.0.3 Final・8.0.0 Alpha1、Apache NetBeans 13、Apache Log4j 2.17.2、JReleaser 1.0.0-M3、といった内容でお届けする。
+ By Michael Redlich  Translated by  h_yoshida _]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が、リソースベースのポリシーでの PrincipalOrgID のサポート開始を発表]]></title>
+        <id>aba84afb4fa5d88f53f5e941e004114ce196c0c5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/"/>
+        <updated>2022-03-15T07:36:39.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda が、Lambda 関数のリソースベースのポリシーで aws:PrincipalOrgID 条件キーをサポートするようになりました。お客様は、特定のバージョンやエイリアスを含む Lambda 関数のリソースベースのポリシーを使用して、他の AWS アカウントまたは AWS のサービスの使用許可を付与できるようになります。aws:PrincipalOrgID 条件キーは、IAM プリンシパルの AWS 組織を使用して AWS リソースへのアクセスをコントロールするように設計されています。関数リソースベースのポリシーでこの条件キーを使用することで、Lambda 関数にアクセスするすべてのプリンシパルが組織内のアカウントからであることを要求できるようになりました。さらに、アカウントを追加および削除する場合、aws:PrincipalOrgID キーを含むポリシーには、正しいアカウントが自動的に含まれ、手動更新を最小限に抑えるのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.37 および 8.0.28) のサポートを開始]]></title>
+        <id>b28e2e8a414f3a307b0e8166fc21911b4815da49</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/"/>
+        <updated>2022-03-15T07:32:45.000Z</updated>
+        <summary type="html"><![CDATA[MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.37 および 8.0.28 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。データベースインスタンスのアップグレードの詳細については、Amazon RDS ユーザーガイドを参照してください。また、Amazon RDS マネジメントコンソールで利用できる最新のマイナーバージョンを使用して、フルマネージドの Amazon RDS データベースを作成または更新してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon S3 のアカウントレベルのブロックパブリックアクセスを Lightsail バケットに拡張]]></title>
         <id>03fdbf828254d36233e83409175849763949cce3</id>
