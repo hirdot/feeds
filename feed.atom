@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T00:01:10.954Z</updated>
+    <updated>2022-03-16T01:27:54.291Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第707回　シンプルでおしゃれなモニタリングツールUptime Kuma ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0707</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0707"/>
+        <updated>2022-03-16T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Uptime Kumaは新進気鋭のモニタリングツールで，「とりあえずこれだけやっときたい」という用途にちょうどよい塩梅の機能をもっています。今回はこのUptime Kumaをインストールしてみます。]]></summary>
+        <author>
+            <name>柴田充也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSが統合された新たなサービスヘルスダッシュボードを提供]]></title>
+        <id>https://www.infoq.com/jp/news/2022/03/new-aws-health-dashboard/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/03/new-aws-health-dashboard/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-03-16T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、AWSはサービスヘルスダッシュボードを更新した。インターフェースを改善し、応答性を向上させ、パーソナルヘルスダッシュボードと統合した。これらはすべて新しいヘルスダッシュボードに統合されている。
+ By Steef-Jan Wiggers  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambdaが.NET 6をサポート]]></title>
+        <id>https://www.infoq.com/jp/news/2022/03/aws-lambda-net6/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/03/aws-lambda-net6/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-03-16T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambdaは先頃、マネージドランタイムとコンテナベースイメージの両方で.NET 6のサポートを追加した。新たなランタイムには.NET言語の新機能とパフォーマンスの最適化が導入される他、ロギングが改善され、トップレベルステートメントによる関数定義の簡略化が実現されている。
+ By Renato Losio  Translated by  h_yoshida _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javaニュースラウンドアップ: : JDK 18-RC1、Project Loom、Spring、Payara、Open Liberty、JReleaserアップデート]]></title>
+        <id>https://www.infoq.com/jp/news/2022/03/java-news-roundup-feb14-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/03/java-news-roundup-feb14-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-03-16T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[今週2022年2月14日のJavaラウンドアップは、OpenJDK、JDK 18、JDK 19、Project Loom、Springプロジェクトのポイントリリース、Payara Platform、Open Liberty 22.0.0.2および22.0.0.3-beta、Micronaut 3.3.3、GraalVM Native Build Tools 0.9.10、JReleaser 1.0.0-M2、Piranha 22.2.0、JobRunr 4.0.9、Micrometer Metrics 2.0.0-M2、Micrometer Tracing 1.0.0-M2、JDKMon 17.0.22およびFailsafe 3.2.2からのニュースを取り上げる。
+ By Michael Redlich  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坪井俊輔：衛星×AIで世界の農業のデジタル化に挑む起業家]]></title>
         <id>https://www.technologyreview.jp/?p=270811</id>
