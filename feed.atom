@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T05:00:55.623Z</updated>
+    <updated>2022-03-16T06:01:16.274Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Cognito は、Amazon SES および Amazon SNS とのリージョン内統合のサポートを開始します]]></title>
+        <id>924821ffb79eec785ef5af04fe75054b5a68fe78</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/"/>
+        <updated>2022-03-16T05:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Cognito では、Amazon Cognito ユーザープールが設定されているのと同じリージョンで、Amazon Simple Email Service (Amazon SES) と Amazon Simple Notification Service (Amazon SNS) を使用できるようになりました。これらのサービスを同じリージョンに統合することで、より簡単にレイテンシを短縮し、リージョン構成のベストプラクティスに従うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Route 53 Resolver DNS ファイアウォールはサービスコストを大幅に削減します]]></title>
         <id>b63c38d67ada1f9a99b077cd383ed4e7ecd59050</id>
@@ -4449,16 +4459,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[Amazon Neptune のグラフデータに対して、Neptune Machine Learning (ML) でカスタム機械学習モデルを定義することができるようになりました。Neptune ML は Amazon Neptune の機械学習機能で、Deep Graph Library (DGL) で開発された Graph Neural Networks (GNNs) を使用して、グラフデータに対する ML モデルの選択とトレーニングという手間のかかる作業を自動化します。今回の発表では、プロパティグラフに対する Apache TinkerPop Gremlin の推論クエリに加え、W3C の Resource Description Framework (RDF) データモデルに対する SPARQL の推論クエリも実行することができます。RDF の新しい機械学習タスクには、目的語分類、目的語回帰、目的語予測、主語予測が含まれます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Email Routingがオープンベータに、メールアドレスのカスタマイズと転送が無料で利用可能]]></title>
-        <id>https://www.publickey1.jp/blog/22/cloudflare_email_routing.html</id>
-        <link href="https://www.publickey1.jp/blog/22/cloudflare_email_routing.html"/>
-        <updated>2022-02-14T17:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflareは、電子メールのルーティングを行う新サービス「Cloudflare Email Routing」をオープンベータとして公開しました。 誰でも無料で、自分のドメインの任意のメールアドレスを別のメールアドレスに転送できるよう...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>

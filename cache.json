@@ -2092,16 +2092,6 @@
           "wordCount": 181,
           "title": "マネージドなNFSサーバのAmazon EFSが大幅性能向上、読み取りのレイテンシがミリ秒単位からマイクロ秒単位へ",
           "imageUrl": "https://www.publickey1.jp/2022/y2HgYMMq.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/cloudflare_email_routing.html",
-          "author": null,
-          "description": "Cloudflareは、電子メールのルーティングを行う新サービス「Cloudflare Email Routing」をオープンベータとして公開しました。 誰でも無料で、自分のドメインの任意のメールアドレスを別のメールアドレスに転送できるよう...",
-          "link": "https://www.publickey1.jp/blog/22/cloudflare_email_routing.html",
-          "publishedOn": "2022-02-14T17:01:16.000Z",
-          "wordCount": 183,
-          "title": "Cloudflare Email Routingがオープンベータに、メールアドレスのカスタマイズと転送が無料で利用可能",
-          "imageUrl": "https://www.publickey1.jp/2022/0iscekau.jpg"
         }
       ]
     },
@@ -2793,6 +2783,16 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "924821ffb79eec785ef5af04fe75054b5a68fe78",
+          "author": "aws@amazon.com",
+          "description": "Amazon Cognito では、Amazon Cognito ユーザープールが設定されているのと同じリージョンで、Amazon Simple Email Service (Amazon SES) と Amazon Simple Notification Service (Amazon SNS) を使用できるようになりました。これらのサービスを同じリージョンに統合することで、より簡単にレイテンシを短縮し、リージョン構成のベストプラクティスに従うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/",
+          "publishedOn": "2022-03-16T05:33:43.000Z",
+          "wordCount": 267,
+          "title": "Amazon Cognito は、Amazon SES および Amazon SNS とのリージョン内統合のサポートを開始します",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "b63c38d67ada1f9a99b077cd383ed4e7ecd59050",
           "author": "aws@amazon.com",
