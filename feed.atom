@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-16T04:01:14.503Z</updated>
+    <updated>2022-03-16T05:00:55.623Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Route 53 Resolver DNS ファイアウォールはサービスコストを大幅に削減します]]></title>
+        <id>b63c38d67ada1f9a99b077cd383ed4e7ecd59050</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/"/>
+        <updated>2022-03-16T04:55:27.000Z</updated>
+        <summary type="html"><![CDATA[2022年3月の間に、Amazon はすべてのリージョンで Amazon Route 53 Resolver DNS ファイアウォールを使用するコストを削減しています。まず、Amazon は 3 月 1 日より、クエリのボリュームが増えるにつれてクエリ処理料金を削減できる新しい段階的な価格設定を開始します。次に、Amazon は内部最適化を実装して、課金される DNS クエリの数を減らしています。これらの最適化によって、検査される DNS クエリの数が減ったり、セキュリティ体制にその他の変更が加えられたりすることはありません。Amazon のお客様は、これらのコスト削減が今後の Route 53 の請求に自動的に反映されることを確認できます。詳細については、Amazon Route 53 の料金ページをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect は、チャットメッセージのリッチフォーマットをサポートするようになりました]]></title>
+        <id>01bbefd687a0a4001f0ef4ea8e733b3d9daca005</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-rich-chat-formatting/"/>
+        <updated>2022-03-16T04:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Chat を使用すると、エージェントと顧客はメッセージを作成するときにリッチテキスト形式を使用できるようになり、メッセージに強調と構造をすばやく追加して、理解を深めることができます。使用可能なフォーマットオプションには、太字、斜体、ハイパーリンク、箇条書き、番号付きリストがあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EventBridge がマネジメントコンソールでルールフィルタリングとイベント変換機能の強化を開始]]></title>
+        <id>3def72dedbaeecaa4f4bc16ba064ad4091c9f192</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/"/>
+        <updated>2022-03-16T04:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EventBridge のアップデートされたコンソール機能は、EventBridge が利用可能なすべての AWS リージョンで一般提供を開始しています。お客様はこれらの新機能を使用して、イベントパターンのテストや設定、イベントの変換、ルールやターゲットの設定などの経験を向上させることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が自動言語識別によるライブ文字起こしに対応]]></title>
+        <id>7ee8ec01802cae03e97d43663967d54ed6462502</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/"/>
+        <updated>2022-03-16T04:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。ライブ文字起こしは、Amazon Transcribe との統合により、字幕やトランスクリプトとして使用するためのライブ音声の文字起こしを生成するものです。本日より、デベロッパーは自動言語識別を使用して、話された言語を検出し、その言語での文字起こしを生成することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CodeBuild がさらに 4 つのリージョンで Arm ベースのワークロードをサポート]]></title>
+        <id>e06a62290726813daf7421fe51ad8645fdcc3055</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/"/>
+        <updated>2022-03-16T04:48:40.000Z</updated>
+        <summary type="html"><![CDATA[AWS CodeBuild の Graviton2 を使用した Arm へのサポートが、欧州 (パリ)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ロンドン) で利用可能となりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Personalize が AWS CloudFormation テンプレートをサポート]]></title>
+        <id>9627fa4158afc895143f93eeaae15ed12479c9a8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/"/>
+        <updated>2022-03-16T04:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Personalize により、デベロッパーは、ML の専門知識を必要とせず、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。Personalize は、テンプレートとも呼ばれる JSON/YAML テキストファイルによってリソースのセットアップとデプロイメントを自動化できる AWS のサービス、AWS CloudFormation をサポートするようになりました。これらのテンプレートを使用して、Personalize リソースであるスキーマ、データセット、およびデータセットグループのリソースの作成または削除、データセットインポートジョブのセットアップ、およびソリューションの構成を行うことができます。さらに、CloudFormation を使用して、これらの個別リソースの完全なライフサイクルや、それらの集合 (スタック) を繰り返し効率的に構成、プロビジョニング、管理することができます。CloudFormation テンプレートのサポートには、Personalize Console と AWS CLI/SDK に加えて、Personalize サービスリソースをプロビジョニングする無料の新しい方法が追加されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue DataBrew がクロスアカウント Glue Data Catalog S3 アクセスをサポート]]></title>
+        <id>1993d7ed23280a1a550d2c758478eb65eb4da692</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/"/>
+        <updated>2022-03-16T04:47:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue DataBrew のお客様は、AWS Glue コンソールで適切なリソースポリシーを作成すれば、他の AWS アカウントから AWS Glue Data Catalog S3 テーブルへアクセスできるようになりました。ポリシーを作成後、関連する Data Catalog S3 テーブルを、DataBrew データセット作成時に入力ソースとして選択できます。これにより、DataBrew でクリーニングや変換を行う前に、アカウント間でそのデータを簡単に共有することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第707回　シンプルでおしゃれなモニタリングツールUptime Kuma ── Ubuntu Weekly Recipe]]></title>
         <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0707</id>
