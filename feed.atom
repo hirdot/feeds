@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T08:00:53.594Z</updated>
+    <updated>2022-03-17T09:00:44.480Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails: Webpacker（Shakapacker）とjsbundling-railsの比較（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_03_17/115294</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_03_17/115294"/>
+        <updated>2022-03-17T08:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_comparison_with_webpacker_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: jsbundling-rails/comparison_with_webpacker.md at main · rails/jsbundling-rails 原文更新日: 2022/03/10（fa1ed8a） ライセンス: MIT 表記の大文字小文字は「Webpacker」「Shakapacker」「webpack」「jsbundling-rails」「cssbundling-rails」に統一しました。また、読みやすさのため書式を変更しています。 Rails: Webpacker（Shakapacker）とjsbundling-railsの比 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_03_17/115294" data-wpel-link="internal" target="_self">Rails: Webpacker（Shakapacker）とjsbundling-railsの比較（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表]]></title>
         <id>262d592c11415e6999cdfc83dc23f031ef4e10ee</id>
@@ -1347,6 +1358,17 @@
         <summary type="html"><![CDATA[Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日より、Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始することをお知らせいたします。]]></summary>
         <author>
             <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: beforeバリデーションをやめてセッターメソッドにしよう（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_03_09/59016</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_03_09/59016"/>
+        <updated>2022-03-09T08:30:18.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2018/07/rails_drop_before_varidate_use_setter_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Drop this before validation and just use a setter method &#124; Arkency Blog 原文公開日: 2016/01/29 著者: Robert Pankowecki サイト: Arkency Blog 2018/07/09: 初版公開 2022/03/09: 更新 Rails: beforeバリデーションをやめてセッターメソッドにしよう（翻訳） 以下のようなコードは多くのプロジェクトで目にします。 class Something before_validation :strip_titl [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_03_09/59016" data-wpel-link="internal" target="_self">Rails: beforeバリデーションをやめてセッターメソッドにしよう（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
