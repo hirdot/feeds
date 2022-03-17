@@ -2814,6 +2814,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "feea631d5ac33eca94db1029c39f9e3f59047f3c",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for PostgreSQL が、mysql_fdw のサポートを追加しました。これにより、PostgreSQL データベースを接続して、個別の Amazon Aurora MySQL 互換、MySQL、および MariaDB データベースに保存されているデータを取得できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/",
+          "publishedOn": "2022-03-17T04:40:26.000Z",
+          "wordCount": 267,
+          "title": "Amazon RDS for PostgreSQL が、Amazon Aurora、MySQL、および MariaDB データベースの mysql_fdw 拡張機能のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0548dc3762b62c80652efa3749dba8a2df1d6bd9",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、完全に設計された日本の地図を含めて、道路、建物、ランドマーク、および水の機能を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/",
+          "publishedOn": "2022-03-17T04:39:39.000Z",
+          "wordCount": 293,
+          "title": "Amazon Location Service の 2 つの新しい HERE マップスタイルを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "033e06778395e0abd5e91aa5f855d48b1eca67f2",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポートするようになりました。以前のバージョンの PostgreSQL における既知のセキュリティの脆弱性を修正し、PostgreSQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。リリースの詳細については、PostgreSQL コミュニティの発表を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/",
+          "publishedOn": "2022-03-17T04:37:56.000Z",
+          "wordCount": 278,
+          "title": "Amazon RDS for PostgreSQL が PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b985f9d51f7d84b555b412484186ecc353790d48",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lookout for Vision が、すべての AWS のお客様に一般提供を開始を開始しました。選択したハードウェアデバイスに、トレーニング済みの Amazon Lookout for Vision モデルをデプロイし、クラウドに依存することなくローカルで推論を実行できます。トレーニング済みのモデルは、NVIDIA Jetson エッジアプライアンスまたは x86 コンピューティングプラットフォーム (NVIDIA GPU アクセラレーターを備えた Linux を実行しているもの) にデプロイできます。AWS IoT Greengrass を使用して、エッジ互換のカスタマイズされたモデルをデバイスのフリートにデプロイして管理できます。AWS IoT Greengrass は、オープンソースのエッジランタイムであり、デバイスソフトウェアを構築、デプロイ、管理するためのクラウドサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/",
+          "publishedOn": "2022-03-17T04:34:55.000Z",
+          "wordCount": 330,
+          "title": "Amazon Lookout for Vision を使用してエッジでの製品欠陥の目視検査を自動化 - 一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f9a8e27daf87eeaa197060b62487e2ef9cd2b638",
+          "author": "aws@amazon.com",
+          "description": "AWS は、AWS AppConfig機能フラグの一般提供開始を発表いたしました。機能フラグを使用することで、新しい機能を安全かつ自信を持ってすばやく展開できます。AWS AppConfig は AWS Systems Manager の機能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/",
+          "publishedOn": "2022-03-17T04:32:14.000Z",
+          "wordCount": 252,
+          "title": "AWS AppConfig 機能フラグの一般提供開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "c708eb361cf68800b84a3d8c65e361fb4443a9b1",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。Amazon Voice Focus は人工知能を利用して、扇風機、芝刈り機、犬の鳴き声などの背景の雑音を低減することができます。本日より、デベロッパーは Amazon Chime SDK Public Switched Telephone Network (PSTN) の音声アプリケーションで Amazon Voice Focus を使用して、PSTN 音声通話における不要なノイズを低減することができます。ビルダーは、カスタマーサービスでの会話にこの機能を使用して、通話者のエクスペリエンスを向上させることができます。",
