@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T06:00:44.155Z</updated>
+    <updated>2022-03-17T07:01:10.716Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表]]></title>
+        <id>262d592c11415e6999cdfc83dc23f031ef4e10ee</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/"/>
+        <updated>2022-03-17T06:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Network Firewall が FedRAMP High コンプライアンスを達成]]></title>
+        <id>af791d370fac533e6faa258a35030b8ebd0492fd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/"/>
+        <updated>2022-03-17T06:34:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS Network Firewall は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョンについて FedRAMP High の認定を達成しました。これで、AWS Network Firewall を使用して、FedRAMP High の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS が Windows OS でのオンプレミスワークロードオーケストレーションのサポートを開始]]></title>
+        <id>5a8056f9653612e5b926f6e4d09efc936c3c4818</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/"/>
+        <updated>2022-03-17T06:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) は、Amazon ECS Anywhere を使用して Windows オペレーティングシステムで実行されているオンプレミスワークロードの管理をサポートするようになりました。Amazon ECS Anywhere は、Amazon ECS の機能であり、お客様が、仮想マシン (VM)、ベアメタルサーバー、その他のカスタマーマネージドのインフラストラクチャなど、コンテナベースのアプリケーションをオンプレミスでより簡単に実行および管理することを可能にします。Windows 上で実行されているオンプレミスのコンテナ化されたワークロードを管理する必要があるお客様は、ECS Anywhere を使用してそれらをより簡単にオーケストレートできるようになりました。デベロッパーは、追加のコンテナオーケストレーションソフトウェアを実行したり、Windows ベースのワークロードを Linux OS 用に変換したりする必要がなくなりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cost Anomaly Detection が AWS Chatbot との統合をサポート]]></title>
+        <id>1f35a6eb4ac574bca425d33bf9bd0a686d715d54</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/"/>
+        <updated>2022-03-17T06:31:04.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS Cost Anomaly Detection アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。aこれにより、既存のチャットチャネル内で個々の AWS Cost Anomaly Detection アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon RDS for PostgreSQL が、Amazon Aurora、MySQL、および MariaDB データベースの mysql_fdw 拡張機能のサポートを開始]]></title>
         <id>feea631d5ac33eca94db1029c39f9e3f59047f3c</id>
