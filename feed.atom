@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T05:01:00.974Z</updated>
+    <updated>2022-03-25T06:00:53.202Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS で Amazon EC2 Auto Scaling 向けのウォームプールのサポートを開始]]></title>
+        <id>888e9eeb2e834646270f90553627eb0abd4c6026</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/"/>
+        <updated>2022-03-25T05:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) では、Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling ウォームプールを Amazon ECS クラスターでご使用いただくことにより、アプリケーションのスケールアウトの高速化とコスト節約を支援できるようになりました。ウォームプールを使用すると、アプリケーショントラフィックを高速で処理できるように事前に初期化された Amazon EC2 インスタンスのプールを作成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Amplify で、手動でデータを移行せずに GraphQL API を反復処理できる新しい @mapsTo ディレクティブをサポート開始]]></title>
+        <id>ee093b005ed732d592a60ff32df8351d8fbcae2b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/"/>
+        <updated>2022-03-25T05:31:19.000Z</updated>
+        <summary type="html"><![CDATA[AWS Amplify で、新しい @mapsTo GraphQL ディレクティブが利用できるようになりました。これにより、デベロッパーは、データの移行を心配することなく、GraphQL モデルの反復処理や名前の変更が可能です。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。Amplify の GraphQL Transformer を使用することで、デベロッパーは GraphQL スキーマ定義言語を使用してバックエンドデータモデルを構成できます。それにより、Amplify CLI が基盤となるデータベーステーブルを使用してに基づいて、スキーマが完全に機能する GraphQL API となるように自動的に変換します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年3月25日号　jammy開発/壁紙の確定とさまざまな調整 ── Ubuntu Weekly Topics]]></title>
         <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202203/25</id>

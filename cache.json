@@ -2824,6 +2824,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "888e9eeb2e834646270f90553627eb0abd4c6026",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) では、Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling ウォームプールを Amazon ECS クラスターでご使用いただくことにより、アプリケーションのスケールアウトの高速化とコスト節約を支援できるようになりました。ウォームプールを使用すると、アプリケーショントラフィックを高速で処理できるように事前に初期化された Amazon EC2 インスタンスのプールを作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/",
+          "publishedOn": "2022-03-25T05:32:24.000Z",
+          "wordCount": 264,
+          "title": "Amazon ECS で Amazon EC2 Auto Scaling 向けのウォームプールのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ee093b005ed732d592a60ff32df8351d8fbcae2b",
+          "author": "aws@amazon.com",
+          "description": "AWS Amplify で、新しい @mapsTo GraphQL ディレクティブが利用できるようになりました。これにより、デベロッパーは、データの移行を心配することなく、GraphQL モデルの反復処理や名前の変更が可能です。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。Amplify の GraphQL Transformer を使用することで、デベロッパーは GraphQL スキーマ定義言語を使用してバックエンドデータモデルを構成できます。それにより、Amplify CLI が基盤となるデータベーステーブルを使用してに基づいて、スキーマが完全に機能する GraphQL API となるように自動的に変換します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/",
+          "publishedOn": "2022-03-25T05:31:19.000Z",
+          "wordCount": 264,
+          "title": "AWS Amplify で、手動でデータを移行せずに GraphQL API を反復処理できる新しい @mapsTo ディレクティブをサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "5739e1358c2a2c1c73839e8313e802130f1d2c80",
           "author": "aws@amazon.com",
           "description": "Amazon Connect は、新しい機械学習機能を提供することで、コンタクトセンターのマネージャーが、コンタクトボリュームと平均処理時間を高精度で予測し、理想的な人員配置レベルを決定し、エージェントスケジュールを最適化して、適切なエージェントを適切なタイミングで確保できるようにします。これらの機能を有効にするには、クリックするだけであり、カスタムアプリケーションを構築したり、複雑で高価なサードパーティー製品と統合したりする必要はありません。これらの新機能は、企業がオペレーションを最適化し、サービスレベルの目標を達成し、エージェントと顧客の満足度を向上させるのに役立ちます。",
