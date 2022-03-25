@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T06:00:53.202Z</updated>
+    <updated>2022-03-25T07:00:50.722Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex で文法スロットタイプを導入]]></title>
+        <id>abf95bcc4efd6c307e0dcc9f17403323984996cd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/"/>
+        <updated>2022-03-25T06:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (「Chatbot」)、ビジュアルエージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Corretto 18 の一般提供を開始]]></title>
+        <id>e8f146704952332fd3e6b9a7128b565ab96aeead</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-corretto-18/"/>
+        <updated>2022-03-25T06:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Corretto 18 の一般提供を開始しました。このバージョンは、最新の Java 機能リリース OpenJDK 18 をサポートしており、Linux、Windows、および macOS でご利用いただけます。Corretto 18 はダウンロードページからダウンロードできます。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。Corretto は、オープンソースライセンスに基づいて Amazon によって配信されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が最大 1 万人のライブ参加者とのセッションに対応]]></title>
+        <id>a58343026a247bb2439daac866f0bded1df03435</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/"/>
+        <updated>2022-03-25T06:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。プレゼンターは、1 万人の参加者にリアルタイムでメディアを配信できるようになりました。参加者は、既存の WebRTC 接続で「ステージ」に上がることができ、コンテンツを一瞬たりとも逃すことなくライブの会話に貢献することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Transcribe Call Analytics が機械学習による通話要約に対応]]></title>
+        <id>09a13aadca64544a1d357b1636869e8ed595380f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/"/>
+        <updated>2022-03-25T06:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Transcribe Call Analytics は、コンタクトセンターのエージェントとマネージャーの生産性を向上させ、優れたカスタマーエクスペリエンスの提供に集中できるようにする、通話要約という新しい機械学習 (ML) 機能を発表しました。Transcribe Call Analytics API を使用すると、デベロッパーや独立系ソフトウェアベンダー (ISV) は、ML の専門知識を必要とせずに、音声記録を分析し、アプリケーションに通話分析を追加できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EBS direct API が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>7f25adf57aa0e94ed4737b7f70189487011d7fab</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ebs-direct-apis-jakarta/"/>
+        <updated>2022-03-25T06:32:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EBS direct API が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になり、お客様はオンプレミスを含め、場所に関係なく、ブロックストレージデータの Amazon Elastic Block Store (EBS) スナップショットを作成することができるようになりました。お客様は、EBS direct API を使用して、災害対策などのユースケース用の EBS ボリュームへの復元がすばやく簡単にできる EBS スナップショットにオンプレミスのワークロードをバックアップすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS が RDS ストレージ、IOPS、バックアップ機能の項目別請求に対応]]></title>
+        <id>70e717766bc5b22579cff816fdb81e7803e2219c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/"/>
+        <updated>2022-03-25T06:31:22.000Z</updated>
+        <summary type="html"><![CDATA[今回から、AWS Cost Explorer と Cost and Usage Reports (CURs) で、Amazon Relational Database Service (Amazon RDS) の料金に対し、より詳細な請求ができるようになりました。Amazon RDS for MySQL、MariaDB、PostgreSQL、Oracle、および SQL Server のデータベースインスタンスでプロビジョニングされている Amazon RDS バックアップ、汎用、プロビジョンド IOPS、マグネティックストレージボリュームについての詳細が追加報告されています。請求書には、上記の Amazon RDS のリソースと機能に関するデータベースエンジンごとのコストの詳細な内訳が記載されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聴くMITTR：露ウクライナ侵攻、その時インターネットでは？]]></title>
+        <id>https://www.technologyreview.jp/?p=271700</id>
+        <link href="https://www.technologyreview.jp/s/271700/audiomook-when-russia-invaded-ukraine-what-was-happening-on-the-internet-then/"/>
+        <updated>2022-03-25T06:30:48.000Z</updated>
+        <summary type="html"><![CDATA[今週のオーディオ・ムック（β）は、ウクライナ侵攻をめぐるネット上での市民らの動きを知る記事3本をお届けする。]]></summary>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年3月25日　Linux 5.17がリリース，「AMD P-State」新ドライバサポートなど ── Linux Daily Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/linux_dt/202203/25</id>
+        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202203/25"/>
+        <updated>2022-03-25T05:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvaldsは3月20日（米国時間），「Linux 5.17」を正式公開した。]]></summary>
+        <author>
+            <name>階戸アキラ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon ECS で Amazon EC2 Auto Scaling 向けのウォームプールのサポートを開始]]></title>
         <id>888e9eeb2e834646270f90553627eb0abd4c6026</id>

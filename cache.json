@@ -600,6 +600,21 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=271700",
+          "author": "MIT Technology Review Japan",
+          "description": "今週のオーディオ・ムック（β）は、ウクライナ侵攻をめぐるネット上での市民らの動きを知る記事3本をお届けする。",
+          "link": "https://www.technologyreview.jp/s/271700/audiomook-when-russia-invaded-ukraine-what-was-happening-on-the-internet-then/",
+          "publishedOn": "2022-03-25T06:30:48.000Z",
+          "wordCount": 685,
+          "title": "聴くMITTR：露ウクライナ侵攻、その時インターネットでは？",
+          "enclosure": {
+            "url": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/23173331/20220323-1v10.mp3",
+            "length": "14162321",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=271559",
           "author": "Patrick Howell O'Neill",
           "description": "ロシアのウクライナ侵攻に抗議する「プロテストウェア」がオープンソース・ソフトウェアの利用者らに衝撃を与えている。少なくとも一つのOSSプロジェクトに、ロシアとベラルーシにあるコンピューターのファイルを消去することを目的とした悪意のあるコードが追加されていた。",
@@ -2448,6 +2463,16 @@
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
         {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202203/25",
+          "author": "階戸アキラ",
+          "description": "Linus Torvaldsは3月20日（米国時間），「Linux 5.17」を正式公開した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202203/25",
+          "publishedOn": "2022-03-25T05:52:00.000Z",
+          "wordCount": 375,
+          "title": "2022年3月25日　Linux 5.17がリリース，「AMD P-State」新ドライバサポートなど ── Linux Daily Topics",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202203/25",
           "author": "吉田史",
           "description": "jammyの開発はBetaを前に，大量のFeature Freeze exceptionが申請され，確認の上で取り込まれていくという，Ubuntuにとっては「いつもの」，ソフトウェア開発的にはやや不思議な光景が広がっています。",
@@ -2823,6 +2848,66 @@
       "feedUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/feed/",
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
+        {
+          "id": "abf95bcc4efd6c307e0dcc9f17403323984996cd",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (「Chatbot」)、ビジュアルエージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/",
+          "publishedOn": "2022-03-25T06:35:46.000Z",
+          "wordCount": 248,
+          "title": "Amazon Lex で文法スロットタイプを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e8f146704952332fd3e6b9a7128b565ab96aeead",
+          "author": "aws@amazon.com",
+          "description": "Amazon Corretto 18 の一般提供を開始しました。このバージョンは、最新の Java 機能リリース OpenJDK 18 をサポートしており、Linux、Windows、および macOS でご利用いただけます。Corretto 18 はダウンロードページからダウンロードできます。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。Corretto は、オープンソースライセンスに基づいて Amazon によって配信されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-corretto-18/",
+          "publishedOn": "2022-03-25T06:34:55.000Z",
+          "wordCount": 343,
+          "title": "Amazon Corretto 18 の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a58343026a247bb2439daac866f0bded1df03435",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。プレゼンターは、1 万人の参加者にリアルタイムでメディアを配信できるようになりました。参加者は、既存の WebRTC 接続で「ステージ」に上がることができ、コンテンツを一瞬たりとも逃すことなくライブの会話に貢献することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/",
+          "publishedOn": "2022-03-25T06:34:07.000Z",
+          "wordCount": 257,
+          "title": "Amazon Chime SDK が最大 1 万人のライブ参加者とのセッションに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "09a13aadca64544a1d357b1636869e8ed595380f",
+          "author": "aws@amazon.com",
+          "description": "Amazon Transcribe Call Analytics は、コンタクトセンターのエージェントとマネージャーの生産性を向上させ、優れたカスタマーエクスペリエンスの提供に集中できるようにする、通話要約という新しい機械学習 (ML) 機能を発表しました。Transcribe Call Analytics API を使用すると、デベロッパーや独立系ソフトウェアベンダー (ISV) は、ML の専門知識を必要とせずに、音声記録を分析し、アプリケーションに通話分析を追加できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/",
+          "publishedOn": "2022-03-25T06:33:16.000Z",
+          "wordCount": 278,
+          "title": "Amazon Transcribe Call Analytics が機械学習による通話要約に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7f25adf57aa0e94ed4737b7f70189487011d7fab",
+          "author": "aws@amazon.com",
+          "description": "Amazon EBS direct API が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になり、お客様はオンプレミスを含め、場所に関係なく、ブロックストレージデータの Amazon Elastic Block Store (EBS) スナップショットを作成することができるようになりました。お客様は、EBS direct API を使用して、災害対策などのユースケース用の EBS ボリュームへの復元がすばやく簡単にできる EBS スナップショットにオンプレミスのワークロードをバックアップすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ebs-direct-apis-jakarta/",
+          "publishedOn": "2022-03-25T06:32:11.000Z",
+          "wordCount": 287,
+          "title": "Amazon EBS direct API が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "70e717766bc5b22579cff816fdb81e7803e2219c",
+          "author": "aws@amazon.com",
+          "description": "今回から、AWS Cost Explorer と Cost and Usage Reports (CURs) で、Amazon Relational Database Service (Amazon RDS) の料金に対し、より詳細な請求ができるようになりました。Amazon RDS for MySQL、MariaDB、PostgreSQL、Oracle、および SQL Server のデータベースインスタンスでプロビジョニングされている Amazon RDS バックアップ、汎用、プロビジョンド IOPS、マグネティックストレージボリュームについての詳細が追加報告されています。請求書には、上記の Amazon RDS のリソースと機能に関するデータベースエンジンごとのコストの詳細な内訳が記載されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/",
+          "publishedOn": "2022-03-25T06:31:22.000Z",
+          "wordCount": 275,
+          "title": "Amazon RDS が RDS ストレージ、IOPS、バックアップ機能の項目別請求に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
         {
           "id": "888e9eeb2e834646270f90553627eb0abd4c6026",
           "author": "aws@amazon.com",
