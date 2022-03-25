@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T10:00:44.782Z</updated>
+    <updated>2022-03-25T22:01:03.884Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現在プレビュー中 - Amazon GameSparks]]></title>
+        <id>ac42f434102017539b8a7eef2cc533f257d82012</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-gamesparks-preview/"/>
+        <updated>2022-03-25T17:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon GameSparks のプレビュー版のリリースを発表できることを嬉しく思います。これは、サーバーや低レベルのクラウドプリミティブを管理することなく、ゲームデベロッパーがゲームのバックエンドを構築、実行、スケーリングできるようにする AWS のマネージドサービスです。Amazon GameSparks は、必要なセットアップが最小限にとどまり、Unity ゲームエンジンと事前に統合されているすぐに使えるバックエンド機能を搭載しているため、クラウドエクスペリエンスがほとんどまたはまったくないゲームデベロッパーでもゲームバックエンドを容易に構築できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraform オープンソース向けの AWS Proton サポートが一般提供開始]]></title>
+        <id>ab73c37a0e1b9bc32193b2bfae31c48522c70245</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/"/>
+        <updated>2022-03-25T17:51:05.000Z</updated>
+        <summary type="html"><![CDATA[HashiCorp Configuration Language (HCL) でインフラストラクチャを定義し、Terraform オープンソースを使用してインフラストラクチャをプロビジョニングするための AWS Proton サポートが、Proton が提供されているすべてのリージョンで一般的にご利用いただけるようになりました。プラットフォームチームは、CloudFormation に加えて、Terraform モジュールを使用して AWS Proton テンプレートを定義できるようになりました。AWS Proton は、お客様が管理する Terraform オートメーションを活用して、インフラストラクチャをプロビジョニングまたは更新します。お客様は、Terraform をインフラストラクチャの定義とプロビジョニングのツールとして使用できます。それによって、AWS Proton は、使用されているモジュールを常に最新の状態に保ちます。この一般提供の開始に合わせて、インフラストラクチャ管理用の BitBucket リポジトリのサポートを開始し、サービス全体のメッセージングを改善してプロビジョニングのステータスをさらに明確にします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal ゲームエンジン用の AWS GameKit が一般提供開始]]></title>
+        <id>c58dc5f71f2391caad3d56a304723ffaf0fe01eb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/"/>
+        <updated>2022-03-25T17:50:17.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS GameKit をリリースします。これは、ゲームデベロッパーが Unreal Engine から直接ゲームバックエンド機能をデプロイおよびカスタマイズできる新しいソリューションです。AWS GameKit には、AWS Solution Architect の設計に従った各機能の AWS CloudFormation テンプレートが含まれています。AWS GameKit には、ゲームバックエンド機能と Unreal Engine 間の統合コードも付属しています。AWS GameKit は、数回クリックするだけで Unreal Engine から直接 AWS を利用したゲーム機能を構築しようとしているゲームデベロッパーを対象としています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra が Slack Connector をリリースし、Slack メッセージング検索を有効化]]></title>
+        <id>1cf417ceb1756bdef2e2bdff46c74ccf698daeb2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/"/>
+        <updated>2022-03-25T17:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Slack Connector を使用して、Slack からのメッセージのインデックス作成と検索を行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS コスト異常検出が、リソースおよびタグベースのアクセス管理のサポートを開始]]></title>
+        <id>80dc29f3d0c9a1591f823ea119ddbe97494bdd68</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/"/>
+        <updated>2022-03-25T17:48:39.000Z</updated>
+        <summary type="html"><![CDATA[AWS コスト異常検出は、リソースとタグベースのアクセスコントロールをサポートするようになり、コスト異常モニターとアラートサブスクリプションの管理とそれらへのアクセスが容易になりました。AWS Identity and Access Management (IAM) ポリシーを定義して、AWS コスト異常検出モニターとアラートサブスクリプションに対してリソース名とタグに基づいてきめ細かいアクセス許可を指定できるようになりました。これにより、これら 2 つのきめ細かいアクセスコントロール機能を通じてガバナンスと情報セキュリティが向上します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight が Groups Management UI をローンチ]]></title>
+        <id>dd7366ce79a98cf7036261258c3a9e940dec3942</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-groups-management-ui/"/>
+        <updated>2022-03-25T17:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、インタラクティブなユーザーインターフェイスによるネイティブグループ管理をサポートするようになりました。この変更により、管理者は QuickSight 管理コンソールを介してユーザーグループを効率的かつ簡単に管理できるようになります。グループを作成および管理し、グループ内のユーザーメンバーシップを管理できます。Groups Management UI は、IAM 認証情報を介して QuickSight 管理コンソールページにアクセスできる管理者が利用できます。詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cost Categories が、リソースおよびタグベースのアクセスコントロールのサポートを開始]]></title>
+        <id>4555896aa459c70e3d3094cebbf95f8b061aaa34</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/"/>
+        <updated>2022-03-25T17:47:03.000Z</updated>
+        <summary type="html"><![CDATA[AWS Cost Categories が、リソースとタグベースのアクセスコントロールをサポートするようになり、コストカテゴリの管理とそれらへのアクセスが容易になりました。AWS Identity and Access Management (IAM) ポリシーを定義して、リソース名とタグに基づいて AWS Cost Categories のきめ細かい許可を指定し、これら 2 つのきめ細かいアクセスコントロール機能を通じてガバナンスと情報セキュリティを向上させることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS KMS と ACM が最新のハイブリッドポスト量子 TLS 暗号のサポートを開始]]></title>
+        <id>0094cc326d3cc9d911b9ed09c819c7f20ed384e3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/"/>
+        <updated>2022-03-25T12:16:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Key Management Service (KMS) と AWS Certificate Manager (ACM) は、NIST ポスト量子暗号 (PQC) 選択プロセスの Round 3 の最新のポスト量子暗号を使用して、トランスポート層セキュリティ (SSL/TLS) 接続用のハイブリッドポスト量子キー確立をサポートするようになりました。これらの TLS 設定により、正式な標準化の発表に先立って、PQC アルゴリズムの潜在的なパフォーマンスへの影響を測定できます。また、ハイブリッドポスト量子 TLS によって提供される、長期にわたる機密保護の恩恵を受けることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra の FSx Connector のリリースにより、Amazon FSx for Windows ファイルサーバーでインテリジェントな検索が可能に]]></title>
+        <id>1c27d58e211a20a492c58cd17a844d616b143fdf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/"/>
+        <updated>2022-03-25T12:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、顧客や従業員が関連性の高い情報を必要とするときに、組織がこれらを提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra FSx Connector を使用して、FSx for Windows ファイルサーバーのファイルシステムのドキュメントにインデックスを付けて検索できるようになります。Amazon FSx for Windows ファイルサーバーは、Windows Server 上に構築されたフルマネージド共有ストレージを提供し、幅広いデータアクセス、データ管理、および管理機能を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crystal言語作者がRubyを愛する理由（4）呼び出しが強力（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_03_25/116522</id>
@@ -4574,102 +4664,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[マイクロソフトは、ユーザーが利用しているクラウドのリソースを脅威から保護し、セキュリティの状況などを把握する「Microsoft Defender for Cloud」がGoogle Cloudのサポートを開始したことを発表しました。 すで...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker が JumpStart モデル用の新しい API を追加]]></title>
-        <id>ad19a2eda5431e6c1af0984e6c83fb3214ac5afb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/"/>
-        <updated>2022-02-24T08:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker JumpStart は、TensorFlow Hub、PyTorch Hub、Hugging Face、および Gluon CV (「モデルの動物園」とも呼ばれます) の 322 の定評あるモデルコレクションと、需要予測、不正検出、ドキュメント理解などの一般的なビジネス上の問題を解決する 17 のエンドツーエンドソリューションにワンクリックでアクセスできるため、機械学習の問題をすばやく簡単に解決するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AppSync がカスタムレスポンスヘッダーのサポートを追加]]></title>
-        <id>1a51b7469507ebc884da4416e468a97440cc0ddf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/"/>
-        <updated>2022-02-24T08:36:14.000Z</updated>
-        <summary type="html"><![CDATA[AWS AppSync は、GraphQL および Real-time API の開発と管理を容易にするフルマネージドサービスです。これにより、単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが容易になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「巨大プルリク1件vs細かいプルリク100件」問題を考える（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_02_24/51095</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_02_24/51095"/>
-        <updated>2022-02-24T08:34:38.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2018/02/100_duck_sized_pull_requests_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: 100 Duck-Sized Pull Requests 原文公開日: 2017/12 著者: Kurtis Funai 日本語タイトルは内容に即したものにしました。 2018/02/07: 初版公開 2022/02/24: 更新 Git Logo by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License. 「巨大プルリク1件vs細かいプルリク100件」問題を考える（翻訳） 本記事では、昔ながらの問題である「巨大なプルリク1件と超細かいプルリ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_02_24/51095" data-wpel-link="internal" target="_self">「巨大プルリク1件vs細かいプルリク100件」問題を考える（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby 3.1.1がリリースされました]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_02_24/115949</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_02_24/115949"/>
-        <updated>2022-02-24T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/02/ruby3.1.1_released_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Ruby 3.1.1がリリースされました。 Ruby 3.1.1 Released https://t.co/dRcKVkYzWu &#8212; Ruby Language (@rubylangorg) February 18, 2022 リリース情報: Ruby 3.1.1 Released 詳しくはリリース情報をご覧ください。3.1.1はTEENY（小さな）と銘打たれたバグ修正です。 なお、#18436で言及されているRuby 3.1.0でのDir.globの挙動変更は、Ruby 3.1.0のリリースノートおよびNEWS.mdに記載されていませんでした。 参考: Ruby 3.1.0 リリース 参考: ru [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_02_24/115949" data-wpel-link="internal" target="_self">Ruby 3.1.1がリリースされました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Log4Shellの防御 - Contrast SecurityのArshan Dabirsianghi氏が語るJava Agent]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/log4shell-contrast-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/log4shell-contrast-security/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-02-24T02:12:00.000Z</updated>
-        <summary type="html"><![CDATA[システムの持つ重要性と、log4shellの脆弱性が深刻かつ重大であることから、その修正には新たなアプローチが求められていた。この防御戦略で重要な役割を果たすのはJava Agentだ。アプローチに関する理解を深めるべく、InfoQは今回、Contrast Securityの創設者でチーフサイエンティストのArshan Debirsianghi氏に話を聞いた。
- By Olimpiu Pop  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Olimpiu Pop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ericssonにおけるコラボレーションの向上 - ハードウェアとソフトウェアの開発者が互いのことばを理解する]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/ericsson-developers-collaborate/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/ericsson-developers-collaborate/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-02-24T02:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ハードウェアとソフトウェアの境界を越えたチームをセットアップして開発を統合しようとする場合、重要になるのが、ハードウェアとソフトウェアの開発者が互いのことばで話をすることだ。"我々(we)"と"彼ら(them)"ではなく"私たち(us)"に、アジャイルやリーンの用語よりも開発者同士をつなぐ技術的能力に、重点を置くことが望ましい。
- By Ben Linders  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアエンジニアリングのプロに関する職場の課題と機会]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/work-challenges-opportunities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/work-challenges-opportunities/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-02-24T02:08:00.000Z</updated>
-        <summary type="html"><![CDATA[スキルの不足、大量の辞任、リモートおよびハイブリッド作業、COVID-19の継続的な影響、ソフトウェアプロフェッショナルに対する需要の高まりに関する分析および調査が、過去数か月にわたって行われた。そして、現時点におけるソフトウェアエンジニアリングのプロフェッショナルにとっての課題と機会の両方がわかった。必要なスキルを備えた人材を見つけて保持すること、リソース制限、顧客需要の増加、ハイブリッドな職場によって変化が促進されている。
- By Shane Hastie  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Shane Hastie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failsafe 3.2が新たなレジリエンスポリシをリリース]]></title>
-        <id>https://www.infoq.com/jp/news/2022/02/failsafe-resilience-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/02/failsafe-resilience-3/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-02-24T02:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Java 8以降を対象とする軽量なフォールトトレランスライブラリであるFailsafeが、2021年11月、メジャーリリースとなる3.0をローンチした。さらに、先日発表されたバージョン3.2では、Rate LimiterおよびBulkheadポリシが追加されている。JavaのCompletableFutureのような、非同期コードとの統合も可能だ。
- By Andrea Messetti  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Andrea Messetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年2月第4週　寝室で使うための「読書タブレット」選び（前編） ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202202/24</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202202/24"/>
-        <updated>2022-02-24T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年2月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
     <entry>
