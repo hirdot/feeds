@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-27T10:00:56.609Z</updated>
+    <updated>2022-03-27T22:00:56.246Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシアのインターネット断絶で現実味増す「スプリンターネット」]]></title>
+        <id>https://www.technologyreview.jp/?p=271574</id>
+        <link href="https://www.technologyreview.jp/s/271574/russia-is-risking-the-creation-of-a-splinternet-and-it-could-be-irreversible/"/>
+        <updated>2022-03-27T21:30:09.000Z</updated>
+        <summary type="html"><![CDATA[世界共通のコミュニケーション基盤である、単一のグローバル・インターネットの存続が揺らいでいる。もし、インターネットの分断（スプリンターネット）が起こったら、元に戻すのは難しいだろう。]]></summary>
+        <author>
+            <name>James Ball</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東北大が半導体の材料探索に機械学習、相変化メモリの設計で]]></title>
+        <id>https://www.technologyreview.jp/n/2022/03/28/271984/</id>
+        <link href="https://www.technologyreview.jp/n/2022/03/28/271984/"/>
+        <updated>2022-03-27T21:19:52.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda、ローカルの/tmpが最大10GBまで拡張。大規模データ処理も可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/aws_lambdatmp10gb.html</id>
+        <link href="https://www.publickey1.jp/blog/22/aws_lambdatmp10gb.html"/>
+        <updated>2022-03-27T15:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Servicesは、サーバレスコンピューティング基盤を提供するAWS Lambdaで、/tmp以下で利用できるローカルの一時ファイルシステムの容量が最大10GBまで利用可能になったと発表しました。 これまでの利用可能な...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[医薬品製造に関わる酵素を機械学習で発見＝神戸大など]]></title>
         <id>https://www.technologyreview.jp/n/2022/03/26/271925/</id>
@@ -4442,54 +4471,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <updated>2022-02-26T21:59:55.000Z</updated>
         <author>
             <name>hitoshi_sasada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>b88ad62e8d7fdd6a49fe0d0d934d42ec7aed87f2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/"/>
-        <updated>2022-02-26T02:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。これは、悪意のあるアクティビティのために AWS アカウントとワークロードを継続的にモニタリングし、可視化と修復のための詳細なセキュリティ調査結果を提供する脅威検出サービスです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family がログインバナーのサポートを開始]]></title>
-        <id>01967ae1d51b2d0989d4004023ea2e9dceef8a0f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/"/>
-        <updated>2022-02-26T00:26:14.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始]]></title>
-        <id>f625b57d9484997e449505dc1daed54ee955a62f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/"/>
-        <updated>2022-02-26T00:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for SQL Server は、Standard Edition において、すべての AWS リージョンのマルチ AZ 設定用に Always On 可用性グループ (AG) の提供を開始しました。新たな高可用性オプションにより SQL Server におけるエンタープライズグレードの本稼働ワークロードの要件を満たすことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTT、高速移動中に60GHz帯無線LANで無瞬断の大容量伝送]]></title>
-        <id>https://www.technologyreview.jp/n/2022/02/26/269895</id>
-        <link href="https://www.technologyreview.jp/n/2022/02/26/269895/"/>
-        <updated>2022-02-25T22:45:02.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTT、高速移動中に60GHz帯無線LANで無瞬断の大容量伝送]]></title>
-        <id>https://www.technologyreview.jp/n/2022/02/26/269895</id>
-        <link href="https://www.technologyreview.jp/n/2022/02/26/269895"/>
-        <updated>2022-02-25T22:45:02.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>

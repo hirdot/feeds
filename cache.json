@@ -530,6 +530,26 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=271574",
+          "author": "James Ball",
+          "description": "世界共通のコミュニケーション基盤である、単一のグローバル・インターネットの存続が揺らいでいる。もし、インターネットの分断（スプリンターネット）が起こったら、元に戻すのは難しいだろう。",
+          "link": "https://www.technologyreview.jp/s/271574/russia-is-risking-the-creation-of-a-splinternet-and-it-could-be-irreversible/",
+          "publishedOn": "2022-03-27T21:30:09.000Z",
+          "wordCount": 720,
+          "title": "ロシアのインターネット断絶で現実味増す「スプリンターネット」",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/22010504/Splinternet-b-1-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/03/28/271984/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/03/28/271984/",
+          "publishedOn": "2022-03-27T21:19:52.000Z",
+          "wordCount": 322,
+          "title": "東北大が半導体の材料探索に機械学習、相変化メモリの設計で",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
           "id": "https://www.technologyreview.jp/n/2022/03/26/271925/",
           "author": "MIT Technology Review Japan",
           "description": "",
@@ -1353,26 +1373,6 @@
           "wordCount": 310,
           "title": "人工透析の回避にアルドステロン拮抗薬、大阪大学が追跡研究",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/02/26/269895",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/02/26/269895/",
-          "publishedOn": "2022-02-25T22:45:02.000Z",
-          "wordCount": 331,
-          "title": "NTT、高速移動中に60GHz帯無線LANで無瞬断の大容量伝送",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/02/26/269895",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/02/26/269895",
-          "publishedOn": "2022-02-25T22:45:02.000Z",
-          "wordCount": 313,
-          "title": "NTT、高速移動中に60GHz帯無線LANで無瞬断の大容量伝送",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     },
@@ -1698,6 +1698,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/aws_lambdatmp10gb.html",
+          "author": null,
+          "description": "Amazon Web Servicesは、サーバレスコンピューティング基盤を提供するAWS Lambdaで、/tmp以下で利用できるローカルの一時ファイルシステムの容量が最大10GBまで利用可能になったと発表しました。 これまでの利用可能な...",
+          "link": "https://www.publickey1.jp/blog/22/aws_lambdatmp10gb.html",
+          "publishedOn": "2022-03-27T15:46:47.000Z",
+          "wordCount": 187,
+          "title": "AWS Lambda、ローカルの/tmpが最大10GBまで拡張。大規模データ処理も可能に",
+          "imageUrl": "https://www.publickey1.jp/2022/lambda10gb.gif"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/awsjava_18javaamazon_corretto_18.html",
           "author": null,
@@ -4036,36 +4046,6 @@
           "publishedOn": "2022-02-27T12:35:14.000Z",
           "wordCount": 277,
           "title": "Amazon RDS for Oracle and Amazon Aurora 用の Database Activity Streams がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b88ad62e8d7fdd6a49fe0d0d934d42ec7aed87f2",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。これは、悪意のあるアクティビティのために AWS アカウントとワークロードを継続的にモニタリングし、可視化と修復のための詳細なセキュリティ調査結果を提供する脅威検出サービスです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-02-26T02:05:14.000Z",
-          "wordCount": 266,
-          "title": "Amazon GuardDuty が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "01967ae1d51b2d0989d4004023ea2e9dceef8a0f",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Transfer Family サーバーでは、組織ポリシーや利用規約などのカスタマイズしたメッセージをエンドユーザーに表示し、法律およびコンプライアンスに関する要件を満たすことができます。挨拶など、カスタマイズした本日のメッセージ (MOTD) を表示して、ユーザーエクスペリエンスを高めることもできます。たとえば、データ利用ポリシーを表示してからユーザーを認証し、正常な認証後に歓迎メッセージを表示できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/",
-          "publishedOn": "2022-02-26T00:26:14.000Z",
-          "wordCount": 239,
-          "title": "AWS Transfer Family がログインバナーのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f625b57d9484997e449505dc1daed54ee955a62f",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS for SQL Server は、Standard Edition において、すべての AWS リージョンのマルチ AZ 設定用に Always On 可用性グループ (AG) の提供を開始しました。新たな高可用性オプションにより SQL Server におけるエンタープライズグレードの本稼働ワークロードの要件を満たすことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/",
-          "publishedOn": "2022-02-26T00:20:14.000Z",
-          "wordCount": 306,
-          "title": "Amazon RDS for SQL Server が Standard Edition 2017 の Always On 可用性グループのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
