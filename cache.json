@@ -4142,6 +4142,16 @@
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
         {
+          "id": "https://rubyonrails.org/2022/3/27/this-week-in-rails-security-improvements-reducing-bytes-and-more-63e63af4",
+          "author": null,
+          "description": "Hi, this is Petrik, bringing you the latest news from the Rails world. Reduce the output of Rails::Railtie#inspect to the classname Anytime inspect was called on Rails::Application, it would output the very large application object. By reducing it to the classname, we also prevent leaking credentials. Remove body content from redirect responses",
+          "link": "https://rubyonrails.org/2022/3/27/this-week-in-rails-security-improvements-reducing-bytes-and-more-63e63af4",
+          "publishedOn": "2022-03-27T00:00:00.000Z",
+          "wordCount": 346,
+          "title": "Security improvements, reducing bytes and more!",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
+        {
           "id": "https://rubyonrails.org/2022/3/11/Rails-5-2-7-has-been-released",
           "author": null,
           "description": "Hi everyone,",

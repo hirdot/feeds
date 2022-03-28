@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T06:01:00.459Z</updated>
+    <updated>2022-03-28T07:00:55.328Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -126,6 +126,16 @@
         <updated>2022-03-27T00:50:39.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security improvements, reducing bytes and more!]]></title>
+        <id>https://rubyonrails.org/2022/3/27/this-week-in-rails-security-improvements-reducing-bytes-and-more-63e63af4</id>
+        <link href="https://rubyonrails.org/2022/3/27/this-week-in-rails-security-improvements-reducing-bytes-and-more-63e63af4"/>
+        <updated>2022-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Petrik, bringing you the latest news from the Rails world. Reduce the output of Rails::Railtie#inspect to the classname Anytime inspect was called on Rails::Application, it would output the very large application object. By reducing it to the classname, we also prevent leaking credentials. Remove body content from redirect responses]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
