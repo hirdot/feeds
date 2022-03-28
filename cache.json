@@ -2749,6 +2749,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "7daf03e5d430a4bfe508728367f6860abcefb1f7",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda のお客様は、Lambda 関数用に最大 10,240 MB のエフェメラルストレージを設定できるようになりました (以前の制限である 512 MB の 20 倍)。これは、財務分析、機械学習推論、メディア処理アプリケーションなどのワークロードが大量のデータを利用するオペレーションを大規模に実行するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/",
+          "publishedOn": "2022-03-28T07:35:34.000Z",
+          "wordCount": 303,
+          "title": "AWS Lambda で Lambda 関数用に最大 10 GB のエフェメラルストレージの設定が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ffbdf5aebbf4d6ad663c86dc3ddf601217d6a128",
+          "author": "aws@amazon.com",
+          "description": "Amazon Comprehend は、テキスト、PDF、Word に加えて、画像形式のドキュメントをサポートするようになりました。お客様は、Comprehend カスタムエンティティ認識を使用して画像ファイル (JPG、PNG、TIFF) からエンティティを抽出できるようになりました。また、Amazon Textract の JSON 出力で Comprehend を直接使用して、ドキュメントからカスタムエンティティを抽出することもできます。今回のリリースにより、お客様はインテリジェントドキュメント処理 (IDP) ワークフローを簡素化でき、Comprehend と Textract のすぐに使用できる統合を利用して、ドキュメントからエンティティを抽出できます。これらの機能の詳細な説明を以下に記載しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/",
+          "publishedOn": "2022-03-28T07:33:45.000Z",
+          "wordCount": 279,
+          "title": "Amazon Comprehend を使用して画像と Textract JSON ファイルからカスタムエンティティを抽出する",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "231aef509a8b2bf1964c63388c2d9104f4ca114f",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 Auto Scaling は、Amazon EC2 インスタンスメタデータサービス (IMDS) で、Auto Scaling インスタンスのライフサイクル状態を発行するようになりました。これにより、インスタンスがあるライフサイクル状態から別のライフサイクル状態に移行するときに、インスタンス上でのアクションを簡単に開始できます。Auto Scaling グループのインスタンスは、起動されてサービスの提供が開始されてから、サービスから削除されて終了するまで、さまざまなライフサイクル状態に移行します。IMDS をポーリングすることで、インスタンス上のアプリケーションをセットアップして、ライフサイクルの状態を簡単に判断できます。Amazon CloudWatch Events やその他のサービスをセットアップする必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/",
+          "publishedOn": "2022-03-28T07:31:59.000Z",
+          "wordCount": 257,
+          "title": "Amazon EC2 Auto Scaling インスタンスのライフサイクル状態が、インスタンスメタデータサービスを介して利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "ac42f434102017539b8a7eef2cc533f257d82012",
           "author": "aws@amazon.com",
           "description": "Amazon GameSparks のプレビュー版のリリースを発表できることを嬉しく思います。これは、サーバーや低レベルのクラウドプリミティブを管理することなく、ゲームデベロッパーがゲームのバックエンドを構築、実行、スケーリングできるようにする AWS のマネージドサービスです。Amazon GameSparks は、必要なセットアップが最小限にとどまり、Unity ゲームエンジンと事前に統合されているすぐに使えるバックエンド機能を搭載しているため、クラウドエクスペリエンスがほとんどまたはまったくないゲームデベロッパーでもゲームバックエンドを容易に構築できます。",

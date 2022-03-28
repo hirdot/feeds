@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-28T07:00:55.328Z</updated>
+    <updated>2022-03-28T08:01:14.740Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda で Lambda 関数用に最大 10 GB のエフェメラルストレージの設定が可能に]]></title>
+        <id>7daf03e5d430a4bfe508728367f6860abcefb1f7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/"/>
+        <updated>2022-03-28T07:35:34.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda のお客様は、Lambda 関数用に最大 10,240 MB のエフェメラルストレージを設定できるようになりました (以前の制限である 512 MB の 20 倍)。これは、財務分析、機械学習推論、メディア処理アプリケーションなどのワークロードが大量のデータを利用するオペレーションを大規模に実行するのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Comprehend を使用して画像と Textract JSON ファイルからカスタムエンティティを抽出する]]></title>
+        <id>ffbdf5aebbf4d6ad663c86dc3ddf601217d6a128</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/"/>
+        <updated>2022-03-28T07:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Comprehend は、テキスト、PDF、Word に加えて、画像形式のドキュメントをサポートするようになりました。お客様は、Comprehend カスタムエンティティ認識を使用して画像ファイル (JPG、PNG、TIFF) からエンティティを抽出できるようになりました。また、Amazon Textract の JSON 出力で Comprehend を直接使用して、ドキュメントからカスタムエンティティを抽出することもできます。今回のリリースにより、お客様はインテリジェントドキュメント処理 (IDP) ワークフローを簡素化でき、Comprehend と Textract のすぐに使用できる統合を利用して、ドキュメントからエンティティを抽出できます。これらの機能の詳細な説明を以下に記載しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling インスタンスのライフサイクル状態が、インスタンスメタデータサービスを介して利用可能に]]></title>
+        <id>231aef509a8b2bf1964c63388c2d9104f4ca114f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/"/>
+        <updated>2022-03-28T07:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 Auto Scaling は、Amazon EC2 インスタンスメタデータサービス (IMDS) で、Auto Scaling インスタンスのライフサイクル状態を発行するようになりました。これにより、インスタンスがあるライフサイクル状態から別のライフサイクル状態に移行するときに、インスタンス上でのアクションを簡単に開始できます。Auto Scaling グループのインスタンスは、起動されてサービスの提供が開始されてから、サービスから削除されて終了するまで、さまざまなライフサイクル状態に移行します。IMDS をポーリングすることで、インスタンス上のアプリケーションをセットアップして、ライフサイクルの状態を簡単に判断できます。Amazon CloudWatch Events やその他のサービスをセットアップする必要はありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Web3.0」とは？そのメリットは？  Webの進化の歴史を振り返る]]></title>
         <id>https://data.wingarc.com/?p=37701</id>
