@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-29T00:00:46.758Z</updated>
+    <updated>2022-03-29T01:29:53.898Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年3月29日　Debianプロジェクト，ポイントリリース「Debian 11.3」「Debian 10.12」を同時に公開 ── Linux Daily Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/linux_dt/202203/29</id>
+        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202203/29"/>
+        <updated>2022-03-29T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Debianプロジェクトは3月26日，「Debian 11 "Bullseye"」の3回目のポイントリリースとなる「Debian 11.3」と，「Debian 10 "Buster"」の12回目のポイントリリース「Debian 10.12」を公開した。]]></summary>
+        <author>
+            <name>階戸アキラ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第168回　MyDumperを使ってみよう［その1］ ── MySQL道普請便り]]></title>
+        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0168</id>
+        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0168"/>
+        <updated>2022-03-29T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQLの論理バックアップツールというと，mysqldumpは皆さんご存知のことでしょう。今回は，筆者の使い慣れているMySQLの論理バックアップツールMyDumperについて紹介したいと思います。]]></summary>
+        <author>
+            <name>北川健太郎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[主張：量子コンピューター・バブルに困惑する理由]]></title>
         <id>https://www.technologyreview.jp/?p=272041</id>
@@ -4728,26 +4748,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[GitHubは、Wikiページに画像をドラッグ＆ドロップするだけで自動的にアップロードされ、ページに画像が追加される新機能を発表しました。 同社新CEOのThomas Dohmke氏がツイートしています。また、GitHubのChange L...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue ジョブ実行のインサイトの発表]]></title>
-        <id>334d8ec242fd85afe64cfaf80c16cc932c2aac6f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/"/>
-        <updated>2022-02-27T12:41:14.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue は、ジョブ実行のインサイトを提供するようになりました。これは、エラーの原因とパフォーマンスのボトルネックを特定できるようにすることで、Apache Spark ジョブの開発時間を短縮する機能です。AWS Glue は、サーバーレスの Apache Spark と Python を使用して、お客様が分析用のデータを検出、準備、結合できるようにするデータ統合サービスです。Spark の分散処理と「遅延実行」モデルでは、データエンジニアがエラーを診断してパフォーマンスを調整するのは困難で時間がかかります。今回のリリースにより、AWS Glue は、Spark ジョブのエラーの自動分析と解釈を行い、プロセスを高速化します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle and Amazon Aurora 用の Database Activity Streams がアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>3e96caa95009eed8a527b6405f6eb11baa71f669</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/"/>
-        <updated>2022-02-27T12:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle と Amazon Aurora は、アジアパシフィック (ジャカルタ) リージョンの Database Activity Streams のサポートを開始しました。Database Activity Streams は、リレーショナルデータベースがコンプライアンスおよび規制要件を満たすためのデータベースアクティビティのほぼリアルタイムのストリームを提供します。データベースアクティビティストリームはサードパーティーのデータベースアクティビティのモニタリングツールと統合すると、データベースアクティビティをモニタリングおよび監査してデータベースを保護します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
