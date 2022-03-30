@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T10:00:35.612Z</updated>
+    <updated>2022-03-30T22:00:35.221Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[賢く振る舞うAIチャットボットは「検索の未来」か？]]></title>
+        <id>https://www.technologyreview.jp/?p=272137</id>
+        <link href="https://www.technologyreview.jp/s/272137/chatbots-could-one-day-replace-search-engines-heres-why-thats-a-terrible-idea/"/>
+        <updated>2022-03-30T21:56:26.000Z</updated>
+        <summary type="html"><![CDATA[大規模言語モデルをインターネット検索に活用し、ユーザーの質問に対する回答を専門家のようにすばやく返す方法をグーグルをはじめとするテック企業が模索している。だが、このアプローチは間違った考え方なのではないか？ との批判や反発の声も出始めている。]]></summary>
+        <author>
+            <name>Will Douglas Heaven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士通、36量子ビットの世界最速量子シミュレーターを開発]]></title>
+        <id>https://www.technologyreview.jp/n/2022/03/30/272170/</id>
+        <link href="https://www.technologyreview.jp/n/2022/03/31/272170/"/>
+        <updated>2022-03-30T21:49:45.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPS細胞から視細胞を迅速に分化誘導、理研・京大チームが新手法]]></title>
+        <id>https://www.technologyreview.jp/n/2022/03/30/272190/</id>
+        <link href="https://www.technologyreview.jp/n/2022/03/31/272190/"/>
+        <updated>2022-03-30T21:45:23.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オラクル、インメモリDBのMySQL HeatWaveに機械学習機能を追加。SQL文だけで学習、推論、説明の取得を実現]]></title>
+        <id>https://www.publickey1.jp/blog/22/dbmysql_heatwavesql.html</id>
+        <link href="https://www.publickey1.jp/blog/22/dbmysql_heatwavesql.html"/>
+        <updated>2022-03-30T15:52:21.000Z</updated>
+        <summary type="html"><![CDATA[オラクルは、MySQLにインメモリデータベースエンジンを搭載することで高速なOLAP機能を提供する「MySQL HeatWave」の新機能として、機械学習機能を提供する「MySQL HeatWave ML」を発表しました。 同時に、無停止で...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Spannerが確約利用に対する割引を導入]]></title>
         <id>https://www.infoq.com/jp/news/2022/03/google-cloud-spanner-cuds/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
@@ -4437,158 +4475,6 @@ Warm Pool にスケールインすると、スケールイン中に新しい War
         <summary type="html"><![CDATA[WindowsやmacOS、Linuxなどのクロスプラットフォーム対応のデスクトップアプリ開発を容易にするフレームワークとして高い人気を持つフレームワークが「Electron」です。 ElectronはChromiumとNode.jsを用い...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: Ruby標準のCSVライブラリは優秀、if代入のコーディングスタイル、rambulanceほか（20220301後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_03_01/115984</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_03_01/115984"/>
-        <updated>2022-03-01T09:38:37.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/02/railswatch_20220301_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_03_01/115984" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Ruby標準のCSVライブラリは優秀、if代入のコーディングスタイル、rambulanceほか（20220301後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSが新しいオープンソースソリューションを発表：AWS Virtual Waiting Room]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/aws-virtual-waiting-room/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/aws-virtual-waiting-room/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-03-01T09:06:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、AWSはAWS Virtual Waiting Roomと呼ばれる新しいオープンソースソリューションを導入した。これにより、既存のWebやモバイルアプリケーションとの統合ができるようになった。さらに、このソリューションでは、突然のトラフィックバースト中にユーザ要求をバッファリングすることで、システムをリソースの枯渇から守る。
- By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディフェクト・マスの測定が重要な製品領域のテストにどのように役立つか]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/test-critical-product-areas/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/test-critical-product-areas/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-03-01T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[「ディフェクト・マス」と呼ばれる測定を導入することで、プロジェクトは開発によって最も影響を受けた領域を見つけることができ、影響を受けた領域ごとに実行するテストの数を決定するのに役に立った。この測定値を他のKPIと一緒に使用することで、テストに集中する役に立った。顧客のインシデントの数を減らすことができた。
- By Ben Linders  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda が .NET 6 のサポートを追加]]></title>
-        <id>7369322bf816a0139e10bef8ab70216286661023</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/"/>
-        <updated>2022-03-01T08:31:13.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda で、マネージドランタイムおよびコンテナベースイメージの両方として .NET 6 がサポートされるようになりました。Lambda で .NET 6 を使用してサーバーレスアプリケーションを作成するデベロッパーは、ロギングの改善、最上位レベルのステートメントを使った関数定義の簡素化、ソースジェネレーターを使ったパフォーマンスの向上などの新機能を利用できます。.NET 6 を使用することで、.NET の新しい言語機能とパフォーマンス最適化も提供されます。 Lambda による .NET 6 のサポートの詳細については、.NET 6 runtime now available in AWS Lambda のブログ投稿をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【バックナンバー】データのじかんレコメンド データ活用・IT・DXの分野 2022年2月の展示会情報]]></title>
-        <id>https://data.wingarc.com/?p=39325</id>
-        <link href="https://data.wingarc.com/datatimes_recommended_event-backnumber-202202-39325?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_recommended_event-backnumber-202202"/>
-        <updated>2022-03-01T08:13:37.000Z</updated>
-        <summary type="html"><![CDATA[【データのじかん】では最新の技術・製品、知識・アイデアを駆使したサービスなどの情報がいち早く入手できる展示会の最新情報を【データのじかん展示会情報局】としてみなさまにお届けしています。 2022年2月、3月に開催される「 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年3月1日　古いコードはコストがかかる ―LKML，ReiserFSの削除について議論 ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202203/01</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202203/01"/>
-        <updated>2022-03-01T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2001年のLinux 2.4.1でマージされたReiserFSは，Linuxカーネルがサポートするジャーナリングファイルシステムの中でも最も古いものである。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データのじかんNews 2022年3月Part.01]]></title>
-        <id>https://data.wingarc.com/?p=39381</id>
-        <link href="https://data.wingarc.com/datatimes_news202203-01-39381?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_news202203-01"/>
-        <updated>2022-03-01T03:39:46.000Z</updated>
-        <summary type="html"><![CDATA[データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。新型コロナ第6波のピークは過ぎたものの、まだまだ油断が許される状況の中、みなさまいかがお過ごしでしょうか？前回に引き続 […]]]></summary>
-        <author>
-            <name>石川麻里</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2022最新】改正電子帳簿保存法の対応法とは？ システム選定の要点もあわせて解説！]]></title>
-        <id>https://data.wingarc.com/?p=39103</id>
-        <link href="https://data.wingarc.com/all_about_electronic-form-storage-method-2-39103?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all_about_electronic-form-storage-method-2"/>
-        <updated>2022-03-01T01:02:36.000Z</updated>
-        <summary type="html"><![CDATA[2022/1より改正電子帳簿保存法が施行されました。一方で、電子取引要件の紙保存措置廃止については、対応が間に合わない企業が多数存在したことから、2021/12に国税庁より2年間の宥恕（ゆうじょ）措置が公表されています。 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再び注目されるビッグデータを補完する エスノグラフィや行動観察の可能性とは？]]></title>
-        <id>https://data.wingarc.com/?p=38533</id>
-        <link href="https://data.wingarc.com/bigdataandethnography_behavior-observation-38533?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=bigdataandethnography_behavior-observation"/>
-        <updated>2022-03-01T00:30:01.000Z</updated>
-        <summary type="html"><![CDATA[近年マーケティング手法において、行動観察を行う「エスノグラフィ調査」が注目されています。「エスノグラフィ調査」は、先入観や環境に左右されず、自然な日常の行動から気付きを得られることから注目されるようになりました。 定量的 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第79回　セミナー「OSSをDX戦略に組み込む」，MySQL リリースノートでわいわい言う勉強会，PostgreSQL 14.2リリース ── OSSデータベース取り取り時報]]></title>
-        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0079</id>
-        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0079"/>
-        <updated>2022-03-01T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
-        <author>
-            <name>梶山隆輔，溝口則行</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第7回　AWSの"今"を知る1日～AWSの進化においてけぼりにならない情報収集：AWS re:InventとAWS Summit ── 2022年，AWSを図解で学ぼう～最短1日で基礎が身に付く]]></title>
-        <id>https://gihyo.jp/dev/serial/01/zukai-aws/0007</id>
-        <link href="https://gihyo.jp/dev/serial/01/zukai-aws/0007"/>
-        <updated>2022-03-01T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[いよいよ最終回です。今回は，進化を続けるAWSの最新情報を知るノウハウを紹介し，連載を締め括ります。]]></summary>
-        <author>
-            <name>小笠原種高</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第166回　Performance_schema関数 ── MySQL道普請便り]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0166</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0166"/>
-        <updated>2022-03-01T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[sysスキーマにあった関数の一部は，8.0.16以降のバージョンではPerformance_schema関数として組み込み関数となりました。今回はこれらの関数について紹介します。]]></summary>
-        <author>
-            <name>深町日出海</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB+DB PRESS Vol.126へのお便り ── はまちちゃんとわかばちゃんのREADER'S FORUM―読者のページ]]></title>
-        <id>https://gihyo.jp/dev/serial/01/readers-forum/vol127</id>
-        <link href="https://gihyo.jp/dev/serial/01/readers-forum/vol127"/>
-        <updated>2022-03-01T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちはこんにちは!！ お鍋の季節ですね！ 最近は外出を控えるためにもネットスーパーをよく利用するんですが便利ですね。]]></summary>
-        <author>
-            <name>はまちや2，竹原</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs でだって Docker で開発したい！]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/2022/03/01/090000</id>
-        <link href="https://blog.agile.esm.co.jp/entry/2022/03/01/090000"/>
-        <updated>2022-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。wat-aro です。 Docker 環境で開発する際に VSCode の Remote Container はとても便利ですね。 でも今まで Emacs で開発してきた人は VSCode ではなく Emacs を使いたいはずです。 ここでは僕が Emacs + Docker 環境でどのように開発しているかを紹介します。 docker コマンド まずは docker コマンドを使えなくてはなりません。 Emacs 使いのみなさんはターミナルでなく Emacs から docker コマンドを叩きたいですよね。 そんなときは docker.el です。 https://github.c…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[認知症病因のタンパク質が脳から除去される仕組みを解明＝東大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/02/28/270056</id>
-        <link href="https://www.technologyreview.jp/n/2022/03/01/270056/"/>
-        <updated>2022-02-28T22:01:51.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
