@@ -2664,6 +2664,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "11a61007d6dddeae82e160abc0a741c4ffc82bab",
+          "author": "aws@amazon.com",
+          "description": "Amazon EventBridge のスキーマレジストリは、イベントスキーマのコードバインディング生成に Go 言語をサポートすることで、スキーマをコード内のオブジェクトとして簡単に利用できるようにします。EventBridge コンソール、API、または Jetbrains (Intellij、PyCharm、Webstorm、Rider) および VS Code 用の AWS SDK ツールキットを使用して、スキーマ用のコードバインディングを生成できます。これまで、コードバインディング生成には、Java、Python、Typescript をサポートしていました。Go のサポートにより、お好みの IDE でコードバインディングをダウンロードし、コードの検証や自動補完などの機能を利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/",
+          "publishedOn": "2022-03-31T01:50:00.000Z",
+          "wordCount": 261,
+          "title": "Amazon EventBridge スキーマレジストリが Go 言語へのサポートを拡大しました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "3ecd8149fc53b97bde9e33ec0438614d5d89d5b7",
           "author": "aws@amazon.com",
           "description": "本日より、Amazon Relational Database Service (Amazon RDS) の無料利用枠に、すべての商用リージョンでの db.t3.micro および AWS Graviton2 ベースの db.t4g.micro インスタンスが含まれるようになります。これにより、新しい AWS のお客様向けに、現在の AWS 無料利用枠の db.t2.micro インスタンスに加えて、より多くの選択肢が提供されます。",
