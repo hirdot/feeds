@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T01:28:45.941Z</updated>
+    <updated>2022-04-01T02:38:14.909Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[本日の TIL は、コンテナ間でデータをやりとりするために名前付きパイプ (named pipe, FIFO) を使ってみたことでわかった利点と注意点です。 先日、ある PoC のための簡単な web アプリケーションを作っている際に、2つのコンテナ間でちょっとしたデータのやりとりをしたい場面がありました。具体的には下の図のように、 ブラウザから入力されたテキストを web のコンテナで受け取り、それを別のコンテナ (仮に processor とします) に投げて処理させ、その結果を受け取り、最後にブラウザに表示する必要があります。 web と processor でのやりとりをどう実装するか…]]></summary>
         <author>
             <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イノベーション／DXを組織実装するためのポイント マネジメントすべきコミュニケーション戦略とは]]></title>
+        <id>https://data.wingarc.com/?p=40653</id>
+        <link href="https://data.wingarc.com/a-vital-point-of-innovation_dx_by_takebayashi-hajime-2-40653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-vital-point-of-innovation_dx_by_takebayashi-hajime-2"/>
+        <updated>2022-04-01T01:00:44.000Z</updated>
+        <summary type="html"><![CDATA[イノベーションを分かりやすく解説する第一人者である京都大学経営管理大学院 客員教授、オムロン株式会社 イノベーション推進本部インキュベーションセンタ長の竹林 一氏へ、イノベーションの本質をインタビューする企画の後編です。 […]]]></summary>
+        <author>
+            <name>野島光太郎</name>
         </author>
     </entry>
     <entry>
