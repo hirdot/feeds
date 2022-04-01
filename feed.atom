@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T00:01:17.582Z</updated>
+    <updated>2022-04-01T01:28:45.941Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Named pipe でコンテナ越しにお手軽プロセス間通信?]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/containers-ipc-fifo</id>
+        <link href="https://blog.agile.esm.co.jp/entry/containers-ipc-fifo"/>
+        <updated>2022-04-01T01:17:23.000Z</updated>
+        <summary type="html"><![CDATA[本日の TIL は、コンテナ間でデータをやりとりするために名前付きパイプ (named pipe, FIFO) を使ってみたことでわかった利点と注意点です。 先日、ある PoC のための簡単な web アプリケーションを作っている際に、2つのコンテナ間でちょっとしたデータのやりとりをしたい場面がありました。具体的には下の図のように、 ブラウザから入力されたテキストを web のコンテナで受け取り、それを別のコンテナ (仮に processor とします) に投げて処理させ、その結果を受け取り、最後にブラウザに表示する必要があります。 web と processor でのやりとりをどう実装するか…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年4月1日号　jammyの開発/Betaリリースと各種調整 ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01"/>
+        <updated>2022-04-01T00:52:00.000Z</updated>
+        <summary type="html"><![CDATA[jammyの開発は4月になり，Betaリリースに伴うテスト要請が開始されています。ここからは，（まだいくつか残っている）開発をこなしつつQAを行い，リリースまでの解決を目指す，というフェーズに入ります。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第80回　セミナー「OSSをDX戦略に組み込む」開催報告，MySQL Shell for VS Codeプレビュー・リリース公開＆MySQL HeatWave MLリリース，オープンソースカンファレンスからPostgreSQL情報 ── OSSデータベース取り取り時報]]></title>
+        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0080</id>
+        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0080"/>
+        <updated>2022-04-01T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
+        <author>
+            <name>梶山隆輔，溝口則行</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[データのじかんNews 2022年4月Part.01]]></title>
         <id>https://data.wingarc.com/?p=40980</id>

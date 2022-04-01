@@ -2318,6 +2318,16 @@
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
         {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01",
+          "author": "吉田史",
+          "description": "jammyの開発は4月になり，Betaリリースに伴うテスト要請が開始されています。ここからは，（まだいくつか残っている）開発をこなしつつQAを行い，リリースまでの解決を目指す，というフェーズに入ります。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01",
+          "publishedOn": "2022-04-01T00:52:00.000Z",
+          "wordCount": 544,
+          "title": "2022年4月1日号　jammyの開発/Betaリリースと各種調整 ── Ubuntu Weekly Topics",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202203/30",
           "author": "階戸アキラ",
           "description": "Fedoraプロジェクトは3月28日，次期リリース「Fedora Linux 36」のベータ版となる「Fedora Linux 36 Beta」の公開を発表した。",
@@ -2474,6 +2484,16 @@
       "feedUrl": "https://gihyo.jp/dev/feed/rss2",
       "siteUrl": "https://gihyo.jp/dev",
       "articles": [
+        {
+          "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0080",
+          "author": "梶山隆輔，溝口則行",
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0080",
+          "publishedOn": "2022-04-01T00:15:00.000Z",
+          "wordCount": 438,
+          "title": "第80回　セミナー「OSSをDX戦略に組み込む」開催報告，MySQL Shell for VS Codeプレビュー・リリース公開＆MySQL HeatWave MLリリース，オープンソースカンファレンスからPostgreSQL情報 ── OSSデータベース取り取り時報",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1433_oss-db-various-news.png"
+        },
         {
           "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0168",
           "author": "北川健太郎",
@@ -4153,6 +4173,16 @@
       "feedUrl": "https://blog.agile.esm.co.jp/feed",
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
+        {
+          "id": "https://blog.agile.esm.co.jp/entry/containers-ipc-fifo",
+          "author": null,
+          "description": "本日の TIL は、コンテナ間でデータをやりとりするために名前付きパイプ (named pipe, FIFO) を使ってみたことでわかった利点と注意点です。 先日、ある PoC のための簡単な web アプリケーションを作っている際に、2つのコンテナ間でちょっとしたデータのやりとりをしたい場面がありました。具体的には下の図のように、 ブラウザから入力されたテキストを web のコンテナで受け取り、それを別のコンテナ (仮に processor とします) に投げて処理させ、その結果を受け取り、最後にブラウザに表示する必要があります。 web と processor でのやりとりをどう実装するか…",
+          "link": "https://blog.agile.esm.co.jp/entry/containers-ipc-fifo",
+          "publishedOn": "2022-04-01T01:17:23.000Z",
+          "wordCount": 546,
+          "title": "Named pipe でコンテナ越しにお手軽プロセス間通信?",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hibariya/20220401/20220401094832.png"
+        },
         {
           "id": "https://blog.agile.esm.co.jp/entry/pofeaa-reading",
           "author": null,
