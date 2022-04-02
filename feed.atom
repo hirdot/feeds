@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T01:29:56.319Z</updated>
+    <updated>2022-04-02T02:28:45.929Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch が簡単なモニタリング設定のためのオプションを追加]]></title>
+        <id>fdaa150017a8ec87e7c1b5ea50496dd4d83e78df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/"/>
+        <updated>2022-04-02T01:47:00.000Z</updated>
+        <summary type="html"><![CDATA[CloudWatch で、多くのリソースとワークロードのモニタリング、アラーム、およびダッシュボードを簡単に設定できるようになりました。[CloudWatch Getting Started] (CloudWatch の開始方法) ページの新しいワンクリックオプションを使用すると、CloudWatch Application Insights を便利に起動できます。起動すると、Application Insights は、アカウントまたはリソースグループ内の基盤となるリソースを検出し、それらのヘルスをモニタリングするための推奨されるメトリクス、ログ、およびアラームを設定します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora が PostgreSQL 13.6、12.10、11.15、10.20、および Babelfish for Aurora PostgreSQL 1.2.0 をサポート]]></title>
+        <id>ae904b9d03f4e84437fe98599998a6c1214bf52b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/"/>
+        <updated>2022-04-02T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースのアップデートの発表を受け、Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL 13.6、12.10、11.15、および 10.20 をサポートするようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR Managed Scaling が Spark シャッフルデータに対応]]></title>
+        <id>2f51e4b8de9f036387a53213ba59b6ea7b6c7cba</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/"/>
+        <updated>2022-04-02T01:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR Managed Scaling は、EMR クラスターのサイズを自動的に変更して、最高レベルのパフォーマンスとリソース使用状況を実現します。本日、Apache Spark の中間シャッフルデータを保存するインスタンスをスケールダウンできないようにする Managed Scaling の新機能を発表します。中間シャッフルデータを保存するインスタンスを削除せずにクラスターをインテリジェントにスケールダウンすると、ジョブの再試行と再計算が防止され、パフォーマンスが向上し、コストが削減されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon CloudFront がサーバータイミングヘッダーをサポートするようになりました。]]></title>
         <id>00e262e7db186d3900b134cf1ef6766bcff7e97a</id>
