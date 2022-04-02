@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-02T00:01:22.534Z</updated>
+    <updated>2022-04-02T01:29:56.319Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudFront がサーバータイミングヘッダーをサポートするようになりました。]]></title>
+        <id>00e262e7db186d3900b134cf1ef6766bcff7e97a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/"/>
+        <updated>2022-04-02T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[本日より、CloudFront ディストリビューションを設定して、CloudFront の動作とパフォーマンスを監視するサーバータイミングヘッダーを含めることができます。サーバータイミングヘッダーは、リクエストの受信時にコンテンツがキャッシュから提供されたかどうか、リクエストが CloudFront エッジロケーションにルーティングされた方法、接続およびレスポンスプロセスの各ステージで経過した時間などの詳細なパフォーマンス情報を提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EBS CSI ドライバーの EKS アドオンサポートが一般提供になりました。]]></title>
+        <id>117b8899aa137f77839d2b6603802fdc4bbd1df3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/"/>
+        <updated>2022-04-02T00:05:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AmazonElastic Block Store (EBS)コンテナストレージインターフェース (CSI) ドライバーのインストールおよび管理をサポートすることになりました。これにより、永続的ストレージを EKS クラスターに簡単に接続できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801</id>
