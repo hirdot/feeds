@@ -13,6 +13,30 @@
 
 <body>
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-04-04">2022-04-04</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://blog.agile.esm.co.jp/">esm アジャイル事業部 開発者ブログ</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 265)</span>全レコードのバリデーションをチェックするgemを作った話
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://blog.agile.esm.co.jp/entry/rspec-all_record_validator" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>こんにちは @color_box です。 仕事からアイディアを得てgemを作ったのでそれについて書きます。 rspec-all_records_validator github.com rspec-all_records_validator というgemを作りました。DB内の全レコードに対してvalidationを実行するgemです。 これを導入するとある種のバグをE2Eテストで検出可能になります。RailsとRSpecが入っているプロジェクトを前提としています。 作った背景 仕事で遭遇したとあるバグが、このgemを作成した背景にあります。 Active Recordのバリデーションにおいて、…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-04-03">2022-04-03</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -5773,133 +5797,6 @@ The post Rails 7: 数値バリデータにonly_numericオプションが追加�
                 <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/03/06/270442/" target='_blank'>
                   <div class="article-summary-box-inner">
                     <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 260)</span>Amazon FSx for OpenZFS で 2 種類の圧縮オプションが選択可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>LZ4 データ圧縮の導入により、Amazon FSx for OpenZFS ファイルシステムで 2 種類の圧縮オプションから選択できるようになりました。LZ4 は、(Z スタンダードに加えて) 非常に人気のあるもう 1 つのパフォーマンス最適化圧縮オプションで、個々のワークロードのニーズに基づいてストレージの効率とパフォーマンスを最適化することができます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 323)</span>最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒以下の自動フェイルオーバー、読み取り可能なスタンバイインスタンスを備えた新しい Amazon RDS マルチ AZ オプションを導入
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>PostgreSQL および MySQL 用の Amazon Relational Database Service (Amazon RDS) は、3 つのアベイラビリティーゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた新しいマルチ AZ 配置オプションのサポートを開始しました。このデプロイオプションは、書き込みトランザクションに最適化されており、書き込みレイテンシーの短縮、自動フェイルオーバー、読み取り容量の拡大が必要なワークロードに最適です。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 268)</span>Amazon MSK が AWS CloudFormation サポートを強化
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS CloudFormation を使用して、Amazon Managed Streaming for Apache Kafka (MSK) のクラスター構成と SASL/SCRAM シークレットを管理できるようになりました。AWS CloudFormation の Amazon MSK サポートの詳細については、AWS CloudFormation のドキュメントを参照してください。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 240)</span>AWS IoT SiteWise が、産業データを視覚化する独自のウェブアプリケーションを作成するための新しい開発ライブラリを発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日、オープンソースのフロントエンドライブラリである AWS IoT SiteWise 用 IoT アプリケーションキットの発売を発表いたします。これにより、デベロッパーは、AWS IoT SiteWise に接続されているプロセス、デバイス、機器から産業データを視覚化するアプリケーションを迅速に構築できます。IoT アプリケーションキットは、棒グラフ、折れ線グラフ、散布図、タイムラインビューなど、IoT データを管理および視覚化するためのユーザーインターフェイス (UI) コンポーネントです。デベロッパーは、これらの UI コンポーネントを使用して、さまざまなユースケースや独自のビジネスニーズに合わせた独自のアプリケーションを構築できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 284)</span>Amazon RDS for Oracle が Oracle Native Network Encryption (NNE) オプションの ALLOW_WEAK_CRYPTO* パラメータのサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Native Network Encryption (NNE) オプションの 2 つの新しい sqlnet.ora パラメータをサポートするようになりました。これは、お客様による変更が可能です。この機能により、お客様は、SQL*Net 暗号化およびチェックサムパラメータが古い暗号とアルゴリズムを使用するのを阻止できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 279)</span>Amazon Fault Injection Simulator が、Amazon Elastic Container Service のタスクレベルのフォールトのサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fault-injection-simulator-task-faults/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Elastic Container Service (ECS) のお客様は、AWS Fault Injection Simulator (FIS) 実験を使用して、タスクレベルのコンテナー障害を試せるようになりました。この新しい AWS FIS 障害アクションを使用すると、AWS Fargate または Amazon EC2 インフラストラクチャにデプロイされているかどうかに関係なく、コンテナベースのアプリケーションでのタスクの実行を停止できるため、分散システムで見つけるのが困難な隠れたバグの発見、死角の監視、パフォーマンスのボトルネックの解消ができます。AWS FIS 実験は、カオスエンジニアリング、ゲームデイテスト、継続的配信などのユースケースで、アプリケーションの復元力を測定、検証、改善するのに役立ちます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 255)</span>AWS Trusted Advisor が AWS Enterprise Support のお客様に優先度を導入 (プレビュー)
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-trusted-advisor-priority-enterprise-customers/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Trusted Advisor Priority が、AWS Enterprise Support のお客様向けにプレビューで利用できるようになり、クラウド最適化のレコメンデーションの優先ビューと、これらのレコメンデーションのステータスを追跡できる機能を提供します。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 268)</span>学生の皆様、エンジンを始動しましょう AWS DeepRacer Student Virtual League が現在進行中です
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、16 歳以上で、現在世界中の高校または学部のカリキュラムに登録している学生は、DeepRacer Student Virtual League に参加して、賞品、栄誉、基調講演を特徴とするグローバルクラウドコンピューティングコミュニティのための学習カンファレンスである、AWS re:Invent 2022 への参加旅行を獲得するチャンスを得ることができます。AWS DeepRacer Student League は、機械学習の基本とその現実的応用に関する数十時間の無料の機械学習モデルトレーニングと教材へのアクセスを提供します。学生は AWS DeepRacer を使用して、仮想レースカーを機能させるために機械学習モデルをトレーニングする方法を学習することで、理論を実践的なアクションに具現化できます。すべてクレジットカードは必要ありません。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 243)</span>Amazon MQ がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-mq-available-asia-pacific-jakarta-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon MQ が、アジアパシフィック (ジャカルタ) リージョンの追加で、合計 26 のリージョンで利用可能になりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 275)</span>Amazon Fault Injection Simulator が Amazon CloudWatch Logs および Amazon S3 へのロギングをサポートするようになりました
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>これで、ログを Amazon CloudWatch Logs または Amazon S3 に送信することで、Amazon Fault Injection Simulator (FIS) の実験アクティビティを記録できるようになりました。AWS FIS の実験ログには、開始時刻と終了時刻、アクション名、ターゲットリソース ARN など、実験、アクション、ターゲットに関する詳細情報が含まれています。これらのログを使用することで、AWS FIS 実験によって実行されたアクティビティを識別し、それらをシステムの応答および監視および可観測性ツールと関連付けて、改善を実施することができます。さらに、AWS マネジメントコンソールで実験のタイムラインチャートを使用して、実行中または完了した実験を監視できます。</span>
                   </div>
                 </a>
               </details>
