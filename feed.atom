@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-03T22:01:19.067Z</updated>
+    <updated>2022-04-04T00:01:13.580Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -3956,46 +3956,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/"/>
         <updated>2022-03-05T13:31:04.000Z</updated>
         <summary type="html"><![CDATA[これで、ログを Amazon CloudWatch Logs または Amazon S3 に送信することで、Amazon Fault Injection Simulator (FIS) の実験アクティビティを記録できるようになりました。AWS FIS の実験ログには、開始時刻と終了時刻、アクション名、ターゲットリソース ARN など、実験、アクション、ターゲットに関する詳細情報が含まれています。これらのログを使用することで、AWS FIS 実験によって実行されたアクティビティを識別し、それらをシステムの応答および監視および可観測性ツールと関連付けて、改善を実施することができます。さらに、AWS マネジメントコンソールで実験のタイムラインチャートを使用して、実行中または完了した実験を監視できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup 向けの AWS PrivateLink のサポートを発表]]></title>
-        <id>c243790a04a034a3981b4536eb3e72a177207f35</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-privatelink-support-backup/"/>
-        <updated>2022-03-05T10:48:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに AWS Backup に直接アクセスできるようになりました。PrivateLink を使用して、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャを簡素化できます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FinSpace が新しい User API をリリース]]></title>
-        <id>19a6e4e019328645454b6cd2da0e2fa75b721d75</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-finspace-user-apis/"/>
-        <updated>2022-03-05T10:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FinSpace をご利用のお客様は、AWS SDK と CLI を使用して Amazon FinSpace アプリケーションユーザーを管理できるようになりました。これらの API を使用して、お客様は、Amazon FinSpace が組織のアクセス管理ルールを満たせるように、Amazon FinSpace をアイデンティティ管理プロビジョニングプロセスに統合できます。例えば、ユーザーが FinSpace を使用する定量的調査チームに参加する場合に、FinSpace でユーザーアカウントが自動的に作成されるようにできます。同様に、ユーザーが顧客の組織を離れたり、その職務が変更となったりした場合には、組織全体のアプリケーション権限付与ワークフローの一環として、それらのユーザーが FinSpace で自動的に非アクティブ化されるようにできます。この新機能は、Amazon FinSpace の既存のシングルサインオン機能に追加され、アクセスを管理するためのより効果的なコントロールをお客様に提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS がすべての AWS 商用リージョンおよび AWS GovCloud (米国) リージョンで NAT64 および DNS64 の機能を拡張]]></title>
-        <id>2d616d29a86fd100aaf5c14359397d5a0fdc694f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/"/>
-        <updated>2022-03-05T10:47:01.000Z</updated>
-        <summary type="html"><![CDATA[本日より、NAT64 および DNS64 の機能は、すべての AWS 商用リージョンおよび AWS GovCloud (米国) リージョンでご利用いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい統合された AWS Health Dashboard の最初のイテレーションを発表]]></title>
-        <id>95adcba67be5d121603cae737737aa08a2df0538</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/"/>
-        <updated>2022-03-05T10:46:13.000Z</updated>
-        <summary type="html"><![CDATA[統合された AWS Health Dashboard を発表します。これは、AWS Service Health Dashboard と Personal Health Dashboard を接続して単一のエクスペリエンスとした新しいダッシュボードです。この新しいダッシュボードは、より応答性が高く正確なビュー、改善された使いやすさ、およびより高度なオペレーションの回復性を提供するように設計されています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
