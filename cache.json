@@ -520,6 +520,16 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=272605",
+          "author": "Casey Crownhart",
+          "description": "2℃の気温上昇を防ぐためには、温室効果ガスの大幅な排出削減だけではもはや間に合わない。二酸化炭素の除去も必要不可欠だと国連の最新報告書は指摘する。",
+          "link": "https://www.technologyreview.jp/s/272605/un-climate-report-carbon-removal-is-now-essential/",
+          "publishedOn": "2022-04-06T08:33:22.000Z",
+          "wordCount": 688,
+          "title": "温暖化対策に炭素除去は「不可欠」、国連IPCC報告書が指摘",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/05013504/AP_21258339664472-1180x787.jpeg"
+        },
+        {
           "id": "https://www.technologyreview.jp/n/2022/04/05/272706/",
           "author": "MIT Technology Review Japan",
           "description": "",
@@ -1327,36 +1337,6 @@
           "publishedOn": "2022-03-07T22:21:10.000Z",
           "wordCount": 320,
           "title": "透過電子顕微鏡で同位体の識別・可視化に成功＝産総研など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/07/270618/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/08/270618/",
-          "publishedOn": "2022-03-07T21:27:47.000Z",
-          "wordCount": 322,
-          "title": "富士通、スパコンとAIでがんの薬剤耐性の原因遺伝子を特定",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/07/270606/",
-          "author": "nakajooo",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/08/270606/",
-          "publishedOn": "2022-03-07T21:11:31.000Z",
-          "wordCount": 318,
-          "title": "自動運転「レベル4」盛り込む、道交法改正案が閣議決定",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/07/270538/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/08/270538/",
-          "publishedOn": "2022-03-07T20:55:52.000Z",
-          "wordCount": 322,
-          "title": "ブタの体内で部分切除した腎臓の再生に成功、慶應大",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
@@ -3841,26 +3821,6 @@
           "publishedOn": "2022-03-08T22:00:53.000Z",
           "wordCount": 248,
           "title": "Amazon Kendra にクエリ用のスペルチェッカーが追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "06f7378ce0a3a2aebde4368f97448ddc158dd126",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub は、お客様の Cloud Security Posture Management (CSPM) を強化する目的で Foundational Security Best Practice standard (FSBP) 向けに 13 の新しいコントロールをリリースしました。これらのコントロールは、Amazon CloudFront、Amazon EC2、Amazon OpenSearch、Amazon Relational Database Service (RDS)、Amazon Simple Storage Service (S3)、および AWS Virtual Private Network (VPN) のセキュリティのベストプラクティスに対して完全自動チェックを実行します。Security Hub で新しいコントロールを自動的に有効にするよう設定し、それらが既に AWS Foundational Security ベストプラクティスを使用している場合は、これらのコントロールはデフォルトで有効化されます。これで、Security Hub は、AWS でセキュリティ体制を自動的にチェックするための 175 のセキュリティコントロールをサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/",
-          "publishedOn": "2022-03-07T21:47:01.000Z",
-          "wordCount": 459,
-          "title": "AWS Security Hub で、セキュリティ体制のモニタリングのために、13 のコントロールとパートナー 2 社の利用が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b85ad936e1794cdba5ac312d2d837fab1537064c",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、SQL クエリ結果を JSON 形式で Amazon S3 にアンロードするためのサポートを追加します。これは、スキーマ定義をサポートする軽量で広く使用されているデータ形式です。Amazon Redshift の UNLOAD コマンドの提供開始により、既にサポートされている区切りテキスト、CSV、および Apache Parquet 形式に加えて JSON を使用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/",
-          "publishedOn": "2022-03-07T21:46:12.000Z",
-          "wordCount": 262,
-          "title": "Amazon Redshift が JSON ファイルへのデータのアンロードのサポートを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
