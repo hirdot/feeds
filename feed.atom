@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-07T04:01:09.430Z</updated>
+    <updated>2022-04-07T05:01:08.020Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[既存の Amazon OpenSearch Service ドメインでクラスター間レプリケーションのサポートを開始]]></title>
+        <id>cff2f7e06e8e193d524cd8845ee59ee3d472a45b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/"/>
+        <updated>2022-04-07T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、同一 AWS アカウント、またはリージョンであれば、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります。クラスター間レプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Device Management および AWS IoT Device Defender が ListMetricValues API を介してデバイスメトリクスのモニタリングのサポートを開始]]></title>
+        <id>acc5d0288a0295756c33d997d252de88d2d46ba5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/"/>
+        <updated>2022-04-07T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[本日、IoT Device Defender ListMetricValues API を一般公開をしました。ListMetricValues API を利用することで、お客様はセキュリティプロファイルに属するおけるデバイス側、クラウド側、また接続済みデバイスからのカスタムメトリクスの履歴にアクセスできるようになりました。AWS IoT マネジメントコンソール内のデータの表示に加え、お客様はプログラムに基づく監視ができる他、お客様自身で可視化を構築できる柔軟性が得られるようになりました。さらに、 Fleet Hub for AWS IoT Device Management 内で AWS IoT Device Defender メトリクスの可視化を可能にしました。このような強化策により、お客様は、他のデバイスデータや Fleet Hub 内での問題診断やフリート管理用のフリートレベルデータとともにディフェンダーメトリクスを 1 か所で表示できるようになりました。この新たな API や Fleet Hub との統合が AWS IoT Device Defender  と Fleet Hub for AWS IoT Device Management が利用できる AWS Global Regions で利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既存の Amazon OpenSearch Service ドメインでクラスター間検索のサポートを開始]]></title>
+        <id>f72d5e08fd2a0f3ad63e9d08affb43f3415d81b4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/"/>
+        <updated>2022-04-07T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service が既存のドメインでクラスター間検索のサポートを始めました。クラスター間検索はクエリが 1 つ、または OpenSearch Dashboard インターフェイスが 1 つの複数のドメインの集合体を横断検索するのに有効です。この機能を使用すると、異種ワークロードを複数のドメインに分離できます。これにより、リソースの分離が向上し、特定のワークロードに合わせて各ドメインを調整して、効率を改善し、コストを削減できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS が SMS および音声チャンネル向けのサポートを拡張した Amazon Pinpoint API のバージョン 2.0 をリリース]]></title>
         <id>24039947659e824322b0cacfea28ef6815630bbb</id>

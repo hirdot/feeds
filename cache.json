@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "cff2f7e06e8e193d524cd8845ee59ee3d472a45b",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、同一 AWS アカウント、またはリージョンであれば、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります。クラスター間レプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/",
+          "publishedOn": "2022-04-07T04:55:00.000Z",
+          "wordCount": 240,
+          "title": "既存の Amazon OpenSearch Service ドメインでクラスター間レプリケーションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "acc5d0288a0295756c33d997d252de88d2d46ba5",
+          "author": "aws@amazon.com",
+          "description": "本日、IoT Device Defender ListMetricValues API を一般公開をしました。ListMetricValues API を利用することで、お客様はセキュリティプロファイルに属するおけるデバイス側、クラウド側、また接続済みデバイスからのカスタムメトリクスの履歴にアクセスできるようになりました。AWS IoT マネジメントコンソール内のデータの表示に加え、お客様はプログラムに基づく監視ができる他、お客様自身で可視化を構築できる柔軟性が得られるようになりました。さらに、 Fleet Hub for AWS IoT Device Management 内で AWS IoT Device Defender メトリクスの可視化を可能にしました。このような強化策により、お客様は、他のデバイスデータや Fleet Hub 内での問題診断やフリート管理用のフリートレベルデータとともにディフェンダーメトリクスを 1 か所で表示できるようになりました。この新たな API や Fleet Hub との統合が AWS IoT Device Defender  と Fleet Hub for AWS IoT Device Management が利用できる AWS Global Regions で利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/",
+          "publishedOn": "2022-04-07T04:48:00.000Z",
+          "wordCount": 331,
+          "title": "AWS IoT Device Management および AWS IoT Device Defender が ListMetricValues API を介してデバイスメトリクスのモニタリングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f72d5e08fd2a0f3ad63e9d08affb43f3415d81b4",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service が既存のドメインでクラスター間検索のサポートを始めました。クラスター間検索はクエリが 1 つ、または OpenSearch Dashboard インターフェイスが 1 つの複数のドメインの集合体を横断検索するのに有効です。この機能を使用すると、異種ワークロードを複数のドメインに分離できます。これにより、リソースの分離が向上し、特定のワークロードに合わせて各ドメインを調整して、効率を改善し、コストを削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/",
+          "publishedOn": "2022-04-07T04:40:00.000Z",
+          "wordCount": 239,
+          "title": "既存の Amazon OpenSearch Service ドメインでクラスター間検索のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "24039947659e824322b0cacfea28ef6815630bbb",
           "author": "aws@amazon.com",
           "description": "既存の Amazon Pinpoint コンソール機能に加えて、Amazon Pinpoint API 2.0 は、お客様が SMS や音声送信、および設定をより快適に制御できる機能を提供します。",
