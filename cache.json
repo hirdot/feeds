@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9b94c7de08badb5ad494e8eab14db20448645bad",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Proxy が、Amazon RDS for PostgreSQL および Amazon Aurora PostgreSQL - 互換版メジャーバージョン 13 のサポートを開始。PostgreSQL 13 には、B ツリーインデックスエントリーの重複排除、パーティション化されたテーブルを使用するクエリのパフォーマンス強化、拡張統計を使用した場合のクエリプランニング改善、インデックスの並列化バキューム、増分ソートなど、新機能やパフォーマンスの改善が多数含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/",
+          "publishedOn": "2022-04-07T02:56:00.000Z",
+          "wordCount": 270,
+          "title": "Amazon RDS Proxy が PostgreSQL メジャーバージョン 13 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f5c2f5e7d9e60a9bbea215a5976f890d96272cbe",
+          "author": "aws@amazon.com",
+          "description": "今日、AWS アジアパシフィック (ジャカルタ) リージョンで Amazon Data Lifecycle Manager が利用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/",
+          "publishedOn": "2022-04-07T02:50:00.000Z",
+          "wordCount": 286,
+          "title": "Amazon Data Lifecycle Manager が AWS アジアパシフィック (ジャカルタ) リージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "27f94cc2d7c93d51c34052b9a35180160ac2e9ee",
           "author": "aws@amazon.com",
           "description": "Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Athena、Amazon Redshift、Snowflake など幅広い種類のデータソースからデータをインポートできます。本日より、Amazon SageMaker Data Wrangler 内のデータソースとして Databricks を使用し、Databricks 内のデータを機械学習用に簡単に準備できるようになりました。AWS パートナーである Databricks は、組織が分析のためにデータを準備し、組織全体でデータサイエンスとデータ主導の意思決定を強化し、ML を迅速に採用するのを支援します。",
