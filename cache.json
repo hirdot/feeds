@@ -6,6 +6,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "aac359445495b9d0598404480f0550513c037a7c",
+          "author": "aws@amazon.com",
+          "description": "本日、Amplify Geo for JavaScript のリリースに続いて、Amplify Geo for iOS の一般提供の開始をお知らせします。Amplify Geo for iOS を使用すると、デベロッパーは、iOS アプリに地図や場所の検索のためにクラウド接続された UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウド接続されたマップ UI コンポーネントを含みます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amplify-geo-available-ios/",
+          "publishedOn": "2022-04-07T12:55:00.000Z",
+          "wordCount": 267,
+          "title": "Amplify Geo for iOS の一般提供の開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3198cacd703acc2272fd604f8fb7128d00eed038",
+          "author": "aws@amazon.com",
+          "description": "Amazon Athena ACID トランザクションの一般提供の開始をお知らせします。この新機能は、Athena の SQL のデータ操作言語 (DML) に、挿入、更新、削除、タイムトラベルのオペレーションを追加します。Athena ACID トランザクションにより、複数の同時実行ユーザーが、Athena のコンソール、API、ならびに ODBC および JDBC ドライバーから、自らの Amazon S3 データに信頼できる、行レベルの変更を加えることが可能となります。Apache Iceberg テーブル形式に基づいて構築された Athena ACID トランザクションは、Amazon S3 ストレージ用に最適化され、シームレスなスキーマの進化をサポートし、Amazon EMR、Apache Spark、Apache Flink などの Iceberg テーブル形式をサポートする他の複数のサービスやエンジンでのアトミックオペレーションを確実に実行できるようにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/",
+          "publishedOn": "2022-04-07T12:49:00.000Z",
+          "wordCount": 271,
+          "title": "Apache Iceberg を利用した Amazon Athena ACID トランザクションの一般提供の開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "574f9840296a0aedc60fa8efc1abe366251ca76e",
+          "author": "aws@amazon.com",
+          "description": "お客様は AWS PrivateLink を使って、パブリック IP を使用せずに、Amazon Virtual Private Cloud (Amazon VPC) から Amazon FSx Application Programming Interface (Amazon FSx API) にプライベートにアクセスできます。トラフィックはインターネットを経由する必要がありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/",
+          "publishedOn": "2022-04-07T12:43:00.000Z",
+          "wordCount": 303,
+          "title": "Amazon FSx が AWS PrivateLink のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c1e181bd30f498cfef8a620c6df43c2326a7070f",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync は、デベロッパーがリアルタイムデータに基づいてデジタルエクスペリエンスを構築できるようにするフルマネージドサービスです。サポートされているデータソースを簡単かつ手間なく設定して、接続管理、スケーラビリティ、ファンアウト、およびブロードキャストをすべて AppSync で処理し、サブスクライブされたクライアントにリアルタイムのデータ更新をプッシュして発行できるため、複雑なインフラストラクチャを処理してリアルタイムの WebSocket 接続を大規模に管理するのではなく、アプリケーションのビジネスユースケースと要件に労力をかけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-appsync-enhanced-filtering-graphql-subscriptions/",
+          "publishedOn": "2022-04-07T12:35:00.000Z",
+          "wordCount": 237,
+          "title": "AWS AppSync がリアルタイム GraphQL サブスクリプションでの拡張フィルタリングのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a8831efe534182b1c6e56e15677857bdb2f390fb",
+          "author": "aws@amazon.com",
+          "description": "AWS Amplify Hosting は、GitHub アプリを使用して GitHub コードリポジトリへのアクセスを取得するようになりました。Amplify GitHub アプリは、既存の OAuth アプリと同じ機能をすべて提供し、さらに、アカウントまたは組織内の特定のリポジトリへのスコープ許可を完全に制御することを可能にします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-hosting-github-access-workflows/",
+          "publishedOn": "2022-04-07T12:29:00.000Z",
+          "wordCount": 259,
+          "title": "AWS Amplify Hosting が GitHub アプリを使用して CI/CD ワークフローのリポジトリへのアクセスの承認を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cd2f027c9747ed968cb607039117e1a0809a7afa",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup は、Persistent 2 デプロイタイプのデータを保護できるようにすることで、Amazon FSx for Lustre ファイルシステムのサポートを強化します。複数の AWS リージョンとアカウントで論理的にエアギャップのあるイミュータブルなバックアップを作成する機能、実証可能なコンプライアンス、シングルクリックでの復元など、AWS のサービス全体における AWS Backup の一元的なデータ保護機能を、Amazon FSx for Lustre Persistent 2 ファイルシステムでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/",
+          "publishedOn": "2022-04-07T12:23:00.000Z",
+          "wordCount": 267,
+          "title": "AWS Backup が Amazon FSx for Lustre ファイルシステムの Persistent 2 デプロイタイプのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7c2b79a12ed4d49a5af9e55faefc1f4235428016",
+          "author": "aws@amazon.com",
+          "description": "AWS Resource Access Manager (AWS RAM) が、AWS アジアパシフィック (ジャカルタ) リージョンのお客様にご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-resource-access-manager-jakarta/",
+          "publishedOn": "2022-04-07T12:17:00.000Z",
+          "wordCount": 262,
+          "title": "AWS Resource Access Manager が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e6611c9bb235eabbe25f83f60276bf493764e630",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 コンソールは、改善された新しい起動エクスペリエンスを導入します。これにより、より迅速かつ簡単にインスタンスを起動できます。新しいデザインでは、すべての設定を 1 か所で表示できる単一ページレイアウトを利用できます。設定が正しいことを確認するために、ステップを行ったり来たりする必要がなくなりました。新しいデザインでは、概要を提供し、ページ間を移動するのに役立つ概要パネルも導入されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/",
+          "publishedOn": "2022-04-07T12:05:00.000Z",
+          "wordCount": 243,
+          "title": "Amazon EC2 が EC2 コンソールの改善された新しい起動エクスペリエンスの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "cff2f7e06e8e193d524cd8845ee59ee3d472a45b",
           "author": "aws@amazon.com",
           "description": "Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、同一 AWS アカウント、またはリージョンであれば、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります。クラスター間レプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。",
@@ -1324,66 +1404,6 @@
           "wordCount": 290,
           "title": "Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0d25974d19e40be3067aef9b2a2a0c4389775312",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for OpenZFS ファイルシステムでのデータの保存方法をカスタマイズして、データベースアプリケーションや、小刻みなデータの読み書きを定常的に行うその他のワークロードのパフォーマンスを最適化できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/",
-          "publishedOn": "2022-03-09T08:35:09.000Z",
-          "wordCount": 254,
-          "title": "Amazon FSx for OpenZFS ファイルシステムでのデータの保存方法をカスタマイズして、データベースアプリケーションのパフォーマンスを最適化できるようになりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4bb0e8ec01ae44aa06b0c3e8f44500bc6d36ad9e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Aurora PostgreSQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/",
-          "publishedOn": "2022-03-09T08:34:13.000Z",
-          "wordCount": 246,
-          "title": "設定の変更が可能な暗号スイートが Amazon Aurora PostgreSQL に利用可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f14ee8b3237e871947e541c6e4184306667f3f7b",
-          "author": "aws@amazon.com",
-          "description": "スケーラブルで可用性が高く、フルマネージドの Apache Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) が、AWS SDK を使用して、リソース管理を自動化できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-keyspaces-automate-resource-management-sdk/",
-          "publishedOn": "2022-03-09T08:33:23.000Z",
-          "wordCount": 287,
-          "title": "Amazon Keyspaces が、AWS SDK を使用したリソース管理の自動化を支援",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "67f468417ea854df4838fe418b1620c812710eab",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle が、Oracle Database 12.1 の 2021 年 10 月のパッチセットアップデート (PSU) をサポートするようになりました。Oracle Database 12.2 および 19c の 2021 年 10 月のリリースアップデート (RU) はすでにリリースされています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-patch-set-update-psu-oracle-database-12-1/",
-          "publishedOn": "2022-03-09T08:32:02.000Z",
-          "wordCount": 315,
-          "title": "Amazon RDS for Oracle が、Oracle Database 12.1 用 2021 年 10 月パッチセットの更新 (PSU) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "573827e3af9185db5d876eb8bf875506f5384b57",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR は、業界をリードするビッグデータのクラウドプラットフォームで、Apache Spark、Apache Hive、Apache HBase、Apache Flink、Apache Hudi、Presto などのオープンソースツールを活用して膨大な量のデータを処理できます。本日より、Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始することをお知らせいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/",
-          "publishedOn": "2022-03-09T08:31:13.000Z",
-          "wordCount": 279,
-          "title": "Amazon EMR が、欧州 (ミラノ)、アジアパシフィック (香港)、アフリカ (ケープタウン)、中東 (バーレーン) リージョンでアイドル状態のクラスターの自動終了のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ca7b41935c2b8cf7aaf4230e61d4bfa432fba5c4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は、機械学習を活用したインテリジェントな検索サービスです。Amazon Kendra は、組織がより関連性の高い情報を顧客や従業員に必要に応じて提供するのに役立ちます。本日より、AWS のお客様は、クエリ内の単語にスペルミスがある場合にスペル修正の提案する Amazon Kendra のスペルチェッカーをご使用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/",
-          "publishedOn": "2022-03-08T22:00:53.000Z",
-          "wordCount": 248,
-          "title": "Amazon Kendra にクエリ用のスペルチェッカーが追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2335,16 +2355,6 @@
           "wordCount": 366,
           "title": "2022年3月11日　\"ディストロレス\"なエコシステムの拡大を―apkベースの軽量OCIイメージ作成ツール「apko」 ── Linux Daily Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0706",
-          "author": "村田信人",
-          "description": "筆者は引っ越しを機に，一般家庭用光回線として最速クラスであるフレッツ光クロス（理論値10Gbps）を選んでみました。今回は，この10Gbps回線をUbuntuでも体験してみます。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0706",
-          "publishedOn": "2022-03-09T00:57:00.000Z",
-          "wordCount": 480,
-          "title": "第706回　Ubuntuでも10ギガ（10Gbps）インターネットを体験してみる ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
         }
       ]
     },
@@ -2392,16 +2402,6 @@
           "wordCount": 690,
           "title": "第167回　M1搭載MacのDockerでMySQLを動かしてみる ── MySQL道普請便り",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0004",
-          "author": "高須正和",
-          "description": "2021年10月30，31日の2日間，「中国オープンソース年度大会」が開かれました。メイントピックから注目のセッションをいくつか紹介します。今回は，オープンソースから生まれたユニコーンです。",
-          "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0004",
-          "publishedOn": "2022-03-09T00:46:00.000Z",
-          "wordCount": 389,
-          "title": "第4回　オープンソースはどうやってユニコーン企業を生むか ── 日本人が知らない中国オープンソース最前線 ―「嫌儲」「原理主義」のないOSS文化を読み解く",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2021/thumb/TH800_1857_china-oss-frontline.png"
         }
       ]
     },
@@ -2524,16 +2524,6 @@
           "wordCount": 257,
           "title": "月間1,600万UUを誇る「地域×IT」サービスのCTOが語る、地域の案内人を目指してこれまでやってきたこと・今後やるべきこと",
           "imageUrl": "https://octopass.jp/cms/wp-content/uploads/2022/03/image5.jpg"
-        },
-        {
-          "id": "https://octopass.jp/?p=4448",
-          "author": "OCTOPASS",
-          "description": "株式会社ディー・エヌ・エーについて 弊社は、ゲーム事業やスポーツ事業、「Pococha」などで知られるライブストリーミング事業などのエンターテイメント領域と、ヘルスケア事業やオートモーティブ事業などの社会課題領域の2つの […]",
-          "link": "https://octopass.jp/4448/",
-          "publishedOn": "2022-03-09T01:37:09.000Z",
-          "wordCount": 270,
-          "title": "多事業展開するメガベンチャーCTOが語る、”必要だと感じたことを全力でやった”3年間の軌跡",
-          "imageUrl": "https://octopass.jp/cms/wp-content/uploads/2022/03/修正_thumbnail_200609.jpg"
         }
       ]
     },
@@ -2798,36 +2788,6 @@
           "wordCount": 636,
           "title": "Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_09/116122",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220309_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_09/116122\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Crystal言語作者がRubyを愛する理由、TypeScript 4.6リリースほか（20220309後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_09/116122",
-          "publishedOn": "2022-03-09T09:41:31.000Z",
-          "wordCount": 881,
-          "title": "週刊Railsウォッチ: Crystal言語作者がRubyを愛する理由、TypeScript 4.6リリースほか（20220309後編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220309_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_09/116228",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/rails_security_fix_7.0.2.3_6.1.4.7_6.0.4.7_5.2.6.3_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby on Rails セキュリティ修正7.0.2.3、6.1.4.7、6.0.4.7、5.2.6.3がリリースされました。 Rails 7.0.2.3, 6.1.4.7, 6.0.4.7, and 5.2.6.3 have been released! This is a security release, so please upgrade soon! Here is the release announcement: https://t.co/XwvI1uF8UL Have a great day! ❤️ &#8212; Ruby on Rails (@rails) March 8, 2022 リリース [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_09/116228\" data-wpel-link=\"internal\" target=\"_self\">Railsセキュリティ修正がリリースされました（7.0.2.3、6.1.4.7、6.0.4.7、5.2.6.3）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_09/116228",
-          "publishedOn": "2022-03-09T08:43:12.000Z",
-          "wordCount": 428,
-          "title": "Railsセキュリティ修正がリリースされました（7.0.2.3、6.1.4.7、6.0.4.7、5.2.6.3）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/rails_security_fix_7.0.2.3_6.1.4.7_6.0.4.7_5.2.6.3_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_09/59016",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2018/07/rails_drop_before_varidate_use_setter_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Drop this before validation and just use a setter method &#124; Arkency Blog 原文公開日: 2016/01/29 著者: Robert Pankowecki サイト: Arkency Blog 2018/07/09: 初版公開 2022/03/09: 更新 Rails: beforeバリデーションをやめてセッターメソッドにしよう（翻訳） 以下のようなコードは多くのプロジェクトで目にします。 class Something before_validation :strip_titl [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_09/59016\" data-wpel-link=\"internal\" target=\"_self\">Rails: beforeバリデーションをやめてセッターメソッドにしよう（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_09/59016",
-          "publishedOn": "2022-03-09T08:30:18.000Z",
-          "wordCount": 362,
-          "title": "Rails: beforeバリデーションをやめてセッターメソッドにしよう（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2018/07/rails_drop_before_varidate_use_setter_eyecatch2-min.png"
         }
       ]
     },
@@ -2836,6 +2796,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_cloudgoogle_distributed_cloud_edgegoogle_cloudaws_outposts.html",
+          "author": null,
+          "description": "Googleは、エッジでワークロードを実行可能にするハードウェアとソフトウェアのフルマネージドサービス「Google Distributed Cloud Edge」の正式リリースを発表しました。 これはいわば、Google Cloud版のA...",
+          "link": "https://www.publickey1.jp/blog/22/google_cloudgoogle_distributed_cloud_edgegoogle_cloudaws_outposts.html",
+          "publishedOn": "2022-04-07T15:29:43.000Z",
+          "wordCount": 170,
+          "title": "Google Cloud、分散クラウドを実現する「Google Distributed Cloud Edge」正式リリース。いわばGoogle Cloud版のAWS Outposts",
+          "imageUrl": "https://www.publickey1.jp/2022/googledistributedcloudedgega01.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/rpgawsaws_cloud_questelectronrusttauri20223.html",
+          "author": null,
+          "description": "毎日記事を書くという仕事上、僕にとってテキストエディタはもっとも重要な仕事道具です。これまでいろんなテキストエディタを使っていましたが、少し前からGoogle Docsをテキストエディタ代わりに使い始めました。 というのも最近、Google...",
+          "link": "https://www.publickey1.jp/blog/22/rpgawsaws_cloud_questelectronrusttauri20223.html",
+          "publishedOn": "2022-04-07T15:28:28.000Z",
+          "wordCount": 200,
+          "title": "オンラインRPGでAWSを学ぶ「AWS Cloud Quest」／登大遊氏はインチキネットワークの普及に取り組む／Electronの代替を狙うRust製「Tauri」ほか、2022年3月の人気記事",
+          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/dropboxdropbox_backup.html",
           "author": null,
@@ -3353,6 +3333,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=271889",
+          "author": "Linda Nordling",
+          "description": "新型コロナウイルスのゲノム研究は、新しい変異株に対する対応策を実施するのに役立っている。パンデミックによって欧米だけではなく、アフリカや南アメリカにもゲノム・シーケンシングの手法が広がり、成果をあげている。そして、さらに世界を救う可能性を秘めている。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/271889/how-tracking-coronavirus-variants-will-prepare-us-for-the-next-global-public-health-threat/",
+          "publishedOn": "2022-04-07T21:59:18.000Z",
+          "wordCount": 550,
+          "title": "新型コロナ変異株追跡、 試されたゲノム解析の真価",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/26005530/MA22_virus_0488b-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=272368",
+          "author": "Casey Crownhart",
+          "description": "近年、気候変動による干ばつが原因で、カリフォルニア州で水力発電による発電量が減少している。不足した発電量は天然ガスによる火力発電で補われているため、温室効果ガス排出量の増加につながっている。",
+          "link": "https://www.technologyreview.jp/s/272368/droughts-are-cutting-into-californias-hydropower-heres-what-that-means-for-clean-energy/",
+          "publishedOn": "2022-04-07T21:44:39.000Z",
+          "wordCount": 679,
+          "title": "再エネ化にまた落とし穴、干ばつで温室効果ガスが増える理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/01191505/AI_Hyatt_Intake_Gates_0986_12_07_20-1279x787.jpg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=272610",
           "author": "Antonio Regalado",
@@ -4132,26 +4132,6 @@
           "wordCount": 319,
           "title": "ペロブスカイト太陽電池の耐久性を向上させる新材料＝産総研",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/09/270762/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/09/270762/",
-          "publishedOn": "2022-03-09T08:52:08.000Z",
-          "wordCount": 319,
-          "title": "九大が量子計算機の研究センターを開所、社会実装見据え",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=270638",
-          "author": "James Temple",
-          "description": "ロシアによるウクライナ侵攻で、ロシア軍は電力供給施設を標的にしている。ウクライナは国内の主要発電所が稼働停止した場合でも電力の供給を続けられるよう、EUとの送電網統合を急速に進めたい考えだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
-          "link": "https://www.technologyreview.jp/s/270638/how-ukraine-could-keep-the-lights-on-as-russia-attacks-its-power-supplies/",
-          "publishedOn": "2022-03-09T08:46:59.000Z",
-          "wordCount": 542,
-          "title": "狙われる発電所、ウクライナは電力を守れるか",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/08055503/AP_22053640191303-crop-1400x787.jpeg"
         }
       ]
     }
