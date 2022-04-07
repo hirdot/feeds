@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "24039947659e824322b0cacfea28ef6815630bbb",
+          "author": "aws@amazon.com",
+          "description": "既存の Amazon Pinpoint コンソール機能に加えて、Amazon Pinpoint API 2.0 は、お客様が SMS や音声送信、および設定をより快適に制御できる機能を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-pinpoint-version-api-feature-sms-voice-channels/",
+          "publishedOn": "2022-04-07T03:44:00.000Z",
+          "wordCount": 284,
+          "title": "AWS が SMS および音声チャンネル向けのサポートを拡張した Amazon Pinpoint API のバージョン 2.0 をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a8137143d0288e9e7eab505a49746d08c787bfdb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect で、AppIntegrations データサービス用にスケジュールされた Zendesk と同期できるようになりました。AppIntegrations により、Amazon Connect をご利用のお客様は、CRM、品質管理、請求ソフトウェア、注文管理ソリューションなどのサードパーティーの SaaS アプリケーションからデータをダウンロードできます。Zendesk を使用することで、スケジュールされた同期を介してナレッジ記事をダウンロードし、Amazon Connect エージェントアプリケーションに Wisdom 記事レコメンデーションとして表示することで、エージェントが発信者の問題を迅速に解決し、生産性を向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/",
+          "publishedOn": "2022-04-07T03:38:00.000Z",
+          "wordCount": 238,
+          "title": "Amazon Connect でスケジュールされた Zendesk ナレッジ記事との同期をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e455b113be0478e215e1e76a73169baef918b9ba",
+          "author": "aws@amazon.com",
+          "description": "本日より、お客様の Amazon Route 53 のホストゾーンに対し、無料利用枠上限を超えて、従量制料金体系にてリソースレコードを追加できるようになります。これまで、Route 53 をご利用のお客様は、最大で 1 万個のリソースレコードを任意のホストゾーンに無料で追加することができました。ホストゾーンで 1 万個を超えるリソースレコードを必要としていたお客様は、カスタムの料金体系プランをリクエストするために、AWS Support までお問い合わせいただく必要がありました。本サービスの開始により、リソースレコード無料利用枠分 1 万個を超えるリソースレコードを追加する際、カスタムの料金体系プランをリクエストいただく必要がなくなります。今後、リソースレコード無料利用枠分の 1 万個を超えてホストゾーンに追加するすべてリソースレコードには、1 か月ごとにリソースレコードあたり 0.0015 USD が自動で課金されます。これにより、お客様の必要に応じリソースレコードを簡単にスケールアップまたはスケールダウンできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-route-53-usage-pricing-resource-records-above-free-tier/",
+          "publishedOn": "2022-04-07T03:32:00.000Z",
+          "wordCount": 244,
+          "title": "Amazon Route 53 で無料利用枠の上限を超えるリソースレコードが従量ベースの料金体系で使用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "126dc4cf2a3d8ddeaf413a30ebf151a8acd17e59",
+          "author": "aws@amazon.com",
+          "description": "RStudio on Amazon SageMaker は業界初となるクラウド展開のフルマネージド RStudio Workbench です。データサイエンティストとデベロッパーは、使い慣れた RStudio 統合開発環境 (IDE) をワンクリックで立ち上げ、 Amazon SageMaker でモデルを構築、トレーニング、デプロイできます。お客様は作業を中断することなく、コンピューティングリソースに基づいて伸縮自在にダイアルアップ、ダイアルダウンが可能です。さらには、Amazon SageMaker Studio ノートブック上で Python を使用してプログラミングに切り替えることもできます。コード、データセット、リポジトリ、その他のアーティファクトを含むすべての作業は、2 つの環境間で同期されます。すぐにご利用を開始いただけるよう、追加料金なしで、現在の RStudio ライセンスを Amazon SageMaker でそのまま使用できます。本日より AWS CloudFormation を使用し、RStudio on SageMaker のドメインの作成とユーザープロファイルの追加のプロセスを自動化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/",
+          "publishedOn": "2022-04-07T03:26:00.000Z",
+          "wordCount": 281,
+          "title": "AWS CloudFormation を使用した RStudio on Amazon SageMaker の提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0926dda7a47cea84581ea3b7e8d906a0b5e821c7",
+          "author": "aws@amazon.com",
+          "description": "OpenSearch と OpenSearch Dashboards バージョン 1.2 が Amazon OpenSearch Service 上で実行できるようになりました。このバージョンには OpenSearch Dashboards の新しいオブザーバビリティインターフェイスが含まれるほか、異常検出、k-NN、SQL/PPL などの他の機能も改善されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-supports-version-1-2/",
+          "publishedOn": "2022-04-07T03:20:01.000Z",
+          "wordCount": 317,
+          "title": "Amazon OpenSearch Service で OpenSearch バージョン 1.2 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "148cff8e5ea8d7947f7f3e48d45abd1de2883cb7",
+          "author": "aws@amazon.com",
+          "description": "Amazon EKS、Amazon EKS Distro、および Amazon EKS Anywhere で Kubernetes バージョン 1.22 を実行できるようになりました。Kubernetes バージョン 1.22 リリースの注目機能としては、外部認証情報プロバイダー、サーバー側での適用、バインドされたサービスアカウントトークンボリュームの安定版への移行、非推奨になった API の使用に関する警告メカニズムなどがあります。Kubernetes 1.22 リリースの詳細は、EKS ブログ記事および Kubernetes プロジェクトの「リリースノート」でご覧いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/",
+          "publishedOn": "2022-04-07T03:14:00.000Z",
+          "wordCount": 298,
+          "title": "Amazon EKS、Amazon EKS Distro、および Amazon EKS Anywhere で Kubernetes バージョン 1.22 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9b94c7de08badb5ad494e8eab14db20448645bad",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) Proxy が、Amazon RDS for PostgreSQL および Amazon Aurora PostgreSQL - 互換版メジャーバージョン 13 のサポートを開始。PostgreSQL 13 には、B ツリーインデックスエントリーの重複排除、パーティション化されたテーブルを使用するクエリのパフォーマンス強化、拡張統計を使用した場合のクエリプランニング改善、インデックスの並列化バキューム、増分ソートなど、新機能やパフォーマンスの改善が多数含まれています。",
@@ -3095,26 +3155,6 @@
           "wordCount": 145,
           "title": "2021年の国内ITサービス市場規模は前年比3.2％増の5兆8713億円。2022年は回復が遅れた分野の反動増が見込まれる。IDC Japan",
           "imageUrl": "https://www.publickey1.jp/2022/idcitservice2021q1.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/google_cloudprometheus65000.html",
-          "author": null,
-          "description": "Google Cloud上で運用監視ツールのPrometheusをマネージドサービスとして提供する「Google Cloud Managed Service for Prometheus」が正式版となりました。 Prometheusは、マイ...",
-          "link": "https://www.publickey1.jp/blog/22/google_cloudprometheus65000.html",
-          "publishedOn": "2022-03-08T15:40:29.000Z",
-          "wordCount": 157,
-          "title": "Google CloudのPrometheusマネージドサービスが正式版に。6京5000兆のポイントを保持するバックエンド上に構築、事実上無限の指標に対応可能",
-          "imageUrl": "https://www.publickey1.jp/2022/gcpmgdprmtus01.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/nvidiaexceleronvme.html",
-          "author": null,
-          "description": "NVIDIAは、ストレージソフトウェアベンダのExceleroの買収を発表しました。 Exceleroは、NVMe over Fabricを用いた超高速なブロックストレージを実現するイスラエルのソフトウェアベンダです。 Exceleroでは...",
-          "link": "https://www.publickey1.jp/blog/22/nvidiaexceleronvme.html",
-          "publishedOn": "2022-03-08T15:36:45.000Z",
-          "wordCount": 156,
-          "title": "NVIDIAが高速ストレージ分野に参入、ストレージソフトウェアベンダExcelero買収で。共有NVMeによる高速分散ブロックストレージ実現",
-          "imageUrl": "https://www.publickey1.jp/2022/nvidiaexst01.gif"
         }
       ]
     },
