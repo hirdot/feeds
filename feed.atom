@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-08T10:01:08.420Z</updated>
+    <updated>2022-04-08T22:01:00.390Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service に可観測性インターフェイスが含まれるようになり、ログ分析が拡張されました]]></title>
+        <id>80e51e62d129fadd31d087db4dd17945c381e7e7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/"/>
+        <updated>2022-04-08T10:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Metrics Insights のご紹介 (一般公開)]]></title>
+        <id>f74ed4f7cfb6e7e31403b6a3554d872c6d0854ec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/"/>
+        <updated>2022-04-08T09:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Metrics Insights は、一般公開開始となった Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンである Metrics Insights は、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。Metrics Insights を使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。Metrics Insights およびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が、Amazon S3 からの動的な音声プロンプト再生を開始]]></title>
+        <id>127dc40c9c6c6158b82b016ec9926a8ec172312d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/"/>
+        <updated>2022-04-08T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect が、録音された音声プロンプトを Amazon S3 バケットから直接再生できるようになり、自動音声システムでパーソナライズされたカスタマーエクスペリエンスを簡単に作成できるようになりました。音声プロンプトとは、ウェルカムグリーティングの再生、顧客からの情報の要求、顧客の希望する取引の案内など、顧客とのやり取り中に再生される音声ファイルです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 種類の新しい Amazon EC2 ベアメタルインスタンスのご紹介]]></title>
+        <id>c10bfe13b88720df4def426c2590a2fc578f7137</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/"/>
+        <updated>2022-04-08T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) が、汎用 Amazon EC2 M6a および C6a ベアメタルインスタンスの一般提供を開始したことをお知らせいたします。M6a および C6a インスタンスは、3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC (コードネーム: Milan) プロセッサを搭載しています。M6a インスタンスは M5a インスタンスと比較して最大35% 優れた価格パフォーマンスを提供します。また、C6a インスタンスは C5a インスタンスと比較して最大 15% 優れた価格パフォーマンスを提供し、同等の x86 ベースの EC2 インスタンスよりもコストが 10% 低くなります。M6a および C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6a インスタンスは、SAP 認定であり、ウェブサーバーおよびアプリケーションサーバー、エンタープライズアプリケーション向けバックエンドサーバー、ウェブサーバー、マイクロサービス、マルチプレイヤーゲームサーバー、キャッシュフリート、ならびにアプリケーション開発環境などのワークロードに最適です。C6a インスタンスは、バッチ処理、分散分析、高性能コンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーションに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Network Firewall が FedRAMP Moderate コンプライアンスを達成]]></title>
+        <id>e3a68f6b9618be263da28737ac26049913e4018a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/"/>
+        <updated>2022-04-08T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS Network Firewall は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各 AWS リージョンで FedRAMP Moderate として認証されました。これで、AWS Network Firewall を使用して、FedRAMP Moderate の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crystal言語作者がRubyを愛する理由（5）標準ライブラリが優秀（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_04_08/116970</id>
@@ -4211,98 +4261,6 @@
         <summary type="html"><![CDATA[Amazon SageMaker サーバーレスおよび非同期推論は、Amazon SageMaker Python SDK をサポートするようになりました。これにより、デプロイに必要な手順が抽象化され、モデルのデプロイワークフローが簡素化されます。SageMaker Python SDK は、Amazon SageMaker に機械学習モデルをデプロイするためのオープンソースライブラリです。最適化された機械学習フレームワーク、SageMaker がサポートするファーストパーティーのアルゴリズムのいずれかを使用するか、Python SDK を使用して独自のモデルをデプロイすることができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight で、直接クエリの自動更新コントロールが有効になります]]></title>
-        <id>cea0b5bfab70f62618a4ef0a74eb08f3120f3386</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/"/>
-        <updated>2022-03-10T08:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight が、24 時間ごとの直接クエリコントロールの自動更新をサポートするようになりました。この新機能は、QuickSight リーダーが、直接クエリデータセットからコントロール値を手動で更新しなくても、ダッシュボードのコントロールを使用できる、より効率化されたエクスペリエンスを実現します。QuickSight データの更新の詳細については、こちらをご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Braket が、OpenQASM 3.0 のサポートを追加]]></title>
-        <id>e368f58c01fe092fc3f36355e1c3b25f617f154f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/"/>
-        <updated>2022-03-10T08:31:55.000Z</updated>
-        <summary type="html"><![CDATA[AWS の量子コンピューティングサービスである Amazon Braket が、ゲートベースの量子デバイスおよびシミュレーター用の OpenQASM 3.0のサポートを追加しました。今回のリリースでは、Braket SDK を使用して以前と同じようにプログラムを構築および実行するか、Braket SDK および API を介して同等の OpenQASM 3.0 文字列を直接提供するかをお客様が選択できます。Amazon Braket による OpenQASM 3.0 の導入と継続的なサポートにより、さまざまな開発環境間で量子プログラムを簡単に移行できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始]]></title>
-        <id>3a504c2bac49ede99b240e0bf17a6b6480cfcc5a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/"/>
-        <updated>2022-03-10T08:31:06.000Z</updated>
-        <summary type="html"><![CDATA[複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955"/>
-        <updated>2022-03-10T08:30:26.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: shakapacker/v6_upgrade.md at master · shakacode/shakapacker 原文更新日: 2022/02/25（5c9707e） ライセンス: MIT 表記は「Webpacker」「webpack」「Shakapacker」で統一しました。 Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳） Shakapacker v6では、Webpacker 5からの移行に伴う大幅な変更点がいくつかあるため、手動での対応が必要です。本ガイドはそうした作業を支援するた [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955" data-wpel-link="internal" target="_self">Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails / OSS パッチ会オンライン 2022年3月のお知らせ]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220314</id>
-        <link href="https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220314"/>
-        <updated>2022-03-10T07:04:05.000Z</updated>
-        <summary type="html"><![CDATA[2022年3月の Rails / OSS パッチ会を 3月14日(月)に Discord でオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひ…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルツインで挑む「コーラは届くのに医療は届かない」問題]]></title>
-        <id>https://www.technologyreview.jp/?p=270782</id>
-        <link href="https://www.technologyreview.jp/s/270782/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/"/>
-        <updated>2022-03-10T03:56:28.000Z</updated>
-        <summary type="html"><![CDATA[限りある医療資源をどう配分していくか。コロナ禍でも明らかになった問題を解決するために、世界の保健医療機関は大企業の「サプライチェーン」の考え方に注目している。デジタルツインや人工知能（AI）を利用した最適化が鍵だ。]]></summary>
-        <author>
-            <name>Will Douglas Heaven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ソリューションデザイン」が生み出す、ビジネスAIのまだ見ぬ価値]]></title>
-        <id>https://www.technologyreview.jp/?p=266884</id>
-        <link href="https://www.technologyreview.jp/s/266884/the-solution-design-creates-new-value-for-business-ai/"/>
-        <updated>2022-03-10T03:00:04.000Z</updated>
-        <summary type="html"><![CDATA[あらゆる産業の構造を変える可能性を持つAI技術だが、導入しただけでは大きなビジネス価値は生まれない。変革には、AIを取り巻くビジネスモデルや組織のあり方を含めたアーキテクチャの最適化が必要だ。]]></summary>
-        <author>
-            <name>MIT Technology Review Brand Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSがCloudFrontにマネージドプレフィックスリストを導入]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/aws-managed-list-cloudfront/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/aws-managed-list-cloudfront/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-03-10T02:22:00.000Z</updated>
-        <summary type="html"><![CDATA[AWSは最近、CloudFrontのAWSマネージドプレフィックスリストが利用できるようになったことを発表した。顧客は、CloudFrontのオリジンフェイシングサーバに属するIPアドレスからのみに、VPCやアプリケーションへのインバウンドHTTP/HTTPSトラフィックを制限できるようになった。
- By Renato Losio  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年3月第2週　3年ぶりにリアル開催となったMWC 2022を振り返る ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202203/10</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202203/10"/>
-        <updated>2022-03-10T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[2022年3月第2週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
     <entry>

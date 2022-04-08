@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "80e51e62d129fadd31d087db4dd17945c381e7e7",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/",
+          "publishedOn": "2022-04-08T10:03:01.000Z",
+          "wordCount": 290,
+          "title": "Amazon OpenSearch Service に可観測性インターフェイスが含まれるようになり、ログ分析が拡張されました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f74ed4f7cfb6e7e31403b6a3554d872c6d0854ec",
+          "author": "aws@amazon.com",
+          "description": "Metrics Insights は、一般公開開始となった Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンである Metrics Insights は、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。Metrics Insights を使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。Metrics Insights およびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/",
+          "publishedOn": "2022-04-08T09:57:01.000Z",
+          "wordCount": 262,
+          "title": "Amazon CloudWatch Metrics Insights のご紹介 (一般公開)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "127dc40c9c6c6158b82b016ec9926a8ec172312d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect が、録音された音声プロンプトを Amazon S3 バケットから直接再生できるようになり、自動音声システムでパーソナライズされたカスタマーエクスペリエンスを簡単に作成できるようになりました。音声プロンプトとは、ウェルカムグリーティングの再生、顧客からの情報の要求、顧客の希望する取引の案内など、顧客とのやり取り中に再生される音声ファイルです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/",
+          "publishedOn": "2022-04-08T09:51:00.000Z",
+          "wordCount": 237,
+          "title": "Amazon Connect が、Amazon S3 からの動的な音声プロンプト再生を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c10bfe13b88720df4def426c2590a2fc578f7137",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) が、汎用 Amazon EC2 M6a および C6a ベアメタルインスタンスの一般提供を開始したことをお知らせいたします。M6a および C6a インスタンスは、3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC (コードネーム: Milan) プロセッサを搭載しています。M6a インスタンスは M5a インスタンスと比較して最大35% 優れた価格パフォーマンスを提供します。また、C6a インスタンスは C5a インスタンスと比較して最大 15% 優れた価格パフォーマンスを提供し、同等の x86 ベースの EC2 インスタンスよりもコストが 10% 低くなります。M6a および C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6a インスタンスは、SAP 認定であり、ウェブサーバーおよびアプリケーションサーバー、エンタープライズアプリケーション向けバックエンドサーバー、ウェブサーバー、マイクロサービス、マルチプレイヤーゲームサーバー、キャッシュフリート、ならびにアプリケーション開発環境などのワークロードに最適です。C6a インスタンスは、バッチ処理、分散分析、高性能コンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーションに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/",
+          "publishedOn": "2022-04-08T09:45:00.000Z",
+          "wordCount": 356,
+          "title": "2 種類の新しい Amazon EC2 ベアメタルインスタンスのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e3a68f6b9618be263da28737ac26049913e4018a",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各 AWS リージョンで FedRAMP Moderate として認証されました。これで、AWS Network Firewall を使用して、FedRAMP Moderate の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/",
+          "publishedOn": "2022-04-08T09:37:00.000Z",
+          "wordCount": 284,
+          "title": "AWS Network Firewall が FedRAMP Moderate コンプライアンスを達成",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "aac359445495b9d0598404480f0550513c037a7c",
           "author": "aws@amazon.com",
           "description": "本日、Amplify Geo for JavaScript のリリースに続いて、Amplify Geo for iOS の一般提供の開始をお知らせします。Amplify Geo for iOS を使用すると、デベロッパーは、iOS アプリに地図や場所の検索のためにクラウド接続された UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウド接続されたマップ UI コンポーネントを含みます。",
@@ -1374,36 +1424,6 @@
           "wordCount": 269,
           "title": "Amazon SageMaker サーバーレス推論 (プレビュー) と非同期推論が SageMaker Python SDK のサポートを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cea0b5bfab70f62618a4ef0a74eb08f3120f3386",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight が、24 時間ごとの直接クエリコントロールの自動更新をサポートするようになりました。この新機能は、QuickSight リーダーが、直接クエリデータセットからコントロール値を手動で更新しなくても、ダッシュボードのコントロールを使用できる、より効率化されたエクスペリエンスを実現します。QuickSight データの更新の詳細については、こちらをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/",
-          "publishedOn": "2022-03-10T08:32:43.000Z",
-          "wordCount": 236,
-          "title": "Amazon QuickSight で、直接クエリの自動更新コントロールが有効になります",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e368f58c01fe092fc3f36355e1c3b25f617f154f",
-          "author": "aws@amazon.com",
-          "description": "AWS の量子コンピューティングサービスである Amazon Braket が、ゲートベースの量子デバイスおよびシミュレーター用の OpenQASM 3.0のサポートを追加しました。今回のリリースでは、Braket SDK を使用して以前と同じようにプログラムを構築および実行するか、Braket SDK および API を介して同等の OpenQASM 3.0 文字列を直接提供するかをお客様が選択できます。Amazon Braket による OpenQASM 3.0 の導入と継続的なサポートにより、さまざまな開発環境間で量子プログラムを簡単に移行できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/",
-          "publishedOn": "2022-03-10T08:31:55.000Z",
-          "wordCount": 275,
-          "title": "Amazon Braket が、OpenQASM 3.0 のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3a504c2bac49ede99b240e0bf17a6b6480cfcc5a",
-          "author": "aws@amazon.com",
-          "description": "複数の新しいリージョンで AWS CloudFormation テンプレートを使用して、独自の Amazon Simple Email Service (Amazon SES) リソースを作成できるようになりました。 Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーション内から送信できるように設計された、スケーラブルでコスト効率の良い、柔軟なクラウドベースの E メールサービスです。Amazon SES の詳細については、このページを参照してください。SES は、SDK、CLI、コンソール、および AWS CloudFormation テンプレートを介して使用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/",
-          "publishedOn": "2022-03-10T08:31:06.000Z",
-          "wordCount": 290,
-          "title": "Amazon SES が、複数の新しいリージョンで AWS CloudFormation テンプレートのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1441,16 +1461,6 @@
           "wordCount": 471,
           "title": "技術書（英語）読書会を継続している話",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/q/qsako6/20220316/20220316113449.png"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220314",
-          "author": null,
-          "description": "2022年3月の Rails / OSS パッチ会を 3月14日(月)に Discord でオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひ…",
-          "link": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220314",
-          "publishedOn": "2022-03-10T07:04:05.000Z",
-          "wordCount": 288,
-          "title": "Rails / OSS パッチ会オンライン 2022年3月のお知らせ",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438071486939/1646895845"
         }
       ]
     },
@@ -2171,16 +2181,6 @@
           "wordCount": 1442,
           "title": "Java Newsラウンドアップ - Spring Projectのアップデート、Value Object(プレビュー)、JEP、Quarkus 2.7.2",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220308-0257/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/aws-managed-list-cloudfront/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "AWSは最近、CloudFrontのAWSマネージドプレフィックスリストが利用できるようになったことを発表した。顧客は、CloudFrontのオリジンフェイシングサーバに属するIPアドレスからのみに、VPCやアプリケーションへのインバウンドHTTP/HTTPSトラフィックを制限できるようになった。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/aws-managed-list-cloudfront/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-10T02:22:00.000Z",
-          "wordCount": 1182,
-          "title": "AWSがCloudFrontにマネージドプレフィックスリストを導入",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220308-0257/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2519,16 +2519,6 @@
           "wordCount": 354,
           "title": "2022年3月14日　そこがねこのいるところ ── 帰ってきた『技評ねこ部通信』",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202203/10",
-          "author": "傍島康雄",
-          "description": "2022年3月第2週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202203/10",
-          "publishedOn": "2022-03-10T00:15:20.000Z",
-          "wordCount": 458,
-          "title": "2022年3月第2週　3年ぶりにリアル開催となったMWC 2022を振り返る ── Android Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         }
       ]
     },
@@ -2828,16 +2818,6 @@
           "wordCount": 1596,
           "title": "Rails 6.1.5と5.2.7がリリースされました",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/rails6.1.5_5.2.7_released_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: shakapacker/v6_upgrade.md at master · shakacode/shakapacker 原文更新日: 2022/02/25（5c9707e） ライセンス: MIT 表記は「Webpacker」「webpack」「Shakapacker」で統一しました。 Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳） Shakapacker v6では、Webpacker 5からの移行に伴う大幅な変更点がいくつかあるため、手動での対応が必要です。本ガイドはそうした作業を支援するた [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955\" data-wpel-link=\"internal\" target=\"_self\">Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_10/115955",
-          "publishedOn": "2022-03-10T08:30:26.000Z",
-          "wordCount": 636,
-          "title": "Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min.png"
         }
       ]
     },
@@ -4142,26 +4122,6 @@
           "wordCount": 737,
           "title": "ロシア「報道の壁」に立ち向かう市民、ネット広告も駆使",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/05030504/AP_22054605362855-1193x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=270782",
-          "author": "Will Douglas Heaven",
-          "description": "限りある医療資源をどう配分していくか。コロナ禍でも明らかになった問題を解決するために、世界の保健医療機関は大企業の「サプライチェーン」の考え方に注目している。デジタルツインや人工知能（AI）を利用した最適化が鍵だ。",
-          "link": "https://www.technologyreview.jp/s/270782/ai-is-helping-treat-healthcare-as-if-its-a-supply-chain-problem/",
-          "publishedOn": "2022-03-10T03:56:28.000Z",
-          "wordCount": 710,
-          "title": "デジタルツインで挑む「コーラは届くのに医療は届かない」問題",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/09193504/AP_20120422071117-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=266884",
-          "author": "MIT Technology Review Brand Studio",
-          "description": "あらゆる産業の構造を変える可能性を持つAI技術だが、導入しただけでは大きなビジネス価値は生まれない。変革には、AIを取り巻くビジネスモデルや組織のあり方を含めたアーキテクチャの最適化が必要だ。",
-          "link": "https://www.technologyreview.jp/s/266884/the-solution-design-creates-new-value-for-business-ai/",
-          "publishedOn": "2022-03-10T03:00:04.000Z",
-          "wordCount": 611,
-          "title": "「ソリューションデザイン」が生み出す、ビジネスAIのまだ見ぬ価値",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/01/31170608/220114Laboro0045-1-1180x787.jpg"
         }
       ]
     }
