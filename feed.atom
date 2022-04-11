@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T04:01:21.463Z</updated>
+    <updated>2022-04-11T05:00:59.952Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amplify Geo が Amazon Location Service を使用したマップ用の React コンポーネントの提供を開始]]></title>
+        <id>79a47a6ace38afc3d8974d60c12b61eec41fb3ac</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/"/>
+        <updated>2022-04-11T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[本日、React を使用して構築されたウェブアプリケーションのための Map および Location Search UI コンポーネントが利用可能になったことをお知らせします。昨年一般公開された Amplify Geo は、フロントエンドデベロッパーが Amazon Location Service を使用してウェブアプリケーションに位置認識機能を追加できるようにします。デベロッパーは今後、コードを 1 行使用するだけで、React ベースのウェブアプリケーションへの最新マッピング機能の追加に React コンポーネントを活用できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MemoryDB 向け AWS Controllers for Kubernetes プレビューの発表]]></title>
+        <id>42ad077ab0b1e38cb9869cdf315e9b7e68961595</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/"/>
+        <updated>2022-04-11T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon MemoryDB 向け AWS Controllers for Kubernetes (ACK) は、Kubernetes クラスターから MemoryDB リソースを直接定義して使用することを可能にします。これは、Kubernetes アプリケーションのサポートに MemoryDB を活用できるようにするもので、クラスター外で MemoryDB リソースを定義したり、クラスター内でインメモリデータベース機能を実行して管理したりする必要はありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) Performance Insights のプレビューが開始されました]]></title>
+        <id>a2719eb81405bb87ed2cd6bce59dc536c0daed26</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/"/>
+        <updated>2022-04-11T04:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) Performance Insights は、データベースの負荷をすばやく評価し、いつどこに措置を講じたらよいかを判断するために役立つ、データベースパフォーマンスのチューニングとモニタリングの機能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EventBridge が自動フェイルオーバーと復旧のためのグローバルエンドポイントを導入]]></title>
+        <id>2ce30d11d25ce6a76ea7cbf82d6672b0d6fd6a3c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/"/>
+        <updated>2022-04-11T04:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EventBridge がグローバルエンドポイントのサポートを開始しました。これは、お客様が AWS でイベント駆動型アプリケーションの可用性を向上させるためのよりシンプルで信頼性の高い方法です。グローバルエンドポイントは、サービスの中断時に、手動での操作を必要とすることなくイベントの取り込みをセカンダリリージョンに自動でフェイルオーバーすることによって、お客様が堅牢で信頼性のあるアプリケーションを簡単に構築できるようにする新しい機能です。お客様は、レプリケーションを使用して、これらのサービス中断時にリスクにさらされるデータを最小限に抑えることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年版ブレークスルーテクノロジー10]]></title>
         <id>https://www.technologyreview.jp/?p=273083</id>

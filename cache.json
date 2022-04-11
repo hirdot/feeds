@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "79a47a6ace38afc3d8974d60c12b61eec41fb3ac",
+          "author": "aws@amazon.com",
+          "description": "本日、React を使用して構築されたウェブアプリケーションのための Map および Location Search UI コンポーネントが利用可能になったことをお知らせします。昨年一般公開された Amplify Geo は、フロントエンドデベロッパーが Amazon Location Service を使用してウェブアプリケーションに位置認識機能を追加できるようにします。デベロッパーは今後、コードを 1 行使用するだけで、React ベースのウェブアプリケーションへの最新マッピング機能の追加に React コンポーネントを活用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/",
+          "publishedOn": "2022-04-11T04:54:00.000Z",
+          "wordCount": 273,
+          "title": "Amplify Geo が Amazon Location Service を使用したマップ用の React コンポーネントの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "42ad077ab0b1e38cb9869cdf315e9b7e68961595",
+          "author": "aws@amazon.com",
+          "description": "Amazon MemoryDB 向け AWS Controllers for Kubernetes (ACK) は、Kubernetes クラスターから MemoryDB リソースを直接定義して使用することを可能にします。これは、Kubernetes アプリケーションのサポートに MemoryDB を活用できるようにするもので、クラスター外で MemoryDB リソースを定義したり、クラスター内でインメモリデータベース機能を実行して管理したりする必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/",
+          "publishedOn": "2022-04-11T04:48:00.000Z",
+          "wordCount": 274,
+          "title": "Amazon MemoryDB 向け AWS Controllers for Kubernetes プレビューの発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a2719eb81405bb87ed2cd6bce59dc536c0daed26",
+          "author": "aws@amazon.com",
+          "description": "Amazon DocumentDB (MongoDB 互換) Performance Insights は、データベースの負荷をすばやく評価し、いつどこに措置を講じたらよいかを判断するために役立つ、データベースパフォーマンスのチューニングとモニタリングの機能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/",
+          "publishedOn": "2022-04-11T04:42:00.000Z",
+          "wordCount": 266,
+          "title": "Amazon DocumentDB (MongoDB 互換) Performance Insights のプレビューが開始されました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2ce30d11d25ce6a76ea7cbf82d6672b0d6fd6a3c",
+          "author": "aws@amazon.com",
+          "description": "Amazon EventBridge がグローバルエンドポイントのサポートを開始しました。これは、お客様が AWS でイベント駆動型アプリケーションの可用性を向上させるためのよりシンプルで信頼性の高い方法です。グローバルエンドポイントは、サービスの中断時に、手動での操作を必要とすることなくイベントの取り込みをセカンダリリージョンに自動でフェイルオーバーすることによって、お客様が堅牢で信頼性のあるアプリケーションを簡単に構築できるようにする新しい機能です。お客様は、レプリケーションを使用して、これらのサービス中断時にリスクにさらされるデータを最小限に抑えることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/",
+          "publishedOn": "2022-04-11T04:36:01.000Z",
+          "wordCount": 255,
+          "title": "Amazon EventBridge が自動フェイルオーバーと復旧のためのグローバルエンドポイントを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "80e51e62d129fadd31d087db4dd17945c381e7e7",
           "author": "aws@amazon.com",
           "description": "Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。",
