@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "8a07de7e3ebf55913a701d8c194e9740e1d08430",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service で、IK (中国語) Analysis プラグインでのカスタムディクショナリの使用が可能になりました。カスタムディクショナリのサポートにより、IK Analyzer で適切なキーワードや類義語を使用して、検索結果をビジネスニーズに合わせてカスタマイズすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/",
+          "publishedOn": "2022-04-11T14:08:00.000Z",
+          "wordCount": 264,
+          "title": "Amazon OpenSearch Service が IK Analysis プラグインでのカスタムディクショナリの使用のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e9e18d2f0d38e91683d0df409c5ddabb5ef8b414",
+          "author": "aws@amazon.com",
+          "description": "AWS マネジメントコンソールで Unified Settings の提供を開始します。Unified Settings を使用すると、設定はデバイス、ブラウザ、およびサービス間で保持されます。起動時に、Unified Settings は、デフォルトの言語、デフォルトのリージョン、およびお気に入りのサービス表示と呼ばれる設定をサポートします。デフォルト言語は、マネジメントコンソール全体で優先言語を表示します。デフォルトリージョンは、ログインまたはサービスコンソールをロードするたびにロードされる AWS リージョンを設定します。お気に入りのサービス表示では、サービスアイコンとフルネームで、またはサービスアイコンのみで、サービスをお気に入りバーに表示します。Unified Settings は、すべてのパブリック AWS リージョンでご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/unified-settings-aws-management-console/",
+          "publishedOn": "2022-04-11T12:07:00.000Z",
+          "wordCount": 236,
+          "title": "AWS マネジメントコンソールでの Unified Settings 機能の発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "50dbbccbdf3b57ecc2b6fd1f95ad2723089e6bf7",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda の新しい機能である Lambda Function URLs の提供開始をお知らせします。この新機能は、AWS Lambda サービスの組み込み機能として、HTTPS エンドポイントを介して関数を簡単に呼び出すことを可能にします。コンソールからシングルクリックするか、AWS CloudFormation または AWS Serverless Application Model を使用して数行で、Function URL を新規および既存の関数に追加できます。Function URLs は、Lambda でのウェブサービスの構築を開始する場合や、ウェブフックの構築などの一般的なタスクに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/",
+          "publishedOn": "2022-04-11T11:23:00.000Z",
+          "wordCount": 286,
+          "title": "AWS Lambda Function URLs: Lambda 関数用の組み込み HTTPS エンドポイント",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b416ec9e41ae42b5a34d8300537a9979f2f14088",
+          "author": "aws@amazon.com",
+          "description": "Amazon Athena は、Amazon によって開発およびオープンソース化された豊富なタイプの自己記述型フォーマットである Amazon Ion フォーマットで保存されたデータをサポートするようになりました。Amazon Ion は、テキストの使いやすさとバイナリエンコーディングの効率を組み合わせた、代替可能なバイナリ形式とテキスト形式を提供します。Ion 形式は現在、Amazon の社内チーム、Amazon Quantum Ledger Database (Amazon QLDB) などの AWS のサービス、およびオープンソースの SQL クエリ言語 PartiQL で使用されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/",
+          "publishedOn": "2022-04-11T11:17:00.000Z",
+          "wordCount": 265,
+          "title": "Amazon Athena が Amazon Ion データのクエリのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3a9756ab961316e125bd588486659100f53c9dcb",
+          "author": "aws@amazon.com",
+          "description": "AWS Amplify Studio は、ファイルストレージリソースを設定および管理するためのビジュアルインターフェイスを提供するようになりました。これにより、ウェブまたはモバイルアプリケーションからユーザー生成コンテンツ (写真や動画など) を簡単に保存および提供できるようになりました。Amplify Studio を使用すると、Amazon S3 バケットの作成、ファイルアクセスレベルの設定、ストレージクライアントライブラリのウェブまたはモバイルアプリケーションへの統合、Studio のドラッグアンドドロップファイルエクスプローラーでのファイル管理が簡単にできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/",
+          "publishedOn": "2022-04-11T11:11:00.000Z",
+          "wordCount": 273,
+          "title": "AWS Amplify Studio が新しいファイルストレージおよびファイル管理機能を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0baa57f50e929bd881c812f807a63e8d4c2738d3",
           "author": "aws@amazon.com",
           "description": "日本の労働者の 78% がコロナ禍に伴う仕事の変化に対応するため、より多くのデジタルスキルが必要になったと回答。一方、デジタルスキル習得を支援するためのレーニング計画を策定している企業・団体は全体の 5 分の 1 未満であることが明らかに\n \n \n2025 年までに最も需要の高いデジタルスキルは、クラウドとサイバーセキュリティ関連スキル\n \n \nデジタルスキルトレーニングに投資する企業・団体の 75% が売上の伸長を、また、84% が従業員の生産性向上、75% がイノベーションのサイクルが迅速になったと回答\n \n \nAWS は本日より、組織全体で継続的なクラウドスキルの学習文化を育む包括的なスキル向上プログラム「AWS Skills Guild」を日本で開始し、企業のお客様のイノベーション支援を強化",
@@ -2947,6 +2997,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/pcwindows_365_boostwindows_365_offline.html",
+          "author": null,
+          "description": "マイクロソフトが先週発表した「Windows 365 Boot」や「Windows 365 Offline」、「Windows 365 Switch」は、デスクトップ仮想化を用いてWindowsをリモート配信する「Windows 365」と...",
+          "link": "https://www.publickey1.jp/blog/22/pcwindows_365_boostwindows_365_offline.html",
+          "publishedOn": "2022-04-11T16:08:14.000Z",
+          "wordCount": 313,
+          "title": "マイクロソフト、クラウドPCが起動する「Windows 365 Boot」やオフライン対応の「Windows 365 Offline」のデモ動画を公開",
+          "imageUrl": "https://www.publickey1.jp/2022/win365bootdemo07.gif"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/_jasst_22_tokyo_2.html",
           "author": null,
           "description": "Jonathan Rasmusson（ジョナサン・ラスムッソン）氏はアジャイル開発における著名人の一人であり、さまざまな先進的ソフトウェア企業において開発やテストに携わってきました。 日本ではアジャイル開発の入門書として話題となった書籍「ア...",
@@ -3473,6 +3533,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=272798",
+          "author": "Will Douglas Heaven",
+          "description": "オープンAIは、与えられた文章から画像を生成するAIシステムの最新版を発表した。「馬に乗った宇宙飛行士」などの文章を入力すると、言葉にできるものなら何でも写真に近い形で生成できるという、驚くべきものだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/272798/this-horse-riding-astronaut-is-a-milestone-in-ais-ability-to-make-sense-of-the-world/",
+          "publishedOn": "2022-04-11T21:57:56.000Z",
+          "wordCount": 573,
+          "title": "「馬に乗った宇宙飛行士」——文章から画像を描くAIが驚きの進歩",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/06231510/space-cowboy2-1400x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/11/273143/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/12/273143/",
+          "publishedOn": "2022-04-11T21:50:47.000Z",
+          "wordCount": 342,
+          "title": "東大など、135億光年かなたの最遠方銀河の候補を発見",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/11/273052/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/12/273052/",
+          "publishedOn": "2022-04-11T21:47:42.000Z",
+          "wordCount": 341,
+          "title": "NECがコロナワクチン開発に参入、AI技術活用",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/04/11/273051/",
           "author": "MIT Technology Review Japan",
