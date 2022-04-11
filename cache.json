@@ -1413,6 +1413,16 @@
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
         {
+          "id": "https://blog.agile.esm.co.jp/entry/remote-work-style-check-esm-2022",
+          "author": null,
+          "description": "エンジニアリングマネージャーの @koic です。富山Ruby会議01の主催者でもあった @mugi_uno さんがまとめられたリモートワークスタイルチェックを行ってみました。 ここ最近やった何件かのカジュアル面談を通して、\"リモートワーク\" のスタイルの認識に企業・個人によって大きく差がある印象を受けたので、ミスマッチを防ぐためにチェックリスト的なものを作ってみました（こういう観点もあるよ〜とかあれば知りたい）https://t.co/1faTEwNzKB— mugi (@mugi_uno) 2022年3月22日 受託開発企業である弊社アジャイル事業部でのリモートワークのチェックリストとなり…",
+          "link": "https://blog.agile.esm.co.jp/entry/remote-work-style-check-esm-2022",
+          "publishedOn": "2022-04-11T00:45:26.000Z",
+          "wordCount": 334,
+          "title": "リモートワークスタイルチェックをやってみた (永和システムマネジメント アジャイル事業部の場合)",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438077904702/1649637926"
+        },
+        {
           "id": "https://blog.agile.esm.co.jp/entry/rspec-all_record_validator",
           "author": null,
           "description": "こんにちは @color_box です。 仕事からアイディアを得てgemを作ったのでそれについて書きます。 rspec-all_records_validator github.com rspec-all_records_validator というgemを作りました。DB内の全レコードに対してvalidationを実行するgemです。 これを導入するとある種のバグをE2Eテストで検出可能になります。RailsとRSpecが入っているプロジェクトを前提としています。 作った背景 仕事で遭遇したとあるバグが、このgemを作成した背景にあります。 Active Recordのバリデーションにおいて、…",
