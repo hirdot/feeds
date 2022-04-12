@@ -1524,116 +1524,6 @@
           "wordCount": 355,
           "title": "Amazon RDS for SQL Server で M6i と R6i インスタンスのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "43cea26a995e635d96a3d06546e46efc895a0574",
-          "author": "aws@amazon.com",
-          "description": "本日、Swift のみを使用するように書き換えられた Amplify iOS ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Swift デベロッパーは、認証、ストレージ、データ、API などのクラウドベースのアプリ機能を追加できます。基になるオープンソースコードをデバッグしたり、提供したりするために Objective-C に移行する必要はありません。今後のリリースでは、追加の Amplify ユースケースのほか、構造化された同時実行などの Swift ベースの言語機能へのサポートを追加する予定です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/",
-          "publishedOn": "2022-03-14T07:36:44.000Z",
-          "wordCount": 259,
-          "title": "Swift のみを使用するように書き換えられた Amplify iOS ライブラリ (デベロッパープレビュー) の発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b9fb2b3f58fc7c0a80754ac7c264f575c146b27c",
-          "author": "aws@amazon.com",
-          "description": "Amazon Aurora PostgreSQL 互換エディションで、複数メジャーバージョンアップグレードがサポートされるようになりました。これにより、複数のメジャーバージョンをまたいだメジャーバージョンアップデートを実行できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/",
-          "publishedOn": "2022-03-14T07:35:57.000Z",
-          "wordCount": 305,
-          "title": "Amazon Aurora で Aurora PostgreSQL 11 以降への複数メジャーバージョンアップグレードをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "15793c7c84f77582c7e0277e8d92890996952ad3",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Genomics CLI のワークフロー管理ツールのカタログに、ゲノミクス分析のために Snakemake が追加されたことを発表しました。このカタログには、Cromwell、Nextflow、および miniWDL も含まれています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/",
-          "publishedOn": "2022-03-14T07:32:43.000Z",
-          "wordCount": 257,
-          "title": "Amazon Genomics CLI に Snakemake ワークフロー管理システムが追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7cae56bb65880a3f01d75a58e808a7ff9a9c2b0d",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon DevOps Guru と Amazon CodeGuru Profiler の統合が利用可能になったことを発表します。この統合により、DevOps Guru コンソールでインサイトとして Amazon CodeGuru Profiler からのレコメンデーションにアクセスできるようになり、アプリケーションのパフォーマンスの問題と、その問題の原因である基になるコードを簡単に紐づけることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/",
-          "publishedOn": "2022-03-14T07:31:51.000Z",
-          "wordCount": 294,
-          "title": "CodeGuru Profiler との統合により Amazon DevOps Guru の Lambda へのサポートを拡張",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4b20944d16373c46e1cb76fb386894a5dfbd35a9",
-          "author": "aws@amazon.com",
-          "description": "コンテナワークロードを実行するために設計された Linux ベースのオペレーティングシステムである Bottlerocket は、NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプをサポートするようになりました。お客様は、機械学習、動画エンコーディング、ストリーミングワークロードなど、GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナが重要な役割を果たすホストオペレーティングシステムを使用できるようになりました。これは、お客様が、基盤となる専用のコンピューティングハードウェアを利用する単一のオペレーティングシステムで標準化するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/",
-          "publishedOn": "2022-03-14T06:46:49.000Z",
-          "wordCount": 282,
-          "title": "Bottlerocket が NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプのサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "60272685f08eb8eaa3c0a9b0cc65a2977ca592c3",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (RDS) for Oracle は、Oracle Database 21c をサポートするようになりました。Oracle Database 21c 用に Amazon RDS インスタンスを起動できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/",
-          "publishedOn": "2022-03-14T06:46:00.000Z",
-          "wordCount": 328,
-          "title": "Amazon RDS for Oracle で Oracle Database 21c のサポートを提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "aa6e77d7a158fb4d0b58fc9d0ae2caf357d9ba5e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect の問い合わせ履歴とサードパーティーアプリケーションの異種の顧客データを 1 つの顧客プロファイルに統合した Amazon Connect Customer Profiles は、Salesforce や S3 などのソースからの顧客データを 1 つのプロファイルに集約する方法を設定するためのノーコードエクスペリエンスを提供するようになりました。これは、コードを記述せずにデータを顧客プロファイルに追加する方法をカスタマイズすることによって、管理者がエージェントに必要な顧客情報を簡単に提供できるようにするのに役立ちます。管理者は、Amazon Connect の AWS コンソールを介して、データを顧客プロファイルにマッピングする方法をカスタマイズしたり、プロファイルにユーザー定義のデータ属性を作成したり、プロファイルの検索に使用できる検索キーをカスタマイズしたりできます。リリース時には、Amazon Simple Storage Service (Amazon S3)、Salesforce、ServiceNow、Zendesk、Marketo といったデータソースがサポートされます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/",
-          "publishedOn": "2022-03-14T06:32:06.000Z",
-          "wordCount": 254,
-          "title": "Amazon Connect Customer Profiles でコンソールでデータ集約のカスタマイズが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2f4c0685a5a0110c14bbf755d03c557ae9d2bccb",
-          "author": "aws@amazon.com",
-          "description": "Amazon DynamoDB は、各リクエストのオプションのパラメータとして、PartiQL オペレーションで処理される項目数の制限をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/",
-          "publishedOn": "2022-03-14T06:31:17.000Z",
-          "wordCount": 240,
-          "title": "Amazon DynamoDB が PartiQL オペレーションの制限リクエストオプションのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "715571dc1f092ef35cf9628b43049e04d549d0e7",
-          "author": "aws@amazon.com",
-          "description": "Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/",
-          "publishedOn": "2022-03-14T03:33:02.000Z",
-          "wordCount": 249,
-          "title": "Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b0d158c98775339fb17ce08522a6d6ccca743f53",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/",
-          "publishedOn": "2022-03-14T03:32:14.000Z",
-          "wordCount": 293,
-          "title": "Amazon ECS Update Service API が Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "67d143df1c0ad9aa9add365544d1a9b0c1ea7e69",
-          "author": "aws@amazon.com",
-          "description": "AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/",
-          "publishedOn": "2022-03-14T03:31:12.000Z",
-          "wordCount": 261,
-          "title": "AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2128,26 +2018,6 @@
           "wordCount": 529,
           "title": "データのじかんNews 2022年3月Part.02",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/datatimesnews_2022_03_part2.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39789",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：うさぎの反対といえば亀しか思いつかない僕は浅はかなのでしょうか？（笑） みなさん、おはようございます。 10年かそのくらい昔に、どこかのITベンチャーのイケイケな感じの社長が「出る杭は打たれるけど、出過ぎ […]",
-          "link": "https://data.wingarc.com/taimu-kun-122-39789?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-122",
-          "publishedOn": "2022-03-13T23:00:51.000Z",
-          "wordCount": 312,
-          "title": "【タイムくん–第122話】POSITIVE DEVIANCE（ポジティブ・デビアンス）",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/122.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39612",
-          "author": "tadokoroyusuke",
-          "description": "ゼロパーティデータ、というものは簡単に言うと『お客様から同意を得たサービスに関する情報』ということです。皆さん、思い出してみてください。ネットサーフィンなどしてる時に、質問形式の画面が出てきてそれに答えていくと、あなたに […]",
-          "link": "https://data.wingarc.com/allabout_zero-party-data-39612?utm_source=rss&utm_medium=rss&utm_campaign=allabout_zero-party-data",
-          "publishedOn": "2022-03-13T22:32:59.000Z",
-          "wordCount": 586,
-          "title": "わかりやすく解説！ ゼロパーティデータの概要からおすすめの活用法まで",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/allabout_zeropartydata.png"
         }
       ]
     },
@@ -2461,46 +2331,6 @@
           "wordCount": 1486,
           "title": "Java Newsラウンドアップ - JEP 424、NetBeans 13、Hazelcast 5.1、JHipster 7.7、Spring Cloud Gateway CVE",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220315-0339/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/aws-waf-fraud-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Amazonは最近、不正管理としてAccount Takeover Protectionを導入した。ネットワークエッジでログインページを保護するためのAWS Webアプリケーションファイアウォールの新機能である。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/aws-waf-fraud-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-14T01:28:00.000Z",
-          "wordCount": 1206,
-          "title": "AWS WAFが不正管理としてAccount Takeover Protectionを導入",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220308-0257/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/cloudflare-api-traffic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Patrick Zhang",
-          "description": "Cloudflareは最近、毎年恒例の「APIトラフィックの状況」レポートをリリースした。このレポートでは、Cloudflareのグローバルネットワークによって利用されるトラフィックデータを分析して、Webトラフィックの現在の業界トレンドへのインサイトを提供する。\n By Patrick Zhang  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/cloudflare-api-traffic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-14T01:24:00.000Z",
-          "wordCount": 1198,
-          "title": "CloudflareレポートでAPIトラフィックの急速な成長が示された",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220308-0257/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Ben Linders",
-          "description": "企業がクラウドに移行したとき、最初から利害関係者を参加させたり、セキュリティを関与させたりすることが困難であったため、セキュリティの問題が発生した。継続的なクラウドDevOpsプロセスの一部としてセキュリティ評価を組み込み、プロジェクトのライフサイクル全体を通じてセキュリティリスク管理にアジャイル戦略を採用することで、移行中のセキュリティのガバナンスを強化することができた。\n By Ben Linders  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-14T01:22:00.000Z",
-          "wordCount": 1203,
-          "title": "セキュリティ・バイ・デザインがクラウド移行のリスク管理にどのように役立ったか",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220308-0257/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/google-cloud-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Googleは最近、Google Cloudのサービスプラットフォームとして機能する第2世代のCloud Functionsの公開プレビューを発表した。新しいバージョンでは、関数ランタイムに対するさらに多くの制御が導入され、パフォーマンスとスケーラビリティが向上し、90を超えるイベントソースからのトリガーがサポートされる。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/google-cloud-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-14T01:20:00.000Z",
-          "wordCount": 598,
-          "title": "Googleが第2世代のCloud Functionsを発表",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220308-0257/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2558,16 +2388,6 @@
           "wordCount": 689,
           "title": "QCon Software Development Conference - 見逃せない7つのトラック",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "企業がクラウドに移行したとき、最初から利害関係者を参加させたり、セキュリティを関与させたりすることが困難であったため、セキュリティの問題が発生した。継続的なクラウドDevOpsプロセスの一部としてセキュリティ評価を組み込み、プロジェクトのライフサイクル全体を通じてセキュリティリスク管理にアジャイル戦略を採用することで、移行中のセキュリティのガバナンスを強化することができた。\n By Ben Linders  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-03-14T01:22:00.000Z",
-          "wordCount": 1203,
-          "title": "セキュリティ・バイ・デザインがクラウド移行のリスク管理にどのように役立ったか",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220308-0257/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2705,16 +2525,6 @@
           "wordCount": 451,
           "title": "第707回　シンプルでおしゃれなモニタリングツールUptime Kuma ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202203/14",
-          "author": "階戸アキラ",
-          "description": "Linus Torvaldsは3月13日，次期LinuxカーネルLinux 5.17の8本目のリリース候補（RC）版となる「Linux 5.17-rc8」を公開した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202203/14",
-          "publishedOn": "2022-03-14T07:32:00.000Z",
-          "wordCount": 437,
-          "title": "2022年3月14日　Linux 5.17-rc8が公開，新たな脆弱性判明で正式リリースは3/20以降に ── Linux Daily Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
         }
       ]
     },
@@ -2849,16 +2659,6 @@
           "wordCount": 452,
           "title": "2022年3月第3週　陽春の候，Androidはアップデートの花が咲く ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314",
-          "author": null,
-          "description": "ホワイトデーですね。なんかください。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314",
-          "publishedOn": "2022-03-14T06:00:00.000Z",
-          "wordCount": 354,
-          "title": "2022年3月14日　そこがねこのいるところ ── 帰ってきた『技評ねこ部通信』",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         }
       ]
     },
@@ -3138,16 +2938,6 @@
           "wordCount": 385,
           "title": "Better Stimulusガイド:アーキテクチャ（1）アプリケーションコントローラ（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/better_stimulus_architecture_application_controller_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_equality_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why I love Ruby: equality &#8211; DEV Community 👩‍💻👨‍💻 原文公開日: 2022/03/01 原著者: Ary Borenszweig💻 &#8212; Crystal言語の作者のひとりです 日本語タイトルは内容に即したものにしました。 Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳） この連載記事では、私がRubyで常日頃から気に入っている点を順に扱っていきたいと思います。他の言語では動作が異なるものもあれば、他の言語にはまったくないものもありますが、可能な限り比較を行ってみ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280\" data-wpel-link=\"internal\" target=\"_self\">Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280",
-          "publishedOn": "2022-03-14T08:30:16.000Z",
-          "wordCount": 520,
-          "title": "Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_equality_eyecatch-min.png"
         }
       ]
     },
@@ -3156,6 +2946,36 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/mysql_heatwave60pr.html",
+          "author": null,
+          "description": "任天堂株式会社と株式会社ポケモンの出資で設立された、ゲームの企画、開発、運営を行っているジニアス・ソノリティ。 同社は世界的に人気の大規模オンラインゲームの運営をローンチした際に、そのバックエンドデータベースとしてOracle Cloud上...",
+          "link": "https://www.publickey1.jp/blog/22/mysql_heatwave60pr.html",
+          "publishedOn": "2022-04-12T15:10:13.000Z",
+          "wordCount": 194,
+          "title": "MySQL Heatwaveで大規模オンラインゲームのプレイやアイテム利用など大量データの毎時分析を実現。想定より60倍もの高性能［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/genioussonority_heatwave01.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/webassemblywasiruby_32_preview_1webruby.html",
+          "author": null,
+          "description": "新しくWebAssembly/WASI版にも対応した次期Rubyのプレビューリリース「Ruby 3.2 Preview 1」が公開されました。 これまでリリースされてきたLinux版やWindows版、Mac版などのRubyバイナリに加えて...",
+          "link": "https://www.publickey1.jp/blog/22/webassemblywasiruby_32_preview_1webruby.html",
+          "publishedOn": "2022-04-12T15:05:35.000Z",
+          "wordCount": 166,
+          "title": "WebAssembly/WASIに対応した「Ruby 3.2 Preview 1」公開。WebブラウザでRubyが動く世界がやってくる",
+          "imageUrl": "https://www.publickey1.jp/2022/rub32p101.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/3030110.html",
+          "author": null,
+          "description": "できるシリーズやINTERNET Watch、PC Watchなどで知られるインプレスグループがこの4月で30周年を迎えたそうです。おめでとうございます。 1992年4月に創立された株式会社インプレスは、1994年に日本初のインターネットを...",
+          "link": "https://www.publickey1.jp/blog/22/3030110.html",
+          "publishedOn": "2022-04-12T15:01:36.000Z",
+          "wordCount": 189,
+          "title": "インプレス創設30周年おめでとうございます。記念の30年史がわずか110円で買えるのも御社らしい素晴らしさです",
+          "imageUrl": "https://www.publickey1.jp/2022/impress_30.gif"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/pcwindows_365_boostwindows_365_offline.html",
           "author": null,
@@ -3673,6 +3493,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/12/273238/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/13/273238/",
+          "publishedOn": "2022-04-12T21:37:28.000Z",
+          "wordCount": 340,
+          "title": "宇宙旅行を快適に、JAMSSらが空気浄化装置をISSで実証へ",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/12/273270/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/13/273270/",
+          "publishedOn": "2022-04-12T21:26:09.000Z",
+          "wordCount": 341,
+          "title": "東北大、リチウム電池正極材料合成で脱レアメタル依存",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/04/11/273161/",
           "author": "MIT Technology Review Japan",
@@ -4502,16 +4342,6 @@
           "wordCount": 538,
           "title": "環境破壊、採掘寡占化—— ビットコインの失敗を イーサリアムは乗り越えるか",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/04191505/MIT_SD_ProofofStake_Horizontal-1400x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/12/270915/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/14/270915/",
-          "publishedOn": "2022-03-14T07:41:07.000Z",
-          "wordCount": 333,
-          "title": "有機リチウムイオン電池を高電圧で動作させることに成功＝東北大",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }

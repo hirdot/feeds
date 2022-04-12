@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T10:00:36.668Z</updated>
+    <updated>2022-04-12T22:00:37.509Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宇宙旅行を快適に、JAMSSらが空気浄化装置をISSで実証へ]]></title>
+        <id>https://www.technologyreview.jp/n/2022/04/12/273238/</id>
+        <link href="https://www.technologyreview.jp/n/2022/04/13/273238/"/>
+        <updated>2022-04-12T21:37:28.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東北大、リチウム電池正極材料合成で脱レアメタル依存]]></title>
+        <id>https://www.technologyreview.jp/n/2022/04/12/273270/</id>
+        <link href="https://www.technologyreview.jp/n/2022/04/13/273270/"/>
+        <updated>2022-04-12T21:26:09.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Heatwaveで大規模オンラインゲームのプレイやアイテム利用など大量データの毎時分析を実現。想定より60倍もの高性能［PR］]]></title>
+        <id>https://www.publickey1.jp/blog/22/mysql_heatwave60pr.html</id>
+        <link href="https://www.publickey1.jp/blog/22/mysql_heatwave60pr.html"/>
+        <updated>2022-04-12T15:10:13.000Z</updated>
+        <summary type="html"><![CDATA[任天堂株式会社と株式会社ポケモンの出資で設立された、ゲームの企画、開発、運営を行っているジニアス・ソノリティ。 同社は世界的に人気の大規模オンラインゲームの運営をローンチした際に、そのバックエンドデータベースとしてOracle Cloud上...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly/WASIに対応した「Ruby 3.2 Preview 1」公開。WebブラウザでRubyが動く世界がやってくる]]></title>
+        <id>https://www.publickey1.jp/blog/22/webassemblywasiruby_32_preview_1webruby.html</id>
+        <link href="https://www.publickey1.jp/blog/22/webassemblywasiruby_32_preview_1webruby.html"/>
+        <updated>2022-04-12T15:05:35.000Z</updated>
+        <summary type="html"><![CDATA[新しくWebAssembly/WASI版にも対応した次期Rubyのプレビューリリース「Ruby 3.2 Preview 1」が公開されました。 これまでリリースされてきたLinux版やWindows版、Mac版などのRubyバイナリに加えて...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インプレス創設30周年おめでとうございます。記念の30年史がわずか110円で買えるのも御社らしい素晴らしさです]]></title>
+        <id>https://www.publickey1.jp/blog/22/3030110.html</id>
+        <link href="https://www.publickey1.jp/blog/22/3030110.html"/>
+        <updated>2022-04-12T15:01:36.000Z</updated>
+        <summary type="html"><![CDATA[できるシリーズやINTERNET Watch、PC Watchなどで知られるインプレスグループがこの4月で30周年を迎えたそうです。おめでとうございます。 1992年4月に創立された株式会社インプレスは、1994年に日本初のインターネットを...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: HashieでRubyのハッシュを強化、最近のRubyコア解説記事ほか（20220412後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_04_12/116997</id>
@@ -4484,231 +4532,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Amazon RDS for SQL Server で M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280"/>
-        <updated>2022-03-14T08:30:16.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_equality_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why I love Ruby: equality &#8211; DEV Community 👩‍💻👨‍💻 原文公開日: 2022/03/01 原著者: Ary Borenszweig💻 &#8212; Crystal言語の作者のひとりです 日本語タイトルは内容に即したものにしました。 Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳） この連載記事では、私がRubyで常日頃から気に入っている点を順に扱っていきたいと思います。他の言語では動作が異なるものもあれば、他の言語にはまったくないものもありますが、可能な限り比較を行ってみ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_03_14/116280" data-wpel-link="internal" target="_self">Crystal言語作者がRubyを愛する理由（1）「等しさ」の扱い（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有機リチウムイオン電池を高電圧で動作させることに成功＝東北大]]></title>
-        <id>https://www.technologyreview.jp/n/2022/03/12/270915/</id>
-        <link href="https://www.technologyreview.jp/n/2022/03/14/270915/"/>
-        <updated>2022-03-14T07:41:07.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift のみを使用するように書き換えられた Amplify iOS ライブラリ (デベロッパープレビュー) の発表]]></title>
-        <id>43cea26a995e635d96a3d06546e46efc895a0574</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/"/>
-        <updated>2022-03-14T07:36:44.000Z</updated>
-        <summary type="html"><![CDATA[本日、Swift のみを使用するように書き換えられた Amplify iOS ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Swift デベロッパーは、認証、ストレージ、データ、API などのクラウドベースのアプリ機能を追加できます。基になるオープンソースコードをデバッグしたり、提供したりするために Objective-C に移行する必要はありません。今後のリリースでは、追加の Amplify ユースケースのほか、構造化された同時実行などの Swift ベースの言語機能へのサポートを追加する予定です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora で Aurora PostgreSQL 11 以降への複数メジャーバージョンアップグレードをサポート]]></title>
-        <id>b9fb2b3f58fc7c0a80754ac7c264f575c146b27c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/"/>
-        <updated>2022-03-14T07:35:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションで、複数メジャーバージョンアップグレードがサポートされるようになりました。これにより、複数のメジャーバージョンをまたいだメジャーバージョンアップデートを実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Genomics CLI に Snakemake ワークフロー管理システムが追加]]></title>
-        <id>15793c7c84f77582c7e0277e8d92890996952ad3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/"/>
-        <updated>2022-03-14T07:32:43.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Genomics CLI のワークフロー管理ツールのカタログに、ゲノミクス分析のために Snakemake が追加されたことを発表しました。このカタログには、Cromwell、Nextflow、および miniWDL も含まれています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年3月14日　Linux 5.17-rc8が公開，新たな脆弱性判明で正式リリースは3/20以降に ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202203/14</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202203/14"/>
-        <updated>2022-03-14T07:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvaldsは3月13日，次期LinuxカーネルLinux 5.17の8本目のリリース候補（RC）版となる「Linux 5.17-rc8」を公開した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeGuru Profiler との統合により Amazon DevOps Guru の Lambda へのサポートを拡張]]></title>
-        <id>7cae56bb65880a3f01d75a58e808a7ff9a9c2b0d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/"/>
-        <updated>2022-03-14T07:31:51.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon DevOps Guru と Amazon CodeGuru Profiler の統合が利用可能になったことを発表します。この統合により、DevOps Guru コンソールでインサイトとして Amazon CodeGuru Profiler からのレコメンデーションにアクセスできるようになり、アプリケーションのパフォーマンスの問題と、その問題の原因である基になるコードを簡単に紐づけることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottlerocket が NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプのサポートを追加]]></title>
-        <id>4b20944d16373c46e1cb76fb386894a5dfbd35a9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/"/>
-        <updated>2022-03-14T06:46:49.000Z</updated>
-        <summary type="html"><![CDATA[コンテナワークロードを実行するために設計された Linux ベースのオペレーティングシステムである Bottlerocket は、NVIDIA を搭載した GPU ベースの EC2 インスタンスタイプをサポートするようになりました。お客様は、機械学習、動画エンコーディング、ストリーミングワークロードなど、GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナが重要な役割を果たすホストオペレーティングシステムを使用できるようになりました。これは、お客様が、基盤となる専用のコンピューティングハードウェアを利用する単一のオペレーティングシステムで標準化するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle で Oracle Database 21c のサポートを提供開始]]></title>
-        <id>60272685f08eb8eaa3c0a9b0cc65a2977ca592c3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/"/>
-        <updated>2022-03-14T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (RDS) for Oracle は、Oracle Database 21c をサポートするようになりました。Oracle Database 21c 用に Amazon RDS インスタンスを起動できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Customer Profiles でコンソールでデータ集約のカスタマイズが可能に]]></title>
-        <id>aa6e77d7a158fb4d0b58fc9d0ae2caf357d9ba5e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/"/>
-        <updated>2022-03-14T06:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect の問い合わせ履歴とサードパーティーアプリケーションの異種の顧客データを 1 つの顧客プロファイルに統合した Amazon Connect Customer Profiles は、Salesforce や S3 などのソースからの顧客データを 1 つのプロファイルに集約する方法を設定するためのノーコードエクスペリエンスを提供するようになりました。これは、コードを記述せずにデータを顧客プロファイルに追加する方法をカスタマイズすることによって、管理者がエージェントに必要な顧客情報を簡単に提供できるようにするのに役立ちます。管理者は、Amazon Connect の AWS コンソールを介して、データを顧客プロファイルにマッピングする方法をカスタマイズしたり、プロファイルにユーザー定義のデータ属性を作成したり、プロファイルの検索に使用できる検索キーをカスタマイズしたりできます。リリース時には、Amazon Simple Storage Service (Amazon S3)、Salesforce、ServiceNow、Zendesk、Marketo といったデータソースがサポートされます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB が PartiQL オペレーションの制限リクエストオプションのサポートを開始]]></title>
-        <id>2f4c0685a5a0110c14bbf755d03c557ae9d2bccb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/"/>
-        <updated>2022-03-14T06:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DynamoDB は、各リクエストのオプションのパラメータとして、PartiQL オペレーションで処理される項目数の制限をサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年3月14日　そこがねこのいるところ ── 帰ってきた『技評ねこ部通信』]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0314"/>
-        <updated>2022-03-14T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ホワイトデーですね。なんかください。]]></summary>
-        <author>
-            <name>gihyo.jp：LIFESTYLE STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB がデフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化]]></title>
-        <id>715571dc1f092ef35cf9628b43049e04d549d0e7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/"/>
-        <updated>2022-03-14T03:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DynamoDB は、デフォルトのサービスクォータを引き上げて、多数のテーブルの使用を簡素化します。DynamoDB は、AWS アカウントおよび AWS リージョンごとに作成および管理できる DynamoDB テーブルの数のデフォルトのクォータを 256 から 2,500 に引き上げました。また、DynamoDB は、同時に実行できるテーブル管理オペレーションの数も 50 から 500 に引き上げました。アカウントごとおよびリージョンごとに、より多くのテーブルの作成、削除、および更新オペレーションを並行して実行できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECS Update Service API が Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新のサポートを開始]]></title>
-        <id>b0d158c98775339fb17ce08522a6d6ccca743f53</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/"/>
-        <updated>2022-03-14T03:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、既存の ECS サービス向けに、Elastic Load Balancers、Service Registries、Tag Propagation、および ECS Managed Tags の更新をサポートするようになりました。さらに柔軟になったことで、お客様はサービスを再作成することなく、Amazon ECS サービスの設定を簡単に更新できるため、運用上のオーバーヘッドとサービスの中断の可能性が軽減されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager Change Manager が複数の変更リクエストに対する一括アクションの実行のサポートを開始]]></title>
-        <id>67d143df1c0ad9aa9add365544d1a9b0c1ea7e69</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/"/>
-        <updated>2022-03-14T03:31:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager の機能である Change Manager では、複数の変更リクエストをまとめて承認または拒否できるようになりました。これにより、承認者は保留中の変更リクエストに対して一括アクションを簡単に実行できます。Change Manager は、AWS またはオンプレミスでのインフラストラクチャおよびアプリケーションの構成に対する運用上の変更のリクエスト、承認、実行、報告の方法を簡素化します。承認者は、複数の変更リクエストを選択して、それらに対してアクションを実行できるようになりました。これにより、承認が迅速化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAFが不正管理としてAccount Takeover Protectionを導入]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/aws-waf-fraud-control/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/aws-waf-fraud-control/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-03-14T01:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは最近、不正管理としてAccount Takeover Protectionを導入した。ネットワークエッジでログインページを保護するためのAWS Webアプリケーションファイアウォールの新機能である。
- By Renato Losio  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudflareレポートでAPIトラフィックの急速な成長が示された]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/cloudflare-api-traffic/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/cloudflare-api-traffic/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-03-14T01:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflareは最近、毎年恒例の「APIトラフィックの状況」レポートをリリースした。このレポートでは、Cloudflareのグローバルネットワークによって利用されるトラフィックデータを分析して、Webトラフィックの現在の業界トレンドへのインサイトを提供する。
- By Patrick Zhang  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Patrick Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリティ・バイ・デザインがクラウド移行のリスク管理にどのように役立ったか]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-03-14T01:22:00.000Z</updated>
-        <summary type="html"><![CDATA[企業がクラウドに移行したとき、最初から利害関係者を参加させたり、セキュリティを関与させたりすることが困難であったため、セキュリティの問題が発生した。継続的なクラウドDevOpsプロセスの一部としてセキュリティ評価を組み込み、プロジェクトのライフサイクル全体を通じてセキュリティリスク管理にアジャイル戦略を採用することで、移行中のセキュリティのガバナンスを強化することができた。
- By Ben Linders  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリティ・バイ・デザインがクラウド移行のリスク管理にどのように役立ったか]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/security-by-design-cloud/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-03-14T01:22:00.000Z</updated>
-        <summary type="html"><![CDATA[企業がクラウドに移行したとき、最初から利害関係者を参加させたり、セキュリティを関与させたりすることが困難であったため、セキュリティの問題が発生した。継続的なクラウドDevOpsプロセスの一部としてセキュリティ評価を組み込み、プロジェクトのライフサイクル全体を通じてセキュリティリスク管理にアジャイル戦略を採用することで、移行中のセキュリティのガバナンスを強化することができた。
- By Ben Linders  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleが第2世代のCloud Functionsを発表]]></title>
-        <id>https://www.infoq.com/jp/news/2022/03/google-cloud-functions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/03/google-cloud-functions/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-03-14T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleは最近、Google Cloudのサービスプラットフォームとして機能する第2世代のCloud Functionsの公開プレビューを発表した。新しいバージョンでは、関数ランタイムに対するさらに多くの制御が導入され、パフォーマンスとスケーラビリティが向上し、90を超えるイベントソースからのトリガーがサポートされる。
- By Renato Losio  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【タイムくん–第122話】POSITIVE DEVIANCE（ポジティブ・デビアンス）]]></title>
-        <id>https://data.wingarc.com/?p=39789</id>
-        <link href="https://data.wingarc.com/taimu-kun-122-39789?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taimu-kun-122"/>
-        <updated>2022-03-13T23:00:51.000Z</updated>
-        <summary type="html"><![CDATA[ここがポイント：うさぎの反対といえば亀しか思いつかない僕は浅はかなのでしょうか？（笑） みなさん、おはようございます。 10年かそのくらい昔に、どこかのITベンチャーのイケイケな感じの社長が「出る杭は打たれるけど、出過ぎ […]]]></summary>
-        <author>
-            <name>TotsukaKeisuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[わかりやすく解説！ ゼロパーティデータの概要からおすすめの活用法まで]]></title>
-        <id>https://data.wingarc.com/?p=39612</id>
-        <link href="https://data.wingarc.com/allabout_zero-party-data-39612?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=allabout_zero-party-data"/>
-        <updated>2022-03-13T22:32:59.000Z</updated>
-        <summary type="html"><![CDATA[ゼロパーティデータ、というものは簡単に言うと『お客様から同意を得たサービスに関する情報』ということです。皆さん、思い出してみてください。ネットサーフィンなどしてる時に、質問形式の画面が出てきてそれに答えていくと、あなたに […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
         </author>
     </entry>
     <entry>
