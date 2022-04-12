@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T03:14:18.815Z</updated>
+    <updated>2022-04-12T04:00:57.615Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Shield Advanced がアプリケーションレイヤーの DDoS 自動緩和で Application Load Balancer をサポート]]></title>
+        <id>bd3a9493b8438d495652c0d67716bad4146328a9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/"/>
+        <updated>2022-04-12T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[CloudFront ディストリビューションに加えて、AWS Shield Advanced で保護された Application Load Balancer (ALB) リソースのアプリケーションレイヤーの DDoS 自動緩和を有効にすることができるようになりました。AWS Shield Advanced でリソースを保護し、アプリケーションレイヤーの DDoS 自動緩和を有効にすると、ウエブアクセスコントロールリスト (ACL) に AWS WAF ルールを自動的に作成することでレイヤー 7 の DDoS イベントに関連付けられたパターンの識別と隔離が行われます。これらのルールは、カウントモードで実装して、リソースのトラフィックにどのような影響を与えるかを観察した後、ブロックモードでいつでもデプロイすることができます。また、アプリケーションレイヤーの DDoS イベントに関連する検知、緩和、上位コントリビューターのメトリクスを表示して、さらなる調査や、Shield Advanced が作成した緩和の効果を評価することができます。これらの機能により、アプリケーションの可用性を脅かす DDoS イベントにすばやく対応して緩和することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が、AWS CloudTrail のサポートにより、ユーザー、ルーティングプロファイル、キューの更新された UI のサポートを開始]]></title>
+        <id>5647b65ab7e4b3f50eed1475bfa8d53860ff97cb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/"/>
+        <updated>2022-04-12T03:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect が、AWS CloudTrail でイベントとして行われたすべての変更を記録する、ユーザー、ルーティングプロファイル、キューの UI を更新しました。これにより、AWS CloudTrail を調べて、誰がどのアクションを実行したか、どのリソースが実行されたか、イベントがいつ発生したか、ならびに分析や応答に役立つその他の詳細を特定できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Resource Access Manager が FedRAMP に準拠]]></title>
+        <id>8dbf8e0583a76fb14817ca05f89910b17c0f1530</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/"/>
+        <updated>2022-04-12T03:33:16.000Z</updated>
+        <summary type="html"><![CDATA[AWS Resource Access Manager (AWS RAM) は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) ではFedRAMPモデレートとして、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) ではFedRAMP Highとして承認されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub が 5 つのコントロールと 1 つの新しい統合パートナーを発表]]></title>
+        <id>152b196b039935b0ab77fc39671fae77b47bb88d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/"/>
+        <updated>2022-04-12T03:31:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub では、お客様の Cloud Security Posture Management (CSPM) を強化する目的で、基本的なセキュリティのベストプラクティス標準 (FSBP) として 5 つの新しいコントロールが利用できるようになりました。これらのコントロールは、Amazon CloudFront、Amazon Elastic Container Registry (ECR)、Amazon Elastic Load Balancer (ELB)、Amazon Simple Storage Service (S3) のセキュリティベストプラクティスに対する完全な自動チェックを実行します。Security Hub で新しいコントロールを自動的に有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub では、AWS のセキュリティ体制を自動的にチェックするための 192 のセキュリティコントロールがサポートされるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が M6i と R6i インスタンスのサポートを開始]]></title>
+        <id>ab58b6691aaf3f8603ce4ad1e539b467092f29d4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/"/>
+        <updated>2022-04-12T03:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft、Azure API Managementプレビューでプライベートリンクのサポートを開始]]></title>
         <id>https://www.infoq.com/jp/news/2022/04/azure-apim-private-link-support/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
