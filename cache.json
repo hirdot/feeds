@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ef84c8d4d14d51fc54c160696eca22b7c3a12ca2",
+          "author": "aws@amazon.com",
+          "description": "AWS OpsWorks for Configuration Management が Puppet Enterprise LTS バージョン 2019.8.10 をサポートするようになりました。お客様は、個別にスケジュールした毎週のシステムメンテナンス期間中に更新を自動的に受け取ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/",
+          "publishedOn": "2022-04-12T08:53:23.000Z",
+          "wordCount": 263,
+          "title": "AWS OpsWorks for Configuration Management が Puppet Enterprise をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9ad459bac0035ebb37d126af2ab8bd2f7a541ecc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift が Microsoft Azure Active Directory (AD) とのネイティブ統合を提供するようになり、Microsoft Power BI などのツールでの認証と認可が可能になりました。Azure AD を使用して Amazon Redshift へのアクセスを認証することができるようになったので、エンドユーザーは、Azure AD で定義されたグループメンバーシップに基づいてアクセス許可を取得できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/",
+          "publishedOn": "2022-04-12T08:52:36.000Z",
+          "wordCount": 288,
+          "title": "Amazon Redshift が Microsoft Azure Active Directory と Microsoft Power BI とのネイティブ統合を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "05f3834bf41e4b319ce95915abc313cfd8c574a3",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポートするようになりました。この新機能では、プライマリインスタンス上で作成、変更、または削除された SQL Server エージェントジョブがマルチ AZ 構成内のセカンダリインスタンスに自動的に同期されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/",
+          "publishedOn": "2022-04-12T08:51:48.000Z",
+          "wordCount": 253,
+          "title": "Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9aae947dc2833196a4db5f109b98392cbcb6e3ba",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift がロールベースのアクセスコントロール (RBAC) をサポートするようになりました。RBAC は、Amazon Redshift のセキュリティ特権の管理を簡素化することのできる新しい機能強化です。RBAC の機能を使用すると、ユーザーのジョブロール/アクセス許可権限とデータの機密レベルに応じて、データへのエンドユーザーアクセスを広範なレベルまたは詳細なレベルで制御できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/",
+          "publishedOn": "2022-04-12T08:51:00.000Z",
+          "wordCount": 247,
+          "title": "Amazon Redshift がロールベースのアクセスコントロール (RBAC) のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3767efd174db958d771222bd28bd0db668a9584c",
+          "author": "aws@amazon.com",
+          "description": "2022 年 4 月 1 日から、同じ AWS リージョン内のアベイラビリティーゾーン（AZ）間での AWS PrivateLink、AWS Transit Gateway、および AWS Client VPN のデータ転送が無料になります。以前は、これらのネットワークサービスを使用する際にアベイラビリティーゾーン間でデータを送信すると AZ 間のデータ転送料金が発生していました。この料金変更に伴い、これらのサービスの AZ 間のデータ転送は無料になり、マルチ AZ ワークロードを実行する際のコスト効果がさらに向上します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/",
+          "publishedOn": "2022-04-12T08:50:13.000Z",
+          "wordCount": 311,
+          "title": "AWS が AWS PrivateLink、AWS Transit Gateway、AWS Client VPN サービスのデータ転送料金の値下げを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3f212ee784a875447f2665b5d597f8a0fec93a93",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) Exec を使用して、AWS Fargate 上で実行する Windows コンテナでコマンドを実行できるようになりました。ECS Exec を使用すると、実行中のコンテナへのインタラクティブなシェルまたは単一コマンドによるアクセスが可能になり、問題のデバッグ、エラーの診断、1 回限りのダンプと統計の収集、コンテナ内のプロセスとのやり取りが簡単になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/",
+          "publishedOn": "2022-04-12T08:48:59.000Z",
+          "wordCount": 288,
+          "title": "Amazon ECS で AWS Fargate 上の Windows コンテナでのコマンド実行が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "bd3a9493b8438d495652c0d67716bad4146328a9",
           "author": "aws@amazon.com",
           "description": "CloudFront ディストリビューションに加えて、AWS Shield Advanced で保護された Application Load Balancer (ALB) リソースのアプリケーションレイヤーの DDoS 自動緩和を有効にすることができるようになりました。AWS Shield Advanced でリソースを保護し、アプリケーションレイヤーの DDoS 自動緩和を有効にすると、ウエブアクセスコントロールリスト (ACL) に AWS WAF ルールを自動的に作成することでレイヤー 7 の DDoS イベントに関連付けられたパターンの識別と隔離が行われます。これらのルールは、カウントモードで実装して、リソースのトラフィックにどのような影響を与えるかを観察した後、ブロックモードでいつでもデプロイすることができます。また、アプリケーションレイヤーの DDoS イベントに関連する検知、緩和、上位コントリビューターのメトリクスを表示して、さらなる調査や、Shield Advanced が作成した緩和の効果を評価することができます。これらの機能により、アプリケーションの可用性を脅かす DDoS イベントにすばやく対応して緩和することができます。",
@@ -4461,16 +4521,6 @@
           "publishedOn": "2022-03-13T21:18:59.000Z",
           "wordCount": 337,
           "title": "DNAメチル化の光検出に成功＝長崎大",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/12/270916/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/14/270916/",
-          "publishedOn": "2022-03-13T20:50:40.000Z",
-          "wordCount": 334,
-          "title": "抗がん剤の効果予測に役立つオルガノイド培養技術を開発＝慶應大",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]

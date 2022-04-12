@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-12T08:00:47.294Z</updated>
+    <updated>2022-04-12T09:00:53.508Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS OpsWorks for Configuration Management が Puppet Enterprise をサポート]]></title>
+        <id>ef84c8d4d14d51fc54c160696eca22b7c3a12ca2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/"/>
+        <updated>2022-04-12T08:53:23.000Z</updated>
+        <summary type="html"><![CDATA[AWS OpsWorks for Configuration Management が Puppet Enterprise LTS バージョン 2019.8.10 をサポートするようになりました。お客様は、個別にスケジュールした毎週のシステムメンテナンス期間中に更新を自動的に受け取ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が Microsoft Azure Active Directory と Microsoft Power BI とのネイティブ統合を発表]]></title>
+        <id>9ad459bac0035ebb37d126af2ab8bd2f7a541ecc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/"/>
+        <updated>2022-04-12T08:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift が Microsoft Azure Active Directory (AD) とのネイティブ統合を提供するようになり、Microsoft Power BI などのツールでの認証と認可が可能になりました。Azure AD を使用して Amazon Redshift へのアクセスを認証することができるようになったので、エンドユーザーは、Azure AD で定義されたグループメンバーシップに基づいてアクセス許可を取得できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポート]]></title>
+        <id>05f3834bf41e4b319ce95915abc313cfd8c574a3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/"/>
+        <updated>2022-04-12T08:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポートするようになりました。この新機能では、プライマリインスタンス上で作成、変更、または削除された SQL Server エージェントジョブがマルチ AZ 構成内のセカンダリインスタンスに自動的に同期されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift がロールベースのアクセスコントロール (RBAC) のサポートを発表]]></title>
+        <id>9aae947dc2833196a4db5f109b98392cbcb6e3ba</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/"/>
+        <updated>2022-04-12T08:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift がロールベースのアクセスコントロール (RBAC) をサポートするようになりました。RBAC は、Amazon Redshift のセキュリティ特権の管理を簡素化することのできる新しい機能強化です。RBAC の機能を使用すると、ユーザーのジョブロール/アクセス許可権限とデータの機密レベルに応じて、データへのエンドユーザーアクセスを広範なレベルまたは詳細なレベルで制御できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が AWS PrivateLink、AWS Transit Gateway、AWS Client VPN サービスのデータ転送料金の値下げを発表]]></title>
+        <id>3767efd174db958d771222bd28bd0db668a9584c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/"/>
+        <updated>2022-04-12T08:50:13.000Z</updated>
+        <summary type="html"><![CDATA[2022 年 4 月 1 日から、同じ AWS リージョン内のアベイラビリティーゾーン（AZ）間での AWS PrivateLink、AWS Transit Gateway、および AWS Client VPN のデータ転送が無料になります。以前は、これらのネットワークサービスを使用する際にアベイラビリティーゾーン間でデータを送信すると AZ 間のデータ転送料金が発生していました。この料金変更に伴い、これらのサービスの AZ 間のデータ転送は無料になり、マルチ AZ ワークロードを実行する際のコスト効果がさらに向上します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS で AWS Fargate 上の Windows コンテナでのコマンド実行が可能に]]></title>
+        <id>3f212ee784a875447f2665b5d597f8a0fec93a93</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/"/>
+        <updated>2022-04-12T08:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (Amazon ECS) Exec を使用して、AWS Fargate 上で実行する Windows コンテナでコマンドを実行できるようになりました。ECS Exec を使用すると、実行中のコンテナへのインタラクティブなシェルまたは単一コマンドによるアクセスが可能になり、問題のデバッグ、エラーの診断、1 回限りのダンプと統計の収集、コンテナ内のプロセスとのやり取りが簡単になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年4月12日　春というには暑すぎる・・・ ── 帰ってきた『技評ねこ部通信』]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0412</id>
@@ -4655,15 +4715,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <id>https://www.technologyreview.jp/n/2022/03/11/270876/</id>
         <link href="https://www.technologyreview.jp/n/2022/03/14/270876/"/>
         <updated>2022-03-13T21:18:59.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抗がん剤の効果予測に役立つオルガノイド培養技術を開発＝慶應大]]></title>
-        <id>https://www.technologyreview.jp/n/2022/03/12/270916/</id>
-        <link href="https://www.technologyreview.jp/n/2022/03/14/270916/"/>
-        <updated>2022-03-13T20:50:40.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
         </author>
