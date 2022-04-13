@@ -1484,46 +1484,6 @@
           "wordCount": 420,
           "title": "Amazon EC2 の X2idn および X2iedn インスタンスのご紹介",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cc7b0ff2c2add5b24cb6febde88dcea73a6c9a85",
-          "author": "aws@amazon.com",
-          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) で、MSK Connect のカスタム設定プロバイダーが利用可能になりました。この機能により、Amazon Secrets Manager のようなプロバイダーでシークレットを保存し、コネクタやワーカーの設定プロパティにパスワードやその他の認証情報を保存することを避けることができます。MSK Connect プラグインの一部として、Apache Kafka と互換性のある任意の ConfigProvider を提供し、これを使用して設定をフェッチすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/",
-          "publishedOn": "2022-03-14T15:33:35.000Z",
-          "wordCount": 260,
-          "title": "Amazon MSK Connect が外部シークレットと config プロバイダーによる設定のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ba17395b5adf6470dedadd3d5a4d8d8c84be444f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Comprehend は、機械学習を使用してテキストからインサイトを見つける自然言語処理 (NLP) サービスの 1 つです。本日より、Comprehend で Targeted Sentiment が提供されます。本機能、テキスト内のエンティティに対する感情（ポジティブ (肯定的) 、ネガティブ (否定的) 、ニュートラル (中立的) 、または混在）を識別することで、より詳細な感情のインサイトを提供する新しい API です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/",
-          "publishedOn": "2022-03-14T15:32:47.000Z",
-          "wordCount": 264,
-          "title": "Amazon Comprehend でエンティティベースの感情分析のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ec8f3af528dc24fda20032ca0adbd664e4c434d5",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 では、Amazon Machine Images (AMI) の所有者向けに「lastLaunchedTime」と呼ばれる新しいプロパティが追加されました。このプロパティ使用すれば、AMI の所有者は、AMI が EC2 インスタンスの起動に最後に使用されたときのタイムスタンプを表示できるのようになります。これにより、AMI の所有者は、AMI、特に公的に共有されている AMI の使用状況を理解し、AMI の廃止または登録解除について情報に基づいた決定を下すことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/",
-          "publishedOn": "2022-03-14T15:32:00.000Z",
-          "wordCount": 249,
-          "title": "Amazon EC2 が AMI を使用して最新のインスタンス起動のタイムスタンプを表示するための新しい AMI プロパティをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8b833c47cc3ced81e670e30d54439733c9788fed",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS for SQL Server で M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/",
-          "publishedOn": "2022-03-14T15:31:11.000Z",
-          "wordCount": 355,
-          "title": "Amazon RDS for SQL Server で M6i と R6i インスタンスのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3395,16 +3355,6 @@
           "wordCount": 194,
           "title": "React 18リリース候補版が公開。Automatic BatchingやServer-Side Renderingのストリーミング対応による速度向上、IE対応の終了など",
           "imageUrl": "https://www.publickey1.jp/2022/FNbam_uX0Ac45hh.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/vmware_7.html",
-          "author": null,
-          "description": "VMwareが提供するvSphereなどのシステムソフトウェアには、動作を保証する対応ハードウェアの一覧「Hardware Compatibility List」（HCL）が用意されています。 システムを構築する場合には、このHCLに掲載さ...",
-          "link": "https://www.publickey1.jp/blog/22/vmware_7.html",
-          "publishedOn": "2022-03-14T15:53:47.000Z",
-          "wordCount": 213,
-          "title": "VMware、自宅サーバ愛好家のために「動作保証はないけど動くらしい」非公式ハードウェアリストを作成開始、コミュニティに情報提供を呼びかけ",
-          "imageUrl": "https://www.publickey1.jp/2022/vmwarecomhcl.gif"
         }
       ]
     },
