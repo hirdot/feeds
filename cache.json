@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "45787c6debd0c9b58b1303ec661161f3e196af07",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK は、ウェブおよび Electron アプリケーションのデベロッパーに、実装をより高速にするとともに、一般的なブラウザと Chromium ランタイム間での一貫性を実現するための簡素化されたデベロッパーエクスペリエンスを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/",
+          "publishedOn": "2022-04-15T21:55:21.000Z",
+          "wordCount": 300,
+          "title": "JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4afe9aa0a5f1a8f5744771642865a33dcd2d0049",
+          "author": "aws@amazon.com",
+          "description": "本日、リソースの編成やコスト管理を簡素化する Amazon Personalize リソースのタグ付け機能のサポートを発表いたします。Amazon Personalize により、デベロッパーは、ML の専門知識を必要とせず、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。タグは、キーと値のペアの形式のラベルであり、個々の Amazon Personalize リソースに添付して、リソースを検索およびフィルタリングしたり、コストを割り当てたりすることができます。例えば、ウェブサイトのさまざまなユースケースにリンクされている複数のキャンペーンがある場合、キーを「ウェブサイト」に設定し、値を「ホームページ」または「詳細ページ」に設定することで、2 つのキャンペーンそれぞれの個別の支出を把握できます。また、この機能により、マルチテナントをデプロイする顧客は、エンドカスタマー間の支出を追跡することもできます。タグ付け機能は、データセットグループ、ソリューション、キャンペーン、レコメンダー、インポートジョブ、バッチ推論、バッチセグメントジョブ、その他のリソースなど、多数の Amazon Personalize リソースで利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/",
+          "publishedOn": "2022-04-15T18:01:28.000Z",
+          "wordCount": 241,
+          "title": "Amazon Personalize がリソースのタグ付け機能のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0f3f8e0d8a126fc9eb9c5b63826dd42177b71d62",
           "author": "aws@amazon.com",
           "description": "本日、アマゾン ウェブ サービス (AWS)は、AWS Single Sign-On (AWS SSO) が HIPAA (医療保険の相互運用性と説明責任に関する法律) に対応したことを発表しました。AWS SSO は、お客様がワークフォースアイデンティティを作成または接続し、AWS アカウント全体でアクセスを一元的に管理する場所です。HIPAA に対応するとは、HIPAA の対象となる顧客 (健康保険会社、医療提供者、医療クリアリングハウス、医療費を支払う政府プログラム、軍隊および退役軍人の医療プログラム、およびその従業員を含む) が、保護されるべき医療情報 (PHI) を保存、処理、または送信する AWS ワークロードを設定または管理するユーザー、あるいは PHI を利用する AWS SSO と統合されたアプリケーションにサインインするユーザーの認証と承認に AWS SSO を使用できることを意味します。",
@@ -1254,136 +1274,6 @@
           "wordCount": 277,
           "title": "Amazon Chime SDK が Amazon Lex 音声ボットのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "262d592c11415e6999cdfc83dc23f031ef4e10ee",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service は、Windows ワーカーノードで containerd コンテナランタイムをサポートするようになりました。containerd は、コンテナイメージの転送から実行、ストレージ、ネットワーク接続まで、ホストシステム上のコンテナライフサイクル全体を管理する軽量のコンテナランタイムです。Windows ワークロードを使用しているお客様は、Linux ベースのワーカーノードを実行しているお客様が利用できる containerd と同様のパフォーマンス、セキュリティ、および安定性のメリットを享受できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/",
-          "publishedOn": "2022-03-17T06:35:16.000Z",
-          "wordCount": 270,
-          "title": "Kubernetes 1.21 以降の EKS での containerd ランタイム向け Windows サポートの発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "af791d370fac533e6faa258a35030b8ebd0492fd",
-          "author": "aws@amazon.com",
-          "description": "AWS Network Firewall は、AWS GovCloud (米国東部) および AWS GovCloud (米国西部) リージョンについて FedRAMP High の認定を達成しました。これで、AWS Network Firewall を使用して、FedRAMP High の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/",
-          "publishedOn": "2022-03-17T06:34:28.000Z",
-          "wordCount": 284,
-          "title": "AWS Network Firewall が FedRAMP High コンプライアンスを達成",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5a8056f9653612e5b926f6e4d09efc936c3c4818",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (Amazon ECS) は、Amazon ECS Anywhere を使用して Windows オペレーティングシステムで実行されているオンプレミスワークロードの管理をサポートするようになりました。Amazon ECS Anywhere は、Amazon ECS の機能であり、お客様が、仮想マシン (VM)、ベアメタルサーバー、その他のカスタマーマネージドのインフラストラクチャなど、コンテナベースのアプリケーションをオンプレミスでより簡単に実行および管理することを可能にします。Windows 上で実行されているオンプレミスのコンテナ化されたワークロードを管理する必要があるお客様は、ECS Anywhere を使用してそれらをより簡単にオーケストレートできるようになりました。デベロッパーは、追加のコンテナオーケストレーションソフトウェアを実行したり、Windows ベースのワークロードを Linux OS 用に変換したりする必要がなくなりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/",
-          "publishedOn": "2022-03-17T06:33:39.000Z",
-          "wordCount": 264,
-          "title": "Amazon ECS が Windows OS でのオンプレミスワークロードオーケストレーションのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1f35a6eb4ac574bca425d33bf9bd0a686d715d54",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Chatbot を介して Slack と Amazon Chime で AWS Cost Anomaly Detection アラート通知を受信できるようになります。AWS Chatbot との統合により、Slack または Amazon Chime チャットチャネルを使用してコスト異常アラートサブスクリプションを簡単に設定できます。aこれにより、既存のチャットチャネル内で個々の AWS Cost Anomaly Detection アラートを受信できるようになり、コラボレーションの向上とアラートのタイムリーな解決がサポートされます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/",
-          "publishedOn": "2022-03-17T06:31:04.000Z",
-          "wordCount": 316,
-          "title": "AWS Cost Anomaly Detection が AWS Chatbot との統合をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "feea631d5ac33eca94db1029c39f9e3f59047f3c",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS for PostgreSQL が、mysql_fdw のサポートを追加しました。これにより、PostgreSQL データベースを接続して、個別の Amazon Aurora MySQL 互換、MySQL、および MariaDB データベースに保存されているデータを取得できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/",
-          "publishedOn": "2022-03-17T04:40:26.000Z",
-          "wordCount": 267,
-          "title": "Amazon RDS for PostgreSQL が、Amazon Aurora、MySQL、および MariaDB データベースの mysql_fdw 拡張機能のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0548dc3762b62c80652efa3749dba8a2df1d6bd9",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Location Service は、デベロッパー向けの 2 つの新しい HERE マップスタイル (HERE Explore と HERE Explore Truck) を追加しました。HERE Explore を使用すると、デベロッパーは、完全に設計された日本の地図を含めて、道路、建物、ランドマーク、および水の機能を特徴とする新しい世界地図を手に入れることができます。また、HERE Explore Truck を使用すると、デベロッパーは、トラックの制限と属性 (幅、高さ、HAZMAT など) を含むグローバルマップを HERE Explore の上に強調表示されたセグメントとアイコンで表示して、輸送やロジスティクスのユースケースをサポートできるようになります。例えば、適切な制限付きの最適な運転ルートを計算する必要がある配送トラックのフリートを管理しているお客様は、HERE Explore Truck を使用して、地図に表示される制限付きの運転ルートを確認できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/",
-          "publishedOn": "2022-03-17T04:39:39.000Z",
-          "wordCount": 293,
-          "title": "Amazon Location Service の 2 つの新しい HERE マップスタイルを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "033e06778395e0abd5e91aa5f855d48b1eca67f2",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポートするようになりました。以前のバージョンの PostgreSQL における既知のセキュリティの脆弱性を修正し、PostgreSQL のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。リリースの詳細については、PostgreSQL コミュニティの発表を参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/",
-          "publishedOn": "2022-03-17T04:37:56.000Z",
-          "wordCount": 278,
-          "title": "Amazon RDS for PostgreSQL が PostgreSQL マイナーバージョン 14.2、13.6、12.10、11.15、および 10.20 をサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b985f9d51f7d84b555b412484186ecc353790d48",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lookout for Vision が、すべての AWS のお客様に一般提供を開始を開始しました。選択したハードウェアデバイスに、トレーニング済みの Amazon Lookout for Vision モデルをデプロイし、クラウドに依存することなくローカルで推論を実行できます。トレーニング済みのモデルは、NVIDIA Jetson エッジアプライアンスまたは x86 コンピューティングプラットフォーム (NVIDIA GPU アクセラレーターを備えた Linux を実行しているもの) にデプロイできます。AWS IoT Greengrass を使用して、エッジ互換のカスタマイズされたモデルをデバイスのフリートにデプロイして管理できます。AWS IoT Greengrass は、オープンソースのエッジランタイムであり、デバイスソフトウェアを構築、デプロイ、管理するためのクラウドサービスです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/",
-          "publishedOn": "2022-03-17T04:34:55.000Z",
-          "wordCount": 330,
-          "title": "Amazon Lookout for Vision を使用してエッジでの製品欠陥の目視検査を自動化 - 一般提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f9a8e27daf87eeaa197060b62487e2ef9cd2b638",
-          "author": "aws@amazon.com",
-          "description": "AWS は、AWS AppConfig機能フラグの一般提供開始を発表いたしました。機能フラグを使用することで、新しい機能を安全かつ自信を持ってすばやく展開できます。AWS AppConfig は AWS Systems Manager の機能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/",
-          "publishedOn": "2022-03-17T04:32:14.000Z",
-          "wordCount": 252,
-          "title": "AWS AppConfig 機能フラグの一般提供開始を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c708eb361cf68800b84a3d8c65e361fb4443a9b1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。Amazon Voice Focus は人工知能を利用して、扇風機、芝刈り機、犬の鳴き声などの背景の雑音を低減することができます。本日より、デベロッパーは Amazon Chime SDK Public Switched Telephone Network (PSTN) の音声アプリケーションで Amazon Voice Focus を使用して、PSTN 音声通話における不要なノイズを低減することができます。ビルダーは、カスタマーサービスでの会話にこの機能を使用して、通話者のエクスペリエンスを向上させることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/",
-          "publishedOn": "2022-03-17T03:48:41.000Z",
-          "wordCount": 270,
-          "title": "Amazon Chime SDK が電話のノイズ削減機能 Amazon Voice Focus のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c243e2f62ea9ad3ead1f8c118e290775c573cbb9",
-          "author": "aws@amazon.com",
-          "description": "AWS IQ のエキスパートは、ワンクリックで提案を完了できるようになりました。これまで、追加の支払いが不要な場合でも、提案を終了するには最終的な支払いリクエストを送信する必要がありました。追加の支払いをリクエストすることなく、オープンプロポーザル内で [Complete] (完了) ボタンを選択することができるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/",
-          "publishedOn": "2022-03-17T03:47:52.000Z",
-          "wordCount": 228,
-          "title": "AWS IQ のエキスパートはワンクリックで提案の完了が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "56ba76c4bdffcd0a2fd1dd0250ef323785af9378",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (Amazon ECS) 向けの Amazon CloudWatch Container Insights が、AWS アジアパシフィック (大阪) とアジアパシフィック (ジャカルタ) リージョンで利用できるようになりました。Container Insights を使用すると、自動化されたダッシュボードを介して、コンテナ化されたアプリケーションやマイクロサービス環境のモニタリング、隔離、および診断ができます。これは、クラスター、サービス、タスク、コンテナなどの Amazon ECS および AWS Fargate リソースのパフォーマンスとヘルスを可視化するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/",
-          "publishedOn": "2022-03-17T03:47:02.000Z",
-          "wordCount": 269,
-          "title": "Amazon ECS 向けの Amazon CloudWatch Container Insights が AWS アジアパシフィック (大阪) とアジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "188335b823f714b8e1dd17d24b52457421543c2b",
-          "author": "aws@amazon.com",
-          "description": "3 つのアベイラビリティーゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた Amazon Relational Database Service (Amazon RDS) マルチ AZ 配置オプションが、米国東部 (オハイオ)とアジアパシフィック (東京) リージョンで利用可能となりました。このデプロイオプションには、最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒以下の自動フェイルオーバー、読み取り可能なスタンバイインスタンスが備わっています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/",
-          "publishedOn": "2022-03-17T03:46:12.000Z",
-          "wordCount": 328,
-          "title": "最大 2 倍高速のトランザクションコミットレイテンシーを備えた新しい Amazon RDS マルチ AZ オプションが米国東部 (オハイオ)とアジアパシフィック (東京) で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1908,26 +1798,6 @@
           "wordCount": 444,
           "title": "AI導入・データ活用にあたって知っておきたいイマのデータと5つのポイント",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/08/DTNJ_ai.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40286",
-          "author": "tadokoroyusuke",
-          "description": "素形材とは、金属素材に熱や力を加えることで、複雑な形状や高い強度を持つ部品を製造・共有する産業。鋳造、鍛造、プレスといった技により金属からセラミックス、プラスチックまで加工する素形材企業。DX化に舵を切った会社もあれば、 […]",
-          "link": "https://data.wingarc.com/sokeizai-dx-meti-40286?utm_source=rss&utm_medium=rss&utm_campaign=sokeizai-dx-meti",
-          "publishedOn": "2022-03-17T01:00:46.000Z",
-          "wordCount": 656,
-          "title": "中小製造業が取り組む現地・現物製DXの魅力とは？ 経済産業省主催「素形材産業のデジタル化オンラインセミナー」 イベントレポート",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/ea0ea4eeac94b994c46ad274b297f02c.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37675",
-          "author": "BunkiMIyata",
-          "description": "「三人寄れば文殊の知恵」ということわざの通り、人間の知性はコミュニティと接続されることで何倍もの力を発揮します。しかし、日本には「船頭多くして船山に上る」という言葉も。「合意形成を重視するあまりスピード感を持って動けない […]",
-          "link": "https://data.wingarc.com/allabout_daci-model-37675?utm_source=rss&utm_medium=rss&utm_campaign=allabout_daci-model",
-          "publishedOn": "2022-03-16T23:10:55.000Z",
-          "wordCount": 456,
-          "title": "意思決定フレームワーク DACIモデルとは？ RACI、RAPIDとの違いや、活用の4ステップを解説！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/01/DTNJ_DACI.jpg"
         }
       ]
     },
@@ -2241,26 +2111,6 @@
           "wordCount": 689,
           "title": "QCon Software Development Conference - 見逃せない7つのトラック",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/gcp-architecture-diagram-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近、Googleはアーキテクチャダイアグラムツールをリリースした。これにより、利用可能なGoogle Cloud Platform（GCP）サービスを使ったソリューションアーキテクチャのアーキテクチャダイアグラムを作成できる。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/gcp-architecture-diagram-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-17T03:49:00.000Z",
-          "wordCount": 1211,
-          "title": "アーキテクチャダイアグラム作成ツールを使うことでGoogle Cloudソリューションアーキテクチャの設計が容易に",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/customer-carbon-footprint-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "AWSは最近、新たな顧客向けカーボンフットプリントツールをリリースした。顧客は実行する処理による環境への影響を計算できるようになる。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/customer-carbon-footprint-tool/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-17T03:44:00.000Z",
-          "wordCount": 605,
-          "title": "新たなカスタマーカーボンフットプリントツールで、AWS上での処理が環境へ与える影響を軽減",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2629,16 +2479,6 @@
           "wordCount": 343,
           "title": "2022年3月22日　寒の戻り ── 帰ってきた『技評ねこ部通信』",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202203/17",
-          "author": "傍島康雄",
-          "description": "2022年3月第3週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202203/17",
-          "publishedOn": "2022-03-17T00:15:40.000Z",
-          "wordCount": 452,
-          "title": "2022年3月第3週　陽春の候，Androidはアップデートの花が咲く ── Android Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         }
       ]
     },
@@ -2928,26 +2768,6 @@
           "wordCount": 357,
           "title": "Better Stimulusガイド:アーキテクチャ2: コントローラはコンフィグ可能にしよう（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/better_stimulus_architecture_configurable_controller_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_17/46482",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2017/10/rails_service_object_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Essential RubyOnRails patterns — part 1: Service Objects 公開日: 2017/06/13 著者: Błażej Kosmowski サイト: selleo.com パターンの種別は原則として英語表記にしました。 2017/10/16: 初版公開 2022/03/17: 更新 Railsで重要なパターンpart 1: Service Object（翻訳） Service Object（単にServiceと呼ばれることもあります）は、肥大化したActiveRecordモデルを分割し↓、コントローラをスリ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_17/46482\" data-wpel-link=\"internal\" target=\"_self\">Railsで重要なパターンpart 1: Service Object（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_17/46482",
-          "publishedOn": "2022-03-17T08:32:33.000Z",
-          "wordCount": 478,
-          "title": "Railsで重要なパターンpart 1: Service Object（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2017/10/rails_service_object_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_17/115294",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_comparison_with_webpacker_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: jsbundling-rails/comparison_with_webpacker.md at main · rails/jsbundling-rails 原文更新日: 2022/03/10（fa1ed8a） ライセンス: MIT 表記の大文字小文字は「Webpacker」「Shakapacker」「webpack」「jsbundling-rails」「cssbundling-rails」に統一しました。また、読みやすさのため書式を変更しています。 Rails: Webpacker（Shakapacker）とjsbundling-railsの比 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_17/115294\" data-wpel-link=\"internal\" target=\"_self\">Rails: Webpacker（Shakapacker）とjsbundling-railsの比較（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_17/115294",
-          "publishedOn": "2022-03-17T08:30:11.000Z",
-          "wordCount": 335,
-          "title": "Rails: Webpacker（Shakapacker）とjsbundling-railsの比較（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_comparison_with_webpacker_eyecatch-min.png"
         }
       ]
     },
@@ -3473,6 +3293,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/15/273461/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/15/273461/",
+          "publishedOn": "2022-04-15T10:06:06.000Z",
+          "wordCount": 339,
+          "title": "塩分による高血圧から骨粗しょう症発症の仕組みを解明＝東北大",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/04/15/273460/",
           "author": "MIT Technology Review Japan",
