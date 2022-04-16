@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T22:00:40.281Z</updated>
+    <updated>2022-04-16T00:00:51.196Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Fargate でアプリケーションのより高速なスケーリングが可能に]]></title>
+        <id>2558dad38dd720e2f6f04142daeb32fc4fbcbcc7</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/"/>
+        <updated>2022-04-15T22:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate により、お客様は、アプリケーションをより高速にスケーリングできるようになりました。これにより、パフォーマンスが向上し、待機時間が短縮されます。昨年、アプリケーションを最大 16 倍高速にスケールできるようにするいくつかの改善を行いました。これにより、Fargate での大規模なアプリケーションの構築と実行が容易になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP でシングルアベイラビリティーゾーンデプロイオプションを導入]]></title>
+        <id>160c4025724873e553a7195d1179612a51a9179e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/"/>
+        <updated>2022-04-15T22:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP は、シングルアベイラビリティーゾーン (AZ) デプロイをサポートするようになりました。シングル AZ ファイルシステムは、マルチ AZ ファイルシステムのデータ回復モデルを必要としないユースケース向けに設計されています (開発とテストのワークロードの実行、オンプレミスや他の AWS リージョンに既に保存されているデータのセカンダリコピーの保存など)。シングル AZ ファイルシステムは、これらのユースケースでマルチ AZ ファイルシステムよりも低コストのストレージオプションを提供すると同時に、すべてのデータ管理機能を同じように提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK を発表]]></title>
         <id>45787c6debd0c9b58b1303ec661161f3e196af07</id>

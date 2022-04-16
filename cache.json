@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "2558dad38dd720e2f6f04142daeb32fc4fbcbcc7",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate により、お客様は、アプリケーションをより高速にスケーリングできるようになりました。これにより、パフォーマンスが向上し、待機時間が短縮されます。昨年、アプリケーションを最大 16 倍高速にスケールできるようにするいくつかの改善を行いました。これにより、Fargate での大規模なアプリケーションの構築と実行が容易になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/",
+          "publishedOn": "2022-04-15T22:07:21.000Z",
+          "wordCount": 269,
+          "title": "AWS Fargate でアプリケーションのより高速なスケーリングが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "160c4025724873e553a7195d1179612a51a9179e",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for NetApp ONTAP は、シングルアベイラビリティーゾーン (AZ) デプロイをサポートするようになりました。シングル AZ ファイルシステムは、マルチ AZ ファイルシステムのデータ回復モデルを必要としないユースケース向けに設計されています (開発とテストのワークロードの実行、オンプレミスや他の AWS リージョンに既に保存されているデータのセカンダリコピーの保存など)。シングル AZ ファイルシステムは、これらのユースケースでマルチ AZ ファイルシステムよりも低コストのストレージオプションを提供すると同時に、すべてのデータ管理機能を同じように提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/",
+          "publishedOn": "2022-04-15T22:01:29.000Z",
+          "wordCount": 283,
+          "title": "Amazon FSx for NetApp ONTAP でシングルアベイラビリティーゾーンデプロイオプションを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "45787c6debd0c9b58b1303ec661161f3e196af07",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。JavaScript 3.0 および React Components 3.0 用の Amazon Chime SDK は、ウェブおよび Electron アプリケーションのデベロッパーに、実装をより高速にするとともに、一般的なブラウザと Chromium ランタイム間での一貫性を実現するための簡素化されたデベロッパーエクスペリエンスを提供します。",
