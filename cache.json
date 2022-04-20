@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "46a0061a0d0545a51df8f29f2fb3dd7e53303243",
+          "author": "aws@amazon.com",
+          "description": "Amazon Aurora MySQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/",
+          "publishedOn": "2022-04-20T13:39:21.000Z",
+          "wordCount": 250,
+          "title": "設定の変更が可能な暗号スイートが Amazon Aurora MySQL に利用可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "78dc2917d242d9576824ceaa459698d1c3a17032",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kinesis Data Firehose は、Coralogix へのストリーミングデータ配信をサポートするようになりました。これにより、Coralogix ユーザーは、アプリケーションの管理やコードの記述なしにストリーミングデータを取り込むことができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/",
+          "publishedOn": "2022-04-20T13:31:21.000Z",
+          "wordCount": 274,
+          "title": "Amazon Kinesis Data Firehose が Coralogix に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a468f5227660deb2a4b5784e272d046c8f376679",
+          "author": "aws@amazon.com",
+          "description": "AWS アジアパシフィック (ジャカルタ) リージョンで Service Quotas をご利用いただけるようになりました。これにより、AWS ワークロードの増加に合わせて Service Quotas を表示して、大規模に管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/",
+          "publishedOn": "2022-04-20T12:26:21.000Z",
+          "wordCount": 278,
+          "title": "Service Quotas が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0eb8ffba5540fafbe7d684d4aecdd11d4665d2b5",
+          "author": "aws@amazon.com",
+          "description": "Amazon Interactive Video Service (Amazon IVS) は、インドネシアのジャカルタとフィリピンのマニラの最初の POP (Point Of Presence) を発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/",
+          "publishedOn": "2022-04-20T12:18:21.000Z",
+          "wordCount": 264,
+          "title": "インドネシアおよびフィリピンで Amazon Interactive Video Service のエッジロケーションが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9566d7bde35034dbb07a3c7ddc2f618bd4d03889",
+          "author": "aws@amazon.com",
+          "description": "AWS PrivateLink を使用して、仮想プライベートクラウド (AmazonVPC) から AWS Batch API へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、VPC、AWS のサービス、オンプレミスネットワーク間のプライベート接続を提供します。これで、AWS PrivateLink を使用して VPC で AWS Batch リソースを管理し、組織のセキュリティとコンプライアンスの要件を満たすことができるようになりました。AWS PrivateLink を使用するには、Amazon VPC コンソール、SDK、または CLI を使用して、VPC で AWS Batch のインターフェイス VPC エンドポイントを作成します。また、AWS VPN、AWS Direct Connect、VPC ピアリングのいずれかを使用して、オンプレミス環境またはその他の VPC から VPC エンドポイントにアクセスすることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/",
+          "publishedOn": "2022-04-20T12:12:21.000Z",
+          "wordCount": 273,
+          "title": "AWS Batch が、AWS PrivateLink のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6ef710ed3e8eb519a60f41a7b241684987dee99f",
           "author": "aws@amazon.com",
           "description": "AWS DataSync が、Amazon FSx for OpenZFS との間でファイル転送をサポートするようになりました。これは、オープンソースの OpenZFS ファイルシステム上に構築された、信頼性が高く、スケーラブルで、パフォーマンスが高く、機能豊富なファイルストレージを提供するフルマネージドサービスです。DataSync を使用すると、オンプレミスのファイルまたはオブジェクトストレージを FSx for OpenZFS に簡単かつ安全に移行したり、FSx for OpenZFS とオンプレミスストレージまたは AWS ストレージサービスの間でデータの継続的な転送を実行したりできます。また、DataSync を使用して、FSx for OpenZFS ファイルシステムとの間でデータを移動することもできます。",
@@ -1444,16 +1494,6 @@
           "wordCount": 285,
           "title": "Amazon Chime SDK が Amazon Polly のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f619ce05729395fb99cca8cbfd3515e4fffc5852",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を利用することで、デベロッパーは、リアルタイムの音声、動画、画面共有、およびメッセージング機能をウェブアプリケーションまたはモバイルアプリケーションに追加できます。Amazon Lex は、自動音声認識と自然言語理解テクノロジーを提供するため、会話型インターフェースを構築できます。本日より、Amazon Chime SDK と Amazon Lex の統合を開始し、ビルダーが公衆電話網との間の通話用の会話型インターフェイスを開発できるようにいたします。この統合により、音声通信に Session Initiation Protocol (SIP) を使用するコンタクトセンターで会話体験を簡単に作成できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/",
-          "publishedOn": "2022-03-22T09:31:17.000Z",
-          "wordCount": 277,
-          "title": "Amazon Chime SDK が Amazon Lex 音声ボットのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1519,6 +1559,36 @@
       "feedUrl": "https://data.wingarc.com/feed",
       "siteUrl": "https://data.wingarc.com",
       "articles": [
+        {
+          "id": "https://data.wingarc.com/?p=41682",
+          "author": "石川麻里",
+          "description": "石川県は、北陸地方の中部、日本海に面した地域で北陸新幹線が開通し、利便性が向上したことや質の高い食文化や暮らしやすさなどから観光や移住先として注目が高まっています。 そんな石川県は、従来からの少子高齢化や都市部への人口流 […]",
+          "link": "https://data.wingarc.com/local-dx-lab-ishikawa-41682?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-ishikawa",
+          "publishedOn": "2022-04-20T14:01:21.000Z",
+          "wordCount": 573,
+          "title": "石川県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/dx_ishikawa_top.jpg"
+        },
+        {
+          "id": "https://data.wingarc.com/?p=41716",
+          "author": "石川麻里",
+          "description": "富山県は、本州の中央北部に位置し、3,000m級の山々が連なる立山連峰から水深1,000mを越える富山湾など、変化に富んだ地形と四季の移り変わりの鮮明さが特徴の地域です。 農業は良質米として評価の高いコシヒカリや出荷量日 […]",
+          "link": "https://data.wingarc.com/local-dx-lab-toyama-41716?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-toyama",
+          "publishedOn": "2022-04-20T13:58:58.000Z",
+          "wordCount": 592,
+          "title": "富山県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/dx_toyama_top.jpg"
+        },
+        {
+          "id": "https://data.wingarc.com/?p=41718",
+          "author": "石川麻里",
+          "description": "福井県は越前海岸や若狭湾から奥越の山々まで海と山が近く、また田園の広がる平野や清流をたたえる河川・湖沼も有するなど「越山若水」と称される豊かな自然と景観に恵まれた地域です。 食材は「コシヒカリ」、「越前がに」などが有名で […]",
+          "link": "https://data.wingarc.com/local-dx-lab-fukui-41718?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-fukui",
+          "publishedOn": "2022-04-20T13:56:11.000Z",
+          "wordCount": 547,
+          "title": "福井県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/dx_fukui_top.jpg"
+        },
         {
           "id": "https://data.wingarc.com/?p=37319",
           "author": "大藤 ヨシヲ",
@@ -1948,26 +2018,6 @@
           "wordCount": 419,
           "title": "【書評】正しい意思決定を助けるWRAPプロセスとは？ 決定力！ 正しく選択するための4つのステップ",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/08/008677630e1b88ef64674d3799a17d11.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37328",
-          "author": "BunkiMIyata",
-          "description": "想像してください。 朝──スマホのアラームで目覚めたあなたは、洗面台に向かい、顔を洗います。清潔なタオルで顔を拭いたら、冷凍しておいたごはんを電子レンジで解凍。さらに、コンロで味噌汁を温めはじめました。リモコンで起動した […]",
-          "link": "https://data.wingarc.com/review-of-the-knowledge-illusion-37328?utm_source=rss&utm_medium=rss&utm_campaign=review-of-the-knowledge-illusion",
-          "publishedOn": "2022-03-22T05:00:39.000Z",
-          "wordCount": 470,
-          "title": "【書評】知性は個人の脳の中だけのもの？ 「コミュニティの知性」を知ろう『知ってるつもり 無知の科学』",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/01/3fde7c1aa45b7b36f31c80957057200c.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39947",
-          "author": "野島光太郎",
-          "description": "東日本旅客鉄道（JR東日本）が今、大きな転換期を迎えようとしている。鉄道を中心とした輸送サービスだけでなく、生活サービスへと質的な変革を目指しているのだ。そのためにデータを武器にしたマーケティングにも力を入れていくという […]",
-          "link": "https://data.wingarc.com/shibuyanaomasa_kidahiromasa_01-39947?utm_source=rss&utm_medium=rss&utm_campaign=shibuyanaomasa_kidahiromasa_01",
-          "publishedOn": "2022-03-22T01:00:13.000Z",
-          "wordCount": 592,
-          "title": "三井住友海上CMOが訊く、 JR東日本の“ユーザ中心のあたらしい生活サービス” 構築への挑戦",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/jreast_shibuyanaomasa.jpg"
         }
       ]
     },
@@ -2261,26 +2311,6 @@
           "wordCount": 1204,
           "title": "NetflixのRENOがデバイス間で一貫したエクスペリエンスを実現する",
           "imageUrl": "https://cdn.infoq.com/statics_s2_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/aws-backup-s3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Amazonは最近、AWS Backup for Amazon S3の一般提供を発表した。これは、S3にデータを保存するアプリケーション向けのデータ保護を一元化するためのマネージドオプションである。この新機能では、S3でのアプリケーションデータのバックアップと復元が自動化される。その際、インスタンスやデータベースなど他のサービスのバックアップと組み合わせることができる。\n By Renato Losio  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/aws-backup-s3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-22T02:01:00.000Z",
-          "wordCount": 1205,
-          "title": "AWS Backup for AmazonS3が一般提供へ",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/java-news-roundup-mar07-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週、2022年3月7日のJavaラウンドアップは、OpenJDK、JDK 19、Jakarta EE 10、Spring Cloudサブプロジェクトの最新情報、OpenJDK 17で非同期バッファリングログを実現するAmazon Corretto、Apache Groovy 3.0.10と2.5.16、Apache Camel 3.14.2、JRelease早期アクセス、JobRunr 4.0.10、JDKMon 17.0.23、FailSafe 3.2.3といった話題でお届けする。\n By Michael Redlich  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/03/java-news-roundup-mar07-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-22T01:58:00.000Z",
-          "wordCount": 1454,
-          "title": "Java Newsラウンドアップ - JDK 19とJakarta EE 10のアップデート、Amazon Correttoの非同期バッファログ",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2649,16 +2679,6 @@
           "wordCount": 416,
           "title": "2022年3月第4週　格安入手をキッカケにChromebookデビューしました ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0322",
-          "author": null,
-          "description": "寒い！ようやく暖かくなってきたと思ったのに！と思ったあなたと同じ気持ちのねこ部です。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202203/0322",
-          "publishedOn": "2022-03-22T06:00:00.000Z",
-          "wordCount": 343,
-          "title": "2022年3月22日　寒の戻り ── 帰ってきた『技評ねこ部通信』",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         }
       ]
     },
@@ -2957,16 +2977,6 @@
           "wordCount": 493,
           "title": "Crystal言語作者がRubyを愛する理由（3）ほぼすべてがメソッド呼び出し（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_almost_everything_a_call_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/morimorihoge/2022_03_22/116472",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/ginza_rails40_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>morimorihogeです。色々と私的な面倒ごとが重なりレポートを書くのが遅くなってしまいましたが、銀座Rails#40の開催レポートになります。 銀座Railsについて 銀座Railsは3年以上継続して毎月開催されているRuby/Rails勉強会・発表コミュニティです。 技術的な内容にこだわらず、コミュニティ活動やRails開発者が興味を持つような開発一般の周辺トピックを扱っています。 過去の開催についてはConnpassのサイトをご覧ください。 Connpass: 銀座Rails 銀座Rails開催レポート バックナンバー 銀座Rails #39 開催レポート 銀座Rails #38 開催レポート 銀座Ra [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2022_03_22/116472\" data-wpel-link=\"internal\" target=\"_self\">銀座Rails #40 開催レポート</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/morimorihoge/2022_03_22/116472",
-          "publishedOn": "2022-03-22T04:58:08.000Z",
-          "wordCount": 383,
-          "title": "銀座Rails #40 開催レポート",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/ginza_rails40_eyecatch-min.png"
         }
       ]
     },
@@ -2975,6 +2985,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/jamnetlifydenonetlify_edge_functionsdeno_deploynextjsnuxtsveltekitremix.html",
+          "author": null,
+          "description": "Webホスティングサービスを提供するNetlifyは、Denoを採用した新しいサーバレス環境「Netlify Edge Functions」をパブリックベータとして公開しました。 We know some of you have been ...",
+          "link": "https://www.publickey1.jp/blog/22/jamnetlifydenonetlify_edge_functionsdeno_deploynextjsnuxtsveltekitremix.html",
+          "publishedOn": "2022-04-20T16:24:00.000Z",
+          "wordCount": 243,
+          "title": "JAMスタックのNetlify、Denoを採用したサーバレス環境「Netlify Edge Functions」ベータ公開。Deno Deployの分散エッジでNext.js/Nuxt/SvelteKit/Remixなど実行",
+          "imageUrl": "https://www.publickey1.jp/2022/XzgPWuqs.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/googleappsheetapps_scriptappsheetgoogle_workspace.html",
           "author": null,
@@ -3502,6 +3522,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/20/274036/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/21/274036/",
+          "publishedOn": "2022-04-20T21:24:16.000Z",
+          "wordCount": 334,
+          "title": "新型コロナ「第4のワクチン」承認、武田が国内で製造",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/20/274021/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/21/274021/",
+          "publishedOn": "2022-04-20T21:07:09.000Z",
+          "wordCount": 336,
+          "title": "宇宙線中の鉄・ニッケル成分の高精度な観測に成功＝早稲田大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=273452",
           "author": "James Temple",
