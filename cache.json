@@ -6,6 +6,126 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "1687933e2c424b3cfb9bb215914e09ddff9556a4",
+          "author": "aws@amazon.com",
+          "description": "2022 年 1 月の最終更新以降、AWS CloudFormation Registry を拡張し、2022 年 1 月から 3 月の間に 35 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラー許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code として扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョニング、および管理できるようになりました。さらに、1 つの新しい AWS のサービス (AWS Billing Conductor) がリリース日に CloudFormation のサポートを追加したことをお知らせします。CloudFormation は、170 を超える AWS のサービス、900 を超えるリソースタイプ、および 40 を超えるサードパーティーのリソースタイプをサポートしています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/",
+          "publishedOn": "2022-04-21T15:33:53.000Z",
+          "wordCount": 322,
+          "title": "CloudFormation Registry に 35 の新しいリソースタイプを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "50f5eb2ca709ed03ec444c9b3a96e223944f3da2",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Marketplace は、2021 年 11 月に開始された、AMI およびコンテナ製品の前払い契約価格に関する既存のコミットメントを簡単にアップグレードおよび/または更新する機能を開始しました。現在、バイヤーは既存の契約を自動更新したり、コミットメントのライセンス数を増やしたりすることを選択できるため、絶えず変化するビジネスニーズに対応し、AWS でのワークロードの拡大に対応できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/",
+          "publishedOn": "2022-04-21T15:27:54.000Z",
+          "wordCount": 227,
+          "title": "AWS Marketplace のお客様は、AMI およびコンテナの事前契約価格ベースのサブスクリプションを変更できるようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "713c310bfadb4eae7039ad3ef8bc27772facede1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Interactive Video Service (Amazon IVS) コンソールおよび動画ストリームリソースの制御や作成を行う API が、アジアパシフィック (ムンバイ)、アジアパシフィック (東京)、アジアパシフィック (ソウル)、米国東部 (バージニア北部)、米国西部 (オレゴン)、欧州 (フランクフルト) リージョンで利用可能になりました。動画の取り込みと配信は、ライブ動画用に最適化されたインフラストラクチャによる、専用のマネージド型ネットワークを介して世界中どこでも行えます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/",
+          "publishedOn": "2022-04-21T15:21:53.000Z",
+          "wordCount": 294,
+          "title": "Amazon Interactive Video Service コンソールと API が 4 つの追加リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "be5355307ffdf743006e51e3830c3b35928c2d17",
+          "author": "aws@amazon.com",
+          "description": "Amazon EKS、Amazon ECR、Dynamo DB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 用 Kubernetes (ACK) コントローラーの AWS コントローラーが一般提供を開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/",
+          "publishedOn": "2022-04-21T15:13:53.000Z",
+          "wordCount": 263,
+          "title": "Amazon EKS、Amazon ECR、Amazon DynamoDB、Amazon S3、AWS Application Autoscaling、AWS API Gateway v2 の ACKコントローラーが一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4cb15d092cc7850d448dcc271cd828f1b2171eb5",
+          "author": "aws@amazon.com",
+          "description": "AWS DataSync が AWS アジアパシフィック (ジャカルタ) リージョンでご利用いただけるようになりました。DataSync は、Network File System (NFS) 共有、Server Message Block (SMB) 共有、セルフマネージドオブジェクトストレージ、Hadoop Distributed File System (HDFS)、AWS Snowcone、Amazon Simple Storage Service (Amazon S3) バケット、Amazon Elastic File System (Amazon EFS) ファイルシステム、Amazon FSx for Windows ファイルサーバーのファイルシステム、そして Amazon FSx for Lustre ファイルシステムとの間でデータをコピーできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-datasync-asia-pacific-jakarta/",
+          "publishedOn": "2022-04-21T14:17:53.000Z",
+          "wordCount": 291,
+          "title": "AWS DataSync が、AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d763389aec113994c7c43eb5fcf9113e03ee116d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift は、新たに機能が強化された監査ログを提供するようになりました。これにより、レイテンシーを最小限に抑えながら、Amazon CloudWatch を新しいログの送信先として追加することで、分析用のログの配信を高速化できます。このリリースでは、お客様は監査ログを Amazon CloudWatch に直接ストリーミングすることを選択できます。これにより、お客様はリアルタイムのモニタリングを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-enhancements-audit-logging/",
+          "publishedOn": "2022-04-21T14:11:53.000Z",
+          "wordCount": 267,
+          "title": "Amazon Redshift が監査ログの新たな機能強化を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ed9abc1bc060fb13920b570c56da093640953f06",
+          "author": "aws@amazon.com",
+          "description": "次世代の Amazon FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、アジアパシフィック (シンガポール)、欧州 (ロンドン) の 3 つの追加の AWS リージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/",
+          "publishedOn": "2022-04-21T14:05:53.000Z",
+          "wordCount": 270,
+          "title": "次世代の FSx for Lustre ファイルシステムが、アジアパシフィック (シドニー)、欧州 (ロンドン)、およびアジアパシフィック (シンガポール) の各 AWS リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "53ad1734c1d6cdd9ab4a770d8657b07dcc2dcd3e",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for OpenZFS ファイルシステムが、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の 3 つの追加の AWS リージョンで起動できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/",
+          "publishedOn": "2022-04-21T13:59:53.000Z",
+          "wordCount": 268,
+          "title": "Amazon FSx for OpenZFS が、欧州 (ロンドン)、アジアパシフィック (シドニー)、およびアジアパシフィック (シンガポール) の各リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8f5d8217569dde6fcfa5b0888d92ab17832573ca",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra Quip コネクタを使用して、Quip リポジトリ内のドキュメントのインデックス作成と検索を行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/",
+          "publishedOn": "2022-04-21T13:53:53.000Z",
+          "wordCount": 257,
+          "title": "Amazon Kendra が Quip Connector をリリースし、Quip リポジトリでドキュメント検索を可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5587a223f1e55f23793cae20570390dc948ce84c",
+          "author": "aws@amazon.com",
+          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、新しいオーストリアドイツ語のニューラルボイスである Hannah の一般提供を発表できることを嬉しく思います。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-launches-austrian-german-neural-text-speech-voice/",
+          "publishedOn": "2022-04-21T13:47:53.000Z",
+          "wordCount": 231,
+          "title": "Amazon Polly で新しいオーストリアドイツ語のニューラルテキスト読み上げ音声を新たにローンチ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4b27ad378e85eeb5924cc393b5acf2765047a768",
+          "author": "aws@amazon.com",
+          "description": "2022 年 4 月 19 日、Amazon は OpenJDK の Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 18.0.1、17.0.3、11.0.15 および 8u332 のダウンロードが可能となりました。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-corretto-april-2022-quartely-updates/",
+          "publishedOn": "2022-04-21T13:41:53.000Z",
+          "wordCount": 250,
+          "title": "Amazon Corretto が四半期更新情報を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2b0957ae8bd40d5fd15cf4f3c267d0541b8ed56f",
+          "author": "aws@amazon.com",
+          "description": "スケーラブルで可用性が高く、フルマネージドの Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) は、オープンソースの Spark Cassandra Connector を使用して、Apache Spark でのデータの読み取りと書き込みをより簡単に行えるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/",
+          "publishedOn": "2022-04-21T13:35:53.000Z",
+          "wordCount": 288,
+          "title": "Amazon Keyspaces により、Apache Spark でのデータの読み取りと書き込みがより簡単に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "46a0061a0d0545a51df8f29f2fb3dd7e53303243",
           "author": "aws@amazon.com",
           "description": "Amazon Aurora MySQL 互換エディションのデータベース接続を利用可能な暗号のリストから設定できるようになりました。設定の変更が可能な暗号スイートにより、データベースサーバーが受け付け可能な接続の暗号化についてより多くのセキュリティコントロールが可能になります。",
@@ -1848,36 +1968,6 @@
           "wordCount": 474,
           "title": "今日本でいわれているDXは近視眼？ 発案者エリック・ストルターマン氏の定義から 本当のDXについて考える！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/11/DTNJ_2020DX.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39631",
-          "author": "tadokoroyusuke",
-          "description": "テクノロジーやデータで、ビジネスや社会を変え、文化をつくりあげようとする越境者に寄り添うメディア「データのじかん」は、日本企業で急速に推進されているDXの課題が技術的な課題ではなく適応課題であると同時に、企業組織内でも様 […]",
-          "link": "https://data.wingarc.com/allabout_local-dx-lab-39631?utm_source=rss&utm_medium=rss&utm_campaign=allabout_local-dx-lab",
-          "publishedOn": "2022-03-23T08:46:44.000Z",
-          "wordCount": 1678,
-          "title": "47都道府県47色のDXの在り方を訪ねる LocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/da7b47275d43abda4ca9c4915d6d9cbe.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40390",
-          "author": "石川麻里",
-          "description": "BIツールが注目されている理由 人々の嗜好・行動が多様化したことで、企業が人・行動のデータを分析し、そこからインサイトを得るためのKSF（Key Success Factor = 重要成功要因）の一つとしてBIツールが注 […]",
-          "link": "https://data.wingarc.com/allabout_bitool_dl-40390?utm_source=rss&utm_medium=rss&utm_campaign=allabout_bitool_dl",
-          "publishedOn": "2022-03-23T07:53:25.000Z",
-          "wordCount": 595,
-          "title": "完全保存版 無料ホワイトペーパー「BIツールのトリセツ」 データのじかんResources",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/4bad7cbf4f0a3cbb8316b20421b2d833.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=33100",
-          "author": "BunkiMIyata",
-          "description": "たとえデータが潤沢でも、人は間違った意思決定をします。 たった一つの選択肢しかないと思い込んだり、自分のアイディアに愛情と時間をかけるあまり固執したり、変化を恐れて現状維持のまま手をこまねいたり……。 その原因は”正しい […]",
-          "link": "https://data.wingarc.com/allabout_warp_process-33100?utm_source=rss&utm_medium=rss&utm_campaign=allabout_warp_process",
-          "publishedOn": "2022-03-23T01:00:18.000Z",
-          "wordCount": 419,
-          "title": "【書評】正しい意思決定を助けるWRAPプロセスとは？ 決定力！ 正しく選択するための4つのステップ",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/08/008677630e1b88ef64674d3799a17d11.jpg"
         }
       ]
     },
@@ -2181,16 +2271,6 @@
           "wordCount": 2604,
           "title": "アーティクル: フルスタック開発者のためのBallerina: バックエンドAPI開発ガイド",
           "imageUrl": "https://res.infoq.com/articles/ballerina-fullstack-rest-api/ja/headerimage/generatedHeaderImage-1646298444299.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/netflix-reno/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Patrick Zhang",
-          "description": "Netflixは、多種多様なプラットフォームやデバイスにおいて一貫したユーザエクスペリエンスを実現するために、Rapid Event Notification System(RENO)を開発した。RENOは、タイトルの視聴からプロファイル情報の更新に至るまで、ユーザの実行したアクションに対して、従来の要求/応答モデルよりも迅速かつ確実に応答する。\n By Patrick Zhang  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/03/netflix-reno/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-23T01:38:00.000Z",
-          "wordCount": 1204,
-          "title": "NetflixのRENOがデバイス間で一貫したエクスペリエンスを実現する",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2288,16 +2368,6 @@
           "wordCount": 1199,
           "title": "ソフトウェアとクラウドサービスによる環境への影響の測定",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220325083528/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/sre-specialist-mindset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Aditya Kulkarni",
-          "description": "サイト信頼性エンジニア(SRE)には、ジェネラリストとスペシャリストがある。Blamelessのチームが先頃、SRE専門チームのアドバンテージを詳説した記事を発表した。SREのスペシャリスト的な性格については、その採用プロセスからも明らかである。個人の持つスキルセットに応じて、企業は、SREをさまざまな専門的役割に関与させることができるのだ。\n By Aditya Kulkarni  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/03/sre-specialist-mindset/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-03-23T01:43:00.000Z",
-          "wordCount": 597,
-          "title": "サイト信頼性エンジニアとスペシャリストのマインドセット",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220315-0339u1/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2445,16 +2515,6 @@
           "wordCount": 579,
           "title": "第49回　cgroup v2のリソース分配の方法とインターフェースファイルの操作 ── LXCで学ぶコンテナ入門 －軽量仮想化環境を実現する技術",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2014/thumb/TH800_1254_linux_containers.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0708",
-          "author": "あわしろいくや",
-          "description": "今回はGUIを使用してネットワークを設定する方法を紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0708",
-          "publishedOn": "2022-03-23T00:41:00.000Z",
-          "wordCount": 408,
-          "title": "第708回　GUIでネットワーク設定を行う ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
         }
       ]
     },
@@ -2887,16 +2947,6 @@
           "wordCount": 423,
           "title": "Better Stimulusガイド:アーキテクチャ3: ミックスイン（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/better_stimulus_architecture3_mixin_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_23/116406",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_almost_everything_a_call_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why I love Ruby: almost everything is a call &#8211; DEV Community 👩‍💻👨‍💻 原文公開日: 2022/03/01 原著者: Ary Borenszweig💻 &#8212; Crystal言語の作者のひとりです Crystal言語作者がRubyを愛する理由（3）ほぼすべてがメソッド呼び出し（翻訳） Ruby言語公式ページに、Matzによるこんな素敵な言葉が引用されています。 Rubyの外観はシンプルです。けれど、内側はとても複雑なのです。 それはちょうど私たちの身体と同じようなものです [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_23/116406\" data-wpel-link=\"internal\" target=\"_self\">Crystal言語作者がRubyを愛する理由（3）ほぼすべてがメソッド呼び出し（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_23/116406",
-          "publishedOn": "2022-03-23T08:30:39.000Z",
-          "wordCount": 493,
-          "title": "Crystal言語作者がRubyを愛する理由（3）ほぼすべてがメソッド呼び出し（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_almost_everything_a_call_eyecatch-min.png"
         }
       ]
     },
@@ -2905,6 +2955,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/sap_4.html",
+          "author": null,
+          "description": "SAPはモスクワにある同社クラウドのシャットダウンを決定し、ロシアの非制裁対象企業に対し、データの削除、送付、ロシア国外のデータセンターへの移行のいずれかを選択できるようにすると発表しました。 同社はロシアのウクライナ侵攻に反対するための制...",
+          "link": "https://www.publickey1.jp/blog/22/sap_4.html",
+          "publishedOn": "2022-04-21T15:43:44.000Z",
+          "wordCount": 159,
+          "title": "SAP、ロシアにあるクラウドのシャットダウンを決定。顧客はデータの削除もしくは送付、ロシア国外への移行のいずれかを選択",
+          "imageUrl": "https://www.publickey1.jp/2022/sap_ricon.gif"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/jamnetlifydenonetlify_edge_functionsdeno_deploynextjsnuxtsveltekitremix.html",
           "author": null,
@@ -3422,6 +3482,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/22/274194/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/22/274194/",
+          "publishedOn": "2022-04-21T21:57:00.000Z",
+          "wordCount": 335,
+          "title": "SAMeサプリの過剰摂取、体内時計に影響＝京大",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/22/274195/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/22/274195/",
+          "publishedOn": "2022-04-21T21:49:23.000Z",
+          "wordCount": 338,
+          "title": "森林分布が拡大・縮小する地域を高解像度で推定＝森林総研",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=273501",
           "author": "Lana Swartz",
@@ -4260,36 +4340,6 @@
           "publishedOn": "2022-03-23T21:11:45.000Z",
           "wordCount": 332,
           "title": "脳で想像したのと「同じ意味」の画像を表示、阪大が新技術",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/23/271687/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/23/271687/",
-          "publishedOn": "2022-03-23T06:58:54.000Z",
-          "wordCount": 337,
-          "title": "自動実験ロボとデータ科学の連携で材料開発を効率化＝NIMS",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=268538",
-          "author": "Siobhan Roberts",
-          "description": "コンピューター科学における最も重要な問題である「P対NP問題」を解くことができれば、無数の複雑な問題の解答を得られるかもしれない。だが、問題の提起から50年経った現在も、この問題を解けた人はいない。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
-          "link": "https://www.technologyreview.jp/s/268538/the-50-year-old-problem-that-eludes-theoretical-computer-science/",
-          "publishedOn": "2022-03-23T06:33:46.000Z",
-          "wordCount": 590,
-          "title": "50年越しの未解決問題 「P対NP問題」に挑む コンピューター科学者たち",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/02/09115012/nd21_pnp_problems-1a-1400x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/21/271525/",
-          "author": "hitoshi_sasada",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/23/271525/",
-          "publishedOn": "2022-03-23T04:53:43.000Z",
-          "wordCount": 319,
-          "title": "阪大、深層学習で薬剤耐性菌の画像検出に成功",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
