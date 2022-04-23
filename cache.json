@@ -1384,86 +1384,6 @@
           "wordCount": 278,
           "title": "Amazon Kendra の FSx Connector のリリースにより、Amazon FSx for Windows ファイルサーバーでインテリジェントな検索が可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "abf95bcc4efd6c307e0dcc9f17403323984996cd",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (「Chatbot」)、ビジュアルエージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は文法スロットタイプを導入します。音声認識文法仕様 (SRGS: Speech Recognition Grammar Specification) に準拠した XML 形式の文法を独自に作成し、会話の中で情報を収集することができるようになりました。また、文法ファイル内の ECMAScript タグを使用して意味解釈ルールを提供することも可能です。スロットタイプを使用して、既存の文法を Amazon Lex にポートできます。また、金融サービス、保険、通信などのドメインで一般的に使用されている業界文法をあらかじめ用意し、その一覧から選択することもできます。文法スロットタイプは、ユーザー入力の収集と後処理を細かく制御できるため、効果的なダイアログを管理することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/introducing-grammar-slot-type-amazon-lex/",
-          "publishedOn": "2022-03-25T06:35:46.000Z",
-          "wordCount": 248,
-          "title": "Amazon Lex で文法スロットタイプを導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e8f146704952332fd3e6b9a7128b565ab96aeead",
-          "author": "aws@amazon.com",
-          "description": "Amazon Corretto 18 の一般提供を開始しました。このバージョンは、最新の Java 機能リリース OpenJDK 18 をサポートしており、Linux、Windows、および macOS でご利用いただけます。Corretto 18 はダウンロードページからダウンロードできます。Amazon Corretto は、マルチプラットフォームで、本稼働に対応した、無料の OpenJDK ディストリビューションです。Corretto は、オープンソースライセンスに基づいて Amazon によって配信されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-corretto-18/",
-          "publishedOn": "2022-03-25T06:34:55.000Z",
-          "wordCount": 343,
-          "title": "Amazon Corretto 18 の一般提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a58343026a247bb2439daac866f0bded1df03435",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。プレゼンターは、1 万人の参加者にリアルタイムでメディアを配信できるようになりました。参加者は、既存の WebRTC 接続で「ステージ」に上がることができ、コンテンツを一瞬たりとも逃すことなくライブの会話に貢献することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/",
-          "publishedOn": "2022-03-25T06:34:07.000Z",
-          "wordCount": 257,
-          "title": "Amazon Chime SDK が最大 1 万人のライブ参加者とのセッションに対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "09a13aadca64544a1d357b1636869e8ed595380f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Transcribe Call Analytics は、コンタクトセンターのエージェントとマネージャーの生産性を向上させ、優れたカスタマーエクスペリエンスの提供に集中できるようにする、通話要約という新しい機械学習 (ML) 機能を発表しました。Transcribe Call Analytics API を使用すると、デベロッパーや独立系ソフトウェアベンダー (ISV) は、ML の専門知識を必要とせずに、音声記録を分析し、アプリケーションに通話分析を追加できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/",
-          "publishedOn": "2022-03-25T06:33:16.000Z",
-          "wordCount": 278,
-          "title": "Amazon Transcribe Call Analytics が機械学習による通話要約に対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7f25adf57aa0e94ed4737b7f70189487011d7fab",
-          "author": "aws@amazon.com",
-          "description": "Amazon EBS direct API が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になり、お客様はオンプレミスを含め、場所に関係なく、ブロックストレージデータの Amazon Elastic Block Store (EBS) スナップショットを作成することができるようになりました。お客様は、EBS direct API を使用して、災害対策などのユースケース用の EBS ボリュームへの復元がすばやく簡単にできる EBS スナップショットにオンプレミスのワークロードをバックアップすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ebs-direct-apis-jakarta/",
-          "publishedOn": "2022-03-25T06:32:11.000Z",
-          "wordCount": 287,
-          "title": "Amazon EBS direct API が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "70e717766bc5b22579cff816fdb81e7803e2219c",
-          "author": "aws@amazon.com",
-          "description": "今回から、AWS Cost Explorer と Cost and Usage Reports (CURs) で、Amazon Relational Database Service (Amazon RDS) の料金に対し、より詳細な請求ができるようになりました。Amazon RDS for MySQL、MariaDB、PostgreSQL、Oracle、および SQL Server のデータベースインスタンスでプロビジョニングされている Amazon RDS バックアップ、汎用、プロビジョンド IOPS、マグネティックストレージボリュームについての詳細が追加報告されています。請求書には、上記の Amazon RDS のリソースと機能に関するデータベースエンジンごとのコストの詳細な内訳が記載されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/",
-          "publishedOn": "2022-03-25T06:31:22.000Z",
-          "wordCount": 275,
-          "title": "Amazon RDS が RDS ストレージ、IOPS、バックアップ機能の項目別請求に対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "888e9eeb2e834646270f90553627eb0abd4c6026",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (Amazon ECS) では、Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling ウォームプールを Amazon ECS クラスターでご使用いただくことにより、アプリケーションのスケールアウトの高速化とコスト節約を支援できるようになりました。ウォームプールを使用すると、アプリケーショントラフィックを高速で処理できるように事前に初期化された Amazon EC2 インスタンスのプールを作成できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/",
-          "publishedOn": "2022-03-25T05:32:24.000Z",
-          "wordCount": 264,
-          "title": "Amazon ECS で Amazon EC2 Auto Scaling 向けのウォームプールのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ee093b005ed732d592a60ff32df8351d8fbcae2b",
-          "author": "aws@amazon.com",
-          "description": "AWS Amplify で、新しい @mapsTo GraphQL ディレクティブが利用できるようになりました。これにより、デベロッパーは、データの移行を心配することなく、GraphQL モデルの反復処理や名前の変更が可能です。AWS Amplify CLI は、フロントエンドデベロッパーがクラウドでアプリケーションバックエンドを作成するのに役立つコマンドラインツールチェーンです。Amplify の GraphQL Transformer を使用することで、デベロッパーは GraphQL スキーマ定義言語を使用してバックエンドデータモデルを構成できます。それにより、Amplify CLI が基盤となるデータベーステーブルを使用してに基づいて、スキーマが完全に機能する GraphQL API となるように自動的に変換します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/",
-          "publishedOn": "2022-03-25T05:31:19.000Z",
-          "wordCount": 264,
-          "title": "AWS Amplify で、手動でデータを移行せずに GraphQL API を反復処理できる新しい @mapsTo ディレクティブをサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1918,26 +1838,6 @@
           "wordCount": 325,
           "title": "【タイムくん–第123話】ゼロパーティデータ",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/123-1.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=36966",
-          "author": "大藤 ヨシヲ",
-          "description": "平均寿命が伸び、人生100年時代とも呼ばれる今、長い人生をいかに健康に生きるか、が大きな課題になっています。またコロナ禍を通して、多くの人が病気の影響力の大きさを実感する中で、健康であることの価値を再認識しています。 わ […]",
-          "link": "https://data.wingarc.com/allabout_me-byodx-36966?utm_source=rss&utm_medium=rss&utm_campaign=allabout_me-byodx",
-          "publishedOn": "2022-03-25T01:00:53.000Z",
-          "wordCount": 408,
-          "title": "人生100年時代に注目をあつめる「未病DX」とは？ 定義から実際の事例までご紹介",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/12/8b6a4548e5227e39e045a16a56d58c1b.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=34797",
-          "author": "BunkiMIyata",
-          "description": "私たちはどうすれば幸せになれるのか。 人間にとって普遍的な疑問であり、「その答えがわかれば苦労しないよ」とため息をついたかたもいるかもしれません。 その問いにデータを用いたアプローチで挑み、幸せになるための指針について、 […]",
-          "link": "https://data.wingarc.com/unpredictable-era-34797?utm_source=rss&utm_medium=rss&utm_campaign=unpredictable-era",
-          "publishedOn": "2022-03-24T23:00:29.000Z",
-          "wordCount": 359,
-          "title": "【書評】『予測不能の時代: データが明かす新たな生き方、企業、そして幸せ』 幸福を数値化してわかったこととは？",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/09/1e00769e26b19b2f1f77f65a7526aafa.jpg"
         }
       ]
     },
@@ -2495,26 +2395,6 @@
           "wordCount": 376,
           "title": "2022年3月29日　Debianプロジェクト，ポイントリリース「Debian 11.3」「Debian 10.12」を同時に公開 ── Linux Daily Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202203/25",
-          "author": "階戸アキラ",
-          "description": "Linus Torvaldsは3月20日（米国時間），「Linux 5.17」を正式公開した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202203/25",
-          "publishedOn": "2022-03-25T05:52:00.000Z",
-          "wordCount": 375,
-          "title": "2022年3月25日　Linux 5.17がリリース，「AMD P-State」新ドライバサポートなど ── Linux Daily Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202203/25",
-          "author": "吉田史",
-          "description": "jammyの開発はBetaを前に，大量のFeature Freeze exceptionが申請され，確認の上で取り込まれていくという，Ubuntuにとっては「いつもの」，ソフトウェア開発的にはやや不思議な光景が広がっています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202203/25",
-          "publishedOn": "2022-03-25T01:04:00.000Z",
-          "wordCount": 556,
-          "title": "2022年3月25日号　jammy開発/壁紙の確定とさまざまな調整 ── Ubuntu Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
         }
       ]
     },
@@ -2927,16 +2807,6 @@
           "wordCount": 1023,
           "title": "週刊Railsウォッチ: Evil MartiansのDocker+Rails記事が大幅更新、Railsガイドが電子書籍でほか（20220328前編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220328_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_25/116522",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_powerful_calls_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why I love Ruby: powerful calls &#8211; DEV Community 👩‍💻👨‍💻 原文公開日: 2022/03/01 原著者: Ary Borenszweig💻 &#8212; Crystal言語の作者のひとりです Crystal言語作者がRubyを愛する理由（4）呼び出しが強力（翻訳） 完璧なAPIを設計する 前回の記事では、Rubyのメソッド呼び出しがいかに多用されているか、またさまざまな方法で使われているかについて書きました。Rubyのユーザーが普段からメソッド呼び出しを多用するのであれば、メソッド呼び出しは [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_25/116522\" data-wpel-link=\"internal\" target=\"_self\">Crystal言語作者がRubyを愛する理由（4）呼び出しが強力（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_25/116522",
-          "publishedOn": "2022-03-25T08:30:35.000Z",
-          "wordCount": 463,
-          "title": "Crystal言語作者がRubyを愛する理由（4）呼び出しが強力（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/why_I_live_ruby_powerful_calls_eyecatch-min.png"
         }
       ]
     },
@@ -4256,21 +4126,6 @@
           "wordCount": 312,
           "title": "日立、糖尿病の治療薬選択を支援するAIを開発",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=271700",
-          "author": "MIT Technology Review Japan",
-          "description": "今週のオーディオ・ムック（β）は、ウクライナ侵攻をめぐるネット上での市民らの動きを知る記事3本をお届けする。",
-          "link": "https://www.technologyreview.jp/s/271700/audiomook-when-russia-invaded-ukraine-what-was-happening-on-the-internet-then/",
-          "publishedOn": "2022-03-25T06:30:48.000Z",
-          "wordCount": 685,
-          "title": "聴くMITTR：露ウクライナ侵攻、その時インターネットでは？",
-          "enclosure": {
-            "url": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/23173331/20220323-1v10.mp3",
-            "length": "14162321",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
         }
       ]
     }
