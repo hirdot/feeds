@@ -6,6 +6,166 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "6da8dcb87be24d2cf253ce0828157ec1acfa670a",
+          "author": "aws@amazon.com",
+          "description": "AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/",
+          "publishedOn": "2022-04-25T18:38:53.000Z",
+          "wordCount": 270,
+          "title": "AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "749a61a18595bdb89386ecd7e046371e7b011fe9",
+          "author": "aws@amazon.com",
+          "description": "AWS グローバル条件コンテキストキーを使用して、Neptune クラスターやインスタンスなどの Amazon Neptune リソースへのアクセスを制御する AWS Identity and Access Management (IAM) ポリシーをカスタマイズできるようになりました。IAM ポリシーの Condition 要素で指定されている AWS グローバル条件コンテキストキーを使用して、設定された条件に基づいて Neptune リソースへのアクセスを許可または禁止できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/",
+          "publishedOn": "2022-04-25T18:32:53.000Z",
+          "wordCount": 254,
+          "title": "Amazon Neptune が AWS IAM ポリシーでグローバル条件キーのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9d8867a264d0a754757b7054e527a0c8085f7c43",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AWS Distro for OpenTelemetry (ADOT) Operator のインストールおよび管理をサポートすることになりました。今回のリリースにより、Amazon EKS で実行されているアプリケーションをインストルメント化して、AWS X-Ray、Amazon Managed Service for Prometheus、Amazon CloudWatch などの複数のモニタリングサービスにメトリクスとトレースを送信する簡素化されたエクスペリエンスが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/",
+          "publishedOn": "2022-04-25T18:26:53.000Z",
+          "wordCount": 274,
+          "title": "OpenTelemetry Operator の EKS アドオンサポートが一般提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "aa2ece501ba3ce3176789141f0f87b05f02ba2a2",
+          "author": "aws@amazon.com",
+          "description": "Auto Scaling インスタンスのライフサイクルで、すべてのスケーリングアクティビティ、ヘルスチェックの置換、およびその他の置換イベントのデフォルトのインスタンスウォームアップ時間を設定できるようになりました。Amazon EC2 Auto Scaling は、アプリケーションにサービスを提供するインスタンスの論理グループ (Auto Scaling グループと呼ばれます) の自動的なスケールおよび管理を可能にするサービスです。EC2 Auto Scaling は、インスタンスを置き換えたり、Auto Scaling グループから削除したり、Auto Scaling グループに追加したりする必要があるかどうかを判断するために、CPU の使用状況やアプリケーションの需要などのさまざまなメトリクスをモニタリングすることによってこれを可能にします。デフォルトのインスタンスウォームアップ時間パラメータを設定すると、インスタンスが需要に対応できるようになるまでに通常かかる時間をスケーリングおよび置換ポリシーが認識できるようになり、Auto Scaling グループの設定が簡素化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/",
+          "publishedOn": "2022-04-25T18:20:53.000Z",
+          "wordCount": 265,
+          "title": "EC2 Auto Scaling で、すべてのインスタンスのスケーリングと置換アクションのデフォルトのインスタンスウォームアップ時間を設定可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1f0bb1739c33b825f159bbf04a7c537dba7ed4eb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Neptune を 1 か月の無料トライアルで試用することが可能になりました。Neptune を初めてご利用になるお客様は、最大 750 時間、T3.medium インスタンス、1,000 万回の I/O リクエスト、1 GB のストレージ、1 GB のバックアップストレージを使用して、30 日間無料で Neptune をご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/",
+          "publishedOn": "2022-04-25T18:14:53.000Z",
+          "wordCount": 255,
+          "title": "Amazon Neptune が無料トライアルの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cebec4328ff9cbb7addc49803fb83ff31b991a20",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) が、すべての商用リージョンの AWS Outposts で PostgreSQL および MySQL のマルチ AZ 配置で高可用性構成をサポートするようになりました。Outposts での Amazon RDS マルチ AZ 配置では、RDS データベース (DB) インスタンスの可用性と耐久性が強化され、プロダクションデータベースのワークロードに適しています。マルチ AZ データベースインスタンスをプロビジョニングすると、Amazon RDS は自動的にプライマリ DB インスタンスを作成し、別のアベイラビリティーゾーン  (AZ) に接続された 2 番目の AWS Outposts のスタンバイインスタンスにデータを同期的にレプリケーションします。それぞれの Outposts は、その独自の、物理的にはっきりと独立したインフラストラクチャ上で稼働しています。また高い信頼性を保つように設計されています。インフラストラクチャに障害が発生した場合、Amazon RDS は自動的にスタンバイデータベースにフェイルオーバーするので、フェイルオーバー完了後すぐにデータベースのオペレーションを再開できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/",
+          "publishedOn": "2022-04-25T18:08:53.000Z",
+          "wordCount": 309,
+          "title": "Amazon Relational Database Service が、高可用性のために AWS Outposts でのマルチ AZ 配置のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "23eb5cdc79a4085f4260f0336afdfa4017a0ec70",
+          "author": "aws@amazon.com",
+          "description": "3 種類の新しいマネージドデータ識別子がAmazon Macie に追加され、Amazon Simple Storage Service (Amazon S3) に存在する HTTP 基本認証ヘッダー、HTTP Cookie、JSON Web トークンの場所を検出および識別できるように拡張されました。これらのタイプのデータが S3 ストレージに存在するかどうか、どこに存在するかを知ることは、組織のデータセキュリティ、ガバナンス、プライバシーのニーズをより適切に計画するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/",
+          "publishedOn": "2022-04-25T18:02:54.000Z",
+          "wordCount": 291,
+          "title": "Amazon Macie が、より多くの種類の機密データの検出のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6e358f4b7ade8db6aae1d742ceee398ec400ea96",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Box Connector を使用して、Box からのメッセージのインデックス作成と検索を行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/",
+          "publishedOn": "2022-04-25T17:52:53.000Z",
+          "wordCount": 259,
+          "title": "Amazon Kendra が Box Connector をリリース、Box Enterprise リポジトリ内のドキュメントの検索が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "66f6666ad3337f5378d420f790dbd1d0a434d5ab",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は、Amazon Neptune での openCypher クエリ言語サポートの一般提供開始を発表いたしました。お客様は、Amazon Neptune で openCypher を使用できるようになり、グラフアプリケーションを構築したり、可用性の高い、安全なフルマネージドグラフデータベースに移行したりする選択肢が増えました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/",
+          "publishedOn": "2022-04-25T17:46:53.000Z",
+          "wordCount": 257,
+          "title": "AWS が Amazon Neptune 向け openCypher サポートの一般提供を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d72d1c0aa0854c58bbe0ba9672da447f1e662cee",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/",
+          "publishedOn": "2022-04-25T17:40:53.000Z",
+          "wordCount": 268,
+          "title": "Amazon Chime SDK が FedRAMP High 認証を取得",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e740b856a1a0bf9be755b0cd6a521952e751f3a1",
+          "author": "aws@amazon.com",
+          "description": "AWS Key Management Service (AWS KMS) を使用すると、Hash-Based Message Authentication Code (HMAC) の生成と検証に使用できる KMS キーを作成できます。HMAC は強力な暗号化ビルディングブロックであり、ハッシュ関数内にシークレットキーの素材を組み込んで、一意の鍵付きメッセージ認証コードを作成します。HMAC KMS キーは、AWS KMS の FIPS 140-2 検証済み HSM セキュリティ境界内でのみ生成および使用できます。このアーキテクチャは、ローカルアプリケーションソフトウェアでプレーンテキストの HMAC キーを使用するのとは対照的に、これらのシークレットキーが危険にさらされるリスクを最小限に抑えることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/",
+          "publishedOn": "2022-04-25T17:34:53.000Z",
+          "wordCount": 282,
+          "title": "AWS Key Management Service が新しい HMAC APIを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3058cf32166d697502538eb2193cd9aad66f9699",
+          "author": "aws@amazon.com",
+          "description": "AWS Elemental MediaTailor でチャネルアセンブリを使用して作成されたリニアチャネルにライブコンテンツをスケジュールできるようになりました。既存のビデオオンデマンド (VOD) カタログからトランスコードおよびパッケージ化された HLS および DASH ストリームを再利用することは既に可能であり、AWS Elemental MediaPackage などのオリジンからのライブストリームをリニアチャネルのスケジュールされたソースとして使用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/",
+          "publishedOn": "2022-04-25T17:28:53.000Z",
+          "wordCount": 245,
+          "title": "AWS Elemental MediaTailor は、チャネルアセンブリでライブソースのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f3ae893c203b494601185f36904d8747e7e8f392",
+          "author": "aws@amazon.com",
+          "description": "AWS Step Functions が、20 を超える新しい AWS SDK 統合と 1000 を超える新しい AWS API アクションのサポートを拡張することにより、AWS SDK との統合を強化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/",
+          "publishedOn": "2022-04-25T17:22:53.000Z",
+          "wordCount": 266,
+          "title": "AWS Step Functions が、20 を超える新しい AWS SDK 統合のサポートを拡張",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cc72139c21503bdbe7bd34c19bf84a188d4050b6",
+          "author": "aws@amazon.com",
+          "description": "AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスのサポートを開始し、すべてのアカウントとリージョンにわたるセキュリティ体制のより完全な表示が可能になりました。昨年、Security Hub は、調査結果に関するリージョン間集計のサポートを追加しました。このリリースにより、Security Hub の機能が拡張され、集約リージョンを設定している場合は、リージョン間のセキュリティスコアとコンプライアンスステータスもサポートされるようになりました。集約リージョン内の各コントロールのそれぞれの標準およびコンプライアンスステータスのセキュリティスコアは、リンクされたリージョン全体での複合ビューを反映します。管理者アカウントと集約リージョンのセキュリティスコアとコンプライアンスステータスは、すべてのアカウントとリージョンの複合ビューを反映します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/",
+          "publishedOn": "2022-04-25T17:09:53.000Z",
+          "wordCount": 303,
+          "title": "AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a7bfb24d1b54ec6ba33fea5ef5858b470655fc2c",
+          "author": "aws@amazon.com",
+          "description": "AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/",
+          "publishedOn": "2022-04-25T17:03:55.000Z",
+          "wordCount": 269,
+          "title": "AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8b8b1b03c15ea680ffca388e109a4b270a2505ce",
+          "author": "aws@amazon.com",
+          "description": "AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-transfer-family-jakarta-region/",
+          "publishedOn": "2022-04-25T16:56:53.000Z",
+          "wordCount": 270,
+          "title": "AWS Transit Gateway が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "1687933e2c424b3cfb9bb215914e09ddff9556a4",
           "author": "aws@amazon.com",
           "description": "2022 年 1 月の最終更新以降、AWS CloudFormation Registry を拡張し、2022 年 1 月から 3 月の間に 35 の新しいリソースタイプ (下記の全リストを参照) をサポートするようになりました。リソースタイプにはスキーマ (リソースプロパティおよびハンドラー許可) と、基盤となる AWS またはサードパーティーのサービスとの API インタラクションを許可するハンドラーが含まれます。お客様は、Infrastructure as Code として扱うことで、CloudFormation を介してクラウドインフラストラクチャの一部として新たにサポートされるこれらのリソースのライフサイクルを設定、プロビジョニング、および管理できるようになりました。さらに、1 つの新しい AWS のサービス (AWS Billing Conductor) がリリース日に CloudFormation のサポートを追加したことをお知らせします。CloudFormation は、170 を超える AWS のサービス、900 を超えるリソースタイプ、および 40 を超えるサードパーティーのリソースタイプをサポートしています。",
@@ -2520,18 +2680,7 @@
       "title": "Ruby on Rails",
       "feedUrl": "https://rubyonrails.org/feed.xml",
       "siteUrl": "https://rubyonrails.org/",
-      "articles": [
-        {
-          "id": "https://rubyonrails.org/2022/3/27/this-week-in-rails-security-improvements-reducing-bytes-and-more-63e63af4",
-          "author": null,
-          "description": "Hi, this is Petrik, bringing you the latest news from the Rails world. Reduce the output of Rails::Railtie#inspect to the classname Anytime inspect was called on Rails::Application, it would output the very large application object. By reducing it to the classname, we also prevent leaking credentials. Remove body content from redirect responses",
-          "link": "https://rubyonrails.org/2022/3/27/this-week-in-rails-security-improvements-reducing-bytes-and-more-63e63af4",
-          "publishedOn": "2022-03-27T00:00:00.000Z",
-          "wordCount": 346,
-          "title": "Security improvements, reducing bytes and more!",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "TechRacho",
@@ -2785,6 +2934,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsamplify_studiofigma.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は、Webアプリケーションを最小限のコーディングで開発できる、いわゆるローコード開発ツール「Amplify Studio」の正式リリースを発表しました。 Announcing AWS Ampl...",
+          "link": "https://www.publickey1.jp/blog/22/awsamplify_studiofigma.html",
+          "publishedOn": "2022-04-25T15:21:11.000Z",
+          "wordCount": 200,
+          "title": "AWSのローコード開発ツール「Amplify Studio」が正式リリース。Figmaと連携してプロトタイプからコードを自動生成",
+          "imageUrl": "https://www.publickey1.jp/2022/L66uitxA.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/amazon_aurora_serverless_v2.html",
           "author": null,
@@ -3322,6 +3481,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=274409",
+          "author": "Zeyi Yang",
+          "description": "上海の都市封鎖に抗議する映像は、中国政府の検閲によってすぐに削除された。だが、中国の市民らはさまざまな手段で対抗した。中心となったのは、WeChat（ウィーチャット）のあるアプリだ。",
+          "link": "https://www.technologyreview.jp/s/274409/wechat-wants-people-to-use-its-video-platform-so-they-did-for-digital-protests/",
+          "publishedOn": "2022-04-25T21:57:16.000Z",
+          "wordCount": 681,
+          "title": "苦戦するWeChatのTikTokふう機能が「反検閲」でブレイクの皮肉",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/25052504/GettyImages-1387306761-1175x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=272964",
+          "author": "Jonathan W. Rosen",
+          "description": "アフリカで新型コロナウイルス感染症の死者が少ない「アフリカ・パラドックス」は、以前から謎だとされていた。だが、最新の研究で、実はアフリカでも新型コロナで多くの死者が発生していたことがわかってきた。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/272964/how-a-zambian-morgue-is-exposing-the-real-covid-toll-in-africa/",
+          "publishedOn": "2022-04-25T21:51:14.000Z",
+          "wordCount": 566,
+          "title": "存在しなかった 「アフリカ・パラドックス」 最新研究が示す新事実",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/08175512/JJM_5546-1355x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/25/274440/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/26/274440/",
+          "publishedOn": "2022-04-25T21:45:24.000Z",
+          "wordCount": 347,
+          "title": "腸内細菌やゲノムの網羅的解析をAIとロボで自動化へ＝OISTが新PJ",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/04/25/274408/",
           "author": "MIT Technology Review Japan",
@@ -4115,26 +4304,6 @@
           "publishedOn": "2022-03-27T21:19:52.000Z",
           "wordCount": 322,
           "title": "東北大が半導体の材料探索に機械学習、相変化メモリの設計で",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/26/271925/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/27/271925/",
-          "publishedOn": "2022-03-27T00:50:39.000Z",
-          "wordCount": 310,
-          "title": "医薬品製造に関わる酵素を機械学習で発見＝神戸大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/26/271924/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/27/271924/",
-          "publishedOn": "2022-03-26T23:54:09.000Z",
-          "wordCount": 312,
-          "title": "日立、糖尿病の治療薬選択を支援するAIを開発",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
