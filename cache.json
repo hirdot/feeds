@@ -6,6 +6,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "123d5cc8fed367f273de99daa5861f990819249e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize では、レコメンダーの停止および開始が可能となったことにより、リソースをよりきめ細かく制御できるようになりました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。レコメンダーは、「よく一緒に購入されています」(小売業向け) や、「お客様のための上位のおすすめ」(メディアとエンターテインメント向け) など、特定のユースケースに最適化されたリソースです。使用していないときにレコメンダーを停止すると、レコメンダーを削除することなく、非アクティブ状態に移行します。開始によってアクティブ状態に移行し、レコメンダーのリソースを再作成することなく、中断したポイントから再開します。例えば、テストフェーズ中に、数日間だけレコメンデーションを取得する必要がある場合があります。不要なときにレコメンダーを停止し、いつでもレコメンダーを再開してレコメンデーションリクエストを再開できます。停止したレコメンダーには利用料金はかかりません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/",
+          "publishedOn": "2022-04-26T20:44:53.000Z",
+          "wordCount": 239,
+          "title": "Amazon Personalize がレコメンダーの開始と停止のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "481f1ab43ad0c9cfbf4211709c7e57f0e85edfa6",
+          "author": "aws@amazon.com",
+          "description": "AWS Batch は、コンピューティング環境 (CE) を再作成することなく更新できるコンピューティング環境の設定パラメータを拡張するようになりました。これまでお客様は、UpdateComputeEnvironment API を使用して、CE の状態、希望する CPU 数、最小および最大 vCPU 数、およびサービスロールを変更していました。追加の設定パラメータを更新する場合、お客様は新しい CE を作成する必要がありました。今回のローンチでは、お客様は、UpdateComputeEnvironment API を使用して、AMI、EC2 起動テンプレート、インスタンスタイプなどの CE 設定パラメータを動的に更新できるようになりました。更新された設定を使用するために新しい CE を手作業で作成する必要はなく、Batch は新しいインスタンスを起動する際に更新された CE 設定を使用し、その上で実行中のジョブが完了したら古い CE 設定を使用するインスタンスを終了させます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/",
+          "publishedOn": "2022-04-26T16:58:53.000Z",
+          "wordCount": 258,
+          "title": "AWS Batch、UpdateComputeEnvironment API の改良を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1f2da30ec6e2f25fd54f364c966eddab57fac532",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard を使って、 Amazon Elastic Compute Cloud (Amazon EC2) にあるセルフマネージドの Microsoft Exchange Server のベストプラクティスのデプロイをリードできるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での Microsoft Exchange Server の設定、サイジング、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/",
+          "publishedOn": "2022-04-26T16:52:53.000Z",
+          "wordCount": 310,
+          "title": "AWS Launch Wizard は Microsoft Exchange Server のガイド付きデプロイを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "aa81de4c9f74af687e09ac2b9097a41d618254d0",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、AWS GovCloud (米国西部) リージョンで、Amazon Connect コンタクトセンターの問い合わせ (音声通話、チャット、タスク) のイベント (通話がキューに入っているなど) に対して、ほぼリアルタイムのストリームをサブスクライブできるようになりました。これらのイベントには、音声通話、チャット、タスクが開始された、1 人のエージェントに割り当てるためキューに入った、エージェントにつながった、別のエージェントまたはキューに転送された、切断されたなどのイベントが含まれます。Contact Events は、コンタクトアクティビティをモニタおよび追跡するための分析ダッシュボードを作成する、コンタクトセンターのパフォーマンスをより的確に理解するためにワークフォースマネジメント (WFM) ソリューションに統合する、または、イベント (通話が切断されたなど) にリアルタイムで対応するアプリケーションを統合するために使用できます。Amazon Connect Contact Events は、Amazon EventBridge を通じて発行され、Amazon EventBridge AWS コンソールに行き、新しいルールを作成することで、数クリックでセットアップできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/",
+          "publishedOn": "2022-04-26T16:45:53.000Z",
+          "wordCount": 259,
+          "title": "AWS GovCloud (米国西部) リージョンで、Amazon Connect の音声通話、チャット、タスクなどのアクティビティにほぼリアルタイムで詳細情報を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0b7cccd0a5e3a522997cc8a4a3d9ca964c42cb68",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard を使用して、複数のアベイラビリティーゾーン (AZ) にまたがる Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling グループ上に、セルフマネージドの Windows Server 向け IIS (Internet Information Services) のベストプラクティスのデプロイをリードできるようになりました。AWS Launch Wizard は AWS Well-Architected Framework を使用して、AWS クラウド上での Microsoft IIS の設定、サイジング、デプロイをガイドし、個々の AWS リソースを手動で特定してプロビジョニングする必要はありません。高可用性を実現するために、ノードは複数のアベイラビリティーゾーンにまたがる別々のサブネットにデプロイします。Windows Server 向け Internet Information Services (IIS) は、ウェブ上のあらゆるものをホスティングするための、柔軟で安全、かつ管理しやすいウェブサーバーです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/",
+          "publishedOn": "2022-04-26T16:39:53.000Z",
+          "wordCount": 298,
+          "title": "AWS Launch Wizard で Windows Server 向け Internet Information Services (IIS) のガイド付きデプロイを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "55bb0d243856686fc3dd66e986aa15d012578efb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connectでプログラムを使用して新しい電話番号を要求し、それらを設定するための API が利用可能にこの API を使用すると、利用可能な電話番号をプログラムを使用して検索して要求したり、電話番号を問い合わせフローに関連付けたり、不要になった電話番号をリリースしたりすることができます。さらに、電話番号 API には、AWS CloudFormation のサポートが付いています。詳細については、AWS CloudFormation ユーザーガイドの API ドキュメントと Amazon Connect リソースタイプリファレンスを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/",
+          "publishedOn": "2022-04-26T16:33:53.000Z",
+          "wordCount": 245,
+          "title": "Amazon Connectでプログラムを使用して電話番号を要求および設定するための API が利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c49ec0fe7556f15b9b2c418cff41f93ca5d0a208",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) は、本日、Amazon ECS 最適化 Amazon Linux 2022 Amazon マシンイメージ (AMI) のパブリックプレビューを発表しました。Amazon Linux 2022 (AL2022) は、Amazon Web Services (AWS) が提供する次世代 Amazon Linux で、クラウドアプリケーションを開発および実行するために、安全で安定した高性能の実行環境を提供するように設計されています。AL2022 以降、新しい Amazon Linux メジャーバージョンが 2 年ごとに利用可能になり、各メジャーバージョンは 5 年間サポートされます。Amazon ECS は、Amazon Linux の新しいメジャーバージョンごとに、同じ 2 年間のリリースと 5 年間のサポートサイクルをサポートするために、Amazon ECS 最適化 AMI を公開します。2 年というメジャーリリースサイクルにより、ソフトウェアを最新の状態に保つことができ、各メジャーリリースに対して 5 年間のサポートコミットメントにより、長いプロジェクトのライフサイクルを管理するために必要な安定性を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/",
+          "publishedOn": "2022-04-26T16:26:53.000Z",
+          "wordCount": 314,
+          "title": "Amazon ECS 最適化 Amazon Linux 2022 AMI のプレビュー版が利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6da8dcb87be24d2cf253ce0828157ec1acfa670a",
           "author": "aws@amazon.com",
           "description": "AWS Transit Gateway が AWS Direct Connect のサポートとともに、アジアパシフィック (ジャカルタ) の AWS リージョンでご利用いただけるようになりました。AWS Transit Gateway を使えば、何千もの Amazon Virtual Private Cloud (Amazon VPC) とオンプレミスネットワークを 1 つのゲートウェイで接続できます。",
@@ -1424,36 +1494,6 @@
           "wordCount": 258,
           "title": "AWS Panorama アプリケーションが、ローカルエリアネットワークを介したインバウンドメッセージの受信のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7daf03e5d430a4bfe508728367f6860abcefb1f7",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda のお客様は、Lambda 関数用に最大 10,240 MB のエフェメラルストレージを設定できるようになりました (以前の制限である 512 MB の 20 倍)。これは、財務分析、機械学習推論、メディア処理アプリケーションなどのワークロードが大量のデータを利用するオペレーションを大規模に実行するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/",
-          "publishedOn": "2022-03-28T07:35:34.000Z",
-          "wordCount": 303,
-          "title": "AWS Lambda で Lambda 関数用に最大 10 GB のエフェメラルストレージの設定が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ffbdf5aebbf4d6ad663c86dc3ddf601217d6a128",
-          "author": "aws@amazon.com",
-          "description": "Amazon Comprehend は、テキスト、PDF、Word に加えて、画像形式のドキュメントをサポートするようになりました。お客様は、Comprehend カスタムエンティティ認識を使用して画像ファイル (JPG、PNG、TIFF) からエンティティを抽出できるようになりました。また、Amazon Textract の JSON 出力で Comprehend を直接使用して、ドキュメントからカスタムエンティティを抽出することもできます。今回のリリースにより、お客様はインテリジェントドキュメント処理 (IDP) ワークフローを簡素化でき、Comprehend と Textract のすぐに使用できる統合を利用して、ドキュメントからエンティティを抽出できます。これらの機能の詳細な説明を以下に記載しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/",
-          "publishedOn": "2022-03-28T07:33:45.000Z",
-          "wordCount": 279,
-          "title": "Amazon Comprehend を使用して画像と Textract JSON ファイルからカスタムエンティティを抽出する",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "231aef509a8b2bf1964c63388c2d9104f4ca114f",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 Auto Scaling は、Amazon EC2 インスタンスメタデータサービス (IMDS) で、Auto Scaling インスタンスのライフサイクル状態を発行するようになりました。これにより、インスタンスがあるライフサイクル状態から別のライフサイクル状態に移行するときに、インスタンス上でのアクションを簡単に開始できます。Auto Scaling グループのインスタンスは、起動されてサービスの提供が開始されてから、サービスから削除されて終了するまで、さまざまなライフサイクル状態に移行します。IMDS をポーリングすることで、インスタンス上のアプリケーションをセットアップして、ライフサイクルの状態を簡単に判断できます。Amazon CloudWatch Events やその他のサービスをセットアップする必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/",
-          "publishedOn": "2022-03-28T07:31:59.000Z",
-          "wordCount": 257,
-          "title": "Amazon EC2 Auto Scaling インスタンスのライフサイクル状態が、インスタンスメタデータサービスを介して利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1898,26 +1938,6 @@
           "wordCount": 401,
           "title": "今注目されているプライバシー・バイ・デザイン（PbD:Privacy by Design）とは？ なぜ重要とされるのか？",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/10/DTNJ_PbD.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37701",
-          "author": "BunkiMIyata",
-          "description": "最近、「Web3.0」という言葉をよく目にするようになりました。「～1.0、～2.0、～3.0……」は、「世代の更新」の表現であり、それまであった主流の概念が変容したことを意味します。 さて、Webは第3世代となり、どの […]",
-          "link": "https://data.wingarc.com/allabout_web3-37701?utm_source=rss&utm_medium=rss&utm_campaign=allabout_web3",
-          "publishedOn": "2022-03-28T01:00:35.000Z",
-          "wordCount": 457,
-          "title": "「Web3.0」とは？そのメリットは？  Webの進化の歴史を振り返る",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/DTNJ_web3.0.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40740",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：パーティの予定が無い…すなわちノーパーティってことかと思ってました（笑） みなさん、おはようございます。 桜も咲きはじめてすっかり春めいてきましたね。今くらいの気候って、天気予報をちゃんと見ずに厚手のコー […]",
-          "link": "https://data.wingarc.com/taimu-kun-123-40740?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-123",
-          "publishedOn": "2022-03-27T23:00:56.000Z",
-          "wordCount": 325,
-          "title": "【タイムくん–第123話】ゼロパーティデータ",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/123-1.jpg"
         }
       ]
     },
@@ -2362,46 +2382,6 @@
           "wordCount": 1205,
           "title": "Cloud Spannerが確約利用に対する割引を導入",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220325083528/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/jrebel-report-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Andrea Messetti",
-          "description": "JRebelが\"2022 Java Developer Productivity Report\"を公開した。今年で10周年を迎えるこの年鑑は、Javaのアーキテクチャ、フレームワーク、生産性ツールに関するトレンドを調査するものだ。\n By Andrea Messetti  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/03/jrebel-report-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-28T00:37:00.000Z",
-          "wordCount": 1336,
-          "title": "JRebelが”Java Development Trends and Analysis 2022”を公開",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220325083540/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/uber-go-gc-tuner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Olimpiu Pop",
-          "description": "企業の収益性を向上する活動の一環として、Uberのエンジニアリング部門では、インフラストラクチャをより効率的な利用に重点を置いている。その取り組みの成果として、半自動的形式のGo Garbage Collectiomnチューニングメカニズムを開発し、30件のミッションクリティカルなサービスにおいて、70KのCPUコア削減に成功した。\n By Olimpiu Pop  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/03/uber-go-gc-tuner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-28T00:35:00.000Z",
-          "wordCount": 1212,
-          "title": "UberのエンジニアリングチームがGo GCのチューニングにより70kの削減に成功",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220325083528/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/gcp-pubsub-exactly-once-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近、GoogleはPub/Subサービス向けに厳密に一度だけの配信機能のプレビューを発表した。この機能を有効すると、サブスクリプションがメッセージの重複配信を受け取らないことをPub/Subが保証する。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/gcp-pubsub-exactly-once-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-28T00:29:00.000Z",
-          "wordCount": 1220,
-          "title": "Googleは、Pub/Subサービス向けの厳密に一度だけの配信機能をプレビュー",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220325083528/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/articles/ballerina-fullstack-rest-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Imesha Sudasingha",
-          "description": "この記事では、REST API開発のためのプログラミング言語\"Ballerina\"の直感的な構文について解説します。さらに、認証や承認、OpenAPIツール、可観測性、SQL/NoSQLクライアントライブラリなど、重要な言語機能についても論じます。記事を読み終えれば、Ballerinaが次のバックエンドAPI開発の有力な候補である理由がよく理解できるでしょう。\n By Imesha Sudasingha  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/articles/ballerina-fullstack-rest-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-03-28T00:25:00.000Z",
-          "wordCount": 2604,
-          "title": "アーティクル: フルスタック開発者のためのBallerina: バックエンドAPI開発ガイド",
-          "imageUrl": "https://res.infoq.com/articles/ballerina-fullstack-rest-api/ja/headerimage/generatedHeaderImage-1646298444299.jpg"
         }
       ]
     },
@@ -2509,16 +2489,6 @@
           "wordCount": 593,
           "title": "Lyftの開発者エクスペリエンス: クラウドからローカル環境へ",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220331101138/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/03/environmental-impact-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "ソフトウェアは、耐用年数の制限、あるいはエネルギー消費の増加に影響を及ぼす。クラウドサービスによって引き起こされる環境への影響を測定することが可能である。ソフトウェアアーキテクチャの設計により、必要なハードウェアと電力の量が決まる。ソフトウェアはハードウェアリソースに対して経済的か、あるいはを浪費となる。\n By Ben Linders  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/03/environmental-impact-software/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-03-28T00:33:00.000Z",
-          "wordCount": 1199,
-          "title": "ソフトウェアとクラウドサービスによる環境への影響の測定",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220325083528/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2841,7 +2811,18 @@
       "title": "Ruby on Rails",
       "feedUrl": "https://rubyonrails.org/feed.xml",
       "siteUrl": "https://rubyonrails.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://rubyonrails.org/2022/4/26/Rails-7-0-2-4-6-1-5-1-6-0-4-8-and-5-2-7-1-have-been-released",
+          "author": null,
+          "description": "Hi everyone!!!! This is an announcement to let you know that Rails 7.0.2.4, 6.1.5.1, 6.0.4.8, and 5.2.7.1 have been released!",
+          "link": "https://rubyonrails.org/2022/4/26/Rails-7-0-2-4-6-1-5-1-6-0-4-8-and-5-2-7-1-have-been-released",
+          "publishedOn": "2022-04-26T19:43:59.000Z",
+          "wordCount": 265,
+          "title": "Rails 7.0.2.4, 6.1.5.1, 6.0.4.8, and 5.2.7.1 have been released!",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        }
+      ]
     },
     {
       "title": "TechRacho",
@@ -3087,16 +3068,6 @@
           "wordCount": 656,
           "title": "週刊Railsウォッチ: RubyKaigi 2022開催情報、RDB参考資料、DNSのHTTPSレコードほか（20220329後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220329_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_28/116585",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220328_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。忌引のため刊行が空いてしまいました🙇 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_28/116585\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Evil MartiansのDocker+Rails記事が大幅更新、Railsガイドが電子書籍でほか（20220328前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_28/116585",
-          "publishedOn": "2022-03-28T09:57:29.000Z",
-          "wordCount": 1023,
-          "title": "週刊Railsウォッチ: Evil MartiansのDocker+Rails記事が大幅更新、Railsガイドが電子書籍でほか（20220328前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220328_eyecatch-min.png"
         }
       ]
     },
@@ -3105,6 +3076,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundation.html",
+          "author": null,
+          "description": "GoogleとIstioの開発チームは、IstioをCloud Native Computing Foundation（CNCF）のインキュベーションプロジェクトに提出することを発表しました。 Great news! With the su...",
+          "link": "https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundation.html",
+          "publishedOn": "2022-04-26T16:00:16.000Z",
+          "wordCount": 189,
+          "title": "サービスメッシュのIstio、Cloud Native Computing Foundationへの提出を発表",
+          "imageUrl": "https://www.publickey1.jp/2022/FRM1V2sXsAAb88a.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/awsamplify_studiofigma.html",
           "author": null,
@@ -3642,6 +3623,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=274339",
+          "author": "Zeyi Yang",
+          "description": "中国の複数の有力な金融業界団体が、NFTを事実上排除する共同声明を発表した。中国企業が扱う「中国版NFT」では転売を禁止され、暗号通貨も利用できない。転売禁止のトークンに価値はあるのだろうか？ \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/274339/chinese-nft-platforms-dont-want-you-to-trade-nfts-anymore/",
+          "publishedOn": "2022-04-26T21:55:20.000Z",
+          "wordCount": 537,
+          "title": "独自の道をゆく中国版NFT、「転売禁止」でも価値はあるか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/23201504/NFT-paws-1400x787.gif"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/26/274596/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/27/274596/",
+          "publishedOn": "2022-04-26T21:43:29.000Z",
+          "wordCount": 328,
+          "title": "東大、ディープフェイク動画の検出AIで世界最高性能を達成",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/04/25/274407/",
           "author": "MIT Technology Review Japan",
@@ -4456,16 +4457,6 @@
           "wordCount": 576,
           "title": "ベースロード電源の未来 MIT発ベンチャーが挑む 「実用的」な核融合炉",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/26010012/20211206-mit-tr-cfs-0268-525x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/03/28/271985/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/03/28/271985/",
-          "publishedOn": "2022-03-27T22:28:12.000Z",
-          "wordCount": 320,
-          "title": "脳のバーチャル切除で言語機能の低下を予測＝横浜市立大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
