@@ -1424,76 +1424,6 @@
           "wordCount": 286,
           "title": "Amazon RDS 無料利用枠に、すべての商用リージョンでの db.t3.micro、AWS Graviton2 ベースの db.t4g.micro インスタンスが含まれるようになりました",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9ba283dcb8d7758e7a1c13757cbf0d621159ca9d",
-          "author": "aws@amazon.com",
-          "description": "お客様は、Amazon Relational Database Service (Amazon RDS) は、RDS Service API にアクセスしているときに Internet Protocol Version 6 (IPv6) を利用するオプションを使えるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/",
-          "publishedOn": "2022-03-28T17:42:54.000Z",
-          "wordCount": 286,
-          "title": "Amazon RDS は、RDS Service API での Internet Protocol Version 6 (IPv6) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "65fd731c781c03a172eff7b5ef424f53c79ac8ee",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Service Catalog は、プロビジョニングされた製品に関連付けられたリソースへのビルダーのアクセスを簡素化するのに役立つ機能をリリースいたします。従来は、特定のリソースを見つけるために AWS コンソールを手動でナビゲートする必要がありました。今回の機能を使用すると、プロビジョニングされた製品の詳細ページで、プロビジョニングされた製品のリソースを簡単に見つけてアクセスすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/",
-          "publishedOn": "2022-03-28T17:37:57.000Z",
-          "wordCount": 236,
-          "title": "AWS Service Catalog が、プロビジョニングされた製品内のリソースに直接アクセスする新しいコンソール機能を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3f6da3714e5a95ffc40fbf01191a2b00d1b49363",
-          "author": "aws@amazon.com",
-          "description": "本日より、Atlassian Jira Service Management (JSM)、データセンターバージョンを単一の場所として使用して、 AWS Support から AWS Service Management Connector for JSM を介してケース (インシデント) を追跡および管理できるようになります。AWS Support により、AWS リソースに関連するケースを一元的に作成、追跡、解決できるため、お客様が問題を解決するまでの時間を短縮できます。AWS Support ケースと Jira Service Management インシデント間の二重同期統合により、JSM ユーザー/デベロッパーは Jira Service Management (インシデント) の既存のワークフローを活用しながら AWS Support ケースを管理できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/",
-          "publishedOn": "2022-03-28T17:37:08.000Z",
-          "wordCount": 319,
-          "title": "AWS Support が、Connector for Jira Service Management を介してケースを効率化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4f6e3e1e841091b25d471de1d5c24927a953576a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のメキシコスペイン語の女性の合成 (TTS) 音声である Mia のニューラルバージョンと、新しいカタロニア語のニューラル音声である Arlet の 2 つの音声の一般提供開始をお知らせします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/",
-          "publishedOn": "2022-03-28T17:36:20.000Z",
-          "wordCount": 261,
-          "title": "Amazon Polly が、カタロニア語とメキシコスペイン語でニューラル TTS 音声の提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bc85604d2a4f2b21b7f668eaef80e442c693e7c7",
-          "author": "aws@amazon.com",
-          "description": "AWS Panorama アプリケーションでエラーが発生したことを検出するように Amazon CloudWatch アラームを設定できるようになりました。こうした CloudWatch アラームは、緊急のパフォーマンスやオペレーションの問題を特定するのに役立ち、トラブルシューティングを迅速に行い、解決までの平均時間 (MTTR) を短縮できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/",
-          "publishedOn": "2022-03-28T17:35:31.000Z",
-          "wordCount": 267,
-          "title": "AWS Panorama が、アプリケーションエラーに関する Amazon CloudWatch アラームのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "08cb2f8413e610a967dcbadf9f32da584b989f30",
-          "author": "aws@amazon.com",
-          "description": "TensorFlow、PyTorch、OpenCV のモデルとアルゴリズムを AWS Panorama Appliance GPU で直接実行して、オブジェクトトラッキング、トラフィック分析、ワーカーの安全などの低レイテンシーのユースケースを実現できるようになりました。また、AWS Panorama は、Nvidia TensorRT または Nvidia CUDA をサポートする任意の機械学習ライブラリで最適化されたモデルもサポートします。Nvidia TensorRT は、特定のユースケースで AWS Panorama Appliance で同時に処理できるカメラストリームの数を 2 倍にすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/",
-          "publishedOn": "2022-03-28T17:34:08.000Z",
-          "wordCount": 275,
-          "title": "AWS Panorama が、独自の機械学習ライブラリを提供する機能のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2aad2dd2fbbf81081edf086615c997db949eb97a",
-          "author": "aws@amazon.com",
-          "description": "これで、ローカルエリアネットワークを介してインバウンドメッセージを受信するように AWS Panorama アプリケーションを設定し、AWS Panorama アプリケーションを開始、停止、または調整することができます。例えば、ML モデルを実行して、車両が生産ラインのゲートを通過するときに塗装の欠陥を視覚的に検出できます。また、インバウンドメッセージを使用して、同じネットワーク上の別のコンピューターからアクセス可能なウェブアプリケーションを提供し、人間が関与するプレビューを行うこともできます。人間が関与するプレビューを使用すると、ラインオペレーターは、ML モデルからの異常検出をレビューして、モデルの再トレーニングの精度を確保し、低精度の結果にフラグを立てることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/",
-          "publishedOn": "2022-03-28T17:33:20.000Z",
-          "wordCount": 258,
-          "title": "AWS Panorama アプリケーションが、ローカルエリアネットワークを介したインバウンドメッセージの受信のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1976,6 +1906,16 @@
       "feedUrl": "https://dev.mysql.com/downloads/rss.php",
       "siteUrl": "https://dev.mysql.com/downloads/",
       "articles": [
+        {
+          "id": "https://dev.mysql.com/downloads/cluster/7.5.html",
+          "author": null,
+          "description": "MySQL Cluster 7.5 (7.5.26 GA, published on Wednesday, 27 Apr 2022)",
+          "link": "https://dev.mysql.com/downloads/cluster/7.5.html",
+          "publishedOn": "2022-04-27T00:00:00.000Z",
+          "wordCount": 399,
+          "title": "MySQL Cluster 7.5",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.mysql.com/downloads/connector/odbc/8.0.html",
           "author": null,

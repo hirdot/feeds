@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-27T05:10:08.018Z</updated>
+    <updated>2022-04-27T06:00:57.935Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[今回は第712回に続いて，Ubuntu 22.04 LTSの変更点であるリモートデスクトップ機能，特にRDPサーバー機能をピックアップして解説します。]]></summary>
         <author>
             <name>あわしろいくや</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Cluster 7.5]]></title>
+        <id>https://dev.mysql.com/downloads/cluster/7.5.html</id>
+        <link href="https://dev.mysql.com/downloads/cluster/7.5.html"/>
+        <updated>2022-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Cluster 7.5 (7.5.26 GA, published on Wednesday, 27 Apr 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
         </author>
     </entry>
     <entry>
@@ -4853,76 +4863,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-free-tier-dbt3micro-graviton2-based-instances/"/>
         <updated>2022-03-28T20:46:24.000Z</updated>
         <summary type="html"><![CDATA[本日より、Amazon Relational Database Service (Amazon RDS) の無料利用枠に、すべての商用リージョンでの db.t3.micro および AWS Graviton2 ベースの db.t4g.micro インスタンスが含まれるようになります。これにより、新しい AWS のお客様向けに、現在の AWS 無料利用枠の db.t2.micro インスタンスに加えて、より多くの選択肢が提供されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS は、RDS Service API での Internet Protocol Version 6 (IPv6) のサポートを開始]]></title>
-        <id>9ba283dcb8d7758e7a1c13757cbf0d621159ca9d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/"/>
-        <updated>2022-03-28T17:42:54.000Z</updated>
-        <summary type="html"><![CDATA[お客様は、Amazon Relational Database Service (Amazon RDS) は、RDS Service API にアクセスしているときに Internet Protocol Version 6 (IPv6) を利用するオプションを使えるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Service Catalog が、プロビジョニングされた製品内のリソースに直接アクセスする新しいコンソール機能を発表]]></title>
-        <id>65fd731c781c03a172eff7b5ef424f53c79ac8ee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/"/>
-        <updated>2022-03-28T17:37:57.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Service Catalog は、プロビジョニングされた製品に関連付けられたリソースへのビルダーのアクセスを簡素化するのに役立つ機能をリリースいたします。従来は、特定のリソースを見つけるために AWS コンソールを手動でナビゲートする必要がありました。今回の機能を使用すると、プロビジョニングされた製品の詳細ページで、プロビジョニングされた製品のリソースを簡単に見つけてアクセスすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Support が、Connector for Jira Service Management を介してケースを効率化]]></title>
-        <id>3f6da3714e5a95ffc40fbf01191a2b00d1b49363</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/"/>
-        <updated>2022-03-28T17:37:08.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Atlassian Jira Service Management (JSM)、データセンターバージョンを単一の場所として使用して、 AWS Support から AWS Service Management Connector for JSM を介してケース (インシデント) を追跡および管理できるようになります。AWS Support により、AWS リソースに関連するケースを一元的に作成、追跡、解決できるため、お客様が問題を解決するまでの時間を短縮できます。AWS Support ケースと Jira Service Management インシデント間の二重同期統合により、JSM ユーザー/デベロッパーは Jira Service Management (インシデント) の既存のワークフローを活用しながら AWS Support ケースを管理できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Polly が、カタロニア語とメキシコスペイン語でニューラル TTS 音声の提供を開始]]></title>
-        <id>4f6e3e1e841091b25d471de1d5c24927a953576a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/"/>
-        <updated>2022-03-28T17:36:20.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のメキシコスペイン語の女性の合成 (TTS) 音声である Mia のニューラルバージョンと、新しいカタロニア語のニューラル音声である Arlet の 2 つの音声の一般提供開始をお知らせします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama が、アプリケーションエラーに関する Amazon CloudWatch アラームのサポートを開始]]></title>
-        <id>bc85604d2a4f2b21b7f668eaef80e442c693e7c7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/"/>
-        <updated>2022-03-28T17:35:31.000Z</updated>
-        <summary type="html"><![CDATA[AWS Panorama アプリケーションでエラーが発生したことを検出するように Amazon CloudWatch アラームを設定できるようになりました。こうした CloudWatch アラームは、緊急のパフォーマンスやオペレーションの問題を特定するのに役立ち、トラブルシューティングを迅速に行い、解決までの平均時間 (MTTR) を短縮できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama が、独自の機械学習ライブラリを提供する機能のサポートを開始]]></title>
-        <id>08cb2f8413e610a967dcbadf9f32da584b989f30</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/"/>
-        <updated>2022-03-28T17:34:08.000Z</updated>
-        <summary type="html"><![CDATA[TensorFlow、PyTorch、OpenCV のモデルとアルゴリズムを AWS Panorama Appliance GPU で直接実行して、オブジェクトトラッキング、トラフィック分析、ワーカーの安全などの低レイテンシーのユースケースを実現できるようになりました。また、AWS Panorama は、Nvidia TensorRT または Nvidia CUDA をサポートする任意の機械学習ライブラリで最適化されたモデルもサポートします。Nvidia TensorRT は、特定のユースケースで AWS Panorama Appliance で同時に処理できるカメラストリームの数を 2 倍にすることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Panorama アプリケーションが、ローカルエリアネットワークを介したインバウンドメッセージの受信のサポートを開始]]></title>
-        <id>2aad2dd2fbbf81081edf086615c997db949eb97a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/"/>
-        <updated>2022-03-28T17:33:20.000Z</updated>
-        <summary type="html"><![CDATA[これで、ローカルエリアネットワークを介してインバウンドメッセージを受信するように AWS Panorama アプリケーションを設定し、AWS Panorama アプリケーションを開始、停止、または調整することができます。例えば、ML モデルを実行して、車両が生産ラインのゲートを通過するときに塗装の欠陥を視覚的に検出できます。また、インバウンドメッセージを使用して、同じネットワーク上の別のコンピューターからアクセス可能なウェブアプリケーションを提供し、人間が関与するプレビューを行うこともできます。人間が関与するプレビューを使用すると、ラインオペレーターは、ML モデルからの異常検出をレビューして、モデルの再トレーニングの精度を確保し、低精度の結果にフラグを立てることができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
