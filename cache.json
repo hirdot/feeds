@@ -6,6 +6,146 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "56d24bbd4c5d4ef887bc92d7143c9203ef1ee5d9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能になりました。Nimble Studio をローカルリージョンにデプロイすると、より応答性の高いエクスペリエンスを実現できます。わずか数時間で、NVIDIA Graphical Processing Units (GPU) を備えた Amazon Elastic Compute Cloud (EC2) G4dn インスタンスと、Amazon FSx が実現する高速ストレージを利用できる仮想ワークステーションにクリエイティブな才能を持つ人材がアクセスできる、新しいスタジオ環境を作成できます。Windows と Linux の両方のオペレーティングシステムをサポートしているため、アーティストは Amazon マシンイメージ (AMI) を使用して、任意のクリエイティブツールで、オンプレミスからクラウドへのシームレスな移行を実現できます。画像をレンダリングする準備ができたら、Nimble Studio で AWS Thinkbox Deadline を使用してコンピューティングリソースをスケールできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/",
+          "publishedOn": "2022-04-27T17:50:53.000Z",
+          "wordCount": 270,
+          "title": "Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "153244cd0d6bbf9ccb6a94a08d43b83008676d61",
+          "author": "aws@amazon.com",
+          "description": "本日、Amplify Geo for JavaScript と iOS のリリースに続いて、Amplify Geo for Android の一般提供をしたことをお知らせします。Amplify Geo for Android を使用すると、デベロッパーは、Android アプリに地図や場所の検索のためにクラウドにコネクトされた UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウドにコネクトされたマップ UI コンポーネントを含みます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/",
+          "publishedOn": "2022-04-27T16:41:53.000Z",
+          "wordCount": 266,
+          "title": "Amplify Geo for Android の一般提供の開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8e16d6d04f615745487e04c8db28c29cd1c13d7a",
+          "author": "aws@amazon.com",
+          "description": "現在 Amazon MQ では、ActiveMQ 5.16.4 をサポートしています。この ActiveMQ のアップデートには、これまでサポートしていた ActiveMQ 5.16.3 バージョンからのいくつかの修正と機能の強化が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-activemq-version/",
+          "publishedOn": "2022-04-27T16:33:53.000Z",
+          "wordCount": 259,
+          "title": "Amazon MQ が ActiveMQ バージョン 5.16.4 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "39d3e36eaf896382d4b6860dea6e2506a7608f55",
+          "author": "aws@amazon.com",
+          "description": "Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/",
+          "publishedOn": "2022-04-27T16:19:54.000Z",
+          "wordCount": 273,
+          "title": "Amazon Aurora Serverless v2 の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bcad59f858f61f814dcbc2a5f9f798c8b5237392",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Athena の 10 の新しいデータソースコネクタの一般提供を発表します。Athena　を使用すると、データを前処理またはコピーするための ETL スクリプトを必要とせずに、リレーショナル、非リレーショナル、オブジェクト、およびカスタムのデータソースに保存されているデータをクエリできます。このリリースでは、Athena でクエリできるデータソースの数が拡大され、アナリスト、データエンジニア、データサイエンティスト、デベロッパーがオンプレミスまたはクラウドで稼働するデータベースに保存されているデータからビジネス価値を引き出すのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/",
+          "publishedOn": "2022-04-27T16:13:53.000Z",
+          "wordCount": 260,
+          "title": "Amazon Athenaで新しいデータソースコネクタが一般に利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "acfff182edcefa7a807baca0974c6fcec7c88ab5",
+          "author": "aws@amazon.com",
+          "description": "Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。Textract では、Analyze Document API の新しいクエリ機能を使って、ドキュメントから抽出する必要があるデータを柔軟に指定することができるようになりました。ドキュメント内のデータの構造 (テーブル、フォーム、黙示のフィールド、ネストされたデータ) を知る必要はなく、ドキュメントのバージョンやフォーマットの違いについて心配する必要もありません。クエリは、視覚的、空間的、および言語的な手がかりの組み合わせを活用して、求める情報を高精度で抽出します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/",
+          "publishedOn": "2022-04-27T16:07:53.000Z",
+          "wordCount": 276,
+          "title": "Amazon Textract が、Analyze Document API 内に新しいクエリ機能を提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e3997ab0512dae2fbd42879198892a2d49618f0c",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は AWS Amplify Studio Figma-to-React コード機能の一般提供を発表し、フロントエンドデベロッパーにフルスタックのアプリケーションを構築するためのより高速なワークフローを提供します。これらの新機能は、既存の Amplify Studio のバックエンド作成・管理機能に加え、デベロッパーの UI 開発のスピードアップに役立ちます。一般的に、フロントエンドデベロッパーとデザイナーの間で多くのやり取りが行われ、納期に間に合わせるために妥協した結果、最適とは言えないエンドユーザーエクスペリエンスがもたらされることがあります。Amplify Studio を使用すると、Figma からインポートし、コードにエクスポート、カスタムロジックを使用してコードを拡張することと同じくらい簡単に、設計どおりに UI を開発できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/",
+          "publishedOn": "2022-04-27T16:01:53.000Z",
+          "wordCount": 286,
+          "title": "AWS Amplify Studio の Figma-to-React コード機能が一般に提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "81c06c59b36f6291e88fb0929ca9cdd408606074",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。一旦有効にすると、インターネット上の誰もが、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります！ 1 クリックの公開埋め込みにより、エンドユーザーが数秒でインサイトにアクセスできるようになります。この機能にプレビューでアクセスするには、quicksight-public-embedding-preview@amazon.com までご連絡ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/",
+          "publishedOn": "2022-04-27T15:55:54.000Z",
+          "wordCount": 238,
+          "title": "Amazon QuickSight の 1 クリックの公開埋め込みがプレビューで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b6e1d75e8ab1cf00364aa966dda228fed2551108",
+          "author": "aws@amazon.com",
+          "description": "本日、SageMaker が一般的に利用可能なすべての AWS リージョン (AWS 中国リージョンを除く) において、Amazon SageMaker Serverless Inference の一般提供の開始を発表できることを嬉しく思います。SageMaker Serverless Inference を使用すると、基盤となるインフラストラクチャを設定または管理することなく、推論用の機械学習 (ML) モデルを迅速にデプロイすることができます。ML モデルをデプロイするときにサーバーレスオプションを選択するだけで、Amazon SageMaker は推論リクエストのボリュームに基づいてコンピューティング性能の自動的なプロビジョンやスケールを実行したり、コンピューティング性能をオフにしたりします。SageMaker Serverless Inference では、推論リクエストの処理に使用されるコンピューティング性能 (ミリ秒単位で請求)、および処理されるデータ量に対してのみ料金を支払い、アイドル時間に対する支払いはありません。SageMaker Serverless Inference は、トラフィックが断続的または予測できないアプリケーションに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/",
+          "publishedOn": "2022-04-27T15:48:53.000Z",
+          "wordCount": 326,
+          "title": "Amazon SageMaker Serverless Inference の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0d82f5322557d60bc72c4efdd98ffb73b24c1590",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru は、可用性の向上、パフォーマンスの改善、アプリケーションリソースの利用最適化に役立つプロアクティブインサイトを提供するようになりました。プロアクティブなモニタリングは、アプリケーションとインフラストラクチャの潜在的な問題に早期にフラグを立て、迅速に対応し、コストのかかるダウンタイムを削減るためのキーです。Amazon DevOps Guru は、機械学習 (ML) を使用してアプリケーションリソース、構成、およびアプリケーションメトリクスを分析し、潜在的な将来のオペレーション上の問題を特定して、ユーザーへの影響を防ぎ、アプリケーションのアップタイムを増やします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/",
+          "publishedOn": "2022-04-27T15:42:53.000Z",
+          "wordCount": 286,
+          "title": "Amazon DevOps Guru がAWS サーバーレスアプリケーションの問題に早期にフラグを立てるプロアクティブインサイトを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8bb04ed8343bc94210cc78ef5c04e638ba27c6bb",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue Apache Spark ジョブにおけるオートスケーリングの一般利用が可能になりました。AWS Glue 3.0 では、ワークロードに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングを使用すると、ジョブのリソースを過剰にプロビジョニングしたり、ワーカー数の最適化に時間を費やしたり、アイドル状態のワーカーに料金を支払ったりすることについて心配する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/",
+          "publishedOn": "2022-04-27T15:36:53.000Z",
+          "wordCount": 235,
+          "title": "AWS Glue のオートスケーリングが一般利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d6e9b035ae1915a89650ac21837eb9acee8576ff",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue Studio ジョブノートブックが一般に利用可能になり、AWS Glue インタラクティブなノートブックベースのジョブオーサリングを提供します。データ統合ジョブの開発プロセスを簡素化するのに役立ちます。ジョブノートブックは、AWS Glue インタラクティブセッションのサーバーレスのビルトインインターフェースも提供します。これは、お客様がインタラクティブな Apache Spark ワークロードをオンデマンドで実行できるようにするもう1つの新機能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-notebook-based-job-authoring/",
+          "publishedOn": "2022-04-27T15:30:53.000Z",
+          "wordCount": 238,
+          "title": "AWS Glue におけるインタラクティブなノートブックベースのジョブオーサリングを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6d720c9aa948222f8b9aff5ef23e41cf56a9cfb4",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue における機密データの検出と処理の一般提供を開始しました。この機能は、パターンマッチングと機械学習を使用して、AWS Glue ジョブの実行中に、列レベルとセルレベルの両方で個人識別情報 (PII) やその他の機密データを自動的に検出します。AWS Glue には、PII の種類とその場所をログに記録し、アクションを実行するためのオプションが含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/",
+          "publishedOn": "2022-04-27T15:24:53.000Z",
+          "wordCount": 236,
+          "title": "AWS Glue における機密データの検出と処理の発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c3a9104596478ff03037ae787b8ec2e20a298e5f",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue インタラクティブセッションが、一般提供を開始しました。AWS Glue の高度にスケーラブルな Serverless Spark 環境に新しいインターフェースを提供します。インタラクティブなデータ統合ジョブの開発、データ調査、お客様自身のアプリケーション向けのオンデマンド配信のデータ処理などをサポートします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-interactive-sessions/",
+          "publishedOn": "2022-04-27T15:18:53.000Z",
+          "wordCount": 235,
+          "title": "AWS Glue インタラクティブセッションの一般提供開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "123d5cc8fed367f273de99daa5861f990819249e",
           "author": "aws@amazon.com",
           "description": "Amazon Personalize では、レコメンダーの停止および開始が可能となったことにより、リソースをよりきめ細かく制御できるようになりました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。レコメンダーは、「よく一緒に購入されています」(小売業向け) や、「お客様のための上位のおすすめ」(メディアとエンターテインメント向け) など、特定のユースケースに最適化されたリソースです。使用していないときにレコメンダーを停止すると、レコメンダーを削除することなく、非アクティブ状態に移行します。開始によってアクティブ状態に移行し、レコメンダーのリソースを再作成することなく、中断したポイントから再開します。例えば、テストフェーズ中に、数日間だけレコメンデーションを取得する必要がある場合があります。不要なときにレコメンダーを停止し、いつでもレコメンダーを再開してレコメンデーションリクエストを再開できます。停止したレコメンダーには利用料金はかかりません。",
@@ -2596,16 +2736,6 @@
           "wordCount": 464,
           "title": "第709回　CodiMDでMarkdownをウェブブラウザーから共同編集する ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202203/29",
-          "author": "階戸アキラ",
-          "description": "Debianプロジェクトは3月26日，「Debian 11 \"Bullseye\"」の3回目のポイントリリースとなる「Debian 11.3」と，「Debian 10 \"Buster\"」の12回目のポイントリリース「Debian 10.12」を公開した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202203/29",
-          "publishedOn": "2022-03-29T00:15:00.000Z",
-          "wordCount": 376,
-          "title": "2022年3月29日　Debianプロジェクト，ポイントリリース「Debian 11.3」「Debian 10.12」を同時に公開 ── Linux Daily Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
         }
       ]
     },
@@ -2653,16 +2783,6 @@
           "wordCount": 438,
           "title": "第80回　セミナー「OSSをDX戦略に組み込む」開催報告，MySQL Shell for VS Codeプレビュー・リリース公開＆MySQL HeatWave MLリリース，オープンソースカンファレンスからPostgreSQL情報 ── OSSデータベース取り取り時報",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1433_oss-db-various-news.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0168",
-          "author": "北川健太郎",
-          "description": "MySQLの論理バックアップツールというと，mysqldumpは皆さんご存知のことでしょう。今回は，筆者の使い慣れているMySQLの論理バックアップツールMyDumperについて紹介したいと思います。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0168",
-          "publishedOn": "2022-03-29T00:15:00.000Z",
-          "wordCount": 1046,
-          "title": "第168回　MyDumperを使ってみよう［その1］ ── MySQL道普請便り",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
         }
       ]
     },
@@ -3048,16 +3168,6 @@
           "wordCount": 369,
           "title": "英国政府によるRailsアプリケーションテストの新標準（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/new_standard_of_testing_for_gov.uk_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_03_29/116607",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220329_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。RubyKaigi 2022の開催地と日時が本日公開されました。 🥷 RubyKaigi 2022 Updates: https://t.co/trngVMy3QQ &#8211; We&#39;ll go back in-person, but continue to have virtual edition&#8211; Published COVID-19 Policy, mandatory for all in-person attendees&#8211; We&#39;re looking for sponsors &#8212; RubyKaigi (@rubyk [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_03_29/116607\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: RubyKaigi 2022開催情報、RDB参考資料、DNSのHTTPSレコードほか（20220329後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_03_29/116607",
-          "publishedOn": "2022-03-29T09:45:27.000Z",
-          "wordCount": 656,
-          "title": "週刊Railsウォッチ: RubyKaigi 2022開催情報、RDB参考資料、DNSのHTTPSレコードほか（20220329後編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220329_eyecatch-min.png"
         }
       ]
     },
@@ -3603,6 +3713,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=274719",
+          "author": "Chris Stokel-Walker",
+          "description": "イーロン・マスクによるツイッターの買収が決まった。マスクはツイッターのアルゴリズムのオープンソース化を進めるとしているが、新たなセキュリティリスクをもたらす可能性がある一方で、透明性を高める効果はほとんどない。",
+          "link": "https://www.technologyreview.jp/s/274719/the-problems-with-elon-musks-plan-to-open-source-the-twitter-algorithm/",
+          "publishedOn": "2022-04-27T21:57:05.000Z",
+          "wordCount": 719,
+          "title": "Eマスクがツイッター買収でぶち上げたオープンソース化が危うい理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/27205506/AP_22095591474361-1175x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/04/27/274725/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/04/28/274725/",
+          "publishedOn": "2022-04-27T21:52:35.000Z",
+          "wordCount": 325,
+          "title": "理研など、有限温度では「量子もつれ」が存在しないことを発見",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=274572",
           "author": "Antonio Regalado",
@@ -4427,16 +4557,6 @@
           "wordCount": 336,
           "title": "AIで重症患者を見守る遠隔ICUサービスの実装研究へ＝横浜市立大",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=272041",
-          "author": "Sankar Das Sarma",
-          "description": "量子コンピューティングのスタートアップが大流行しているが、近い将来に実用的なものを生み出せるのか？ メリーランド大学カレッジパーク校の物理学者は懸念を示す。",
-          "link": "https://www.technologyreview.jp/s/272041/quantum-computing-has-a-hype-problem/",
-          "publishedOn": "2022-03-28T22:00:29.000Z",
-          "wordCount": 674,
-          "title": "主張：量子コンピューター・バブルに困惑する理由",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/29065451/hype-thumb-1400x787.png"
         }
       ]
     }
