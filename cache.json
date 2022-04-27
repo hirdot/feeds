@@ -1503,6 +1503,16 @@
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
         {
+          "id": "https://blog.agile.esm.co.jp/entry/delaying-decision",
+          "author": null,
+          "description": "こんにちは、kasumi8pon です。 先日、仕事で調査をしているときに将来エラーが起こりそうなバグを見つけました。それに対して「今は対応しない」という選択をした話をします。 将来起こりそうなエラー 将来エラーが起こりそうなことがわかったのは、全文検索エンジンを利用している箇所でした。ある ID の集合を指定しその ID のデータを結果から除く処理をしていましたが、その除外対象の ID はサービスの成長と共に増えていくことが見込まれています。 いくつかの全文検索エンジンではクエリに含められる句の最大数を設定することができますが、除外対象の ID の数がその設定の値を超えたときにエラーが生じて…",
+          "link": "https://blog.agile.esm.co.jp/entry/delaying-decision",
+          "publishedOn": "2022-04-27T03:00:00.000Z",
+          "wordCount": 227,
+          "title": "対応を先送りにするという選択",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438085282256/1651028419"
+        },
+        {
           "id": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220422",
           "author": null,
           "description": "2022年4月の Rails / OSS パッチ会を 4月22日(金)に Discord でオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひ…",
@@ -3653,6 +3663,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=274390",
+          "author": "MIT Technology Review Japan",
+          "description": "今週のオーディオ・ムック（β）は、送電網向け蓄電池に賭ける米国発ベンチャー企業の最新動向と、欧州が投資を進めているグリーン水素インフラの動向についてレポートする。",
+          "link": "https://www.technologyreview.jp/s/274390/audiomook-the-wall-of-renewable-energy-storage-has-come-so-far/",
+          "publishedOn": "2022-04-27T03:01:19.000Z",
+          "wordCount": 695,
+          "title": "聴くMITTR：「再エネの壁」エネルギー貯蔵はここまできた",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/04/26/274592/",
           "author": "MIT Technology Review Japan",
