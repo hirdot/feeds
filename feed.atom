@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-28T02:54:53.927Z</updated>
+    <updated>2022-04-28T03:50:22.279Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RDSとAurora PostgreSQLの脆弱性により、AWSが多くのマイナーバージョンを非推奨へ]]></title>
+        <id>https://www.infoq.com/jp/news/2022/04/aws-rds-postgres-vulnerability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/04/aws-rds-postgres-vulnerability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-04-28T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティ会社Lightspinの研究者は最近、PostgreSQL拡張機能を使って、どのように内部AWSサービスへの認証を取得し、RDS上のローカルファイル読み取りの脆弱性を悪用できるかを説明した。AWSはこの問題を確認し、Amazon AuroraとRDS for PostgreSQLの数十のマイナーバージョンを非推奨にした。
+ By Renato Losio  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタッフプラスエンジニアへの道：管理職から技術職への回帰]]></title>
+        <id>https://www.infoq.com/jp/news/2022/04/staff-plus-manager-to-tech/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
+        <link href="https://www.infoq.com/jp/news/2022/04/staff-plus-manager-to-tech/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
+        <updated>2022-04-28T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[技術分野の従事者には、管理職のキャリアだけが目標ではない。Fabiane Bizinella Nardon氏は、管理職から技術職に復帰してスタッフプラスエンジニアとなり、スタッフプラスフレンドリな会社を設立した人物だ。氏はQCon London 2022で、"A CTO That Still Codes: My Tortuous Path to the Staff Plus Engineer Role"と題する講演を行った。氏は2022年5月10日～20日のQCon Plusでも講演する予定である。
+ By Ben Linders  Translated by  h_yoshida _]]></summary>
+        <author>
+            <name>Ben Linders</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[優れたスタッフプラスエンジニアになるには]]></title>
         <id>https://www.infoq.com/jp/news/2022/04/becoming-staff-plus-engineer/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
@@ -5021,16 +5043,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <updated>2022-03-29T21:11:40.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINEがApache Software Foundationのシルバースポンサーになったと発表]]></title>
-        <id>https://www.publickey1.jp/blog/22/lineapache_software_foundation.html</id>
-        <link href="https://www.publickey1.jp/blog/22/lineapache_software_foundation.html"/>
-        <updated>2022-03-29T15:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Zホールディングス傘下のLINEは、オープンソースソフトウェアの開発や普及を推進する非営利団体Apache Software Foundationのシルバースポンサーになったことを発表しました。 LINEは、この3月にApache Soft...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>
