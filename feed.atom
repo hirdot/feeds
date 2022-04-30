@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T10:00:29.599Z</updated>
+    <updated>2022-04-30T22:01:01.107Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4756,77 +4756,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AmazonElastic Block Store (EBS)コンテナストレージインターフェース (CSI) ドライバーのインストールおよび管理をサポートすることになりました。これにより、永続的ストレージを EKS クラスターに簡単に接続できるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801"/>
-        <updated>2022-04-01T08:30:03.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/04/rails7_transaction_option_to_with_lock_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds optional transaction arguments to with_lock &#124; Saeloun Blog 原文公開日: 2022/03/23 原著者: Murtaza Bagwala サイト: blog.saeloun.com 日本語タイトルは内容に即したものにしました。 Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳） コンカレンシーの制御には、具体的には2種類のメカニズムがあります。悲観的ロックと楽観的ロックです。 楽観的ロック 楽観的ロック（optimi [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801" data-wpel-link="internal" target="_self">Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月1日　茶トラーず ── 帰ってきた『技評ねこ部通信』]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0401</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0401"/>
-        <updated>2022-04-01T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茶トラのねこは，甘えん坊・・・なの？甘えられたためしがないが。]]></summary>
-        <author>
-            <name>gihyo.jp：LIFESTYLE STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Named pipe でコンテナ越しにお手軽プロセス間通信?]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/containers-ipc-fifo</id>
-        <link href="https://blog.agile.esm.co.jp/entry/containers-ipc-fifo"/>
-        <updated>2022-04-01T01:17:23.000Z</updated>
-        <summary type="html"><![CDATA[本日の TIL は、コンテナ間でデータをやりとりするために名前付きパイプ (named pipe, FIFO) を使ってみたことでわかった利点と注意点です。 先日、ある PoC のための簡単な web アプリケーションを作っている際に、2つのコンテナ間でちょっとしたデータのやりとりをしたい場面がありました。具体的には下の図のように、 ブラウザから入力されたテキストを web のコンテナで受け取り、それを別のコンテナ (仮に processor とします) に投げて処理させ、その結果を受け取り、最後にブラウザに表示する必要があります。 web と processor でのやりとりをどう実装するか…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イノベーション／DXを組織実装するためのポイント マネジメントすべきコミュニケーション戦略とは]]></title>
-        <id>https://data.wingarc.com/?p=40653</id>
-        <link href="https://data.wingarc.com/a-vital-point-of-innovation_dx_by_takebayashi-hajime-2-40653?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-vital-point-of-innovation_dx_by_takebayashi-hajime-2"/>
-        <updated>2022-04-01T01:00:44.000Z</updated>
-        <summary type="html"><![CDATA[イノベーションを分かりやすく解説する第一人者である京都大学経営管理大学院 客員教授、オムロン株式会社 イノベーション推進本部インキュベーションセンタ長の竹林 一氏へ、イノベーションの本質をインタビューする企画の後編です。 […]]]></summary>
-        <author>
-            <name>野島光太郎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月1日号　jammyの開発/Betaリリースと各種調整 ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01"/>
-        <updated>2022-04-01T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[jammyの開発は4月になり，Betaリリースに伴うテスト要請が開始されています。ここからは，（まだいくつか残っている）開発をこなしつつQAを行い，リリースまでの解決を目指す，というフェーズに入ります。]]></summary>
-        <author>
-            <name>吉田史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第80回　セミナー「OSSをDX戦略に組み込む」開催報告，MySQL Shell for VS Codeプレビュー・リリース公開＆MySQL HeatWave MLリリース，オープンソースカンファレンスからPostgreSQL情報 ── OSSデータベース取り取り時報]]></title>
-        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0080</id>
-        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0080"/>
-        <updated>2022-04-01T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
-        <author>
-            <name>梶山隆輔，溝口則行</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データのじかんNews 2022年4月Part.01]]></title>
-        <id>https://data.wingarc.com/?p=40980</id>
-        <link href="https://data.wingarc.com/datatimes_news202204-01-40980?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_news202204-01"/>
-        <updated>2022-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 4月に入り、東京はちょうど桜が見ごろで、初々しさがあふれるフレッシャーズの姿をみてみなさんも心機一転を決意されている […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
     <entry>

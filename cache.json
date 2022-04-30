@@ -1581,16 +1581,6 @@
           "wordCount": 265,
           "title": "全レコードのバリデーションをチェックするgemを作った話",
           "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438077589236/1649037822"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/containers-ipc-fifo",
-          "author": null,
-          "description": "本日の TIL は、コンテナ間でデータをやりとりするために名前付きパイプ (named pipe, FIFO) を使ってみたことでわかった利点と注意点です。 先日、ある PoC のための簡単な web アプリケーションを作っている際に、2つのコンテナ間でちょっとしたデータのやりとりをしたい場面がありました。具体的には下の図のように、 ブラウザから入力されたテキストを web のコンテナで受け取り、それを別のコンテナ (仮に processor とします) に投げて処理させ、その結果を受け取り、最後にブラウザに表示する必要があります。 web と processor でのやりとりをどう実装するか…",
-          "link": "https://blog.agile.esm.co.jp/entry/containers-ipc-fifo",
-          "publishedOn": "2022-04-01T01:17:23.000Z",
-          "wordCount": 546,
-          "title": "Named pipe でコンテナ越しにお手軽プロセス間通信?",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/hibariya/20220401/20220401094832.png"
         }
       ]
     },
@@ -1958,26 +1948,6 @@
           "wordCount": 446,
           "title": "レグテックとは？ スプテックとの違いや活用可能性を今のうちに知っておこう！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/10/DTNJ_Regtech.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40653",
-          "author": "野島光太郎",
-          "description": "イノベーションを分かりやすく解説する第一人者である京都大学経営管理大学院 客員教授、オムロン株式会社 イノベーション推進本部インキュベーションセンタ長の竹林 一氏へ、イノベーションの本質をインタビューする企画の後編です。 […]",
-          "link": "https://data.wingarc.com/a-vital-point-of-innovation_dx_by_takebayashi-hajime-2-40653?utm_source=rss&utm_medium=rss&utm_campaign=a-vital-point-of-innovation_dx_by_takebayashi-hajime-2",
-          "publishedOn": "2022-04-01T01:00:44.000Z",
-          "wordCount": 857,
-          "title": "イノベーション／DXを組織実装するためのポイント マネジメントすべきコミュニケーション戦略とは",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/617bd88489a283d3e8e74a82ae57aa51.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40980",
-          "author": "石川麻里",
-          "description": "データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 4月に入り、東京はちょうど桜が見ごろで、初々しさがあふれるフレッシャーズの姿をみてみなさんも心機一転を決意されている […]",
-          "link": "https://data.wingarc.com/datatimes_news202204-01-40980?utm_source=rss&utm_medium=rss&utm_campaign=datatimes_news202204-01",
-          "publishedOn": "2022-04-01T00:00:00.000Z",
-          "wordCount": 761,
-          "title": "データのじかんNews 2022年4月Part.01",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/03/datatimesnews_2022_04_part1_top.jpg"
         }
       ]
     },
@@ -2696,16 +2666,6 @@
           "wordCount": 533,
           "title": "第710回　Snap版Firefoxを使用しないでやり過ごす ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01",
-          "author": "吉田史",
-          "description": "jammyの開発は4月になり，Betaリリースに伴うテスト要請が開始されています。ここからは，（まだいくつか残っている）開発をこなしつつQAを行い，リリースまでの解決を目指す，というフェーズに入ります。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/01",
-          "publishedOn": "2022-04-01T00:52:00.000Z",
-          "wordCount": 544,
-          "title": "2022年4月1日号　jammyの開発/Betaリリースと各種調整 ── Ubuntu Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
         }
       ]
     },
@@ -2743,16 +2703,6 @@
           "wordCount": 454,
           "title": "第169回　pt-variable-advisorを使ってみよう ── MySQL道普請便り",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0080",
-          "author": "梶山隆輔，溝口則行",
-          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
-          "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0080",
-          "publishedOn": "2022-04-01T00:15:00.000Z",
-          "wordCount": 438,
-          "title": "第80回　セミナー「OSSをDX戦略に組み込む」開催報告，MySQL Shell for VS Codeプレビュー・リリース公開＆MySQL HeatWave MLリリース，オープンソースカンファレンスからPostgreSQL情報 ── OSSデータベース取り取り時報",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1433_oss-db-various-news.png"
         }
       ]
     },
@@ -2840,16 +2790,6 @@
           "wordCount": 410,
           "title": "2022年4月第2週　ようやく，Android Autoデビューしました ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0401",
-          "author": null,
-          "description": "茶トラのねこは，甘えん坊・・・なの？甘えられたためしがないが。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0401",
-          "publishedOn": "2022-04-01T06:00:00.000Z",
-          "wordCount": 347,
-          "title": "2022年4月1日　茶トラーず ── 帰ってきた『技評ねこ部通信』",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         }
       ]
     },
@@ -3128,16 +3068,6 @@
           "wordCount": 1176,
           "title": "週刊Railsウォッチ: Ruby 3.2.0 Preview 1リリース、Rails向けDocker環境ジェネレータ、scientist gemほか（20220404前編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/railswatch_20220404_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/rails7_transaction_option_to_with_lock_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails 7 adds optional transaction arguments to with_lock &#124; Saeloun Blog 原文公開日: 2022/03/23 原著者: Murtaza Bagwala サイト: blog.saeloun.com 日本語タイトルは内容に即したものにしました。 Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳） コンカレンシーの制御には、具体的には2種類のメカニズムがあります。悲観的ロックと楽観的ロックです。 楽観的ロック 楽観的ロック（optimi [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_01/116801",
-          "publishedOn": "2022-04-01T08:30:03.000Z",
-          "wordCount": 439,
-          "title": "Rails 7: with_lockでもtransactionのロック戦略引数を指定可能になった（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/rails7_transaction_option_to_with_lock_eyecatch2-min.png"
         }
       ]
     },
