@@ -1464,56 +1464,6 @@
           "wordCount": 221,
           "title": "Amazon EC2 でインスタンスの自動復旧がデフォルトで実行",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fdaa150017a8ec87e7c1b5ea50496dd4d83e78df",
-          "author": "aws@amazon.com",
-          "description": "CloudWatch で、多くのリソースとワークロードのモニタリング、アラーム、およびダッシュボードを簡単に設定できるようになりました。[CloudWatch Getting Started] (CloudWatch の開始方法) ページの新しいワンクリックオプションを使用すると、CloudWatch Application Insights を便利に起動できます。起動すると、Application Insights は、アカウントまたはリソースグループ内の基盤となるリソースを検出し、それらのヘルスをモニタリングするための推奨されるメトリクス、ログ、およびアラームを設定します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/",
-          "publishedOn": "2022-04-02T01:47:00.000Z",
-          "wordCount": 264,
-          "title": "Amazon CloudWatch が簡単なモニタリング設定のためのオプションを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ae904b9d03f4e84437fe98599998a6c1214bf52b",
-          "author": "aws@amazon.com",
-          "description": "オープンソースコミュニティによる PostgreSQL データベースのアップデートの発表を受け、Amazon Aurora PostgreSQL 互換エディションをアップデートし、PostgreSQL 13.6、12.10、11.15、および 10.20 をサポートするようになりました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/",
-          "publishedOn": "2022-04-02T01:41:00.000Z",
-          "wordCount": 296,
-          "title": "Amazon Aurora が PostgreSQL 13.6、12.10、11.15、10.20、および Babelfish for Aurora PostgreSQL 1.2.0 をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2f51e4b8de9f036387a53213ba59b6ea7b6c7cba",
-          "author": "aws@amazon.com",
-          "description": "Amazon EMR Managed Scaling は、EMR クラスターのサイズを自動的に変更して、最高レベルのパフォーマンスとリソース使用状況を実現します。本日、Apache Spark の中間シャッフルデータを保存するインスタンスをスケールダウンできないようにする Managed Scaling の新機能を発表します。中間シャッフルデータを保存するインスタンスを削除せずにクラスターをインテリジェントにスケールダウンすると、ジョブの再試行と再計算が防止され、パフォーマンスが向上し、コストが削減されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/",
-          "publishedOn": "2022-04-02T01:35:00.000Z",
-          "wordCount": 273,
-          "title": "Amazon EMR Managed Scaling が Spark シャッフルデータに対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "00e262e7db186d3900b134cf1ef6766bcff7e97a",
-          "author": "aws@amazon.com",
-          "description": "本日より、CloudFront ディストリビューションを設定して、CloudFront の動作とパフォーマンスを監視するサーバータイミングヘッダーを含めることができます。サーバータイミングヘッダーは、リクエストの受信時にコンテンツがキャッシュから提供されたかどうか、リクエストが CloudFront エッジロケーションにルーティングされた方法、接続およびレスポンスプロセスの各ステージで経過した時間などの詳細なパフォーマンス情報を提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/",
-          "publishedOn": "2022-04-02T00:11:01.000Z",
-          "wordCount": 229,
-          "title": "Amazon CloudFront がサーバータイミングヘッダーをサポートするようになりました。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "117b8899aa137f77839d2b6603802fdc4bbd1df3",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service (Amazon EKS) は、Amazon EKS コンソール、AWS Command Line Interface (CLI)、および EKS API を使用して、AmazonElastic Block Store (EBS)コンテナストレージインターフェース (CSI) ドライバーのインストールおよび管理をサポートすることになりました。これにより、永続的ストレージを EKS クラスターに簡単に接続できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/",
-          "publishedOn": "2022-04-02T00:05:01.000Z",
-          "wordCount": 268,
-          "title": "EBS CSI ドライバーの EKS アドオンサポートが一般提供になりました。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3077,6 +3027,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/cicddaggerwindows_365_bootjavascriptrome_formatter20224.html",
+          "author": null,
+          "description": "毎日愛用しているiPadの電源スイッチが壊れてしまいました。ソフトウェアスイッチを画面に表示させることで機能を代替できるので使用上は問題ないのですが、半導体不足がこのまま長引くと、いつか新しいiPadが欲しいときに買えなくなるのが心配なので...",
+          "link": "https://www.publickey1.jp/blog/22/cicddaggerwindows_365_bootjavascriptrome_formatter20224.html",
+          "publishedOn": "2022-05-01T15:10:32.000Z",
+          "wordCount": 184,
+          "title": "CI/CDパイプラインをポータブルにする「Dagger」登場／マイクロソフト、「Windows 365 Boot」発表／JavaScriptの高速フォーマッター「Rome Formatter」ほか、2022年4月の人気記事",
+          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/webassembly_20.html",
+          "author": null,
+          "description": "W3Cの WebAssembly Working Groupは、「WebAssembly 2.0」に関する最初のワーキングドラフト「Web Assembly First Public Working Draft」を公開しました。 WebAs...",
+          "link": "https://www.publickey1.jp/blog/22/webassembly_20.html",
+          "publishedOn": "2022-05-01T15:07:06.000Z",
+          "wordCount": 195,
+          "title": "「WebAssembly 2.0」に関する最初のワーキングドラフが公開。整数における符号拡張命令、関数からの複数の戻り値などを拡張",
+          "imageUrl": "https://www.publickey1.jp/2022/wasm2cl.gif"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundation.html",
           "author": null,
           "description": "GoogleとIstioの開発チームは、IstioをCloud Native Computing Foundation（CNCF）のインキュベーションプロジェクトに提出することを発表しました。 Great news! With the su...",
@@ -3573,6 +3543,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=274841",
+          "author": "Zeyi Yang",
+          "description": "ロックダウンが続く上海では、オンライン食料品宅配サービスが住民のライフラインになっている。だが、過去2年間の経験に照らし合わせると、パンデミック後もこれらのサービスが生き残れるかどうかは分からない。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/274841/shanghais-lockdown-is-giving-chinas-online-grocery-apps-a-second-chance/",
+          "publishedOn": "2022-05-01T21:55:59.000Z",
+          "wordCount": 554,
+          "title": "今度こそ定着？ 上海ロックダウンで食料品宅配アプリが正念場",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/29174504/dingdong-shopbasket-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=274777",
           "author": "Casey Crownhart",
