@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-02T10:00:51.359Z</updated>
+    <updated>2022-05-02T22:00:45.321Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IAM を使用して、リソースを含むアカウント、OU、または組織に基づいてリソースへのアクセスをコントロール]]></title>
+        <id>a143273fc036c93d3f8d76eee89cb99c778e4f43</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/iam-access-resource-organization/"/>
+        <updated>2022-05-02T18:49:41.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Identity and Access Management (IAM) は、リソースを含む AWS Organizations のアカウント、組織単位 (OU)、または組織に基づいてリソースへのアクセスをコントロールできる新しい方法を導入しました。AWS では、ワークロードの増大に応じて、複数のアカウントを設定することをお勧めしています。マルチアカウント環境を使用すると、特定のセキュリティ要件があるワークロードまたはアプリケーションを分離することによる柔軟なセキュリティコントロールなど、いくつかの利点があります。この新しい IAM 機能を使用すると、IAM ポリシーを作成して、プリンシパルが特定の AWS アカウント、OU、または組織内のリソースのみにアクセスできるようにできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly が、ポルトガル語でニューラル TTS 音声の提供を開始]]></title>
+        <id>2f14c73ca99bc2c22f320f47a8d17cb0ffcc0dfe</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/"/>
+        <updated>2022-05-02T18:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のイベリアポルトガル語の女性の音声合成 (TTS) 音声である 「Inês」のニューラルバージョンの一般提供開始をお知らせいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が、ポッドアフィニティをサポートする Karpenter v0.9.0 を発表]]></title>
+        <id>fa728e0a89e4c2265acbae984fe080de9bcfc9e6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/"/>
+        <updated>2022-05-02T18:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) が、Karpenter オープンソースクラスター自動スケーリングプロジェクトの v0.9.0 o発表しました。Karpenter は、柔軟性のある高性能の Kubernetes Cluster Autoscaler で、アプリケーションの可用性とリソースの使用率を向上させることができます。Karpenter v0.9.0 はKubernetes podAffinity および podAntiAffinity のスケジュール制約のサポートを追加します。これにより、一般的なサードパーティの Helm チャートとの互換性が高まり、高可用性のユースケースのサポートが拡張されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crystal言語作者がRubyを愛する理由（7）秘密のアルゴリズム（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_05_02/117188</id>
@@ -4811,24 +4841,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[調査会社のSynergy Research Gropuは、アジア太平洋地域におけるクラウドインフラ市場についての調査結果を3月2日付けで発表しています。 これはIaaS、PaaS、ホステッドプライベートクラウドの売り上げの合計を推計したもの...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[過去150万年間の大気中CO2濃度を海底堆積物から解明＝北大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/04/02/272384/</id>
-        <link href="https://www.technologyreview.jp/n/2022/04/03/272384/"/>
-        <updated>2022-04-02T23:14:36.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神経障害性疼痛の自然回復の仕組みを解明、治療薬開発へ前進＝九大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/04/02/272383/</id>
-        <link href="https://www.technologyreview.jp/n/2022/04/03/272383/"/>
-        <updated>2022-04-02T22:47:05.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
