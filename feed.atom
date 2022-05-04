@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T08:00:46.535Z</updated>
+    <updated>2022-05-04T09:00:45.102Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Interactive Video Service にストリーミングチャット機能を追加]]></title>
+        <id>160fd4496fa4e72acffbe6b951adbfba4a2bb629</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-adds-stream-chat-feature/"/>
+        <updated>2022-05-04T08:48:44.000Z</updated>
+        <summary type="html"><![CDATA[新しい Amazon Interactive Video Service (Amazon IVS) のストリーミングチャット機能を使用すると、ライブストリーミングビデオに合わせて設計されたモデレーションオプションを内蔵したスケーラブルなストリーミングチャットルームを構築できるようになりました。この機能により、ストリーマーと視聴者は、質問やディスカッションへの参加によって、コミュニティの関係を構築することができます。Amazon IVS のチャットでは、チャットルームのリソース管理、チャットメッセージの送受信やモデレート用のメッセージング API が提供されます。詳細については、Amazon IVS チャット機能のページをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Control Tower が Python 3.9 ランタイムを新たにサポート]]></title>
+        <id>005a1eaa7c3711484f7cceee36a93894430ce43b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-control-tower-supports-python-3-9-runtime/"/>
+        <updated>2022-05-04T08:47:57.000Z</updated>
+        <summary type="html"><![CDATA[本日、Notification Forwarder Lambda に Python バージョン 3.9 ランタイムを使用する変更を含む、AWS Control Tower のアップデートをアナウンスしています。このアップデートは、計画されている Python バージョン 3.6 ランタイムの非推奨に対応しています。ランタイムバージョンがサポート終了に達した後も、関数の呼び出しは無期限に継続されます。しかし、AWS は、セキュリティパッチを受け取り、技術サポートを受け続けることができるように、サポートされているランタイムバージョンに関数を移行することを強く推奨します。その他の非推奨の詳細については、ランタイムの非推奨ポリシーを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Postgres が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポート]]></title>
+        <id>ad2fa3ddf26fe5e428946216a99dee858762aceb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-postgres-supports-m6i-r6i-instances/"/>
+        <updated>2022-05-04T08:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Postgres のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Snow、お客様のプレミスから AWS への大規模なデータ移行を計画および管理する Large Data Migration Manager の提供を開始]]></title>
+        <id>ff78c9fcba272505dfb102e6462333b6cfb62dda</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/"/>
+        <updated>2022-05-04T08:46:20.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Snow Family は、複数の Snowball Edge サービス製品を使用する際に、大規模データ移行の計画、追跡、管理を可能にする新機能 Large Data Migration Manager の提供を開始しました。最小 500 テラバイトからペタバイトスケールのデータ移行まで、簡単にジョブの計画、モニタリングができるようになりました。Large Data Migration Manager を使用することで、すべての Snow ジョブとそのデータ取り込みの状況を手動で追跡する必要がなくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Backup for Amazon FSx が AWS アジアパシフィック (大阪) リージョンで利用可能に]]></title>
         <id>74384c36cca373ce9f7209a808cf51c7e641072a</id>
