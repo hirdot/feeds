@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "74384c36cca373ce9f7209a808cf51c7e641072a",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup のポリシーベースのデータ保護機能が、AWS アジアパシフィック (大阪) リージョンの Amazon FSx で利用できるようになりました。AWS Backup を使用して、大阪リージョンで、コンピューティング、ストレージ、およびデータベースのために、他の AWS のサービスとともに、Amazon FSx に保存されているアプリケーションデータのバックアップと復元を一元的に自動化できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/",
+          "publishedOn": "2022-05-04T00:49:11.000Z",
+          "wordCount": 252,
+          "title": "AWS Backup for Amazon FSx が AWS アジアパシフィック (大阪) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "726a503b031b441451bda526db2479f794316a10",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lightsail は、Lightsail ロードバランサーに、HTTP リクエストを HTTPS に自動的にリダイレクトする機能と、HTTPS リクエストの TLS 終了に使用されるセキュリティポリシーを設定する機能の 2 つの新しいセキュリティ機能を追加しました。これらの機能を使用すると、ウェブサイトをホストする Lightsail インスタンスで Lightsail ロードバランサーを設定するだけで、ウェブサイトをより安全にし、コンプライアンス目標を達成し、検索ランキングと SSL/TLS スコアを向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/",
+          "publishedOn": "2022-05-04T00:48:23.000Z",
+          "wordCount": 298,
+          "title": "Amazon Lightsail ロードバランサーで自動 HTTPS リダイレクトと設定可能な TLS セキュリティポリシーのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2d0cbbd7b7b6f410f693f5ca7534e89a67afa29b",
+          "author": "aws@amazon.com",
+          "description": "本日より、ローカル NVMe ベースの SSD ストレージを備えたメモリ最適化 Amazon EC2 R6gd インスタンスが南米 (サンパウロ) でご利用いただけます。R6gd インスタンスは、オープンソースデータベース、インメモリキャッシュ、およびリアルタイムビッグデータ分析などのメモリを多用するワークロード向けに、同等の x86 ベースのインスタンスよりも最大 40% 優れた料金パフォーマンスと最大 50% 多くの NVMe ストレージ GB/vCPU を提供します。これらは、高速で低レイテンシーのストレージへのアクセスが必要なアプリケーション、バッチやログ処理などのデータの一時的なストレージ、および高速キャッシュとスクラッチファイルに最適です。Amazon EC2 R6gd インスタンスは、Amazon EC2 で最高の料金パフォーマンスを実現するために AWS によってカスタム設計された AWS Graviton2 プロセッサを搭載しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/",
+          "publishedOn": "2022-05-04T00:47:36.000Z",
+          "wordCount": 442,
+          "title": "AWS Graviton2 を搭載した Amazon EC2 R6gd インスタンスが南米 (サンパウロ) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0a52de1ed6d3110229df4a98c560966353328352",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB バージョン 10.4 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/",
+          "publishedOn": "2022-05-04T00:46:48.000Z",
+          "wordCount": 372,
+          "title": "Amazon RDS for MariaDB は、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポートするようになりました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b6c392dc70933f075f4df80521347dbe1ad7d9eb",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 C6i、M6i、および R6i インスタンスは、AWS GovCloud (米国) リージョンでご利用いただけます。これらのインスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、幅広いワークロードにおいて同等の Gen5 インスタンスと比較して最大 15％ のコンピュートティングプライスパフォーマンスを提供し、インテルトータルメモリーエンクリプション (TME) を使用した常時メモリ暗号化を実現しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/",
+          "publishedOn": "2022-05-04T00:45:59.000Z",
+          "wordCount": 387,
+          "title": "Amazon EC2 C6i、M6i、および R6i インスタンスが AWS GovCloud (米国) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "199ec1db2abd212a2cb55129692d7cebfa8206d3",
           "author": "aws@amazon.com",
           "description": "本日、建物や工場、生産ライン、設備などの実際実際のシステムのデジタルツインをデベロッパーが簡単に作成できるサービス AWS IoT TwinMaker の一般提供を発表します。スマートビルディング、製造、建設、エネルギー、電力・ユーティリティなどの業界で、お客様がより良いオペレーションと戦略的な意思決定を行うために、デジタルツインの導入が進んでいます。AWS IoT TwinMaker を使用することで、デジタルツインを構築するために必要なツールを手に入れ、生産工程のモニタリングと改善に役立てることができます。",
