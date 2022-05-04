@@ -6,6 +6,116 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "331fb0bc9a3bc64235ccd6412387c3e5f4df341d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) において、お客様は新規および既存の RDS インスタンスの Virtual Private Cloud (VPC) で Internet Protocol version 6 (IPv6) アドレスを使用することも可能になりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/",
+          "publishedOn": "2022-05-04T13:17:48.000Z",
+          "wordCount": 279,
+          "title": "Amazon RDS が Internet Protocol Version 6 (IPv6) をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5966c09689882ca11ad0d403c5b57591ed1bd07d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、Voice ID の認証と不正検出の結果を問い合せ詳細ページで検索して表示することができるようになり、Voice ID の結果に基づくアクションが実行しやすくなりました。認証ステータス、発信者アクション (登録またはオプトアウト)、不正リスクステータス、不正リスク理由などの Voice ID 属性に基づいて問い合せ先を検索することができます。これら詳細は、特定の問い合せ先の問い合せ詳細ページからも確認することができます。例えば、詐欺のリスクが高いとされる問い合わせ先をすべて検索し、その通話録音を聞くことで詐欺師のパターンや戦略を特定し、それに対応したセキュリティ対策を追加でデプロイすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-surfaces-voice-id-attributes-on-contact-detail-page/",
+          "publishedOn": "2022-05-04T13:16:39.000Z",
+          "wordCount": 235,
+          "title": "Amazon Connect により、問い合わせ詳細ページに直接 Voice ID の属性を表示可能",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4d9b06bfce35e49714e41e0eb6cd14acaadb750f",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MySQL バージョン 8.0 が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/",
+          "publishedOn": "2022-05-04T13:03:31.000Z",
+          "wordCount": 372,
+          "title": "Amazon RDS for MySQL が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポートするようになりました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9a9afb36797c9c856ddbca913e7024eed6dc840a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供開始をお知らせいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voices-brazilian-portuguese/",
+          "publishedOn": "2022-05-04T13:02:35.000Z",
+          "wordCount": 251,
+          "title": "Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bd9505f890c393d2c865fdc15961c015410a53ac",
+          "author": "aws@amazon.com",
+          "description": "Amazon MSK Serverless の一般提供開始を発表いたします。これは、デベロッパーが容量を管理しなくても Apache Kafka を簡単に実行できるようにする Amazon MSK クラスターの一種です。MSK Serverless は、コンピューティングリソースとストレージリソースを自動的にプロビジョニングおよびスケーリングし、スループットベースの料金を提供するため、Apache Kafka をオンデマンドで使用し、ストリーミングおよび保持するデータの料金に対して支払いを行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/",
+          "publishedOn": "2022-05-04T13:01:48.000Z",
+          "wordCount": 298,
+          "title": "Amazon MSK Serverless が一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bff6c7c5d39b521e0c979664facbee8896e57eaa",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Email Service (SES) の V2 では、最大 40MB のメッセージサイズ（E メールテキスト、画像、添付ファイル、および MIME エンコーディングを含む）の E メールを送受信できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/",
+          "publishedOn": "2022-05-04T11:37:08.000Z",
+          "wordCount": 264,
+          "title": "Amazon SES V2 は、デフォルトでインバウンドおよびアウトバウンドの E メールに対して最大 40 MB までサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8cde52d1badbb3240834906c899672e7186ece11",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift RA3 インスタンスは、アジアパシフィック（大阪）、欧州（ミラノ）、中東（バーレーン）、アフリカ（ケープタウン）の各リージョンで利用できるようになりました。マネージドストレージを備えた Amazon Redshift RA3 インスタンスを使用すると、コンピューティングとストレージを個別にスケールして料金を支払うことで、クエリのパフォーマンスを高速化し、コストを削減できます。また、Amazon Redshift クラスター間でライブデータを安全かつ簡単に共有できます。RA3 は、3 つの異なるノードタイプ (RA3.16xlarge、RA3.4xlarge、RA3.xlplus) で利用可能となっており、ワークロードの要件に応じて料金とパフォーマンスのバランスをとることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/",
+          "publishedOn": "2022-05-04T11:35:46.000Z",
+          "wordCount": 254,
+          "title": "Amazon Redshift では、アジアパシフィック（大阪）、欧州（ミラノ）、中東（バーレーン）、アフリカ（ケープタウン）の各リージョンで RA3 インスタンスが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "53c7df7ab4305380ff18a67c6bccc8130918966c",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda モニタリングを簡単にセットアップでき、Amazon CloudWatch Application Insights を介して、直接 Amazon CloudWatch Lambda Insights コンソールからの Lambda 関数の正常性を表示できるようになりました。この統合により、問題の詳細な調査、問題のトラブルシューティング、および Lambda 関数の解決までの平均時間の短縮が簡単にできます。Application Insights の簡単なセットアップと問題分析を、Lambda Insights のモニタリングの詳細やトラブルシューティングと組み合わせ、AWS で実行中の Lambda 関数の正常性とパフォーマンスの統合ビューを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/",
+          "publishedOn": "2022-05-04T11:34:57.000Z",
+          "wordCount": 266,
+          "title": "Application Insights を介した Lambda Insights の統合ビューが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6a080e46a1e117c0ddf8a73f6381aa76234fc978",
+          "author": "aws@amazon.com",
+          "description": "本日、トロントの Bell 5G ネットワークで AWS Wavelength の一般提供が開始されることを発表します。企業、アプリケーションデベロッパー、独立系ソフトウェアベンダー (ISV) は、トロントの AWS Wavelength Zone を利用して、カナダのモバイル機器やエンドユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/",
+          "publishedOn": "2022-05-04T11:34:08.000Z",
+          "wordCount": 295,
+          "title": "AWS は、カナダで最初の AWS Wavelength Zone の一般提供の開始を発表しました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fc795c16b06f65f5b66a2b777ff819a8d3646f73",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、AWS GovCloud (米国西部) リージョンで、Amazon Connect コンタクトセンターの問い合わせ (音声通話、チャット、タスク) のイベント (通話がキューに入っているなど) に対して、ほぼリアルタイムのストリームをサブスクライブできるようになりました。これらのイベントには、音声通話、チャット、タスクが開始された、1 人のエージェントに割り当てるためキューに入った、エージェントにつながった、別のエージェントまたはキューに転送された、切断されたなどのイベントが含まれます。Contact Events は、コンタクトアクティビティをモニタおよび追跡するための分析ダッシュボードを作成する、コンタクトセンターのパフォーマンスをより的確に理解するためにワークフォースマネジメント (WFM) ソリューションに統合する、または、イベント (通話が切断されたなど) にリアルタイムで対応するアプリケーションを統合するために使用できます。Amazon Connect Contact Events は、Amazon EventBridge を通じて発行され、Amazon EventBridge AWS コンソールに行き、新しいルールを作成することで、数クリックでセットアップできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/",
+          "publishedOn": "2022-05-04T11:32:49.000Z",
+          "wordCount": 257,
+          "title": "AWS GovCloud (米国西部) リージョンで、Amazon Connect の音声通話、チャット、タスクなどのアクティビティにほぼリアルタイムで詳細情報を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "11ccc1862c9bef2b5ab3447a315236dab1aecc77",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、Amazon Connect インスタンスでユーザーレコードを検索できる新しい API をサポート開始しました。この新しい API は、名前、姓、ユーザー名、ルーティングプロファイル、セキュリティプロファイル、エージェント階層、またはタグでユーザーを検索できるプログラム的で柔軟な方法を提供します。例えば、この API を使用して、Department:A のキーと値のペアでタグ付けされたすべてのユーザーを検索できます。また、特定のセキュリティプロファイル、ルーティングプロファイル、またはエージェント階層に割り当てられているすべてのユーザーのリストをすばやく見つけることができます。この新しい API の詳細については、「API ドキュメント」を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/",
+          "publishedOn": "2022-05-04T11:32:02.000Z",
+          "wordCount": 241,
+          "title": "Amazon Connect で、名前、エージェント階層、タグでユーザーを検索できる API が利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "2f029ee7eae40de464a17a66ce535fe7078f097e",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) on AWS Outposts では、ストレージの手動および自動スケーリングのサポートを開始しました。AWS Outposts は、AWS のインフラストラクチャ、AWS のサービス、API、およびツールをほぼすべてのデータセンター、コロケーションスペース、オンプレミスの施設に拡張する、真に一貫性のあるハイブリッドエクスペリエンスを実現するフルマネージドサービスです。Amazon RDS on AWS Outposts を使用すれば、マネージド DB インスタンスをオンプレミス環境にデプロイできます。",
@@ -3158,16 +3268,6 @@
           "wordCount": 603,
           "title": "週刊Railsウォッチ: RBS関連記事、Ruby formatterプロジェクト、Google Cloud Runほか（20220406後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/railswatch_20220406_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_05/116823",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/ails_where.first_vs_find_by_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Know what your scopes are doing: where.first vs find_by &#8211; Andy Croll 原文公開日: 2022/03/14 原著者: Andy Croll 日本語タイトルは内容に即したものにしました。 参考: 週刊Railsウォッチ20220328 where.firstとfind_by Rails: where.firstとfind_byの違いを知る（翻訳） Active RecordのようなORM（Object-Relational Mapper）でSQLを生成することには多くのメリットが [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_05/116823\" data-wpel-link=\"internal\" target=\"_self\">Rails: where.firstとfind_byの違いを知る（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_05/116823",
-          "publishedOn": "2022-04-05T08:30:16.000Z",
-          "wordCount": 376,
-          "title": "Rails: where.firstとfind_byの違いを知る（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/ails_where.first_vs_find_by_eyecatch2-min.png"
         }
       ]
     },
@@ -4332,36 +4432,6 @@
           "wordCount": 565,
           "title": "キーウの放射線専門家が語る ウクライナ原発事故のリスク",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25180505/Vadim-top-590x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/04/272485/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/05/272485/",
-          "publishedOn": "2022-04-05T03:13:37.000Z",
-          "wordCount": 349,
-          "title": "東北大ら擬似アニーリング技術、最適化問題で本物超え",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/04/272571/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/05/272571/",
-          "publishedOn": "2022-04-04T23:42:34.000Z",
-          "wordCount": 349,
-          "title": "論理量子ビット間での演算を可能にする誤り訂正手法＝慶應大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/04/272576/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/05/272576/",
-          "publishedOn": "2022-04-04T22:38:18.000Z",
-          "wordCount": 338,
-          "title": "NEDO、ドローン向けサイバーセキュリティ指針を公開",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
