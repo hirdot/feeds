@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T22:00:46.956Z</updated>
+    <updated>2022-05-05T00:00:46.662Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4744,86 +4744,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[マイクロソフトは日本時間4月6日未明にオンラインイベント「Windows Powers the Future of Hybrid Work」を開催。ハイブリッドな働き方を支援するとして、Windows 11のセキュリティ強化に関する新機能を...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Firewall Manager が Palo Alto Networks Cloud Next Generation Firewall のサポートを開始]]></title>
-        <id>8785b25ff398fb3687ed9abfc353f38e1e5a117d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/"/>
-        <updated>2022-04-05T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Firewall Manager を使用して、AWS Organization 内のすべての AWS 仮想プライベートクラウド (VPC) で、Palo Alto Networks Cloud Next Generation Firewall (NGFW) を一元的にデプロイし、モニタリングできるようになりました。本リリースにより、AWS のネイティブのファイアウォールに加えて、Palo Alto Networks Cloud NGFW のデプロイと管理も行える、単一のファイアウォール管理ソリューションをお客様に提供できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub で、セキュリティ体制のモニタリング用の 12 のコントロールが利用可能に]]></title>
-        <id>7322935e0b8c1ae74b393917769ea0c1c2a2d47f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-security-hub-launches-controls-security-posture-monitoring/"/>
-        <updated>2022-04-05T11:38:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub では、お客様の Cloud Security Posture Management (CSPM) を強化する目的で、基本的なセキュリティのベストプラクティス標準 (FSBP) として 12 の新しいコントロールが利用できるようになりました。これらのコントロールは、Amazon Auto Scaling、Amazon CloudFront、AWS CodeBuild、Amazon EC2、Amazon Elastic Container Service (ECS)、AWS Lambda、Amazon Network Firewall、Amazon Relational Database Service (Amazon RDS)、Amazon Redshift、および Amazon Simple Storage Service (S3) のセキュリティのベストプラクティスに対して完全に自動化されたチェックを実行します。Security Hub で新しいコントロールを自動的に有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub では、AWS のセキュリティ体制を自動的にチェックするための 187 のセキュリティコントロールがサポートされるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle が、12.1 用の 2022 年 1 月のパッチセットの更新 (PSU)、および 12.2 と 19c 用のリリース更新 (RU) のサポートを開始]]></title>
-        <id>5b0d0473fc38b634972f51b143d6f3634b2cd374</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/"/>
-        <updated>2022-04-05T11:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は、Oracle Database 12.1 用の 2022 年 1 月のパッチセットの更新 (PSU)、および Oracle Database 12.2 と 19c 用のリリース更新 (RU) をサポートするようになりました。21c には既に 2022 年 1 月の RU が適用されていることをご了承ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Textract で、テーブルおよびチェックボックスの検出機能の更新を発表]]></title>
-        <id>97cf353956596f78d3ca325e1a519eb44aa600e9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-textract-updates-tables-check-detection/"/>
-        <updated>2022-04-05T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Textract は、ほぼすべてのドキュメントからのテキストとデータの抽出を容易にする機械学習サービスです。お客様のフィードバックをもとに、基盤となる機械学習モデルを継続的に改善することで、さらに高い精度を実現します。本日、テーブルおよびチェックボックスの検出機能の品質がいくつかの点で強化されたことについてお知らせします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Organizations で AWS アカウントの解約を一元管理し、エンドツーエンドのアカウントライフサイクル管理が容易に]]></title>
-        <id>c280b8b6efcf962b6b84697fcfe35b46c5cc6c2d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/"/>
-        <updated>2022-04-05T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Organizations のメンバーアカウントの解約は、コンソールを使用するか、AWS Command Line Interface (CLI) または SDK を介してプログラムで一元的に実行できるようになりました。この機能を使用すると、各メンバーアカウントに個別にログインしなくても、組織の管理アカウントからメンバーアカウントを解約できるようになるため、アマゾン ウェブ サービスのワークロードをより簡単かつ効率的に管理できます。また、IAM アクセス許可を使用して、管理アカウントの IAM ロールまたはユーザーを承認することで、インフラストラクチャのミッションクリティカルなアカウントを保護しながらアカウントの解約をセキュアに実行することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue 2.0 が AWS Glue FindMatches の使用によりファジーマッチングと重複排除をサポート]]></title>
-        <id>b99b6e00fc5c7fa3d991165659fc149f764153ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/"/>
-        <updated>2022-04-05T11:02:01.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue バージョン 2.0 は、AWS Glue FindMatches 機械学習の変換をサポートするようになりました。AWS Glue FindMatches は、顧客レコードのリンク、製品カタログの重複排除、不正検出などのユースケースにおいて、部分的に一致するレコードを特定するプロセスを自動化します。Glue 2.0 では、FindMatches を使用してファジーマッチングを実行する ETL ジョブは 1 分以内に開始され、1 分の最低料金が適用されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP で、ファイルシステムのスループット容量の変更が可能に]]></title>
-        <id>1241df8c6f359727bfc054827bf2f122f6af823c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-fsx-netapp-ontap-enables-change-throughput-capacity-file-systems/"/>
-        <updated>2022-04-05T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon FSx for NetApp ONTAP では、ボタンをクリックするだけでファイルシステムのスループット容量を変更できるようになり、時間の経過とともに変化するニーズに合わせて柔軟にスケールアップまたはスケールダウンができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 でインスタンスの自動復旧がデフォルトで実行]]></title>
-        <id>dc37236e2a9c0e36dbde28a1c097f758d1c621f7</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/"/>
-        <updated>2022-04-05T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 で自動復旧がデフォルトで実行されるようになりました。この新機能により、インスタンスが到達不可能になった場合の復旧がさらに容易になります。自動復旧により、基盤となるハードウェアの問題でインスタンスに障害が発生した場合の復旧が可能になり、インスタンスの可用性が向上します。自動復旧では、インスタンスは別のハードウェアに移行されて再起動されます。インスタンス ID、プライベート IP アドレス、Elastic IP アドレス、およびすべてのインスタンスメタデータは保持されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
