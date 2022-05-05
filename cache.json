@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "91ff9edad29ddf78f3c7253faceab855832744dc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL  のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/",
+          "publishedOn": "2022-05-05T10:35:54.000Z",
+          "wordCount": 372,
+          "title": "Amazon RDS for PostgreSQL が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2a6f50fc2952071073e786cc89bf64bbf4890342",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard で新たに、SAP システムをデプロイするときに、将来のデプロイ用として、入力のクローンを作成できるようになりました。ほとんどのケースで、これらのパラメータの主なものは、デプロイ間で変化しません。今回のリリースで、後のデプロイ時にすべてのパラメータを手作業ですべて入力し直す必要がなくなり、時間を短縮し、デプロイごとに異なるわずかなパラメータに集中することでエラーを減らすことにつながります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/",
+          "publishedOn": "2022-05-05T10:35:05.000Z",
+          "wordCount": 243,
+          "title": "将来の SAP デプロイを簡略化するために、AWS Launch Wizard の入力のクローンを作成する",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "470c6c70e35257e279d544aeea50f5c52d86425c",
+          "author": "aws@amazon.com",
+          "description": "AWS Service Catalog で AWS クラウド開発キット (AWS CDK) の構成要素がご利用いただけるようになりました。Service Catalog の管理者は、AWS CloudFormation をデプロイする CDK アプリケーションでコードにカタログを定義できるようになりました。また、Amazon Simple Storage Service (Amazon S3) または AWS CodeCommit で最初に CloudFormation テンプレートをアップロードしたり、参照したりすることなく、CDK のコードで Service Catalog 製品をすべて定義することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/",
+          "publishedOn": "2022-05-05T10:33:47.000Z",
+          "wordCount": 310,
+          "title": "AWS Service Catalog で AWS クラウド開発キット (AWS CDK) のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "20799cd045fff5fd9ee5acc5dfc298f459516154",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall で AWS Managed Threat Signatures のサポートが始まりました。この機能は脅威を検出し、既知の脆弱性に対する攻撃を阻止します。これにより、独自のルールを書いたり保守したりすることなく最新のセキュリティの脅威に対し、常に防御を固めることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/",
+          "publishedOn": "2022-05-05T10:32:59.000Z",
+          "wordCount": 280,
+          "title": "AWS Network Firewall で AWS Managed Threat Signatures のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "54bb8f236d66147e208f19080e360f8073e2510d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供が開始されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/",
+          "publishedOn": "2022-05-05T10:32:11.000Z",
+          "wordCount": 253,
+          "title": "Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b70ed2645eb11f63ed52bf76d4af201d8706f4ce",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は Amazon Rekognition Streaming Video Events の一般提供開始を発表しました。本サービスは接続されたカメラから受信したライブの動画ストリーミングで、人、ペット、荷物などの対象を検出するために機械学習 (ML) を使用するカメラメーカーおよびサービスプロバイダー向けのフルマネージドサービスです。Amazon Rekognition Streaming Video Events は指定したオブジェクトがライブの動画ストリーミングで検出されるとすぐに、ユーザーに通知を送信します。このイベント通知機能を使用すると、サービスプロバイダーは「裏庭にペットがいます」などタイミングよく、有効なスマートアラートをユーザーに送信できます。また、人の動きが確認されたときに車庫の照明をつけるなどホームオートメーション、荷物に関する特定の動画イベントが何時間分もの記録をスクロールしないでも見つかるスマート検索などに活用することもできます。さらに、ドアの呼び鈴で宅配業者がパッケージを配達しているところが認識されたときに「荷物が表玄関に配達されました」など、Alexa の音声サポートと連動させるよう Echo デバイスにこれらのアラートを統合することも可能です。その一方で、コストとレイテンシーは低く抑えることができます。こちらより Amazon Rekognition Streaming Video Events についてさらに詳しくご覧いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/",
+          "publishedOn": "2022-05-05T10:31:18.000Z",
+          "wordCount": 288,
+          "title": "Amazon Rekognition でライブの動画ストリーミングにリアルタイムのアラートを出す Streaming Video Events の利用が開始に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "331fb0bc9a3bc64235ccd6412387c3e5f4df341d",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) において、お客様は新規および既存の RDS インスタンスの Virtual Private Cloud (VPC) で Internet Protocol version 6 (IPv6) アドレスを使用することも可能になりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。",
@@ -1948,46 +2008,6 @@
           "wordCount": 553,
           "title": "宮城県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/4-1.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40012",
-          "author": "石川麻里",
-          "description": "岩手県では、官民一体で地域の基幹産業である農業・漁業のDX化に向けて、様々な実証実験に積極的に取り組んでいます。 県民、企業、産業の課題解決に向けた自治体の組織体制の構築、具体的な取り組みは着々と進んでおり、半導体・自動 […]",
-          "link": "https://data.wingarc.com/local-dx-lab-iwate-40012?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-iwate",
-          "publishedOn": "2022-04-06T03:01:36.000Z",
-          "wordCount": 563,
-          "title": "岩手県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねる LocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/4.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39971",
-          "author": "石川麻里",
-          "description": "青森県は令和3年の計画で ・「経済を回す」仕組みの再起動 ・「新しい生活様式」を支えるデジタル化の推進 を掲げており、「産業・雇用」、「基盤の整備、人財の育成・確保」、「安全・安心、健康」、「行政経営」への積極的なICT […]",
-          "link": "https://data.wingarc.com/local-dx-lab-aomori-39971?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-aomori",
-          "publishedOn": "2022-04-06T03:00:02.000Z",
-          "wordCount": 574,
-          "title": "青森県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねる LocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/3.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39655",
-          "author": "tadokoroyusuke",
-          "description": "北海道は ・ICTやAI、ロボットなどの未来技術の活用による課題解決 ・データを活用した道民生活の一層の向上や新サービスの創出 を目指す未来社会「北海道Society5.0」でDX・IT化を推進しています。 「北海道So […]",
-          "link": "https://data.wingarc.com/local-dx-lab-hokkaido-39655?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-hokkaido",
-          "publishedOn": "2022-04-06T02:59:15.000Z",
-          "wordCount": 593,
-          "title": "北海道の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねる LocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/2.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=35450",
-          "author": "BunkiMIyata",
-          "description": "FinTechやFoodTechなど、〇〇Tech、という言葉を最近よく耳にするようになりました。既存の分野とテクノロジーを掛け合わせて作られたこれらの言葉はまとめてX-tech（クロステック）と呼ばれています。そして、 […]",
-          "link": "https://data.wingarc.com/reg-tech-35450?utm_source=rss&utm_medium=rss&utm_campaign=reg-tech",
-          "publishedOn": "2022-04-05T23:00:01.000Z",
-          "wordCount": 446,
-          "title": "レグテックとは？ スプテックとの違いや活用可能性を今のうちに知っておこう！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/10/DTNJ_Regtech.jpg"
         }
       ]
     },
@@ -2422,46 +2442,6 @@
           "wordCount": 1169,
           "title": "Dropbox、ネイティブアプローチへの転換によってAndroidアプリの高速化と信頼性向上を実現",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220331101138/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/java18-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "Oracleはバージョン18のJavaプログラミング言語と仮想マシンをリリースした。9つのJEPを含む最終機能セットが提供される。このリリースには、Project Amber、Project Loom、Project Panamaに向けて継続的に貢献するJEPと、便利な新しいツールがいくつか含まれている。\n By Michael Redlich  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/java18-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-06T05:46:00.000Z",
-          "wordCount": 1479,
-          "title": "Java18が利用可能に",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220331101035/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/aws-billing-conductor-finops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近、AWSはAWS Billing Conductorを発表した。これにより、企業は最終顧客やビジネスユニット向けにカスタマイズ可能な価格設定とコストの可視性をクイックに提供できるようになる。このサービスは、特定のショーバックとチャージバックのニーズがある企業を対象としているため、顧客とAWSの間の支払いと請求の関係に影響を与えるものではない。\n By Steef-Jan Wiggers  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/aws-billing-conductor-finops/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-06T05:39:00.000Z",
-          "wordCount": 1184,
-          "title": "AWS Billing Conductorによる価格のカスタマイズとコストの可視化",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220331101138/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/azure-purview-workflows-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近、MicrosoftはAzure Purviewワークフローのプレビューを発表した。これにより、顧客は、反復可能なビジネスプロセスを使って、データエンティティに対する統合を行い、そして作成・更新・削除の操作、検証、承認ができるようになる。これらのワークフローは現在プレビュー中であり、Azure Purviewの一部である。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/azure-purview-workflows-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-06T05:34:00.000Z",
-          "wordCount": 1195,
-          "title": "Azure Purviewワークフローを使って、データエンティティの操作、検証、承認を統合",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220331101035/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/google-cloud-security-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Google Cloudは最近、コミュニティセキュリティ分析（CSA）をリリースした。これは、一般的なクラウドベースの脅威の検出に役立てられるように設計されたセキュリティ分析用のオープンソースクエリとルールの集合である。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/google-cloud-security-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-06T05:23:00.000Z",
-          "wordCount": 576,
-          "title": "Google Cloudがコミュニティセキュリティ分析を導入",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220331101035/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2696,16 +2676,6 @@
           "wordCount": 529,
           "title": "2022年4月8日号　jammyの開発/Kernel Freezeとリリースノート ── Ubuntu Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0710",
-          "author": "あわしろいくや",
-          "description": "今回は，どうにかしてSnapパッケージ版Firefoxを使用しないで済む方法を紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0710",
-          "publishedOn": "2022-04-06T00:54:00.000Z",
-          "wordCount": 533,
-          "title": "第710回　Snap版Firefoxを使用しないでやり過ごす ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
         }
       ]
     },
@@ -3564,6 +3534,26 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=274184",
+          "author": "Patrick Howell O'Neill",
+          "description": "かつてアイフォーンのハッキングに成功したオランダのセキュリティ研究者チームが、世界的なハッキング・コンテストで、送電網や原子炉などのインフラを制御する通信規格のハッキングに成功した。研究チームは、産業用制御システムはセキュリティがひどく遅れていると指摘する。",
+          "link": "https://www.technologyreview.jp/s/274184/these-hackers-showed-just-how-easy-it-is-to-target-critical-infrastructure/",
+          "publishedOn": "2022-05-05T22:00:08.000Z",
+          "wordCount": 702,
+          "title": "発電所も使う通信規格のハッキング、「これまでで一番簡単」",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/22010503/zero-day-team-1400x782.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=274583",
+          "author": "Jessica Hamzelou",
+          "description": "英エディンバラ大学の研究チームは、テストステロン療法を受けているトランスジェンダー男性の卵巣から卵子を採取し、体外で成熟させることに成功した。 この手法はトランス男性に対してだけでなく、不妊に悩む人たちにも役立つ可能性がある。",
+          "link": "https://www.technologyreview.jp/s/274583/trans-mens-eggs-have-been-matured-in-the-lab-and-could-help-them-have-children/",
+          "publishedOn": "2022-05-05T21:56:07.000Z",
+          "wordCount": 704,
+          "title": "トランス男性の卵子を採取、実験室での成熟に成功＝世界初",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/26190504/c0487958-1400x787.jpeg"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=274841",
           "author": "Zeyi Yang",
           "description": "ロックダウンが続く上海では、オンライン食料品宅配サービスが住民のライフラインになっている。だが、過去2年間の経験に照らし合わせると、パンデミック後もこれらのサービスが生き残れるかどうかは分からない。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
@@ -4202,36 +4192,6 @@
           "wordCount": 309,
           "title": "ブースター接種、オミクロンBA.2株にも効果＝神戸大",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=272605",
-          "author": "Casey Crownhart",
-          "description": "2℃の気温上昇を防ぐためには、温室効果ガスの大幅な排出削減だけではもはや間に合わない。二酸化炭素の除去も必要不可欠だと国連の最新報告書は指摘する。",
-          "link": "https://www.technologyreview.jp/s/272605/un-climate-report-carbon-removal-is-now-essential/",
-          "publishedOn": "2022-04-06T08:33:22.000Z",
-          "wordCount": 688,
-          "title": "温暖化対策に炭素除去は「不可欠」、国連IPCC報告書が指摘",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/05013504/AP_21258339664472-1180x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/05/272706/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/06/272706/",
-          "publishedOn": "2022-04-06T06:17:52.000Z",
-          "wordCount": 329,
-          "title": "量子ビットの材料探索を大幅に加速する法則を発見＝東北大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=272465",
-          "author": "MIT Technology Review Japan",
-          "description": "今週のオーディオ・ムック（β）では、「陰謀論」「フェイクニュース」との付き合い方のヒントとなる記事3本をお届けする。",
-          "link": "https://www.technologyreview.jp/s/272465/audiomookhow-to-deal-with-conspiracy-theories-and-fake-news/",
-          "publishedOn": "2022-04-06T03:05:34.000Z",
-          "wordCount": 694,
-          "title": "聴くMITTR：「陰謀論」「フェイクニュース」との付き合い方",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
         }
       ]
     }
