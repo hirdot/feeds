@@ -1564,56 +1564,6 @@
           "wordCount": 248,
           "title": "Amazon WorkSpaces では、カスタムブランディングのための API をローンチ",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "43578c8b7e471efbb091f02b18b370afa810add3",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift の同時実行スケーリングが欧州 (ストックホルム) リージョンで利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-redshift-concurrency-scaling-europe-stockholm/",
-          "publishedOn": "2022-04-05T18:00:01.000Z",
-          "wordCount": 249,
-          "title": "Amazon Redshift の同時実行スケーリングが欧州 (ストックホルム) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4ca5051d15722518f4fbb4f6576c6dd244ad06f3",
-          "author": "aws@amazon.com",
-          "description": "本日より、すべてのパブリック AMI の非推奨化が、作成日から 2 年後に設定されます。つまり、作成から 2 年を経過した後のパブリック AMI は、デフォルトで非推奨になります。AMI が非推奨化されると、AMI は所有者ではないユーザーに対して DescribeImages API 呼び出しの際に表示されなくなります。AMI が非推奨になった場合、ターゲットを絞らない検索で、その AMI の可視性が低減されるに過ぎず、引き続きご利用いただく上で差し支えございません。非推奨 AMI のユーザーは、インスタンスの起動や、その非推奨 AMI の記述 (AMI ID を使用) を引き続き行うことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-visibility-public-machine-images-aims-two-years/",
-          "publishedOn": "2022-04-05T17:54:00.000Z",
-          "wordCount": 276,
-          "title": "Amazon EC2 で、作成から 2 年を経過したパブリック Amazon マシンイメージ (AMI) を非奨励化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4d72e498b6dc6164f3cbfc7833b62a53b4d286ec",
-          "author": "aws@amazon.com",
-          "description": "これで、Lambda レイヤーを使用する関数のすべてまたはサブセットを選択すると、Lambda コンソールでそれらを新しいレイヤーバージョンに同時に更新できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/aws-lambda-console-bulk-update-layers/",
-          "publishedOn": "2022-04-05T17:31:01.000Z",
-          "wordCount": 229,
-          "title": "AWS Lambda コンソールがレイヤーの一括更新をサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ae38c4eb2f3f765e5dbcc70aa9b3ac4c6e979172",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Pinpoint では、テンプレートエディタでメッセージングテンプレートにタグを追加する機能の提供を開始しました。Amazon Pinpoint は、E メール、SMS、プッシュ通知、アプリ内、ソーシャルメディアなどのチャネルで、ターゲットを絞ったメッセージングキャンペーンを通じてメッセージを送信することにより、お客様がユーザーを引き込むのに役立つオムニチャネルマーケティングコミュニケーションサービスです。タグは、お客様が定義し、AWS リソースに関連付けることができるラベルです。 メッセージングテンプレートにタグを追加すると、特定のテンプレートを表示、編集、または使用できるユーザーを設定できます。タグは組織のニーズに合わせてカスタマイズできるため、目的、所有者、リージョン、その他の基準などの条件ごとにテンプレートを整理できます。Amazon Pinpoint の新しいテンプレート検索機能を使用すると、タグを利用して必要なテンプレートをより簡単に検索することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-pinpoint-template-tagging-search-console/",
-          "publishedOn": "2022-04-05T17:15:00.000Z",
-          "wordCount": 259,
-          "title": "Amazon Pinpoint コンソールで、テンプレートのタグ付けおよび検索をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c7304c68c6db050b3b50b8c5db5a93aeced74e82",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppStream 2.0 を、AWS カナダ (中部) リージョンでデプロイできるようになりました。ローカルリージョンで AppStream 2.0 をデプロイすると、応答性の高いパフォーマンスを実現でき、ローカルなデータレジデンシーの義務の遵守に役立ちます。このリリースによって、ユーザーのニーズを満たすために、汎用、コンピューティング最適化、メモリ最適化、グラフィックデザイン、メモリ最適化、グラフィックプロおよびグラフィック G4 インスタンスをデプロイできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-appstream-2-0-aws-canada/",
-          "publishedOn": "2022-04-05T17:07:00.000Z",
-          "wordCount": 253,
-          "title": "Amazon AppStream 2.0 が AWS カナダ (中部) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
