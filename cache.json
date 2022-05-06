@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9c8c49fb733130f7ec1cc8dd52f1c4bef24e5e82",
+          "author": "aws@amazon.com",
+          "description": "ロボット工学アプリケーションを大規模に簡単にシミュレートできるサービスである AWS RoboMaker が、AWS GovCloud (米国西部) リージョンで利用できるようになりました。GovCloud リージョンでのサポートにより、米国の政府機関や請負業者は、特定の規制およびコンプライアンス要件に対応することで、AWS RoboMaker で機密性の高いシミュレーションワークロードを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-robomaker-govcloud-us-west/",
+          "publishedOn": "2022-05-06T11:34:25.000Z",
+          "wordCount": 250,
+          "title": "AWS RoboMaker が AWS GovCloud (米国西部) リージョンで利用可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e9739d61632895a6e483df3eb7630a36e95f73c5",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL は、カスケードされた読み取りレプリカの 3 つのレベル (インスタンスごとに 5 つのレプリカ) を備えた PostgreSQL 14 のサポートを発表し、ソースインスタンスごとに最大 155 の読み取りレプリカをサポートします。シングル AZ またはマルチ AZ カスケードリードレプリカ DB インスタンスを同じリージョンに作成することも、別のリードレプリカインスタンスから任意のクロスリージョンに作成することもできるため、より堅牢な災害対策アーキテクチャを構築できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/",
+          "publishedOn": "2022-05-06T11:32:47.000Z",
+          "wordCount": 281,
+          "title": "Amazon RDS for PostgreSQL は、カスケード読み取りレプリカをサポートして、最大 30 倍の読み取り容量を実現します",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e423e2516fdcfa5e87e25dd3358c969bbf74c748",
+          "author": "aws@amazon.com",
+          "description": "これで、AWS サーバーレスアプリケーションモデル (AWS SAM) CLI を使用して、AWS SAM テンプレートを手動でオーサリングすることなく、AWS SAM テンプレートで AWS X-Ray トレースを自動的に有効にできます。これにより、サーバーレスアプリケーションの Lambda 関数全体で AWS X-Ray トレースを一元管理することが容易になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/",
+          "publishedOn": "2022-05-06T11:31:59.000Z",
+          "wordCount": 275,
+          "title": "AWS サーバーレスアプリケーションモデル CLI で、AWS X-Ray トレースの有効化がサポートされるようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "63407a5d8640395498a3fa353cdf56b3b20dc40a",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Kinesis Video Streams は、ビデオストリーミングから画像を抽出するのに役立つ新しい API と SDK を発表しました。この完全に管理された機能により、顧客は API コールを介して画像を要求したり、取り込んだビデオのメタデータタグに基づいて自動画像生成を設定したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-video-streams-announces-managed-support-image-extraction/",
+          "publishedOn": "2022-05-06T11:31:11.000Z",
+          "wordCount": 251,
+          "title": "Amazon Kinesis Video Streams が画像抽出のマネージドサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "8c2a7ca96b5ecbacf5f39d13d8c9313035082e89",
           "author": "aws@amazon.com",
           "description": "Amazon Connect ではキューに入ったコールバックを StopContact API からプログラムで停止できるようになりました。通話をキューに入れることで、発信者はエージェントが空くまで待つ必要がなくなります。キューに入るためには、自身の電話番号を登録する必要があります。ただ、一部の状況では、お客様が繰り返し電話するため、同一の発信者へのコールバックリクエストが複数登録されることがあります。今後は、StopContact API を使用してコールバックリクエストの重複を回避できます。それにより、発信者は同じ問題で複数のコールバックを受けとることがなくなり、カスタマーエクスペリエンスが改善され、コンタクトセンターのコストも削減されます。詳細については、「API ドキュメント」を参照してください。",
@@ -1474,196 +1514,6 @@
           "wordCount": 243,
           "title": "Amazon EC2 が EC2 コンソールの改善された新しい起動エクスペリエンスの提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cff2f7e06e8e193d524cd8845ee59ee3d472a45b",
-          "author": "aws@amazon.com",
-          "description": "Amazon OpenSearch Service が既存のドメインでクラスター間レプリケーションのサポートを始めました。クラスター間レプリケーションは、同一 AWS アカウント、またはリージョンであれば、ドメインからドメインへのインデックスのコピーや同期を低レイテンシーで自動でできるようになります。クラスター間レプリケーションにより、ミッションクリティカルなアプリケーションに対しても、データの連続した整合性を実現することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/",
-          "publishedOn": "2022-04-07T04:55:00.000Z",
-          "wordCount": 240,
-          "title": "既存の Amazon OpenSearch Service ドメインでクラスター間レプリケーションのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "acc5d0288a0295756c33d997d252de88d2d46ba5",
-          "author": "aws@amazon.com",
-          "description": "本日、IoT Device Defender ListMetricValues API を一般公開をしました。ListMetricValues API を利用することで、お客様はセキュリティプロファイルに属するおけるデバイス側、クラウド側、また接続済みデバイスからのカスタムメトリクスの履歴にアクセスできるようになりました。AWS IoT マネジメントコンソール内のデータの表示に加え、お客様はプログラムに基づく監視ができる他、お客様自身で可視化を構築できる柔軟性が得られるようになりました。さらに、 Fleet Hub for AWS IoT Device Management 内で AWS IoT Device Defender メトリクスの可視化を可能にしました。このような強化策により、お客様は、他のデバイスデータや Fleet Hub 内での問題診断やフリート管理用のフリートレベルデータとともにディフェンダーメトリクスを 1 か所で表示できるようになりました。この新たな API や Fleet Hub との統合が AWS IoT Device Defender  と Fleet Hub for AWS IoT Device Management が利用できる AWS Global Regions で利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/",
-          "publishedOn": "2022-04-07T04:48:00.000Z",
-          "wordCount": 331,
-          "title": "AWS IoT Device Management および AWS IoT Device Defender が ListMetricValues API を介してデバイスメトリクスのモニタリングのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f72d5e08fd2a0f3ad63e9d08affb43f3415d81b4",
-          "author": "aws@amazon.com",
-          "description": "Amazon OpenSearch Service が既存のドメインでクラスター間検索のサポートを始めました。クラスター間検索はクエリが 1 つ、または OpenSearch Dashboard インターフェイスが 1 つの複数のドメインの集合体を横断検索するのに有効です。この機能を使用すると、異種ワークロードを複数のドメインに分離できます。これにより、リソースの分離が向上し、特定のワークロードに合わせて各ドメインを調整して、効率を改善し、コストを削減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/",
-          "publishedOn": "2022-04-07T04:40:00.000Z",
-          "wordCount": 239,
-          "title": "既存の Amazon OpenSearch Service ドメインでクラスター間検索のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "24039947659e824322b0cacfea28ef6815630bbb",
-          "author": "aws@amazon.com",
-          "description": "既存の Amazon Pinpoint コンソール機能に加えて、Amazon Pinpoint API 2.0 は、お客様が SMS や音声送信、および設定をより快適に制御できる機能を提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-pinpoint-version-api-feature-sms-voice-channels/",
-          "publishedOn": "2022-04-07T03:44:00.000Z",
-          "wordCount": 284,
-          "title": "AWS が SMS および音声チャンネル向けのサポートを拡張した Amazon Pinpoint API のバージョン 2.0 をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a8137143d0288e9e7eab505a49746d08c787bfdb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect で、AppIntegrations データサービス用にスケジュールされた Zendesk と同期できるようになりました。AppIntegrations により、Amazon Connect をご利用のお客様は、CRM、品質管理、請求ソフトウェア、注文管理ソリューションなどのサードパーティーの SaaS アプリケーションからデータをダウンロードできます。Zendesk を使用することで、スケジュールされた同期を介してナレッジ記事をダウンロードし、Amazon Connect エージェントアプリケーションに Wisdom 記事レコメンデーションとして表示することで、エージェントが発信者の問題を迅速に解決し、生産性を向上させることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/",
-          "publishedOn": "2022-04-07T03:38:00.000Z",
-          "wordCount": 238,
-          "title": "Amazon Connect でスケジュールされた Zendesk ナレッジ記事との同期をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e455b113be0478e215e1e76a73169baef918b9ba",
-          "author": "aws@amazon.com",
-          "description": "本日より、お客様の Amazon Route 53 のホストゾーンに対し、無料利用枠上限を超えて、従量制料金体系にてリソースレコードを追加できるようになります。これまで、Route 53 をご利用のお客様は、最大で 1 万個のリソースレコードを任意のホストゾーンに無料で追加することができました。ホストゾーンで 1 万個を超えるリソースレコードを必要としていたお客様は、カスタムの料金体系プランをリクエストするために、AWS Support までお問い合わせいただく必要がありました。本サービスの開始により、リソースレコード無料利用枠分 1 万個を超えるリソースレコードを追加する際、カスタムの料金体系プランをリクエストいただく必要がなくなります。今後、リソースレコード無料利用枠分の 1 万個を超えてホストゾーンに追加するすべてリソースレコードには、1 か月ごとにリソースレコードあたり 0.0015 USD が自動で課金されます。これにより、お客様の必要に応じリソースレコードを簡単にスケールアップまたはスケールダウンできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-route-53-usage-pricing-resource-records-above-free-tier/",
-          "publishedOn": "2022-04-07T03:32:00.000Z",
-          "wordCount": 244,
-          "title": "Amazon Route 53 で無料利用枠の上限を超えるリソースレコードが従量ベースの料金体系で使用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "126dc4cf2a3d8ddeaf413a30ebf151a8acd17e59",
-          "author": "aws@amazon.com",
-          "description": "RStudio on Amazon SageMaker は業界初となるクラウド展開のフルマネージド RStudio Workbench です。データサイエンティストとデベロッパーは、使い慣れた RStudio 統合開発環境 (IDE) をワンクリックで立ち上げ、 Amazon SageMaker でモデルを構築、トレーニング、デプロイできます。お客様は作業を中断することなく、コンピューティングリソースに基づいて伸縮自在にダイアルアップ、ダイアルダウンが可能です。さらには、Amazon SageMaker Studio ノートブック上で Python を使用してプログラミングに切り替えることもできます。コード、データセット、リポジトリ、その他のアーティファクトを含むすべての作業は、2 つの環境間で同期されます。すぐにご利用を開始いただけるよう、追加料金なしで、現在の RStudio ライセンスを Amazon SageMaker でそのまま使用できます。本日より AWS CloudFormation を使用し、RStudio on SageMaker のドメインの作成とユーザープロファイルの追加のプロセスを自動化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/",
-          "publishedOn": "2022-04-07T03:26:00.000Z",
-          "wordCount": 281,
-          "title": "AWS CloudFormation を使用した RStudio on Amazon SageMaker の提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0926dda7a47cea84581ea3b7e8d906a0b5e821c7",
-          "author": "aws@amazon.com",
-          "description": "OpenSearch と OpenSearch Dashboards バージョン 1.2 が Amazon OpenSearch Service 上で実行できるようになりました。このバージョンには OpenSearch Dashboards の新しいオブザーバビリティインターフェイスが含まれるほか、異常検出、k-NN、SQL/PPL などの他の機能も改善されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-opensearch-supports-version-1-2/",
-          "publishedOn": "2022-04-07T03:20:01.000Z",
-          "wordCount": 317,
-          "title": "Amazon OpenSearch Service で OpenSearch バージョン 1.2 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "148cff8e5ea8d7947f7f3e48d45abd1de2883cb7",
-          "author": "aws@amazon.com",
-          "description": "Amazon EKS、Amazon EKS Distro、および Amazon EKS Anywhere で Kubernetes バージョン 1.22 を実行できるようになりました。Kubernetes バージョン 1.22 リリースの注目機能としては、外部認証情報プロバイダー、サーバー側での適用、バインドされたサービスアカウントトークンボリュームの安定版への移行、非推奨になった API の使用に関する警告メカニズムなどがあります。Kubernetes 1.22 リリースの詳細は、EKS ブログ記事および Kubernetes プロジェクトの「リリースノート」でご覧いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/",
-          "publishedOn": "2022-04-07T03:14:00.000Z",
-          "wordCount": 298,
-          "title": "Amazon EKS、Amazon EKS Distro、および Amazon EKS Anywhere で Kubernetes バージョン 1.22 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9b94c7de08badb5ad494e8eab14db20448645bad",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) Proxy が、Amazon RDS for PostgreSQL および Amazon Aurora PostgreSQL - 互換版メジャーバージョン 13 のサポートを開始。PostgreSQL 13 には、B ツリーインデックスエントリーの重複排除、パーティション化されたテーブルを使用するクエリのパフォーマンス強化、拡張統計を使用した場合のクエリプランニング改善、インデックスの並列化バキューム、増分ソートなど、新機能やパフォーマンスの改善が多数含まれています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/",
-          "publishedOn": "2022-04-07T02:56:00.000Z",
-          "wordCount": 270,
-          "title": "Amazon RDS Proxy が PostgreSQL メジャーバージョン 13 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f5c2f5e7d9e60a9bbea215a5976f890d96272cbe",
-          "author": "aws@amazon.com",
-          "description": "今日、AWS アジアパシフィック (ジャカルタ) リージョンで Amazon Data Lifecycle Manager が利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/",
-          "publishedOn": "2022-04-07T02:50:00.000Z",
-          "wordCount": 286,
-          "title": "Amazon Data Lifecycle Manager が AWS アジアパシフィック (ジャカルタ) リージョンで提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "27f94cc2d7c93d51c34052b9a35180160ac2e9ee",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Athena、Amazon Redshift、Snowflake など幅広い種類のデータソースからデータをインポートできます。本日より、Amazon SageMaker Data Wrangler 内のデータソースとして Databricks を使用し、Databricks 内のデータを機械学習用に簡単に準備できるようになりました。AWS パートナーである Databricks は、組織が分析のためにデータを準備し、組織全体でデータサイエンスとデータ主導の意思決定を強化し、ML を迅速に採用するのを支援します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/",
-          "publishedOn": "2022-04-06T23:41:00.000Z",
-          "wordCount": 315,
-          "title": "Amazon SageMaker Data Wrangler が、データソースとして Snowflake のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fd1e08f1c62282deb023c5653a32eca2b01ce79a",
-          "author": "aws@amazon.com",
-          "description": "AWS Backup が、VMware Cloud on AWS Outposts で VMware のソフトウェア定義データセンター (SDDC) を保護できるようになり、ビジネスおよび規制コンプライアンスのニーズを満たすことができるようになりました。お客様は、オンプレミスの VMware、VMware Cloud on AWS、VMware Cloud on AWS Outposts の各環境でのデータ保護やライフサイクル管理を、AWS Backup で単一のポリシーを使用することで一元的に自動化できます。さらに、AWS Backup がサポートする (コンピューティング、ストレージ、データベースまでを包含する) 12 種類の AWS のサービスにも対応しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/",
-          "publishedOn": "2022-04-06T23:34:00.000Z",
-          "wordCount": 315,
-          "title": "AWS Backup が、VMware Cloud on AWS Outposts のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "44907188285d21ebfb0cbe907bfb4bac31d57ba5",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue DataBrew をご使用のお客様は、今後、Optimized Row Columnar (ORC) ファイル形式で保存されたデータのクリーニングと変換が行えます。この形式は、Hive データの保存のために広く使用されている形式です。AWS Glue DataBrew 内のデータセットを作成する際、すでにサポート済みである Apache Avro、Apache Parquet、Microsoft Excel、CSV、JSON の各ファイル形式に加えて、ORC ファイルも選択していただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/",
-          "publishedOn": "2022-04-06T23:22:00.000Z",
-          "wordCount": 245,
-          "title": "AWS Glue DataBrew の入力に ORC ファイル形式の使用が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ea0424ffaa06972865b1e681b59d6bea04548745",
-          "author": "aws@amazon.com",
-          "description": "Amazon ElastiCache for Redis は、アジアパシフィック (大阪) およびヨーロッパ (ストックホルム) リージョンで Global Datastore をサポート開始しました。Global Datastore は、ElastiCache for Redis の機能の 1 つです。高速で、信頼性が高く、安全なフルマネージド型クロスリージョンレプリケーションを実現できます。Global Datastore を使用すると、1 つのリージョンで ElastiCache for Redis クラスターに書き込みながら、他の 2 つのクロスリージョンレプリカクラスターでデータ読み取りができるようになります。これにより、リージョンをまたいだ低レイテンシーの読み取りおよび災害対策が可能となります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-elasticache-redis-global-datastore-regions/",
-          "publishedOn": "2022-04-06T23:00:01.000Z",
-          "wordCount": 325,
-          "title": "Amazon ElastiCache for Redis が 2 つの新しいリージョンで Global Datastore をサポート開始しました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "54cfabb669afbb510732c3a1ac419b321ee01a1d",
-          "author": "aws@amazon.com",
-          "description": "AWS Backupで、保護されたコピーから VMware の仮想マシン (VM) 全体を復元することが可能になり、また、VM にアタッチされた仮想ディスクを個別に復元できる柔軟性も加わりました。AWS Backup を使用することで、VMware の仮想ディスクを、別の VMware 環境や AWS 内の Amazon Elastic Block Store (EBS) ボリュームにある VM に対し、復元することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/",
-          "publishedOn": "2022-04-06T22:41:01.000Z",
-          "wordCount": 284,
-          "title": "AWS Backup で VMware 仮想マシンの保護されたコピーから仮想ディスクの復元が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8991c40d61db1866fe43638740b70a358e6bddb9",
-          "author": "aws@amazon.com",
-          "description": "本日より、すべてのパブリック AMI の非推奨時期が、作成日から 2 年後に設定されます。つまり、作成から 2 年を経過した後のパブリック AMI は、デフォルトで非推奨になります。AMI が非推奨になると、その AMI の所有者ではないユーザーの DescribeImages API コールには表示されなくなります。AMI が非推奨になった場合、ターゲットを絞らない検索で、その AMI の可視性が低下されるに過ぎず、引き続きご利用いただく上で差し支えございません。非推奨 AMI のユーザーは、インスタンスの起動や、その非推奨 AMI の記述 (AMI ID を使用) を引き続き行うことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/03/amazon-machine-images-public-visibility-two-years/",
-          "publishedOn": "2022-04-06T22:20:01.000Z",
-          "wordCount": 277,
-          "title": "Amazon EC2 で、作成から 2 年を経過したパブリック Amazon マシンイメージ (AMI) の可視性が低下",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b0c8d4228f707744e812cded98207418054754f2",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub で、カスタムインテグレーションに対する、企業名および製品名の指定がサポートされました。これにより検索や集計が容易になり、カスタムインテグレーションでの検出結果を基にアクションを起こす際に使用できます。Security Hub では、75 種類のオフィシャルインテグレーションが用意されており、加えてユーザーは、自身で作成したカスタムインテグレーションから検出結果を取り込むことも可能です。従来、これらのカスタムインテグレーション向けの企業名や製品名は、それぞれに固有なデフォルト値が設定されており、ユーザーが変更することはできませんでした。今後は、Security Hub の BatchImportFindings API を使用することで、企業名と製品名をユーザーが指定できます。これら新しい企業名と製品名は、各検出結果と対応して、JSON 形式で Security Hub コンソール上に反映されます。カスタマイズされた企業と製品の名称は、情報の検索やインサイト作成での使用が可能で、それらによりトリガーされる対応や修正のための自動ワークフローを構築できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/",
-          "publishedOn": "2022-04-06T22:13:01.000Z",
-          "wordCount": 304,
-          "title": "AWS Security Hub でカスタムインテグレーションのために名前を指定できるようになりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "052de419cccf8af0bb6a95b0fd273283b6d12f9f",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon WorkSpaces では、御社のロゴを使用したユーザーの Amazon WorkSpaces エクスペリエンス、ログインメッセージ、および WorkSpaces クライアントログインページのヘルプリンクをカスタマイズできる API を提供します。独自のブランドを使用すると、ユーザーが WorkSpaces にアクセスする際に、使い慣れたルックアンドフィールが提供されます。独自のヘルプリンクを追加すると、ユーザーは組織内のサポートリソースに簡単にアクセスできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/",
-          "publishedOn": "2022-04-06T22:06:00.000Z",
-          "wordCount": 248,
-          "title": "Amazon WorkSpaces では、カスタムブランディングのための API をローンチ",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2018,46 +1868,6 @@
           "wordCount": 367,
           "title": "子どもの教育費を総額にすると一体いくら？ 習い事にはどのくらいお金をかけるの？ 幼稚園から大学までの教育費をまとめて紹介！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/01/DTNJ_SCHOOL.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=41230",
-          "author": "tadokoroyusuke",
-          "description": "コロナ禍によりSaaSの導入が国内企業に一気に進む 新型コロナウイルスの感染再拡大を受け、企業はテレワークに対応し続けている。政府も、テレワークで働く社員の割合を高めるよう要請している。「それにより、さまざまな変化が起き […]",
-          "link": "https://data.wingarc.com/allabout_securityanddx_for_leader-41230?utm_source=rss&utm_medium=rss&utm_campaign=allabout_securityanddx_for_leader",
-          "publishedOn": "2022-04-07T01:00:36.000Z",
-          "wordCount": 416,
-          "title": "DXを推進する現場のリーダーに伝え届けたい 「セキュリティ」のこと",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/c868bf37bff3d2003cd5d87e07d3e403.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40219",
-          "author": "石川麻里",
-          "description": "山形県では2021年3月に策定した「Yamagata 幸せデジタル化構想」に従い、行政・交通インフラ、オープンデータなどのDXに取り組み、県民生活の利便性向上を図っています。 2021年のデジタル化関連の予算は前年の3倍 […]",
-          "link": "https://data.wingarc.com/local-dx-lab-yamagata-40219?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-yamagata",
-          "publishedOn": "2022-04-07T00:00:55.000Z",
-          "wordCount": 523,
-          "title": "山形県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/6.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40194",
-          "author": "石川麻里",
-          "description": "人口流出、産業衰退が進む秋田県では、この状況をDXで打開すべく、2021年4月に「秋田県デジタル・トランスフォーメーション(ＤＸ)戦略本部」を設置し、行政・産業・地域・県民に向けたDXの推進に取り組んでいます。 2020 […]",
-          "link": "https://data.wingarc.com/local-dx-lab-akita-40194?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-akita",
-          "publishedOn": "2022-04-06T23:59:44.000Z",
-          "wordCount": 531,
-          "title": "秋田県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/5.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40064",
-          "author": "石川麻里",
-          "description": "宮城県は令和3年度から県の情報化を推進するための“みやぎ情報化推進ポリシー”を実施しています。 “みやぎ情報化推進ポリシー”は2030年度に向けた “新・宮城の将来ビジョン”を下支えするための取り組みで、 ・デジタルファ […]",
-          "link": "https://data.wingarc.com/local-dx-lab-miyagi-40064?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-miyagi",
-          "publishedOn": "2022-04-06T23:58:09.000Z",
-          "wordCount": 553,
-          "title": "宮城県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/4-1.jpg"
         }
       ]
     },
@@ -2462,36 +2272,6 @@
           "wordCount": 1149,
           "title": "GoogleがCloud MemoryStoreをアップデートし、リードレプリカ、RDBスナップショット、フラッシュレスアップデートを提供",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220331101138/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/vaadin-introduces-hilla/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Bazlur Rahman",
-          "description": "Vaadinは、Java開発者向けの新しいWebフレームワークのHillaを発表した。これは、Spring Bootを使ったバックエンドと、TypeScriptとLitの混合のフロントエンドとを組み合わせたものである。Hillaは、ビジネスアプリケーション開発をシンプルにするための多くの機能を提供している。例えば、JavaとTypeScript向けの統合プロジェクトセットアップがあり、JavaとTypeScriptの間で同期された状態が保たれる。\n By Bazlur Rahman  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/vaadin-introduces-hilla/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-07T01:07:00.000Z",
-          "wordCount": 1267,
-          "title": "VaadinがHillaを発表し、フロントエンド/バックエンドWeb開発を統合",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220331101138/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/google-cloud-prices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Google Cloudは最近、価格モデルの変更を発表した。ストレージとデータ転送のコストのほとんどが影響を受けている。クラウドコミュニティの多くの専門家は、アーキテクチャへの影響と、長期的に「価格が上がることはない」というクラウドの信条の終焉について懸念を挙げている。\n By Renato Losio  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/google-cloud-prices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-07T01:03:00.000Z",
-          "wordCount": 1167,
-          "title": "Google Cloudの値上げについて開発者の間で高まる懸念",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220331101035/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/dropbox-android-kotlin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Eran Stiller",
-          "description": "Dropboxは先頃、同社がAndroidのカメラアップロードプロセスの高速化と信頼性向上を実現したプロセスについて発表した。AndroidとiOSで共有していたC++コードを廃止して、Kotlinによるプラットフォームネイティブな実装に置き換えたのだ。これによってエラー率が低下し、アップロードのパフォーマンスも大幅に向上したとして、同社のエンジニアらは、プロセスを書き直すという決定に満足している。\n By Eran Stiller  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/04/dropbox-android-kotlin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-07T00:59:00.000Z",
-          "wordCount": 1169,
-          "title": "Dropbox、ネイティブアプローチへの転換によってAndroidアプリの高速化と信頼性向上を実現",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220331101138/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2870,16 +2650,6 @@
           "wordCount": 354,
           "title": "2022年4月12日　春というには暑すぎる・・・ ── 帰ってきた『技評ねこ部通信』",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202204/07",
-          "author": "傍島康雄",
-          "description": "2022年4月第2週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202204/07",
-          "publishedOn": "2022-04-07T00:15:00.000Z",
-          "wordCount": 410,
-          "title": "2022年4月第2週　ようやく，Android Autoデビューしました ── Android Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         }
       ]
     },
@@ -3128,26 +2898,6 @@
           "wordCount": 455,
           "title": "Crystal言語作者がRubyを愛する理由（5）標準ライブラリが優秀（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/why_I_live_ruby_great_stdlibs_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_07/47820",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2017/11/rails_object_try_harmful_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Do. Or Do Not. There Is No Try &#8211; Object#try Considered Harmful 公開日: 2017/09/24 著者: Karol Galanciak サイト: BookingSync 原文タイトルは、よくあるヨーダのセリフのもじりです。 2017/11/07: 初版公開 2022/04/07: 更新 RailsのObject#tryがダメな理由と効果的な代替手段（翻訳） Object#tryは、Railsアプリでnil値を扱う可能性がある場合をカバーするときや、与えられたメソッドがオブジェクトで [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_07/47820\" data-wpel-link=\"internal\" target=\"_self\">RailsのObject#tryがダメな理由と効果的な代替手段（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_07/47820",
-          "publishedOn": "2022-04-07T08:35:02.000Z",
-          "wordCount": 656,
-          "title": "RailsのObject#tryがダメな理由と効果的な代替手段（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2017/11/rails_object_try_harmful_eyecatch2-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_07/116843",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/dockerizing_ruby_rails_development_eyecatch3-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Ruby on Whales: Dockerizing Ruby and Rails development — Martian Chronicles, Evil Martians’ team blog 原文公開日: 2019/07/23 著者: Vladimir Dementyev サイト: Evil Martians &#8212; ニューヨークやロシアを中心に拠点を構えるRuby on Rails開発会社です。良質のブログ記事を多数公開し、多くのgemのスポンサーでもあります。 更新情報 2019/09/06: 初版公開 2021/04/20: 原 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_07/116843\" data-wpel-link=\"internal\" target=\"_self\">クジラに乗ったRuby: Evil Martians流Docker+Ruby/Rails開発環境構築（更新翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_07/116843",
-          "publishedOn": "2022-04-07T08:30:50.000Z",
-          "wordCount": 2491,
-          "title": "クジラに乗ったRuby: Evil Martians流Docker+Ruby/Rails開発環境構築（更新翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/dockerizing_ruby_rails_development_eyecatch3-min.png"
         }
       ]
     },
