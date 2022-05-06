@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T00:01:14.648Z</updated>
+    <updated>2022-05-06T01:27:20.497Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect からキューに入ったコールバックをプログラムで停止するための API がリリース]]></title>
+        <id>8c2a7ca96b5ecbacf5f39d13d8c9313035082e89</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/"/>
+        <updated>2022-05-06T00:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect ではキューに入ったコールバックを StopContact API からプログラムで停止できるようになりました。通話をキューに入れることで、発信者はエージェントが空くまで待つ必要がなくなります。キューに入るためには、自身の電話番号を登録する必要があります。ただ、一部の状況では、お客様が繰り返し電話するため、同一の発信者へのコールバックリクエストが複数登録されることがあります。今後は、StopContact API を使用してコールバックリクエストの重複を回避できます。それにより、発信者は同じ問題で複数のコールバックを受けとることがなくなり、カスタマーエクスペリエンスが改善され、コンタクトセンターのコストも削減されます。詳細については、「API ドキュメント」を参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CodeGuru Reviewer でコードレビュー時にファイルとフォルダのサプレッション機能が利用可能に]]></title>
+        <id>4e316c15368d30fb7d0bebfb1008d5d58167df12</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/"/>
+        <updated>2022-05-06T00:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CodeGuru Reviewer は、自動推論と機械学習を活用して、発見が難しい潜在的なコードの欠陥を検出し、改善のための提案を提供するデベロッパーツールです。本日、Amazon CodeGuru Reviewer の新機能、ファイル/フォルダサプレッション機能のサポート開始が発表されました。この新機能により、Amazon CodeGuru Reviewer でコードベースの一部を検査対象から外すことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS が AWS GovCloud (米国) リージョンでの Internet Protocol version 6 (IPv6) のサポートを開始]]></title>
+        <id>360c9e2c300559079826391736e20c835d386c6d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/"/>
+        <updated>2022-05-06T00:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) のお客様に、新規および既存の RDS インスタンスの仮想プライベートクラウド (VPC) で Internet Protocol version 6 (IPv6) アドレスの利用をお選びいただけるようになりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>f0ec7a3dfdcc45c171e1bb353ffe2ac2ee2cf04e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/"/>
+        <updated>2022-05-06T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) のお客様は、今後、AWS アジアパシフィック (ジャカルタ) リージョンでクラスターを作成および管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【書評】『はじめての機械学習 中学数学でわかるAIのエッセンス』はド文系ライターでも理解できるのか？]]></title>
         <id>https://data.wingarc.com/?p=38432</id>

@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "8c2a7ca96b5ecbacf5f39d13d8c9313035082e89",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect ではキューに入ったコールバックを StopContact API からプログラムで停止できるようになりました。通話をキューに入れることで、発信者はエージェントが空くまで待つ必要がなくなります。キューに入るためには、自身の電話番号を登録する必要があります。ただ、一部の状況では、お客様が繰り返し電話するため、同一の発信者へのコールバックリクエストが複数登録されることがあります。今後は、StopContact API を使用してコールバックリクエストの重複を回避できます。それにより、発信者は同じ問題で複数のコールバックを受けとることがなくなり、カスタマーエクスペリエンスが改善され、コンタクトセンターのコストも削減されます。詳細については、「API ドキュメント」を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/",
+          "publishedOn": "2022-05-06T00:24:57.000Z",
+          "wordCount": 234,
+          "title": "Amazon Connect からキューに入ったコールバックをプログラムで停止するための API がリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4e316c15368d30fb7d0bebfb1008d5d58167df12",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru Reviewer は、自動推論と機械学習を活用して、発見が難しい潜在的なコードの欠陥を検出し、改善のための提案を提供するデベロッパーツールです。本日、Amazon CodeGuru Reviewer の新機能、ファイル/フォルダサプレッション機能のサポート開始が発表されました。この新機能により、Amazon CodeGuru Reviewer でコードベースの一部を検査対象から外すことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/",
+          "publishedOn": "2022-05-06T00:24:10.000Z",
+          "wordCount": 241,
+          "title": "Amazon CodeGuru Reviewer でコードレビュー時にファイルとフォルダのサプレッション機能が利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "360c9e2c300559079826391736e20c835d386c6d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) のお客様に、新規および既存の RDS インスタンスの仮想プライベートクラウド (VPC) で Internet Protocol version 6 (IPv6) アドレスの利用をお選びいただけるようになりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/",
+          "publishedOn": "2022-05-06T00:22:48.000Z",
+          "wordCount": 286,
+          "title": "Amazon RDS が AWS GovCloud (米国) リージョンでの Internet Protocol version 6 (IPv6) のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f0ec7a3dfdcc45c171e1bb353ffe2ac2ee2cf04e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (EKS) のお客様は、今後、AWS アジアパシフィック (ジャカルタ) リージョンでクラスターを作成および管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-05-06T00:22:00.000Z",
+          "wordCount": 252,
+          "title": "Amazon EKS が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "91ff9edad29ddf78f3c7253faceab855832744dc",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL  のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
