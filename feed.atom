@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T10:01:16.082Z</updated>
+    <updated>2022-05-07T22:00:45.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4137,120 +4137,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[Amazon OpenSearch Service に、可観測性インターフェイスとログモニタリング機能が含まれるようになりました。これにより、デベロッパーや DevOps エンジニアは、パフォーマンスの問題をより迅速に診断し、アプリケーションのダウンタイムを削減するために必要なインサイトを得ることができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch Metrics Insights のご紹介 (一般公開)]]></title>
-        <id>f74ed4f7cfb6e7e31403b6a3554d872c6d0854ec</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/"/>
-        <updated>2022-04-08T09:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Metrics Insights は、一般公開開始となった Amazon CloudWatch の新機能です。高速で柔軟な、SQL ベースのクエリエンジンである Metrics Insights は、デベロッパー、オペレーター、システムエンジニア、クラウドソリューションアーキテクトが何百万ものオペレーションメトリクスをリアルタイムで傾向とパターンを識別するのを支援し、これらのインサイトを使用して解決までの時間を短縮できるようにします。Metrics Insights を使用すると、柔軟なクエリとオンザフライのメトリクス集計により、インフラストラクチャの可視性と大規模アプリケーションのパフォーマンスを向上させることができます。Metrics Insights およびその他の CloudWatch の機能を使用して、AWS 環境およびハイブリッド環境をモニタリングし、オペレーション上の問題に迅速に対応します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が、Amazon S3 からの動的な音声プロンプト再生を開始]]></title>
-        <id>127dc40c9c6c6158b82b016ec9926a8ec172312d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/"/>
-        <updated>2022-04-08T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect が、録音された音声プロンプトを Amazon S3 バケットから直接再生できるようになり、自動音声システムでパーソナライズされたカスタマーエクスペリエンスを簡単に作成できるようになりました。音声プロンプトとは、ウェルカムグリーティングの再生、顧客からの情報の要求、顧客の希望する取引の案内など、顧客とのやり取り中に再生される音声ファイルです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 種類の新しい Amazon EC2 ベアメタルインスタンスのご紹介]]></title>
-        <id>c10bfe13b88720df4def426c2590a2fc578f7137</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/"/>
-        <updated>2022-04-08T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) が、汎用 Amazon EC2 M6a および C6a ベアメタルインスタンスの一般提供を開始したことをお知らせいたします。M6a および C6a インスタンスは、3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC (コードネーム: Milan) プロセッサを搭載しています。M6a インスタンスは M5a インスタンスと比較して最大35% 優れた価格パフォーマンスを提供します。また、C6a インスタンスは C5a インスタンスと比較して最大 15% 優れた価格パフォーマンスを提供し、同等の x86 ベースの EC2 インスタンスよりもコストが 10% 低くなります。M6a および C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6a インスタンスは、SAP 認定であり、ウェブサーバーおよびアプリケーションサーバー、エンタープライズアプリケーション向けバックエンドサーバー、ウェブサーバー、マイクロサービス、マルチプレイヤーゲームサーバー、キャッシュフリート、ならびにアプリケーション開発環境などのワークロードに最適です。C6a インスタンスは、バッチ処理、分散分析、高性能コンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーションに最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall が FedRAMP Moderate コンプライアンスを達成]]></title>
-        <id>e3a68f6b9618be263da28737ac26049913e4018a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/"/>
-        <updated>2022-04-08T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、および米国西部 (オレゴン) の各 AWS リージョンで FedRAMP Moderate として認証されました。これで、AWS Network Firewall を使用して、FedRAMP Moderate の分類レベルを必要とするワークロードのために、これらのリージョンの Amazon Virtual Private Cloud (VPC) との間のアクセスを保護および制御できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystal言語作者がRubyを愛する理由（5）標準ライブラリが優秀（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_04_08/116970</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_04_08/116970"/>
-        <updated>2022-04-08T08:30:30.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/04/why_I_live_ruby_great_stdlibs_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why I love Ruby: a great standard library &#8211; DEV Community 👩‍💻👨‍💻 原文公開日: 2022/03/01 原著者: Ary Borenszweig💻 &#8212; Crystal言語の作者のひとりです Crystal言語作者がRubyを愛する理由（5）標準ライブラリが優秀（翻訳） 多くのプログラミング言語では、ファイルを読み込んでその内容を一行ずつ処理したいことがよくあります。私がRubyを知った頃のJavaでは、以下のような処理を書かなければならないのが普通でした。 Buffer [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_04_08/116970" data-wpel-link="internal" target="_self">Crystal言語作者がRubyを愛する理由（5）標準ライブラリが優秀（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Newsラウンドアップ - JDK 18 GA、JMC 8.2、Springのアップデート、MicroStream 7.0-Beta1、WildFly 26.1-Beta1]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/java-news-roundup-mar21-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/java-news-roundup-mar21-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-08T04:52:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年3月21日、今週のJavaラウンドアップは、JDK 18、JDK 19、JDK Mission Control 8.2、Amazon Corretto 18、BellSoft LibericaJDK 18、Springの一連のマイルストンリリースとポイントリリース、Miconaut 3.4.0、GraalVM Native Build Tools 0.9.11、WildFly 26 Beta 1、Hibernate Reactive 1.1.4.Final、MicroStream 7.0-M1、JReleaser 1.0-RC1、TotnadoVM 0.13、といったニュースをお届けする。
- By Michael Redlich  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Michael Redlich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicrosoftがAzure Health Data Servicesを導入：クラウド上の保護対象保健情報]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/azure-health-data-services/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/azure-health-data-services/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-08T04:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftは最近、Azure Health Data Servicesを発表した。これは、組織がオープンスタンダードのFHIRとDICOMにヘルスケアデータをアップロード、保存、管理、分析できるようにするPlatform-as-a-Serviceである。
- By Renato Losio  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleがCloud MemoryStoreをアップデートし、リードレプリカ、RDBスナップショット、フラッシュレスアップデートを提供]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/cloud-memorystore-redis-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/cloud-memorystore-redis-updates/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-08T04:43:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、GoogleはCloud MemoryStoreに対する、いくつかのアップデートを発表した。これはオープンソースのRedisと互換性のあるフルマネージドのインメモリストアだ。今回の更新には、一般利用可能（GA）なリードレプリカ、プレビューのRDB（Redisデータベース）スナップショット、ベーシックプランインスタンス向けのフラッシュレスアップデート（アップデート時にキャッシュを消去しない）の追加が含まれる。
- By Steef-Jan Wiggers  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「宇宙ベンチャーに聞く、研究開発型事業の作り方」開催のご案内]]></title>
-        <id>https://www.technologyreview.jp/?p=272354</id>
-        <link href="https://www.technologyreview.jp/s/272354/mittr-emerging-technology-nite-21/"/>
-        <updated>2022-04-08T00:59:34.000Z</updated>
-        <summary type="html"><![CDATA[大学等での研究開発の成果を事業化し、社会実装を目指していく「研究開発型スタートアップ」が日本でも近年増えている。MITテクノロジーレビューは、Innovators Under 35の日本版を受賞した宇宙ベンチャーのお二人を迎え、なぜ、大学での研究から起業への道を決断したのか？どうやって技術を事業に変えていくのか？最新の取り組みと合わせてお話いただく。]]></summary>
-        <author>
-            <name>MIT Technology Review Event Producer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月8日号　jammyの開発/Kernel Freezeとリリースノート ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/08</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202204/08"/>
-        <updated>2022-04-08T00:41:00.000Z</updated>
-        <summary type="html"><![CDATA[jammy（22.04 LTS）の開発はリリースまであと2週間となりました。Kernel Freezeの前に駆け込み的にAMXサポートが追加される等，ぎりぎりのタイミングでの調整が続けられています。]]></summary>
-        <author>
-            <name>吉田史</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子どもの教育費を総額にすると一体いくら？ 習い事にはどのくらいお金をかけるの？ 幼稚園から大学までの教育費をまとめて紹介！]]></title>
-        <id>https://data.wingarc.com/?p=37722</id>
-        <link href="https://data.wingarc.com/education-cost-37722?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=education-cost"/>
-        <updated>2022-04-07T23:00:17.000Z</updated>
-        <summary type="html"><![CDATA[何かと悩みの多い子育ての話題ですが、特に気がかりなのが教育費についてです。 大学進学率が50%を超え、当たり前になった昨今、教育費として必要になるのはいったいいくらなのでしょうか？ 今回は教育費の実態にデータで迫ります。 […]]]></summary>
-        <author>
-            <name>大藤 ヨシヲ</name>
         </author>
     </entry>
     <entry>
