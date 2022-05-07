@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-07T00:00:46.479Z</updated>
+    <updated>2022-05-07T01:27:53.133Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4344,86 +4344,6 @@ AWS は本日より、組織全体で継続的なクラウドスキルの学習�
         <summary type="html"><![CDATA[毎日記事を書くという仕事上、僕にとってテキストエディタはもっとも重要な仕事道具です。これまでいろんなテキストエディタを使っていましたが、少し前からGoogle Docsをテキストエディタ代わりに使い始めました。 というのも最近、Google...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amplify Geo for iOS の一般提供の開始を発表]]></title>
-        <id>aac359445495b9d0598404480f0550513c037a7c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amplify-geo-available-ios/"/>
-        <updated>2022-04-07T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amplify Geo for JavaScript のリリースに続いて、Amplify Geo for iOS の一般提供の開始をお知らせします。Amplify Geo for iOS を使用すると、デベロッパーは、iOS アプリに地図や場所の検索のためにクラウド接続された UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウド接続されたマップ UI コンポーネントを含みます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Iceberg を利用した Amazon Athena ACID トランザクションの一般提供の開始を発表]]></title>
-        <id>3198cacd703acc2272fd604f8fb7128d00eed038</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/"/>
-        <updated>2022-04-07T12:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Athena ACID トランザクションの一般提供の開始をお知らせします。この新機能は、Athena の SQL のデータ操作言語 (DML) に、挿入、更新、削除、タイムトラベルのオペレーションを追加します。Athena ACID トランザクションにより、複数の同時実行ユーザーが、Athena のコンソール、API、ならびに ODBC および JDBC ドライバーから、自らの Amazon S3 データに信頼できる、行レベルの変更を加えることが可能となります。Apache Iceberg テーブル形式に基づいて構築された Athena ACID トランザクションは、Amazon S3 ストレージ用に最適化され、シームレスなスキーマの進化をサポートし、Amazon EMR、Apache Spark、Apache Flink などの Iceberg テーブル形式をサポートする他の複数のサービスやエンジンでのアトミックオペレーションを確実に実行できるようにします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx が AWS PrivateLink のサポートを開始]]></title>
-        <id>574f9840296a0aedc60fa8efc1abe366251ca76e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/"/>
-        <updated>2022-04-07T12:43:00.000Z</updated>
-        <summary type="html"><![CDATA[お客様は AWS PrivateLink を使って、パブリック IP を使用せずに、Amazon Virtual Private Cloud (Amazon VPC) から Amazon FSx Application Programming Interface (Amazon FSx API) にプライベートにアクセスできます。トラフィックはインターネットを経由する必要がありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AppSync がリアルタイム GraphQL サブスクリプションでの拡張フィルタリングのサポートを追加]]></title>
-        <id>c1e181bd30f498cfef8a620c6df43c2326a7070f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-appsync-enhanced-filtering-graphql-subscriptions/"/>
-        <updated>2022-04-07T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS AppSync は、デベロッパーがリアルタイムデータに基づいてデジタルエクスペリエンスを構築できるようにするフルマネージドサービスです。サポートされているデータソースを簡単かつ手間なく設定して、接続管理、スケーラビリティ、ファンアウト、およびブロードキャストをすべて AppSync で処理し、サブスクライブされたクライアントにリアルタイムのデータ更新をプッシュして発行できるため、複雑なインフラストラクチャを処理してリアルタイムの WebSocket 接続を大規模に管理するのではなく、アプリケーションのビジネスユースケースと要件に労力をかけることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Amplify Hosting が GitHub アプリを使用して CI/CD ワークフローのリポジトリへのアクセスの承認を開始]]></title>
-        <id>a8831efe534182b1c6e56e15677857bdb2f390fb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-amplify-hosting-github-access-workflows/"/>
-        <updated>2022-04-07T12:29:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Amplify Hosting は、GitHub アプリを使用して GitHub コードリポジトリへのアクセスを取得するようになりました。Amplify GitHub アプリは、既存の OAuth アプリと同じ機能をすべて提供し、さらに、アカウントまたは組織内の特定のリポジトリへのスコープ許可を完全に制御することを可能にします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup が Amazon FSx for Lustre ファイルシステムの Persistent 2 デプロイタイプのサポートを追加]]></title>
-        <id>cd2f027c9747ed968cb607039117e1a0809a7afa</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/"/>
-        <updated>2022-04-07T12:23:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup は、Persistent 2 デプロイタイプのデータを保護できるようにすることで、Amazon FSx for Lustre ファイルシステムのサポートを強化します。複数の AWS リージョンとアカウントで論理的にエアギャップのあるイミュータブルなバックアップを作成する機能、実証可能なコンプライアンス、シングルクリックでの復元など、AWS のサービス全体における AWS Backup の一元的なデータ保護機能を、Amazon FSx for Lustre Persistent 2 ファイルシステムでご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resource Access Manager が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>7c2b79a12ed4d49a5af9e55faefc1f4235428016</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-resource-access-manager-jakarta/"/>
-        <updated>2022-04-07T12:17:00.000Z</updated>
-        <summary type="html"><![CDATA[AWS Resource Access Manager (AWS RAM) が、AWS アジアパシフィック (ジャカルタ) リージョンのお客様にご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 が EC2 コンソールの改善された新しい起動エクスペリエンスの提供を開始]]></title>
-        <id>e6611c9bb235eabbe25f83f60276bf493764e630</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/"/>
-        <updated>2022-04-07T12:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 コンソールは、改善された新しい起動エクスペリエンスを導入します。これにより、より迅速かつ簡単にインスタンスを起動できます。新しいデザインでは、すべての設定を 1 か所で表示できる単一ページレイアウトを利用できます。設定が正しいことを確認するために、ステップを行ったり来たりする必要がなくなりました。新しいデザインでは、概要を提供し、ページ間を移動するのに役立つ概要パネルも導入されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
