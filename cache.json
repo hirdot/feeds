@@ -1594,16 +1594,6 @@
           "wordCount": 264,
           "title": "Amazon OpenSearch Service が IK Analysis プラグインでのカスタムディクショナリの使用のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e9e18d2f0d38e91683d0df409c5ddabb5ef8b414",
-          "author": "aws@amazon.com",
-          "description": "AWS マネジメントコンソールで Unified Settings の提供を開始します。Unified Settings を使用すると、設定はデバイス、ブラウザ、およびサービス間で保持されます。起動時に、Unified Settings は、デフォルトの言語、デフォルトのリージョン、およびお気に入りのサービス表示と呼ばれる設定をサポートします。デフォルト言語は、マネジメントコンソール全体で優先言語を表示します。デフォルトリージョンは、ログインまたはサービスコンソールをロードするたびにロードされる AWS リージョンを設定します。お気に入りのサービス表示では、サービスアイコンとフルネームで、またはサービスアイコンのみで、サービスをお気に入りバーに表示します。Unified Settings は、すべてのパブリック AWS リージョンでご利用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/unified-settings-aws-management-console/",
-          "publishedOn": "2022-04-11T12:07:00.000Z",
-          "wordCount": 236,
-          "title": "AWS マネジメントコンソールでの Unified Settings 機能の発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2064,6 +2054,36 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/05/jreleaser-v1-community/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Olimpiu Pop",
+          "description": "JRelaserは、それ自体のリリースに使用することを通じて、ユーザエクスペリエンスの直接的な理解を深めてきた。その過程を通じて、他のプロジェクトにも導入されるようになった。InfoQは今回、JReleaserのエクスペリエンスと安定性について理解するべく、その開発に関わってきた開発者たちの声を聴いた。\n By Olimpiu Pop  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/05/jreleaser-v1-community/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-05-11T01:16:00.000Z",
+          "wordCount": 1290,
+          "title": "JRelaser 1.0:アーリーアダプタに聞く",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220503054838/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/05/red-hat-releases-hibernate-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "A N M Bazlur Rahman",
+          "description": "Red Hatは、同社のフラッグシッププロダクトとして人気の高い、オブジェクト-リレーショナルマッピング永続化ユーティリティのHibernate ORMのバージョン6.0をリリースした。注目の新機能は、Jakarta 3.0仕様へのマイグレーション、JDBCのパフォーマンス向上、HQLトランザクション、クライテリアトランザクションなどだ。また、今回のリリースから、最低要件がJava 11になった。\n By A N M Bazlur Rahman  Translated by  h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/05/red-hat-releases-hibernate-6/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-05-11T01:13:00.000Z",
+          "wordCount": 1403,
+          "title": "パフォーマンスの向上したHibernate ORM 6.0",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220503054822/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/05/java-news-roundup-apr18-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "今週2022年4月18日のJavaラウンドアップは、OpenJDK、JEP 426、2022年4月版Oracle緊急パッチアップデートのリリース、JDK 19、Liberica JDKとNative Image Kitのアップデート、Springのポイントリリースとマイルストンリリース、2022年4月版Payara Platformリリース、Quarkus 2.8.1.Final、Apache Groov y 4.0.2、Apache TomEE 8.0.11、JobRunr 5.0.1、JReleaserr 1.0のアップデートといった情報をお届けする。\n By Michael Redlich  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/05/java-news-roundup-apr18-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-05-11T01:11:00.000Z",
+          "wordCount": 1597,
+          "title": "Java Newsラウンドアップ: Vector API、SpringのアップデートとCVE、Payara Platform、GroovyとTomEEのアップデート",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220503054822/styles/static/images/logo/logo-big.jpg"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/04/aws-rds-postgres-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Renato Losio",
           "description": "セキュリティ会社Lightspinの研究者は最近、PostgreSQL拡張機能を使って、どのように内部AWSサービスへの認証を取得し、RDS上のローカルファイル読み取りの脆弱性を悪用できるかを説明した。AWSはこの問題を確認し、Amazon AuroraとRDS for PostgreSQLの数十のマイナーバージョンを非推奨にした。\n By Renato Losio  Translated by 編集部T _",
@@ -2377,6 +2397,16 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0714",
+          "author": "柴田充也",
+          "description": "Ubuntu 22.04 LTSではFirefoxがsnapパッケージに完全に移行しました。これまでといろいろ違う部分で戸惑っている人もいることでしょう。今回は改めてFirefoxを含むsnapパッケージの使い方について説明します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0714",
+          "publishedOn": "2022-05-11T00:39:00.000Z",
+          "wordCount": 437,
+          "title": "第714回　Firefoxを含むsnapパッケージとの付き合い方 ── Ubuntu Weekly Recipe",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ogp/2022/1882_adminserial01ubuntu-recipe0714.png"
+        },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202205/10",
           "author": "階戸アキラ",
