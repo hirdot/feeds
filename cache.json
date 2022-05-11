@@ -1474,116 +1474,6 @@
           "wordCount": 294,
           "title": "Amazon Connect Wisdom が PrivateLink のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ef84c8d4d14d51fc54c160696eca22b7c3a12ca2",
-          "author": "aws@amazon.com",
-          "description": "AWS OpsWorks for Configuration Management が Puppet Enterprise LTS バージョン 2019.8.10 をサポートするようになりました。お客様は、個別にスケジュールした毎週のシステムメンテナンス期間中に更新を自動的に受け取ることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/",
-          "publishedOn": "2022-04-12T08:53:23.000Z",
-          "wordCount": 263,
-          "title": "AWS OpsWorks for Configuration Management が Puppet Enterprise をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9ad459bac0035ebb37d126af2ab8bd2f7a541ecc",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift が Microsoft Azure Active Directory (AD) とのネイティブ統合を提供するようになり、Microsoft Power BI などのツールでの認証と認可が可能になりました。Azure AD を使用して Amazon Redshift へのアクセスを認証することができるようになったので、エンドユーザーは、Azure AD で定義されたグループメンバーシップに基づいてアクセス許可を取得できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/",
-          "publishedOn": "2022-04-12T08:52:36.000Z",
-          "wordCount": 288,
-          "title": "Amazon Redshift が Microsoft Azure Active Directory と Microsoft Power BI とのネイティブ統合を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "05f3834bf41e4b319ce95915abc313cfd8c574a3",
-          "author": "aws@amazon.com",
-          "description": "Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポートするようになりました。この新機能では、プライマリインスタンス上で作成、変更、または削除された SQL Server エージェントジョブがマルチ AZ 構成内のセカンダリインスタンスに自動的に同期されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/",
-          "publishedOn": "2022-04-12T08:51:48.000Z",
-          "wordCount": 253,
-          "title": "Amazon RDS for SQL Server が SQL Server エージェントジョブレプリケーションをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9aae947dc2833196a4db5f109b98392cbcb6e3ba",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift がロールベースのアクセスコントロール (RBAC) をサポートするようになりました。RBAC は、Amazon Redshift のセキュリティ特権の管理を簡素化することのできる新しい機能強化です。RBAC の機能を使用すると、ユーザーのジョブロール/アクセス許可権限とデータの機密レベルに応じて、データへのエンドユーザーアクセスを広範なレベルまたは詳細なレベルで制御できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/",
-          "publishedOn": "2022-04-12T08:51:00.000Z",
-          "wordCount": 247,
-          "title": "Amazon Redshift がロールベースのアクセスコントロール (RBAC) のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3767efd174db958d771222bd28bd0db668a9584c",
-          "author": "aws@amazon.com",
-          "description": "2022 年 4 月 1 日から、同じ AWS リージョン内のアベイラビリティーゾーン（AZ）間での AWS PrivateLink、AWS Transit Gateway、および AWS Client VPN のデータ転送が無料になります。以前は、これらのネットワークサービスを使用する際にアベイラビリティーゾーン間でデータを送信すると AZ 間のデータ転送料金が発生していました。この料金変更に伴い、これらのサービスの AZ 間のデータ転送は無料になり、マルチ AZ ワークロードを実行する際のコスト効果がさらに向上します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/",
-          "publishedOn": "2022-04-12T08:50:13.000Z",
-          "wordCount": 311,
-          "title": "AWS が AWS PrivateLink、AWS Transit Gateway、AWS Client VPN サービスのデータ転送料金の値下げを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3f212ee784a875447f2665b5d597f8a0fec93a93",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (Amazon ECS) Exec を使用して、AWS Fargate 上で実行する Windows コンテナでコマンドを実行できるようになりました。ECS Exec を使用すると、実行中のコンテナへのインタラクティブなシェルまたは単一コマンドによるアクセスが可能になり、問題のデバッグ、エラーの診断、1 回限りのダンプと統計の収集、コンテナ内のプロセスとのやり取りが簡単になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/",
-          "publishedOn": "2022-04-12T08:48:59.000Z",
-          "wordCount": 288,
-          "title": "Amazon ECS で AWS Fargate 上の Windows コンテナでのコマンド実行が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bd3a9493b8438d495652c0d67716bad4146328a9",
-          "author": "aws@amazon.com",
-          "description": "CloudFront ディストリビューションに加えて、AWS Shield Advanced で保護された Application Load Balancer (ALB) リソースのアプリケーションレイヤーの DDoS 自動緩和を有効にすることができるようになりました。AWS Shield Advanced でリソースを保護し、アプリケーションレイヤーの DDoS 自動緩和を有効にすると、ウエブアクセスコントロールリスト (ACL) に AWS WAF ルールを自動的に作成することでレイヤー 7 の DDoS イベントに関連付けられたパターンの識別と隔離が行われます。これらのルールは、カウントモードで実装して、リソースのトラフィックにどのような影響を与えるかを観察した後、ブロックモードでいつでもデプロイすることができます。また、アプリケーションレイヤーの DDoS イベントに関連する検知、緩和、上位コントリビューターのメトリクスを表示して、さらなる調査や、Shield Advanced が作成した緩和の効果を評価することができます。これらの機能により、アプリケーションの可用性を脅かす DDoS イベントにすばやく対応して緩和することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/",
-          "publishedOn": "2022-04-12T03:39:00.000Z",
-          "wordCount": 272,
-          "title": "AWS Shield Advanced がアプリケーションレイヤーの DDoS 自動緩和で Application Load Balancer をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5647b65ab7e4b3f50eed1475bfa8d53860ff97cb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect が、AWS CloudTrail でイベントとして行われたすべての変更を記録する、ユーザー、ルーティングプロファイル、キューの UI を更新しました。これにより、AWS CloudTrail を調べて、誰がどのアクションを実行したか、どのリソースが実行されたか、イベントがいつ発生したか、ならびに分析や応答に役立つその他の詳細を特定できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/",
-          "publishedOn": "2022-04-12T03:34:03.000Z",
-          "wordCount": 254,
-          "title": "Amazon Connect が、AWS CloudTrail のサポートにより、ユーザー、ルーティングプロファイル、キューの更新された UI のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8dbf8e0583a76fb14817ca05f89910b17c0f1530",
-          "author": "aws@amazon.com",
-          "description": "AWS Resource Access Manager (AWS RAM) は、米国東部 (バージニア北部)、米国東部 (オハイオ)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) ではFedRAMPモデレートとして、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) ではFedRAMP Highとして承認されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/",
-          "publishedOn": "2022-04-12T03:33:16.000Z",
-          "wordCount": 292,
-          "title": "AWS Resource Access Manager が FedRAMP に準拠",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "152b196b039935b0ab77fc39671fae77b47bb88d",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub では、お客様の Cloud Security Posture Management (CSPM) を強化する目的で、基本的なセキュリティのベストプラクティス標準 (FSBP) として 5 つの新しいコントロールが利用できるようになりました。これらのコントロールは、Amazon CloudFront、Amazon Elastic Container Registry (ECR)、Amazon Elastic Load Balancer (ELB)、Amazon Simple Storage Service (S3) のセキュリティベストプラクティスに対する完全な自動チェックを実行します。Security Hub で新しいコントロールを自動的に有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub では、AWS のセキュリティ体制を自動的にチェックするための 192 のセキュリティコントロールがサポートされるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/",
-          "publishedOn": "2022-04-12T03:31:57.000Z",
-          "wordCount": 381,
-          "title": "AWS Security Hub が 5 つのコントロールと 1 つの新しい統合パートナーを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ab58b6691aaf3f8603ce4ad1e539b467092f29d4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリ集約型のワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/",
-          "publishedOn": "2022-04-12T03:31:02.000Z",
-          "wordCount": 358,
-          "title": "Amazon RDS for Oracle が M6i と R6i インスタンスのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2242,16 +2132,6 @@
           "wordCount": 1168,
           "title": "Lyftにおけるマイクロサービステストの拡張と自動化",
           "imageUrl": "https://cdn.infoq.com/statics_s2_20220412-0219/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/azure-apim-private-link-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "先頃Microsoftは、APIの公開、保護、変換、維持、監視を行うフルマネージドサービスであるAzure API Managementサービスを対象とするAzure Private Linkサポートのプレビューを発表した。\n By Steef-Jan Wiggers  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/04/azure-apim-private-link-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-12T01:55:00.000Z",
-          "wordCount": 1207,
-          "title": "Microsoft、Azure API Managementプレビューでプライベートリンクのサポートを開始",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220331101035/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2496,16 +2376,6 @@
           "wordCount": 442,
           "title": "第711回　Ryzen 5 5500Uで省エネPC生活 ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_112_ubuntuRecipe.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202204/12",
-          "author": "階戸アキラ",
-          "description": "Fedoraプロジェクトは4月8日，2022年秋にリリース予定の「Fedora Linux 37」で新規インストールにおけるハードウェア要件を変更する方針を明らかにした。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202204/12",
-          "publishedOn": "2022-04-12T05:03:00.000Z",
-          "wordCount": 353,
-          "title": "2022年4月12日　Fedora，レガシーBIOSのサポートを段階的に終了へ ── Linux Daily Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
         }
       ]
     },
@@ -2553,16 +2423,6 @@
           "wordCount": 398,
           "title": "第4回　神話と楔形文字と，ときどきUnicode ── ちょっと気になる隣の技術畑",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2021/1864_technical_field.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0169",
-          "author": "深町日出海",
-          "description": "本連載にて度々登場しているPercona Toolkitの中に，pt-variable-advisorというものがあります。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0169",
-          "publishedOn": "2022-04-12T00:15:00.000Z",
-          "wordCount": 454,
-          "title": "第169回　pt-variable-advisorを使ってみよう ── MySQL道普請便り",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
         }
       ]
     },
@@ -2640,16 +2500,6 @@
           "wordCount": 412,
           "title": "2022年4月第3週　Android Autoデビューしました。その後…… ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0412",
-          "author": null,
-          "description": "自転車通勤がつらい季節が近づいております。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202204/0412",
-          "publishedOn": "2022-04-12T06:00:00.000Z",
-          "wordCount": 354,
-          "title": "2022年4月12日　春というには暑すぎる・・・ ── 帰ってきた『技評ねこ部通信』",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         }
       ]
     },
@@ -2908,26 +2758,6 @@
           "wordCount": 437,
           "title": "Ruby 3.1.2/3.0.4/2.7.6/2.6.10セキュリティ修正がリリースされました",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/ruby_nokogiri_securityfixes_eyecatch3.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_12/116997",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/railswatch_20220412_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_12/116997\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: HashieでRubyのハッシュを強化、最近のRubyコア解説記事ほか（20220412後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_12/116997",
-          "publishedOn": "2022-04-12T09:50:54.000Z",
-          "wordCount": 1052,
-          "title": "週刊Railsウォッチ: HashieでRubyのハッシュを強化、最近のRubyコア解説記事ほか（20220412後編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/railswatch_20220412_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_12/112882",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails_activerecord_delegatedtype_api_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 APIドキュメント: ActiveRecord::DelegatedType リポジトリ: rails/delegated&#95;type&#46;rb at main · rails/rails 原文更新日: 2021/11/03（57fe7df） ライセンス: MIT ActiveRecord::DelegatedTypeはRails 6.1以降で利用できます。delegated typeは英ママとしました。 週刊Railsウォッチ20200601 新機能: Active Recordにdelegated_typeが追加もどうぞ。 また、Rails 7 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_12/112882\" data-wpel-link=\"internal\" target=\"_self\">Rails: ActiveRecord::DelegatedType APIドキュメント（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_12/112882",
-          "publishedOn": "2022-04-12T08:30:29.000Z",
-          "wordCount": 701,
-          "title": "Rails: ActiveRecord::DelegatedType APIドキュメント（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails_activerecord_delegatedtype_api_eyecatch-min.png"
         }
       ]
     },
@@ -2936,6 +2766,46 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/flutter_3fluttermacoslinuxmac.html",
+          "author": null,
+          "description": "Googleは開催中のイベント「Google I/O 2022」の基調講演で、Dart言語のフレームワークであるFlutterの最新版「Flutter 3」を発表しました。  Introducing Flutter 3 at #Google...",
+          "link": "https://www.publickey1.jp/blog/22/flutter_3fluttermacoslinuxmac.html",
+          "publishedOn": "2022-05-11T20:49:09.000Z",
+          "wordCount": 231,
+          "title": "［速報］「Flutter 3」登場、FlutterによるmacOSとLinuxアプリ開発が正式版に。Macのユニバーサルバイナリにも対応",
+          "imageUrl": "https://www.publickey1.jp/2022/flutter301.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/cloudflarecdnsqliterdbcloudflare_d1cdn.html",
+          "author": null,
+          "description": "CDNベンダのCloudflareは、同社のCDNエッジ上にSQLiteベースのRDBサーバ機能を提供する新サービス「Cloudflare D1」を発表しました。同社にとって初めてのデータベースサービスです。 Today, we’re ex...",
+          "link": "https://www.publickey1.jp/blog/22/cloudflarecdnsqliterdbcloudflare_d1cdn.html",
+          "publishedOn": "2022-05-11T19:57:20.000Z",
+          "wordCount": 218,
+          "title": "Cloudflare、CDNエッジで稼働するSQLiteベースのRDB「Cloudflare D1」発表。ユーザーの近接CDNエッジに自動でレプリカを分散配置、高速アクセスを実現",
+          "imageUrl": "https://www.publickey1.jp/2022/ps4PQ9ec.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/cloudflareamazon_s3cloudflare_r210gb.html",
+          "author": null,
+          "description": "Cloudflareは、CDNエッジで使えるAmazon S3互換のオブジェクトストレージ「Cloudflare R2」のオープンベータを開始したと発表しました。 Cloudflare exists to help build a bett...",
+          "link": "https://www.publickey1.jp/blog/22/cloudflareamazon_s3cloudflare_r210gb.html",
+          "publishedOn": "2022-05-11T19:55:20.000Z",
+          "wordCount": 217,
+          "title": "Cloudflare、Amazon S3互換のオブジェクトストレージ「Cloudflare R2」のオープンベータを開始。10GB以下ならずっと無料",
+          "imageUrl": "https://www.publickey1.jp/2022/mYmKyp_H.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/dockersysboxnestybox.html",
+          "author": null,
+          "description": "Docker社は、5月10日（日本時間5月11日未明）に開催したイベント「DockerCon 2022」で、Nestybox社の買収を発表しました。 Nestyboxは、現在一般的に使われているコンテナランタイムであるruncよりも高い分離...",
+          "link": "https://www.publickey1.jp/blog/22/dockersysboxnestybox.html",
+          "publishedOn": "2022-05-11T19:54:00.000Z",
+          "wordCount": 242,
+          "title": "Docker、分離レベルの高いコンテナランタイム「Sysbox」の開発元Nestyboxの買収を発表",
+          "imageUrl": "https://www.publickey1.jp/2022/docker_nestybox01.gif"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html",
           "author": null,
@@ -4061,16 +3931,6 @@
           "publishedOn": "2022-04-12T21:26:09.000Z",
           "wordCount": 341,
           "title": "東北大、リチウム電池正極材料合成で脱レアメタル依存",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/11/273161/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/12/273161/",
-          "publishedOn": "2022-04-11T23:57:57.000Z",
-          "wordCount": 341,
-          "title": "新型コロナ感染による脳の変化を細胞レベルで解明＝東大など",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
