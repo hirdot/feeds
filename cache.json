@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "4a6cd333b7a4d917c08a9cf48f06d03c9ba30c69",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise から単一の API リクエストで現在の値 (BatchGetAssetPropertyValue)、履歴値 (BatchGetAssetPropertyValueHistory)、および集計値 (BatchGetAssetPropertyAggregates) を取得する 3 つの新しい API を使用して、AWS IoT SiteWise で複数のアセットプロパティからバッチデータを取得できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/",
+          "publishedOn": "2022-05-12T08:34:37.000Z",
+          "wordCount": 265,
+          "title": "AWS IoT SiteWise でのバッチデータ取得用の 3 つの新しい API を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bd467f838a978e156a9394c418ff0add2c4823de",
+          "author": "aws@amazon.com",
+          "description": "今日、AWS アジアパシフィック (ジャカルタ) リージョンで AWS X-Ray が利用できるようになりました。X-Ray を使用すると、デベロッパーは、マイクロサービスアーキテクチャを使って構築された分散型実稼働アプリケーションを分析およびデバッグすることができます。X-Ray では、アプリケーションやその基盤となるサービスの実行状況を把握し、パフォーマンスの問題やエラーの根本原因を特定してトラブルシューティングを行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-05-12T08:33:49.000Z",
+          "wordCount": 238,
+          "title": "AWS X-Ray が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0f99c71fbbecdf588c1baeddfb4b9f8150ab606b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Service for Prometheus 使用状況メトリクスが追加コストなしで Amazon CloudWatch で利用できるようになりました。Amazon Managed Service for Prometheus は、フルマネージドの Prometheus 互換のモニタリングサービスであり、運用メトリクスを大規模かつ簡単にモニタリングして、アラートを発信できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。Amazon CloudWatch 使用状況メトリクスを使用すると、Amazon Managed Service for Prometheus ワークスペースの使用状況を確認し、クォータのプロアクティブな管理を開始できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/",
+          "publishedOn": "2022-05-12T08:31:20.000Z",
+          "wordCount": 274,
+          "title": "Amazon CloudWatch 使用状況メトリクスを使用した Amazon Managed Service での Prometheus 使用状況のモニタリング",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "3921ae43944a28d623bbc2dae0a4a27a9067eebd",
           "author": "aws@amazon.com",
           "description": "AWS Secrets Manager がアカウントのシークレットの個数をメトリクスとして Amazon CloudWatch に出力するようになりました。この機能により、Secrets Manager で使用しているシークレットの個数を簡単に表示できます。シークレットの個数が予期せず増加または減少した場合のアラームも設定できます。",
@@ -2609,6 +2639,16 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_12/117528",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/coherenceX_chrome_apps_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>私はChromeブラウザのタブをメモ代わりについつい増やしてしまいがちなたちで、気がつくとタブが100個超えになっていることもしばしばでした。そういう状態でまれにChromeブラウザやOSが落ちてしまうとタブが全部吹っ飛んでしまうことがあり、復元に相当手間取ります。 https://t.co/bYbxoHoXoX &#8212; semanticsone (@semanticsgal) March 25, 2022 このCoherence Xというツールで用途ごとにChromeアプリを作成すると（注: 本記事ではこれをChromeアプリと呼ぶことにします）、以下のようにChromeアプリ単位で作業を切り替えられて [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_12/117528\" data-wpel-link=\"internal\" target=\"_self\">Mac: Coherence XでChromeブラウザを用途ごとにアプリ化する</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_12/117528",
+          "publishedOn": "2022-05-12T08:30:14.000Z",
+          "wordCount": 323,
+          "title": "Mac: Coherence XでChromeブラウザを用途ごとにアプリ化する",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/coherenceX_chrome_apps_eyecatch-min.png"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_11/117657",
           "author": null,
