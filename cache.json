@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "de50bb4627d245e503607b5f04ae0cd1161e6c49",
+          "author": "aws@amazon.com",
+          "description": "AWS Step Functions は、ワークフローの実行を表示およびデバッグするための新しいコンソールエクスペリエンスの提供を開始しました。これにより、実行の検索やフィルタリング、および実行における根本原因の特定が容易になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-new-workflow-observability-features-aws-step-functions/",
+          "publishedOn": "2022-05-13T03:33:23.000Z",
+          "wordCount": 245,
+          "title": "AWS Step Functions 向けにワークフローの可観測性に関する新機能を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d801ce96c47aaaa9bef567f9608654e6a09046b7",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 は、作成、登録、登録解除などのさまざまな Amazon マシンイメージ (AMI) アクションについて、Amazon CloudWatch Events に通知を送信するようになりました。CloudWatch Events (CWE) を使用すると、これらの変更に応じてプログラムによるアクションを開始するルールを確立できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/",
+          "publishedOn": "2022-05-13T03:32:34.000Z",
+          "wordCount": 255,
+          "title": "Amazon EC2 が Amazon マシンイメージ向けに CloudWatch Events のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "71fe03478df0c8f7d4dfce2e47e042a668e033dd",
           "author": "aws@amazon.com",
           "description": "Amazon Athena を使用して、セルフマネージド Apache Hive メタストアに保存されたビューを照会できるようになりました。Hive ビューは Hive Query Language (HiveQL) を使用して定義されますが、これは Athena の標準 SQL と完全に互換性があるわけではありません。この新しい機能により、Athena は自動的に HiveQL の構文の違いを処理し、ビュー定義を変更したり複雑な翻訳レイヤーを維持することなく、Hive ビューにクエリを実行することができます。",
@@ -3293,6 +3313,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=275981",
+          "author": "Rhiannon Williams",
+          "description": "他人の位置情報や通話、プライベートメッセージなどを密かに監視するために設計されたストーカーウェア（スパイウェア）の広告が、グーグルの検索結果に表示されている。グーグルはポリシーで禁止しているにもかかわらず、いまだ排除されてない。",
+          "link": "https://www.technologyreview.jp/s/275981/google-is-failing-to-enforce-its-own-ban-on-ads-for-stalkerware/",
+          "publishedOn": "2022-05-13T04:11:02.000Z",
+          "wordCount": 708,
+          "title": "グーグルにはびこる「浮気監視」アプリ広告、規約違反でも消えず",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/12193504/stalker-ad-profit-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=275995",
           "author": "Rhiannon Williams",
