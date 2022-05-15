@@ -1534,26 +1534,6 @@
           "wordCount": 311,
           "title": "宇宙望遠鏡科学研究所、DNAStack、米国国立公文書館などからオープンデータのレジストリで利用できる新しいデータセットが登場",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2558dad38dd720e2f6f04142daeb32fc4fbcbcc7",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate により、お客様は、アプリケーションをより高速にスケーリングできるようになりました。これにより、パフォーマンスが向上し、待機時間が短縮されます。昨年、アプリケーションを最大 16 倍高速にスケールできるようにするいくつかの改善を行いました。これにより、Fargate での大規模なアプリケーションの構築と実行が容易になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/",
-          "publishedOn": "2022-04-15T22:07:21.000Z",
-          "wordCount": 269,
-          "title": "AWS Fargate でアプリケーションのより高速なスケーリングが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "160c4025724873e553a7195d1179612a51a9179e",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for NetApp ONTAP は、シングルアベイラビリティーゾーン (AZ) デプロイをサポートするようになりました。シングル AZ ファイルシステムは、マルチ AZ ファイルシステムのデータ回復モデルを必要としないユースケース向けに設計されています (開発とテストのワークロードの実行、オンプレミスや他の AWS リージョンに既に保存されているデータのセカンダリコピーの保存など)。シングル AZ ファイルシステムは、これらのユースケースでマルチ AZ ファイルシステムよりも低コストのストレージオプションを提供すると同時に、すべてのデータ管理機能を同じように提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/",
-          "publishedOn": "2022-04-15T22:01:29.000Z",
-          "wordCount": 283,
-          "title": "Amazon FSx for NetApp ONTAP でシングルアベイラビリティーゾーンデプロイオプションを導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2707,6 +2687,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/f5nginx.html",
+          "author": null,
+          "description": "NGINX（エンジンエックス）はオープンソースで開発されているWebサーバとしてもっとも人気のあるソフトウェアの1つです。その開発者であるIgor Sysoev（イーゴリ・シソエフ）氏がロシアの首都モスクワに住んでいたことなどにより、NGI...",
+          "link": "https://www.publickey1.jp/blog/22/f5nginx.html",
+          "publishedOn": "2022-05-15T18:42:03.000Z",
+          "wordCount": 534,
+          "title": "F5、NGINXの開発チームをロシア国外へ移転させたことを報告。開発を立て直しリリースサイクルも元通りに",
+          "imageUrl": "https://www.publickey1.jp/2022/FSqS543VUAEJXku.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsgoogle620221synergy_gropucanalys.html",
+          "author": null,
+          "description": "調査会社のSynergy Research GroupとCanalysは、2022年第1四半期時点のグローバルにおけるクラウドインフラのシェアをそれぞれ発表しました（Synergy Research Group、Canalys）。 クラウド...",
+          "link": "https://www.publickey1.jp/blog/22/awsgoogle620221synergy_gropucanalys.html",
+          "publishedOn": "2022-05-15T15:34:35.000Z",
+          "wordCount": 211,
+          "title": "グローバルのクラウドインフラ市場はAWS、マイクロソフト、Googleの寡占が強まり6割超に。2022年第1四半期、Synergy GropuとCanalysの調査結果",
+          "imageUrl": "https://www.publickey1.jp/2022/synergy2022q102.gif"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/gitlabdevops.html",
           "author": null,
           "description": "GitLab社は日本語で「タヌキ（Tanuki）」と命名されたロゴを使用していることがITエンジニアのあいだでしばしば話題になります。それはタヌキというユニークな名前のせいだけではなく、その外観がキツネにしか見えないからでもあります。 その...",
@@ -3133,6 +3133,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=273310",
+          "author": "Eswar Prasad",
+          "description": "デジタル・テクノロジーは、お金の性質を変え、人々とお金との関係を変え、一部の国の経済管理能力を変えるかもしれない。それが将来、人類全体にとって幸福なのか、不平等をさらに悪化させるのかはまだ分からない。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/273310/money-is-about-to-enter-a-new-era-of-competition/",
+          "publishedOn": "2022-05-15T21:57:47.000Z",
+          "wordCount": 564,
+          "title": "暗号通貨で新競争時代を迎えた「お金」のイノベーション史",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/12181504/MJ22_prasad_01-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=275981",
           "author": "Rhiannon Williams",
