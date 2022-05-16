@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a12de34e0d18378feba5db1e96ce443424d9a7c5",
+          "author": "aws@amazon.com",
+          "description": "AWS Single Sign-On (AWS SSO) が、組織内のすべてのメンバーアカウントに対して、AWS Organizations 委任管理者アカウントからの集中管理と API アクセスをサポートするようになりました。つまり、すべてのメンバーアカウントを一元管理するために使用できる組織内のアカウントを指定できることになります。委任された管理を使用すると、管理アカウントを使用する必要性を減らすことで、ベストプラクティスに従うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-sign-on-administer-delegated-member-account-in-organization/",
+          "publishedOn": "2022-05-16T17:32:13.000Z",
+          "wordCount": 245,
+          "title": "組織内で委任されたメンバーアカウントからの AWS Single Sign-On の管理",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "619036df6917ae6dfb710834101ef0463d5b2ef3",
+          "author": "aws@amazon.com",
+          "description": "最新の FreeRTOS および長期サポート (LTS) ライブラリリリースのモジュラー構造に合わせた、FreeRTOS 用の更新されたより柔軟な AWS デバイス認定プログラム (DQP) が導入されました。この AWS DQP for FreeRTOS を利用すると、マイクロコントローラー (MCU) ベンダーは、特定の MCU ベースの開発ボードで実行されている FreeRTOS AWS IoT ライブラリの統合を、AWS が公開している AWS IoT Core 接続のベストプラクティスや、認定プログラムで指定されたテストに対して検証することができます。以前は、開発ボードを認定するために、MCU ベンダーは固定ディレクトリ構造とリポジトリを中心にプロジェクトを構成する必要がありました。今後は、MCU ベンダーは、アプリケーションに直接関連する FreeRTOS ライブラリのみを含め、ツールチェーンを最適に使用するプロジェクト構造とリポジトリを選択し、ボード機能に関連するテストを実行する柔軟性が得られます。AWS IoT Device Tester for FreeRTOS を使用することで、MCU ベンダーは AWS DQP で指定された必須のテストを実行して、FreeRTOS ポートを検証することができます。このプログラムを使用するデベロッパーは、FreeRTOS ポートが AWS IoT 接続、相互運用性、更新可能性、セキュリティの向上について検証済みであることを知って、設計の接続性により自信を持つことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/",
+          "publishedOn": "2022-05-16T13:31:53.000Z",
+          "wordCount": 273,
+          "title": "FreeRTOS 向けのより柔軟な AWS デバイス認定プログラムのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fd76f89076a2884f1a2e35510831ecabe1cf391a",
+          "author": "aws@amazon.com",
+          "description": "AWS GameKit が、Unreal Engine で開発される Android、iOS、macOS ゲームをサポートするように拡張されました。2022 年 3 月 23 日にリリースされた AWS GameKit は、ゲームデベロッパーが、Unreal Editor から直接 AWS を利用したゲーム機能を迅速かつ簡単に構築できる強力なツールセットです。本日のアップデートにより、Unreal Engine 用 AWS GameKit プラグインは、Win 64、Android、iOS、macOS 用のゲームを構築しているデベロッパーをサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/",
+          "publishedOn": "2022-05-16T13:31:04.000Z",
+          "wordCount": 288,
+          "title": "AWS が、Unreal Engine 用 AWS GameKit を使用したAndroid、iOS、MacOS ゲームのサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "c07779eae6804f7178b800fe115b31a3e4556fb3",
           "author": "aws@amazon.com",
           "description": "本日、アマゾン ウェブ サービス (AWS) は、2 つの新しいセキュリティおよび互換性機能である NitroTPM (Trusted Platform Module (TPM) 2.0 準拠)、および Amazon EC2 での Unified Extensible Firmware Interface (UEFI) セキュアブートの一般提供開始を発表いたしました。これらの機能により、お客様は EC2 インスタンスで TPM 依存のアプリケーションを使用できるようになります。",
@@ -2747,6 +2777,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/2200googlevmwareamazonlinux_foundation.html",
+          "author": null,
+          "description": "Linux Foundationとその傘下のOpenSSF（Open Security Software Foundation）は5月12日と13日、米政府機関や大手IT企業を招いてオープンソースのセキュリティに関する会議「Open Sou...",
+          "link": "https://www.publickey1.jp/blog/22/2200googlevmwareamazonlinux_foundation.html",
+          "publishedOn": "2022-05-16T15:30:06.000Z",
+          "wordCount": 227,
+          "title": "オープンソースのセキュリティ強化に2年で約200億円の投資、Google、Amazon、マイクロソフト、インテル、VMwareらが資金提供へ。Linux Foundationが計画",
+          "imageUrl": "https://www.publickey1.jp/2022/FSpfLsFWAAQYMLU.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/f5nginx.html",
           "author": null,
           "description": "NGINX（エンジンエックス）はオープンソースで開発されているWebサーバとしてもっとも人気のあるソフトウェアの1つです。その開発者であるIgor Sysoev（イーゴリ・シソエフ）氏がロシアの首都モスクワに住んでいたことなどにより、NGI...",
@@ -3193,6 +3233,46 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=276270",
+          "author": "Jack Stilgoe",
+          "description": "大手テック企業や自動車メーカーが完全な自律自動車の実用化へ向けた実験を進めている。もし自動運転車が実際に道路を走るなら、他のドライバーはその実態について知る必要がある。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/276270/it-will-soon-be-easy-for-self-driving-cars-to-hide-in-plain-sight-we-shouldnt-let-them/",
+          "publishedOn": "2022-05-16T21:58:26.000Z",
+          "wordCount": 564,
+          "title": "主張：自動運転車は街に溶け込むべきか？ルールが必要な理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/16165504/AP_20342772404491-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/05/16/276176/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/05/17/276176/",
+          "publishedOn": "2022-05-16T20:54:10.000Z",
+          "wordCount": 334,
+          "title": "塩は通さず水を高速で通すナノチューブ、東大が開発",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/05/14/276108/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/05/17/276108/",
+          "publishedOn": "2022-05-16T20:44:17.000Z",
+          "wordCount": 335,
+          "title": "東工大、ビジョン・トランスフォーマーをレンズレスカメラに応用",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/05/14/276107/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/05/17/276107/",
+          "publishedOn": "2022-05-16T20:30:45.000Z",
+          "wordCount": 334,
+          "title": "オミクロン株は腸管に感染しにくい、横市大がミニ臓器で検証",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=273310",
           "author": "Eswar Prasad",
