@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-16T06:00:47.588Z</updated>
+    <updated>2022-05-16T07:02:46.103Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -128,6 +128,16 @@
         <summary type="html"><![CDATA[調査会社のSynergy Research GroupとCanalysは、2022年第1四半期時点のグローバルにおけるクラウドインフラのシェアをそれぞれ発表しました（Synergy Research Group、Canalys）。 クラウド...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More async queries, pattern matching and no more autoclosed PRs!]]></title>
+        <id>https://rubyonrails.org/2022/5/14/this-week-in-rails-more-async-queries-pattern-matching-and-no-more-autoclosed-prs-c37d3f15</id>
+        <link href="https://rubyonrails.org/2022/5/14/this-week-in-rails-more-async-queries-pattern-matching-and-no-more-autoclosed-prs-c37d3f15"/>
+        <updated>2022-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Petrik, bringing you the latest news from the Rails world. Async aggregate and find_by queries Active Record async support was limited to loading collections, but among the not so fast queries that would benefit from asynchronicity you often find aggregates as well as hand crafted find_by_sql queries. We now support the following methods:]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
