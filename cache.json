@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "27409cae71df8544eea316ee70c470310bb6f3d7",
+          "author": "aws@amazon.com",
+          "description": "Amazon FSx for NetApp ONTAP は、S/4HANA、Business Suite on HANA、BW/4HANA、Business Warehouse on HANA、Data Mart Solutions on HANA などのワークロードについて SAP 認定を取得しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-fsx-netapp-ontap-certified-sap-hana-workloads/",
+          "publishedOn": "2022-05-17T02:33:47.000Z",
+          "wordCount": 307,
+          "title": "Amazon FSx for NetApp ONTAP が SAP HANA ワークロードについての認定を取得",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c0fb08b845fe6cb8892debeb8e518825ef736161",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 R5b インスタンスが、AWS 南米 (サンパウロ)、カナダ (中部)、およびアジアパシフィック (シドニー) の各リージョンでご利用いただけるようになりました。R5b インスタンスは AWS Nitro System を搭載しており、最大 60 Gbps の EBS 帯域幅と 260,000 I/O オペレーション/秒 (IOPS) を提供し、メモリを大量に消費するアプリケーションの AWS へのリフトアンドシフトを可能にします。R5b インスタンスは、R5 インスタンスと比較して 3 倍高い EBS 最適化パフォーマンスを実現し、R6i インスタンスと比較して 2 倍高い EBS 最適化パフォーマンスを実現します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/",
+          "publishedOn": "2022-05-17T02:32:59.000Z",
+          "wordCount": 312,
+          "title": "Amazon EC2 R5b インスタンスが、南米 (サンパウロ)、カナダ (中部)、およびアジアパシフィック (シドニー) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2e2a62d7dda335509d3917a312b8148d438d5f3a",
+          "author": "aws@amazon.com",
+          "description": "今後は、AWS PrivateLink を使用して、IPv6 を介して AWS でホストされているサービスに接続できます。AWS PrivateLink は、可用性が高くスケーラブルなテクノロジーであり、サポートされている AWS のサービス、他の AWS アカウントによってホストされているサービス (VPC Endpoint Service)、サードパーティーの SaaS サービス、およびサポートされている AWS Marketplace パートナーサービスにプライベートに VPC を接続することを可能にします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-privatelink-ipv6/",
+          "publishedOn": "2022-05-17T02:32:11.000Z",
+          "wordCount": 279,
+          "title": "AWS PrivateLink が IPv6 のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "a12de34e0d18378feba5db1e96ce443424d9a7c5",
           "author": "aws@amazon.com",
           "description": "AWS Single Sign-On (AWS SSO) が、組織内のすべてのメンバーアカウントに対して、AWS Organizations 委任管理者アカウントからの集中管理と API アクセスをサポートするようになりました。つまり、すべてのメンバーアカウントを一元管理するために使用できる組織内のアカウントを指定できることになります。委任された管理を使用すると、管理アカウントを使用する必要性を減らすことで、ベストプラクティスに従うことができます。",
@@ -3065,26 +3095,6 @@
           "wordCount": 218,
           "title": "「Visual Studio 2022 for Mac」の正式リリース近づく。macOSネイティブUI搭載、Apple M1プロセッサ対応、サーバレスアプリ開発対応など新機能",
           "imageUrl": "https://www.publickey1.jp/2022/vs2022formac_p9.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/dbmsdbaas1aws22021.html",
-          "author": null,
-          "description": "調査会社のガートナーはデータベース管理システム（DBMS）市場における2021年の調査結果「DBMS Market Transformation 2021: The Big Picture」を明らかにしました。 DBMS市場は長らくオンプレ...",
-          "link": "https://www.publickey1.jp/blog/22/dbmsdbaas1aws22021.html",
-          "publishedOn": "2022-04-17T15:15:29.000Z",
-          "wordCount": 154,
-          "title": "DBMSの市場規模、DBaaSがオンプレミスに並ぶ。シェア1位はマイクロソフト、AWSがオラクルを抜いて2位に。ガートナーによる2021年の調査結果",
-          "imageUrl": "https://www.publickey1.jp/2022/dbms_share_2021gartner01.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/javascripttypescriptrome_formatterrustprettier10.html",
-          "author": null,
-          "description": "JavaScriptのツールチェインを統一的に提供することを目指した「Rome Tools, Inc.」（以下、Rome Tools）は、JavaScriptおよびTypeScriptのコードの書式を高速に整えるフォーマッター「Rome F...",
-          "link": "https://www.publickey1.jp/blog/22/javascripttypescriptrome_formatterrustprettier10.html",
-          "publishedOn": "2022-04-17T15:10:37.000Z",
-          "wordCount": 215,
-          "title": "JavaScript/TypeScriptの高速フォーマッター「Rome Formatter」リリース。Rust製でPrettierより約10倍高速と",
-          "imageUrl": "https://www.publickey1.jp/2022/QfuGpmmC.jpg"
         }
       ]
     },
