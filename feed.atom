@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T03:27:16.655Z</updated>
+    <updated>2022-05-17T04:09:38.180Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS Anywhere キュレーションパッケージの公開プレビューを開始]]></title>
+        <id>2b7c10349645641162d199a171ea609387b134df</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/"/>
+        <updated>2022-05-17T03:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Kubernetes Service (EKS) Anywhere では、EKS Anywhere クラスターで Kubernetes のコア機能を拡張する Amazon キュレーションソフトウェアパッケージを有効にできるようになりました。Harbour パッケージをローカルコンテナレジストリとして本日からインストールできます。また、Emissary-Ingress パッケージと、MetalLB を介したサービスタイプのロードバランシングのサポートは、今後数か月以内に提供を開始する予定です。お客様のご要望に基づいて、時間が経過するのに伴って、さらなるキュレーションパッケージが追加されることがあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が Node.js 16 のサポートを追加]]></title>
+        <id>8d9fdc0f9246ad3cd6f936b5a795cd202338ed84</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/"/>
+        <updated>2022-05-17T03:46:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda が、マネージドランタイムおよびコンテナベースイメージの両方として Node.js 16 をサポートするようになりました。Node.js 16 を使用して Lambda でサーバーレスアプリケーションを作成するデベロッパーは、ローカル開発用の Apple シリコンのサポートなどの新機能、timers promises API、および強化されたパフォーマンスを活用することができます。Lambda による Node.js 16 のサポートに関する詳細については、Node.js 16.x runtime now available in AWS Lambda (AWS Lambda で Node.js 16.x ランタイムが利用可能になりました) ブログ記事をお読みください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Synthetics が canary 削除時の canary リソースの削除に対するサポートを追加]]></title>
+        <id>309ba06ab0656cdb4f9f1d02dbfa8867e715e2e0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/"/>
+        <updated>2022-05-17T03:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch Synthetics が、canary の削除とともに基盤となる canary リソースを削除することをサポートするようになりました。Canary を削除するときは、その canary が作成した関連リソースも削除するかどうかを選択できるので、canary リソースの管理がより簡単で効率的になります。エンドポイントと API のヘルスとパフォーマンスを監視するために定義された頻度で実行される Synthetics canary は、canary 作成ステップの一環としてこれらのリソースを作成します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon VPC Traffic Mirroring が Gateway Load Balancer を活用するモニタリングアプライアンスへのミラーリングされたトラフィックの送信に対するサポートを開始]]></title>
+        <id>6f27f986ba66665a166e3ee77f5fd7400c7562e9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/"/>
+        <updated>2022-05-17T03:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Virtual Private Cloud (Amazon VPC) Traffic Mirroring が Gateway Load Balancer の背後にあるモニタリングアプライアンスへのミラーリングされたトラフィックの送信をサポートするようになりました。この機能は、Amazon VPC Traffic Mirroring のお客様が、AWS のアカウントと VPC 全体のネットワークトラフィックの帯域外モニタリングと検査を一元化できるようにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup Audit Manager にハイブリッド VMware ワークロードのデータ保護のためのコンプライアンス管理が追加]]></title>
+        <id>12c3231e61e30bcf598b3fd04c0dd33c150a80f0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-audit-manager-compliance-management-data-protection-hybrid-vmware-workloads/"/>
+        <updated>2022-05-17T03:31:08.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup Audit Manager を使用すれば、お客様はハイブリッド VMware ワークロードのデータ保護ポリシーのコンプライアンスについて監査を実施したり、レポートを作成したりすることができます。このサービス開始により、VMware の仮想マシンを AWS Backup Audit Manager の管理に含めることができ、組織のデータ保護ポリシーのコンプライアンス状況の維持と、VMware Cloud on AWS、オンプレミス、および AWS Outposts を含めた VMware ワークロードについて監査に対応した統一のレポートの生成ができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon FSx for NetApp ONTAP が SAP HANA ワークロードについての認定を取得]]></title>
         <id>27409cae71df8544eea316ee70c470310bb6f3d7</id>
