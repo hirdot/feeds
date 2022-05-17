@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a0a85c410408c2e6253d44899eef4d6f4c4117fc",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) は、複数の IPv6 のクラスレスインタードメインルーティング (CIDR) のブロックが仮想プライベートクラウド (VPC) 内で開始されたことを発表しました。これによりユーザーは、VPC に5 個までのプレフィックスをアタッチできます。本日以前は、ユーザーは 5 個の IPv4 CIDR ブロックと 1 個の IPv6 ブロックまでの追加ができました。この新機能により、ユーザーは複数のブロックを使用して、独立した CIDR ブロックにより VPC 内を論理的に分離できます。CIDR ブロックは、Amazon が提供するプールおよび/または持ち込みの IPv6 アドレスのプールに関連づけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/",
+          "publishedOn": "2022-05-17T10:32:07.000Z",
+          "wordCount": 275,
+          "title": "Amazon VPC で複数の IPv6 CIDR ブロックのサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "2b7c10349645641162d199a171ea609387b134df",
           "author": "aws@amazon.com",
           "description": "Amazon Elastic Kubernetes Service (EKS) Anywhere では、EKS Anywhere クラスターで Kubernetes のコア機能を拡張する Amazon キュレーションソフトウェアパッケージを有効にできるようになりました。Harbour パッケージをローカルコンテナレジストリとして本日からインストールできます。また、Emissary-Ingress パッケージと、MetalLB を介したサービスタイプのロードバランシングのサポートは、今後数か月以内に提供を開始する予定です。お客様のご要望に基づいて、時間が経過するのに伴って、さらなるキュレーションパッケージが追加されることがあります。",
@@ -2878,16 +2888,6 @@
           "wordCount": 676,
           "title": "週刊Railsウォッチ: RubyのGCコンパクション改修、jemalloc、ReDoSの自動検出修正ほか（20220419後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/railswatch_20220419_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_18/117132",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/railswatch_20220418_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_18/117132\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: RailsConf 2022が5月17〜19日開催、認可機能解説記事ほか（20220418前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_18/117132",
-          "publishedOn": "2022-04-18T09:15:10.000Z",
-          "wordCount": 868,
-          "title": "週刊Railsウォッチ: RailsConf 2022が5月17〜19日開催、認可機能解説記事ほか（20220418前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/railswatch_20220418_eyecatch-min.png"
         }
       ]
     },
@@ -2896,6 +2896,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/web3dbabylonjs_50webgpuiosandroid.html",
+          "author": null,
+          "description": "マイクロソフトは、JavaScriptで2Dや3Dモデルを高速に扱えるライブラリ「Babylon.js」の最新版「Babylon.js 5.0」正式版をリリースしました。 We'd like to formally introduc...",
+          "link": "https://www.publickey1.jp/blog/22/web3dbabylonjs_50webgpuiosandroid.html",
+          "publishedOn": "2022-05-17T15:27:08.000Z",
+          "wordCount": 224,
+          "title": "マイクロソフト、Webブラウザで3Dゲームがびゅんびゅん動く「Babylon.js 5.0」正式リリース、WebGPUにフル対応、iOS/Androidなどクロスプラットフォーム展開も",
+          "imageUrl": "https://www.publickey1.jp/2022/bagylonjs501.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/red_hat_ansible_automation_platformmicrosoft_azure.html",
+          "author": null,
+          "description": "Red Hatとマイクロソフトは、Microsoft Azure上でAnsibleをマネージドサービスとして提供する「Red Hat Ansible Automation Platform on Microsoft Azure」の正式リリー...",
+          "link": "https://www.publickey1.jp/blog/22/red_hat_ansible_automation_platformmicrosoft_azure.html",
+          "publishedOn": "2022-05-17T15:23:03.000Z",
+          "wordCount": 242,
+          "title": "Red Hat Ansible Automation Platformのマネージドサービス、Microsoft Azure上で提供開始。クラウドもオンプレミスも構成管理可能",
+          "imageUrl": "https://www.publickey1.jp/2022/FS5i0n1WIAAr52U.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/2200googlevmwareamazonlinux_foundation.html",
           "author": null,
@@ -3333,6 +3353,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=276285",
+          "author": "Rebecca Ackermann",
+          "description": "安定した価値を保証するはずのステーブルコイン「テラ（UST）」の大暴落は、暗号資産の世界に大きな衝撃を与えた。暗号資産の価値が理論上のものだけだとしたら、人々が信じることをやめたらどうなるのだろうか。",
+          "link": "https://www.technologyreview.jp/s/276285/crypto-is-weathering-a-bitter-storm-some-still-hold-on-for-dear-life/",
+          "publishedOn": "2022-05-17T21:55:58.000Z",
+          "wordCount": 711,
+          "title": "ステーブルコイン大暴落の衝撃、暗号通貨に「冬の時代」到来か？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/16181504/crypto-winter-luna3a-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/05/16/276262/",
           "author": "MIT Technology Review Japan",
@@ -4021,36 +4051,6 @@
           "publishedOn": "2022-04-18T21:36:33.000Z",
           "wordCount": 349,
           "title": "乳がん遺伝子変異、胃がんリスクも上昇＝理研らが大規模ゲノム解析",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=273520",
-          "author": "Patrick Howell O'Neill",
-          "description": "北朝鮮のハッカー集団によると見られる暗号資産窃盗事件が発生した。被害額は6億ドル以上という巨額の窃盗事件だが、暗号通貨の世界では1億ドル以上の事件が多発している。",
-          "link": "https://www.technologyreview.jp/s/273520/a-620-million-hack-just-another-day-in-crypto/",
-          "publishedOn": "2022-04-18T05:18:08.000Z",
-          "wordCount": 685,
-          "title": "6億ドルのハッキング被害でも驚かない、暗号資産の危うい現状",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/16032504/NK-ethereum-hack3-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/18/273736/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/18/273736/",
-          "publishedOn": "2022-04-18T03:24:57.000Z",
-          "wordCount": 347,
-          "title": "難治がんへの抗がん剤の効果を増強する技術＝名大など開発",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/18/273737/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/18/273737/",
-          "publishedOn": "2022-04-18T02:12:35.000Z",
-          "wordCount": 349,
-          "title": "富士フイルム、アルツハイマー病の進行を深層学習で予測",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
