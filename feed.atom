@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-17T01:28:34.714Z</updated>
+    <updated>2022-05-17T02:39:48.019Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ダブルチェックを低減する技術]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/realtime-review-anti-patterns</id>
+        <link href="https://blog.agile.esm.co.jp/entry/realtime-review-anti-patterns"/>
+        <updated>2022-05-17T01:47:31.000Z</updated>
+        <summary type="html"><![CDATA[@koic です。 運用上の作業を開発者が行うというのは、昨今の DevOps ではよく見る光景だと思います。そして、運用手順の実施などにおいてダブルチェックというものを聞いたことあるでしょう。いや、むしろプロジェクトのルールで必要とされ、聞いたことがあるというレベルではないケースもあると思います。 そんなダブルチェック文化について、個人的には「ダブルチェックと聞いたらまず必要性を疑って判断する」という立ち位置で、本稿はそういった音楽性の人が書いた記事となります。 なお、一口に「ダブルチェック」といっても定義は広いため、「リアルタイムでの2人以上の指差し確認」を本稿でのダブルチェックの定義とし…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第171回　MyDumperを使ってみよう［その2］ ── MySQL道普請便り]]></title>
         <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0171</id>
