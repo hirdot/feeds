@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-18T00:01:08.184Z</updated>
+    <updated>2022-05-18T01:28:11.809Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第715回　Lenovo ThinkPad X13 Gen2 AMDにUbuntu 22.04 LTSをインストールして使用する ── Ubuntu Weekly Recipe]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0715</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0715"/>
+        <updated>2022-05-18T00:55:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は，新たに購入したLenovo ThinkPad X13 Gen2 AMDに，Ubuntu 22.04 LTSをインストールして使用してみました。使用感やベンチマークを見ていきます。]]></summary>
+        <author>
+            <name>あわしろいくや</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン大暴落の衝撃、暗号通貨に「冬の時代」到来か？]]></title>
         <id>https://www.technologyreview.jp/?p=276285</id>
@@ -4753,66 +4763,6 @@ LTSの大きな変更点をかいつまんでお知らせします。]]></summar
         <summary type="html"><![CDATA[Macに対応した統合開発環境「Visual Studio 2022 for Mac」の正式リリースが近づいてきています。 開発元であるマイクロソフトは2022年上半期のリリースを予定しているため、正式リリースまであと1カ月程度と予想されてい...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppStream 2.0 では、Elastic フリートのカスタムセッションスクリプトを有効にします]]></title>
-        <id>9c934f82a875526a85340b02c50630590dedf0dc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/"/>
-        <updated>2022-04-18T12:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon AppStream 2.0 は Elastic フリートのセッションスクプトを発表します。Amazon AppStream 2.0 Elastic フリート は、お客様が容量管理タスクをなくし、コストを削減できるよう支援します。本日より、AppStream 2.0 Elastic フリートは、オンインスタンスセッションスクリプトを提供します。これらのスクリプトは、AppStream 2.0 Elastic フリートの管理者が一般的に行うシナリオを簡素化するものです。これらのスクリプトを使用すると、ユーザーのストリーミングセッションで特定のイベントが発生したときに、独自のカスタムアクションを実行できます。たとえば、ユーザーのセッションスタート前やセッション終了後に実行するカスタムアクションなどです。セッションの開始前に、アプリケーションやストリーミング環境の設定をはじめ、アプリケーションログの収集、セッション中のセッション情報のモニタリング、セッション終了前のアプリケーションのクリーンアップなどのタスクを簡単に実行できます。セッションスクリプトは、AppStream 2.0 の Always-On および On-Demand フリートで既に利用可能です。Elastic フリートのセッションスクリプト構築をスタートするには、Use Session Scripts to Manage Your AppStream 2.0 Users' Streaming Experiencese Session をご参照ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が Microsoft Active Directory の同期設定機能を開始]]></title>
-        <id>8801a565fb13acdab1a5c250a2c82c72be9d9d86</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/"/>
-        <updated>2022-04-18T12:25:21.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On (AWS SSO) で Microsoft Active Directory (AD) をアイデンティティソースとして使用している場合、AD から AWS SSO に同期するユーザーとグループのリストを設定し、同期を一時停止することが可能になりました。同期を設定することで、データ主権要件に合致したユーザーとグループの同期を行うことができます。また、必要に応じて同期を一時停止したり、希望する時間帯に同期を行うことも可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS コンテナコンピテンシーパートナーによるエンタープライズコンテナ管理ソリューションの紹介]]></title>
-        <id>d83c6c720b2d063063ab912418be996b46a29465</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/"/>
-        <updated>2022-04-18T12:19:21.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS コンテナコンピテンシーのエンタープライズコンテナ管理カテゴリを発表しました。これらの AWS パートナーは、お客様が異なる環境間でコンテナインフラストラクチャとコンテナ化されたワークロードを管理するのに役立つコンテナ管理製品を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudFront Ready プログラムの紹介]]></title>
-        <id>29bf365876e9b859d2f854e8de8587c226b1413b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/"/>
-        <updated>2022-04-18T12:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudFront と統合するソフトウェア製品を持つ AWS パートナー向けの新しい Amazon CloudFront Ready プログラムを発表できることを嬉しく思っています。お客様は、クラウドでのアプリケーション構築に移行しており、スケーラブルで非常に魅力的なアプリケーションやオンライン体験を構築および配信するための適切なツールやソフトウェアソリューションを必要としています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ECR Public がナビゲーションパンくずリンクの実装やドロップダウンからのイメージ識別子のコピーなどのギャラリーの変更を発表]]></title>
-        <id>e6b790d61597d4a950bc099bb1acb264cde16c75</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/"/>
-        <updated>2022-04-18T12:09:22.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Elastic Container Registry Public (ECR Public) は、ギャラリーへの変更を発表します。この変更には、ナビゲーションパンくずリンクの実装、ドロップダウンからのイメージ識別子のコピー、イメージ名への発行者エイリアスの追加、およびレポジトリが見つからない場合に表示されるページの更新が含まれます。これらの変更により、イメージの検索と取得が容易になるので、イメージの識別と取得に費やす時間が短縮されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能に]]></title>
-        <id>402bd29ed7db2e2501a7f0978d84b3a22fd68fae</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/"/>
-        <updated>2022-04-18T12:05:22.000Z</updated>
-        <summary type="html"><![CDATA[新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能になり、豊富な機能と高いパフォーマンスを備えた FSx 共有ファイルストレージを EC2 インスタンスで簡単に使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>

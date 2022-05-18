@@ -1514,66 +1514,6 @@
           "wordCount": 242,
           "title": "AWS DevOps コンピテンシーパートナーからの DevSecOps ソリューションのご紹介",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9c934f82a875526a85340b02c50630590dedf0dc",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppStream 2.0 は Elastic フリートのセッションスクプトを発表します。Amazon AppStream 2.0 Elastic フリート は、お客様が容量管理タスクをなくし、コストを削減できるよう支援します。本日より、AppStream 2.0 Elastic フリートは、オンインスタンスセッションスクリプトを提供します。これらのスクリプトは、AppStream 2.0 Elastic フリートの管理者が一般的に行うシナリオを簡素化するものです。これらのスクリプトを使用すると、ユーザーのストリーミングセッションで特定のイベントが発生したときに、独自のカスタムアクションを実行できます。たとえば、ユーザーのセッションスタート前やセッション終了後に実行するカスタムアクションなどです。セッションの開始前に、アプリケーションやストリーミング環境の設定をはじめ、アプリケーションログの収集、セッション中のセッション情報のモニタリング、セッション終了前のアプリケーションのクリーンアップなどのタスクを簡単に実行できます。セッションスクリプトは、AppStream 2.0 の Always-On および On-Demand フリートで既に利用可能です。Elastic フリートのセッションスクリプト構築をスタートするには、Use Session Scripts to Manage Your AppStream 2.0 Users' Streaming Experiencese Session をご参照ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/",
-          "publishedOn": "2022-04-18T12:25:21.000Z",
-          "wordCount": 259,
-          "title": "AppStream 2.0 では、Elastic フリートのカスタムセッションスクリプトを有効にします",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8801a565fb13acdab1a5c250a2c82c72be9d9d86",
-          "author": "aws@amazon.com",
-          "description": "AWS Single Sign-On (AWS SSO) で Microsoft Active Directory (AD) をアイデンティティソースとして使用している場合、AD から AWS SSO に同期するユーザーとグループのリストを設定し、同期を一時停止することが可能になりました。同期を設定することで、データ主権要件に合致したユーザーとグループの同期を行うことができます。また、必要に応じて同期を一時停止したり、希望する時間帯に同期を行うことも可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/",
-          "publishedOn": "2022-04-18T12:25:21.000Z",
-          "wordCount": 286,
-          "title": "AWS Single Sign-On が Microsoft Active Directory の同期設定機能を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d83c6c720b2d063063ab912418be996b46a29465",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS コンテナコンピテンシーのエンタープライズコンテナ管理カテゴリを発表しました。これらの AWS パートナーは、お客様が異なる環境間でコンテナインフラストラクチャとコンテナ化されたワークロードを管理するのに役立つコンテナ管理製品を提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/",
-          "publishedOn": "2022-04-18T12:19:21.000Z",
-          "wordCount": 227,
-          "title": "AWS コンテナコンピテンシーパートナーによるエンタープライズコンテナ管理ソリューションの紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "29bf365876e9b859d2f854e8de8587c226b1413b",
-          "author": "aws@amazon.com",
-          "description": "Amazon CloudFront と統合するソフトウェア製品を持つ AWS パートナー向けの新しい Amazon CloudFront Ready プログラムを発表できることを嬉しく思っています。お客様は、クラウドでのアプリケーション構築に移行しており、スケーラブルで非常に魅力的なアプリケーションやオンライン体験を構築および配信するための適切なツールやソフトウェアソリューションを必要としています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/",
-          "publishedOn": "2022-04-18T12:15:21.000Z",
-          "wordCount": 251,
-          "title": "Amazon CloudFront Ready プログラムの紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e6b790d61597d4a950bc099bb1acb264cde16c75",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Elastic Container Registry Public (ECR Public) は、ギャラリーへの変更を発表します。この変更には、ナビゲーションパンくずリンクの実装、ドロップダウンからのイメージ識別子のコピー、イメージ名への発行者エイリアスの追加、およびレポジトリが見つからない場合に表示されるページの更新が含まれます。これらの変更により、イメージの検索と取得が容易になるので、イメージの識別と取得に費やす時間が短縮されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/",
-          "publishedOn": "2022-04-18T12:09:22.000Z",
-          "wordCount": 227,
-          "title": "Amazon ECR Public がナビゲーションパンくずリンクの実装やドロップダウンからのイメージ識別子のコピーなどのギャラリーの変更を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "402bd29ed7db2e2501a7f0978d84b3a22fd68fae",
-          "author": "aws@amazon.com",
-          "description": "新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能になり、豊富な機能と高いパフォーマンスを備えた FSx 共有ファイルストレージを EC2 インスタンスで簡単に使用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/",
-          "publishedOn": "2022-04-18T12:05:22.000Z",
-          "wordCount": 279,
-          "title": "新しい EC2 起動エクスペリエンスで作成した Amazon EC2 インスタンスに Amazon FSx ファイルシステムを自動的にアタッチすることが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2287,6 +2227,16 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0715",
+          "author": "あわしろいくや",
+          "description": "今回は，新たに購入したLenovo ThinkPad X13 Gen2 AMDに，Ubuntu 22.04 LTSをインストールして使用してみました。使用感やベンチマークを見ていきます。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0715",
+          "publishedOn": "2022-05-18T00:55:00.000Z",
+          "wordCount": 489,
+          "title": "第715回　Lenovo ThinkPad X13 Gen2 AMDにUbuntu 22.04 LTSをインストールして使用する ── Ubuntu Weekly Recipe",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ogp/2022/1883_adminserial01ubuntu-recipe0715.jpg"
+        },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202205/17",
           "author": "階戸アキラ",
