@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T09:00:32.358Z</updated>
+    <updated>2022-05-19T10:00:31.721Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 X2idn および X2iedn インスタンスが新たに 8 つの追加リージョンで利用可能に]]></title>
+        <id>a92b202af58ee6685cdd6578b1678ee20f10714a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/"/>
+        <updated>2022-05-19T09:31:57.000Z</updated>
+        <summary type="html"><![CDATA[本日より、メモリ最適化された Amazon EC2 X2idn および X2iedn インスタンスが、アジアパシフィック (ソウル、シドニー)、カナダ (中部)、欧州 (ロンドン、ストックホルム、ミラノ)、南米 (サンパウロ)、AWS GovCloud (米国東部) の追加のリージョンで利用可能になります。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lex がフレーズヒントのサポートを開始]]></title>
+        <id>530998c3c459fb8ad0197573f8e86a3b909e2519</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/"/>
+        <updated>2022-05-19T09:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lex は、自動音声認識 (ASR) と自然言語理解 (NLU) 機能を提供するため、魅力的なユーザーエクスペリエンスを備えたアプリケーションとや対話型音声応答 (IVR) ソリューションを構築できます。本日より、ライブインタラクション中にヒントとしてフレーズをプログラムで提供し、音声入力の文字起こしに影響を与えることができます。例えば、バンキングの IVR とやり取りする場合、顧客は宛先アカウントにニックネーム (「Smythe’s checking」) を使用する場合があります。ビジネスロジックを実行して、発信者のアカウントに関連付けられているすべての受取人のニックネームを識別し、それらをヒントとして提供して、名前の文字起こしを改善することができます。認識の精度が高まると、効率的な会話となり、最終的に顧客満足度を高めます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BA.2株の病原性はBA.1株と同程度、東大がオミクロン株を比較]]></title>
+        <id>https://www.technologyreview.jp/n/2022/05/18/276464/</id>
+        <link href="https://www.technologyreview.jp/n/2022/05/19/276464/"/>
+        <updated>2022-05-19T09:01:30.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SalesforceでSLO主導の文化を築く]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/slo-culture-at-salesforce/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/slo-culture-at-salesforce/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
+        <updated>2022-05-19T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Salesforceは、サービスレベル目標（SLO）を監視するためのプラットフォームを構築した。このプラットフォームでは、サービス所有者に対する深く実用的な分析を提供する。それは、どのようにサービスの健全性を改善・維持し、SLIの低下を発見し、独自のSLOを満たしていない依存サービスを発見するかの分析である。そして、全体として、どのようにサービスに対する顧客体験の理解を深めるかの分析である。
+ By Matt Saunders  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Matt Saunders</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Control Tower で、お客様が提供するコアアカウントの使用が可能に]]></title>
         <id>26fb6321c9bbe277dfb4dd3b3e8c542c6b1cf2c1</id>
@@ -55,6 +95,17 @@
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824" data-wpel-link="internal" target="_self">Rails 7: connected_toでロールの指定が必須でなくなった（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaがどのように匿名化された認証でプライバシーを配慮したクレデンシャルを使ったか]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/meta-privacy-authentication/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/meta-privacy-authentication/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-05-19T06:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Metaは認証を使って、サービスのエンドポイントを不正使用から保護している。個人を特定できる情報を削除するためにアクセスデータを後処理することは、リソースを大量に消費するアプローチであることがわかった。どのようにMetaが匿名化された認証を活用して、サービスとユーザのプライバシーを同時に保護するかを説明する記事が最近公開された。
+ By Vasco Veloso  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Vasco Veloso</name>
         </author>
     </entry>
     <entry>
@@ -4724,24 +4775,6 @@ LTSの大きな変更点をかいつまんでお知らせします。]]></summar
         <summary type="html"><![CDATA[この10年、ヨーロッパを中心に大躍進をみせている政党があります。それが「海賊党」です。 海賊党はEUをはじめ、世界70ヶ国以上で政治活動を行なっています。2016年には、アイスランドで63議席中、10議席を得、2021年 […]]]></summary>
         <author>
             <name>大藤 ヨシヲ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IHIエアロ、QPS研究所のSAR衛星をイプシロンで打ち上げへ]]></title>
-        <id>https://www.technologyreview.jp/n/2022/04/19/273903/</id>
-        <link href="https://www.technologyreview.jp/n/2022/04/20/273903/"/>
-        <updated>2022-04-19T21:25:22.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現場で臨機応変に対応できる深層学習ロボ技術＝早稲田大]]></title>
-        <id>https://www.technologyreview.jp/n/2022/04/19/273958/</id>
-        <link href="https://www.technologyreview.jp/n/2022/04/20/273958/"/>
-        <updated>2022-04-19T21:16:48.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>

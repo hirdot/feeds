@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a92b202af58ee6685cdd6578b1678ee20f10714a",
+          "author": "aws@amazon.com",
+          "description": "本日より、メモリ最適化された Amazon EC2 X2idn および X2iedn インスタンスが、アジアパシフィック (ソウル、シドニー)、カナダ (中部)、欧州 (ロンドン、ストックホルム、ミラノ)、南米 (サンパウロ)、AWS GovCloud (米国東部) の追加のリージョンで利用可能になります。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/",
+          "publishedOn": "2022-05-19T09:31:57.000Z",
+          "wordCount": 442,
+          "title": "Amazon EC2 X2idn および X2iedn インスタンスが新たに 8 つの追加リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "530998c3c459fb8ad0197573f8e86a3b909e2519",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、自動音声認識 (ASR) と自然言語理解 (NLU) 機能を提供するため、魅力的なユーザーエクスペリエンスを備えたアプリケーションとや対話型音声応答 (IVR) ソリューションを構築できます。本日より、ライブインタラクション中にヒントとしてフレーズをプログラムで提供し、音声入力の文字起こしに影響を与えることができます。例えば、バンキングの IVR とやり取りする場合、顧客は宛先アカウントにニックネーム (「Smythe’s checking」) を使用する場合があります。ビジネスロジックを実行して、発信者のアカウントに関連付けられているすべての受取人のニックネームを識別し、それらをヒントとして提供して、名前の文字起こしを改善することができます。認識の精度が高まると、効率的な会話となり、最終的に顧客満足度を高めます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/",
+          "publishedOn": "2022-05-19T09:31:09.000Z",
+          "wordCount": 238,
+          "title": "Amazon Lex がフレーズヒントのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "26fb6321c9bbe277dfb4dd3b3e8c542c6b1cf2c1",
           "author": "aws@amazon.com",
           "description": "本日、私たちは AWS Control Tower の新機能を発表します。この機能はお客様に柔軟性を提供するものであり、既存のセキュリティおよびロギングのアカウントを使用するか、Control Tower の設定時または既存の AWS 環境に Control Tower ガバナンスを拡張する際に AWS Control Tower に自動で新しいアカウントを作成させることができます。セキュリティアカウントは、セキュリティおよびコンプライアンスチームにランディングゾーン内のすべてのアカウントへの読み取りおよび書き込みアクセスを付与するように設計された、制限されたアカウントとして使用されます。ロギングアカウントはリポジトリとして機能し、ランディングゾーン内のすべてのアカウントの API アクティビティとリソース設定のログを保存します。",
@@ -2004,6 +2024,16 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/05/meta-privacy-authentication/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Vasco Veloso",
+          "description": "Metaは認証を使って、サービスのエンドポイントを不正使用から保護している。個人を特定できる情報を削除するためにアクセスデータを後処理することは、リソースを大量に消費するアプローチであることがわかった。どのようにMetaが匿名化された認証を活用して、サービスとユーザのプライバシーを同時に保護するかを説明する記事が最近公開された。\n By Vasco Veloso  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/05/meta-privacy-authentication/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-05-19T06:10:00.000Z",
+          "wordCount": 571,
+          "title": "Metaがどのように匿名化された認証でプライバシーを配慮したクレデンシャルを使ったか",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220503054822/styles/static/images/logo/logo-big.jpg"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/05/amazon-aurora-serverless-v2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Steef-Jan Wiggers",
           "description": "先ごろ、AWSは、オンデマンドの自動スケーリング構成のAmazon Auroraである第2バージョンのAmazon Aurora Serverlessの一般提供を発表した。2番目のバージョンは、Aurora PostgreSQLとMySQLの両方で一般利用が可能で、コンピューティングとストレージのスケーリングの独立が特徴だ。\n By Steef-Jan Wiggers  Translated by Shoji Shigeki",
@@ -2170,6 +2200,16 @@
       "feedUrl": "https://feed.infoq.com/jp/culture-methods/",
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
+        {
+          "id": "https://www.infoq.com/jp/news/2022/05/slo-culture-at-salesforce/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "author": "Matt Saunders",
+          "description": "Salesforceは、サービスレベル目標（SLO）を監視するためのプラットフォームを構築した。このプラットフォームでは、サービス所有者に対する深く実用的な分析を提供する。それは、どのようにサービスの健全性を改善・維持し、SLIの低下を発見し、独自のSLOを満たしていない依存サービスを発見するかの分析である。そして、全体として、どのようにサービスに対する顧客体験の理解を深めるかの分析である。\n By Matt Saunders  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/05/slo-culture-at-salesforce/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "publishedOn": "2022-05-19T09:01:00.000Z",
+          "wordCount": 573,
+          "title": "SalesforceでSLO主導の文化を築く",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220503054838/styles/static/images/logo/logo-big.jpg"
+        },
         {
           "id": "https://www.infoq.com/jp/articles/design-first-api-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
           "author": "Steve Rodda",
@@ -3244,6 +3284,16 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/n/2022/05/18/276464/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/05/19/276464/",
+          "publishedOn": "2022-05-19T09:01:30.000Z",
+          "wordCount": 327,
+          "title": "BA.2株の病原性はBA.1株と同程度、東大がオミクロン株を比較",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
           "id": "https://www.technologyreview.jp/n/2022/05/18/276449/",
           "author": "MIT Technology Review Japan",
           "description": "",
@@ -3932,26 +3982,6 @@
           "wordCount": 707,
           "title": "聴くMITTR：発生から2年、新型コロナはどこから始まった？",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/19/273903/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/20/273903/",
-          "publishedOn": "2022-04-19T21:25:22.000Z",
-          "wordCount": 350,
-          "title": "IHIエアロ、QPS研究所のSAR衛星をイプシロンで打ち上げへ",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/19/273958/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/20/273958/",
-          "publishedOn": "2022-04-19T21:16:48.000Z",
-          "wordCount": 349,
-          "title": "現場で臨機応変に対応できる深層学習ロボ技術＝早稲田大",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
