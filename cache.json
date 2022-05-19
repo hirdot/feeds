@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "26fb6321c9bbe277dfb4dd3b3e8c542c6b1cf2c1",
+          "author": "aws@amazon.com",
+          "description": "本日、私たちは AWS Control Tower の新機能を発表します。この機能はお客様に柔軟性を提供するものであり、既存のセキュリティおよびロギングのアカウントを使用するか、Control Tower の設定時または既存の AWS 環境に Control Tower ガバナンスを拡張する際に AWS Control Tower に自動で新しいアカウントを作成させることができます。セキュリティアカウントは、セキュリティおよびコンプライアンスチームにランディングゾーン内のすべてのアカウントへの読み取りおよび書き込みアクセスを付与するように設計された、制限されたアカウントとして使用されます。ロギングアカウントはリポジトリとして機能し、ランディングゾーン内のすべてのアカウントの API アクティビティとリソース設定のログを保存します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/",
+          "publishedOn": "2022-05-19T08:40:43.000Z",
+          "wordCount": 261,
+          "title": "AWS Control Tower で、お客様が提供するコアアカウントの使用が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1d91f12f066a7ede5b663c516af5e332f3c00b6b",
+          "author": "aws@amazon.com",
+          "description": "本日、Kubeflow v1.4 の AWS サポートを一般公開したことをお知らせいたします。Kubeflow on AWS は、AWS マネージドサービスとの統合により、データサイエンス業務を効率化し、運用上のオーバーヘッドを削減しながら、信頼性、安全性、可搬性、スケーラビリティに優れた ML システムの構築をサポートします。この Kubeflow ディストリビューションを使用して、Amazon Elastic Kubernetes Service (Amazon EKS) 上に ML システムを構築し、コンピュータビジョン、自然言語処理、音声翻訳、金融モデリングなどの幅広いユースケース向けに ML モデルを構築、トレーニング、調整、デプロイすることが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/",
+          "publishedOn": "2022-05-19T08:39:40.000Z",
+          "wordCount": 316,
+          "title": "Kubeflow v1.4.1 をサポートする Kubeflow の AWS ディストリビューションの一般提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b2b2819ef2b46f990786684a19fe3b7de6f7ab08",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue で、追加のクライアント認証メカニズムを使用して Apache Kafka に接続できるようになりました。AWS Glue で、SCRAM (Salted Challenge Response Authentication Mechanism) または GSSAPI (Kerberos) を用いた SASL (Simple Authentication and Security Layer) がサポートされるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/",
+          "publishedOn": "2022-05-19T08:33:52.000Z",
+          "wordCount": 271,
+          "title": "AWS Glue で Apache Kafka の SASL 認証のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b8237521e1aef54cda8b1caa0d152655b2d86c60",
+          "author": "aws@amazon.com",
+          "description": "Amazon Neptune は、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) リージョンで FedRAMP High の対象になり、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、 米国西部 (オレゴン) リージョンで FedRAMP Moderate の対象になりました。これで、Amazon Neptune を使用して、FedRAMP High または Moderate の認可を必要とするワークロード用のアプリケーションを構築できるようになりました。これにより、Amazon Neptune は、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) サービスとしても承認されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/",
+          "publishedOn": "2022-05-19T08:31:59.000Z",
+          "wordCount": 281,
+          "title": "Amazon Neptune が FedRAMP に準拠",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "505628db8093f8fc38512b26a7313f7a9dc3c315",
           "author": "aws@amazon.com",
           "description": "本日より、Amazon EC2 I4i メタルインスタンスは、米国東部 (オハイオおよびバージニア北部)、米国西部 (オレゴン)、欧州 (アイルランド) のアマゾン ウェブ サービス (AWS) リージョンでご利用いただけます。ストレージ I/O を多用するワークロード向けに設計された I4i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、I3 インスタンスと比較してコンピューティングに関して最大 30% 優れた料金パフォーマンスを提供し、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を実現しています。I4i メタルインスタンスは、Amazon EC2 内で最高のローカルストレージパフォーマンスを提供し、MySQL、Oracle DB、Microsoft SQL Server などのデータベース、およびアプリケーションのサービスレベルアグリーメント (SLA) を満たすために低レイテンシーのローカル NVMe ストレージが必要な MongoDB、Couchbase、Aerospike、Redis などの NoSQL データベース向けに設計されています。",
@@ -2550,6 +2590,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_connected_to_optional_role_eyecatch_trans-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails does not require role when to be passed to connected_to &#124; Saeloun Blog 原文公開日: 2022/04/13 原著者: Swaathi Kakarla サイト: Saeloun Blog Rails 7: connected_toでロールの指定が必須でなくなった（翻訳） RailsのActive Recordには、すぐ使える強力なシャーディング機能があります。垂直シャーディングと水平シャーディングのどちらでも定義可能で、connected_toで両者を切り替えられます。すべ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: connected_toでロールの指定が必須でなくなった（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824",
+          "publishedOn": "2022-05-19T08:30:29.000Z",
+          "wordCount": 404,
+          "title": "Rails 7: connected_toでロールの指定が必須でなくなった（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_connected_to_optional_role_eyecatch_trans-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_18/117817",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_lazy_loads_schema_caches_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails 7 now lazy loads schema cache &#124; Saeloun Blog 原文公開日: 2022/04/20 原著者: Swaathi Kakarla サイト: Saeloun Blog なお、本記事の機能はGitHub内のカスタムアダプタでも使われているそうです（#43372）。 Rails 7: スキーマキャッシュが遅延読み込み可能になった（翻訳） Railsの基本操作は緊密に編成されたRailtiesのセットによって行われます。データベースコネクション用の情報読み込みもRailtiesの機能のひとつが担当しており、アプ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_18/117817\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: スキーマキャッシュが遅延読み込み可能になった（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -3902,16 +3952,6 @@
           "wordCount": 349,
           "title": "現場で臨機応変に対応できる深層学習ロボ技術＝早稲田大",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=273507",
-          "author": "Jessica Hamzelou",
-          "description": "MITテクノロジーレビューが発表した「ブレークスルー・テクノロジー10」の読者投票（米国版）で、もっとも多くの読者から「次に来るテクノロジー」として挙げられたのが「老化時計（エイジング・クロック）」だ。研究はまだ道半ばだが、いずれ健康状態を把握する指標として健康診断で利用されるかもしれない。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/273507/aging-clocks-aim-to-predict-how-long-youll-live/",
-          "publishedOn": "2022-04-19T20:54:42.000Z",
-          "wordCount": 572,
-          "title": "読者が選んだ、次に来る技術 「老化時計」とは何か？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/15211504/AgingClock_article-1400x787.jpg"
         }
       ]
     }
