@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ac455fcde6638f6b938c39e7f4b1b5b2b0371573",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。有効にすると、インターネット上のユーザーは誰でも、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります。 1 クリックの公開埋め込みにより、エンドユーザーが数分でインサイトにアクセスできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-general-availability-click-embedding-available-amazon-quicksight/",
+          "publishedOn": "2022-05-20T19:18:10.000Z",
+          "wordCount": 238,
+          "title": "Amazon QuickSight で利用可能な 1 クリックの公開埋め込みの一般提供を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b8557a930d3262c006231744cfea7ddfea1afbdb",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup では、Amazon FSx for OpenZFS ファイルシステムを保護できるようになりました。これは、一元化されたデータ保護と規制コンプライアンスのニーズを満たすのに役立ちます。AWS Backup は AWS Organizations とシームレスに統合されているため、すべてのアカウントで Amazon FSx for OpenZFS ファイルシステムのイミュータブルなバックアップの作成と管理を一元的に行い、不注意なアクションや悪意のあるアクションからデータを保護し、数回クリックするだけでデータを復元することができます。さらに、統合された監査対応レポートを生成して、組織のデータ保護ポリシーのコンプライアンスステータスを実証できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/",
+          "publishedOn": "2022-05-20T19:17:15.000Z",
+          "wordCount": 285,
+          "title": "AWS Backup が Amazon FSx for OpenZFS のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cdb85f59de28ce61f833d91aad0a7add4856a129",
+          "author": "aws@amazon.com",
+          "description": "デベロッパーは、データ保護に役立てるために、AWS Encryption SDK for .NET を利用できるようになりました。このオープンソースのリリースにより、デベロッパーは、.NET デベロッパープラットフォームを使用してアプリケーションを構築する際に、データを暗号化および復号することが容易になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/",
+          "publishedOn": "2022-05-20T19:16:10.000Z",
+          "wordCount": 252,
+          "title": "AWS Encryption SDK for .NET の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "65d80f90d4a155d965c1ea824b5ecf120d9fb2b0",
+          "author": "aws@amazon.com",
+          "description": "AWS App Mesh が IPv6 のサポートを開始したことで、お客様は IPv6 ネットワークで動作するワークロードをサポートし、IPv6 上で App Mesh API を呼び出すことができるようになりました。これは、お客様が IPv6 コンプライアンス要件を満たすのに役立ちます。また、IPv4 と IPv6 間のアドレス変換を処理するための高価なネットワーク機器が不要になります。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピューティングインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/",
+          "publishedOn": "2022-05-20T17:02:59.000Z",
+          "wordCount": 284,
+          "title": "AWS App Mesh が Internet Protocol Version 6 (IPv6) をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1e2fe5d8d2a818735eab055570ce3d0e5ba76fa9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift ML は、使い慣れた SQL を使用して、機械学習 (ML) モデルを作成、トレーニング、デプロイできます。Amazon Redshift ML で、データを移動したり新しいスキルを習得したりすることなく、フルマネージドの機械学習サービスである Amazon SageMaker を活用できます。Amazon Redshift は Amazon Redshift MLでモデルを作成するために、Amazon SageMaker Linear Learner アルゴリズムをサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-redshift-supports-linear-learner-algorithm-redshift-ml/",
+          "publishedOn": "2022-05-20T17:02:08.000Z",
+          "wordCount": 261,
+          "title": "Amazon Redshift が Redshift ML で線形学習者アルゴリズムのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "61145a4be2e40d523b575e035984f23eca18f87f",
+          "author": "aws@amazon.com",
+          "description": "AWS Resilience Hub は、Amazon Elastic Container Service (Amazon ECS)、Amazon Route 53、AWS Elastic Disaster Recovery、AWS Backup、および Terraform をソースとしてアプリケーションをアップロードする機能をサポートするようになりました。このように対応リソースを拡大することで、Resilience Hub を利用して、より多くのアプリケーションを障害に備え、保護することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/",
+          "publishedOn": "2022-05-20T17:01:18.000Z",
+          "wordCount": 255,
+          "title": "AWS Resilience Hub が Terraform、Amazon ECS、および追加サービスのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "096c47ea1a22ed9bdc563aa9c7b105cbbce20a98",
           "author": "aws@amazon.com",
           "description": "Amazon Redshift は、同時トランザクションのスナップショット分離のサポートを開始しました。Amazon Redshift は、SQL 標準に従って、ダーティリード、 繰り返し不リード、およびファントムリードを防止します。Amazon Redshift は、トランザクションをシリアル化するために SERIALIZABLE と SNAPSHOT ISOLATION の 2 つのオプションを提供します。SERIALIZABLE オプションは、厳密なシリアル化を実装します。このオプションでは、結果を同時に実行されているトランザクションのシリアル順序にマッピングできないと、トランザクションが失敗する可能性があります。SNAPSHOT ISOLATION オプションで同時実行性を高めることができ、同じテーブル内で異なる行への同時変更が正常に行われます。どちらのオプションでも、トランザクションはデータベースの最新のコミット済みのバージョン、つまりスナップショットで引き続き動作します。",
@@ -1620,6 +1680,36 @@
       "siteUrl": "https://data.wingarc.com",
       "articles": [
         {
+          "id": "https://data.wingarc.com/?p=42367",
+          "author": "石川麻里",
+          "description": "滋賀県は日本のほぼ真ん中に位置し、県土の約6分の1を占める日本最大の湖・琵琶湖がある地域です。 琵琶湖を取り囲む比叡山・比良山系・伊吹山・鈴鹿山系などの山々を有し、古代・中世から交通における重要拠点であったことから日本史 […]",
+          "link": "https://data.wingarc.com/local-dx-lab-shiga-42367?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-shiga",
+          "publishedOn": "2022-05-20T12:09:25.000Z",
+          "wordCount": 603,
+          "title": "滋賀県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/dxlab_shiga_top.jpg"
+        },
+        {
+          "id": "https://data.wingarc.com/?p=42368",
+          "author": "石川麻里",
+          "description": "三重県は日本のほぼ真ん中に位置する地域で、「伊勢神宮」や世界遺産「熊野古道」、伊賀忍者発祥の地、リアス式海岸など、美しい自然や名所旧跡が数多く存在することから美し国（うましくに)とも呼ばれています。 地域は、伊勢志摩、北 […]",
+          "link": "https://data.wingarc.com/local-dx-lab-mie-42368?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-mie",
+          "publishedOn": "2022-05-20T12:08:17.000Z",
+          "wordCount": 627,
+          "title": "三重県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/dxlab_mie_top.jpg"
+        },
+        {
+          "id": "https://data.wingarc.com/?p=42233",
+          "author": "石川麻里",
+          "description": "愛知県は日本列島太平洋側のほぼ中央に位置し、尾張地方、西三河地方、東三河地方の3つの地域で構成された海と野山と都市のバランスのよい地域です。 人口は全国第4位で、中部地方で最多の約750万人を擁しており、その内の3分の1 […]",
+          "link": "https://data.wingarc.com/local-dx-lab-aichi-42233?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-aichi",
+          "publishedOn": "2022-05-20T12:07:08.000Z",
+          "wordCount": 643,
+          "title": "愛知県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/dxlab_aichi_top.jpg"
+        },
+        {
           "id": "https://data.wingarc.com/?p=42274",
           "author": "石川麻里",
           "description": "データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 休暇をうまく取得すれば最大10連休も可能な2022年度のゴールデンウイークはいかが過ごされたでしょうか？ さて前回に […]",
@@ -2122,26 +2212,6 @@
           "wordCount": 1177,
           "title": "BBCの新たなサーバーレスプラットフォームによりスケーラビリティとパフォーマンスが向上",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220412-0219/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/aws-eventbridge-global-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "最近、AWSは、サーバーレスイベントバスサービスAmazon EventBridgeにグローバルエンドポイントと呼ばれる新機能を発表した。可用性と信頼性を向上させるためである。\n By Steef-Jan Wiggers  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/aws-eventbridge-global-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-21T01:13:00.000Z",
-          "wordCount": 1182,
-          "title": "AWSがグローバルエンドポイントを使ってAmazon EventBridgeの可用性と信頼性を向上",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220412-0219/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/aws-lambda-function-urls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "AWSは先ごろ、Lambda Function URL の一般提供を発表した。開発者が他のサービスをプロビジョニングすることなく、Lambda Function の HTTPS エンドポイントと CORS ヘッダを直接構成できる機能だ。\n By Renato Losio  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2022/04/aws-lambda-function-urls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-04-21T00:51:00.000Z",
-          "wordCount": 1350,
-          "title": "AWSがサーバレスデプロイを簡素化するLambda Function URLを導入",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220412-0219/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2229,16 +2299,6 @@
           "wordCount": 1193,
           "title": "ソフトウェアが気候変動にどのように影響するか、ソフトウェアエンジニアがそれに対して何ができるか",
           "imageUrl": "https://cdn.infoq.com/statics_s2_20220412-0219/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/04/staff-plus-training-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "技術的なキャリアを追求したいエンジニアに対する業界のサポートが不十分であり、それがエンジニアに影響を及ぼしている。多くの優れた技術者が、管理職を探すことを余儀なくされている。スタッフプラスエンジニアの役割への道は簡単ではない。スタッフプラスエンジニアになるためのリーダーシップとコミュニケーションに関するトレーニングは、彼らがより優れた技術リーダーになる助けとなる。\n By Ben Linders  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/04/staff-plus-training-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-04-21T00:59:00.000Z",
-          "wordCount": 1202,
-          "title": "スタッフプラスエンジニアになる：リーダーシップとコミュニケーションのトレーニングが大切",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220412-0219/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2403,16 +2463,6 @@
           "wordCount": 640,
           "title": "第170回　MySQLのキーワードと予約語をテーブルに使用したい場合 ── MySQL道普請便り",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0004",
-          "author": "日高正博",
-          "description": "今回のテーマは文字コードです。楔形文字に詳しくなってしまったゆーさんに古代文字の符号化の議論，Unicodeが世界のすべての文字を収録する意義を技術と文化の両面から紹介いただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0004",
-          "publishedOn": "2022-04-21T00:15:20.000Z",
-          "wordCount": 398,
-          "title": "第4回　神話と楔形文字と，ときどきUnicode ── ちょっと気になる隣の技術畑",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2021/1864_technical_field.png"
         }
       ]
     },
@@ -2500,16 +2550,6 @@
           "wordCount": 351,
           "title": "2022年4月22日　座る ── 帰ってきた『技評ねこ部通信』",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202204/21",
-          "author": "傍島康雄",
-          "description": "2022年4月第4週のAndroid関連のニュースをお届けします。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202204/21",
-          "publishedOn": "2022-04-21T04:18:00.000Z",
-          "wordCount": 440,
-          "title": "2022年4月第4週　Android Autoのその後……沼にハマりはじめる ── Android Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         }
       ]
     },
@@ -2778,16 +2818,6 @@
           "wordCount": 488,
           "title": "Rails 7: ActiveRecord::Coreのfindがfind_byキャッシュキーを再利用するようになった（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/rails7_core_finds_now_reuses_find_by_cache_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_21/116493",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/03/better_stimulus_architecture4_namespaced_attributes_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Namespaced Attributes &#8211; Better StimulusJS 原文更新日: 2020/07/04 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 名前空間化された属性 Good &#60;!-- index.html --&#62; &#60;input data-controller=\"filter\" data-filter-param-category=\"cats\" data-filter- [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_21/116493\" data-wpel-link=\"internal\" target=\"_self\">Better Stimulusガイド:アーキテクチャ4: 名前空間化された属性（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_21/116493",
-          "publishedOn": "2022-04-21T08:30:19.000Z",
-          "wordCount": 353,
-          "title": "Better Stimulusガイド:アーキテクチャ4: 名前空間化された属性（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/03/better_stimulus_architecture4_namespaced_attributes_eyecatch-min.png"
         }
       ]
     },
@@ -3932,16 +3962,6 @@
           "wordCount": 338,
           "title": "森林分布が拡大・縮小する地域を高解像度で推定＝森林総研",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=273501",
-          "author": "Lana Swartz",
-          "description": "もはや現代の生活スピードと合わなくなった「現金」に代わるデジタル・マネーは、利便性を向上させる一方で、不平等を促進する。現金を再考する時なのだろうか？ \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/273501/in-praise-of-the-dollar-bill/",
-          "publishedOn": "2022-04-21T03:52:30.000Z",
-          "wordCount": 532,
-          "title": "主張：「現金がなくなる日」はやってくるか？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/15181504/MJ22_cash_01-1400x787.jpeg"
         }
       ]
     }

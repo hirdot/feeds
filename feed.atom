@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T10:00:51.353Z</updated>
+    <updated>2022-05-20T22:00:47.212Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight で利用可能な 1 クリックの公開埋め込みの一般提供を発表]]></title>
+        <id>ac455fcde6638f6b938c39e7f4b1b5b2b0371573</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-general-availability-click-embedding-available-amazon-quicksight/"/>
+        <updated>2022-05-20T19:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。有効にすると、インターネット上のユーザーは誰でも、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります。 1 クリックの公開埋め込みにより、エンドユーザーが数分でインサイトにアクセスできるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が Amazon FSx for OpenZFS のサポートを追加]]></title>
+        <id>b8557a930d3262c006231744cfea7ddfea1afbdb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/"/>
+        <updated>2022-05-20T19:17:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup では、Amazon FSx for OpenZFS ファイルシステムを保護できるようになりました。これは、一元化されたデータ保護と規制コンプライアンスのニーズを満たすのに役立ちます。AWS Backup は AWS Organizations とシームレスに統合されているため、すべてのアカウントで Amazon FSx for OpenZFS ファイルシステムのイミュータブルなバックアップの作成と管理を一元的に行い、不注意なアクションや悪意のあるアクションからデータを保護し、数回クリックするだけでデータを復元することができます。さらに、統合された監査対応レポートを生成して、組織のデータ保護ポリシーのコンプライアンスステータスを実証できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Encryption SDK for .NET の一般提供を開始]]></title>
+        <id>cdb85f59de28ce61f833d91aad0a7add4856a129</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/"/>
+        <updated>2022-05-20T19:16:10.000Z</updated>
+        <summary type="html"><![CDATA[デベロッパーは、データ保護に役立てるために、AWS Encryption SDK for .NET を利用できるようになりました。このオープンソースのリリースにより、デベロッパーは、.NET デベロッパープラットフォームを使用してアプリケーションを構築する際に、データを暗号化および復号することが容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Mesh が Internet Protocol Version 6 (IPv6) をサポート]]></title>
+        <id>65d80f90d4a155d965c1ea824b5ecf120d9fb2b0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/"/>
+        <updated>2022-05-20T17:02:59.000Z</updated>
+        <summary type="html"><![CDATA[AWS App Mesh が IPv6 のサポートを開始したことで、お客様は IPv6 ネットワークで動作するワークロードをサポートし、IPv6 上で App Mesh API を呼び出すことができるようになりました。これは、お客様が IPv6 コンプライアンス要件を満たすのに役立ちます。また、IPv4 と IPv6 間のアドレス変換を処理するための高価なネットワーク機器が不要になります。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、複数の種類のコンピューティングインフラストラクチャを介して、サービス同士の通信を、より簡単にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift が Redshift ML で線形学習者アルゴリズムのサポートを開始]]></title>
+        <id>1e2fe5d8d2a818735eab055570ce3d0e5ba76fa9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-redshift-supports-linear-learner-algorithm-redshift-ml/"/>
+        <updated>2022-05-20T17:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift ML は、使い慣れた SQL を使用して、機械学習 (ML) モデルを作成、トレーニング、デプロイできます。Amazon Redshift ML で、データを移動したり新しいスキルを習得したりすることなく、フルマネージドの機械学習サービスである Amazon SageMaker を活用できます。Amazon Redshift は Amazon Redshift MLでモデルを作成するために、Amazon SageMaker Linear Learner アルゴリズムをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Resilience Hub が Terraform、Amazon ECS、および追加サービスのサポートを追加]]></title>
+        <id>61145a4be2e40d523b575e035984f23eca18f87f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/"/>
+        <updated>2022-05-20T17:01:18.000Z</updated>
+        <summary type="html"><![CDATA[AWS Resilience Hub は、Amazon Elastic Container Service (Amazon ECS)、Amazon Route 53、AWS Elastic Disaster Recovery、AWS Backup、および Terraform をソースとしてアプリケーションをアップロードする機能をサポートするようになりました。このように対応リソースを拡大することで、Resilience Hub を利用して、より多くのアプリケーションを障害に備え、保護することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滋賀県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
+        <id>https://data.wingarc.com/?p=42367</id>
+        <link href="https://data.wingarc.com/local-dx-lab-shiga-42367?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-shiga"/>
+        <updated>2022-05-20T12:09:25.000Z</updated>
+        <summary type="html"><![CDATA[滋賀県は日本のほぼ真ん中に位置し、県土の約6分の1を占める日本最大の湖・琵琶湖がある地域です。 琵琶湖を取り囲む比叡山・比良山系・伊吹山・鈴鹿山系などの山々を有し、古代・中世から交通における重要拠点であったことから日本史 […]]]></summary>
+        <author>
+            <name>石川麻里</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三重県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
+        <id>https://data.wingarc.com/?p=42368</id>
+        <link href="https://data.wingarc.com/local-dx-lab-mie-42368?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-mie"/>
+        <updated>2022-05-20T12:08:17.000Z</updated>
+        <summary type="html"><![CDATA[三重県は日本のほぼ真ん中に位置する地域で、「伊勢神宮」や世界遺産「熊野古道」、伊賀忍者発祥の地、リアス式海岸など、美しい自然や名所旧跡が数多く存在することから美し国（うましくに)とも呼ばれています。 地域は、伊勢志摩、北 […]]]></summary>
+        <author>
+            <name>石川麻里</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛知県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
+        <id>https://data.wingarc.com/?p=42233</id>
+        <link href="https://data.wingarc.com/local-dx-lab-aichi-42233?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-aichi"/>
+        <updated>2022-05-20T12:07:08.000Z</updated>
+        <summary type="html"><![CDATA[愛知県は日本列島太平洋側のほぼ中央に位置し、尾張地方、西三河地方、東三河地方の3つの地域で構成された海と野山と都市のバランスのよい地域です。 人口は全国第4位で、中部地方で最多の約750万人を擁しており、その内の3分の1 […]]]></summary>
+        <author>
+            <name>石川麻里</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Stimulusガイド 03: エラーハンドリング（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_05_20/118005</id>
@@ -4713,132 +4803,6 @@
         <summary type="html"><![CDATA[スケーラブルで可用性が高く、フルマネージドの Cassandra 互換データベースサービスである Amazon Keyspaces (Apache Cassandra 用) は、オープンソースの Spark Cassandra Connector を使用して、Apache Spark でのデータの読み取りと書き込みをより簡単に行えるようになりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Stimulusガイド:アーキテクチャ4: 名前空間化された属性（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_04_21/116493</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_04_21/116493"/>
-        <updated>2022-04-21T08:30:19.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/03/better_stimulus_architecture4_namespaced_attributes_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Namespaced Attributes &#8211; Better StimulusJS 原文更新日: 2020/07/04 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 名前空間化された属性 Good &#60;!-- index.html --&#62; &#60;input data-controller="filter" data-filter-param-category="cats" data-filter- [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_04_21/116493" data-wpel-link="internal" target="_self">Better Stimulusガイド:アーキテクチャ4: 名前空間化された属性（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月第4週　Android Autoのその後……沼にハマりはじめる ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202204/21</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202204/21"/>
-        <updated>2022-04-21T04:18:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年4月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主張：「現金がなくなる日」はやってくるか？]]></title>
-        <id>https://www.technologyreview.jp/?p=273501</id>
-        <link href="https://www.technologyreview.jp/s/273501/in-praise-of-the-dollar-bill/"/>
-        <updated>2022-04-21T03:52:30.000Z</updated>
-        <summary type="html"><![CDATA[もはや現代の生活スピードと合わなくなった「現金」に代わるデジタル・マネーは、利便性を向上させる一方で、不平等を促進する。現金を再考する時なのだろうか？ 		
-
-こちらは会員限定の記事です。
-メールアドレスの登録で続きを読めます。
-
-
-会員登録して読む
-
-ログインして読む
-
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-購読キャンペーン実施中
-
-
-
-
-
-こちらは有料会員限定の記事です。
-有料会員になると制限なしにご利用いただけます。
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-購読キャンペーン実施中]]></summary>
-        <author>
-            <name>Lana Swartz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSがグローバルエンドポイントを使ってAmazon EventBridgeの可用性と信頼性を向上]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/aws-eventbridge-global-endpoints/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/aws-eventbridge-global-endpoints/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-21T01:13:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、AWSは、サーバーレスイベントバスサービスAmazon EventBridgeにグローバルエンドポイントと呼ばれる新機能を発表した。可用性と信頼性を向上させるためである。
- By Steef-Jan Wiggers  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタッフプラスエンジニアになる：リーダーシップとコミュニケーションのトレーニングが大切]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/staff-plus-training-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/staff-plus-training-leadership/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-04-21T00:59:00.000Z</updated>
-        <summary type="html"><![CDATA[技術的なキャリアを追求したいエンジニアに対する業界のサポートが不十分であり、それがエンジニアに影響を及ぼしている。多くの優れた技術者が、管理職を探すことを余儀なくされている。スタッフプラスエンジニアの役割への道は簡単ではない。スタッフプラスエンジニアになるためのリーダーシップとコミュニケーションに関するトレーニングは、彼らがより優れた技術リーダーになる助けとなる。
- By Ben Linders  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSがサーバレスデプロイを簡素化するLambda Function URLを導入]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/aws-lambda-function-urls/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/aws-lambda-function-urls/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-21T00:51:00.000Z</updated>
-        <summary type="html"><![CDATA[AWSは先ごろ、Lambda Function URL の一般提供を発表した。開発者が他のサービスをプロビジョニングすることなく、Lambda Function の HTTPS エンドポイントと CORS ヘッダを直接構成できる機能だ。
- By Renato Losio  Translated by Shoji Shigeki]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第4回　神話と楔形文字と，ときどきUnicode ── ちょっと気になる隣の技術畑]]></title>
-        <id>https://gihyo.jp/dev/serial/01/technical_field/0004</id>
-        <link href="https://gihyo.jp/dev/serial/01/technical_field/0004"/>
-        <updated>2022-04-21T00:15:20.000Z</updated>
-        <summary type="html"><![CDATA[今回のテーマは文字コードです。楔形文字に詳しくなってしまったゆーさんに古代文字の符号化の議論，Unicodeが世界のすべての文字を収録する意義を技術と文化の両面から紹介いただきます。]]></summary>
-        <author>
-            <name>日高正博</name>
         </author>
     </entry>
     <entry>
