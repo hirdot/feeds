@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T00:00:46.903Z</updated>
+    <updated>2022-05-20T01:27:53.204Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年5月20日号　「kinetic（22.10）の開発/isc-dhcpの除去，Ubuntu Core 22のリリースの準備 ── Ubuntu Weekly Topics]]></title>
+        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202205/20</id>
+        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202205/20"/>
+        <updated>2022-05-20T00:58:00.000Z</updated>
+        <summary type="html"><![CDATA[kinetic（22.10）の開発は，初期に特有の「そもそもこれを除外したりできないかな」というタイプの議論が継続して行われています。]]></summary>
+        <author>
+            <name>吉田史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データのじかんNews 2022年5月Part.02]]></title>
+        <id>https://data.wingarc.com/?p=42274</id>
+        <link href="https://data.wingarc.com/datatimes_news202205-02-42274?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_news202205-02"/>
+        <updated>2022-05-20T00:00:40.000Z</updated>
+        <summary type="html"><![CDATA[データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 休暇をうまく取得すれば最大10連休も可能な2022年度のゴールデンウイークはいかが過ごされたでしょうか？ さて前回に […]]]></summary>
+        <author>
+            <name>石川麻里</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Redshift で、同時トランザクションのための新しいスナップショット分離レベルのサポートを開始]]></title>
         <id>096c47ea1a22ed9bdc563aa9c7b105cbbce20a98</id>
@@ -4855,36 +4875,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/"/>
         <updated>2022-04-20T13:31:21.000Z</updated>
         <summary type="html"><![CDATA[Amazon Kinesis Data Firehose は、Coralogix へのストリーミングデータ配信をサポートするようになりました。これにより、Coralogix ユーザーは、アプリケーションの管理やコードの記述なしにストリーミングデータを取り込むことができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Service Quotas が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>a468f5227660deb2a4b5784e272d046c8f376679</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/"/>
-        <updated>2022-04-20T12:26:21.000Z</updated>
-        <summary type="html"><![CDATA[AWS アジアパシフィック (ジャカルタ) リージョンで Service Quotas をご利用いただけるようになりました。これにより、AWS ワークロードの増加に合わせて Service Quotas を表示して、大規模に管理できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インドネシアおよびフィリピンで Amazon Interactive Video Service のエッジロケーションが利用可能に]]></title>
-        <id>0eb8ffba5540fafbe7d684d4aecdd11d4665d2b5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/"/>
-        <updated>2022-04-20T12:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) は、インドネシアのジャカルタとフィリピンのマニラの最初の POP (Point Of Presence) を発表しました。この新しいエッジロケーションにより、インドネシアとフィリピンに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Batch が、AWS PrivateLink のサポートを追加]]></title>
-        <id>9566d7bde35034dbb07a3c7ddc2f618bd4d03889</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/"/>
-        <updated>2022-04-20T12:12:21.000Z</updated>
-        <summary type="html"><![CDATA[AWS PrivateLink を使用して、仮想プライベートクラウド (AmazonVPC) から AWS Batch API へのプライベートアクセスを行えるようになりました。AWS PrivateLink は、VPC、AWS のサービス、オンプレミスネットワーク間のプライベート接続を提供します。これで、AWS PrivateLink を使用して VPC で AWS Batch リソースを管理し、組織のセキュリティとコンプライアンスの要件を満たすことができるようになりました。AWS PrivateLink を使用するには、Amazon VPC コンソール、SDK、または CLI を使用して、VPC で AWS Batch のインターフェイス VPC エンドポイントを作成します。また、AWS VPN、AWS Direct Connect、VPC ピアリングのいずれかを使用して、オンプレミス環境またはその他の VPC から VPC エンドポイントにアクセスすることもできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
