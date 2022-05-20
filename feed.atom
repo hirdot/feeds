@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T22:00:44.248Z</updated>
+    <updated>2022-05-20T00:00:46.903Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift で、同時トランザクションのための新しいスナップショット分離レベルのサポートを開始]]></title>
+        <id>096c47ea1a22ed9bdc563aa9c7b105cbbce20a98</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/"/>
+        <updated>2022-05-19T22:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift は、同時トランザクションのスナップショット分離のサポートを開始しました。Amazon Redshift は、SQL 標準に従って、ダーティリード、 繰り返し不リード、およびファントムリードを防止します。Amazon Redshift は、トランザクションをシリアル化するために SERIALIZABLE と SNAPSHOT ISOLATION の 2 つのオプションを提供します。SERIALIZABLE オプションは、厳密なシリアル化を実装します。このオプションでは、結果を同時に実行されているトランザクションのシリアル順序にマッピングできないと、トランザクションが失敗する可能性があります。SNAPSHOT ISOLATION オプションで同時実行性を高めることができ、同じテーブル内で異なる行への同時変更が正常に行われます。どちらのオプションでも、トランザクションはデータベースの最新のコミット済みのバージョン、つまりスナップショットで引き続き動作します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始]]></title>
+        <id>931e7fd5182dc0568173758ee06a51e9cd6f1628</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/"/>
+        <updated>2022-05-19T22:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始しました。予測スケーリングは、将来の需要に備え、Auto Scaling グループを積極的にスケールアウトすることができます。この機能により、容量を過剰にプロビジョニングする必要がなくなり、アプリケーションの応答性を確保しながら EC2 のコストを削減できます。(これまで、予測スケーリングは、パブリックリージョンで、AWS Auto Scaling プランでのみ利用可能でした。) AWS GovCloud (米国西部) リージョンでのサポートにより、米国の政府機関や請負業者は、特定の規制およびコンプライアンス要件に対応することで、機密性の高いワークロードを実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDPRの衝撃再来か？ 欧州AI規制で最低限知っておきたい基礎知識]]></title>
         <id>https://www.technologyreview.jp/?p=276080</id>
