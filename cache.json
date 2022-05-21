@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9bbd98e6ee2b189abb31e6d739ba4deba682190f",
+          "author": "aws@amazon.com",
+          "description": "本日より、OpenTelemetry プロジェクトの安全で本番環境に対応した AWS サポートのディストリビューションである、メトリクス用 AWS Distro for OpenTelemetry (ADOT) の一般提供を開始します。今回のリリースにより、お客様は、Java、.Net、および JavaScript で OpenTelemetry API と SDK を使用して、メトリクスを収集し、Amazon CloudWatch、Amazon Managed Service for Prometheus、および OpenTelemetry Protocol (OTLP) でサポートされる他のモニタリング先に送信できます。Cloud Native Computing Foundation の一部である OpenTelemetry は、アプリケーションおよびインフラストラクチャモニタリング用の分散トレースとメトリクスを収集するためのオープンソース API、ライブラリ、およびエージェントを提供します。ADOT を使用すると、アプリケーションを 1 回だけインストルメント化して、メトリクスとトレースを複数のモニタリングソリューションに送信し、自動インストルメンテーションエージェントを使用して、コードを変更せずにトレースとメトリクスを収集することができます。AWS Distro for OpenTelemetry を使用して、Amazon Elastic Compute Cloud (EC2)、Amazon Elastic Container Service (ECS)、および Amazon Elastic Kubernetes Service (EKS) で実行されているアプリケーションをインストルメント化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-distro-opentelemetry-metric-support/",
+          "publishedOn": "2022-05-20T23:06:20.000Z",
+          "wordCount": 298,
+          "title": "AWS Distro for OpenTelemetry でメトリクスのサポートが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d58d58b360e0f0a7030ef4e9c05bf0b70f3a159d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、アジアパシフィック (ソウル) AWS リージョンで Amazon Connect Customer Profiles をご利用いただけるようになりました。顧客からカスタマーサービス部門に問い合わせがあった場合に、その顧客に関する最新情報をエージェントとインタラクティブ音声応答 (IVR) ソリューションに提供できるようになりました。これにより、より高速かつパーソナライズされたカスタマーサービスを実現できます。Customer Profiles は、Salesforce、Amazon S3、ServiceNow などの複数のアプリケーションからの顧客情報 (住所、購入履歴、問い合わせ履歴など) を 1 つの統合されたカスタマープロファイルにまとめます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-launches-asia-pacific-seoul-region/",
+          "publishedOn": "2022-05-20T23:05:30.000Z",
+          "wordCount": 244,
+          "title": "Amazon Connect Customer Profiles をアジアパシフィック (ソウル) リージョンでリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "11bb7cab58f308660df8773ff81a4989e54af7d1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションに追加できます。iOS および Android 用の Amazon Chime SDK クライアントライブラリに、動画の背景の置き換えとぼかしが含まれるようになりました。これらを使用して、デベロッパーは、視覚による注意の散漫を軽減し、モバイルユーザーの視覚面でのプライバシーを強化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-chime-sdk-video-background-replacement-blur-ios-android/",
+          "publishedOn": "2022-05-20T23:04:42.000Z",
+          "wordCount": 245,
+          "title": "Amazon Chime SDK が iOS および Android での動画背景の置き換えとぼかしのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6daccb7a3f86d220199d5b25b352796b4994963c",
+          "author": "aws@amazon.com",
+          "description": "本日より、新しい予測スケーリングポリシーを作成すると、Amazon EC2 Auto Scaling は 14 日間を遡って過去の日付の容量予測を生成します。これにより、予測スケーリングが Auto Scaling グループをスケーリングしていたとすればどのようになっていたのかを確認できるようになります。これにより、予測スケーリングポリシーを作成した直後に、需要と容量の予測を実績値と比較することで、予測スケーリングポリシーがアプリケーションに関して正確であるかどうかを迅速に判断できます。これまでは、同じ比較のために十分な予測履歴を作成して、予測精度を判断するには、ポリシーを作成してから少なくとも数日待つ必要がありました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/",
+          "publishedOn": "2022-05-20T23:03:52.000Z",
+          "wordCount": 264,
+          "title": "Amazon EC2 Auto Scaling が Predictive Scaling 予測をバックフィルするようになり、予測精度の迅速な検証が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3086fe565383474f011a5ea57b3001f458cc7bf7",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。Amazon のお客様は、Amazon Kendra Jira Cloud コネクタを使用して、Atlassian Jira からのドキュメントにインデックスを付けることができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/",
+          "publishedOn": "2022-05-20T23:03:05.000Z",
+          "wordCount": 251,
+          "title": "Amazon Kendra が Jira コネクタをリリースし、JIRA リポジトリでのドキュメント検索が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5552057e2e4721bc12134be866d0843101fb03a1",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager の機能である Incident Manager は、インシデントの診断と解決を高速化するためのランブックオートメーションの拡張サポートを発表しました。AWS Systems Manager は、AWS アプリケーションとリソースのオペレーションハブであり、リアクティブプロセスを自動化して、運用上の問題を迅速に診断および修正するのに役立ちます。お客様は、オンコールエンジニアに対応を依頼する前に、容量不足になりそうな DynamoDB テーブルでオートスケーリングをオンにするなど、関連するリソースに対して修復アクションを自動的に実行するインシデントランブックを作成できるようになりました。お客様は、Incident Manager コンソールから直接追加のランブックを呼び出して、インシデントのより迅速な解決に役立てることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/",
+          "publishedOn": "2022-05-20T23:01:10.000Z",
+          "wordCount": 260,
+          "title": "AWS Systems Manager の Incident Manager がランブックオートメーションのサポートを拡張",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "ac455fcde6638f6b938c39e7f4b1b5b2b0371573",
           "author": "aws@amazon.com",
           "description": "Amazon QuickSight は、1 クリックの公開埋め込みに対応しました。これは、コーディングや開発なしに、ダッシュボードを公開アプリケーション、Wiki、ポータルに埋め込むことができる機能です。有効にすると、インターネット上のユーザーは誰でも、サーバーのデプロイやインフラストラクチャのライセンスを必要とせずに、最新の情報を使用してこれらの組み込みダッシュボードに即座にアクセスできるようになります。 1 クリックの公開埋め込みにより、エンドユーザーが数分でインサイトにアクセスできるようになります。",
