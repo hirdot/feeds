@@ -2523,6 +2523,16 @@
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
         {
+          "id": "https://rubyonrails.org/2022/5/21/this-week-in-rails-bugfixes-guides-improvement-and-more-6330d350",
+          "author": null,
+          "description": "Hi, this is Greg, bringing you the latest news from the Rails world.",
+          "link": "https://rubyonrails.org/2022/5/21/this-week-in-rails-bugfixes-guides-improvement-and-more-6330d350",
+          "publishedOn": "2022-05-21T00:00:00.000Z",
+          "wordCount": 367,
+          "title": "Bugfixes, guides improvement and more!",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
+        {
           "id": "https://rubyonrails.org/2022/5/14/this-week-in-rails-more-async-queries-pattern-matching-and-no-more-autoclosed-prs-c37d3f15",
           "author": null,
           "description": "Hi, this is Petrik, bringing you the latest news from the Rails world. Async aggregate and find_by queries Active Record async support was limited to loading collections, but among the not so fast queries that would benefit from asynchronicity you often find aggregates as well as hand crafted find_by_sql queries. We now support the following methods:",
