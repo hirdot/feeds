@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-25T05:04:01.411Z</updated>
+    <updated>2022-05-25T06:01:20.942Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4932,86 +4932,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/"/>
         <updated>2022-04-25T18:02:54.000Z</updated>
         <summary type="html"><![CDATA[3 種類の新しいマネージドデータ識別子がAmazon Macie に追加され、Amazon Simple Storage Service (Amazon S3) に存在する HTTP 基本認証ヘッダー、HTTP Cookie、JSON Web トークンの場所を検出および識別できるように拡張されました。これらのタイプのデータが S3 ストレージに存在するかどうか、どこに存在するかを知ることは、組織のデータセキュリティ、ガバナンス、プライバシーのニーズをより適切に計画するのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kendra が Box Connector をリリース、Box Enterprise リポジトリ内のドキュメントの検索が可能に]]></title>
-        <id>6e358f4b7ade8db6aae1d742ceee398ec400ea96</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/"/>
-        <updated>2022-04-25T17:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は Amazon Kendra Box Connector を使用して、Box からのメッセージのインデックス作成と検索を行うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS が Amazon Neptune 向け openCypher サポートの一般提供を発表]]></title>
-        <id>66f6666ad3337f5378d420f790dbd1d0a434d5ab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/"/>
-        <updated>2022-04-25T17:46:53.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS は、Amazon Neptune での openCypher クエリ言語サポートの一般提供開始を発表いたしました。お客様は、Amazon Neptune で openCypher を使用できるようになり、グラフアプリケーションを構築したり、可用性の高い、安全なフルマネージドグラフデータベースに移行したりする選択肢が増えました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が FedRAMP High 認証を取得]]></title>
-        <id>d72d1c0aa0854c58bbe0ba9672da447f1e662cee</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/"/>
-        <updated>2022-04-25T17:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。Amazon Chime SDK が、AWS GovCloud (米国)リージョンで FedRAMP High 認証を取得しました。米国政府機関や請負業者は、Amazon Chime SDK を使用して、FedRAMP High 認証を必要とするワークロード用のアプリケーションを構築できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Key Management Service が新しい HMAC APIを導入]]></title>
-        <id>e740b856a1a0bf9be755b0cd6a521952e751f3a1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/"/>
-        <updated>2022-04-25T17:34:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Key Management Service (AWS KMS) を使用すると、Hash-Based Message Authentication Code (HMAC) の生成と検証に使用できる KMS キーを作成できます。HMAC は強力な暗号化ビルディングブロックであり、ハッシュ関数内にシークレットキーの素材を組み込んで、一意の鍵付きメッセージ認証コードを作成します。HMAC KMS キーは、AWS KMS の FIPS 140-2 検証済み HSM セキュリティ境界内でのみ生成および使用できます。このアーキテクチャは、ローカルアプリケーションソフトウェアでプレーンテキストの HMAC キーを使用するのとは対照的に、これらのシークレットキーが危険にさらされるリスクを最小限に抑えることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elemental MediaTailor は、チャネルアセンブリでライブソースのサポートを開始]]></title>
-        <id>3058cf32166d697502538eb2193cd9aad66f9699</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/"/>
-        <updated>2022-04-25T17:28:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Elemental MediaTailor でチャネルアセンブリを使用して作成されたリニアチャネルにライブコンテンツをスケジュールできるようになりました。既存のビデオオンデマンド (VOD) カタログからトランスコードおよびパッケージ化された HLS および DASH ストリームを再利用することは既に可能であり、AWS Elemental MediaPackage などのオリジンからのライブストリームをリニアチャネルのスケジュールされたソースとして使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Step Functions が、20 を超える新しい AWS SDK 統合のサポートを拡張]]></title>
-        <id>f3ae893c203b494601185f36904d8747e7e8f392</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/"/>
-        <updated>2022-04-25T17:22:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Step Functions が、20 を超える新しい AWS SDK 統合と 1000 を超える新しい AWS API アクションのサポートを拡張することにより、AWS SDK との統合を強化します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスを開始]]></title>
-        <id>cc72139c21503bdbe7bd34c19bf84a188d4050b6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/"/>
-        <updated>2022-04-25T17:09:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub が、リージョン間のセキュリティスコアとコンプライアンスステータスのサポートを開始し、すべてのアカウントとリージョンにわたるセキュリティ体制のより完全な表示が可能になりました。昨年、Security Hub は、調査結果に関するリージョン間集計のサポートを追加しました。このリリースにより、Security Hub の機能が拡張され、集約リージョンを設定している場合は、リージョン間のセキュリティスコアとコンプライアンスステータスもサポートされるようになりました。集約リージョン内の各コントロールのそれぞれの標準およびコンプライアンスステータスのセキュリティスコアは、リンクされたリージョン全体での複合ビューを反映します。管理者アカウントと集約リージョンのセキュリティスコアとコンプライアンスステータスは、すべてのアカウントとリージョンの複合ビューを反映します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Migration Hub の新しい移行オーケストレーション機能である Migration Hub Orchestrator を導入]]></title>
-        <id>a7bfb24d1b54ec6ba33fea5ef5858b470655fc2c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/"/>
-        <updated>2022-04-25T17:03:55.000Z</updated>
-        <summary type="html"><![CDATA[AWS Migration Hub は、新しい Migration Hub Orchestrator 機能により、アプリケーションの AWS への移行をオーケストレートするのに役立ちます。大規模な移行プロジェクトの範囲には、通常、移行ツールの選択、段階的な計画、およびさまざまなツールやチームにわたる移行プロセスの追跡が含まれます。Migration Hub Orchestrator は、事前定義されたカスタマイズ可能なワークフローテンプレートを提供し、所定の移行タスク、移行ツール、自動化の機会を提供します。Orchestrator を使用すると、テンプレートをカスタマイズしたり、アプリケーションの移行を自動化したり、進行状況を 1 か所で追跡したりできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
