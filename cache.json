@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9dac65c0a47c36add1f76a394738c337862b23a2",
+          "author": "aws@amazon.com",
+          "description": "AWS Transit Gateway Network Manager が、AWS Organizations を使用して作成された、組織内の複数の AWS アカウントにわたるグローバルネットワークの集中管理とモニタリングをサポートするようになりました。この機能により、Network Manager は、単一の統合された運用ダッシュボード上で AWS アカウント全体の大規模なグローバルネットワークを管理する運用の複雑さを軽減します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/",
+          "publishedOn": "2022-05-26T19:33:41.000Z",
+          "wordCount": 270,
+          "title": "AWS Transit Gateway Network Manager のマルチアカウントサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a7f98bf6320d4aebf70ae80ed9724816e0ba1fb1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize が、レコメンダーにオフラインモデルメトリクスを提供し、レコメンデーションの品質を評価できるようになりました。レコメンダーとは、小売業の「よく一緒に購入されている商品」やメディアやエンターテインメントの「厳選情報」など、特定のユースケース向けに最適化されたレコメンデーションを提供するリソースです。オフラインメトリクスは、レコメンダーを作成するときに Amazon Personalize が生成するメトリクスです。オフラインメトリクスを使用すると、レコメンダーの基礎となるモデルのパフォーマンスを分析できます。また、オフラインメトリクスを使用すると、モデルを同じデータでトレーニングされた他のモデルと比較することも可能です。提供されるメトリクスには、カバレッジ、平均相互ランク、正規化された割引累積ゲイン (NDCG)、精度などがあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/",
+          "publishedOn": "2022-05-26T19:32:51.000Z",
+          "wordCount": 242,
+          "title": "Amazon Personalize が、レコメンダーのオフラインモデルメトリクスのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "413b29e28086f9e3c714aa83fb594f81f0ae0ed0",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS DataSync の 2 つの追加ストレージロケーションの一般提供開始を発表いたします。これは、AWS クラウドとの間でデータを簡単に同期できるオンラインデータ移動サービスです。このリリースでは、サポートされるストレージロケーションの数が 10 から 12 に拡張され、オンプレミス、エッジ、その他のクラウドストレージサービスに渡っています。DataSync を使用すると、さまざまなストレージロケーション間でデータにすばやく安全にアクセスし、AWS に移動して、ワークフロー、処理、データ保持のニーズをサポートし、より多くのロケーション間でデータを共有および交換できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-data-sync-two-new-storage-locations/",
+          "publishedOn": "2022-05-26T19:32:03.000Z",
+          "wordCount": 283,
+          "title": "2 つの新しいストレージロケーションが AWS DataSync で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5956cd5579b4def7b0929573259e4a9e15741d97",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync は、デベロッパーがリアルタイムデータに基づいてデジタルエクスペリエンスを構築できるようにするフルマネージドサービスです。AppSync を使用すると、サブスクライブされたクライアントにリアルタイムのデータ更新をプッシュして公開するようにデータソースを簡単に構成できます。AppSync は、接続管理、スケーラビリティ、ファンアウト、およびブロードキャストを処理し、複雑なインフラストラクチャを管理する代わりに、アプリケーションのビジネスニーズに集中できるようにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/",
+          "publishedOn": "2022-05-26T19:31:12.000Z",
+          "wordCount": 247,
+          "title": "AWS AppSync が、汎用リアルタイム Pub/Sub API をデプロイするための新しく簡略化されたコンソールエクスペリエンスを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "174e1f1bfda71c530a31e724b4387ef1d5eec121",
+          "author": "aws@amazon.com",
+          "description": "Amazon Comprehend は、機械学習 (ML) を使用して、構造化されていないテキスト内の人、場所、感情、トピックなどのインサイトや関係を見つける自然言語処理 (NLP) サービスです。Amazon Comprehend の機械学習機能を使って、顧客の E メール、サポートチケット、製品レビュー、ソーシャルメディアなどに含まれる個人を特定できる情報 (PII) を検出し、リダクションできます。例えば、サポートチケットやナレッジ記事を分析して PII エンティティを検出し、検索ソリューションにドキュメントをインデックスする前にテキストをリダクションすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/",
+          "publishedOn": "2022-05-26T19:17:02.000Z",
+          "wordCount": 269,
+          "title": "Amazon Comprehend が、米国、英国、カナダ、インドの 14 の新しい PII エンティティタイプを検出して編集",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b334280d5e9f805b94b223eeab8557986051f750",
+          "author": "aws@amazon.com",
+          "description": "CloudFront が、オリジンリクエストポリシーで使用するために CloudFront-Viewer-TLS ヘッダーを提供するようになりました。CloudFront-Viewer-TLSは、ビューアのTLS接続のネゴシエーションに使用されるTLSバージョンと暗号スイートを含む HTTP ヘッダーです。従来は、TLS 情報は、以前のリクエストを分析するために CloudFront アクセスログで利用可能でした。これで、各 HTTP リクエストの TLS バージョンと暗号スイートにアクセスして、古い TLS バージョンでリクエストを制限するなどのリアルタイムの決定を行うことができるようになります。CloudFront-Viewer-TLS ヘッダー値は次の構文を使用します: <TLS version>:<Cipher Suite>例えば、TLSv1.2:ECDHE-RSA-AES128-SHA256 です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/",
+          "publishedOn": "2022-05-26T19:16:11.000Z",
+          "wordCount": 269,
+          "title": "Amazon CloudFront が、CloudFront-Viewer-TLS-header で TLS バージョンと暗号スイートの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "2ac1cc349a729b3680bab6197166753be135fcb5",
           "author": "aws@amazon.com",
           "description": "最新世代のコンピューティング最適化 Amazon EC2 C7g インスタンスの一般提供を開始しました。C7g インスタンスは、最新の AWS Graviton3 プロセッサを搭載した最初のインスタンスであり、アプリケーションサーバー、マイクロサービス、バッチ処理、Electronic Design Automation (EDA)、ゲーム、動画エンコーディング、科学モデリング、分散分析、ハイパフォーマンスコンピューティング (HPC)、CPU ベースの機械学習 (ML) 推論、広告配信などの幅広い適用のために、Graviton2 ベースの C6g インスタンスよりも最大 25% 優れたパフォーマンスを提供します。",
@@ -1461,16 +1521,6 @@
           "wordCount": 331,
           "title": "イシューを閉じる技術",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220427/20220427125111.jpg"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/delaying-decision",
-          "author": null,
-          "description": "こんにちは、kasumi8pon です。 先日、仕事で調査をしているときに将来エラーが起こりそうなバグを見つけました。それに対して「今は対応しない」という選択をした話をします。 将来起こりそうなエラー 将来エラーが起こりそうなことがわかったのは、全文検索エンジンを利用している箇所でした。ある ID の集合を指定しその ID のデータを結果から除く処理をしていましたが、その除外対象の ID はサービスの成長と共に増えていくことが見込まれています。 いくつかの全文検索エンジンではクエリに含められる句の最大数を設定することができますが、除外対象の ID の数がその設定の値を超えたときにエラーが生じて…",
-          "link": "https://blog.agile.esm.co.jp/entry/delaying-decision",
-          "publishedOn": "2022-04-27T03:00:00.000Z",
-          "wordCount": 227,
-          "title": "対応を先送りにするという選択",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438085282256/1651028419"
         }
       ]
     },
@@ -1678,26 +1728,6 @@
           "wordCount": 602,
           "title": "データのじかんNews 2022年5月Part.01",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/datatimesnews_2022_05_part1_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=41807",
-          "author": "tadokoroyusuke",
-          "description": "あらゆる産業でデータ活用やDXが推進されており、その勢いは日々高まっている。ただ、それと比例するようにデジタルを活用した課題解決の成果の有無、社内への浸透が進まないといった問題に頭を悩ませている担当者も増えているのではな […]",
-          "link": "https://data.wingarc.com/localdxlab-13-tokyo-41807?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-13-tokyo",
-          "publishedOn": "2022-04-27T01:00:51.000Z",
-          "wordCount": 680,
-          "title": "東京都のデジタルツイン実現プロジェクトリーダーが語る、 デジタルを社会実装するための大原則とファーストステップ",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/04_LocalDXLab-2.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=37383",
-          "author": "大藤 ヨシヲ",
-          "description": "新型コロナウイルス感染症の拡大によるパンデミックにおいて、経済への影響や病床の確保、また人々の動きをいかに規制するかなどについて、国を挙げて対応しなければならない事態が続く中、政治による意思決定の重要性を感じさせるニュー […]",
-          "link": "https://data.wingarc.com/mielka-37383?utm_source=rss&utm_medium=rss&utm_campaign=mielka",
-          "publishedOn": "2022-04-26T23:00:14.000Z",
-          "wordCount": 409,
-          "title": "テクノロジーで若者と政治の接点を。「Mielka（ミエルカ）」の活動と若者の政治への関心の実態",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2021/12/DTNJ_politics-1.jpg"
         }
       ]
     },
@@ -1705,28 +1735,7 @@
       "title": "MySQL - New Product Releases",
       "feedUrl": "https://dev.mysql.com/downloads/rss.php",
       "siteUrl": "https://dev.mysql.com/downloads/",
-      "articles": [
-        {
-          "id": "https://dev.mysql.com/downloads/cluster/7.4.html",
-          "author": null,
-          "description": "MySQL Cluster 7.4 (7.4.36 GA, published on Wednesday, 27 Apr 2022)",
-          "link": "https://dev.mysql.com/downloads/cluster/7.4.html",
-          "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": 395,
-          "title": "MySQL Cluster 7.4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dev.mysql.com/downloads/cluster/7.5.html",
-          "author": null,
-          "description": "MySQL Cluster 7.5 (7.5.26 GA, published on Wednesday, 27 Apr 2022)",
-          "link": "https://dev.mysql.com/downloads/cluster/7.5.html",
-          "publishedOn": "2022-04-27T00:00:00.000Z",
-          "wordCount": 399,
-          "title": "MySQL Cluster 7.5",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "InfoQ - 設計/アーキテクチャ",
@@ -2056,16 +2065,6 @@
           "wordCount": null,
           "title": "2022年5月6日　Fedoraプロジェクト，レガシーBIOSサポート終了の方針を一転，サポート継続へ ── Linux Daily Topics",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0713",
-          "author": "あわしろいくや",
-          "description": "今回は第712回に続いて，Ubuntu 22.04 LTSの変更点であるリモートデスクトップ機能，特にRDPサーバー機能をピックアップして解説します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0713",
-          "publishedOn": "2022-04-27T00:57:00.000Z",
-          "wordCount": 437,
-          "title": "第713回　Ubuntu 22.04 LTSの新機能，リモートデスクトップのRDPサポートを使用する ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ogp/2022/1881_adminserial01ubuntu-recipe0713.png"
         }
       ]
     },
@@ -2479,16 +2478,6 @@
           "wordCount": 919,
           "title": "Rubyにシンボルがある理由（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/why_ruby_has_symbols_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_04_27/117330",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/04/ruby_recent_core_march_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Recently in Ruby Core — March edition &#124; by Gernot Gradwohl &#124; Geek Culture &#124; Apr, 2022 &#124; Medium 原文公開日: 2022/04/05 原著者: Gernot Gradwohl 日本語タイトルは内容に即したものにしました。見出しの階層は原文と異なるものもあります。 最近のRubyコアの動向: 2022年3月版（翻訳） Rubyコア内部の最近の開発状況を把握する時間の余裕があるRuby開発者は多くありません。そこで、Ruby Bug trackerで行われている最近の [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_04_27/117330\" data-wpel-link=\"internal\" target=\"_self\">最近のRubyコアの動向: 2022年3月版（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_04_27/117330",
-          "publishedOn": "2022-04-27T08:30:09.000Z",
-          "wordCount": 446,
-          "title": "最近のRubyコアの動向: 2022年3月版（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/04/ruby_recent_core_march_eyecatch-min.png"
         }
       ]
     },
@@ -2497,6 +2486,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/vmwarebroadcom.html",
+          "author": null,
+          "description": "VMwareとBroadcomは、VMwareがBroadcomによって買収されることを正式に発表しました（VMwareの発表、Braodcomの発表）。 Broadcom to Acquire VMware for Approximate...",
+          "link": "https://www.publickey1.jp/blog/22/vmwarebroadcom.html",
+          "publishedOn": "2022-05-26T12:09:22.000Z",
+          "wordCount": 290,
+          "title": "［速報］VMwareがBroadcomに買収されると正式に発表、約8兆円で",
+          "imageUrl": "https://www.publickey1.jp/2022/FTrgRddUAAE3VSP.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/aicopilot_for_everything3dmayaautodeskmicrosoft_build_2022.html",
           "author": null,
@@ -2974,6 +2973,46 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=276969",
+          "author": "Will Douglas Heaven",
+          "description": "画像生成AIが驚くような進歩を遂げている。オープンAIに続き、グーグル・ブレインも5月23日、最新の画像作成AIを発表した。シェフの格好をしてパン生地を作っているもふもふのパンダ、バタフライで泳いでいるテディベアなどの「かわいい画像」をアピールするが、それには理由がある。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/276969/the-dark-secret-behind-those-cute-ai-generated-animal-images/",
+          "publishedOn": "2022-05-26T21:56:11.000Z",
+          "wordCount": 550,
+          "title": "グーグルのAIが描く「パンを作るパンダ」に隠された不都合な真実",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/25210504/Imagen-comp-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/05/27/277058/",
+          "author": "hitoshi_sasada",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/05/27/277058/",
+          "publishedOn": "2022-05-26T21:40:56.000Z",
+          "wordCount": 320,
+          "title": "がん転移につながる集団浸潤の仕組み、北大らが解明",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/05/27/277059/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/05/27/277059/",
+          "publishedOn": "2022-05-26T21:36:20.000Z",
+          "wordCount": 323,
+          "title": "脳波から「社交性」読み取る、東北大などがマウス実験で",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=276894",
+          "author": "Melissa Heikkilä",
+          "description": "ソーシャルメディアなどからプロフィール画像を収集し、個人を識別する顔認識システムに利用しているクリアビューAIに対する風当たりが強くなっている。英国では罰金やデータの削除を求める命令が出され、欧州各国で同様の動きがある。",
+          "link": "https://www.technologyreview.jp/s/276894/the-walls-are-closing-in-on-clearview-ai/",
+          "publishedOn": "2022-05-26T21:06:53.000Z",
+          "wordCount": 757,
+          "title": "ネット画像で顔認識、「クリアビューAI」に迫る規制包囲網",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/24202504/AP_22056575357716-1181x787.jpg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/05/25/276973/",
           "author": "MIT Technology Review Japan",
@@ -3672,36 +3711,6 @@
           "publishedOn": "2022-04-27T21:52:35.000Z",
           "wordCount": 325,
           "title": "理研など、有限温度では「量子もつれ」が存在しないことを発見",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=274572",
-          "author": "Antonio Regalado",
-          "description": "クリスパー（CRISPR）の共同開発者としてノーベル賞を受賞したUCバークレーのジェニファー・ダウドナ教授は、CRISPRの進む未来をどう捉えているのか？  \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/274572/the-scientist-who-co-created-crispr-isnt-ruling-out-engineered-babies-someday/",
-          "publishedOn": "2022-04-27T08:00:14.000Z",
-          "wordCount": 530,
-          "title": "ノーベル賞受賞者 ダウドナ教授が語った CRISPRの未来",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/26181504/Jennifer-Doudna-by-Christopher-Michel-34-1400x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=274390",
-          "author": "MIT Technology Review Japan",
-          "description": "今週のオーディオ・ムック（β）は、送電網向け蓄電池に賭ける米国発ベンチャー企業の最新動向と、欧州が投資を進めているグリーン水素インフラの動向についてレポートする。",
-          "link": "https://www.technologyreview.jp/s/274390/audiomook-the-wall-of-renewable-energy-storage-has-come-so-far/",
-          "publishedOn": "2022-04-27T03:01:19.000Z",
-          "wordCount": 695,
-          "title": "聴くMITTR：「再エネの壁」エネルギー貯蔵はここまできた",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/04/26/274592/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/04/27/274592/",
-          "publishedOn": "2022-04-26T23:52:16.000Z",
-          "wordCount": 319,
-          "title": "東北大がアルミ・スクラップ再生技術、新地金の半分以下に省エネ",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
