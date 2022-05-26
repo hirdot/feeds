@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-26T08:01:12.539Z</updated>
+    <updated>2022-05-26T09:01:15.307Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails 7とReactによるCRUDアプリ作成チュートリアル（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_05_26/118202</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_05_26/118202"/>
+        <updated>2022-05-26T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_react_crud_app_tutorial_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: How to Create a CRUD App with Rails and React · James Hibbard 原文公開日: 2022/04/01 原著者: James Hibbard 日本語タイトルは内容に即したものにしました。 React logo is licensed under Creative Commons — Attribution 4.0 International — CC BY 4.0. Rails 7とReactによるCRUDアプリ作成チュートリアル（翻訳） ほとんどのWebアプリケーションでは、何らかの形式でデータを [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_26/118202" data-wpel-link="internal" target="_self">Rails 7とReactによるCRUDアプリ作成チュートリアル（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年5月第4週　Google I/O 2022で発表されたハードウェアたち② ── Android Weekly Topics]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/awt/202205/26</id>
@@ -4658,16 +4669,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <updated>2022-04-26T21:43:29.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Personalize がレコメンダーの開始と停止のサポートを開始]]></title>
-        <id>123d5cc8fed367f273de99daa5861f990819249e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/"/>
-        <updated>2022-04-26T20:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Personalize では、レコメンダーの停止および開始が可能となったことにより、リソースをよりきめ細かく制御できるようになりました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。レコメンダーは、「よく一緒に購入されています」(小売業向け) や、「お客様のための上位のおすすめ」(メディアとエンターテインメント向け) など、特定のユースケースに最適化されたリソースです。使用していないときにレコメンダーを停止すると、レコメンダーを削除することなく、非アクティブ状態に移行します。開始によってアクティブ状態に移行し、レコメンダーのリソースを再作成することなく、中断したポイントから再開します。例えば、テストフェーズ中に、数日間だけレコメンデーションを取得する必要がある場合があります。不要なときにレコメンダーを停止し、いつでもレコメンダーを再開してレコメンデーションリクエストを再開できます。停止したレコメンダーには利用料金はかかりません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
