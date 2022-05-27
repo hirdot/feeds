@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "4dc530fa5abeec64606a907867f3cfe0f698f535",
+          "author": "aws@amazon.com",
+          "description": "コンピューティングワークロード向けに、費用対効果が高く、高性能かつスケーラブルなファイルストレージを提供するサービスである Amazon FSx for Lustre は、ルートスカッシュをサポートするようになりました。この管理機能は、FSx for Lustre が提供する現在のネットワークベースのアクセスコントロールと POSIX ファイル許可に加えてファイルアクセスコントロールのさらなるレイヤーを追加します。ルートスカッシュ機能を使用すると、FSx for Lustre ファイルシステムにルートとしてアクセスするクライアントからのルートレベルのファイルシステムアクセスを制限できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-fsx-lustre-supports-root-squash/",
+          "publishedOn": "2022-05-27T04:33:47.000Z",
+          "wordCount": 255,
+          "title": "Amazon FSx for Lustre がルートスカッシュのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "34da48486590f5bf174034aaa40129007d21be22",
+          "author": "aws@amazon.com",
+          "description": "Amazon ElastiCache for Redis および Amazon MemoryDB for Redis は、JavaScript Object Notation (JSON) 形式でのデータのネイティブな保存とアクセスをサポートするようになりました。今回のリリースにより、アプリケーションデベロッパーは、シリアル化と逆シリアル化のためのカスタムコードを管理することなく、Redis 内で JSON データを簡単に保存、取得、更新できます。ElastiCache と MemoryDB を使用することで、オブジェクト全体を操作することなく、JSON ドキュメントの特定の部分を効率的に取得して更新できるようになりました。これは、パフォーマンスを改善し、コストを削減するのに役立つ場合があります。JSONPath クエリ構文を使用して JSON ドキュメントのコンテンツを検索することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/",
+          "publishedOn": "2022-05-27T04:32:43.000Z",
+          "wordCount": 282,
+          "title": "Amazon ElastiCache for Redis および Amazon MemoryDB for Redis の JSON サポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d4150bb0f8cdcda6794c530ba26a4ccf8b64dde3",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、アフリカ (ケープタウン) AWS リージョンで Amazon Connect Customer Profiles をご利用いただけるようになりました。顧客からカスタマーサービス部門に問い合わせがあった場合に、その顧客に関する最新情報をエージェントとインタラクティブ音声応答 (IVR) ソリューションに提供できるようになりました。これにより、より高速かつパーソナライズされたカスタマーサービスを実現できます。Customer Profiles は、Salesforce、Amazon S3、ServiceNow などの複数のアプリケーションからの顧客情報 (住所、購入履歴、問い合わせ履歴など) を 1 つの統合されたカスタマープロファイルにまとめます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-africa-cape-town/",
+          "publishedOn": "2022-05-27T04:31:12.000Z",
+          "wordCount": 247,
+          "title": "Amazon Connect Customer Profiles がアフリカ (ケープタウン) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "3f264acabb3ea46b5e21e312210485f9f88f227d",
           "author": "aws@amazon.com",
           "description": "AWS Single Sign-On (SSO) が AWS アジアパシフィック (大阪) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。",
@@ -1363,46 +1393,6 @@
           "publishedOn": "2022-04-27T17:50:53.000Z",
           "wordCount": 270,
           "title": "Amazon Nimble Studio がアジアパシフィック (東京) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "153244cd0d6bbf9ccb6a94a08d43b83008676d61",
-          "author": "aws@amazon.com",
-          "description": "本日、Amplify Geo for JavaScript と iOS のリリースに続いて、Amplify Geo for Android の一般提供をしたことをお知らせします。Amplify Geo for Android を使用すると、デベロッパーは、Android アプリに地図や場所の検索のためにクラウドにコネクトされた UI コンポーネントを追加できます。Auth、DataStore、Storage などの AWS Amplify の機能に加えて、Amplify Geo は、Amazon Location Service API 上に構築された一連のクライアントライブラリを提供するとともに、人気のある MapLibre オープンソースライブラリに基づくクラウドにコネクトされたマップ UI コンポーネントを含みます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/",
-          "publishedOn": "2022-04-27T16:41:53.000Z",
-          "wordCount": 266,
-          "title": "Amplify Geo for Android の一般提供の開始を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8e16d6d04f615745487e04c8db28c29cd1c13d7a",
-          "author": "aws@amazon.com",
-          "description": "現在 Amazon MQ では、ActiveMQ 5.16.4 をサポートしています。この ActiveMQ のアップデートには、これまでサポートしていた ActiveMQ 5.16.3 バージョンからのいくつかの修正と機能の強化が含まれています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-activemq-version/",
-          "publishedOn": "2022-04-27T16:33:53.000Z",
-          "wordCount": 259,
-          "title": "Amazon MQ が ActiveMQ バージョン 5.16.4 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "39d3e36eaf896382d4b6860dea6e2506a7608f55",
-          "author": "aws@amazon.com",
-          "description": "Aurora Serverless の次のバージョンである Amazon Aurora Serverless v2が一般に利用可能になりました。Aurora Serverless v2 は、最も要求の厳しいアプリケーションもサポートできるよう瞬時にスケールでき、ピーク時容量のプロビジョニングと比較して最大90%のコスト削減を実現します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/",
-          "publishedOn": "2022-04-27T16:19:54.000Z",
-          "wordCount": 273,
-          "title": "Amazon Aurora Serverless v2 の一般提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bcad59f858f61f814dcbc2a5f9f798c8b5237392",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Athena の 10 の新しいデータソースコネクタの一般提供を発表します。Athena　を使用すると、データを前処理またはコピーするための ETL スクリプトを必要とせずに、リレーショナル、非リレーショナル、オブジェクト、およびカスタムのデータソースに保存されているデータをクエリできます。このリリースでは、Athena でクエリできるデータソースの数が拡大され、アナリスト、データエンジニア、データサイエンティスト、デベロッパーがオンプレミスまたはクラウドで稼働するデータベースに保存されているデータからビジネス価値を引き出すのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/",
-          "publishedOn": "2022-04-27T16:13:53.000Z",
-          "wordCount": 260,
-          "title": "Amazon Athenaで新しいデータソースコネクタが一般に利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
