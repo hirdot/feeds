@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-27T10:00:56.133Z</updated>
+    <updated>2022-05-27T22:00:52.960Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Config が Amazon CloudWatch のメトリクスをサポート]]></title>
+        <id>4d6508b0d8a2d165f169526d591f42793773d539</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/"/>
+        <updated>2022-05-27T21:04:15.000Z</updated>
+        <summary type="html"><![CDATA[本日は、AWS Config での使用状況のモニタリングのための Amazon CloudWatch メトリクスの提供開始を発表します。AWS Config は、サポートされているリソースに加えられた変更を追跡し、設定アイテム (CI) として記録し、その後 Amazon Simple Storage Service (Amazon S3) のバケットに配信されます。Amazon CloudWatch のメトリクスは、システムの使用状況に関するデータを提供するモニタリングサービスで、AWS リソースのメトリクスに関する検索、グラフ化、アラームの構築などの機能が含まれます。本リリースでは、Amazon CloudWatch メトリクスを使用して、設定の検証や AWS Config の使用状況の把握ができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナッシュビルとタンパで新しい AWS Wavelength Zone を開始]]></title>
+        <id>4db97b8e059673a3709d59e688946a4083ba7bde</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/"/>
+        <updated>2022-05-27T21:02:15.000Z</updated>
+        <summary type="html"><![CDATA[本日より、テネシーのナッシュビルとフロリダのタンパにある Verizon の 5G Ultra Wideband ネットワークで、2 つの新しい AWS Wavelength Zone がご利用可能になりました。Wavelength Zone は、以前発表したアトランタ、ボストン、シャーロット、シカゴ、ダラス、デンバー、デトロイト、ヒューストン、ラスベガス、ロサンゼルス、マイアミ、ミネアポリス、ニューヨーク市、フェニックス、サンフランシスコ、シアトル、ワシントン DC を含む 19 の主要都市でご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Device Management がアクティブジョブの制限を 1 つのリージョンにつき AWS アカウントあたり 100,000 に引き上げ]]></title>
+        <id>fc4767d4422b737d57304752f2b0317e124ec3fb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/"/>
+        <updated>2022-05-27T21:01:25.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Device Management のお客様は、1 つのリージョンにつき、AWS アカウントあたり最大 100,000 個のアクティブジョブを作成できるようになります。これまでの上限は、 1 つのリージョンにつき AWS アカウントあたり 1,000 アクティブジョブでした。この新しい制限は、作成されたジョブの総数、すなわち、継続ジョブとスナップショットジョブの両方に適用されます。数千の個別ターゲットにオーダーメイドの設定を並行して適用するなど、大量のアクティブジョブを必要とするお客様は、今回のアップグレードでブロックされなくなりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/spa-auth0-settings</id>
+        <link href="https://blog.agile.esm.co.jp/entry/spa-auth0-settings"/>
+        <updated>2022-05-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、nand2tetrisにハマっているyuki0920です。 今回は業務で得たTipsである「部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法」を紹介します。 前提: フロントエンドからアクセストークンを使いたい 一部SPA構成のRails製のアプリケーションを運用しており、認証基盤にAuth0を利用しています。 Railsアプリはユーザーから受け取ったメールアドレスとパスワードをAuth0へ送信するなどの認証処理を担っており、認証後のアクセストークンはRailsアプリが受け取っています。 今回、部分SPAのフロントエンドから、ログイン…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: has_secure_password利用時のauthenticate_byメソッド（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_05_27/118000</id>
@@ -4431,103 +4471,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <updated>2022-04-29T21:46:55.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsセキュリティ修正7.0.2.4、6.1.5.1、6.0.4.8、5.2.7.1がリリースされました]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_04_28/117622</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_04_28/117622"/>
-        <updated>2022-04-28T09:49:42.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/04/rails_security_update_7024_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Ruby on Rails セキュリティ修正7.0.2.4、6.1.5.1、6.0.4.8、5.2.7.1がリリースされました。このリリースで修正される2件の脆弱性のうち、CVE-2022-27777はすべてのバージョンのRailsが影響を受ける可能性があります。 Hi everyone!! Rails 7.0.2.4, 6.1.5.1, 6.0.4.8, and 5.2.7.1 have been released! Please check out the blog post here: https://t.co/YYbarWYacnThis is a security release, so please  [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_04_28/117622" data-wpel-link="internal" target="_self">Railsセキュリティ修正7.0.2.4、6.1.5.1、6.0.4.8、5.2.7.1がリリースされました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubyにシンボルがある理由（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_04_28/117351</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_04_28/117351"/>
-        <updated>2022-04-28T08:30:45.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/04/why_ruby_has_symbols_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Why Ruby has Symbols &#124; dmitrytsepelev.dev 原文公開日: 2022/04/05 原著者: Dmitry Tsepelev &#8212; Evil Martiansのメンバーです Rubyにシンボルがある理由（翻訳） Rubyを使い始めた初日からシンボルを使う人は大勢います。何しろRailsガイドの「Railsをはじめよう」でも、最初に生成するマイグレーションで早々にシンボルが登場しているほどです。シンボルは一見文字列のように見え（:hiと"hi"）、しかも相互に変換可能です。両者の違いを素朴に説明すると、文字列は [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_04_28/117351" data-wpel-link="internal" target="_self">Rubyにシンボルがある理由（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RDSとAurora PostgreSQLの脆弱性により、AWSが多くのマイナーバージョンを非推奨へ]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/aws-rds-postgres-vulnerability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/aws-rds-postgres-vulnerability/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-28T03:08:00.000Z</updated>
-        <summary type="html"><![CDATA[セキュリティ会社Lightspinの研究者は最近、PostgreSQL拡張機能を使って、どのように内部AWSサービスへの認証を取得し、RDS上のローカルファイル読み取りの脆弱性を悪用できるかを説明した。AWSはこの問題を確認し、Amazon AuroraとRDS for PostgreSQLの数十のマイナーバージョンを非推奨にした。
- By Renato Losio  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタッフプラスエンジニアへの道：管理職から技術職への回帰]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/staff-plus-manager-to-tech/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/staff-plus-manager-to-tech/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-04-28T03:02:00.000Z</updated>
-        <summary type="html"><![CDATA[技術分野の従事者には、管理職のキャリアだけが目標ではない。Fabiane Bizinella Nardon氏は、管理職から技術職に復帰してスタッフプラスエンジニアとなり、スタッフプラスフレンドリな会社を設立した人物だ。氏はQCon London 2022で、"A CTO That Still Codes: My Tortuous Path to the Staff Plus Engineer Role"と題する講演を行った。氏は2022年5月10日～20日のQCon Plusでも講演する予定である。
- By Ben Linders  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[優れたスタッフプラスエンジニアになるには]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/becoming-staff-plus-engineer/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/becoming-staff-plus-engineer/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-04-28T02:52:00.000Z</updated>
-        <summary type="html"><![CDATA[スタッフプラスエンジニア(staff-plus engineer)としての自分の有効性を高めるためには、コミュニケーション、リスニング、技術的戦略、ネットワークのスキルを高めることが大切だ。Blanca Garcia Gil氏はQCon London 2022で、スタッフプラスエンジニアとして成功するための5つの行動指針について講演した。さらに氏は、2022年5月10日～20日のQCon Plusでも講演する予定である。
- By Ben Linders  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタッフプラスエンジニアとして技術職に留まるには]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/remain-tech-staff-plus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/remain-tech-staff-plus/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
-        <updated>2022-04-28T02:51:00.000Z</updated>
-        <summary type="html"><![CDATA[テクノロジに携わり続けたいと願うエンジニアには、スタッフプラスエンジニア(staff plus engineer)になる、という方法がある。スタッフプラスエンジニアは、他の人々に影響力を持たせることがその役割だ。周りの人々を巻き込むというのは難しく、コミュニケーションや影響力のあるスキルに取り組む必要がある。Nicky Wrightson氏はQCon London 2022で、"The Secret Strategy for Landing That Staff Engineer Role"と題して講演した。氏はQCon Plus May(2022年5月10日～20日)でも講演する予定である。
- By Ben Linders  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Ben Linders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix Studio Search：ElasticsearchとApache Flinkを使ってフェデレーションGraphQLデータのインデックス付け]]></title>
-        <id>https://www.infoq.com/jp/news/2022/04/netflix-studio-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/04/netflix-studio-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-04-28T02:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Netflixのエンジニアは最近、どのようにStudio Searchの構築したかを公開した。そこでは、Apache Kafkaストリーム、Apache Flinkベースのデータメッシュプロセス、Elasticsearchシンクを使ってインデックスが管理される。彼らは、NetflixのフェデレーションGraphQLグラフの要素を抽出し、それを検索可能にするプラットフォームを設計した。現在、Studio Searchでは、組織内の多くのアプリケーションのユーザエクスペリエンスに関して重要な部分が強化されている。
- By Eran Stiller  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Eran Stiller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イシューを閉じる技術]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/issue-closing-patterns</id>
-        <link href="https://blog.agile.esm.co.jp/entry/issue-closing-patterns"/>
-        <updated>2022-04-28T02:36:20.000Z</updated>
-        <summary type="html"><![CDATA[@koic です。 GitHub などでイシュー管理しているプロジェクトは多いと思います。プロジェクトで開いているイシューの数はいくつありますか？ 私はいくつかのプロジェクトで 100 以上のイシューが開いているのを確認しています。Rust では 8,000 以上のイシューが開いているので全然大したことないかもしれませんが、いつまでも放置していても見通しが悪いままなので整理するのは悪くないアクションです。 これは人それぞれの好みもありますが、オープンソースのような自由時間で行っている活動で、地球の裏側から開かれた (良かれとオープンされた) イシューをクローズするのは精神力を使うので、Stal…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年4月第5週　移動中によく使うガジェットやアプリたち ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202204/28</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202204/28"/>
-        <updated>2022-04-28T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年4月第5週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
     <entry>
