@@ -6,6 +6,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "47462ed71e97ee3110783725d3a2c2bc2b8ac093",
+          "author": "aws@amazon.com",
+          "description": "Amazon ElastiCache for Memcached に Memcached バージョン 1.6.12 のサポートが追加されました。このバージョンは累積的な更新であり、バージョン 1.6.6 から 1.6.12 までのすべての変更と改善が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/",
+          "publishedOn": "2022-05-30T15:03:30.000Z",
+          "wordCount": 266,
+          "title": "Amazon ElastiCache が Memcached 1.6.12 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d9d2ff2633d218969c86bf3d7e498aed86afddee",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 P4de インスタンスのプレビュー開始を発表いたします。これは、機械学習 (ML) トレーニングおよび、物体検出、セマンティックセグメンテーション、自然言語処理、レコメンデーションシステム、地震解析、計算流体力学などのハイパフォーマンスコンピューティング (HPC) アプリケーションに最高のパフォーマンスを提供する最新の GPU ベースのインスタンスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-p4de-gpu-instances-ml-training-hpc/",
+          "publishedOn": "2022-05-30T15:02:42.000Z",
+          "wordCount": 317,
+          "title": "ML トレーニングと HPC 用 Amazon EC2 P4de GPU インスタンスのプレビューを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9f1275e07a337f4387d4f219d8211ad4d83cd0df",
+          "author": "aws@amazon.com",
+          "description": "Amazon ElastiCache for Memcached が、Transport Layer Security (TLS) バージョン 1.2 を使用した転送中のデータの暗号化をサポートするようになりました。転送中に暗号化を使用する場合、クライアントと Memcached クラスター間のすべてのネットワークトラフィックが暗号化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/",
+          "publishedOn": "2022-05-30T15:01:04.000Z",
+          "wordCount": 273,
+          "title": "Amazon ElastiCache for Memcached が転送中のデータ暗号化に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c1398b9b2188ab323494dce7fa05424419632a6c",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lightsail は、Amazon ECR プライベートリポジトリのコンテナイメージを使用して、Lightsail コンテナサービスのデプロイの作成をサポートするようになりました。このリリースでは、プライベート ECR リポジトリに既に存在する可能性があるイメージを利用しながら、Lightsail の簡素化されたエクスペリエンスでコンテナを実行できるため、移植性が向上します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/",
+          "publishedOn": "2022-05-30T11:33:44.000Z",
+          "wordCount": 264,
+          "title": "Amazon Lightsail コンテナが Amazon ECR プライベートリポジトリからのイメージのデプロイのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8a848ec86204642d485818da5871ee0b18cf8e9d",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) は、新しい汎用 Amazon Elastic Compute Cloud (Amazon EC2) M6id インスタンスの一般提供の開始を発表します。M6id インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名 Ice Lake) と、最大 7.6 TB のローカル NVMe ベースのソリッドステートディスク (SSD) ブロックレベルストレージを搭載しており、M5d インスタンスと比較して最大 15% 優れたコストパフォーマンスを提供します。前世代のインスタンスと比較して、M6id インスタンスは、vCPU あたり最大 58% 高い TB ストレージと、TB あたり 34% 低いコストを提供します。M6id インスタンスは、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化機能も備えています。すべての最新の EC2 インスタンスのように、M6id インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアのほとんどのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6id インスタンスは、データログ記録やメディア処理など、高速で低レイテンシーのローカルブロックストレージとともに、コンピューティングリソースとメモリリソースのバランスを必要とするワークロードに最適です。M6id インスタンスは、バッチ処理やログ処理およびキャッシュやスクラッチファイルが必要なアプリケーション、ならびにデータの一時的な格納が必要なアプリケーションにも役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/introducing-amazon-ec2-m6id-instances/",
+          "publishedOn": "2022-05-30T11:32:56.000Z",
+          "wordCount": 354,
+          "title": "Amazon EC2 M6id インスタンスのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c1f9b5fb2c88dfd256f147fbfae958b590cf34f5",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) は、新しいコンピューティング最適化 Amazon Elastic Compute Cloud (Amazon EC2) C6id インスタンスの一般提供の開始を発表します。C6id インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名 Ice Lake) と、最大 7.6 TB のローカル NVMe ベースのソリッドステートドライブ (SSD) ブロックレベルストレージを搭載しており、C5d インスタンスと比較して最大 15% 優れたコストパフォーマンスを提供します。前世代のインスタンスと比較して、C6id インスタンスは、vCPU あたり最大 138% 高い TB ストレージと、TB あたり 56% 低いコストを提供します。C6id インスタンスは、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化機能も備えています。すべての最新の EC2 インスタンスのように、C6id インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアのほとんどのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。 C6id インスタンスは、動画エンコーディング、画像操作、他の形式のメディア処理など、高速かつ低レイテンシーのローカルストレージにアクセスする必要があるワークロードを含め、コンピューティングを多用するワークロードに最適です。C6id インスタンスは、バッチ処理やログ処理およびキャッシュやスクラッチファイルが必要なアプリケーション、ならびにデータの一時的な格納が必要なアプリケーションにも役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/",
+          "publishedOn": "2022-05-30T11:31:51.000Z",
+          "wordCount": 354,
+          "title": "Amazon EC2 C6id インスタンスのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fef6c6db23797d98a6e4cd9a88f4cebe896cf6b3",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard は、Amazon FSx for NetApp ONTAP を使用した SQL Server Always On Failover Cluster Instances (FCI) のサポートを発表します。今後は、シンプルなコンソールウィザードを使用して、共有ストレージとして FSx for NetApp ONTAP を使用して SQL Server FCI を Amazon EC2 にデプロイできます。この機能は、複雑な手動デプロイプロセスを、共有ストレージに依存するオンプレミスの SQL Server ワークロードの移行を高速化する使いやすいガイド付きウィザードに置き換えることを通じて、時間と労力を削減します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/",
+          "publishedOn": "2022-05-30T11:31:02.000Z",
+          "wordCount": 319,
+          "title": "AWS Launch Wizard が Amazon FSx for NetApp ONTAP を使用した SQL Server のデプロイのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "4d6508b0d8a2d165f169526d591f42793773d539",
           "author": "aws@amazon.com",
           "description": "本日は、AWS Config での使用状況のモニタリングのための Amazon CloudWatch メトリクスの提供開始を発表します。AWS Config は、サポートされているリソースに加えられた変更を追跡し、設定アイテム (CI) として記録し、その後 Amazon Simple Storage Service (Amazon S3) のバケットに配信されます。Amazon CloudWatch のメトリクスは、システムの使用状況に関するデータを提供するモニタリングサービスで、AWS リソースのメトリクスに関する検索、グラフ化、アラームの構築などの機能が含まれます。本リリースでは、Amazon CloudWatch メトリクスを使用して、設定の検証や AWS Config の使用状況の把握ができるようになりました。",
@@ -2447,6 +2517,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/gitlabvisual_studio_codewebide.html",
+          "author": null,
+          "description": "GitLabは、これまでGitLabが自社で開発し提供してきたWebIDEを、Visual Studio CodeベースのWebIDEへ移行していくと表明しました。 Here's what's coming next to ...",
+          "link": "https://www.publickey1.jp/blog/22/gitlabvisual_studio_codewebide.html",
+          "publishedOn": "2022-05-30T15:07:49.000Z",
+          "wordCount": 342,
+          "title": "GitLabがVisual Studio CodeベースのWebIDEへ移行すると発表",
+          "imageUrl": "https://www.publickey1.jp/2022/KYRBvqYz.jpg"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/mysqlmysql_operator_for_kubernetespr.html",
           "author": null,
           "description": "Kubernetesのようなコンテナ環境では、MySQLデータベースのようなステートフルで高い安定性が求められるソフトウェアを運用することは難しいと、以前は考えられていました。 しかし現在ではステートフルセットのような機能もKubernet...",
@@ -2953,6 +3033,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=277018",
+          "author": "James Temple",
+          "description": "チャーム・インダストリアルは、バイオ石油から得た合成ガスを使うことで、製鉄業界の二酸化炭素排出量を大幅に削減できると考えている。しかし、それを実現させるには越えなければならない大きな壁がいくつかあることは確かだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/277018/how-charm-industrial-hopes-to-use-crops-to-cut-steel-emissions/",
+          "publishedOn": "2022-05-30T21:52:41.000Z",
+          "wordCount": 562,
+          "title": "バイオ燃料で製鉄業界の排出量を削減、障壁となる要因は？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/26181504/PeterReinhardt-CharmIndustrial-089-1400x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=274513",
+          "author": "Nadine Freischlad",
+          "description": "ジャカルタでは、配車大手のゴジェックに登録したバイクタクシーのドライバーたちが、コミュニティを形成して労働者の地位向上に挑んでいる。コミュニティは不安定な労働者同士が助け合う場にもなっており、他の国のギグワークには見られない独特の状況を作り出している。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/274513/the-gig-workers-fighting-back-against-the-algorithms/",
+          "publishedOn": "2022-05-30T21:33:34.000Z",
+          "wordCount": 560,
+          "title": "ジャカルタ版ウーバー 世界に類を見ない 「助け合う」ギグワーカー",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/21191522/MIT-4-extended-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=277054",
           "author": "Rhiannon Williams",
@@ -3672,16 +3772,6 @@
           "wordCount": 554,
           "title": "今度こそ定着？ 上海ロックダウンで食料品宅配アプリが正念場",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/29174504/dingdong-shopbasket-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=274777",
-          "author": "Casey Crownhart",
-          "description": "4月下旬、インドは猛烈な熱波に襲われ、最高気温を更新している。一部の州では最高気温が43℃に達しており、冷房を利用できない人にとっては命取りになりかねない事態だ。",
-          "link": "https://www.technologyreview.jp/s/274777/climate-change-is-making-indias-brutal-heat-waves-worse/",
-          "publishedOn": "2022-05-01T00:48:27.000Z",
-          "wordCount": 686,
-          "title": "インドに記録破りの猛烈な熱波が襲来、気候変動の影響色濃く",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/28174504/AP_21314678875616-crop-1400x787.jpeg"
         }
       ]
     }
