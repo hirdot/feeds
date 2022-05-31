@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-31T01:28:31.141Z</updated>
+    <updated>2022-05-31T02:40:09.453Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Genomics CLI v1.5.0 が Toil を使用した Common Workflow Language (CWL) のサポートを追加]]></title>
+        <id>bcc9410c5de19d2fcb5678b9811fee561eeb69af</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/"/>
+        <updated>2022-05-31T01:32:08.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Genomics CLI v1.5.0 で、Toil ワークフローエンジンを使用して Common Workflow Language (CWL) で記述されたワークフローのサポートが追加されたことをお知らせします。CWL に加えて、Amazon Genomics CLI は、Workflow Definition Language (WDL)、Nextflow、および Snakemake で記述されたワークフローをサポートし、ゲノムバリアントや単一セル RNAseq の共同呼び出しなどのさまざまなゲノミクスデータ分析を実行できるようにします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS が Capacity Provider と Auto Scaling グループの統合を簡素化]]></title>
+        <id>ba4dbe3b42366e14681af9db9cf6c238a1dc1ea8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/"/>
+        <updated>2022-05-31T01:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Services (Amazon ECS) は、ユーザーに代わって Amazon Elastic Compute Cloud (EC2) Auto Scaling グループ (ASG) のスケーリングを動的に管理する Cluster Auto Scaling (CAS) 機能を提供します。これにより、お客様はコンテナの実行に集中できます。Capacity Provider は、Amazon ECS クラスターを ASG にリンクするコンピューティングインターフェイスです。Capacity Providers では、コンテナ化されたワークロードをさまざまな種類のコンピューティングキャパシティで実行する方法について柔軟なルールを定義し、そのキャパシティのスケーリングを管理できます。Capacity Providers は、ECS でタスクとサービスを実行する可用性、スケーラビリティを改善し、コストを削減します。本日より、AWS Auto Scaling スケーリングプランに依拠するのではなく、ターゲット追跡スケーリングポリシーと直接統合することで、Capacity Provider と ASG 間の統合メカニズムを簡素化します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第40回　Plamo Linux 7.4と赤の女王仮説 ── 続・玩式草子 ―戯れせんとや生まれけん―]]></title>
         <id>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0040</id>

@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "bcc9410c5de19d2fcb5678b9811fee561eeb69af",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Genomics CLI v1.5.0 で、Toil ワークフローエンジンを使用して Common Workflow Language (CWL) で記述されたワークフローのサポートが追加されたことをお知らせします。CWL に加えて、Amazon Genomics CLI は、Workflow Definition Language (WDL)、Nextflow、および Snakemake で記述されたワークフローをサポートし、ゲノムバリアントや単一セル RNAseq の共同呼び出しなどのさまざまなゲノミクスデータ分析を実行できるようにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/",
+          "publishedOn": "2022-05-31T01:32:08.000Z",
+          "wordCount": 338,
+          "title": "Amazon Genomics CLI v1.5.0 が Toil を使用した Common Workflow Language (CWL) のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ba4dbe3b42366e14681af9db9cf6c238a1dc1ea8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Services (Amazon ECS) は、ユーザーに代わって Amazon Elastic Compute Cloud (EC2) Auto Scaling グループ (ASG) のスケーリングを動的に管理する Cluster Auto Scaling (CAS) 機能を提供します。これにより、お客様はコンテナの実行に集中できます。Capacity Provider は、Amazon ECS クラスターを ASG にリンクするコンピューティングインターフェイスです。Capacity Providers では、コンテナ化されたワークロードをさまざまな種類のコンピューティングキャパシティで実行する方法について柔軟なルールを定義し、そのキャパシティのスケーリングを管理できます。Capacity Providers は、ECS でタスクとサービスを実行する可用性、スケーラビリティを改善し、コストを削減します。本日より、AWS Auto Scaling スケーリングプランに依拠するのではなく、ターゲット追跡スケーリングポリシーと直接統合することで、Capacity Provider と ASG 間の統合メカニズムを簡素化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/",
+          "publishedOn": "2022-05-31T01:31:18.000Z",
+          "wordCount": 298,
+          "title": "Amazon ECS が Capacity Provider と Auto Scaling グループの統合を簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "47462ed71e97ee3110783725d3a2c2bc2b8ac093",
           "author": "aws@amazon.com",
           "description": "Amazon ElastiCache for Memcached に Memcached バージョン 1.6.12 のサポートが追加されました。このバージョンは累積的な更新であり、バージョン 1.6.6 から 1.6.12 までのすべての変更と改善が含まれています。",
