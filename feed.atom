@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T01:28:39.821Z</updated>
+    <updated>2022-06-01T02:50:00.617Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muxでのサービス間プロキシとしてのEnvoy]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/envoy-proxy-mux/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/envoy-proxy-mux/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-01T01:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Muxは、gRPCリクエストと長時間のHTTP/2接続に関連する既知の負荷分散の問題を解決するためKubernetesクラスタにEnvoyネットワーキングプロキシを使用している。
+ By Patrick Zhang  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Patrick Zhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Newsラウンドアップ - Project LoomとPanamaのJEP、JobRunr 5.1.0、Kotlin 1.7.0プレビュー]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/java-news-roundup-may02-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/java-news-roundup-may02-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-01T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年5月2日、今週のJavaラウンドアップは、OpenJDK、JDK19を対象とするJEP、JobRunr 5.1.0、Quarkus 2.8.3.Final、Hibernate ORM 6.0.1.Final、Kotlin 1.7.0プレビュー、Apache Camel versions 3.14.3と3.11.7、Apache Tika version 2.4.0と1.28.2、JDKの最小バージョンに関するMicronautのサーベイ、2022 JFokus Conference、といったニュースをお伝えする。
+ By Michael Redlich  Translated by  h_yoshida _]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMakerサーバーレス推論が一般向け提供へ]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/sagemaker-serverless-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/sagemaker-serverless-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-01T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは最近、SageMakerサーバレス推論が一般向けに利用可能となったことを発表した。この新しいオプションは、断続的、あるいは、まれなトラフィックパターンを伴う処理向けに設計されており、モデルが受信する推論要求の量に応じて計算能力をプロビジョニング・スケーリングする。
+ By Renato Losio  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon MSK Serverlessが一般提供に]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/aws-msk-apache-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/aws-msk-apache-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-01T01:52:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSは先ごろ、Amazon MSK Serverlessが一般提供されるようになったと発表した。Apache Kafka クラスタを管理するサーバレスオプションにより、容量を監視する必要がなくなり、クラスタ内のパーティションのバランスが自動的にとられる。
+ By Renato Losio  Translated by  Shoji Shigeki]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[継続的な負荷テストをSlackパイプラインに統合]]></title>
+        <id>https://www.infoq.com/jp/news/2022/05/slack-continuous-load-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/05/slack-continuous-load-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-01T01:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Slackは、パフォーマンスに焦点を当てているエンジニアだけでなく、すべてのエンジニアにとって負荷テストが注力すべき関心事になるよう取り組んできた。そして、パフォーマンスに対するリアクティブなアプローチから、より統合された取り組みに移行していると、SlackのエンジニアShreya Ramesh氏とMelissa Khuat氏は述べている。
+ By Sergio De Simone  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Sergio De Simone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第717回　Ubuntu 22.04 LTSにおける，Waylandとアプリケーションの微妙な関係 ── Ubuntu Weekly Recipe]]></title>
         <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0717</id>
