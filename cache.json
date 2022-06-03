@@ -6,6 +6,96 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "46d327a9e3a10728f7bc5e340f734b13500798ec",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Outposts での Amazon Elastic Compute Cloud (EC2) Dedicated Hosts のサポートが発表されました。このサポートにより、既存のソフトウェアライセンスと、専有の物理サーバーを必要とするワークロードを Outpost Racks で使用できるようになります。また、お客様は今後、インスタンスタイプのデプロイをより柔軟に実行できるほか、より細かな配置制御が可能になります。さらに、そのすべてで、AWS Outposts の一貫したハイブリッドエクスペリエンスをお楽しみいただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/",
+          "publishedOn": "2022-06-03T00:26:50.000Z",
+          "wordCount": 306,
+          "title": "Amazon EC2 Dedicated Hosts、AWS Outposts で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6d4231194590236d4d589b5e5aad5da8a413a2fb",
+          "author": "aws@amazon.com",
+          "description": "AWS Elastic Disaster Recovery (DRS) で複数のステージングアカウントとターゲットアカウントへのサポート追加が発表されました。現在、AWS アカウントあたり最大 300 台のソースサーバーをレプリケートおよび保護できます。複数のステージングアカウントとターゲットアカウントを使用することで、今後は任意のターゲット AWS アカウントで、最大 3,000 台のレプリケートソースサーバーを復旧できます。この機能により、ディザスタリカバリのセットアップ、実装、モニタリングがより簡単および効率的になります。特に、大規模プロジェクトではその効果が顕著になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/",
+          "publishedOn": "2022-06-03T00:23:41.000Z",
+          "wordCount": 274,
+          "title": "AWS Elastic Disaster Recovery で複数のステージングアカウントおよびターゲットアカウントのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "819724a5748d2231246271f077f3087c4a79e176",
+          "author": "aws@amazon.com",
+          "description": "AWS Identity and Access Management (IAM) は、サポートされているすべてのブラウザ全体で、強力でフィッシングに強い認証のための Web Authentication (WebAuthn) 標準をサポートするようになりました。WebAuthn は、FIDO U2FAPI を継承する FIDO2 仕様の一部であり、パブリックキー暗号化に基づくセキュリティキーを用いた安全な多要素認証が可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/",
+          "publishedOn": "2022-06-03T00:21:47.000Z",
+          "wordCount": 256,
+          "title": "AWS IAM が WebAuthn と Safari ブラウザをサポートし、セキュリティキーによる多要素認証が可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a67ddb5a945c97421b29b7c99b42ad043ede5332",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync は、GraphQL および Real-time API の作成と管理を容易にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL では、Amazon DynamoDB、AWS Lambda、HTTP API などのデータソースのデータと、GraphQL スキーマで定義された型、フィールド、操作をリンク、または「解決」するビジネスロジックを実装するために、リゾルバという特別な関数が使用されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/",
+          "publishedOn": "2022-06-03T00:20:57.000Z",
+          "wordCount": 295,
+          "title": "AWS AppSync、拡張された GraphQL Utility Helper Library で GraphQL API 開発を簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "089f942d81269ddec38bc0967121fa0ab18a8298",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、アジアパシフィック (シドニー) の AWS リージョンで大量のアウトバウンドコミュニケーションをサポートするようになり、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などのコミュニケーションを、毎日数百から数百万の顧客に簡単に連絡することができるようになりました。Amazon Connect の通話、テキスト、E メールによる大量のアウトバウンドコミュニケーションにより、組織はサードパーティツールを統合することなく、シンプルで埋め込み型のコスト効率の高い方法で、顧客に積極的に連絡することができます。Amazon Pinpoint が提供するオプションの統合リスト管理機能を使用して、カスタマージャーニーやマルチチャネルのユーザーエクスペリエンスを構築することも可能です。この起動により、オーストラリアおよびニュージーランドの顧客に対して、大量のアウトバウンドコールを行うことができるようになりました。この機能はすぐに利用でき、AWS コンソールで有効化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/",
+          "publishedOn": "2022-06-03T00:20:08.000Z",
+          "wordCount": 236,
+          "title": "Amazon Connect の大量のアウトバウンドコミュニケーション機能が、アジアパシフィック (シドニー) AWS リージョンのパブリックプレビューで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fea87fe75b294069adcd32332c2e3a0a033263d4",
+          "author": "aws@amazon.com",
+          "description": "AWS Marketplace は、SaaS 契約のための無料トライアルを導入し、購入前に製品を試すことができるようになりました。これまでは、製品を試す前に契約を結ぶか、ソフトウェアベンダーが直接提供する無料トライアル用のサードパーティウェブサイトにアクセスする必要がありました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/",
+          "publishedOn": "2022-06-03T00:19:16.000Z",
+          "wordCount": 234,
+          "title": "AWS Marketplace、SaaS 契約の無料トライアルを導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b6443972463c9b48fbf3b2759f45581302ec737e",
+          "author": "aws@amazon.com",
+          "description": "AWS Control Tower では、AWS Control Tower のランディングゾーン内から、ワンクリックでメンバーアカウントを個別に登録、更新する機能が追加されました。ランディングゾーンの更新、アカウントドリフトの修正、または登録された組織単位 (OU) へのアカウントの登録が、いくつかの合理化された手順で行えます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/",
+          "publishedOn": "2022-06-03T00:18:25.000Z",
+          "wordCount": 258,
+          "title": "AWS Control Tower で単一アカウントの登録と更新が可能になりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "91c55d5288947a581cefd6548d66682a0db108be",
+          "author": "aws@amazon.com",
+          "description": "新しい Dart Signature V4 クライアントにより、デベロッパーは署名付き HTTP リクエストを使用して、200 以上のすべての AWS サービスと安全に統合することができます。この機能により、Dart デベロッパーは Flutter または Dart アプリケーションで AWS バックエンドにネイティブコールを行い、AWS サービスのデータや設定に変更を加えることができるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/",
+          "publishedOn": "2022-06-03T00:17:34.000Z",
+          "wordCount": 267,
+          "title": "AWS は、AWS サービスとの対話のための Dart Signature V4 のサポートを発表しました。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "dd45d65865d78ce77f144d2ae641db79ee13d949",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、わずか数回のクリックで大量のアウトバウンドコミュニケーションを開始できるようになり、この機能のテストを開始できるようになりました。Amazon Connect のナビゲーションパネルで、Telephony ページを選択し、「大量のアウトバウンドコミュニケーションを有効にする」のボックスにチェックを入れ、「保存」を選択します。数分で、この機能を使用する準備が整います。電話、テキスト、E メールによる大量のアウトバウンドコミュニケーションを使用すると、サードパーティのツールを統合することなく、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などのコミュニケーションを毎日数百から何百万もの顧客に連絡することができます。Amazon Pinpoint が提供するオプションの統合リスト管理機能を使用して、カスタマージャーニーやマルチチャネルのユーザーエクスペリエンスを構築することも可能です。この機能はすぐに利用でき、AWS Connect コンソールで有効化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/",
+          "publishedOn": "2022-06-03T00:16:42.000Z",
+          "wordCount": 240,
+          "title": "Amazon Connect で、わずか数クリックで大量のアウトバウンドコミュニケーションを開始できるようになりました (パブリックプレビュー) 。",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "525680b0e1553bb3eb8ef4e75a0ba9171d499064",
           "author": "aws@amazon.com",
           "description": "インドと台湾のユーザーは、AWS Elemental 発注書プロセスを通じて AWS Panorama Appliance を購入できるようになりました。発注書プロセスは一直線に整理された販売支援の発注形態であり、注文書を通して支払が可能な、企業の調達ワークフローにマッチする AWS コンソールによるものです。この拡張により、ユーザーは Panorama を AWS Elemental を通じて米国、カナダ、メキシコ、オーストラリア、ニュージーランド、シンガポール、マレーシア、英国、およびヨーロッパ連合の各国を含む 49 の国々で購入可能となりました。",
@@ -1274,56 +1364,6 @@
           "wordCount": 288,
           "title": "Amazon Rekognition でライブの動画ストリーミングにリアルタイムのアラートを出す Streaming Video Events の利用が開始に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "331fb0bc9a3bc64235ccd6412387c3e5f4df341d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) において、お客様は新規および既存の RDS インスタンスの Virtual Private Cloud (VPC) で Internet Protocol version 6 (IPv6) アドレスを使用することも可能になりました。IPv6 に移行するお客様は、IPv4 と IPv6 のどちらもサポートするネットワークでデータベースを実行することにより、ネットワークスタックを簡素化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/",
-          "publishedOn": "2022-05-04T13:17:48.000Z",
-          "wordCount": 279,
-          "title": "Amazon RDS が Internet Protocol Version 6 (IPv6) をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5966c09689882ca11ad0d403c5b57591ed1bd07d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect では、Voice ID の認証と不正検出の結果を問い合せ詳細ページで検索して表示することができるようになり、Voice ID の結果に基づくアクションが実行しやすくなりました。認証ステータス、発信者アクション (登録またはオプトアウト)、不正リスクステータス、不正リスク理由などの Voice ID 属性に基づいて問い合せ先を検索することができます。これら詳細は、特定の問い合せ先の問い合せ詳細ページからも確認することができます。例えば、詐欺のリスクが高いとされる問い合わせ先をすべて検索し、その通話録音を聞くことで詐欺師のパターンや戦略を特定し、それに対応したセキュリティ対策を追加でデプロイすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-surfaces-voice-id-attributes-on-contact-detail-page/",
-          "publishedOn": "2022-05-04T13:16:39.000Z",
-          "wordCount": 235,
-          "title": "Amazon Connect により、問い合わせ詳細ページに直接 Voice ID の属性を表示可能",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4d9b06bfce35e49714e41e0eb6cd14acaadb750f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MySQL バージョン 8.0 が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/",
-          "publishedOn": "2022-05-04T13:03:31.000Z",
-          "wordCount": 372,
-          "title": "Amazon RDS for MySQL が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポートするようになりました。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9a9afb36797c9c856ddbca913e7024eed6dc840a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供開始をお知らせいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voices-brazilian-portuguese/",
-          "publishedOn": "2022-05-04T13:02:35.000Z",
-          "wordCount": 251,
-          "title": "Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bd9505f890c393d2c865fdc15961c015410a53ac",
-          "author": "aws@amazon.com",
-          "description": "Amazon MSK Serverless の一般提供開始を発表いたします。これは、デベロッパーが容量を管理しなくても Apache Kafka を簡単に実行できるようにする Amazon MSK クラスターの一種です。MSK Serverless は、コンピューティングリソースとストレージリソースを自動的にプロビジョニングおよびスケーリングし、スループットベースの料金を提供するため、Apache Kafka をオンデマンドで使用し、ストリーミングおよび保持するデータの料金に対して支払いを行うことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/",
-          "publishedOn": "2022-05-04T13:01:48.000Z",
-          "wordCount": 298,
-          "title": "Amazon MSK Serverless が一般提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1389,6 +1429,16 @@
       "feedUrl": "https://data.wingarc.com/feed",
       "siteUrl": "https://data.wingarc.com",
       "articles": [
+        {
+          "id": "https://data.wingarc.com/?p=42595",
+          "author": "tadokoroyusuke",
+          "description": "各界のITリーダーが一堂に会する「CIO Japan Summit 2022」が、さる5月10日（火）・11日（水）の両日、ホテル椿山荘東京で開催された。今回で13回目を迎えた同サミットでは、さまざまな業界のCIOによる […]",
+          "link": "https://data.wingarc.com/all_about_persol-way-of-dx-42595?utm_source=rss&utm_medium=rss&utm_campaign=all_about_persol-way-of-dx",
+          "publishedOn": "2022-06-03T01:00:35.000Z",
+          "wordCount": 559,
+          "title": "人材のエキスパート、パーソル流 デジタル戦略（DX）をリードするIT部門のつくり方",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/persol-asahina-sama.jpg"
+        },
         {
           "id": "https://data.wingarc.com/?p=40940",
           "author": "BunkiMIyata",
@@ -1886,6 +1936,16 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/03",
+          "author": "吉田史",
+          "description": "Ubuntuには目的にあわせた，非常にさまざまなカーネルフレーバーが存在します。これらの新しい仲間として，“starfive”フレーバーが追加される方向で作業が進められています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/03",
+          "publishedOn": "2022-06-03T00:59:00.000Z",
+          "wordCount": 398,
+          "title": "2022年6月3日号　“starfive”カーネルフレーバーの追加・Ubuntu 22.10（kinetic）の開発 / テキストエディタの変更 ── Ubuntu Weekly Topics",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
+        },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0717",
           "author": "あわしろいくや",
