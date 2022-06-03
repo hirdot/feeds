@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T08:01:07.978Z</updated>
+    <updated>2022-06-03T09:00:49.921Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Better Stimulusガイド 04: イベントリスナーの追加・削除はStimulusで行う（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465"/>
+        <updated>2022-06-03T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus_add_delete_event_listeners_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Events &#8211; Better StimulusJS 原文更新日: 2021/07/16 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 1. マークアップにグローバルなイベントを登録する Bad connect() { document.addEventListener(...); } Good &#60;div data-controller="gallery" data-action="resize@win [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465" data-wpel-link="internal" target="_self">Better Stimulusガイド 04: イベントリスナーの追加・削除はStimulusで行う（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[すべての質問には答えがある - 開発者にとって不可能とは]]></title>
         <id>https://www.infoq.com/jp/news/2022/06/every-question-answer-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
@@ -1340,6 +1351,17 @@
         <summary type="html"><![CDATA[VMwareとBroadcomは、VMwareがBroadcomによって買収されることを正式に発表しました（VMwareの発表、Braodcomの発表）。 Broadcom to Acquire VMware for Approximate...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_05_26/115955</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_05_26/115955"/>
+        <updated>2022-05-26T08:30:26.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: shakapacker/v6_upgrade.md at master · shakacode/shakapacker 原文更新日: 2022/04/12（712943e） ライセンス: MIT 2022/03/10: 初版公開 2022/05/26: 原文に合わせて更新 表記は「Webpacker」「webpack」「Shakapacker」で統一しました。 以下の記事もどうぞ。 Rails: Webpacker（Shakapacker）とjsbundling-railsの比較（翻訳） Rails: Webpacker v5からShakapac [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_26/115955" data-wpel-link="internal" target="_self">Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
