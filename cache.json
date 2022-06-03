@@ -1324,66 +1324,6 @@
           "wordCount": 298,
           "title": "Amazon MSK Serverless が一般提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bff6c7c5d39b521e0c979664facbee8896e57eaa",
-          "author": "aws@amazon.com",
-          "description": "Amazon Simple Email Service (SES) の V2 では、最大 40MB のメッセージサイズ（E メールテキスト、画像、添付ファイル、および MIME エンコーディングを含む）の E メールを送受信できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/",
-          "publishedOn": "2022-05-04T11:37:08.000Z",
-          "wordCount": 264,
-          "title": "Amazon SES V2 は、デフォルトでインバウンドおよびアウトバウンドの E メールに対して最大 40 MB までサポートするようになりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8cde52d1badbb3240834906c899672e7186ece11",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift RA3 インスタンスは、アジアパシフィック（大阪）、欧州（ミラノ）、中東（バーレーン）、アフリカ（ケープタウン）の各リージョンで利用できるようになりました。マネージドストレージを備えた Amazon Redshift RA3 インスタンスを使用すると、コンピューティングとストレージを個別にスケールして料金を支払うことで、クエリのパフォーマンスを高速化し、コストを削減できます。また、Amazon Redshift クラスター間でライブデータを安全かつ簡単に共有できます。RA3 は、3 つの異なるノードタイプ (RA3.16xlarge、RA3.4xlarge、RA3.xlplus) で利用可能となっており、ワークロードの要件に応じて料金とパフォーマンスのバランスをとることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/",
-          "publishedOn": "2022-05-04T11:35:46.000Z",
-          "wordCount": 254,
-          "title": "Amazon Redshift では、アジアパシフィック（大阪）、欧州（ミラノ）、中東（バーレーン）、アフリカ（ケープタウン）の各リージョンで RA3 インスタンスが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "53c7df7ab4305380ff18a67c6bccc8130918966c",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda モニタリングを簡単にセットアップでき、Amazon CloudWatch Application Insights を介して、直接 Amazon CloudWatch Lambda Insights コンソールからの Lambda 関数の正常性を表示できるようになりました。この統合により、問題の詳細な調査、問題のトラブルシューティング、および Lambda 関数の解決までの平均時間の短縮が簡単にできます。Application Insights の簡単なセットアップと問題分析を、Lambda Insights のモニタリングの詳細やトラブルシューティングと組み合わせ、AWS で実行中の Lambda 関数の正常性とパフォーマンスの統合ビューを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/",
-          "publishedOn": "2022-05-04T11:34:57.000Z",
-          "wordCount": 266,
-          "title": "Application Insights を介した Lambda Insights の統合ビューが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6a080e46a1e117c0ddf8a73f6381aa76234fc978",
-          "author": "aws@amazon.com",
-          "description": "本日、トロントの Bell 5G ネットワークで AWS Wavelength の一般提供が開始されることを発表します。企業、アプリケーションデベロッパー、独立系ソフトウェアベンダー (ISV) は、トロントの AWS Wavelength Zone を利用して、カナダのモバイル機器やエンドユーザー向けの超低レイテンシーアプリケーションを構築できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/",
-          "publishedOn": "2022-05-04T11:34:08.000Z",
-          "wordCount": 295,
-          "title": "AWS は、カナダで最初の AWS Wavelength Zone の一般提供の開始を発表しました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fc795c16b06f65f5b66a2b777ff819a8d3646f73",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect では、AWS GovCloud (米国西部) リージョンで、Amazon Connect コンタクトセンターの問い合わせ (音声通話、チャット、タスク) のイベント (通話がキューに入っているなど) に対して、ほぼリアルタイムのストリームをサブスクライブできるようになりました。これらのイベントには、音声通話、チャット、タスクが開始された、1 人のエージェントに割り当てるためキューに入った、エージェントにつながった、別のエージェントまたはキューに転送された、切断されたなどのイベントが含まれます。Contact Events は、コンタクトアクティビティをモニタおよび追跡するための分析ダッシュボードを作成する、コンタクトセンターのパフォーマンスをより的確に理解するためにワークフォースマネジメント (WFM) ソリューションに統合する、または、イベント (通話が切断されたなど) にリアルタイムで対応するアプリケーションを統合するために使用できます。Amazon Connect Contact Events は、Amazon EventBridge を通じて発行され、Amazon EventBridge AWS コンソールに行き、新しいルールを作成することで、数クリックでセットアップできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/",
-          "publishedOn": "2022-05-04T11:32:49.000Z",
-          "wordCount": 257,
-          "title": "AWS GovCloud (米国西部) リージョンで、Amazon Connect の音声通話、チャット、タスクなどのアクティビティにほぼリアルタイムで詳細情報を追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "11ccc1862c9bef2b5ab3447a315236dab1aecc77",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect は、Amazon Connect インスタンスでユーザーレコードを検索できる新しい API をサポート開始しました。この新しい API は、名前、姓、ユーザー名、ルーティングプロファイル、セキュリティプロファイル、エージェント階層、またはタグでユーザーを検索できるプログラム的で柔軟な方法を提供します。例えば、この API を使用して、Department:A のキーと値のペアでタグ付けされたすべてのユーザーを検索できます。また、特定のセキュリティプロファイル、ルーティングプロファイル、またはエージェント階層に割り当てられているすべてのユーザーのリストをすばやく見つけることができます。この新しい API の詳細については、「API ドキュメント」を参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/",
-          "publishedOn": "2022-05-04T11:32:02.000Z",
-          "wordCount": 241,
-          "title": "Amazon Connect で、名前、エージェント階層、タグでユーザーを検索できる API が利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
