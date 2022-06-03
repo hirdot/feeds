@@ -2,10 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T10:00:58.150Z</updated>
+    <updated>2022-06-03T22:00:44.348Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Step Functions がアプリケーションワークフローを構築およびデプロイするためのインタラクティブなワークショップの提供を開始]]></title>
+        <id>814035345fd243ddb8a7dce08aff903a6986d7a4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/"/>
+        <updated>2022-06-03T16:42:49.000Z</updated>
+        <summary type="html"><![CDATA[The AWS Step Functions Workshop と呼ばれる新しいワークショップで AWS Step Functions の使用方法を学ぶことができるようになりました。このセルフペースのチュートリアルでは、一連のインタラクティブモジュールを通じて Step Functions の主な機能を使用する方法を説明します。各モジュールには、お客様の AWS アカウントにデプロイできるレッスン資料が含まれており、アプリケーションワークフローの調整とオーケストレーション、ワークフロー状態の管理、他の AWS のサービスとの SDK 統合の作成などのトピックをカバーしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS が暗号化された Amazon SNS トピックにイベントを発行するためのサポートを追加]]></title>
+        <id>5d9991f02c593f9ec0314c1558cbb7edfd8d8049</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/"/>
+        <updated>2022-06-03T16:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) は、サーバー側の暗号化 (SSE) が有効になっている Amazon Simple Notification Service (Amazon SNS) トピックにイベントを発行して、機密データを伝達するイベントをさらに保護できるようになりました。Amazon RDS は、サブスクライブできるカテゴリにイベントをグループ化して、そのカテゴリのイベントが発生したときに通知を受け取ることができるようにします。これにより、ルーティングとオートメーションが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Route 53 が DNS クエリの IP ベースのルーティングを発表]]></title>
+        <id>6d3abb02af82ff7146744ac13a900940c3f76e48</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/"/>
+        <updated>2022-06-03T16:39:29.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS は、AWS のドメインネームシステム (DNS) クラウドサービスである Amazon Route 53 の IP ベースのルーティングのリリースを発表しました。Route 53 は、エンドユーザーを最適なエンドポイントにルーティングするために、位置情報ルーティング、地理的近接性ルーティング、レイテンシーベースのルーティング、重み付けルーティングなどの複数のルーティングオプションをお客様に提供します。IP ベースのルーティングが追加されたことにより、お客様は、クエリ元の IP アドレスが属する Classless Inter-Domain Routing (CIDR) ブロックに基づいて、DNS ルーティングアプローチを微調整できるようになりました。これにより、お客様は、パフォーマンスまたはネットワークトランジットコストを最適化するためのエンドユーザーベースの知識を活用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR Serverless が一般公開されました]]></title>
+        <id>a5f652657a0fe71da8d855b94c959e6b29ee8c6d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/"/>
+        <updated>2022-06-03T16:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR の新しいサーバーレスデプロイオプションである Amazon EMR Serverlessが一般提供されたことをお知らせします。これにより、データエンジニアやアナリストは、ペタバイト規模のデータ分析をクラウド上で簡単かつ低コストで実行できるようになります。Amazon EMR は、Apache Spark、Apache Hive、Presto などのオープンソース解析フレームワークをベースにした、大規模な分散データ処理ジョブ、インタラクティブ SQL クエリ、機械学習 (ML) アプリケーションを実行できるビッグデータソリューションです。EMR Serverlessでは、クラスターを構成、最適化、チューニング、管理することなく Spark および Hive のアプリケーションを実行することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch が Elemental MediaTailor を Vended Logs の料金に追加]]></title>
+        <id>5cfe39d14bb714b358996e0126b7ebc69d7c6612</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/"/>
+        <updated>2022-06-03T16:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch は、Vended Logs の一部として AWS Elemental MediaTailor ログをサポートするようになりました。Vended logs は、AWS のサービスがお客様に代わってネイティブに発行する、AWS のサービスに関する特定のログであり、従量制割引料金で利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Transcribe が多言語音声の自動言語識別をサポート]]></title>
+        <id>53a29dc5535a6a6b7597456a09922a00ed3e292c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-transcribe-supports-automatic-language-identification-multi-lingual-audio/"/>
+        <updated>2022-06-03T16:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Transcribe は、音声をテキストに変換する機能をユーザーのアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。本日、バッチモードで多言語音声の自動言語識別に対応したことを発表します。音声録音に複数の言語が含まれている場合、多言語識別を有効にすると、音声ファイルで話されているすべての言語を識別し、識別された各言語を使用してトランスクリプトを作成することができます。これは、話し手が会話の途中で言語を変更した場合でも、または各参加者がそれぞれ異なる言語を話している場合でも、トランスクリプション出力が各言語を正しく検出して、書き起こすことを意味します。これまで、Transcribe は音声録音で主要な言語を検出し、識別された言語でトランスクリプトを生成していました。今後は、音声ファイルを提供するだけで、Transcribe が音声信号から言語を検出し、識別された言語でトランスクリプトを生成します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Proton がサービスコンポーネントを導入]]></title>
+        <id>62b504c4f14966606373365912849ec026802dd3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/"/>
+        <updated>2022-06-03T16:36:16.000Z</updated>
+        <summary type="html"><![CDATA[AWS Proton は、サービスコンポーネントを導入します。これは、デベロッパーが Proton テンプレートの標準インフラストラクチャをサービス用の追加リソースで補完できるようにする新機能です。プラットフォームエンジニアは、Proton を使用してサービスのコアインフラストラクチャを定義し、サービス全体で一貫性と最新の状態を維持します。そして今後、コンポーネントを使用することで、デベロッパーは、特定のアプリケーションのニーズを満たすために必要な追加のリソースで、そのコアインフラストラクチャを補完できるようになりました。Proton コンポーネントを使用すると、プラットフォームエンジニアは、管理するテンプレートの数を大幅に増やすことなく、サポートするユースケースを拡大できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 on Outposts が AWS PrivateLink をサポートし、バケットとアクセスポイントを管理できるようになりました]]></title>
+        <id>274c49d7a41d8856f25013be50803c74510d99db</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-s3-outposts-aws-privatelink-buckets-access-points/"/>
+        <updated>2022-06-03T16:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon S3 on Outposts は AWS PrivateLink をサポートし、仮想プライベートネットワーク内のプライベートエンドポイントから S3 on Outposts のストレージ容量を管理するために直接アクセスできるようになりました。これにより、仮想プライベートクラウド (VPC) 内でプライベート IP アドレスを使用することで、パブリック IP やプロキシサーバーを使用する必要がなくなり、内部ネットワークのアーキテクチャを簡素化して、S3 ストレージの管理操作を実行することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Pinpoint がジャーニーカスタムチャネル入力およびレスポンスサポートを開始]]></title>
+        <id>9e64e33798e00300890d2bf4f98da430c05c0c4f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-pinpoint-journey-custom-channel-input-response-support/"/>
+        <updated>2022-06-03T16:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Pinpoint ジャーニーには、データをカスタムチャネルに渡す機能が含まれるようになりました。また、レスポンスに基づいて yes/no または多変量分割を実行できるようになりました。Amazon Pinpoint のジャーニーは、価値の高いユーザーアクションを促進するターゲットを絞ったコミュニケーションを送信したいお客様向けに設計されました。ジャーニーには、カスタムチャネルアクティビティを含めることができます。これを使用して、Amazon Pinpoint がネイティブにサポートしていないチャネル (WhatsApp や Signal など) を介してメッセージを送信できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Location Service を利用した Amplify Geo (JavaScript) でのジオフェンス管理を発表]]></title>
+        <id>e7216c9092c1813568a19302202d0c22b20d020f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/"/>
+        <updated>2022-06-03T16:33:49.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amplify Geo の ジオフェンスの一般提供を開始したことを発表します。Amplify Geo を利用すると、フロントエンドの開発者がウェブアプリケーションに位置認識機能を追加できるようになります。地図上に幾何学的な境界線やジオフェンスを表示したい開発者は、Amazon Location Service を利用した Amplify Geo のクラウド接続型 UI ウィジェットと API を使って、数分で完全なジオフェンス管理ソリューションを実装できるようになりました。ジオフェンスは、地図上で関心のある場所やエリアの周囲に引くことができる幾何学的な境界線のことです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUSE Linux Enterprise Server (SLES) OS を搭載した Amazon EC2 インスタンスの価格を引き下げ]]></title>
+        <id>764e5d69b19d9f9a854afd4f6b468521eeee129c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/"/>
+        <updated>2022-06-03T16:32:59.000Z</updated>
+        <summary type="html"><![CDATA[SLES を実行する Amazon EC2インスタンスについて、以下の通り料金を引き下げましたのでお知らせいたします。Amazon EC2 上で SLES を実行する場合、Amazon EC2 インフラストラクチャと SUSE OS の合計料金 1 件が課金されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Storage Gateway ハードウェアアプライアンスが販売店から購入可能に]]></title>
+        <id>f604f29669c9b2822c304b2a1096b3bd39fdea30</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-storage-gateway-hardware-appliance-purchase-resellers/"/>
+        <updated>2022-06-03T16:32:11.000Z</updated>
+        <summary type="html"><![CDATA[AWS Storage Gateway は、AWS Storage Gateway ハードウェアアプライアンスの購入方法を拡大し、今回初めて販売店による提供を可能にしました。これにより、ハードウェアアプライアンスをご希望の販売店から調達し、既存の購入契約を活用することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Data Exchange for APIs の従量制課金を発表]]></title>
+        <id>a61d5b472fea7ac6b70b5bf9c7d6d7b67c16fedf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/metered-billing-aws-data-exchange-apis/"/>
+        <updated>2022-06-03T16:31:22.000Z</updated>
+        <summary type="html"><![CDATA[AWS Data Exchange for APIs の従量制課金の開始を発表しました。これにより、データプロバイダーは従量制で契約者に API のライセンスを提供できるようになります。AWS Data Exchange for APIs は、ユーザーが AWS Data Exchange に掲載されているサードパーティの API 製品を検索、登録、使用できるようにするものです。この新機能により、データ契約者は API を契約し、使用した分だけを支払うことができるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[広島大、食道がんの化学放射線治療効果を予測する機械学習モデル]]></title>
+        <id>https://www.technologyreview.jp/n/2022/06/03/277587/</id>
+        <link href="https://www.technologyreview.jp/n/2022/06/03/277587/"/>
+        <updated>2022-06-03T10:03:28.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Stimulusガイド 04: イベントリスナーの追加・削除はStimulusで行う（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465</id>
