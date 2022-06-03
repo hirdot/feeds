@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T02:33:30.520Z</updated>
+    <updated>2022-06-03T03:20:54.501Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[すべての質問には答えがある - 開発者にとって不可能とは]]></title>
+        <id>https://www.infoq.com/jp/news/2022/06/every-question-answer-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95</id>
+        <link href="https://www.infoq.com/jp/news/2022/06/every-question-answer-developers/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95"/>
+        <updated>2022-06-03T02:58:00.000Z</updated>
+        <summary type="html"><![CDATA[すべての質問には答がある、と我々は思いがちだ。しかしながら、現在時刻を知りたい時のように、必ずしもそれは真実ではない。開発者は、想定外の障害モードに対する認識を高め、障害の可能性を広く告知し、戻ることのない返答待ちからの復帰にタイムアウトを用いる必要がある。
+ By Ben Linders  Translated by h_yoshida _]]></summary>
+        <author>
+            <name>Ben Linders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Timestream が FedRAMP Moderate 準拠を獲得しました]]></title>
+        <id>43e7efb31718de1b418636a9658957015378085b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/"/>
+        <updated>2022-06-03T02:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Timestream が、米国東部 (オハイオ)、米国東部 (バージニア北部)、および米国西部 (オレゴン) の各 AWS リージョンにおいて 、FedRAMP Moderate の認証を受けました。Amazon Timestream をご利用のお客様は、今後、Amazon Virtual Private Cloud (Amazon VPC) 内にある各種のアプリケーションの時系列データを収集、保存、クエリ、可視化して、FedRAMP Moderate の管理に適合させることが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lookout for Metrics 用の Athena コネクタの発表]]></title>
+        <id>8149db37629dcdd3b8b18c79f2f3c682ad76667b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/"/>
+        <updated>2022-06-03T02:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lookout for Metrics から、Athena コネクタがリリースされました。これは、AWS のデータレイク、Amazon S3、Amazon Redshift などの各種データソースからデータをクエリし、そのデータを異常検出のために取り込むことを可能にする、Amazon Lookout for Metrics の新たなコネクタです。Athena コネクタにより、複雑な ETL ジョブの設定と、異常検出のためにデータを準備する時間が削減されます。お客様は、標準SQL を使用して大量のデータセットにクエリしょ、その結果を、異常検出に入力する手前で分析することができます。Athena コネクタは、CSV、JSON、ORC (Optimized Row Columnar)、Parquet、XML、プレインテキスト、および AVRO の各形式のデータをサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS WAF と AWS Shield Advanced がアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>e7aa39cb0736bbeb0c079497af0f887ef997e753</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-waf-aws-shield-advanced-available-asia-pacific-jakarta-region/"/>
+        <updated>2022-06-03T02:34:45.000Z</updated>
+        <summary type="html"><![CDATA[AWS WAF と AWS Shield Advanced が、アジアパシフィック (ジャカルタ) リージョンでも利用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EBS で、io2 Block Express 向けの Elastic Volumes および Fast Snapshot Restore (FSR) がサポートされるようになりました。]]></title>
+        <id>e7d3fb7fa178d0eceda9b8fe306598834bbec684</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/"/>
+        <updated>2022-06-03T02:33:57.000Z</updated>
+        <summary type="html"><![CDATA[今後は、Elastic Volumes を使用して、動的なキャパシティーの増加や io2 Block Express ボリュームのパフォーマンスの調整が行えるようになります。その際、ダウンタイムやパフォーマンスへの影響が発生することはなく、手法は他の EBS ボリュームと同様です。さらに、Fast Snapshot Restore (FSR) が有効化されたスナップショットから、完全に初期化済みの io2 Block Express ボリュームを作成することも可能になりました。FSR に対応したスナップショットから作成されたボリュームであれば、プロビジョニングされたパフォーマンスをすぐに発揮できます。これらの機能により、最高パフォーマンスの EBS ボリュームタイプ (io2 Block Express) が追加されることになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Cognito でアドバンストセキュリティ機能のためのリスク評価が改良されました]]></title>
+        <id>d002fba45608192b6b5019ff90ee73376b117227</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/"/>
+        <updated>2022-06-03T02:33:08.000Z</updated>
+        <summary type="html"><![CDATA[今回、 未認証呼び出し内の呼び出しコンテキストデータの一部として、IP アドレスをアプリケーションデベロッパーが Amazon Cognito に伝達できるようになりました。Amazon Cognito の アドバンストセキュリティ機能 (ASF) を有効にしておくことで、リスクの評価が強化され、サインアップ、アカウント確認、パスワード変更などの処理フロー内における、最終的な認証決定を向上することができます。今回の変更以前は、未認証の呼び出しがプロキシの背後から発信されている場合、これらの呼び出し内で、エンドユーザーの IP アドレスを使用することはできませんでした。今回のリリースの新機能により、アイデンティティマイクロサービスや、認証モジュール、そしてアイデンティティプロキシを構築しているデベロッパーは、API を利用してクライアントの IP アドレスを可視化できるようになります。このアドレスは、他のセキュリティアプリケーションで活用できるので、ユーザーによる特定のアクティビティのリスクをより良く把握することが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS DataSync に Amazon EFS のセキュリティ機能に関するサポートが追加されました]]></title>
+        <id>2c389d40374ebe817be17283b7e8aa5bfdb2b65c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/"/>
+        <updated>2022-06-03T02:32:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS DataSync に、Amazon Elastic File System (Amazon EFS) とデータをやり取りする際のセキュリティオプションが追加されました。AWS DataSync は、オンプレミス、エッジ、あるいはクラウドストレージと AWS ストレージサービス間でのデータの移動を簡素化、自動化、および高速化するオンラインデータ転送サービスです。Amazon EFS は、サーバーレスの完全に伸縮自在なファイルシステムで、AWS クラウドでのファイルストレージのセットアップ、スケーリング、およびコスト最適化を容易にします。今回 DataSync にリリースされた機能により、EFS アクセスポイントを使用してファイルシステムにアクセスしながら、特定のデータセットとの間で相互にデータをコピーできるようになります。TLS 暗号化を使用して DataSync を EFS ファイルシステムに接続するような設定も可能で、これにより、EFS との間でコピーするために移動中のデータに対する保護を、より強力なものにできます。さらに、定義した EFS ファイルシステムポリシーを使用する IAM ロールを、DataSync に適用する設定も可能で、DataSync のファイルシステムへのアクセス方法をより詳細に制御できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Well-Architected Tool から AWS re:Post コミュニティにアクセスする]]></title>
+        <id>07f339c075d735613d128ff2de5eca25126fbebf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-community-well-architected-tool/"/>
+        <updated>2022-06-03T02:31:27.000Z</updated>
+        <summary type="html"><![CDATA[今回、AWS Well-Architected Tool に、AWS re:Post への直接アクセスの機能が追加されました。re:Post は、質問に対する回答が得られるコミュニティ主導のサービスで 、AWS のお客様は技術的な障害を解決することで、イノベーションの加速と運用の強化が図れます。AWS re:Post では、コミュニティ固有のものから AWS Well-Architected に関するものまで、40 件を超えるトピックが扱われています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Resource Access Manager が ISO と SOC に準拠]]></title>
         <id>f643eb750a1bcdf42bbd46d01d35ce6c4bee7e32</id>
