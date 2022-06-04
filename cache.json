@@ -1514,66 +1514,6 @@
           "wordCount": 252,
           "title": "Amazon EKS が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "91ff9edad29ddf78f3c7253faceab855832744dc",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for PostgreSQL  のバージョン 11 以降が、M6i と R6i インスタンスをサポートするようになりました。M6i インスタンスは、Amazon EC2 x86 ベースの第 6 世代汎用コンピューティングインスタンスで、コンピューティング、メモリ、ストレージ、ネットワークリソースをバランスよく提供するように設計されています。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。M6i と R6i インスタンスはともに、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供することが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/",
-          "publishedOn": "2022-05-05T10:35:54.000Z",
-          "wordCount": 372,
-          "title": "Amazon RDS for PostgreSQL が、最大 128 vCPU と 1,024 GiB RAM の新しいインスタンスサイズを持つ M6i および R6i インスタンスをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2a6f50fc2952071073e786cc89bf64bbf4890342",
-          "author": "aws@amazon.com",
-          "description": "AWS Launch Wizard で新たに、SAP システムをデプロイするときに、将来のデプロイ用として、入力のクローンを作成できるようになりました。ほとんどのケースで、これらのパラメータの主なものは、デプロイ間で変化しません。今回のリリースで、後のデプロイ時にすべてのパラメータを手作業ですべて入力し直す必要がなくなり、時間を短縮し、デプロイごとに異なるわずかなパラメータに集中することでエラーを減らすことにつながります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/",
-          "publishedOn": "2022-05-05T10:35:05.000Z",
-          "wordCount": 243,
-          "title": "将来の SAP デプロイを簡略化するために、AWS Launch Wizard の入力のクローンを作成する",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "470c6c70e35257e279d544aeea50f5c52d86425c",
-          "author": "aws@amazon.com",
-          "description": "AWS Service Catalog で AWS クラウド開発キット (AWS CDK) の構成要素がご利用いただけるようになりました。Service Catalog の管理者は、AWS CloudFormation をデプロイする CDK アプリケーションでコードにカタログを定義できるようになりました。また、Amazon Simple Storage Service (Amazon S3) または AWS CodeCommit で最初に CloudFormation テンプレートをアップロードしたり、参照したりすることなく、CDK のコードで Service Catalog 製品をすべて定義することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/",
-          "publishedOn": "2022-05-05T10:33:47.000Z",
-          "wordCount": 310,
-          "title": "AWS Service Catalog で AWS クラウド開発キット (AWS CDK) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "20799cd045fff5fd9ee5acc5dfc298f459516154",
-          "author": "aws@amazon.com",
-          "description": "AWS Network Firewall で AWS Managed Threat Signatures のサポートが始まりました。この機能は脅威を検出し、既知の脆弱性に対する攻撃を阻止します。これにより、独自のルールを書いたり保守したりすることなく最新のセキュリティの脅威に対し、常に防御を固めることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/",
-          "publishedOn": "2022-05-05T10:32:59.000Z",
-          "wordCount": 280,
-          "title": "AWS Network Firewall で AWS Managed Threat Signatures のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "54bb8f236d66147e208f19080e360f8073e2510d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、Polly のポルトガル語 (ブラジル) の女性の音声合成 (TTS) 音声である 「Vitória」のニューラルバージョンの一般提供が開始されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/",
-          "publishedOn": "2022-05-05T10:32:11.000Z",
-          "wordCount": 253,
-          "title": "Amazon Polly が、ポルトガル語 (ブラジル) で新しいニューラル TTS 音声の提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b70ed2645eb11f63ed52bf76d4af201d8706f4ce",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS は Amazon Rekognition Streaming Video Events の一般提供開始を発表しました。本サービスは接続されたカメラから受信したライブの動画ストリーミングで、人、ペット、荷物などの対象を検出するために機械学習 (ML) を使用するカメラメーカーおよびサービスプロバイダー向けのフルマネージドサービスです。Amazon Rekognition Streaming Video Events は指定したオブジェクトがライブの動画ストリーミングで検出されるとすぐに、ユーザーに通知を送信します。このイベント通知機能を使用すると、サービスプロバイダーは「裏庭にペットがいます」などタイミングよく、有効なスマートアラートをユーザーに送信できます。また、人の動きが確認されたときに車庫の照明をつけるなどホームオートメーション、荷物に関する特定の動画イベントが何時間分もの記録をスクロールしないでも見つかるスマート検索などに活用することもできます。さらに、ドアの呼び鈴で宅配業者がパッケージを配達しているところが認識されたときに「荷物が表玄関に配達されました」など、Alexa の音声サポートと連動させるよう Echo デバイスにこれらのアラートを統合することも可能です。その一方で、コストとレイテンシーは低く抑えることができます。こちらより Amazon Rekognition Streaming Video Events についてさらに詳しくご覧いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/",
-          "publishedOn": "2022-05-05T10:31:18.000Z",
-          "wordCount": 288,
-          "title": "Amazon Rekognition でライブの動画ストリーミングにリアルタイムのアラートを出す Streaming Video Events の利用が開始に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
