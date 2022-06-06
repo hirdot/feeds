@@ -6,6 +6,116 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9bf28b4d2678aae44e9336a1cd9ce3f0a1aed1b6",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup は VMware ワークロード向け AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに VMware 環境から AWS Backup に直接アクセスできるようになりました。このリリースにより、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャをセキュアにできます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。AWS PrivateLink は、処理されるデータに対しては GB あたりの低料金でで、インターフェイス VPC エンドポイントに対しては時間単位の低料金でご利用いただけます。詳細については、AWS PrivateLink の料金を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/",
+          "publishedOn": "2022-06-06T19:18:37.000Z",
+          "wordCount": 284,
+          "title": "AWS Backup が VMware ワークロード向け AWS PrivateLink のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "27540c6d7cf17e2684967545ee0404e1d19fb1cc",
+          "author": "aws@amazon.com",
+          "description": "本日より、アマゾン ウェブ サービス (AWS) は、Amazon EC2 Hpc6a インスタンスの一般向けの提供を追加リージョンで開始したことをお知らせいたします。これらのインスタンスは、数値流体力学、貯留層モデル、気象シミュレーション、有限要素解析など、コンピューティングを多用する高性能コンピューティングワークロードを効率的に実行するように最適化されています。Hpc6a インスタンスは、同等の Amazon EC2 x86 ベースのコンピューティング最適化インスタンスよりも最大 65% 優れた料金パフォーマンスを提供します。Hpc6a インスタンスを使用すると、AWS の伸縮性とスケーラビリティを活用しながら、HPC ワークロードのコストを大幅に削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/",
+          "publishedOn": "2022-06-06T19:17:49.000Z",
+          "wordCount": 275,
+          "title": "Amazon EC2 Hpc6a および C6a インスタンスをご利用いただけるリージョンが増えました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "efb2e9be5c2ff8c4a5685b8d3048c17f42452bde",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup Audit Manager を使用すれば、お客様は Amazon S3 および AWS Storage Gateway のデータ保護ポリシーのコンプライアンスについて監査を実施したり、レポートを作成したりすることができます。AWS Backup Audit Manager を使用すると、Amazon S3 および AWS Storage Gateway リソースのバックアップアクティビティを継続的に評価し、組織のベストプラクティスや規制基準への準拠を実証するのに役立つ監査レポートを生成できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-audit-manager-adds-amazon-s3-storage-gateway/",
+          "publishedOn": "2022-06-06T19:16:58.000Z",
+          "wordCount": 303,
+          "title": "AWS Backup Audit Manager が Amazon S3 および AWS Storage Gateway のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e7b744901b87000bf42a7365ab6273b05184588f",
+          "author": "aws@amazon.com",
+          "description": "本日、ソウルの SK Telecom の 5G ネットワークにおける新しい AWS Wavelength Zone の提供を開始します。Wavelength Zone は、以前に発表されたテジョンの Wavelength Zone を含め、韓国内の 2 か所でご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-wavelength-zone-seoul/",
+          "publishedOn": "2022-06-06T19:16:10.000Z",
+          "wordCount": 253,
+          "title": "ソウルで新しい AWS Wavelength Zone を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7635113d56c92b33e8a23d117226429f05ec4d16",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra GitHub SaaS コネクタを使用して、GitHub Enterprise Cloud データソースからドキュメントのインデックスを作成したり、ドキュメントを検索したりできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/",
+          "publishedOn": "2022-06-06T17:06:39.000Z",
+          "wordCount": 257,
+          "title": "Amazon Kendra が GitHub SaaS コネクタをリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "57a5b222ffc078d416613ab49fd0293b911e9153",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、カスタムタスクテンプレートを作成できるようになりました。これにより、エージェントは、タスクを作成して完了するための適切な情報を簡単に取得できます。Amazon Connect Tasks を使用すると、すべてのコンタクトセンターエージェントタスクの優先順位付け、割り当て、完了までの追跡ができるようになります。これにより、エージェントの生産性が向上し、顧客の問題を迅速に解決できます。請求の問題や新しい保険金請求の調査など、さまざまなシナリオ用のテンプレートを簡単に作成できるため、エージェントは状況に最適なテンプレートを選択できます。例えば、請求に関する問い合わせを処理する場合、タスクテンプレートはデータを事前に入力し、問題の迅速な解決に向けて必要な追加情報を収集するためにエージェントをガイドできます。タスクテンプレートはすぐにサポートされます。Amazon Connect エージェントアプリケーションの手動設定は必要ありません。詳細については、「API リファレンスガイド」やヘルプドキュメントを参照してください。また、当社のウェブページにアクセスしてください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/",
+          "publishedOn": "2022-06-06T17:05:50.000Z",
+          "wordCount": 250,
+          "title": "Amazon Connect がエージェントタスクのカスタムテンプレートのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "19820d7b5890da259b99c1d6040964ab9cb2a6e3",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker JumpStart は、事前にトレーニングされたモデル、事前に構築されたソリューションテンプレート、およびサンプルノートブックからの Sagemaker Automatic Model Tuning によるモデルチューニングをサポートするようになりました。つまり、お客様は機械学習モデルを自動的にチューニングして、お客様が SageMaker API を通じて提供する範囲内において、最高の精度でハイパーパラメータ値を見つけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/",
+          "publishedOn": "2022-06-06T17:05:00.000Z",
+          "wordCount": 252,
+          "title": "SageMaker JumpStart が自動チューニングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "48cf764d37d43dd076a7a10f4dd3a84b12f06e97",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK により、デベロッパーは WebRTC セッション内で音声、動画、および画面共有を送受信する各参加者の機能を一元的に制御できるようになりました。Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。出席者機能の強制適用は WebRTC セッションで一元化されるため、デベロッパーはクライアントアプリケーション内のロジックに依拠する必要がありません。これは、古いバージョンでは有効ではなくなっている可能性があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-centralized-attendee-controls/",
+          "publishedOn": "2022-06-06T17:04:10.000Z",
+          "wordCount": 243,
+          "title": "Amazon Chime SDK が一元化された参加者コントロールのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "63d5fafe59ab0b26f7518a3ca8837bfadbe74ace",
+          "author": "aws@amazon.com",
+          "description": "AWS Panorama のお客様は AWS PrivateLink を使って、パブリックエンドポイントを使用せずに Amazon Virtual Private Cloud (Amazon VPC) から AWS Panorama にアクセスできるようになりました。トラフィックがインターネットを経由する必要はありません。AWS PrivateLink を使用すると、トラフィックを AWS のネットワーク内に保つことにより、簡単かつ安全に AWS Panorama エンドポイントにアクセスでき、内部ネットワークアーキテクチャを簡素化します。また、AWS Panorama に接続するためにインターネットゲートウェイ、ネットワークアドレス変換 (NAT) デバイス、またはファイアウォールプロキシを使用する必要がなくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/",
+          "publishedOn": "2022-06-06T17:03:05.000Z",
+          "wordCount": 302,
+          "title": "AWS Panorama 向けの AWS PrivateLink のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3ecd890e5f9621e34cb1b07b91efd90309020470",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect は、別のフロー、エージェントキュー、または利用可能なエージェントに対するディストリビューションのための共有キューに、プログラムを使用してタスクを転送するための TransferContact API を提供するようになりました。Amazon Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。この API を使用して、コンタクトセンターのマネージャーは、速やかな解決のために、カスタム分析ダッシュボードからタスクを直接転送できるようになりました。Connect Flows を使用して、エージェントのスキルセット、可用性、タスクに関する情報 (タイプ、優先度/緊急度、カテゴリなど) に基づいて、タスクに動的に優先順位を付けて、割り当てることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/",
+          "publishedOn": "2022-06-06T17:02:10.000Z",
+          "wordCount": 256,
+          "title": "Amazon Connect がプログラムを使用してタスクを転送するための API をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0bb03a6685956e05489ee96d57707475c3a826e9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra GitHub OnPrem コネクタを使用して、GitHub Enterprise Server データソースからドキュメントのインデックスを作成したり、ドキュメントを検索したりできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-kendra-github-onprem-connectors/",
+          "publishedOn": "2022-06-06T17:01:22.000Z",
+          "wordCount": 257,
+          "title": "Amazon Kendra が GitHub OnPrem コネクタをリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "23a1855762c536be18ab727cb1b71e110c67f367",
           "author": "aws@amazon.com",
           "description": "ボタンをクリックするだけで、Amazon FSx for OpenZFS ファイルシステムのストレージや IOPS キャパシティを更新できるようになり、進化するストレージとパフォーマンスのニーズにさらに簡単に適応できるようになりました。",
@@ -2400,6 +2510,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_06/118470",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220606_eyecatch-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 参考: 犬・猫へのマイクロチップ埋め込み義務化　きょうから　無責任な飼育の抑止など見込む &#8211; ITmedia NEWS つっつきボイス:「今度から有料でチップ装着と情報登録が義務付けられるんですよ: 私も飼ってて自分は前から実施してますけど」「施行ということは前から決まってたんですね」「チップそのものは15桁の番号のみで、電波から給電するのか」「チップは単なるIDタグで、情報は別途登録してそちらで紐付ける感じ」 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRails [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_06/118470\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: BasecampのHotwireページネーション、Query Object、Lograge gemほか（20220606前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_06/118470",
+          "publishedOn": "2022-06-06T10:00:34.000Z",
+          "wordCount": 1129,
+          "title": "週刊Railsウォッチ: BasecampのHotwireページネーション、Query Object、Lograge gemほか（20220606前編）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220606_eyecatch.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus_add_delete_event_listeners_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Events &#8211; Better StimulusJS 原文更新日: 2021/07/16 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 1. マークアップにグローバルなイベントを登録する Bad connect() { document.addEventListener(...); } Good &#60;div data-controller=\"gallery\" data-action=\"resize@win [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465\" data-wpel-link=\"internal\" target=\"_self\">Better Stimulusガイド 04: イベントリスナーの追加・削除はStimulusで行う（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -2636,6 +2756,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/open_hybrid_cloud_week_2022pr.html",
+          "author": null,
+          "description": "クラウドを用いたシステム開発や運用が多くの企業やビジネスにとって当たり前になりつつある現在、開発やテストはPCやオンプレミスで、運用はクラウドで行う、あるいはオンプレミスのシステムをクラウドと連携させるなど、さまざまなプラットフォームを連携...",
+          "link": "https://www.publickey1.jp/blog/22/open_hybrid_cloud_week_2022pr.html",
+          "publishedOn": "2022-06-06T16:22:38.000Z",
+          "wordCount": 248,
+          "title": "オープンなハイブリッドクラウドの実現は、システムの開発と運用、ビジネスを変革する。Open Hybrid Cloud Week 2022［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/rhopenhybridcloudwk01.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/angular_14typed_angular_formsstandalone_components.html",
+          "author": null,
+          "description": "Webアプリケーションフレームワーク「Angular」の最新版となる「Angular 14」が正式にリリースされました。 Angular v14 is here#ngUpdate includes:Strictly typed forms!...",
+          "link": "https://www.publickey1.jp/blog/22/angular_14typed_angular_formsstandalone_components.html",
+          "publishedOn": "2022-06-06T16:19:33.000Z",
+          "wordCount": 231,
+          "title": "Angular 14正式リリース。Typed Angular FormsやStandalone Componentsなど新機能",
+          "imageUrl": "https://www.publickey1.jp/2022/angular14.gif"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/itjenkinsdevops_days_tokyo_2022_1.html",
           "author": null,
@@ -3193,6 +3333,46 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=277374",
+          "author": "Abby Ohlheiser",
+          "description": "妊娠中絶の権利を認めた米国最高裁の判断が覆される可能性が明らかとなり、波紋を呼んでいる。中絶反対派の活動家たちは、中絶を受け入れるクリニックの駐車場の入口に陣取り、やって来る自動車のナンバー・プレートを撮影しており、こうした活動がますます過激化する恐れがある。",
+          "link": "https://www.technologyreview.jp/s/277374/anti-abortion-activists-are-collecting-the-data-theyll-need-for-prosecutions-post-roe/",
+          "publishedOn": "2022-06-06T21:58:55.000Z",
+          "wordCount": 732,
+          "title": "米「反中絶」団体のハイテク監視、最高裁判決で過激化のリスク",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/31174507/PXL_20210405_141216176.MP_-590x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/06/277766/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/07/277766/",
+          "publishedOn": "2022-06-06T21:57:02.000Z",
+          "wordCount": 347,
+          "title": "12カ月後でも3分の1に症状残る、慶應大が新型コロナで大規模調査",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/06/277764/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/07/277764/",
+          "publishedOn": "2022-06-06T21:55:32.000Z",
+          "wordCount": 349,
+          "title": "がんの有無を示す「DNA液滴コンピューター」、東工大など開発",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=272809",
+          "author": "Adi Renaldi",
+          "description": "Yコンビネーターのサム・アルトマンが共同創業者に名を連ね、シリコンバレーのベンチャー・キャピタルが出資する「ワールドコイン」は、富の再配分を謳い、暗号通貨と引き換えに途上国でおよそ45万人分の生体認証データを集めている。だがその実態はお粗末なものだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/272809/deception-exploited-workers-and-cash-handouts-how-worldcoin-recruited-its-first-half-a-million-test-users/",
+          "publishedOn": "2022-06-06T21:10:20.000Z",
+          "wordCount": 606,
+          "title": "暗号資産で「お金配り」、 45万人の生体データ集めた ワールドコインの残念な実態",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/07011503/MJ22-worldcoin-orb3-1400x787.jpg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=276475",
           "author": "Mat Honan",
@@ -4052,16 +4232,6 @@
           "wordCount": 695,
           "title": "メタ、「GPT-3並み」の大規模言語モデルを研究者向けに無償提供",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/03231505/tiles2-1-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=274449",
-          "author": "Tisya Mavuram",
-          "description": "銀行などの既存の金融機関よりも低金利で借りられることが多い非中央集権型金融（DeFi）ローンが注目されている。だが、メリットの裏にはリスクもある。DeFiは今後の主流となれるのだろうか。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/274449/can-the-blockchain-reduce-student-loan-debt/",
-          "publishedOn": "2022-05-08T00:34:30.000Z",
-          "wordCount": 534,
-          "title": "ブロックチェーン金融「DeFi」は銀行に代わる選択肢になるか？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/25181504/MJ22-loans-01-1376x787.png"
         }
       ]
     }
