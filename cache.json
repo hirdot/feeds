@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "751731888e31543f64512de5ea58b333b33ad05f",
+          "author": "aws@amazon.com",
+          "description": "AWS GovCloud (米国) リージョンで Amazon Elastic Kubernetes Service (EKS) クラスターのプライベート Kubernetes API サーバーエンドポイントを解決できるようになりました。これにより、AWS Direct Connect や VPC ピアリングなどの AWS のサービスを使用する場合を含め、VPC 内でのみアクセス可能な EKS クラスターに簡単に接続できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/",
+          "publishedOn": "2022-06-07T03:32:43.000Z",
+          "wordCount": 278,
+          "title": "Amazon EKS が AWS GovCloud (米国) リージョンのクラスタープライベートエンドポイントの DNS 解決のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5519e2d0576574918ede124ac10992191644a641",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lookout for Metrics は、Amazon CloudWatch をデータソースコネクタとして使用する際のバックテストのリリースを発表しました。バックテストは、ディテクターを設定するときに選択できる新しい異常検出モードです。選択したメトリクスやディメンション、そして名前空間に関する高精度の異常検出機能をセットアップするために、CloudWatch 内のデータにシームレスに接続できます。Amazon Lookout for Metrics では、機械学習 (ML) を活用して異常 (標準値からの逸脱) の自動検出と診断を行います。機械学習に関する事前の経験は不要です。Amazon CloudWatch は、アプリケーションのモニタリング、システム全体におけるパフォーマンスの変化への対応、リソース使用状況の最適化、および運用上のヘルスの統一ビューの取得のための、実用的なインサイトを提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/",
+          "publishedOn": "2022-06-07T03:31:47.000Z",
+          "wordCount": 247,
+          "title": "Amazon Lookout for Metrics で CloudWatch の履歴データに対する異常検出が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9bf28b4d2678aae44e9336a1cd9ce3f0a1aed1b6",
           "author": "aws@amazon.com",
           "description": "AWS Backup は VMware ワークロード向け AWS PrivateLink のサポートの提供を開始しました。これにより、仮想プライベートネットワーク内のプライベートエンドポイントを介して、スケーラブルに VMware 環境から AWS Backup に直接アクセスできるようになりました。このリリースにより、Amazon Virtual Private Cloud (VPC) のプライベート IP アドレスを使用して AWS Backup に接続することで、ネットワークアーキテクチャをセキュアにできます。これにより、パブリック IP、ファイアウォールルール、またはインターネットゲートウェイを使用する必要がなくなります。AWS PrivateLink は、処理されるデータに対しては GB あたりの低料金でで、インターフェイス VPC エンドポイントに対しては時間単位の低料金でご利用いただけます。詳細については、AWS PrivateLink の料金を参照してください。",
@@ -3155,26 +3175,6 @@
           "wordCount": 223,
           "title": "「PyScript」はJavaScriptのようにPythonコードをHTML内に記述して実行可能、Anacondaがオープンソースで公開",
           "imageUrl": "https://www.publickey1.jp/2022/i23zGE0I.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/github22023.html",
-          "author": null,
-          "description": "GitHubは、GitHub.comにおけるコードのコントリビュータ全員に対して、2023年末までに二要素認証を義務化することを発表しました。 Securing the software supply chain begins with t...",
-          "link": "https://www.publickey1.jp/blog/22/github22023.html",
-          "publishedOn": "2022-05-08T15:59:48.000Z",
-          "wordCount": 241,
-          "title": "GitHub、コードのコントリュビュータに2要素認証を義務化、2023年末までに。パスワードレスへの対応も積極化",
-          "imageUrl": "https://www.publickey1.jp/2022/8gLLOi6F.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/applegoogle2_pcbluetooth2.html",
-          "author": null,
-          "description": "インターネットにおけるパスワードレスの実現を推進する「FIDO Alliance」は、 Apple、Google、マイクロソフトの3社が、同団体が推進するパスワードレス認証のサポートを拡大すると発表しました。 Today, we are e...",
-          "link": "https://www.publickey1.jp/blog/22/applegoogle2_pcbluetooth2.html",
-          "publishedOn": "2022-05-08T15:52:05.000Z",
-          "wordCount": 259,
-          "title": "Apple、Google、マイクロソフトが対応表明した、パスワードレスがさらに便利になる2つの新機能とは。 PCがスマホとBluetooth通信でパスワード不要に、2台目のスマホにもクレデンシャルを簡単リストア",
-          "imageUrl": "https://www.publickey1.jp/2022/fido_applegooglems_i.gif"
         }
       ]
     },

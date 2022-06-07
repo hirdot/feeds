@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-07T03:24:21.510Z</updated>
+    <updated>2022-06-07T04:06:04.435Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS が AWS GovCloud (米国) リージョンのクラスタープライベートエンドポイントの DNS 解決のサポートを開始]]></title>
+        <id>751731888e31543f64512de5ea58b333b33ad05f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/"/>
+        <updated>2022-06-07T03:32:43.000Z</updated>
+        <summary type="html"><![CDATA[AWS GovCloud (米国) リージョンで Amazon Elastic Kubernetes Service (EKS) クラスターのプライベート Kubernetes API サーバーエンドポイントを解決できるようになりました。これにより、AWS Direct Connect や VPC ピアリングなどの AWS のサービスを使用する場合を含め、VPC 内でのみアクセス可能な EKS クラスターに簡単に接続できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Lookout for Metrics で CloudWatch の履歴データに対する異常検出が可能に]]></title>
+        <id>5519e2d0576574918ede124ac10992191644a641</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/"/>
+        <updated>2022-06-07T03:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lookout for Metrics は、Amazon CloudWatch をデータソースコネクタとして使用する際のバックテストのリリースを発表しました。バックテストは、ディテクターを設定するときに選択できる新しい異常検出モードです。選択したメトリクスやディメンション、そして名前空間に関する高精度の異常検出機能をセットアップするために、CloudWatch 内のデータにシームレスに接続できます。Amazon Lookout for Metrics では、機械学習 (ML) を活用して異常 (標準値からの逸脱) の自動検出と診断を行います。機械学習に関する事前の経験は不要です。Amazon CloudWatch は、アプリケーションのモニタリング、システム全体におけるパフォーマンスの変化への対応、リソース使用状況の最適化、および運用上のヘルスの統一ビューの取得のための、実用的なインサイトを提供します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フロント、食事提供、清掃、そしてITも「おもてなし」 星野リゾートが描く「全社員IT人材化計画」の本質]]></title>
         <id>https://data.wingarc.com/?p=42573</id>
@@ -5214,26 +5234,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://www.publickey1.jp/blog/22/pyscriptjavascriptpythonhtmlanaconda.html"/>
         <updated>2022-05-08T16:06:13.000Z</updated>
         <summary type="html"><![CDATA[Pythonの主要なディストリビューション「Anaconda」などを提供しているAnaconda社は、HTML文書の中にJavaScriptと同じようにPythonのコードを記述し、実行可能にする「PyScript」をオープンソースで公開し...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub、コードのコントリュビュータに2要素認証を義務化、2023年末までに。パスワードレスへの対応も積極化]]></title>
-        <id>https://www.publickey1.jp/blog/22/github22023.html</id>
-        <link href="https://www.publickey1.jp/blog/22/github22023.html"/>
-        <updated>2022-05-08T15:59:48.000Z</updated>
-        <summary type="html"><![CDATA[GitHubは、GitHub.comにおけるコードのコントリビュータ全員に対して、2023年末までに二要素認証を義務化することを発表しました。 Securing the software supply chain begins with t...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、Google、マイクロソフトが対応表明した、パスワードレスがさらに便利になる2つの新機能とは。 PCがスマホとBluetooth通信でパスワード不要に、2台目のスマホにもクレデンシャルを簡単リストア]]></title>
-        <id>https://www.publickey1.jp/blog/22/applegoogle2_pcbluetooth2.html</id>
-        <link href="https://www.publickey1.jp/blog/22/applegoogle2_pcbluetooth2.html"/>
-        <updated>2022-05-08T15:52:05.000Z</updated>
-        <summary type="html"><![CDATA[インターネットにおけるパスワードレスの実現を推進する「FIDO Alliance」は、 Apple、Google、マイクロソフトの3社が、同団体が推進するパスワードレス認証のサポートを拡大すると発表しました。 Today, we are e...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
