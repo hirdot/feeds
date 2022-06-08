@@ -1424,106 +1424,6 @@
           "wordCount": 293,
           "title": "Amazon SageMaker Data Wrangler がインタラクティブなデータ準備のための追加の M5 および R5 インスタンスのサポートを提供",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "142e3eb329c4444c42ce9d42a279b6cf56e8964e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。本日より、カスタム語彙を作成することによって、入力音声の処理方法について、Amazon Lex に追加情報を提供できます。カスタム語彙とは、認識が比較的困難なドメイン固有の用語または聞きなれない単語 (例えば、ブランド名、製品名) のリストです。そのようなリストを作成し bot 定義に追加すると、Amazon Lex はユーザーの意向を識別したり会話の情報を収集したりするときにそれらの言葉を利用できるようになります。これにより、音声認識を強化し、エンドユーザーのエクスペリエンスを改善できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lex-supports-custom-vocabulary/",
-          "publishedOn": "2022-05-09T20:23:32.000Z",
-          "wordCount": 235,
-          "title": "Amazon Lex でカスタム語彙のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f19e8c8aa7f5216c40795824ef56cd33e6ca7d7d",
-          "author": "aws@amazon.com",
-          "description": "AWSが提供する量子コンピュータサービス Amazon Braket は、お客様が量子コンピュータを用いた科学研究やソフトウェア開発を容易に行えるように設計されています。本日、量子コンピューティングと古典コンピューティングを組み合わせてハイブリッドなアルゴリズムを探求する機能である Amazon Braket Hybrid Jobs が、組み込み用回路シミュレーターをサポートし、性能を最大10倍以上向上させたことを発表します。量子シミュレーターを古典アルゴリズムに近づけることで、Braket 社 のオンデマンド回路シミュレーターを使用する場合と比較して、シミュレータのラウンドトリップ時間を短縮できます。この新機能により、比較的少数の量子ビット（通常は最大25量子ビット）しか使用しない量子シミュレーションタスクを大量に実行する際の性能ボトルネックを軽減するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-braket-hybrid-jobs-embedded-circuit-simulations-quantum-classical-algorithms-10x/",
-          "publishedOn": "2022-05-09T20:22:45.000Z",
-          "wordCount": 265,
-          "title": "Amazon Braket Hybrid Jobs は、組み込み回路シミュレーションをサポートするようになり、特定のハイブリッド量子古典アルゴリズムのパフォーマンスを 10 倍以上向上させました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6a66c82f0b57171e99b1cebf31edbb7129a5b88a",
-          "author": "aws@amazon.com",
-          "description": "新しい Amazon ElastiCache コンソールは、よりシンプルなナビゲーションとより豊富なコンテキスト情報によって、ElastiCacheリソースを直感的に管理する方法を提供します。新しいコンソールは、他の AWS のサービスコンソールと、より一貫したルックアンドフィールを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-elasticache-console-available/",
-          "publishedOn": "2022-05-09T20:21:49.000Z",
-          "wordCount": 234,
-          "title": "新しい Amazon ElastiCache コンソールが利用可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7f09fd2fb47f2764378df94253a439170e204e30",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Canvas は、ビジュアルなポイントアンドクリック式のインターフェースで、 ビジネスアナリストが機械学習の経験を持たずに、また一行のコードも書き込まなくても、正確なML予測を自分で生成できるようにします。SageMaker Canvasは、様々なソースからデータにアクセスしてそれらを組み合わせ、データを自動的にクリーニングして様々なデータ調整を施し、数クリックで正確な予測を生成するMLモデルを簡単に構築することができる製品です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/",
-          "publishedOn": "2022-05-09T20:21:01.000Z",
-          "wordCount": 240,
-          "title": "Amazon SageMaker Canvas に新しいデータ準備機能と使いやすさの更新を追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d73930cbcfe89f015a9c5620de630d883dc33381",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect で顧客のサービスコール 1 つにつき 6 人までの参加者をサポート開始しました。問い合わせを効率よく解決するために必要なすべての関係者を追加できます。例えば、金融サービス企業のエージェントは、抵当の取引き締結を進めるため、抵当のブローカー、顧客の配偶者、翻訳者、コールの監督者を追加して、問題を迅速に解決するのに役立てることができます。この機能はすぐに利用でき、AWS コンソールで有効化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/",
-          "publishedOn": "2022-05-09T20:20:12.000Z",
-          "wordCount": 236,
-          "title": "Amazon Connect で顧客のサービスコール 1 つにつき 6 人までの参加者をサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2f6d938e9702ba3e840ec3d31b521cab9a62ea3c",
-          "author": "aws@amazon.com",
-          "description": "AWS Panorama を搭載した Lenovo ThinkEdge SE70 デバイスが販売されました。既存の AWS Panorama アプライアンスに加え、Lenovo ThinkEdge SE70 デバイスは、AWS Panorama を使用したコンピュータビジョンのユースケースにおいて、価格と性能の面で新たな選択肢をお客様に提供します。お客様は AWS Panorama Partners と協力して、輸送、物流、産業、ホスピタリティなどの業界全体で CV ユースケースに対応した様々なソリューションを構築することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/",
-          "publishedOn": "2022-05-09T20:19:24.000Z",
-          "wordCount": 289,
-          "title": "AWS Panorama を搭載した Lenovo ThinkEdge SE70 デバイスが販売されました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7851e8abd2c35a60d1698ae682bd0ad1b9e27f18",
-          "author": "aws@amazon.com",
-          "description": "Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が行われました。Amazon RDS for SQL Server はExpress、Web、Standard、Enterprise Editionにおいて、Microsoft SQL Server 2016、2017、2019の新マイナーバージョンに対応するようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/",
-          "publishedOn": "2022-05-09T20:18:35.000Z",
-          "wordCount": 291,
-          "title": "Amazon RDS for SQL Server は、SQL Server 2016 SP3、2017 CU27、および 2019 CU15 のサポートを開始しました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f9dc676766e6f07f071262f8ded16021ed5a5d1d",
-          "author": "aws@amazon.com",
-          "description": "Amazon Interactive Video Service (Amazon IVS) は、アルゼンチンとチリで初となる PoP (Point of Presence) をブエノスアイレスとサンティアゴに設置したことを発表しました。この新しいエッジロケーションにより、アルゼンチンとチリに拠点を置くストリーマーや視聴者は、短いレイテンシーで、より良質の動画を、より多くの容量で楽しめるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/",
-          "publishedOn": "2022-05-09T20:17:47.000Z",
-          "wordCount": 260,
-          "title": "Amazon Interactive Video Service では、アルゼンチンとチリののエッジロケーションが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "19ade2ebc1acec87236270fe1d8e09a2405fc71f",
-          "author": "aws@amazon.com",
-          "description": "AWS アジアパシフィック (ジャカルタ) リージョンで AWS Lambda のお客様は、Amazon Elastic File System (Amazon EFS) にアクセスする関数を有効にできるようになりました。Amazon EFS に対する AWS Lambda サポートにより、お客様は関数呼び出し間でデータを簡単に共有し、大きな参照データファイルを読み取り、永続的で共有されたデータストアに関数出力を書き込むことができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-05-09T20:16:56.000Z",
-          "wordCount": 253,
-          "title": "アジアパシフィック (ジャカルタ) リージョンで Amazon Elastic File System に対する AWS Lambda サポートが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "406587420490ad0e1a2085ee661956d02c3c72f1",
-          "author": "aws@amazon.com",
-          "description": "AWS Service Catalogプロビジョニングのコンストラクトは、AWS クラウド開発キット (AWS CDK) 用に提供され、ビルダーが、承認されたService Catalog製品からクラウドリソースをプロビジョニングするアプリケーションインフラストラクチャストラクチャを、コードを用いて作成することができるようになりました。サービスカタログのビルダーは、TypescriptやPythonなどの使い慣れたプログラミング言語で承認されたコンストラクトを使用して、統合開発環境上で直接AWS CDKアプリケーションを作成することができるようになりました。cdk-import を使用すると、ビルダーは、AWS Service Catalog製品のプロビジョンライブラリにローカル開発環境でアクセスでき、管理者が設定したガバナンスが自動的に組みこまれたプロビジョニングコンストラクトを利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/",
-          "publishedOn": "2022-05-09T20:16:09.000Z",
-          "wordCount": 271,
-          "title": "AWS クラウド開発キット (AWS CDK) 用の AWS Service Catalog プロビジョニングコンストラクトが利用可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2440,6 +2340,16 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_08/118447",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/ruby31_variable_width_allocation_for_string-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Ruby 3.1 introduces Variable Width Allocation for Strings &#124; Saeloun Blog 原文公開日: 2022/04/19 原著者: Murtaza Bagwala サイト: Saeloun Blog Rubyのメモリ管理方法2: Ruby 3.1の文字列の可変幅アロケーション（翻訳） 本記事は第1回の続編です。今回はRubyのメモリ管理における可変幅アロケーション（Variable Width Allocation: VWA）の仕組みと、可変幅アロケーションがRubyのメモリパフォーマンスをどの [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_08/118447\" data-wpel-link=\"internal\" target=\"_self\">Rubyのメモリ管理方法2: Ruby 3.1の文字列の可変幅アロケーション（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_08/118447",
+          "publishedOn": "2022-06-08T08:30:27.000Z",
+          "wordCount": 401,
+          "title": "Rubyのメモリ管理方法2: Ruby 3.1の文字列の可変幅アロケーション（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/ruby31_variable_width_allocation_for_string-min.png"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_07/118506",
           "author": null,
@@ -4122,16 +4032,6 @@
           "publishedOn": "2022-05-09T21:46:57.000Z",
           "wordCount": 353,
           "title": "地球温暖化が台風豪雨の頻度に影響、東大などが証明",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/05/09/275527/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/05/10/275527/",
-          "publishedOn": "2022-05-09T20:55:19.000Z",
-          "wordCount": 353,
-          "title": "阪大がメモリスター人工シナプス素子を開発、脳・神経系に近づく",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
