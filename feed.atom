@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-08T09:00:47.736Z</updated>
+    <updated>2022-06-08T10:00:53.936Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -1349,6 +1349,17 @@
         <updated>2022-05-31T10:06:54.000Z</updated>
         <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220531_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_31/118281" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Railsコミュニティアンケート結果発表、書籍『Sustainable Web Development with Ruby on Rails』ほか（20220531）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: ビューのHTMLエスケープは#link_toなどのヘルパーメソッドで解除されることがある]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_05_31/25326</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_05_31/25326"/>
+        <updated>2022-05-31T08:31:23.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2016/08/rails_html_escape_eyecatch-min-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2016/08/31: 初版公開 2022/05/31: 更新 こんにちは、hachi8833です。 ここでは次のような結果を期待していました。以下コード中の&#38;は、エスケープを表示するために全角の&#38;にしています。 &#60;%= link_to '#', data: {key: '&#60;span&#62;piyopiyo&#60;/span&#62;'} %&#62; &#60;!-- 元のERBコード --&#62; &#60;a href="#" data-key="＆lt;span＆gt;piyopiyo＆lt;/span\＆gt;"&#62; &#60;!-- 期待するHTML出力 --&#62;  [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_31/25326" data-wpel-link="internal" target="_self">Rails: ビューのHTMLエスケープは#link_toなどのヘルパーメソッドで解除されることがある</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
         </author>
@@ -4851,25 +4862,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_10/117706" data-wpel-link="internal" target="_self">Rails 7.0.3、6.1.6、6.0.5、5.2.8がリリースされました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二酸化炭素でエネルギー貯蔵、伊スタートアップが実証へ]]></title>
-        <id>https://www.technologyreview.jp/?p=275138</id>
-        <link href="https://www.technologyreview.jp/s/275138/this-company-wants-to-use-carbon-dioxide-to-store-renewable-power-on-the-grid/"/>
-        <updated>2022-05-09T21:57:39.000Z</updated>
-        <summary type="html"><![CDATA[イタリアのスタートアップ企業は、二酸化炭素を利用してエネルギーを貯蔵する実証プラントを立ち上げている。どこにでも設置できる安価なエネルギー貯蔵システムは、再生可能エネルギーの新しい可能性を切り開くかもしれない。]]></summary>
-        <author>
-            <name>Casey Crownhart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球温暖化が台風豪雨の頻度に影響、東大などが証明]]></title>
-        <id>https://www.technologyreview.jp/n/2022/05/09/275525/</id>
-        <link href="https://www.technologyreview.jp/n/2022/05/10/275525/"/>
-        <updated>2022-05-09T21:46:57.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
