@@ -6,6 +6,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "cbbf04d4d73ecc414c640e5f188e4c0134943825",
+          "author": "aws@amazon.com",
+          "description": "AWS DeepRacer Multi-user モードは、組織が 1 つの AWS アカウントで複数の AWS DeepRacer 参加者を後援するためのエキサイティングな方法を提供します。これまで、AWS DeepRacer のイベント主催者は、参加者の予算とコントロールを事前に設定し、使用状況をモニタリングして予算を維持、モニタリング、管理する方法が不足していました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-deepracer-quota-management/",
+          "publishedOn": "2022-06-08T02:37:29.000Z",
+          "wordCount": 237,
+          "title": "AWS DeepRacer がクォータ管理を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a1e5f8eb3d0f0c534d0b2c32691730493ab2bfaf",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK メッセージングを使用すると、デベロッパーはビジネスユーザーとその顧客をウェブおよびモバイルアプリケーションで安全かつスケーラブルなメッセージングに接続できます。本日より、デベロッパーは、特定のチャネルを検索する機能を提供する新しい API にアクセスできるようになりました。また、アプリケーションを開くときに、ユーザーの注意が必要なメッセージングチャネルを表示するためにクライアントが接続する際、情報を自動的にプリフェッチします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/",
+          "publishedOn": "2022-06-08T02:36:40.000Z",
+          "wordCount": 261,
+          "title": "Amazon Chime SDK がメッセージング会話 API を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5c47271220993941b6dcda7edbecf8eceabab79a",
+          "author": "aws@amazon.com",
+          "description": "MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.38 および 8.0.29 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/",
+          "publishedOn": "2022-06-08T02:35:03.000Z",
+          "wordCount": 265,
+          "title": "Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.38 および 8.0.29) のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ba3d6a3b52d378ac3c50a40d60368e363e6d0d4a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize は、スペイン語、ドイツ語、フランス語、ポルトガル語、中国語 (簡体字および繁体字)、日本語の 6 つの新しい言語で非構造化テキストをサポートするよう拡張しました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。昨年、Amazon Personalize は英語の非構造化テキストのサポートを開始しました。これにより、お客様は、製品の説明、レビュー、映画のあらすじ、または他の非構造化テキストに存在する情報を活用して、ユーザーのために関連性の高いレコメンデーションを生成できます。Amazon Personalize は、このサポートを 6 つの新しい言語の非構造化テキストに拡張しました。これにより、グローバルカタログをご利用のお客様がこの機能を使用できるようになりました。お客様がカタログの一部として非構造化テキストを提供すると、Amazon Personalize が最先端の自然言語処理 (NLP) 技術を活用してアイテムに関する重要な情報を自動的に抽出し、ユーザーのためにレコメンデーションを生成する際に利用します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/",
+          "publishedOn": "2022-06-08T02:34:16.000Z",
+          "wordCount": 241,
+          "title": "Amazon Personalize が 6 つの新しい言語で非構造化テキストのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "941cdd6f2fb2352c2572108f9465d6407b5f4cb2",
+          "author": "aws@amazon.com",
+          "description": "Amazon AppStream 2.0 では、汎用インスタンスファミリーに新しいインスタンスサイズ stream.standard.xlarge、stream.standard.2xlarge を追加しました。stream.standard.xlarge では 4vCPU と 16 GiB メモリ、 stream.standard.2xlarge では 8v CPU と 32 GiB メモリのインスタンスを提供します。これらの新しいインスタンスは、効率的に運用するためにより多くのシステムリソースを必要とする多様なワークロードに対して、コンピューティング、メモリ、ネットワークリソースのより高いパフォーマンスのオプションを提供します。例えば、統合開発環境、ウェブサーバー、コードリポジトリなどが挙げられます。新しいインスタンスサイズは、AppStream のすべてのフリートタイプ (Always-On、On-Demand、Elastic) で利用可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/",
+          "publishedOn": "2022-06-08T02:33:28.000Z",
+          "wordCount": 278,
+          "title": "Amazon AppStream 2.0 が、汎用インスタンスファミリーにより大きなインスタンスサイズを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e59afcef6ea5b67f18813421729d37bc3aad4ce3",
+          "author": "aws@amazon.com",
+          "description": "AWS Control Tower により、Account Factory for Terraform (AFT) で共有アカウントや管理アカウントの管理やカスタマイズができるようになりました。アカウントのカスタマイズ管理を一元化し、AWS Control Tower 環境のガバナンス範囲を拡大しつつ、アカウント設定のセキュリティを保護することもできるようになりました。共有アカウントのカスタマイズでは、すべてのアカウントで同じメカニズムを使用したカスタマイズを行いたいお客様を支援します。また、AFT では、カスタマイズの許可をよりうまく管理できるように、ロールを変更しました。AFT がすべてのアカウントに対して、あらゆる詳細レベルで行動できるよう、許可管理を完全に自動化できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/",
+          "publishedOn": "2022-06-08T02:32:39.000Z",
+          "wordCount": 262,
+          "title": "AWS Control Tower Account Factory for Terraform で共有アカウントのカスタマイズが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6b01d2464c81f6cd513802c4dd4bb1fffbdca208",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) は、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) リージョンでは FedRAMP Moderate として、AWS GovCloud (米国) リージョンでは FedRAMP High として承認されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/",
+          "publishedOn": "2022-06-08T02:31:51.000Z",
+          "wordCount": 298,
+          "title": "Amazon Managed Streaming for Apache Kafka が FedRAMP に準拠",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5064a678054f852e6e68fda678c45e8848f79c3e",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker には、データの探索と機械学習 (ML) モデルの構築のために、フルマネージドノートブックを起動するための 2 つのオプションがあります。最初のオプションは、Amazon SageMaker Studio 内でアクセス可能なファストスタートのコラボレーションに適したノートブックです。これは、機械学習用の完全に統合された開発環境 (IDE) です。Studio でノートブックをすばやく起動し、作業を中断することなく、基盤となるコンピューティングリソースを簡単にダイヤルアップまたはダイヤルダウンでき、数回クリックするだけでノートブックをリンクとして共有することもできます。ノートブックの作成に加えて、Studio の単一のウィンドウで、モデルを構築、トレーニング、デバッグ、追跡、デプロイ、およびモニタリングするためにすべての機械学習の開発ステップを実行できます。2 つ目のオプションは Amazon SageMaker Notebook Instance です。これは、クラウドでノートブックを実行する単一のフルマネージド機械学習コンピューティングインスタンスであり、お客様がノートブック設定をより細かく制御できるようにします。本日、SageMaker Studio と SageMaker Notebook Instance の両方に JupyterLab 3 ノートブックが付属するようになり、SageMaker で機械学習モデルを構築するデータサイエンティストとデベロッパーの生産性を向上させることができるようになったことを発表します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/",
+          "publishedOn": "2022-06-08T02:31:02.000Z",
+          "wordCount": 282,
+          "title": "Amazon SageMaker Studio および SageMaker Notebook インスタンスに JupyterLab 3 ノートブックが付属",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "751731888e31543f64512de5ea58b333b33ad05f",
           "author": "aws@amazon.com",
           "description": "AWS GovCloud (米国) リージョンで Amazon Elastic Kubernetes Service (EKS) クラスターのプライベート Kubernetes API サーバーエンドポイントを解決できるようになりました。これにより、AWS Direct Connect や VPC ピアリングなどの AWS のサービスを使用する場合を含め、VPC 内でのみアクセス可能な EKS クラスターに簡単に接続できます。",
@@ -1603,6 +1683,16 @@
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
         {
+          "id": "https://blog.agile.esm.co.jp/entry/fjord-boot-camp-drinkup-2022-06-02",
+          "author": null,
+          "description": "ワドルディ集めにいそしんでいる nsgc です。 2022年6月2日(木)に、フィヨルドブートキャンプさん主催のオンライン合同会社説明ドリンクアップで、@fugakkbnと一緒にお話させていただきました。 今年3月入社の@fugakkbnは、フィヨルドブートキャンプ卒業生で入社後ちょうど3ヵ月というタイミングでした。 身近なOBの先輩のふりかえりを通して、どんな感じの会社か、どういうことを学べるのか、どんな不安があってそれは解消されるか、といった生の声をライブ感を持ってお伝えできればという想いから、弊社で開発運用しており、日頃現場のプロジェクトでも活用している『Continuous KPTA …",
+          "link": "https://blog.agile.esm.co.jp/entry/fjord-boot-camp-drinkup-2022-06-02",
+          "publishedOn": "2022-06-08T03:00:00.000Z",
+          "wordCount": 244,
+          "title": "フィヨルドブートキャンプのオンライン合同会社説明ドリンクアップでお話してきました",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/nsgc/20220603/20220603155738.png"
+        },
+        {
           "id": "https://blog.agile.esm.co.jp/entry/spa-auth0-settings",
           "author": null,
           "description": "こんにちは、nand2tetrisにハマっているyuki0920です。 今回は業務で得たTipsである「部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法」を紹介します。 前提: フロントエンドからアクセストークンを使いたい 一部SPA構成のRails製のアプリケーションを運用しており、認証基盤にAuth0を利用しています。 Railsアプリはユーザーから受け取ったメールアドレスとパスワードをAuth0へ送信するなどの認証処理を担っており、認証後のアクセストークンはRailsアプリが受け取っています。 今回、部分SPAのフロントエンドから、ログイン…",
@@ -2491,16 +2581,6 @@
           "publishedOn": "2022-05-14T00:00:00.000Z",
           "wordCount": 425,
           "title": "More async queries, pattern matching and no more autoclosed PRs!",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/5/9/Rails-7-0-3-6-1-6-6-0-5-and-5-2-8-have-been-released",
-          "author": null,
-          "description": "Hi everyone,",
-          "link": "https://rubyonrails.org/2022/5/9/Rails-7-0-3-6-1-6-6-0-5-and-5-2-8-have-been-released",
-          "publishedOn": "2022-05-09T14:49:00.000Z",
-          "wordCount": 355,
-          "title": "Rails 7.0.3, 6.1.6, 6.0.5, and 5.2.8 have been released!",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
