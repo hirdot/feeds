@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-09T10:00:58.410Z</updated>
+    <updated>2022-06-09T22:00:56.236Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudFront がビューワー接続のために TLS 1.3 セッション再開のサポートを開始]]></title>
+        <id>0d3d71b44c5a075b5134c28e4d7cb18d3b4687d2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-cloudfront-supports-tls-1-3-session-resumption-viewer-connections/"/>
+        <updated>2022-06-09T18:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudFront は、ビューワー接続のパフォーマンスをさらに改善するため、Transport Layer Security (TLS) 1.3 セッション再開をサポートするようになりました。これまで、Amazon CloudFront は、ビューワーと CloudFront 間の HTTPS 通信を暗号化するために、2020 年から TLS プロトコルのバージョン 1.3 をサポートしてきました。このプロトコルを採用したお客様は、以前の TLS バージョンと比較して、接続パフォーマンスが最大 30% 改善されました。本日より、TLS 1.3 を使用するお客様は、TLS 1.3 セッション再開のおかげで、パフォーマンスを最大 50% 改善できます。セッション再開では、以前に TLS 接続を行っていたサーバーにクライアントが再接続すると、サーバーはクライアントによって送信された事前共有キーを使用してセッションチケットを復号し、セッションを再開します。TLS 1.3 セッション再開は、サーバーとクライアントの両方の計算オーバーヘッドを削減するため、セッションの確立を高速化します。また、完全な TLS ハンドシェイクと比較して、転送する必要のあるパケットが少なくなります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB Standard-Infrequent Access テーブルクラスが AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>cee5304d9b9eb84ab918c5caf28a69d557389da4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/"/>
+        <updated>2022-06-09T18:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DynamoDB Standard-Infrequent Access (DynamoDB Standard-IA) テーブルクラスが AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。DynamoDB Standard-IA テーブルクラスは、アプリケーションログ、ソーシャルメディアの投稿、e コマースの注文履歴、過去のゲームの実績など、アクセス頻度の低いデータを長期間保存する必要があるユースケースに最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub が AWS Config のマネージドルールとカスタムルールの評価結果を受け取るようになりました]]></title>
+        <id>a118786d178c32bd5b32727626abde73240b9479</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-security-hub-config-managed-custom-rule-evaluation-results/"/>
+        <updated>2022-06-09T18:25:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub は、AWS Config のマネージドルールとカスタムルールの評価結果をセキュリティの検出結果として自動的に受け取るようになりました。AWS Config を使用すると、セキュリティとコンプライアンスの専門家は、指定されたポリシーに照らして AWS リソースのコンプライアンスを評価する Config ルールを介して、AWS リソースの設定を評価および監査できます。Config ルールによって検出されたリソースの設定ミスの例には、パブリックにアクセス可能な Amazon S3 バケット、暗号化されていない EBS ボリューム、および過度に許容的な IAM ポリシーが含まれます。Config ルールの評価が合格または不合格になると、Security Hub でその評価の「合格」または「不合格」の検出結果が表示されるようになりました。Config ルールの評価のステータスの更新は、Security Hub の検出結果で自動的に更新されます。Security Hub と AWS Config のこの新しい統合により、Config 評価結果を他のセキュリティの検出結果と統合することで、一元化および単一ウィンドウのエクスペリエンスが拡張され、セキュリティの検出結果をより簡単に検索、トリアージ、調査し、これらの検出結果に対してアクションを実行できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EMR 6.6 が、Apache Spark 3.2、HUDI 0.10.1、Iceberg 0.13、Trino 0.367、PrestoDB 0.267 などのサポートを追加]]></title>
+        <id>5d91369fa33abd16d155872a728db7a889ba5987</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-emr-6-6-apache-spark-hudi-iceberg-trino-prestodb/"/>
+        <updated>2022-06-09T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon EMR リリース 6.6 は、Apache Spark 3.2、Apache Spark RAPIDS 22.02、CUDA 11、Apache Hudi 0.10.1、Apache Iceberg 0.13、Trino 0.367、および PrestoDB 0.267 をサポートするようになりました。EMR on EC2、EKS、および最近リリースされた EMR Serverless で、パフォーマンス最適化バージョンの Apache Spark 3.2 を利用できます。さらに、Apache Hudi 0.10.1 および Apache Iceberg 0.13 は、EC2、EKS、および Serverless で利用できます。Apache Hive 3.1.2 は、EMR on EC2 および EMR Serverless で利用できます。Trino 0.367 および PrestoDB 0.267 は、EMR on EC2 でのみ利用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune が Python 統合でグラフ分析および機械学習ワークフローを簡素化]]></title>
+        <id>11248c5e9ec0000c3df5ced7feca03db84fe086d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/"/>
+        <updated>2022-06-09T18:21:22.000Z</updated>
+        <summary type="html"><![CDATA[データサイエンスと機械学習ワークフローを簡素化するオープンソースの Python 統合を使用して、Amazon Neptune に保存されているグラフデータに対してグラフ分析と機械学習タスクを実行できるようになりました。この統合により、ローカルの Jupyter Notebook インスタンス、Amazon SageMaker Studio、AWS Lambda、または他のコンピューティングリソースなど、任意の Python 環境で Pandas DataFrames を使用して Neptune に保存されたグラフデータを読み書きできます。そこから、iGraph、Network、cuGraph などのオープンソースライブラリを使用して、PageRank や Connected Components などのグラフアルゴリズムを実行できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Device Management が Secure Tunneling の 80% の値下げを発表]]></title>
+        <id>e1610742eff159cc7ae3b1a9fe1eb2e97af7989e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/"/>
+        <updated>2022-06-09T18:19:43.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS IoT Device Management の Secure Tunneling 機能の料金を 80% 引き下げたことをお知らせします。コスト効率が向上したことで、お客様は Secure Tunneling をスケールして、制限付きファイアウォールの背後にデプロイされたリモートデバイスにアクセスし、増大する IoT ワークロードのトラブルシューティング、設定の更新、トレーニング、および他の運用タスクを AWS で実行できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GuardDuty EKS Protection が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>9fe72a061a5ed64e02666fb77b5f41d70719dff5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/"/>
+        <updated>2022-06-09T18:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon GuardDuty の機能である Amazon GuardDuty EKS Protection が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。この機能は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターアクティビティを継続的にモニタリングおよびプロファイリングして、コンテナワークロードに対する潜在的な脅威を表す悪意のある動作や疑わしい動作を識別します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub がアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>3da8e8376ef4cc3f59de5d54d6465da0a1e8ecce</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/"/>
+        <updated>2022-06-09T18:18:03.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。今後は、AWS アジアパシフィック (ジャカルタ) リージョンで AWS アカウントのセキュリティ体制を一元的に表示および管理できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい Amplify Flutter がカスタマイズ可能な認証フローをサポート]]></title>
+        <id>567478fb5f9621f6628c05871a4f4d0398e67799</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amplify-flutter-supports-customizable-authentication-flows/"/>
+        <updated>2022-06-09T18:17:13.000Z</updated>
+        <summary type="html"><![CDATA[AWS Amplify Flutter は、Amazon Cognito Lambda トリガーを使用してカスタマイズ可能な認証フローを作成するためのサポートを導入します。この機能を使用すると、デベロッパーは、OTP ログインフローの作成や Flutter アプリケーションへの CAPTCHA の追加など、Flutter アプリケーションでのログインエクスペリエンスのカスタマイズを設定できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワールドワイドのIaaSクラウド市場シェア、2021年は1位AWS、2位マイクロソフト、3位にはAlibaba、4位がGoogleとの調査結果。ガートナーが発表]]></title>
+        <id>https://www.publickey1.jp/blog/22/iaas20211aws23alibaba4google.html</id>
+        <link href="https://www.publickey1.jp/blog/22/iaas20211aws23alibaba4google.html"/>
+        <updated>2022-06-09T15:23:45.000Z</updated>
+        <summary type="html"><![CDATA[調査会社の米ガードナーは、ワールドワイドにおける2021年のIaaSクラウドの市場シェアについて、調査結果を発表しました。 発表によると、トップはAWSでシェア38.9％、2位はマイクロソフトで21.1％、3位はAlibabaでシェア9.5...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Stimulusガイド 05: ライフサイクルイベントによるセットアップ・終了（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_06_09/118490</id>
@@ -4522,160 +4622,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <summary type="html"><![CDATA[Docker社は、5月10日（日本時間5月11日未明）に開催したイベント「DockerCon 2022」で、Nestybox社の買収を発表しました。 Nestyboxは、現在一般的に使われているコンテナランタイムであるruncよりも高い分離...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: Ruby 3.2.0devにRust版YJITがマージ、Docker Compose V2ほか（20220511後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_05_11/117657</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_05_11/117657"/>
-        <updated>2022-05-11T09:30:08.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220511_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_11/117657" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Ruby 3.2.0devにRust版YJITがマージ、Docker Compose V2ほか（20220511後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年5月11日　コミュニティによるコミュニティのためのディストロ ―Fedora Linux 36がリリース ── Linux Daily Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/linux_dt/202205/11</id>
-        <link href="https://gihyo.jp/admin/clip/01/linux_dt/202205/11"/>
-        <updated>2022-05-11T08:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Fedoraプロジェクトは5月10日，「Fedora Linux 37」の正式リリースを発表した。]]></summary>
-        <author>
-            <name>階戸アキラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「人とお金の関係」はどう変わってきたか？MITTRの誌面から]]></title>
-        <id>https://www.technologyreview.jp/?p=274704</id>
-        <link href="https://www.technologyreview.jp/s/274704/money-changes-everything/"/>
-        <updated>2022-05-11T06:49:42.000Z</updated>
-        <summary type="html"><![CDATA[テクノロジーの進歩が人間とお金の関係を大きく変えてきたことは事実だ。しかし、その変化は突然やって来るものではない。MITテクノロジーレビューの過去の記事を読み返すと、「新しいお金の形」に戸惑いながら追従する人間の姿が見えてくる。]]></summary>
-        <author>
-            <name>MIT Technology Review Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聴くMITTR：脳コンピューターの時代がやってくる]]></title>
-        <id>https://www.technologyreview.jp/?p=275737</id>
-        <link href="https://www.technologyreview.jp/s/275737/audiomook-the-age-of-the-brain-computer-is-coming/"/>
-        <updated>2022-05-11T03:01:32.000Z</updated>
-        <summary type="html"><![CDATA[今週のオーディオ・ムック（β）は、世界を驚かせた医療向けBCIの最新事例と、テック業界が注目する一般向けBCIの現状と今後の可能性をお伝えする。]]></summary>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JRelaser 1.0:アーリーアダプタに聞く]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/jreleaser-v1-community/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/jreleaser-v1-community/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-05-11T01:16:00.000Z</updated>
-        <summary type="html"><![CDATA[JRelaserは、それ自体のリリースに使用することを通じて、ユーザエクスペリエンスの直接的な理解を深めてきた。その過程を通じて、他のプロジェクトにも導入されるようになった。InfoQは今回、JReleaserのエクスペリエンスと安定性について理解するべく、その開発に関わってきた開発者たちの声を聴いた。
- By Olimpiu Pop  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Olimpiu Pop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パフォーマンスの向上したHibernate ORM 6.0]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/red-hat-releases-hibernate-6/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/red-hat-releases-hibernate-6/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-05-11T01:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Red Hatは、同社のフラッグシッププロダクトとして人気の高い、オブジェクト-リレーショナルマッピング永続化ユーティリティのHibernate ORMのバージョン6.0をリリースした。注目の新機能は、Jakarta 3.0仕様へのマイグレーション、JDBCのパフォーマンス向上、HQLトランザクション、クライテリアトランザクションなどだ。また、今回のリリースから、最低要件がJava 11になった。
- By A N M Bazlur Rahman  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>A N M Bazlur Rahman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Newsラウンドアップ: Vector API、SpringのアップデートとCVE、Payara Platform、GroovyとTomEEのアップデート]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/java-news-roundup-apr18-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/java-news-roundup-apr18-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-05-11T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[今週2022年4月18日のJavaラウンドアップは、OpenJDK、JEP 426、2022年4月版Oracle緊急パッチアップデートのリリース、JDK 19、Liberica JDKとNative Image Kitのアップデート、Springのポイントリリースとマイルストンリリース、2022年4月版Payara Platformリリース、Quarkus 2.8.1.Final、Apache Groov y 4.0.2、Apache TomEE 8.0.11、JobRunr 5.0.1、JReleaserr 1.0のアップデートといった情報をお届けする。
- By Michael Redlich  Translated by h_yoshida _]]></summary>
-        <author>
-            <name>Michael Redlich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第714回　Firefoxを含むsnapパッケージとの付き合い方 ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0714</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0714"/>
-        <updated>2022-05-11T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 LTSではFirefoxがsnapパッケージに完全に移行しました。これまでといろいろ違う部分で戸惑っている人もいることでしょう。今回は改めてFirefoxを含むsnapパッケージの使い方について説明します。]]></summary>
-        <author>
-            <name>柴田充也</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Kinesis Data Firehose がアジアパシフィック (ジャカルタ) AWS リージョンで利用可能に]]></title>
-        <id>d425a61e3052311af6362c7da8576ba9fa49f545</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-data-firehose-available-asia-jakarta-aws-region/"/>
-        <updated>2022-05-10T23:40:20.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kinesis Data Firehose がアジアパシフィック (ジャカルタ) AWS リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Rekognition が精度を向上させるために Face API バージョン 6 をリリース]]></title>
-        <id>f7e8d92b2ee5f7ddd793b97061bdd7a0f2415dae</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-rekognition-face-apis-version-6-accuracy/"/>
-        <updated>2022-05-10T23:39:31.000Z</updated>
-        <summary type="html"><![CDATA[お客様は、機械学習の専門知識を必要することなく、画像や動画内の顔を大規模に分析するために、Amazon Rekognition Face API を使用します。これにより、本人確認、写真検索、メディア分析などのユースケースが可能となります。Amazon Rekognition は、顔の検出、比較、および検索機能の精度を高めるために、Face API バージョン 6 をリリースしました。さらに、顔検出のレイテンシーが 70% 短縮されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 X2idn と X2iedn インスタンスが追加のリージョンとベアメタルサイズで利用可能に]]></title>
-        <id>97d822f71d1455d05f0c28544d352a9774212aa2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/"/>
-        <updated>2022-05-10T23:38:43.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 X2idn と X2iedn が追加のリージョンとベアメタルサイズでご利用いただけるようになりました。現在、X2idn インスタンスは、米国東部 (オハイオ)、米国西部 (オレゴン)、および AWS GovCloud (米国西部) でご利用いただけます。X2iedn インスタンスは、アジアパシフィック (ムンバイ) と AWS GovCloud (米国西部) でご利用いただけます。X2idn および X2iedn は、最大 3.5 GHz のオールコアターボ周波数を持つ第 3 世代インテル Xeon スケーラブルプロセッサを搭載しており、コンピューティングについては、同等の X1 インスタンスと比べて最大 50% 高い料金パフォーマンスを提供します。X2idn と X2iedn の両方のインスタンスは、最大 3.8 TB のローカル NVMe SSD ストレージと最大 100 Gbps のネットワーク帯域幅を含みます。X2idn は最大 2 TiB のメモリを提供し、X2iedn は最大 4 TiB のメモリを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。X2idn と X2iedn インスタンスは SAP 認定です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK メッセージング機能が欧州 (フランクフルト) AWS リージョンで利用可能に]]></title>
-        <id>794a38a0d0b1103fabf5dc3ad0f587384e4b6e0b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-chime-sdk-messaging-features-available-europe-frankfurt-aws-region/"/>
-        <updated>2022-05-10T23:35:27.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon Chime SDK メッセージングの一般提供が欧州 (フランクフルト) リージョンで開始されました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 M6a および C6a インスタンスをご利用いただけるリージョンが増えました]]></title>
-        <id>54e03039ecda22fd0c9635bc2e5824728c4012c8</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-m6a-c6a-available-additional-regions/"/>
-        <updated>2022-05-10T23:33:50.000Z</updated>
-        <summary type="html"><![CDATA[本日より、汎用 Amazon EC2 M6a インスタンスが 米国東部 (オハイオ) および欧州 (フランクフルト)で利用可能になりました。さらに、コンピューティングに最適化された Amazon EC2 C6a インスタンスが 米国東部 (オハイオ)、アジアパシフィック (ムンバイ)、そして欧州 (フランクフルト) で利用可能になりました。M6a および C6a インスタンスは、3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC (コードネーム: Milan) プロセッサを搭載しています。M6a インスタンスは M5a インスタンスと比較して最大35% 優れた価格パフォーマンスを提供し、C6a インスタンス は C5a インスタンスと比較して最大 15% 優れた価格パフォーマンスを提供します。M6a と C6a の両方のインスタンスのコストは、同等の x86 ベースの EC2 インスタンスに比べて 10% 低くなります。M6a および C6a インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6a インスタンスは、SAP 認定であり、ウェブサーバーおよびアプリケーションサーバー、エンタープライズアプリケーション向けバックエンドサーバー、ウェブサーバー、マイクロサービス、マルチプレイヤーゲームサーバー、キャッシュフリート、ならびにアプリケーション開発環境などのワークロードに最適です。C6a インスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多い用途に最適です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect が、スケジュール管理のユーザーエクスペリエンス内にメトリクスを表示]]></title>
-        <id>5c40f978abb110059b67d06260ef5a7557d2af56</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/"/>
-        <updated>2022-05-10T23:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect は、コンタクトセンターのマネージャーがエージェントのスケジュールを効率的に管理するのに役立つように、スケジュール管理のユーザーエクスペリエンス内にスケジュールメトリクスを表示するようになりました。マネージャーは、必要なエージェントの予測数と、15 分または 30 分の時間ブロックごとにスケジュールされたエージェントの数の差など、ビジネスの成果を促進する主要なメトリクスをすばやく表示してアクションを実行できます。これらのメトリクスはエージェントのスケジュールの隣に表示されるため、マネージャーは、スケジュール画面とメトリクス画面を度々切り替えることなく正確な調整を行うことができ、エージェントのワークロードのバランスを取りながらビジネスの成果を最適化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler がインタラクティブなデータ準備のための追加の M5 および R5 インスタンスのサポートを提供]]></title>
-        <id>d2d04fc9a293775b091bcce8bf1f4b04e9ed22ed</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/"/>
-        <updated>2022-05-10T23:32:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、ML の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データの選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler は、デフォルトで ml.m5.4xlarge 上で実行します。SageMaker Data Wrangler には PySpark で記述された組み込みのデータ変換および分析が含まれるので、デフォルトインスタンスで大規模なデータセット (最大数百ギガバイト (GB) のデータ) を効率的に処理できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
