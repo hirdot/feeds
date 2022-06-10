@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "f2b04ebb8be7e38f75a9d2df4822463db1818e12",
+          "author": "aws@amazon.com",
+          "description": "2021 年 11 月の re:Invent で発表された AWS Mainframe Modernization が、お客様とパートナーへ一般提供できるようになりました。Mainframe Modernization は独自のプラットフォームで、AWS 上で管理された高可用性ランタイム環境へ、オンプレミスのメインフレームワークロードを移行してモダナイズすることを可能にします。サービスは現在、リプラットフォームと自動リファクタリングの 2 つの主要な移行パターンをサポートしており、移行評価の結果に基づいて、最適な移行パスと関連するツールチェーンを選択できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/",
+          "publishedOn": "2022-06-10T00:05:14.000Z",
+          "wordCount": 241,
+          "title": "AWS Mainframe Modernization の一般提供が開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6c9333bc254d7bb557d11b9e8aa8db046622d993",
+          "author": "aws@amazon.com",
+          "description": "AWS コスト配分タグでは、コスト配分タグをアクティブ化と非アクティブ化できる API が利用可能になりました。コスト配分タグをアクティブ化すると、AWS Cost Explorer や AWS のコストと使用状況レポートなどのコスト管理製品にコスト配分タグが表示されます。コスト配分タグを使用すると、AWS のコストと使用状況の情報を、フィルタリング、分類、追跡できます。これまでは、コスト配分タグのアクティブ化と非アクティブ化は、AWS 請求コンソールのコスト配分タグのページから行う必要がありました。今回のサポートにより、ListCostAllocationTags の API を使用して全てのタグを一覧表示し、UpdateCostAllocationTagsStatus の API を使用してコスト配分タグのアクティブ化と非アクティブ化できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/",
+          "publishedOn": "2022-06-10T00:01:12.000Z",
+          "wordCount": 237,
+          "title": "AWS コスト配分タグの API を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0d3d71b44c5a075b5134c28e4d7cb18d3b4687d2",
           "author": "aws@amazon.com",
           "description": "Amazon CloudFront は、ビューワー接続のパフォーマンスをさらに改善するため、Transport Layer Security (TLS) 1.3 セッション再開をサポートするようになりました。これまで、Amazon CloudFront は、ビューワーと CloudFront 間の HTTPS 通信を暗号化するために、2020 年から TLS プロトコルのバージョン 1.3 をサポートしてきました。このプロトコルを採用したお客様は、以前の TLS バージョンと比較して、接続パフォーマンスが最大 30% 改善されました。本日より、TLS 1.3 を使用するお客様は、TLS 1.3 セッション再開のおかげで、パフォーマンスを最大 50% 改善できます。セッション再開では、以前に TLS 接続を行っていたサーバーにクライアントが再接続すると、サーバーはクライアントによって送信された事前共有キーを使用してセッションチケットを復号し、セッションを再開します。TLS 1.3 セッション再開は、サーバーとクライアントの両方の計算オーバーヘッドを削減するため、セッションの確立を高速化します。また、完全な TLS ハンドシェイクと比較して、転送する必要のあるパケットが少なくなります。",
@@ -2027,6 +2047,16 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp/admin",
       "articles": [
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/10",
+          "author": "吉田史",
+          "description": "22.10（kinetic）の開発上，大きな動きはないものの，WPA_SupplicantからIWDへの置き換えが進められていることをPhoronixが報じています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/10",
+          "publishedOn": "2022-06-10T00:54:00.000Z",
+          "wordCount": 381,
+          "title": "2022年6月10日号　22.10の開発/WPA_Supplicantの置き換えとfdk-aacの取り込み，“adwatchd” ── Ubuntu Weekly Topics",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
+        },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0718",
           "author": "柴田充也",
