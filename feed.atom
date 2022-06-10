@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T10:00:37.245Z</updated>
+    <updated>2022-06-10T22:00:46.930Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 R5n インスタンスをご利用いただけるリージョンが増えました]]></title>
+        <id>d4e010cb76e3c71169afeac43208a1f68dc1807d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-r5n-instances-additional-regions/"/>
+        <updated>2022-06-10T21:31:15.000Z</updated>
+        <summary type="html"><![CDATA[本日から AWS アフリカ (ケープタウン) および欧州 (ミラノ) リージョンで Amazon EC2 R5n インスタンスをご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: ArelにSQLのFILTER句のサポートが追加（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_06_10/118715</id>
@@ -595,6 +605,15 @@
         <summary type="html"><![CDATA[AWS（Amazon Web Services）は、AWS IAM（AWS Identity and Access Management）でパスワードレスでのログインを可能にするWebAuthnに対応したことを発表しました。 WebAuth...]]></summary>
         <author>
             <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九大、「ひきこもり」に特徴的な血液バイオマーカーを発見]]></title>
+        <id>https://www.technologyreview.jp/n/2022/06/06/277714/</id>
+        <link href="https://www.technologyreview.jp/n/2022/06/07/277714/"/>
+        <updated>2022-06-07T12:04:05.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
@@ -4556,188 +4575,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
         <link href="https://www.publickey1.jp/blog/22/gitlabdevops.html"/>
         <updated>2022-05-12T15:52:19.000Z</updated>
         <summary type="html"><![CDATA[GitLab社は日本語で「タヌキ（Tanuki）」と命名されたロゴを使用していることがITエンジニアのあいだでしばしば話題になります。それはタヌキというユニークな名前のせいだけではなく、その外観がキツネにしか見えないからでもあります。 その...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT SiteWise でのバッチデータ取得用の 3 つの新しい API を発表]]></title>
-        <id>4a6cd333b7a4d917c08a9cf48f06d03c9ba30c69</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/"/>
-        <updated>2022-05-12T08:34:37.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT SiteWise から単一の API リクエストで現在の値 (BatchGetAssetPropertyValue)、履歴値 (BatchGetAssetPropertyValueHistory)、および集計値 (BatchGetAssetPropertyAggregates) を取得する 3 つの新しい API を使用して、AWS IoT SiteWise で複数のアセットプロパティからバッチデータを取得できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS X-Ray が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>bd467f838a978e156a9394c418ff0add2c4823de</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/"/>
-        <updated>2022-05-12T08:33:49.000Z</updated>
-        <summary type="html"><![CDATA[今日、AWS アジアパシフィック (ジャカルタ) リージョンで AWS X-Ray が利用できるようになりました。X-Ray を使用すると、デベロッパーは、マイクロサービスアーキテクチャを使って構築された分散型実稼働アプリケーションを分析およびデバッグすることができます。X-Ray では、アプリケーションやその基盤となるサービスの実行状況を把握し、パフォーマンスの問題やエラーの根本原因を特定してトラブルシューティングを行うことができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch 使用状況メトリクスを使用した Amazon Managed Service での Prometheus 使用状況のモニタリング]]></title>
-        <id>0f99c71fbbecdf588c1baeddfb4b9f8150ab606b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/"/>
-        <updated>2022-05-12T08:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Service for Prometheus 使用状況メトリクスが追加コストなしで Amazon CloudWatch で利用できるようになりました。Amazon Managed Service for Prometheus は、フルマネージドの Prometheus 互換のモニタリングサービスであり、運用メトリクスを大規模かつ簡単にモニタリングして、アラートを発信できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。Amazon CloudWatch 使用状況メトリクスを使用すると、Amazon Managed Service for Prometheus ワークスペースの使用状況を確認し、クォータのプロアクティブな管理を開始できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac: Coherence XでChromeブラウザを用途ごとにアプリ化する]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_05_12/117528</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_05_12/117528"/>
-        <updated>2022-05-12T08:30:14.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/04/coherenceX_chrome_apps_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>私はChromeブラウザのタブをメモ代わりについつい増やしてしまいがちなたちで、気がつくとタブが100個超えになっていることもしばしばでした。そういう状態でまれにChromeブラウザやOSが落ちてしまうとタブが全部吹っ飛んでしまうことがあり、復元に相当手間取ります。 https://t.co/bYbxoHoXoX &#8212; semanticsone (@semanticsgal) March 25, 2022 このCoherence Xというツールで用途ごとにChromeアプリを作成すると（注: 本記事ではこれをChromeアプリと呼ぶことにします）、以下のようにChromeアプリ単位で作業を切り替えられて [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_12/117528" data-wpel-link="internal" target="_self">Mac: Coherence XでChromeブラウザを用途ごとにアプリ化する</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3、NFTに沸く 「暗号資産革命」の 地味で不都合な正体]]></title>
-        <id>https://www.technologyreview.jp/?p=274176</id>
-        <link href="https://www.technologyreview.jp/s/274176/its-okay-to-opt-out-of-the-crypto-revolution/"/>
-        <updated>2022-05-12T07:10:18.000Z</updated>
-        <summary type="html"><![CDATA[ド派手なテレビCMや屋外広告が目に付く暗号資産関連企業は、より大勢の人を暗号資産取引に参入させようと巨額を投資している。だが、実態は理念や大義からかけ離れており、現時点で「金融革命」に一般消費者が参加する必然性はなさそうだ。 		
-
-こちらは会員限定の記事です。
-メールアドレスの登録で続きを読めます。
-
-
-会員登録して読む
-
-ログインして読む
-
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-
-
-
-
-
-
-こちらは有料会員限定の記事です。
-有料会員になると制限なしにご利用いただけます。
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-購読キャンペーン実施中]]></summary>
-        <author>
-            <name>Rebecca Ackermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[都立大がCO2大気直接回収システムを開発、世界最速級]]></title>
-        <id>https://www.technologyreview.jp/n/2022/05/11/275895/</id>
-        <link href="https://www.technologyreview.jp/n/2022/05/12/275895/"/>
-        <updated>2022-05-12T06:01:13.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年5月12日　 ── 帰ってきた『技評ねこ部通信』]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202205/0512</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/monthly-cat/202205/0512"/>
-        <updated>2022-05-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GWが終わってしまった・・・。]]></summary>
-        <author>
-            <name>gihyo.jp：LIFESTYLE STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オーロラ観測でコーラス電磁波の周波数特性を解明＝金沢大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/05/11/275919/</id>
-        <link href="https://www.technologyreview.jp/n/2022/05/12/275919/"/>
-        <updated>2022-05-12T05:49:22.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSがプレビュー版で.NET Annotations Lambdaフレームワークをリリース]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/net-annotations-lambda-framework/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/net-annotations-lambda-framework/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-05-12T04:17:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、AWSはLambda Annotationsと呼ばれる.NET 6 Lambda関数を作成するための新しいフレームワークを発表した。このフレームワークは、昨年2月にリリースされたLambda用の.NET6マネージドランタイムと一緒に構築されましたものである。
- By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Steef-Jan Wiggers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Secrets Manager がシークレットの使用状況のメトリクスを Amazon CloudWatch に出力開始]]></title>
-        <id>3921ae43944a28d623bbc2dae0a4a27a9067eebd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/"/>
-        <updated>2022-05-12T01:46:49.000Z</updated>
-        <summary type="html"><![CDATA[AWS Secrets Manager がアカウントのシークレットの個数をメトリクスとして Amazon CloudWatch に出力するようになりました。この機能により、Secrets Manager で使用しているシークレットの個数を簡単に表示できます。シークレットの個数が予期せず増加または減少した場合のアラームも設定できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜSBIとの資本業務提携が先駆的なDXの推進を促したのか？ 素早い事業立ち上げを可能にした島根銀行の改革の裏側に迫る]]></title>
-        <id>https://data.wingarc.com/?p=42173</id>
-        <link href="https://data.wingarc.com/localdxlab-32-shimane-42173?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=localdxlab-32-shimane"/>
-        <updated>2022-05-12T01:00:34.000Z</updated>
-        <summary type="html"><![CDATA[100年以上自主独往を貫いてきた島根銀行が3年で変革を進められた源泉と自行の本来の強み 古式ゆかしい城下町が残る島根県松江市に本店を構える島根銀行。大正4（1915）年に松江相互貯金株式会社の名称で創業して以来、「地域社 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年5月第2週　Android Autoを使いはじめて，1ヵ月 ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202205/12</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202205/12"/>
-        <updated>2022-05-12T00:09:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年4月第5週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］Google、Amazon Auroraに対抗する高性能DB「AlloyDB for PostgreSQL」発表。通常のPostgreSQLよりOLTPが4倍高速、OLAPが100倍高速と]]></title>
-        <id>https://www.publickey1.jp/blog/22/googleamazon_auroradballoydb_for_postgresqlpostgresqloltp4olap100.html</id>
-        <link href="https://www.publickey1.jp/blog/22/googleamazon_auroradballoydb_for_postgresqlpostgresqloltp4olap100.html"/>
-        <updated>2022-05-11T22:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloudは開催中のイベント「Google I/O 2022」で、PostgreSQLフル互換の高性能な新データベースサービス「AlloyDB for PostgreSQL」のプレビューリリースを発表しました。 Google ...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
