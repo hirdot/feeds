@@ -1384,56 +1384,6 @@
           "wordCount": 255,
           "title": "Amazon EC2 が Amazon マシンイメージ向けに CloudWatch Events のサポートを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "71fe03478df0c8f7d4dfce2e47e042a668e033dd",
-          "author": "aws@amazon.com",
-          "description": "Amazon Athena を使用して、セルフマネージド Apache Hive メタストアに保存されたビューを照会できるようになりました。Hive ビューは Hive Query Language (HiveQL) を使用して定義されますが、これは Athena の標準 SQL と完全に互換性があるわけではありません。この新しい機能により、Athena は自動的に HiveQL の構文の違いを処理し、ビュー定義を変更したり複雑な翻訳レイヤーを維持することなく、Hive ビューにクエリを実行することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-athena-now-supports-views-apache-hive-metastores/",
-          "publishedOn": "2022-05-12T18:47:43.000Z",
-          "wordCount": 255,
-          "title": "Amazon Athena が Apache Hive のメタストアでビューのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7b344c77833e99fe511a05ad3dfe819eeb25ac6e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic File System (Amazon EFS) は、NFS マウントあたりのファイルロックの最大数を増やし、メッセージブローカーや分散分析アプリケーションなど、大量の同時ロックを活用する幅広いワークロードにサービスを使用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/",
-          "publishedOn": "2022-05-12T18:46:56.000Z",
-          "wordCount": 254,
-          "title": "Amazon EFS が、より多くの同時ファイルロックのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "50b3eb26ad52fbad55b0225de128f7c20abdfbe0",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker ノートブックインスタンスをご利用のお客様向けに、ml.g5 GPU インスタンスファミリーの提供、Python 3.8 のサポートなど、新たなアップグレードが提供されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/",
-          "publishedOn": "2022-05-12T18:46:08.000Z",
-          "wordCount": 311,
-          "title": "SageMaker ノートブックインスタンスが ml.g5 インスタンスファミリー、および Python 3.8 カーネルをサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f8123f49f73159a8ca14257ab9fbfaa554e4afd2",
-          "author": "aws@amazon.com",
-          "description": "FreeRTOS AWS リファレンス統合の 3 つの目玉を発表します。FreeRTOS AWS リファレンス統合は、AWS IoT Core への安全なエンドツーエンドの接続を実証する、パートナーが提供するマイクロコントローラーベースの評価ボードに移植された、事前統合された FreeRTOS プロジェクトです。目玉となる FreeRTOS リファレンス統合の 3 つのプロジェクトは、パートナーである Espressif、NXP、STMicroelectronics と共同で開発されたものです。各プロジェクトは、最新の FreeRTOS と AWS Embedded C SDK Long Term Support (LTS) ライブラリ、および最新のマイクロコントローラアーキテクチャ機能を使用しています。デベロッパーは、これら 3 つのプロジェクトをカスタマイズして、本番稼働可能な完全な IoT 製品に仕上げることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/",
-          "publishedOn": "2022-05-12T18:31:57.000Z",
-          "wordCount": 253,
-          "title": "目玉となる 3 つの FreeRTOS リファレンス統合プロジェクトを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2c09325fc1bda21cab087e3062962f055571458f",
-          "author": "aws@amazon.com",
-          "description": "本日、Kotlin 向けに書き換えられた Amplify Android ライブラリのデベロッパープレビューを発表します。この最初のリリースでは、Android デベロッパーが Kotlin ベースの Android プロジェクトに、認証、ストレージ、データストア、API などのクラウドベースのアプリケーション機能を追加できるようにします。デベロッパーは、コルーチンのような Kotlin ベースの言語機能の利点を享受することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/",
-          "publishedOn": "2022-05-12T18:31:09.000Z",
-          "wordCount": 256,
-          "title": "Kotlin 向けに設計された Amplify Android ライブラリ (デベロッパープレビュー) を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
