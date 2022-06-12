@@ -2262,16 +2262,6 @@
           "wordCount": 367,
           "title": "Bugfixes, guides improvement and more!",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/5/14/this-week-in-rails-more-async-queries-pattern-matching-and-no-more-autoclosed-prs-c37d3f15",
-          "author": null,
-          "description": "Hi, this is Petrik, bringing you the latest news from the Rails world. Async aggregate and find_by queries Active Record async support was limited to loading collections, but among the not so fast queries that would benefit from asynchronicity you often find aggregates as well as hand crafted find_by_sql queries. We now support the following methods:",
-          "link": "https://rubyonrails.org/2022/5/14/this-week-in-rails-more-async-queries-pattern-matching-and-no-more-autoclosed-prs-c37d3f15",
-          "publishedOn": "2022-05-14T00:00:00.000Z",
-          "wordCount": 425,
-          "title": "More async queries, pattern matching and no more autoclosed PRs!",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
     },
@@ -2517,6 +2507,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/cloud_operator_days_tokyo_2022pr.html",
+          "author": null,
+          "description": "日本国内には、データセンター事業者や通信キャリアなどによるクラウドサービスの構築や運用、大規模サービス事業者によるプライベートクラウドの構築、そしてAWSなどを始めとするパブリッククラウドの上でさまざまなサービスやアプリケーションの運用に関...",
+          "link": "https://www.publickey1.jp/blog/22/cloud_operator_days_tokyo_2022pr.html",
+          "publishedOn": "2022-06-12T15:24:24.000Z",
+          "wordCount": 254,
+          "title": "クラウド運用担当者の失敗話や苦労話、学びを共有し、技術の底力を高めよう。「Cloud Operator Days Tokyo 2022」が開幕［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/codt202211.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/lastpass1passwordfidowebauthn.html",
+          "author": null,
+          "description": "LastPassと1Passwordが相次いでFIDO/WebAuthnへの対応を発表しました。 Passwordless is possible. Introducing Passwordless login by LastPass. T...",
+          "link": "https://www.publickey1.jp/blog/22/lastpass1passwordfidowebauthn.html",
+          "publishedOn": "2022-06-12T15:15:46.000Z",
+          "wordCount": 319,
+          "title": "パスワードマネージャのLastPassと1Passwordが相次いでFIDO/WebAuthnへの対応を発表。パスワードレスの時代にパスワードマネージャの存在意義はどうなるのか？",
+          "imageUrl": "https://www.publickey1.jp/2022/4s5h_Bqc.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/iaas20211aws23alibaba4google.html",
           "author": null,
@@ -3014,6 +3024,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=277999",
+          "author": "Patrick Howell O'Neill",
+          "description": "中国政府の関与が疑われるハッカーによる大手通信事業への侵入が相次いでいる。ハッカーたちはネットワーク機器の既知の脆弱性を利用していることが多く、過去に見つかった欠陥を放置することの危険性を示している。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/277999/chinese-hackers-exploited-years-old-software-flaws-to-break-into-telecom-giants/",
+          "publishedOn": "2022-06-12T21:55:33.000Z",
+          "wordCount": 541,
+          "title": "中国系ハッカーが世界各国で通信大手に侵入、既知の脆弱性を突く",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/09213503/2022-06-08-0005a-1-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/13/278147/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/13/278147/",
+          "publishedOn": "2022-06-12T21:15:22.000Z",
+          "wordCount": 323,
+          "title": "慶大、30秒で計測できる簡易脳波計で軽度認知障害を判定",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/06/11/278063/",
           "author": "MIT Technology Review Japan",
