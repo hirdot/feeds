@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "19bd7ce1aef1552a03ca429b37826a673618c785",
+          "author": "aws@amazon.com",
+          "description": "Microsoft SQL Server の新しいマイナーバージョンが Amazon Relational Database Service (Amazon RDS) for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が提供されます。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Edition において、Microsoft SQL Server 2014 の新しいマイナーバージョンをサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/",
+          "publishedOn": "2022-06-14T21:34:41.000Z",
+          "wordCount": 292,
+          "title": "Amazon RDS for SQL Server が SQL Server 2014 SP3 CU4 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8ead4e6ddce201eee21121af4a9670427633c1f1",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon SageMaker Data Wrangler でデータをトレーニングスプリットとテストスプリットに分割する機能の一般提供の開始を発表します。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Snowflake、および Databricks Delta Lake などの複数のデータソースからデータをすばやく選択できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/",
+          "publishedOn": "2022-06-14T21:33:50.000Z",
+          "wordCount": 272,
+          "title": "Amazon SageMaker Data Wrangler で数回クリックするだけでデータをトレーニングセットとテストセットに分割することが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5853e5036c0fb36295b59419273d2c319330eda5",
+          "author": "aws@amazon.com",
+          "description": "本日から、Amazon SageMaker Data Wrangler で利用できるようになったエクスポート機能により、これまでにない速度で Amazon SageMaker Feature Store に特徴量をエクスポートできるようになりました。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、および Snowflake などの複数のデータソースからデータをすばやく選択できます。Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/export-features-amazon-sagemaker-functionality-data-wrangler/",
+          "publishedOn": "2022-06-14T21:33:01.000Z",
+          "wordCount": 307,
+          "title": "Amazon SageMaker Data Wrangler で利用できるようになったエクスポート機能により、これまでにない速度で Amazon SageMaker Feature Store に特徴量をエクスポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "47d44fe87c8ae473d791bc267c9e34fe9fc399e3",
+          "author": "aws@amazon.com",
+          "description": "デベロッパーは AWS GovCloud (米国) リージョンで、Amazon Chime SDK のライブ文字起こしを使用して、ライブ音声の文字起こしができるようになりました。Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。AWS GovCloud (米国) により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、コミュニケーションワークロードをクラウドに移行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/",
+          "publishedOn": "2022-06-14T21:01:05.000Z",
+          "wordCount": 294,
+          "title": "Amazon Chime SDK が AWS GovCloud (米国) でライブ文字起こしのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ccbccb1c52a6feac491c5b22d6d1aba12ea64b1c",
+          "author": "aws@amazon.com",
+          "description": "AWS から、新たにメモリが最適化された Amazon EC2 R6id インスタンスの一般向けの提供を開始したことをお知らせいたします。R6id インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブル Ice Lake プロセッサと、最大 7.6 TB のローカル NVMe ベースの SSD ブロックレベルストレージを搭載しており、R5d インスタンスより最大 15% 優れたコストパフォーマンスを提供します。さらに R6id インスタンスは、vCPU あたりの TB ストレージが最大 58% 高く、TB あたりのコストは 34% 削減されており、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を備えています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/",
+          "publishedOn": "2022-06-14T20:46:12.000Z",
+          "wordCount": 299,
+          "title": "Amazon R6id インスタンスのご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9c5fbeafcf31a6cc583798a81b1a70d5b296d15f",
+          "author": "aws@amazon.com",
+          "description": "インドネシア (ジャカルタ) の AWS リージョンのお客様に、AWS Service Catalog をご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/",
+          "publishedOn": "2022-06-14T20:31:07.000Z",
+          "wordCount": 260,
+          "title": "AWS Service Catalog がインドネシア (ジャカルタ) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "d4e010cb76e3c71169afeac43208a1f68dc1807d",
           "author": "aws@amazon.com",
           "description": "本日から AWS アフリカ (ケープタウン) および欧州 (ミラノ) リージョンで Amazon EC2 R5n インスタンスをご利用いただけるようになりました。",
@@ -1421,16 +1481,6 @@
           "wordCount": 259,
           "title": "ダブルチェックを低減する技術",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220512/20220512142136.jpg"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/resistor-color-code",
-          "author": null,
-          "description": "どうも。 ハードウェア畑出身のe.mattsanです。 回路を相手にする仕事からプログラマに転向した一人です。 ちなみに、みなさんは電子回路をいじったことがありますか。 今はリモート勤務が日常となってしまい、出勤することもままならなくなりましたが、よく社内で電子工作をする光景を目にすることがありました。 我が社の東京オフィスは秋葉原に近く、昼休みにちょっと秋月電子まで買い物に…、と簡単に出かけられる立地も影響しているのかもしれません。 わたしも写真の抵抗器を秋月電子で購入しました。 5つか6つもあれば十分なのですが、ひと袋百個単位で売られているものですから、今でも手元に数百個の在庫があります。…",
-          "link": "https://blog.agile.esm.co.jp/entry/resistor-color-code",
-          "publishedOn": "2022-05-16T03:00:00.000Z",
-          "wordCount": 530,
-          "title": "抵抗器のカラーコードは虹の色",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/E/E_Mattsan/20220510/20220510082552.png"
         }
       ]
     },
@@ -1638,16 +1688,6 @@
           "wordCount": 567,
           "title": "東北地方におけるDXの課題と可能性は？ 「人が減っても豊かで幸せな未来を創る」をミッションに掲げる DX　NEXT　TOHOKUを取材",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/04_LocalDXLab-5.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=39408",
-          "author": "大藤 ヨシヲ",
-          "description": "19世紀後半のアメリカでは、肥満は「富の象徴」として扱われていたそうです。 しかし、時代が変わる中、その認識は大きく変わっていきました。科学や医療知識が進歩する過程で、肥満は生活習慣病のリスクを高めることが一般的に知られ […]",
-          "link": "https://data.wingarc.com/obesity-and-income-39408?utm_source=rss&utm_medium=rss&utm_campaign=obesity-and-income",
-          "publishedOn": "2022-05-15T23:00:37.000Z",
-          "wordCount": 486,
-          "title": "肥満リスクが年収を変える？ 身体データから明らかになる無意識のバイアス",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/DTNJ_body.jpg"
         }
       ]
     },
@@ -1972,16 +2012,6 @@
           "wordCount": 1403,
           "title": "アーティクル: API開発におけるデザインファーストアプローチ - 実施方法とその効果",
           "imageUrl": "https://res.infoq.com/articles/design-first-api-development/ja/headerimage/design-first-approach-API-development-header-image-1650616561277.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/articles/data-with-quarkus-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Alex Soto",
-          "description": "今日のデータの処理/消費方法は、これまでの方法とは異なります。以前は、データはデータベースに保存され、分析のためにバッチ処理されていました。Apache Kafkaは、データストリームをリアルタイムで保存、消費、処理するための分散イベントストアおよびストリーム処理プラットフォームです。この記事では、Apache KafkaとQuarkusを使用してデータを生成と消費する方法を学習します。\n By Alex Soto  Translated by Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/articles/data-with-quarkus-kafka/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-05-16T01:24:00.000Z",
-          "wordCount": 2365,
-          "title": "アーティクル: Apache Kafkaを使ったQuarkusリアクティブメッセージング入門",
-          "imageUrl": "https://res.infoq.com/articles/data-with-quarkus-kafka/ja/headerimage/generatedHeaderImage-1651071035514.jpg"
         }
       ]
     },
@@ -2089,16 +2119,6 @@
           "wordCount": 1403,
           "title": "アーティクル: API開発におけるデザインファーストアプローチ - 実施方法とその効果",
           "imageUrl": "https://res.infoq.com/articles/design-first-api-development/ja/headerimage/design-first-approach-API-development-header-image-1650616561277.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/05/prepare-agile-business-game/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "ゲームをビジネスオーナの観点で\"面白い\"ものにするためには、ビジネスニーズとの整合性を確保することが必要になる。そのようなゲームの立案は、\"コンテキストを探る\"、\"ターゲットグループを知る\"、\"フォーカスを定義する\"、\"ファシリテーションの方法を決定する\"という4つのステップで行えばよい。\n By Ben Linders  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/05/prepare-agile-business-game/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-05-16T01:31:00.000Z",
-          "wordCount": 1249,
-          "title": "アジャイルビジネスゲームを実施するには",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220503054838/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2659,16 +2679,6 @@
           "wordCount": 670,
           "title": "Rails: ActiveRecord標準のattributes APIドキュメント（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2020/12/rails_activerecord_attributes_api_doc_eyecatch3-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_16/117828",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220516_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_16/117828\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Active Modelで属性のパターンマッチをサポート、猫でもわかるHotwire入門ほか（20220516前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_16/117828",
-          "publishedOn": "2022-05-16T09:50:58.000Z",
-          "wordCount": 1117,
-          "title": "週刊Railsウォッチ: Active Modelで属性のパターンマッチをサポート、猫でもわかるHotwire入門ほか（20220516前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220516_eyecatch-min.png"
         }
       ]
     },
@@ -2677,6 +2687,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/mongodbhttpsapi.html",
+          "author": null,
+          "description": "NoSQLデータベースには、MongoDBに代表されるドキュメントデータベース、InterSystems IRISに代表されるオブジェクトデータベース、Neo4jに代表されるグラフデータベース、Redisに代表されるキーバリューストアなど、...",
+          "link": "https://www.publickey1.jp/blog/22/mongodbhttpsapi.html",
+          "publishedOn": "2022-06-14T15:37:40.000Z",
+          "wordCount": 249,
+          "title": "MongoDBが時系列データ対応、サーバレス対応、HTTPS経由でのAPI操作対応など機能強化を相次いで発表",
+          "imageUrl": "https://www.publickey1.jp/2022/gartnar_nosql2021.gif"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/mongodbqueryable_encryption.html",
+          "author": null,
+          "description": "MongoDBは、6月7日から9日にかけて米ニューヨークで開催されたイベント「MongoDB World 2022」で、データを暗号化したまま検索できるMongoDBの新機能「Queryable Encryption」を発表しました。 現代...",
+          "link": "https://www.publickey1.jp/blog/22/mongodbqueryable_encryption.html",
+          "publishedOn": "2022-06-14T15:32:26.000Z",
+          "wordCount": 222,
+          "title": "MongoDB、暗号化したままのデータベースを検索「Queryable Encryption」発表。データ格納時、メモリ上、データ転送、ログ、バックアップのすべてが暗号化データのまま",
+          "imageUrl": "https://www.publickey1.jp/2022/ENyCnLuu.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/githubachievements.html",
           "author": null,
@@ -3184,6 +3214,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=278252",
+          "author": "Keiichi Motohashi",
+          "description": "太陽光発電や風力発電などの再生可能エネルギーの多くは、自然条件に左右される。化石燃料のように必要に応じて発電できるわけではないため、電力の安定供給には今後、蓄電システムの重要性が増してくる。世界の潮流が脱炭素へと向かう中、日本の蓄電池の現状を整理していく。",
+          "link": "https://www.technologyreview.jp/s/278252/can-grid-storage-batteries-save-japans-power-supply-crisis/",
+          "publishedOn": "2022-06-14T21:50:00.000Z",
+          "wordCount": 711,
+          "title": "送電網向け蓄電池は「需給ひっ迫」の危機を救えるか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/15052654/denys-nevozhai-j8Bc4UerZXY-unsplash-1184x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/14/278303/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/15/278303/",
+          "publishedOn": "2022-06-14T21:12:36.000Z",
+          "wordCount": 321,
+          "title": "理研など、ヘリウム3の磁気モーメントの超高精度決定に成功",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/14/278290/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/15/278290/",
+          "publishedOn": "2022-06-14T20:55:11.000Z",
+          "wordCount": 322,
+          "title": "iPS細胞を使って毒性検査、京大などがAIシステムを開発",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=277991",
           "author": "Casey Crownhart",
