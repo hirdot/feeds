@@ -1234,86 +1234,6 @@
           "wordCount": 266,
           "title": "Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a92b202af58ee6685cdd6578b1678ee20f10714a",
-          "author": "aws@amazon.com",
-          "description": "本日より、メモリ最適化された Amazon EC2 X2idn および X2iedn インスタンスが、アジアパシフィック (ソウル、シドニー)、カナダ (中部)、欧州 (ロンドン、ストックホルム、ミラノ)、南米 (サンパウロ)、AWS GovCloud (米国東部) の追加のリージョンで利用可能になります。X2idn および X2iedn インスタンスは、メモリを大量に消費するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、およびメモリの GiB あたりのコストが改善されています。これらの新しいインスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサ (Ice Lake) を搭載しており、コンピューティングについては、同等の X1 インスタンスよりも最大 50% 高いコストパフォーマンスを提供します。X2idn のメモリと vCPU の比率は 16:1 で、X2iedn の比率は 32:1 です。そのため、これらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/",
-          "publishedOn": "2022-05-19T09:31:57.000Z",
-          "wordCount": 442,
-          "title": "Amazon EC2 X2idn および X2iedn インスタンスが新たに 8 つの追加リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "530998c3c459fb8ad0197573f8e86a3b909e2519",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lex は、自動音声認識 (ASR) と自然言語理解 (NLU) 機能を提供するため、魅力的なユーザーエクスペリエンスを備えたアプリケーションとや対話型音声応答 (IVR) ソリューションを構築できます。本日より、ライブインタラクション中にヒントとしてフレーズをプログラムで提供し、音声入力の文字起こしに影響を与えることができます。例えば、バンキングの IVR とやり取りする場合、顧客は宛先アカウントにニックネーム (「Smythe’s checking」) を使用する場合があります。ビジネスロジックを実行して、発信者のアカウントに関連付けられているすべての受取人のニックネームを識別し、それらをヒントとして提供して、名前の文字起こしを改善することができます。認識の精度が高まると、効率的な会話となり、最終的に顧客満足度を高めます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/",
-          "publishedOn": "2022-05-19T09:31:09.000Z",
-          "wordCount": 238,
-          "title": "Amazon Lex がフレーズヒントのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "26fb6321c9bbe277dfb4dd3b3e8c542c6b1cf2c1",
-          "author": "aws@amazon.com",
-          "description": "本日、私たちは AWS Control Tower の新機能を発表します。この機能はお客様に柔軟性を提供するものであり、既存のセキュリティおよびロギングのアカウントを使用するか、Control Tower の設定時または既存の AWS 環境に Control Tower ガバナンスを拡張する際に AWS Control Tower に自動で新しいアカウントを作成させることができます。セキュリティアカウントは、セキュリティおよびコンプライアンスチームにランディングゾーン内のすべてのアカウントへの読み取りおよび書き込みアクセスを付与するように設計された、制限されたアカウントとして使用されます。ロギングアカウントはリポジトリとして機能し、ランディングゾーン内のすべてのアカウントの API アクティビティとリソース設定のログを保存します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/",
-          "publishedOn": "2022-05-19T08:40:43.000Z",
-          "wordCount": 261,
-          "title": "AWS Control Tower で、お客様が提供するコアアカウントの使用が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1d91f12f066a7ede5b663c516af5e332f3c00b6b",
-          "author": "aws@amazon.com",
-          "description": "本日、Kubeflow v1.4 の AWS サポートを一般公開したことをお知らせいたします。Kubeflow on AWS は、AWS マネージドサービスとの統合により、データサイエンス業務を効率化し、運用上のオーバーヘッドを削減しながら、信頼性、安全性、可搬性、スケーラビリティに優れた ML システムの構築をサポートします。この Kubeflow ディストリビューションを使用して、Amazon Elastic Kubernetes Service (Amazon EKS) 上に ML システムを構築し、コンピュータビジョン、自然言語処理、音声翻訳、金融モデリングなどの幅広いユースケース向けに ML モデルを構築、トレーニング、調整、デプロイすることが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/",
-          "publishedOn": "2022-05-19T08:39:40.000Z",
-          "wordCount": 316,
-          "title": "Kubeflow v1.4.1 をサポートする Kubeflow の AWS ディストリビューションの一般提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b2b2819ef2b46f990786684a19fe3b7de6f7ab08",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue で、追加のクライアント認証メカニズムを使用して Apache Kafka に接続できるようになりました。AWS Glue で、SCRAM (Salted Challenge Response Authentication Mechanism) または GSSAPI (Kerberos) を用いた SASL (Simple Authentication and Security Layer) がサポートされるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/",
-          "publishedOn": "2022-05-19T08:33:52.000Z",
-          "wordCount": 271,
-          "title": "AWS Glue で Apache Kafka の SASL 認証のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b8237521e1aef54cda8b1caa0d152655b2d86c60",
-          "author": "aws@amazon.com",
-          "description": "Amazon Neptune は、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) リージョンで FedRAMP High の対象になり、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、 米国西部 (オレゴン) リージョンで FedRAMP Moderate の対象になりました。これで、Amazon Neptune を使用して、FedRAMP High または Moderate の認可を必要とするワークロード用のアプリケーションを構築できるようになりました。これにより、Amazon Neptune は、これらのリージョンで国防総省のクラウドコンピューティングセキュリティ要件ガイド影響レベル 2 (DoD SRG IL-2) サービスとしても承認されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/",
-          "publishedOn": "2022-05-19T08:31:59.000Z",
-          "wordCount": 281,
-          "title": "Amazon Neptune が FedRAMP に準拠",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "505628db8093f8fc38512b26a7313f7a9dc3c315",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon EC2 I4i メタルインスタンスは、米国東部 (オハイオおよびバージニア北部)、米国西部 (オレゴン)、欧州 (アイルランド) のアマゾン ウェブ サービス (AWS) リージョンでご利用いただけます。ストレージ I/O を多用するワークロード向けに設計された I4i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、I3 インスタンスと比較してコンピューティングに関して最大 30% 優れた料金パフォーマンスを提供し、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を実現しています。I4i メタルインスタンスは、Amazon EC2 内で最高のローカルストレージパフォーマンスを提供し、MySQL、Oracle DB、Microsoft SQL Server などのデータベース、およびアプリケーションのサービスレベルアグリーメント (SLA) を満たすために低レイテンシーのローカル NVMe ストレージが必要な MongoDB、Couchbase、Aerospike、Redis などの NoSQL データベース向けに設計されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/",
-          "publishedOn": "2022-05-19T02:32:04.000Z",
-          "wordCount": 361,
-          "title": "Amazon EC2 I4i メタルインスタンスが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "73cb5e987b7597ef55fffd1bc154e013be05d471",
-          "author": "aws@amazon.com",
-          "description": "Amazon CloudWatch のコンソールエクスペリエンスの機能強化が発表されました。ダッシュボードデータの可視化とコンソールのナビゲーションが改善されました。この改善には、ダッシュボードの新しいウィジェットと、使用頻度の高いダッシュボード、ロググループ、アラームにアクセスするオプションが含まれます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/",
-          "publishedOn": "2022-05-19T02:31:14.000Z",
-          "wordCount": 221,
-          "title": "Amazon CloudWatch のコンソールエクスペリエンスが改善",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1648,16 +1568,6 @@
           "wordCount": 537,
           "title": "データのじかんNews 2022年5月Part.02",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/datatimesnews_2022_05_part2_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=41876",
-          "author": "BunkiMIyata",
-          "description": "昨今、官民を問わず一大テーマとなっているDX。少子高齢化や過疎化が叫ばれる中で、地方におけるDXにも注目が集まっています。しかし、人材や環境が首都圏とは異なる地方ではどんなDXが求められているのでしょうか。 […]",
-          "link": "https://data.wingarc.com/dx-next-tohoku-41876?utm_source=rss&utm_medium=rss&utm_campaign=dx-next-tohoku",
-          "publishedOn": "2022-05-19T01:00:30.000Z",
-          "wordCount": 567,
-          "title": "東北地方におけるDXの課題と可能性は？ 「人が減っても豊かで幸せな未来を創る」をミッションに掲げる DX　NEXT　TOHOKUを取材",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/04/04_LocalDXLab-5.jpg"
         }
       ]
     },
@@ -1972,16 +1882,6 @@
           "wordCount": 1504,
           "title": "Java Newsラウンドアップ - JDK 19のJEP最新情報、Project Loom、MicroStream 7.0、New Relic Javaサーベイ",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220503054822/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/05/meta-privacy-authentication/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Vasco Veloso",
-          "description": "Metaは認証を使って、サービスのエンドポイントを不正使用から保護している。個人を特定できる情報を削除するためにアクセスデータを後処理することは、リソースを大量に消費するアプローチであることがわかった。どのようにMetaが匿名化された認証を活用して、サービスとユーザのプライバシーを同時に保護するかを説明する記事が最近公開された。\n By Vasco Veloso  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/05/meta-privacy-authentication/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-05-19T06:10:00.000Z",
-          "wordCount": 571,
-          "title": "Metaがどのように匿名化された認証でプライバシーを配慮したクレデンシャルを使ったか",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220503054822/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2079,16 +1979,6 @@
           "wordCount": 1174,
           "title": "デプロイメントを改善してステージング環境を無くす方法",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220524044501/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/05/slo-culture-at-salesforce/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Matt Saunders",
-          "description": "Salesforceは、サービスレベル目標（SLO）を監視するためのプラットフォームを構築した。このプラットフォームでは、サービス所有者に対する深く実用的な分析を提供する。それは、どのようにサービスの健全性を改善・維持し、SLIの低下を発見し、独自のSLOを満たしていない依存サービスを発見するかの分析である。そして、全体として、どのようにサービスに対する顧客体験の理解を深めるかの分析である。\n By Matt Saunders  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/05/slo-culture-at-salesforce/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-05-19T09:01:00.000Z",
-          "wordCount": 573,
-          "title": "SalesforceでSLO主導の文化を築く",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220503054838/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2350,16 +2240,6 @@
           "wordCount": 238,
           "title": "2022年5月22日　ねこーず ── 帰ってきた『技評ねこ部通信』",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202205/19",
-          "author": "傍島康雄",
-          "description": "2022年5月11～5月12日まで開催されたGoogle I/O 2022の基調講演で，新しいハードウェアが複数発表されました。今回から複数回に分けて紹介します。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202205/19",
-          "publishedOn": "2022-05-19T00:06:00.000Z",
-          "wordCount": 426,
-          "title": "2022年5月第3週　Google I/O 2022で発表されたハードウェアたち① ── Android Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         }
       ]
     },
@@ -2669,16 +2549,6 @@
           "wordCount": 460,
           "title": "Better Stimulusガイド 03: エラーハンドリング（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/better_stimulus03_error_handling_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_connected_to_optional_role_eyecatch_trans-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails does not require role when to be passed to connected_to &#124; Saeloun Blog 原文公開日: 2022/04/13 原著者: Swaathi Kakarla サイト: Saeloun Blog Rails 7: connected_toでロールの指定が必須でなくなった（翻訳） RailsのActive Recordには、すぐ使える強力なシャーディング機能があります。垂直シャーディングと水平シャーディングのどちらでも定義可能で、connected_toで両者を切り替えられます。すべ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: connected_toでロールの指定が必須でなくなった（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_19/117824",
-          "publishedOn": "2022-05-19T08:30:29.000Z",
-          "wordCount": 404,
-          "title": "Rails 7: connected_toでロールの指定が必須でなくなった（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_connected_to_optional_role_eyecatch_trans-min.png"
         }
       ]
     },
@@ -4013,26 +3883,6 @@
           "wordCount": 725,
           "title": "米国で粉ミルク不足が深刻化、ネット上で高額売買も",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/18171503/GettyImages-78766213-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/05/18/276464/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/05/19/276464/",
-          "publishedOn": "2022-05-19T09:01:30.000Z",
-          "wordCount": 327,
-          "title": "BA.2株の病原性はBA.1株と同程度、東大がオミクロン株を比較",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/05/18/276449/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/05/19/276449/",
-          "publishedOn": "2022-05-19T03:56:38.000Z",
-          "wordCount": 339,
-          "title": "白色矮星周囲の高温ガスの姿を可視光・X線同時観測で解明＝東大",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
