@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-17T02:42:38.647Z</updated>
+    <updated>2022-06-17T03:27:10.923Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KubeConEUでCNFCの卒業セレモニー：Prometheus、Linkerd、​​Helmなど]]></title>
+        <id>https://www.infoq.com/jp/news/2022/06/future-cloud-kubecon22/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/06/future-cloud-kubecon22/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-17T02:41:00.000Z</updated>
+        <summary type="html"><![CDATA[KubeConEU + CloudNative Conferenceの最終日の基調講演の一環として、CNCFは、より高いレベルの成熟度に移行するプロジェクトを発表した。この移行により、それらの利用が推奨されると共に、サポートが必要となる。新たに移行したプロジェクトの中で、Prometheus、Jaeger、Envoyなどのすでに知っている名前を見つけることができるであろう。一方で、ArgoCD、OpenTelemetry、gRPCはIncubatingステータスに到達した。
+ By Olimpiu Pop  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Olimpiu Pop</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トップランナー2人が語り合う、 データ・AI時代の意思決定と人材育成]]></title>
         <id>https://data.wingarc.com/?p=42915</id>
@@ -4712,16 +4723,6 @@ AWS は日本で 300 万人以上が利用する学術情報ネットワーク�
 購読キャンペーン実施中]]></summary>
         <author>
             <name>Jonathan W. Rosen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linxuカーネル内部をフックするeBPFを用いてセキュリティの可観測性を実現する「Tetragon」がオープンソースで公開]]></title>
-        <id>https://www.publickey1.jp/blog/22/linxuebpftetragon.html</id>
-        <link href="https://www.publickey1.jp/blog/22/linxuebpftetragon.html"/>
-        <updated>2022-05-18T15:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Linuxカーネルを書き換えることなくその内部の機能をフックし、フック先でサンドボックス化されたプログラムを実行することにより、カーネルをプログラマブルに機能拡張できる「eBPF」（Extended Berkeley Packet Filt...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>

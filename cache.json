@@ -1694,6 +1694,16 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/06/future-cloud-kubecon22/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Olimpiu Pop",
+          "description": "KubeConEU + CloudNative Conferenceの最終日の基調講演の一環として、CNCFは、より高いレベルの成熟度に移行するプロジェクトを発表した。この移行により、それらの利用が推奨されると共に、サポートが必要となる。新たに移行したプロジェクトの中で、Prometheus、Jaeger、Envoyなどのすでに知っている名前を見つけることができるであろう。一方で、ArgoCD、OpenTelemetry、gRPCはIncubatingステータスに到達した。\n By Olimpiu Pop  Translated by  編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/06/future-cloud-kubecon22/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-06-17T02:41:00.000Z",
+          "wordCount": 1176,
+          "title": "KubeConEUでCNFCの卒業セレモニー：Prometheus、Linkerd、​​Helmなど",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/06/aws-lambda-nodejs-16-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Steef-Jan Wiggers",
           "description": "Recently AWS ann最近AWSは、Node.jsバージョン16がFunction as a Service（FaaS）AWS Lambdaをサポートし、アクティブなLTSステータス（一般利用可能）にあることを発表した。ounced that Node.js version 16 supports its Function as a Service (FaaS) and is in active LTS status (ready for general use).\n By Steef-Jan Wiggers  Translated by 編集部T _",
@@ -3006,16 +3016,6 @@
           "wordCount": 205,
           "title": "Deno、Node.js、Cloudflare Workersなど、非Webブラウザ系JavaScriptランタイムのコード互換を目指す「Web-interoperable Runtimes Community Group」（WinterCG）が発足",
           "imageUrl": "https://www.publickey1.jp/2022/wintercg02.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/linxuebpftetragon.html",
-          "author": null,
-          "description": "Linuxカーネルを書き換えることなくその内部の機能をフックし、フック先でサンドボックス化されたプログラムを実行することにより、カーネルをプログラマブルに機能拡張できる「eBPF」（Extended Berkeley Packet Filt...",
-          "link": "https://www.publickey1.jp/blog/22/linxuebpftetragon.html",
-          "publishedOn": "2022-05-18T15:24:12.000Z",
-          "wordCount": 224,
-          "title": "Linxuカーネル内部をフックするeBPFを用いてセキュリティの可観測性を実現する「Tetragon」がオープンソースで公開",
-          "imageUrl": "https://www.publickey1.jp/2022/hAP75BgV.jpg"
         }
       ]
     },
