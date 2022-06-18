@@ -1304,26 +1304,6 @@
           "wordCount": 255,
           "title": "AWS Resilience Hub が Terraform、Amazon ECS、および追加サービスのサポートを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "096c47ea1a22ed9bdc563aa9c7b105cbbce20a98",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift は、同時トランザクションのスナップショット分離のサポートを開始しました。Amazon Redshift は、SQL 標準に従って、ダーティリード、 繰り返し不リード、およびファントムリードを防止します。Amazon Redshift は、トランザクションをシリアル化するために SERIALIZABLE と SNAPSHOT ISOLATION の 2 つのオプションを提供します。SERIALIZABLE オプションは、厳密なシリアル化を実装します。このオプションでは、結果を同時に実行されているトランザクションのシリアル順序にマッピングできないと、トランザクションが失敗する可能性があります。SNAPSHOT ISOLATION オプションで同時実行性を高めることができ、同じテーブル内で異なる行への同時変更が正常に行われます。どちらのオプションでも、トランザクションはデータベースの最新のコミット済みのバージョン、つまりスナップショットで引き続き動作します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/",
-          "publishedOn": "2022-05-19T22:01:56.000Z",
-          "wordCount": 255,
-          "title": "Amazon Redshift で、同時トランザクションのための新しいスナップショット分離レベルのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "931e7fd5182dc0568173758ee06a51e9cd6f1628",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始しました。予測スケーリングは、将来の需要に備え、Auto Scaling グループを積極的にスケールアウトすることができます。この機能により、容量を過剰にプロビジョニングする必要がなくなり、アプリケーションの応答性を確保しながら EC2 のコストを削減できます。(これまで、予測スケーリングは、パブリックリージョンで、AWS Auto Scaling プランでのみ利用可能でした。) AWS GovCloud (米国西部) リージョンでのサポートにより、米国の政府機関や請負業者は、特定の規制およびコンプライアンス要件に対応することで、機密性の高いワークロードを実行できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/",
-          "publishedOn": "2022-05-19T22:01:08.000Z",
-          "wordCount": 266,
-          "title": "Amazon EC2 Auto Scaling が AWS GovCloud (米国西部) リージョンで予測スケーリングをサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1391,16 +1371,6 @@
           "wordCount": 220,
           "title": "部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/y/yuki_0920/20220513/20220513180330.png"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/fjord-boot-camp-interview-kasumi8pon-and-ima1zumi",
-          "author": null,
-          "description": "弊社エンジニアの @kasumi8ponと @ima1zumiのフィヨルドブートキャンプ卒業生インタビューが公開されました。 bootcamp.fjord.jp この記事は、インタビューを受けた2人のコメントを載せたライナーノーツになっております。インタビュー本編とあわせてお楽しみください。 @kasumi8pon コメント 今回のインタビューを受けて、フィヨルドブートキャンプで学習していた時代のことを思い出しました。自分の経験の話が、今学んでいる人や学ぼうとしている人が未来を描くのに役に立てば嬉しいです。 また、自分自身のふりかえりにもなりました。当時わからなくて苦労したプラクティスが、今で…",
-          "link": "https://blog.agile.esm.co.jp/entry/fjord-boot-camp-interview-kasumi8pon-and-ima1zumi",
-          "publishedOn": "2022-05-20T01:55:34.000Z",
-          "wordCount": 229,
-          "title": "@kasumi8ponと@ima1zumiのインタビューが公開されました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220316/20220316031847.jpg"
         }
       ]
     },
@@ -1648,16 +1618,6 @@
           "wordCount": 643,
           "title": "愛知県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/dxlab_aichi_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42274",
-          "author": "石川麻里",
-          "description": "データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 休暇をうまく取得すれば最大10連休も可能な2022年度のゴールデンウイークはいかが過ごされたでしょうか？ さて前回に […]",
-          "link": "https://data.wingarc.com/datatimes_news202205-02-42274?utm_source=rss&utm_medium=rss&utm_campaign=datatimes_news202205-02",
-          "publishedOn": "2022-05-20T00:00:40.000Z",
-          "wordCount": 537,
-          "title": "データのじかんNews 2022年5月Part.02",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/datatimesnews_2022_05_part2_top.jpg"
         }
       ]
     },
@@ -2176,16 +2136,6 @@
           "wordCount": 273,
           "title": "2022年5月25日　Linux 5.18リリース，カーネル開発をC11に移行 ── Linux Daily Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202205/20",
-          "author": "吉田史",
-          "description": "kinetic（22.10）の開発は，初期に特有の「そもそもこれを除外したりできないかな」というタイプの議論が継続して行われています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202205/20",
-          "publishedOn": "2022-05-20T00:58:00.000Z",
-          "wordCount": 509,
-          "title": "2022年5月20日号　「kinetic（22.10）の開発/isc-dhcpの除去，Ubuntu Core 22のリリースの準備 ── Ubuntu Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
         }
       ]
     },
@@ -2320,16 +2270,6 @@
           "wordCount": 313,
           "title": "2022年5月第4週　Google I/O 2022で発表されたハードウェアたち② ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202205/0522",
-          "author": null,
-          "description": "ねこは群れずに単独行動を取る動物と言われていますが，ごはんに困らない環境だと複数で行動を取ったりもするそうです。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202205/0522",
-          "publishedOn": "2022-05-20T06:00:00.000Z",
-          "wordCount": 238,
-          "title": "2022年5月22日　ねこーず ── 帰ってきた『技評ねこ部通信』",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         }
       ]
     },
@@ -2629,16 +2569,6 @@
           "wordCount": 1050,
           "title": "週刊Railsウォッチ: Hotwireの用途解説記事、RubyKaigi 2022プロポーザル募集開始ほか（20220523前編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220523_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_20/118005",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/05/better_stimulus03_error_handling_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Global Error Handler &#8211; Better StimulusJS 原文更新日: 2022/02/17 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 グローバルなエラーハンドラ こんなときに使いたい Stimulusに関連するエラー（connectエラー、targetsにアクセスできないなど）やアプリケーションエラーをコントローラ内でキャッチして、SentryやHoneybadgerなどのエラー [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_20/118005\" data-wpel-link=\"internal\" target=\"_self\">Better Stimulusガイド 03: エラーハンドリング（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_20/118005",
-          "publishedOn": "2022-05-20T08:30:01.000Z",
-          "wordCount": 460,
-          "title": "Better Stimulusガイド 03: エラーハンドリング（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/better_stimulus03_error_handling_eyecatch-min.png"
         }
       ]
     },
@@ -3144,6 +3074,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/17/278579/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/19/278579/",
+          "publishedOn": "2022-06-18T21:05:20.000Z",
+          "wordCount": 680,
+          "title": "抗ウイルス薬、耐性ウイルス出現リスク低く＝東大らが動物実験",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=277851",
           "author": "Antonio Regalado",
@@ -3913,19 +3853,9 @@
           "wordCount": 353,
           "title": "「呼気」を使った個人認証、東大・パナソニックなどが原理実証",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/05/20/276582/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/05/20/276582/",
-          "publishedOn": "2022-05-20T02:11:43.000Z",
-          "wordCount": 354,
-          "title": "うつ病治療になぜケタミンが効くのか？ 金沢大らが仕組み解明",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
