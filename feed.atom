@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T02:39:39.521Z</updated>
+    <updated>2022-06-18T03:25:31.030Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Experiments でモデルのトレーニング結果を可視化する一般的なチャートタイプのサポートを開始しました]]></title>
+        <id>e3dcb32ca6f33df1a9686fb6af9b800a3270a10e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/"/>
+        <updated>2022-06-18T02:53:39.000Z</updated>
+        <summary type="html"><![CDATA[SageMaker Experiments で、SageMaker 上で実行されたトレーニングジョブの結果を理解するのに役立つ詳細なメトリクスやチャートのサポートを開始しました。Amazon SageMaker Experiments は、機械学習 (ML) を使用した実験を整理、追跡、比較、評価するのに役立つ Amazon SageMaker の機能です。本リリースにより、適合率と再現率 (PR) の曲線、受信者動作特性 (ROC 曲線)、および混同行列を表示できるようになりました。これらの曲線を使用すると、偽陽性と陰性、および SageMaker で学習済みのモデルのパフォーマンスと精度のトレードオフを把握することができます。複数のトレーニングの実行を比較したり、ユースケースに最適なモデルを特定したりすることも容易になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora PostgreSQL が LO モジュールをサポート]]></title>
+        <id>cdbcb858a7393c05062443f138e43eb26cc8fc41</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/"/>
+        <updated>2022-06-18T02:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションは、ラージオブジェクト (LO) モジュールをサポートするようになりました。LO モジュールは、ラージオブジェクト (LO や BLOB とも言われる) の管理をサポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora は PostgreSQL 13.7、12.11、11.16、10.21 バージョンをサポートし、拡張機能を更新]]></title>
+        <id>9fe9208f802b2cf793711ba4f30e36ebe8afdf82</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/"/>
+        <updated>2022-06-18T02:52:02.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースコミュニティによる PostgreSQL データベースの更新の発表を受けて、Amazon Aurora PostgreSQL 互換エディションが更新され、PostgreSQL 13.7、12.11、11.16、10.21 がサポートされました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で、Amazon SageMaker Autopilot を使用したモデルトレーニングが可能に]]></title>
+        <id>3a3d3240de058a05dbc59b5dcf70e1c2e666e101</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/"/>
+        <updated>2022-06-18T02:51:14.000Z</updated>
+        <summary type="html"><![CDATA[本日より、SageMaker Data Wrangler から SageMaker Autopilot を起動して、機械学習モデルを自動的にトレーニング、調整、構築できます。SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的にトレーニングおよび調整します。以前は Data Wrangler を使用して機械学習用のデータを準備し、Autopilot で機械学習モデルを個別にトレーニングしていました。この統合されたエクスペリエンスにより、SageMaker Data Wrangler で準備したデータを SageMaker Autopilot に簡単にエクスポートして、モデルトレーニングできるようになりました。数回クリックするだけで、機械学習モデルを自動的に構築、トレーニング、調整できます。これにより従来より簡単に、最先端の特徴量エンジニアリング技術を自動的に採用し、高品質な機械学習モデルをトレーニングして、データからより迅速にインサイトを得ることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Transcribe のリアルタイムストリーミングが AWS GovCloud (米国) リージョンで利用可能に]]></title>
+        <id>ced35c9629b4e401cdaeedd509bb001c63b298ae</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-transcribe-real-time-streaming-aws-govcloud-us/"/>
+        <updated>2022-06-18T02:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Transcribe は、音声をテキストに変換する機能をユーザーのアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。本日、Amazon Transcribe のストリーミング API が AWS GovCloud (米国) リージョンで利用可能となったことをお知らせいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppFlow のソースに Salesforce Marketing Cloud のサポートが加わりました]]></title>
+        <id>59516ff4d0104cb66def027ade60fb1ec3dd70d0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/"/>
+        <updated>2022-06-18T02:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon AppFlow は、AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間のデータ転送をわずか数クリックで安全に行うことができる、フルマネージド型の統合サービスです。今回、Amazon AppFlow のソースに Salesforce Marketing Cloud のサポートが加わりました。Salesforce Marketing Cloud は、B2B および B2C のお客様を対象とする主要なマーケティングオートメーションプラットフォームとして、関連性の高いパーソナライズされたジャーニーをさまざまなチャネル間やデバイス間で企業が実現するのをサポートします。本リリースにより、AppFlow では Campaigns や Activities などの Salesforce Marketing Cloud のデータを AWS に取り込み、さらなる分析や強化を行えるようになります。本リリースでは、AppFlow の既存のデータ転送機能を用いて Salesforce のアプリケーションとの連携が構築されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect の予測、容量計画、スケジューリングが AWS のアジアパシフィック (シドニー) リージョンで利用可能に]]></title>
+        <id>ffcbf665d45917b82cb564740f587b1da5bf93a2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/"/>
+        <updated>2022-06-18T02:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect の予測、容量計画、スケジューリング (プレビュー) が、アジアパシフィック (シドニー) の AWS リージョンで利用可能になりました。機械学習機能により、コンタクトセンターのマネージャーがコンタクトボリュームと平均処理時間を高精度で予測するのが容易になり、理想的な人員配置レベルを決定し、エージェントスケジュールを最適化して、適切なエージェントを適切なタイミングで確保することができます。これは、企業がオペレーションを最適化し、サービスレベルの目標を達成し、エージェントと顧客の満足度を向上させるのに役立ちます。クリックするだけで使い始めることができ、カスタムアプリケーションを構築したり、サードパーティー製品と統合したりする必要はありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションがダウンタイムなしのパッチ適用に対応しました]]></title>
+        <id>683297bf2d7cc4d8701a19140da5152d3a355c2a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/"/>
+        <updated>2022-06-18T02:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションが、ダウンタイムなしのパッチ適用 (ZDP) に対応しました。ZDP により、新しいバージョンの PostgreSQL へのアップグレードや Aurora クラスターへのパッチ適用をダウンタイムなしで行えるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager Change Manager 統合により、ServiceNow の変更リクエストに関連付けられた AWS CloudTrail イベントが表示されるようになりました。]]></title>
+        <id>730d8cdb4fc4ca7c15bfdafc2ebf9a604ff3c8b4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/"/>
+        <updated>2022-06-18T02:38:22.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Systems Manager Change Manager ServiceNow Connector を使用して、変更リクエストに対応する CloudTrail イベントログを表示できます。 この統合により、変更リクエストの影響を受けたリソースがわかりやすくなるため、変更リクエストの実行がよりはっきりと把握できます。AWS Systems Manager Change Manager を使用すると、AWS およびオンプレミスでのインフラストラクチャおよびアプリケーションの設定に対する運用上の変更リクエスト、承認、実行、報告をより簡単に行うことができます。AWS Service Management Connector を使用すると、変更リクエストを作成して承認し、ServiceNow コンソールでこれらの変更リクエストに関連付けられた CloudTrail イベントを取得して、AWS Change Manager との統合をさらに深めることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Stimulusガイド 06: コントローラとDOMのマッパー（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_06_17/118849</id>
