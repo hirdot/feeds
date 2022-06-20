@@ -6,6 +6,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "6f7ecae3193b7fa42a4f0eac1def9ff609639448",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service では、複数のリージョンにおけるクラスター間検索をサポートしました。これにより、異なるリージョンの複数のドメイン間において 1 回のクエリで検索、集計、可視化を実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/",
+          "publishedOn": "2022-06-20T15:05:20.000Z",
+          "wordCount": 293,
+          "title": "Amazon OpenSearch Service のクロスリージョン検索のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "2c282b30fa9dc88a6bbb683ebb6aeb2e720e1e07",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Transfer Family では、SETSTAT コマンドの無視や TLS セッション再開の処理方法のカスタマイズを行えます。これらの新機能により、クライアント側の変更を何もすることなく、幅広いクライアントに対応できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/",
+          "publishedOn": "2022-06-20T15:04:32.000Z",
+          "wordCount": 320,
+          "title": "AWS Transfer Family がサーバー設定のオプションを拡張し、幅広いクライアントに対応",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "f961e1e59bdf3a58bcf3f3f5d24edbdacd8d8ce1",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight に、作成者と閲覧者がテーブルやピボットテーブルでドラッグコントローラーを柔軟に使用できるオプションが追加されました。作成者や閲覧者は、セル、行ヘッダー、列ヘッダー (ピボットテーブルの場合は親レベルとリーフレベルの両方にある) をドラッグすることで、列の幅を簡単に変更できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/",
+          "publishedOn": "2022-06-20T15:03:43.000Z",
+          "wordCount": 271,
+          "title": "Amazon Quicksight がテーブルやピボットテーブルの行と列のドラッグコントローラーを追加",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "cdfa59d7a541ebfbbf41a92d6ef3ff5f3e0685f3",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) Service Catalog で、属性ベースのアクセス制御 (ABAC) のサポートが開始されました。これにより、お客様は Service Catalog でタグを使用して、AWS リソースへのアクセスと権限を容易に管理することができます。Service Catalog 管理者は、AWS Identity and Access Management (IAM) ポリシーを定義し、AWS リソースと IAM ユーザーまたはロール間で共有されるタグに基づいて、アクセス権の付与やよりきめ細かな権限の指定ができるようになりました。例えば、タグの照合に基づいて、IAM エンティティ (ユーザーやロールなど) による Service Catalog アカウントでのリソース作成を許可したり拒否したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/",
+          "publishedOn": "2022-06-20T15:02:51.000Z",
+          "wordCount": 323,
+          "title": "AWS Service Catalog から属性ベースのアクセス制御 (ABAC) のサポートの発表",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "2d4e79db1c3a0bc23e947083152e7ba2ece79948",
+          "author": "aws@amazon.com",
+          "description": "Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高い、フルマネージドの Apache Cassandra 互換データベースサービスですが、今回、Amazon CloudWatch を使ってテーブルレベルのストレージ料金をモニタリングできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/",
+          "publishedOn": "2022-06-20T15:02:02.000Z",
+          "wordCount": 311,
+          "title": "Amazon Keyspaces が Amazon CloudWatch を使ったテーブルストレージ料金のモニタリングをサポート",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "01f00e3641ee2051ada16436041f4698ce29a120",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for SQL Server では、Native Backup/Restore for Microsoft SQL Server を使用して、TDE が有効化されたデータベースの移行をサポートしました。これまでは、Amazon RDS に移行するために、TDE が有効化されたオンプレミス SQL Server データベースでは TDE を無効にする必要がありました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/",
+          "publishedOn": "2022-06-20T15:01:14.000Z",
+          "wordCount": 343,
+          "title": "Amazon RDS for SQL Server で、TDE が有効化された SQL Server データベースの移行をサポート",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "e1bbf2902ec4a7c61d3015900f39926610364dc1",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas の新しいインタラクティブな製品ツアーとさまざまなユースケースのサンプルデータセットを使用すれば、オンボーディングがスムーズになります。Amazon SageMaker Canvas は、ビジネスアナリストが自分で正確な機械学習 (ML) モデルを生成してインサイトと予測を入手できるようにするポイントアンドクリック式のビジュアルインターフェイスです。機械学習の経験やコードの記述はまったく必要ありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/",
+          "publishedOn": "2022-06-20T14:46:12.000Z",
+          "wordCount": 312,
+          "title": "Amazon SageMaker Canvas の新しいインタラクティブな製品ツアーとサンプルデータセットを使用してオンボーディングをスムーズに",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
           "id": "e3dcb32ca6f33df1a9686fb6af9b800a3270a10e",
           "author": "aws@amazon.com",
           "description": "SageMaker Experiments で、SageMaker 上で実行されたトレーニングジョブの結果を理解するのに役立つ詳細なメトリクスやチャートのサポートを開始しました。Amazon SageMaker Experiments は、機械学習 (ML) を使用した実験を整理、追跡、比較、評価するのに役立つ Amazon SageMaker の機能です。本リリースにより、適合率と再現率 (PR) の曲線、受信者動作特性 (ROC 曲線)、および混同行列を表示できるようになりました。これらの曲線を使用すると、偽陽性と陰性、および SageMaker で学習済みのモデルのパフォーマンスと精度のトレードオフを把握することができます。複数のトレーニングの実行を比較したり、ユースケースに最適なモデルを特定したりすることも容易になります。",
@@ -1174,16 +1244,6 @@
           "wordCount": 262,
           "title": "Amazon MQ が RabbitMQ バージョン 3.9.16 のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "956c21f137952e770c729e3522b39506bbe690ae",
-          "author": "aws@amazon.com",
-          "description": "AWS Backup では、Amazon FSx for NetApp ONTAP ファイルシステムを保護できるようになりました。これは、一元化されたデータ保護と規制コンプライアンスのニーズを満たすのに役立ちます。Amazon FSx for NetApp ONTAP は、AWS クラウドで NetApp ONTAP ファイルシステムを実行できるようにするフルマネージドの AWS のサービスです。AWS Backup のポリシーベースの機能を使用して、AWS Backup がサポートするストレージ、データベース、およびコンピューティングのための他の AWS のサービスとともに、Amazon FSx for NetApp ONTAP を一元的に保護できるようになりました。Amazon FSx for NetApp ONTAP ファイルシステムをイミュータブルなバックアップで保護し、監査に利用できるレポートを生成して、データ保護ポリシーへの準拠を証明できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-netapp-ontap-set-services-centralized-data-protection/",
-          "publishedOn": "2022-05-22T00:23:53.000Z",
-          "wordCount": 301,
-          "title": "AWS Backup が一元化されたデータ保護のために Amazon FSx for NetApp ONTAP を一連のサービスに追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2271,6 +2331,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_20/118920",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220620_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 インボイス制度の施行のために、年商一千万円を超える全ての法人の所在地、個人事業主の屋号と氏名が、csv で全面的に公開されることになりました。 Web APIで名前の一部だけ返す仕様で良かったはずなのに、国内の全事業者リストを公開するとはね。 https://t.co/bDR77U5ZBZ &#8212; 藤井 太洋, Taiyo Fujii (@t_trace) June 14, 2022 つっつきボイス:「年商一千万円を超える全ての法人と個人事業主が対象、マジで？」「年商は売上のことですね」「あくまで登録リストが公開されるだけで額までは公開されていませんけど」「そういえば [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_20/118920\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: GitLabがRailsにこだわる理由、Rails7アップグレードのハマりどころほか（20220620前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_20/118920",
+          "publishedOn": "2022-06-20T10:03:26.000Z",
+          "wordCount": 1131,
+          "title": "週刊Railsウォッチ: GitLabがRailsにこだわる理由、Rails7アップグレードのハマりどころほか（20220620前編）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220620_eyecatch-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_17/118849",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus_controller_dom_mapper_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Controller DOM Mapper &#8211; Better StimulusJS 原文更新日: 2020/03/09 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 コントローラとDOMのマッパー こんなときに使いたい あるコントローラの内部ステートに外部からアクセスしようとする場合 コントローラから別のコントローラのメソッドを呼び出す必要がある場合 たとえば、コントローラが処理を行うために、今どのページにい [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_17/118849\" data-wpel-link=\"internal\" target=\"_self\">Better Stimulusガイド 06: コントローラとDOMのマッパー（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -2497,6 +2567,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_cloudgoogle_distributed_cloudanthos_on-premisesgdc_virtual.html",
+          "author": null,
+          "description": "Google Cloudは、これまで同社のハイブリッドクラウド戦略を実現する製品としてオンプレミス用に提供してきた「Anthos on-premises」の製品名を「Google Distributed Cloud Virtual」（GDC...",
+          "link": "https://www.publickey1.jp/blog/22/google_cloudgoogle_distributed_cloudanthos_on-premisesgdc_virtual.html",
+          "publishedOn": "2022-06-20T15:58:24.000Z",
+          "wordCount": 1444,
+          "title": "Google Cloud、Google Distributed Cloudにオンプレミス用の「Anthos on-premises」を「GDC Virtual」として統合",
+          "imageUrl": "https://www.publickey1.jp/2022/o8IvpTTk.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/2021420005202611idc_japan.html",
           "author": null,
@@ -3004,6 +3084,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=278685",
+          "author": "Zeyi Yang",
+          "description": "コンテンツ規制をユーザーのコメントにまで拡大する法律の改訂案は、中国の検閲パワーを大幅に高めるかもしれない。しかし、プラットフォームやクリエイターにその代行を押しつけ、費用負担までさせることになるだろう。",
+          "link": "https://www.technologyreview.jp/s/278685/china-wants-all-social-media-comments-to-be-pre-reviewed-before-publishing/",
+          "publishedOn": "2022-06-20T21:55:05.000Z",
+          "wordCount": 1335,
+          "title": "中国がネット規制強化案、コメントや弾幕も事前検閲対象へ",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/20/278788/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/21/278788/",
+          "publishedOn": "2022-06-20T21:35:17.000Z",
+          "wordCount": 688,
+          "title": "銀河中心からの軟ガンマ線の直接検出に初成功＝京大など",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/20/278842/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/21/278842/",
+          "publishedOn": "2022-06-20T21:26:30.000Z",
+          "wordCount": 686,
+          "title": "東北大、深層学習で放射線治療による腫瘍縮小効果を予測",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=278213",
           "author": "Fleur Macdonald",
