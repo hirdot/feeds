@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-21T01:30:12.363Z</updated>
+    <updated>2022-06-21T02:41:01.875Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java Newsラウンドアップ: OpenJDK, Spring最新版とCVE, Payara Platform, Apache Tomcatのアップデート]]></title>
+        <id>https://www.infoq.com/jp/news/2022/06/java-news-roundup-may16-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/06/java-news-roundup-may16-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-21T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[今週2022年5月16日のJavaラウンドアップは、OpenJDKからJDK 19に関するニュース、Jakarta EE 10、SpringのマイルストンリリースとポイントリリースとCVE、May 2022 Payara Platformリリース、Quarkus 2.9.1.Final、Micronaut 3.4.4、WildFly 16.1.1、Hibernate ORM 5.6.9.Final、Hibernate Reactive 11.5.Final、JDKMon 17.0.25、JobRunr 5.1.2、JRelease早期アクセス、Apache Tomcatポイントリリース、Apache Camel 3.17.0といった内容でお届けする。
+ By Michael Redlich  Translated by  h_yoshida _]]></summary>
+        <author>
+            <name>Michael Redlich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalix：データベースを使わないクラウドネイティブでビジネスクリティカルなアプリケーション構築]]></title>
+        <id>https://www.infoq.com/jp/news/2022/06/kalix-serverless/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/06/kalix-serverless/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-21T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Lightbendは最近、Kalixをリリースした。LightbendはAkkaを提供する企業である。Kalixは、任意のプログラミング言語を使って、データベースを使わない、クラウドネイティブでビジネスクリティカルなアプリケーションを構築するための新しいPlatform-as-a-Service製品である。Kalixは統合アプリケーションレイヤーであり、ソフトウェアを作成するために必要な部品を集め、それらの実装の詳細を抽象化する。Lighbendは、開発者に革新的なNoOps開発者エクスペリエンスを提供しようとしている。
+ By Eran Stiller  Translated by  編集部T _]]></summary>
+        <author>
+            <name>Eran Stiller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoftがパブリックプレビュー版としてAzure DNSプライベートリゾルバーをリリース]]></title>
+        <id>https://www.infoq.com/jp/news/2022/06/azure-dns-private-resolver/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/06/azure-dns-private-resolver/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-21T01:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Azure DNSプライベートリゾルバーは、VMベースのDNSサーバをデプロイせずに、オンプレミス環境からAzure DNSプライベートゾーンにクエリを実行したり、その逆を実行したりできる新サービスである。この新サービスは、Azure内でフルマネージドでパブリックプレビュー版として提供される。
+ By Steef-Jan Wiggers  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Steef-Jan Wiggers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2がNitroTPMとUEFIセキュアブートをサポート]]></title>
+        <id>https://www.infoq.com/jp/news/2022/06/ec2-nitrotpm-uefi/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
+        <link href="https://www.infoq.com/jp/news/2022/06/ec2-nitrotpm-uefi/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
+        <updated>2022-06-21T01:35:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSは最近、UEFIセキュアブートとNitroTPMの一般向け提供を発表した。NitroTPMは、AWS Nitroシステムをベースとした、EC2インスタンス向けの仮想TPMモジュールである。この新機能は、ブートプロセスの検証、キーの保護、デジタル著作権管理のための設計となっている。
+ By Renato Losio  Translated by 編集部T _]]></summary>
+        <author>
+            <name>Renato Losio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第5回　VRの魅力とエンジニアの情熱 ── ちょっと気になる隣の技術畑]]></title>
         <id>https://gihyo.jp/dev/serial/01/technical_field/0005</id>
