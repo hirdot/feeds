@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "ee71612eaa3945530a3db9ab4d0780b1365f85b0",
+          "author": "aws@amazon.com",
+          "description": "Amazon Aurora Serverless v1 が MySQL 5.6 から 5.7 へのインプレースアップグレードに対応しました。データベースをバックアップして新しいバージョンに復元する代わりに、Amazon RDS マネジメントコンソールで数回のクリック操作を行うだけでアップグレードできます。また、最新の AWS SDK または CLI を使用することも可能です。 このプロセスでは新しいクラスターが作成されないため、同じエンドポイントや、クラスターが持つその他の特性を維持できます。新しいクラスターボリュームにデータをコピーする必要がないため、アップグレードが数分で完了します。アップグレードは即時またはメンテナンス時に適用されます。アップグレード中は、データベースクラスターが使用できなくなります。詳細については Aurora のドキュメントをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/",
+          "publishedOn": "2022-06-21T20:17:06.000Z",
+          "wordCount": 315,
+          "title": "Amazon Aurora Serverless v1 が MySQL 5.6 から 5.7 へのインプレースアップグレードをサポート",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "3b9fd309c3daadf762a087b5755fbd5d0fdb27e1",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 C6i インスタンスを AWS リージョン欧州 (フランクフルト)でもご利用いただけるようになりました。C6i インスタンスは、オールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサー (コードネーム: Ice Lake) を搭載し、様々なワークロードにおいて C5 インスタンスと比較して最大 15％ のコンピュートティングプライスパフォーマンスを提供し、インテルトータルメモリーエンクリプション (TME) を使用した常時メモリ暗号化を実現しています。C6i インスタンスは、計算負荷の高いワークロード向けに設計されており、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これにより、ホストハードウェアの計算およびメモリリソースのほぼすべてがインスタンスに提供されます。これらのインスタンスは、バッチ処理、分散分析、ハイパフォーマンスコンピューティング (HPC)、広告配信、高度にスケーラブルなマルチプレイヤーゲーム、ビデオエンコーディングのような計算量の多いアプリケーション向けに設計されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-c6i-instances-available-additional-region/",
+          "publishedOn": "2022-06-21T20:16:17.000Z",
+          "wordCount": 381,
+          "title": "Amazon EC2 C6i インスタンスが新たなリージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "4b3a5ffb13343384452eb2cc12ff497645ddb995",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect で、15 分おきに最新データを生成する履歴メトリクスレポートの定期配信をお客様が設定できるようになりました。履歴メトリクスのレポートには、対応済みのお客様からの問い合わせ、エージェントのアクティビティ、エージェントが処理した問い合わせの件数などのパフォーマンスに関するデータが含まれます。この機能により、お客様はキュー、ルーティングプロファイル、エージェントのパフォーマンスに関するインサイトをすぐに把握できます。こうしたインサイトは、たとえばコンタクトセンターで予測や人員配置計画の検討と調整を行う場合などに、さまざまな形で活用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-launches-15-minute-scheduled-reports/",
+          "publishedOn": "2022-06-21T20:04:12.000Z",
+          "wordCount": 284,
+          "title": "Amazon Connect で 15 分単位の定期レポートが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "2e8756da482ca8703842b3498ced0564221f246d",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB Standard-Infrequent Access (DynamoDB Standard-IA) テーブルクラスが AWS GovCloud (米国) リージョンで利用可能になりました。DynamoDB Standard-IA テーブルクラスは、アプリケーションログ、メディアの記録、金融取引など、アクセス頻度の低いデータを長期間保存する必要があるユースケースに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/",
+          "publishedOn": "2022-06-21T20:03:24.000Z",
+          "wordCount": 327,
+          "title": "Amazon DynamoDB Standard-Infrequent Access テーブルクラスが AWS GovCloud (米国) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "36d742b8502bb82432d88e56a8f875cd815ea42e",
+          "author": "aws@amazon.com",
+          "description": "本日から、AWS Elastic Disaster Recovery (DRS) が次の 12 リージョンで利用できるようになりました。米国西部 (北カリフォルニア)、アフリカ (ケープタウン)、アジアパシフィック (香港)、アジアパシフィック (ムンバイ)、アジアパシフィック (大阪)、アジアパシフィック (ソウル)、カナダ (中部)、欧州 (ミラノ)、欧州 (パリ)、欧州 (ストックホルム)、中東 (バーレーン)、南米 (サンパウロ)。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/",
+          "publishedOn": "2022-06-21T20:02:35.000Z",
+          "wordCount": 361,
+          "title": "AWS Elastic Disaster Recovery がさらに 12 リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
+          "id": "40e7f35b0e764b663f9ae247cef824cc751574c1",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Elastic Container Service (Amazon ECS) で NVIDIA GPU ベースの Amazon EC2 インスタンスタイプをサポートする Bottlerocket バリアントが利用可能になったことを発表します。Bottlerocket は、コンテナのワークロードを実行するために構築された Linux ベースのオペレーティングシステムです。機械学習、動画エンコーディング、ストリーミングワークロードなど、ECS を使用した GPU 以外のワークロードと GPU ワークロードの両方のために、同じコンテナベースのホストオペレーティングシステムを使用できるようになりました。これによって、単一のオペレーティングシステムで標準化し、基盤となる専用のコンピューティングハードウェアを利用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/",
+          "publishedOn": "2022-06-21T20:01:46.000Z",
+          "wordCount": 342,
+          "title": "NVIDIA GPU の Bottlerocket ECS バリアントを発表",
+          "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
+        },
+        {
           "id": "6f7ecae3193b7fa42a4f0eac1def9ff609639448",
           "author": "aws@amazon.com",
           "description": "Amazon OpenSearch Service では、複数のリージョンにおけるクラスター間検索をサポートしました。これにより、異なるリージョンの複数のドメイン間において 1 回のクエリで検索、集計、可視化を実行できます。",
@@ -1214,36 +1274,6 @@
           "wordCount": 287,
           "title": "AWS Control Tower が、予防ガドレールの同時操作をサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c3c07cd9b2884c1f61efaa5239fe921773a81158",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue Visual Job API の一般提供を開始しました。これにより、お客様は AWS Glue Studio ビジュアルジョブをプログラムで作成、読み取り、更新、および削除できるようになりました。AWS Glue Studio は、ユーザーがデータ統合ジョブを作成するための直感的なビジュアルインターフェイスを提供します。お客様は、AWS Glue Studio でプログラムによってビジュアルジョブを作成して、他の ETL ツールから移行し、ジョブを他の環境にコピーできるようにしたいと考えています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-glue-apis-create-manage-aws-glue-studio-visual-jobs/",
-          "publishedOn": "2022-05-23T04:48:02.000Z",
-          "wordCount": 273,
-          "title": "AWS Glue が AWS Glue Studio ビジュアルジョブを作成および管理するための API の提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4c83ca674153b5ac16a9b4f19b666fe4054409de",
-          "author": "aws@amazon.com",
-          "description": "Amazon MQ は、RabbitMQ バージョン 3.8.30 のサポートを提供するようになりました。これには、以前にサポートされていたバージョンである RabbitMQ 3.8.27 に対するいくつかの修正が含まれています。Amazon MQ は、AWS でより簡単にメッセージブローカーの設定や運用を行うことを可能にする Apache ActiveMQ および RabbitMQ 向けのマネージド型メッセージブローカーサービスです。Amazon MQ を使用して、運用上の負担を軽減し、メッセージブローカーのプロビジョニング、設定、メンテナンスを管理することができます。Amazon MQ は業界標準の API とプロトコルを使用して現在のアプリケーションに接続するため、AWS に簡単に移行するのに役立ちます。コードを書き直す必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-8-30/",
-          "publishedOn": "2022-05-23T04:47:14.000Z",
-          "wordCount": 264,
-          "title": "Amazon MQ が RabbitMQ バージョン 3.8.30 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7b9be3cbf3a60d1e582dac19964facde5f7c9acd",
-          "author": "aws@amazon.com",
-          "description": "Amazon MQ は、RabbitMQ バージョン 3.9.16 のサポートを提供するようになりました。これには、以前にサポートされていたバージョンである RabbitMQ 3.9.13 に対するいくつかの修正が含まれています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-9-16/",
-          "publishedOn": "2022-05-23T04:46:09.000Z",
-          "wordCount": 262,
-          "title": "Amazon MQ が RabbitMQ バージョン 3.9.16 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1528,16 +1558,6 @@
           "wordCount": 628,
           "title": "AaaS、BaaS、CaaS、DaaS、、、 どこまであるの？調べてみた！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_AaasBaas.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42349",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：僕も越境者を応援します！頑張れ、越境者たち！ みなさん、おはようございます。 データのじかんで僕の連載が始まってから地味に長い時間経ってますけど、ついに野島編集長が登場する日がやってきちゃい […]",
-          "link": "https://data.wingarc.com/taimu-kun-127-42349?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-127",
-          "publishedOn": "2022-05-22T23:00:22.000Z",
-          "wordCount": 355,
-          "title": "【タイムくん 第127話】Local DX Lab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/127.jpg"
         }
       ]
     },
@@ -1922,26 +1942,6 @@
           "wordCount": 1187,
           "title": "AWSがデジタルツインサービス IoT TwinMakerを一般提供でリリース",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220524044501/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/05/soundcloud-end-strangler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Patrick Zhang",
-          "description": "SoundCloudは、Stranglerパターンを使って、モノリスアプリケーションから本格的なBFFへの移行の過程を無事に完了した。\n By Patrick Zhang  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/05/soundcloud-end-strangler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-05-23T04:22:00.000Z",
-          "wordCount": 1206,
-          "title": "SoundCloudでパブリックAPI Stranglerが終わりを迎えた",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220503054838/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/05/java-news-roundup-apr25-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "2022年4月25日、今週のJavaラウンドアップでは、JDK 19ターゲットのJEP、Project Loom Build 19-loom+6-625、Spring Cloud 2021.0.2、Spring Tools 4.14.1、GraalVM 22.1.0、Micronaut 3.4.3、MicroStream 7.0、Quarkus 2.8.2、Apache Camel 1.9.0、New Relicの\"State of the Java Ecosystem\"サーベイの話題をお届けする。\n By Michael Redlich  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/05/java-news-roundup-apr25-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-05-23T04:18:00.000Z",
-          "wordCount": 1504,
-          "title": "Java Newsラウンドアップ - JDK 19のJEP最新情報、Project Loom、MicroStream 7.0、New Relic Javaサーベイ",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220503054822/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2362,16 +2362,6 @@
           "wordCount": 282,
           "title": "Rails Discord server is now open to the public",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/5/23/welcome-to-core-and-committers",
-          "author": null,
-          "description": "I’m thrilled to announce three new awesome members to the Rails Core team, which will increase the total number of core members to a cool twelve, and help ensure we have even more bandwidth to process the thousands of pull requests that go into every new major version of the framework.",
-          "link": "https://rubyonrails.org/2022/5/23/welcome-to-core-and-committers",
-          "publishedOn": "2022-05-23T00:00:00.000Z",
-          "wordCount": 431,
-          "title": "Welcoming Ryuta, Jean, John to Core and Yasuo, Jonathan to Committers",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
     },
@@ -2609,16 +2599,6 @@
           "wordCount": 974,
           "title": "週刊Railsウォッチ: Railsコアチームとコミッターに新メンバー、ruby-buildでのRust YJITサポートほか（20220524後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220524_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_23/118015",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220523_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。RubyKaigi 2022のプロポーザルフォームが公開されました。 Call for RubyKaigi 2022 Proposals is now open! 🥷💨 https://t.co/mLjIuqTvAM #rubykaigi &#8212; RubyKaigi (@rubykaigi) May 17, 2022 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点があり [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_23/118015\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Hotwireの用途解説記事、RubyKaigi 2022プロポーザル募集開始ほか（20220523前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_23/118015",
-          "publishedOn": "2022-05-23T09:40:49.000Z",
-          "wordCount": 1050,
-          "title": "週刊Railsウォッチ: Hotwireの用途解説記事、RubyKaigi 2022プロポーザル募集開始ほか（20220523前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220523_eyecatch-min.png"
         }
       ]
     },
@@ -2627,6 +2607,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/aigithub_copilotvscodeneovim10.html",
+          "author": null,
+          "description": "GitHubは、コメントを書くとそれに基づいたコードを提案してくれるなど、プログラミングをAIが支援してくれる「GitHub Copilot」を正式サービスとして提供開始したことを発表しました。 GitHub Copilot helps y...",
+          "link": "https://www.publickey1.jp/blog/22/aigithub_copilotvscodeneovim10.html",
+          "publishedOn": "2022-06-21T16:52:35.000Z",
+          "wordCount": 1254,
+          "title": "プログラミングをAIが支援してくれる「GitHub Copilot」が正式サービスに、VSCodeやNeovimなどで利用可能。月額10ドルから",
+          "imageUrl": "https://www.publickey1.jp/2022/aG0pAGxI.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/cloudflare2022621bgp19.html",
+          "author": null,
+          "description": "CDNプロバイダーのCloudflareは、日本時間の昨日（2022年6月21日）午後に発生したネットワーク障害についての報告を公開しました。 障害は日本時間の午後3時半頃に顕在化し、国内ではDiscordやPixiv、Nortionなどさ...",
+          "link": "https://www.publickey1.jp/blog/22/cloudflare2022621bgp19.html",
+          "publishedOn": "2022-06-21T16:03:01.000Z",
+          "wordCount": 1363,
+          "title": "Cloudflareが昨日（2022年6月21日）の障害原因はBGPの設定ミスと報告。東京データセンターを含む19の主要データセンターが一時オフラインに",
+          "imageUrl": "https://www.publickey1.jp/2022/9pVES1Jm.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/google_cloudgoogle_distributed_cloudanthos_on-premisesgdc_virtual.html",
           "author": null,
@@ -3124,6 +3124,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=278393",
+          "author": "Antonio Regalado",
+          "description": "米国で中絶の権利を認めた過去の判例が覆され、一部の州では人工中絶が違法となる可能性が高まっている。今後、使用が増えるとみられる経口中絶薬の仕組みとリスクについて、専門家に話を聞いた。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/278393/where-to-get-abortion-pills-and-how-to-use-them/",
+          "publishedOn": "2022-06-21T21:50:09.000Z",
+          "wordCount": 1229,
+          "title": "米「中絶違法化」で注目の経口中絶薬、その仕組みとリスクは？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/21/278927/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/22/278927/",
+          "publishedOn": "2022-06-21T21:27:07.000Z",
+          "wordCount": 687,
+          "title": "白い鉄錆でUVカット、酸化チタン代替材料＝NIMSなど開発",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/21/278895/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/22/278895/",
+          "publishedOn": "2022-06-21T21:20:50.000Z",
+          "wordCount": 688,
+          "title": "単独で存在するブラックホール候補を世界で初めて発見＝阪大など",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2021/02/08170309/cropped-icon-32x32.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=278685",
           "author": "Zeyi Yang",
