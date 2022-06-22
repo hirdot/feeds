@@ -1264,16 +1264,6 @@
           "wordCount": 412,
           "title": "AWS と KEK、日本のアカデミアにおける研究 DX を加速",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "232e56eabbdc91a5c81a076280e868ad18e11d1a",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower が、すべてのタイプのガードレール (予防および検知) の同時操作をサポートするようになりました。この新しいリリースにより、個々のガードレールの操作が完了するのを待つことなく、複数の予防ガードレールを有効にすることができるようになりました。AWS Control Tower は、セキュリティ、運用、およびコンプライアンスの体制を強化するためにデプロイできる、すぐに使用できる予防および検出ガードレールをお客様に提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/",
-          "publishedOn": "2022-05-23T18:31:40.000Z",
-          "wordCount": 287,
-          "title": "AWS Control Tower が、予防ガドレールの同時操作をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2271,6 +2261,16 @@
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
       "siteUrl": "https://gihyo.jp/lifestyle",
       "articles": [
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202206/0622",
+          "author": null,
+          "description": "ツイてるかどうかはわかりませんが、ノッテるのは確かです。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202206/0622",
+          "publishedOn": "2022-06-22T06:00:00.000Z",
+          "wordCount": 1012,
+          "title": "2022年6月22日　ノッてるね！ ── 帰ってきた『技評ねこ部通信』",
+          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
+        },
         {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
           "author": "傍島康雄",
@@ -4027,5 +4027,5 @@
       ]
     }
   ],
-  "cliVersion": "1.15.0"
+  "cliVersion": "1.15.1"
 }
