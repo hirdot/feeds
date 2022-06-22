@@ -6,6 +6,126 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "7619fc26a30a6d49ba8f3c9a549ea76bd7772049",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 C6gn インスタンスが欧州 (パリ、ミラノ)、アジアパシフィック (ソウル)、中東 (バーレーン) の各リージョンで利用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/",
+          "publishedOn": "2022-06-22T19:34:15.000Z",
+          "wordCount": 328,
+          "title": "Amazon EC2 C6gn インスタンスをご利用いただけるリージョンが増加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fd4f30e6a389cce6db1b029e42b6cef0a5aef425",
+          "author": "aws@amazon.com",
+          "description": "Identity and Access Management (IAM) 条件キーを使用して、ごみ箱に作成した保持ルールに許可するリソースタイプを指定できるようになりました。ごみ箱では、削除した EBS スナップショットや EBS-backed AMI を一定期間保持できるため、誤って削除してしまった場合でも復元できます。1 つ以上の保持ルールを作成することにより、アカウント内の全部または一部のスナップショットまたは AMI に対してごみ箱を有効にできます。それぞれのルールでは、保持期間も指定できます。削除された EBS スナップショットまたは登録解除された AMI は、保持期間が終了する前であれば、ごみ箱から復元できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/",
+          "publishedOn": "2022-06-22T19:33:27.000Z",
+          "wordCount": 311,
+          "title": "EBS スナップショットおよび EBS-backed AMI の AWS ごみ箱が、保持ルールを管理するための IAM 条件キーに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5ae28937942d2984e665d9b711fc08d4c490de7b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lookout for Metrics の使用時に、アラートのフィルター機能と既存アラートの編集機能を追加できるようになったことをお知らせします。このリリースにより、アラート設定にフィルター機能を追加して、自分にとって最も重要な異常の通知のみを受信できるようになります。また、異常の変化による通知のニーズに応じて既存アラートを簡単に修正できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/",
+          "publishedOn": "2022-06-22T19:32:39.000Z",
+          "wordCount": 298,
+          "title": "Amazon Lookout for Metrics で通知を簡単にカスタマイズ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "71354fc6924acd304494da295acb0168d28d9e37",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 VT1 インスタンスが AMD-Xilinx Video SDK 2.0 をサポートするようになりました。これにより、GStreamer、10 ビット HDR 動画、動的エンコーダーのパラメータがサポートされます。この新しいバージョンでは、新機能に加え、4k 動画の画質向上、FFmpeg の新バージョン (4.4) のサポート、OS/カーネルサポートの拡大、バグ修正などが行われています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/",
+          "publishedOn": "2022-06-22T19:31:43.000Z",
+          "wordCount": 365,
+          "title": "Amazon EC2 VT1 が、GStreamer と 10 ビット動画トランスコーディングを可能にする AMD-Xilinx Video SDK 2.0 をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fdbcda15542b8442762efa8f9f670ba23310a2d3",
+          "author": "aws@amazon.com",
+          "description": "AWS Single Sign-On (AWS SSO) が欧州 (ミラノ) リージョンでご利用いただけるようになりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/",
+          "publishedOn": "2022-06-22T14:18:10.000Z",
+          "wordCount": 328,
+          "title": "AWS Single Sign-On が欧州 (ミラノ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "75e699be4e331887a93bd8bec2a2eb5d44ea95fc",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru for RDS は、Amazon RDS コンソール内から使用可能に設定できるようになりました。本日より、Amazon DevOps Guru for RDS を有効化することができ、Amazon Aurora データベースで新しいデータベースを作成しつつ、さまざまなデータベース関連の問題をすばやく検出、診断、修正できます。 また、RDS Performance Insights ページ内からも、Amazon DevOps Guru for RDS を有効化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/",
+          "publishedOn": "2022-06-22T14:17:21.000Z",
+          "wordCount": 390,
+          "title": "Amazon RDS コンソール内から Amazon DevOps Guru for RDS を有効化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d892ee61d47eda4c82da3d3d4efe39a499482423",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、現在のステータス (例: 「対応可能」) など、エージェントの現在のアクティビティに関するリアルタイムの詳細情報にプログラムを使ってアクセスする API の提供を開始しました。エージェントが問い合わせ処理中の場合、その詳細情報には、問い合わせの状態 (例: 「接続済み」や「失敗」) と継続時間が含まれます。企業は、この API を使用して、コンタクトセンターの管理者向けのカスタムダッシュボードを作成し、エージェントのアクティビティをリアルタイムでモニタリングできます。例えば、問い合わせ処理にさらに多くのエージェントが必要になった場合、この新しい API を使用して、長い間、休憩しているエージェントを特定し、そのエージェントに連絡して「対応可能」に切り替えてもらうことや、PutUserStatus を使用してプログラムで変更することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/",
+          "publishedOn": "2022-06-22T14:05:17.000Z",
+          "wordCount": 302,
+          "title": "Amazon Connect でエージェントの現在のアクティビティを取得する API をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8d53e1e424d394c6f3e6f44dcedea4b8619492db",
+          "author": "aws@amazon.com",
+          "description": "AWS Config は、Amazon SageMaker、Elastic Load Balancing、AWS Batch、AWS Step Functions、AWS Identity and Access Management Access Analyzer、Amazon WorkSpaces、Amazon Route 53 Resolver、Amazon Managed Streaming for Apache Kafka、AWS Database Migration Service を含む、新たなリソースタイプ 15 種類のサポートを開始しました。新たにサポートされるリソースタイプの一覧については、[1] をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/",
+          "publishedOn": "2022-06-22T14:04:28.000Z",
+          "wordCount": 346,
+          "title": "AWS Config が新たなリソースタイプ 15 種類のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "682cab4d9068b04f8ff71e0b7433d916ec918747",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service で HTTP メソッドにタグベースの認可がサポートされるようになりました。これにより、データの読み取り/書き込みオペレーションのアクセスコントロールの管理が容易になりました。AWS Identity and Access Management (IAM) でアイデンティティポリシーを使用して、読み取り/書き込みを行う HTTP メソッドのアクセス許可を定義することにより、Amazon OpenSearch Service ドメインのデータの大まかなアクセスコントロールが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/",
+          "publishedOn": "2022-06-22T14:03:40.000Z",
+          "wordCount": 372,
+          "title": "Amazon OpenSearch Service now supports tag-based authorization for data read and write operations (Amazon OpenSearch Service でデータの読み取り/書き込みオペレーションにタグベースの認可をサポート)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "09a49967dc265f48880d594212273e1bae788258",
+          "author": "aws@amazon.com",
+          "description": "AWS Budgets のコンソールの使用感を改善するため、分割ビューパネルをコンソールに追加しました。これにより、予算の概要ページから離れずに、予算の詳細を確認できるようになりました。AWS Budgets は、AWS のコストと使用状況を管理するのに役立ちます。カスタム予算を設定すると、クラウドの支出が予算額を超えた時 (または超えることが予想される時) にアラートが届きます。AWS Budgets では Savings Plans や Reservation アラートを設定し、使用率やカバレッジのターゲットが希望のしきい値を下回った時に通知を受け取ることもできます。AWS Budgets は、すべての AWS パブリックリージョンで一般提供を開始しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/",
+          "publishedOn": "2022-06-22T14:02:51.000Z",
+          "wordCount": 307,
+          "title": "AWS Budgets の UI の改善",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6b058b2ca7842473e2c0f953f808b32b450ba7f6",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK で、WebRTC セッションあたり 100 本のウェブカム動画ストリームのサポートが開始されました。Amazon Chime SDK を使用すると、インテリジェントなリアルタイムでの音声、動画、画面共有を開発者が自身のウェブアプリケーションやモバイルアプリケーションに追加することができます。各クライアントアプリケーションでは表示するウェブカム動画ストリームを 25 本まで選択でき、ユーザーごとにカスタマイズ可能な没入型の動画エクスペリエンスを創出できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-100-webcam-video-streams/",
+          "publishedOn": "2022-06-22T14:02:01.000Z",
+          "wordCount": 308,
+          "title": "Amazon Chime SDK で 100 本のウェブカム動画ストリームのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a874bb2af2b957bdad61b05077c5a3b87c5bbda9",
+          "author": "aws@amazon.com",
+          "description": "AWS Elastic Beanstalk を利用することで、お客様は基盤となるインフラを管理しなくても、ウェブアプリケーションやサービスをデプロイし、スケーリングできます。Elastic Beanstalk は、特定のニーズに基づいてアプリケーションを自動的に拡大および縮小します。本日より、アジアパシフィック (ジャカルタ) リージョンで、AWS Elastic Beanstalk によってオーケストレーションされたアプリケーションを実行できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-beanstalk-jakarta-region/",
+          "publishedOn": "2022-06-22T14:01:12.000Z",
+          "wordCount": 302,
+          "title": "AWS Elastic Beanstalk がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "ee71612eaa3945530a3db9ab4d0780b1365f85b0",
           "author": "aws@amazon.com",
           "description": "Amazon Aurora Serverless v1 が MySQL 5.6 から 5.7 へのインプレースアップグレードに対応しました。データベースをバックアップして新しいバージョンに復元する代わりに、Amazon RDS マネジメントコンソールで数回のクリック操作を行うだけでアップグレードできます。また、最新の AWS SDK または CLI を使用することも可能です。 このプロセスでは新しいクラスターが作成されないため、同じエンドポイントや、クラスターが持つその他の特性を維持できます。新しいクラスターボリュームにデータをコピーする必要がないため、アップグレードが数分で完了します。アップグレードは即時またはメンテナンス時に適用されます。アップグレード中は、データベースクラスターが使用できなくなります。詳細については Aurora のドキュメントをご覧ください。",
@@ -1558,26 +1678,6 @@
           "wordCount": 432,
           "title": "加古川市や横浜市も活用中！議論を活性化させ都市や組織をよりよくすることを目指す直接参加型民主主義プラットフォーム「Decidem」とは？",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_decidem.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42099",
-          "author": "tadokoroyusuke",
-          "description": "皆さんは『なんとかトランスフォーメーション』や『なんとかエクスペリエンス』という用語を聞いたことがありますか？ こういった用語の多くが『～X』と表記されます。最近話題のDXやCXという用語を目にしたことがある人もいるので […]",
-          "link": "https://data.wingarc.com/allabout_ax_bx_cx_dx_andmore-42099?utm_source=rss&utm_medium=rss&utm_campaign=allabout_ax_bx_cx_dx_andmore",
-          "publishedOn": "2022-05-24T07:00:34.000Z",
-          "wordCount": 420,
-          "title": "AX、BX、CX、DX、、、どこまであるの？ 調べてみた！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_axbxcx.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42119",
-          "author": "tadokoroyusuke",
-          "description": "皆さんは『○aaS』という用語を目にしたことがありますか？CaaSやSaaSなどといった用語は、なじみがあるかもしれません。これらの用語に共通する『aaS』とは『as a Service』のことであり、サービスという意味 […]",
-          "link": "https://data.wingarc.com/allabout_aaas_baas_caas_daasx_andmore-42119?utm_source=rss&utm_medium=rss&utm_campaign=allabout_aaas_baas_caas_daasx_andmore",
-          "publishedOn": "2022-05-24T07:00:12.000Z",
-          "wordCount": 628,
-          "title": "AaaS、BaaS、CaaS、DaaS、、、 どこまであるの？調べてみた！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_AaasBaas.jpg"
         }
       ]
     },
@@ -2728,6 +2828,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/oracle_cloudoci_dedicated_region1213000.html",
+          "author": null,
+          "description": "米オラクルは、Oracle Cloudと同様の機能を備えたリージョンを企業が社内データセンター内に設けられる「OCI Dedicated Region」について、より小規模なラック数で対応することを発表しました。 オラクルは2020年に、顧...",
+          "link": "https://www.publickey1.jp/blog/22/oracle_cloudoci_dedicated_region1213000.html",
+          "publishedOn": "2022-06-22T16:22:59.000Z",
+          "wordCount": 1256,
+          "title": "Oracle Cloudのリージョンを社内に持てる「OCI Dedicated Region」、最小12ラック、年間1億3000万円からの対応をオラクルが発表",
+          "imageUrl": "https://www.publickey1.jp/2022/ocidedicatedrg01.gif"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/aigithub_copilotvscodeneovim10.html",
           "author": null,
           "description": "GitHubは、コメントを書くとそれに基づいたコードを提案してくれるなど、プログラミングをAIが支援してくれる「GitHub Copilot」を正式サービスとして提供開始したことを発表しました。 GitHub Copilot helps y...",
@@ -3234,6 +3344,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=278797",
+          "author": "Tanya Basu",
+          "description": "SMSなどを使ったスパムが日々、スマートフォンに押し寄せている。あえてスパムに返信することでスパム業者に反撃を試みる「スキャムベイター」と呼ばれる人たちに話を聞いてみた。",
+          "link": "https://www.technologyreview.jp/s/278797/why-people-are-trolling-their-spam-texts/",
+          "publishedOn": "2022-06-22T21:36:05.000Z",
+          "wordCount": 1425,
+          "title": "迷惑メールになぜ返信？  スキャムベイターたちに聞いてみた",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/20181505/unicorns-lulz-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/22/279078/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/23/279078/",
+          "publishedOn": "2022-06-22T21:18:24.000Z",
+          "wordCount": 689,
+          "title": "エタノール投与で農作物の高温耐性を強化、理研などが発見",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/22/279117/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/23/279117/",
+          "publishedOn": "2022-06-22T21:14:26.000Z",
+          "wordCount": 689,
+          "title": "レーザー方式の粉末3Dプリンターでニッケル単結晶を造形＝NIMSなど",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=278970",
           "author": "MIT Technology Review Audio Studio",
@@ -4053,26 +4193,6 @@
           "wordCount": 352,
           "title": "東北大、インフルウイルスを蛍光検出する分子プローブを開発",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=276559",
-          "author": "Zeyi Yang",
-          "description": "物の表面を介した新型コロナウイルス感染の可能性は低いとされているにもかかわらず、中国政府は執拗に物の表面を介した感染の可能性を強調している。背景には政治的な思惑が見え隠れする。",
-          "link": "https://www.technologyreview.jp/s/276559/why-china-is-still-obsessed-with-disinfecting-everything/",
-          "publishedOn": "2022-05-24T07:33:08.000Z",
-          "wordCount": 689,
-          "title": "新型コロナ対策で中国が「消毒」にこだわり続ける理由",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/19172504/2E8RB1J-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=274084",
-          "author": "Laurie Clarke",
-          "description": "暗号通貨で巨額の資産を築いた投資家たちが、社会をゼロから構築する大胆な「ビットコイン・シティ」計画を中米で進めている。だが、コミュニティを豊かにするとの謳い文句とは別に、実際には搾取の歴史を繰り返すことになるかもしれない。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/274084/crypto-millionaires-are-pouring-money-into-central-america-to-build-their-own-cities/",
-          "publishedOn": "2022-05-24T03:39:00.000Z",
-          "wordCount": 590,
-          "title": "暗号通貨「億り人」たちが 夢のビットコイン・シティを 中米に建設中",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/04/20181517/MJ22-cities-02-crop-1400x787.jpg"
         }
       ]
     }
