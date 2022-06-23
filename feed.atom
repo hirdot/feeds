@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-23T03:28:32.428Z</updated>
+    <updated>2022-06-23T04:10:44.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSpecで引数に特定の値が渡された時だけスタブしたい]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/rspec-stub</id>
+        <link href="https://blog.agile.esm.co.jp/entry/rspec-stub"/>
+        <updated>2022-06-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。入社して4年目になりました、wai-doi です。 お仕事でRSpecでテストを書いていて、 「引数に特定の値が渡された時だけスタブしたい」 ということがありました。そのときどのように書けばよいか分からなかったので、今回は調べたこととその方法を書きます。 実行環境 Ruby 3.1.2 RSpec 3.11.0 サンプルコード 例えば以下の Shopper#buy_fruits メソッドのテストをしたいとします。単純に配列の ['apple', 'banana', 'orange'] を返します。 class Shopper def buy_fruits(shop) ba…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年6月第4週　Android 13 Beta 3.2がリリース，Android for Carsの最新事情 ── Android Weekly Topics]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/23</id>

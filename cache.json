@@ -1393,6 +1393,16 @@
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
         {
+          "id": "https://blog.agile.esm.co.jp/entry/rspec-stub",
+          "author": null,
+          "description": "はじめに こんにちは。入社して4年目になりました、wai-doi です。 お仕事でRSpecでテストを書いていて、 「引数に特定の値が渡された時だけスタブしたい」 ということがありました。そのときどのように書けばよいか分からなかったので、今回は調べたこととその方法を書きます。 実行環境 Ruby 3.1.2 RSpec 3.11.0 サンプルコード 例えば以下の Shopper#buy_fruits メソッドのテストをしたいとします。単純に配列の ['apple', 'banana', 'orange'] を返します。 class Shopper def buy_fruits(shop) ba…",
+          "link": "https://blog.agile.esm.co.jp/entry/rspec-stub",
+          "publishedOn": "2022-06-23T03:30:00.000Z",
+          "wordCount": 574,
+          "title": "RSpecで引数に特定の値が渡された時だけスタブしたい",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/13574176438101744338/1655955001"
+        },
+        {
           "id": "https://blog.agile.esm.co.jp/entry/esmfm-20220705",
           "author": null,
           "description": "esm.fm コンサル x EM 対談『テーマ: 育成』を 2022年7月5日(火) 12:30-13:00 に開催します。 esminc.doorkeeper.jp アジャイルソフトウェア開発の老舗『永和システムマネジメント』のアジャイルコンサルタントの @fkino とエンジニアリングマネージャーの @koic のオンライン対談イベントです。 今回取り上げるテーマは『育成』です。\"アジャイルマニフェスト\"から20年後の現代において「いまの時代にはもうないだろう」と思っているような困りごとや価値観での実践が現実世界では起きているようです。アジャイルコンサルタントが現場で見ている課題と、そのよ…",
