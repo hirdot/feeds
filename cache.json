@@ -6,6 +6,126 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a453b23092a0609b31f468a7b98ffbb70f45fa9c",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect のアウトバウンドキャンペーンでは、毎日数百万人もの顧客に連絡を取るための組み込み型でコスト効率に優れた方法を組織に提供します。サードパーティーツールを統合することなく、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などの通信を行えます。アウトバウンドキャンペーン (以前は High-Volume アウトバウンド通信と呼ばれていた) を利用すると、音声、SMS、E メールでの積極的なコミュニケーションにより、お客様に迅速にサービスを提供し、エージェントの生産性を向上させることができます。また、新しいコミュニケーション機能には、架電時のチェックや通話の制御 (時刻、タイムゾーン、連絡先ごとの試行回数、利用可能なエージェントへの接続に必要な時間) により、TCPA などの現地の規制遵守をサポートする機能が含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-general-availability-outbound-campaigns-calls-texts-emails/",
+          "publishedOn": "2022-06-23T18:32:44.000Z",
+          "wordCount": 290,
+          "title": "Amazon Connect で通話、テキスト、E メールのアウトバウンドキャンペーンを一般提供",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d4a07d9ffb2be2fdb0485df6d79c480f55d3401a",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB では、Service Quotas との統合が強化され、ユーザーがアカウントとテーブルのクォータを事前対応的に管理できるようになりました。Service Quotas を使用し、すべての DynamoDB のクォータに対して現在の値を確認できます。また、アカウントレベルで現在のクォータの使用率をモニタリングできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/",
+          "publishedOn": "2022-06-23T18:31:55.000Z",
+          "wordCount": 302,
+          "title": "Amazon DynamoDB で Service Quotas との統合強化を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "63dd976100cb8d3cc630ba24932bf1d4ee75d899",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas で VPC エンドポイントのサポートが開始され、他の AWS のサービスとの安全でプライベートな接続が可能になりました。SageMaker Canvas は、コードの記述や機械学習の知識を必要とせずに、ビジネスアナリストが情報収集や予測のための正確な ML モデルを自分で作成できる視覚型のポイントアンドクリックサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/",
+          "publishedOn": "2022-06-23T18:31:05.000Z",
+          "wordCount": 338,
+          "title": "Amazon SageMaker Canvas が VPC エンドポイントへの対応を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ffb09dcf096951016f7fa8d11418cde4edce62b0",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon SageMaker Data Wrangler でコードスニペットのサポートが開始され、PySpark と Altair を使ってデータの準備と可視化をより速く簡単に行えるようになりました。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、Databricks、Snowflake などの複数のデータソースからデータをすばやく選択できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/",
+          "publishedOn": "2022-06-23T15:32:02.000Z",
+          "wordCount": 369,
+          "title": "Amazon SageMaker Data Wrangler で PySpark と Altair のコードスニペットを使用してデータの準備と可視化をスピードアップ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1b6d077469489a6abd0226e9ac049ba9b1fc71c6",
+          "author": "aws@amazon.com",
+          "description": "本日 AWS Service Catalog は、AppRegistry のクロスアカウントのアプリケーションと属性グループのサポートを発表しました。本リリースで、アプリケーションは AWS Organization 対応の受信者アカウント内で共有されるようになり、共有されたアプリケーションにはローカルリソースが関連付けられるようになりました。AWS Organization 内の複数のアカウントでデプロイされたアプリケーションリソースをお持ちの場合は、アプリケーションやアプリケーションメタデータの単一のリポジトリを維持できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/",
+          "publishedOn": "2022-06-23T15:31:14.000Z",
+          "wordCount": 319,
+          "title": "AWS Service Catalog の Application Registry がクロスアカウントのアプリケーションに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3e1399fadbdd51571933f6a9c575421baa21b82b",
+          "author": "aws@amazon.com",
+          "description": "AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間でのデータ転送を、わずか数クリックで安全に行えるフルマネージド型の統合サービスである Amazon AppFlow は、ソースとして Facebook 広告、Google 広告、Mixpanel のサポートを開始しました。本リリースで、AppFlow のお客様は、充実したマーケティング分析データと製品分析データをこれらのソースから取り込めるようになりました。取り込んだ後のデータは、AppFlow が接続されたマーケティングアプリケーション (例: Marketo、Salesforce Marketing Cloud) やウェブ分析アプリケーション (例: Google Analytics) といったアプリケーションからのデータと組み合わせることで、統合し、強化し、分析することができます。また、このように AppFlow が接続されたアプリケーションの数は増え続けています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appflow-supports-facebook-google-ads-mixpanel-sources/",
+          "publishedOn": "2022-06-23T15:16:52.000Z",
+          "wordCount": 305,
+          "title": "Amazon AppFlow がソースとして新たに Facebook 広告、Google 広告、Mixpanel をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d2ea1b269f9c03674edd0c1b1c4a360fa296b616",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight で、ピボットテーブルビジュアルのフィールドウェルコンテキストメニューから、作成者が任意の列、行、値フィールドの表示/非表示を切り替えられるようになりました。この機能は現在テーブルビジュアルでサポートされているもので、今回のローンチでピボットテーブルビジュアルに拡張されます。今後、読者や作成者は、コンテキストメニューでテーブルとピボットテーブルの両方から、CSV や Excel 形式でデータをエクスポートできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/",
+          "publishedOn": "2022-06-23T15:16:03.000Z",
+          "wordCount": 276,
+          "title": "Amazon Quicksight がピボットテーブルでのフィールドの表示/非表示に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "31e5d28d35756db3c8abcc8abf2df91c497b80c8",
+          "author": "aws@amazon.com",
+          "description": "QuickSight Q では、埋め込みモードで使用する場合に、ユーザーに入力を求めずに、質問全体を入力として受け取ることができるようになりました。この新しい機能により、デベロッパーはウェブアプリケーションの適切な場所にウィジェットとして質問を作成することができます。これにより、ユーザーはユーザージャーニーの現在の環境内で、データについて質問する機能を簡単に見つけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-q-embedding-sdk-programmatic-question-submission/",
+          "publishedOn": "2022-06-23T14:46:21.000Z",
+          "wordCount": 291,
+          "title": "Amazon QuickSight Q Embedding SDK がプログラムによる質問送信のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ce08829ac286e7b8c14e7684d7c08d3ece682f0c",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS 請求ページに再設計されたユーザー環境が実装され、AWS での支出をさらに把握しやすくなりました。請求ページでは、AWS 料金の概要や重要な詳細情報を確認することができます。今回の再設計では、ユーザーインターフェイスが一新され、削減額と税金のビューが新しくなり、並べ替えとフィルタリングの機能が強化されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-bills-page-experience/",
+          "publishedOn": "2022-06-23T14:03:39.000Z",
+          "wordCount": 282,
+          "title": "新しい AWS 請求ページの使用環境を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7d4ce86fa6f385d92c742ef850b35bf65fd18c2c",
+          "author": "aws@amazon.com",
+          "description": "本日より、最新世代の高密度 HDD ストレージインスタンスである Amazon EC2 D3 インスタンスが、AWS カナダ (中部) リージョンで利用可能になります。D3 インスタンスは、最大 3.1 GHz の全コア周波数を維持する第 2 世代 Intel Xeon スケーラブルプロセッサ (Cascade Lake) を搭載しています。D3 インスタンスは、D2 インスタンスと比較して最大 2.5 倍のネットワーク速度と、45% 高いディスクスループットを実現します。これらのインスタンスは、分散/クラスター化されたファイルシステム、ビッグデータと分析、大容量のデータレイクなどのワークロードに最適です。D3 インスタンスを使用すれば、前世代の D2 インスタンスまたはオンプレミスインフラストラクチャから、高密度 HDD ストレージワークロード用に最適化されたプラットフォームに簡単に移行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-d3-instances-aws-canada-central-region/",
+          "publishedOn": "2022-06-23T14:02:48.000Z",
+          "wordCount": 356,
+          "title": "Amazon EC2 D3 インスタンスが AWS カナダ (中部) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b815d1991aa5a9ca9966692f13b5813c8fa5e28a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex 自動チャットボットデザイナーの一般提供を開始しました。デベロッパーは本機能を利用することで、会話のトランスクリプトからチャットボットを数週間もかけずに数時間で自動的に設計できるようになります。2021 年 12 月の re:Invent で発表された自動チャットボットデザイナーは、会話設計を自動化し、デベロッパーの労力を最小限に抑え、チャットボットの設計にかかる時間を短縮します。これにより、Amazon Lex をより使いやすいものにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/",
+          "publishedOn": "2022-06-23T14:02:00.000Z",
+          "wordCount": 296,
+          "title": "Amazon Lex 自動チャットボットデザイナーの一般提供が開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0df67ec76b6877c6f5f9a50c657048c9ef96f104",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Cases は、組み込み型のケース管理機能を提供し、複数のお客様との会話やフォローアップタスクを必要とするお客様の問題を、コンタクトセンターのエージェントが簡単に作成、コラボレーション、迅速な解決を行えるようにします。カスタムアプリケーションを構築したり、サードパーティー製品と統合したりする必要はありません。Cases を使用すると、エージェントはお客様のケースに関連するすべてのアクティビティを、統一されたタイムラインビューで確認できます。それには複数のエージェントに割り当てて追跡できる個々のタスクも含まれます。また、ケース情報を使用して、セルフサービス IVR やチャットボットインタラクションでお客様の質問に答えることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-cases-preview/",
+          "publishedOn": "2022-06-23T14:01:12.000Z",
+          "wordCount": 294,
+          "title": "Amazon Connect Cases のプレビュー版が利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "7619fc26a30a6d49ba8f3c9a549ea76bd7772049",
           "author": "aws@amazon.com",
           "description": "本日より、Amazon EC2 C6gn インスタンスが欧州 (パリ、ミラノ)、アジアパシフィック (ソウル)、中東 (バーレーン) の各リージョンで利用できるようになりました。",
@@ -1344,46 +1464,6 @@
           "wordCount": 269,
           "title": "Amazon CloudFront が、CloudFront-Viewer-TLS-header で TLS バージョンと暗号スイートの提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2ac1cc349a729b3680bab6197166753be135fcb5",
-          "author": "aws@amazon.com",
-          "description": "最新世代のコンピューティング最適化 Amazon EC2 C7g インスタンスの一般提供を開始しました。C7g インスタンスは、最新の AWS Graviton3 プロセッサを搭載した最初のインスタンスであり、アプリケーションサーバー、マイクロサービス、バッチ処理、Electronic Design Automation (EDA)、ゲーム、動画エンコーディング、科学モデリング、分散分析、ハイパフォーマンスコンピューティング (HPC)、CPU ベースの機械学習 (ML) 推論、広告配信などの幅広い適用のために、Graviton2 ベースの C6g インスタンスよりも最大 25% 優れたパフォーマンスを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/",
-          "publishedOn": "2022-05-25T09:32:48.000Z",
-          "wordCount": 436,
-          "title": "AWS Graviton3 プロセッサを搭載した新しい Amazon EC2 C7g インスタンスを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "579637712a849bceb97d588e68e349f14994e2a1",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kinesis Data Analytics は、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) では FedRAMP Moderate として、AWS GovCloud (米国西部) および AWS GovCloud (米国東部) では FedRAMP High として承認されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/",
-          "publishedOn": "2022-05-25T09:31:50.000Z",
-          "wordCount": 315,
-          "title": "Amazon Kinesis Data Analytics が FedRAMP に準拠",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9c09864191dfbc26e7bb7949347b6df47fb73ef1",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Marketplace は、顧客がオファーサブスクリプションを完了したときに E メールでユーザーに通知するオファー承認メール通知の一般提供を発表しました。今回のリリースにより、お客様は購入者によるオファーの承認とサブスクリプションをリアルタイムで確認できるようになり、AWS Marketplace における取引の全体的な進捗を追跡できるようになりました。購入者、ISV、およびチャネルパートナーは、サブスクリプション時に契約 ID 、オファー ID 、顧客の詳細などの関連情報を受け取り、調達ワークフロー、内部注文の作成、収益認識、およびソフトウェアのプロビジョニング/デプロイを開始できるようになりました。この機能は、すべての AWS Marketplace 製品タイプでご利用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/",
-          "publishedOn": "2022-05-25T09:31:02.000Z",
-          "wordCount": 247,
-          "title": "オファー承認メール通知が AWS Marketplace で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "935e646c9cd628e16f5b6f9340710d88ae1a6c1d",
-          "author": "aws@amazon.com",
-          "description": "日本の創薬を支えるタンパク質の構造解析を AWS のクラウドで構築した「GoToCloud」プラットフォームを利用して 7 倍高速化、60% の管理コスト削減を実現、さらに 85% の削減を目指す\n \n \nAWS は日本で 300 万人以上が利用する学術情報ネットワーク（SINET6）に、AWS Direct Connect を利用して複数の 100Gbps 物理回線を新たに敷設",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-and-kek-announce-collaborate-for-driving-digital-transformation-scientific-research-in-japan/",
-          "publishedOn": "2022-05-25T07:01:14.000Z",
-          "wordCount": 412,
-          "title": "AWS と KEK、日本のアカデミアにおける研究 DX を加速",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1678,16 +1758,6 @@
           "wordCount": 424,
           "title": "[画像済]【データ活用なんて簡単でR】エピソード１：一人でできる超簡単データ活用入門編",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_R_e1-1.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=40953",
-          "author": "大藤 ヨシヲ",
-          "description": "ライフスタイルが多様化する昨今、政治において雇用の問題から貧困問題、少子化対策、環境問題やジェンダーギャップなどさまざまなイシューが取り扱われるようになりました。 そうした中で選挙に行っても、全ての課題に対して自分と同じ […]",
-          "link": "https://data.wingarc.com/decidem-40953?utm_source=rss&utm_medium=rss&utm_campaign=decidem",
-          "publishedOn": "2022-05-24T23:00:53.000Z",
-          "wordCount": 432,
-          "title": "加古川市や横浜市も活用中！議論を活性化させ都市や組織をよりよくすることを目指す直接参加型民主主義プラットフォーム「Decidem」とは？",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_decidem.jpg"
         }
       ]
     },
@@ -2346,26 +2416,6 @@
           "wordCount": 448,
           "title": "2022年5月27日号　kinetic（22.10）の開発 / ターミナルソフトウェアの変更とPipeWireへの切り替え，Azure Active Directoryへの対応 ── Ubuntu Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0716",
-          "author": "柴田充也",
-          "description": "オーディオデバイスは勝手に増殖します。今回は聖徳太子になりきれない読者に向けて、複数のオーディオデバイスを活用できるよう，より手早くデバイスを切り替える方法を紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0716",
-          "publishedOn": "2022-05-25T00:38:00.000Z",
-          "wordCount": 323,
-          "title": "第716回　Ubuntuにおけるマイクやスピーカーの切り替えを，システムメニューを使って手早く切り替える ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0716/thumb/TH800_03x4.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202205/25",
-          "author": "階戸アキラ",
-          "description": "Linus Torvaldsは5月22日，「Linux 5.18」の正式リリースを公開した。",
-          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202205/25",
-          "publishedOn": "2022-05-25T00:11:00.000Z",
-          "wordCount": 273,
-          "title": "2022年5月25日　Linux 5.18リリース，カーネル開発をC11に移行 ── Linux Daily Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2009/thumb/TH800_489_Linux_Daily_Topics.png"
         }
       ]
     },
@@ -2555,18 +2605,7 @@
       "title": "星川 隼一｜Google出身のPdM・星川氏に聞く、18万人を超えるファンが集うコミュニティサービスの開発の裏側 | 国内唯一のCTO/VPoE育成・転職支援サービス「OCTOPASS（オクトパス）」",
       "feedUrl": "https://octopass.jp/feed/",
       "siteUrl": "https://octopass.jp",
-      "articles": [
-        {
-          "id": "https://octopass.jp/?p=4552",
-          "author": "OCTOPASS",
-          "description": "THECOO株式会社について 当社は、ファンコミュニティプラットフォーム『Fanicon』を運営するFanicon事業と、インフルエンサーを用いたマーケティング施策支援やオンライン広告コンサルティングを行う法人セールス事 […]",
-          "link": "https://octopass.jp/4552/",
-          "publishedOn": "2022-05-25T02:00:00.000Z",
-          "wordCount": 291,
-          "title": "Google出身のPdM・星川氏に聞く、18万人を超えるファンが集うコミュニティサービスの開発の裏側",
-          "imageUrl": "https://octopass.jp/cms/wp-content/uploads/2022/05/image6.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ruby on Rails",
@@ -2829,16 +2868,6 @@
           "wordCount": 5389,
           "title": "Rails 7とReactによるCRUDアプリ作成チュートリアル（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_react_crud_app_tutorial_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_25/112542",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails_app_sorbet_type_signatures_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: How I write and maintain type signatures in my Rails app with Sorbet &#124; Connor Shea 原文公開日: 2021/05/14 原著者: Connor Shea &#8212; コロラド州出身のWeb開発者、特に好きなものはRuby、ゲーム、GIF、CSS要素を垂直に中央揃えすること 本記事アイキャッチ画像のSorbetアイコンは、Apache License 2.0に基づいてhttps://github.com/sorbet/sorbetより引用しました。 Sorbet [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_25/112542\" data-wpel-link=\"internal\" target=\"_self\">SorbetでRailsアプリの型シグネチャ作成とメンテを行ってみた（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_25/112542",
-          "publishedOn": "2022-05-25T08:30:29.000Z",
-          "wordCount": 530,
-          "title": "SorbetでRailsアプリの型シグネチャ作成とメンテを行ってみた（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2021/10/rails_app_sorbet_type_signatures_eyecatch-min.png"
         }
       ]
     },
@@ -2847,6 +2876,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsamazon_codewhiperer.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は開催中のイベント「Amazon re:MARS 2022」で、機械学習を用いてプログラミングを支援する「Amazon CodeWhisperer」のプレビュー公開を発表しました。 Trans...",
+          "link": "https://www.publickey1.jp/blog/22/awsamazon_codewhiperer.html",
+          "publishedOn": "2022-06-23T16:59:42.000Z",
+          "wordCount": 1310,
+          "title": "AWSも、プログラミングを機械学習で支援する「Amazon CodeWhiperer」プレビュー公開。コメントを書くとコードを提案",
+          "imageUrl": "https://www.publickey1.jp/2022/awscodewhisperer_prev02.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/oracle_cloudoci_dedicated_region1213000.html",
           "author": null,
@@ -3324,6 +3363,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=278980",
+          "author": "Jessica Hamzelou",
+          "description": "米国の研究チームがバッタの脳を使って、「匂い」からがんを検出することに成功した。がんのスクリーニングやデバイスの開発に発展する可能性がある新研究だ。",
+          "link": "https://www.technologyreview.jp/s/278980/scientists-hacked-a-locusts-brain-to-sniff-out-human-cancer/",
+          "publishedOn": "2022-06-23T21:55:02.000Z",
+          "wordCount": 1350,
+          "title": "バッタの脳を改造、人間のがんの「嗅ぎ分け」に成功",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/21234504/GettyImages-200424688-001-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/24/279204/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/24/279204/",
+          "publishedOn": "2022-06-23T21:51:42.000Z",
+          "wordCount": 701,
+          "title": "がん抑制遺伝子で肝細胞がん発生が促進＝阪大",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=278300",
+          "author": "Jennifer Hattam",
+          "description": "視覚的な情報だけでなく、聴覚や嗅覚における経験を住み良い街づくりに取り入れる「センサリー・アーバニズム」が注目されつつある。騒音や悪臭といったネガティブな要素だけでなく、ポジティブな影響を調査する研究も進められている。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/278300/why-sounds-and-smells-are-as-vital-to-cities-as-the-sights/",
+          "publishedOn": "2022-06-23T21:25:33.000Z",
+          "wordCount": 1124,
+          "title": "音や匂いを街づくりに生かす「センサリー・アーバニズム」の発想",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/14181504/JA22_sensory-1400x787.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=278280",
           "author": "Lois Parshley",
@@ -4143,16 +4212,6 @@
           "wordCount": 340,
           "title": "デンソーとハネウェルがモーターを共同開発、電動航空機に初採用",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=276907",
-          "author": "MIT Technology Review Audio Studio",
-          "description": "今週のオーディオ・ムック（β）は、高まる二酸化炭素除去の必要性と実現するテクノロジー、課題を追った。",
-          "link": "https://www.technologyreview.jp/s/276907/audiomook-the-worlds-carbon-removal-problem/",
-          "publishedOn": "2022-05-25T03:01:49.000Z",
-          "wordCount": 709,
-          "title": "聴くMITTR：温暖化対策で新潮流、「炭素除去」は実現するか",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/11125910/AudioMook2-1.png"
         }
       ]
     }
