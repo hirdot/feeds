@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T10:00:34.173Z</updated>
+    <updated>2022-06-25T22:00:47.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4678,87 +4678,6 @@
         <summary type="html"><![CDATA[こんにちは、nand2tetrisにハマっているyuki0920です。 今回は業務で得たTipsである「部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法」を紹介します。 前提: フロントエンドからアクセストークンを使いたい 一部SPA構成のRails製のアプリケーションを運用しており、認証基盤にAuth0を利用しています。 Railsアプリはユーザーから受け取ったメールアドレスとパスワードをAuth0へ送信するなどの認証処理を担っており、認証後のアクセストークンはRailsアプリが受け取っています。 今回、部分SPAのフロントエンドから、ログイン…]]></summary>
         <author>
             <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: has_secure_password利用時のauthenticate_byメソッド（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_05_27/118000</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_05_27/118000"/>
-        <updated>2022-05-27T08:30:16.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/05/rails7_authenticated_by_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails adds authenticate_by method when using has_secure_password &#124; Saeloun Blog 原文公開日: 2021/12/29 原著者: Nishant Samel サイト: blog.saeloun.com 注: この#43765はRailsのmainブランチにマージされていますが、現時点ではまだ7-0-stableブランチに含まれていません。 edgeapi.rubyonrails.org: authenticate_by Rails 7: has_secure_password利 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_05_27/118000" data-wpel-link="internal" target="_self">Rails 7: has_secure_password利用時のauthenticate_byメソッド（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon FSx for Lustre がルートスカッシュのサポートを開始]]></title>
-        <id>4dc530fa5abeec64606a907867f3cfe0f698f535</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-fsx-lustre-supports-root-squash/"/>
-        <updated>2022-05-27T04:33:47.000Z</updated>
-        <summary type="html"><![CDATA[コンピューティングワークロード向けに、費用対効果が高く、高性能かつスケーラブルなファイルストレージを提供するサービスである Amazon FSx for Lustre は、ルートスカッシュをサポートするようになりました。この管理機能は、FSx for Lustre が提供する現在のネットワークベースのアクセスコントロールと POSIX ファイル許可に加えてファイルアクセスコントロールのさらなるレイヤーを追加します。ルートスカッシュ機能を使用すると、FSx for Lustre ファイルシステムにルートとしてアクセスするクライアントからのルートレベルのファイルシステムアクセスを制限できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon ElastiCache for Redis および Amazon MemoryDB for Redis の JSON サポートを発表]]></title>
-        <id>34da48486590f5bf174034aaa40129007d21be22</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/"/>
-        <updated>2022-05-27T04:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon ElastiCache for Redis および Amazon MemoryDB for Redis は、JavaScript Object Notation (JSON) 形式でのデータのネイティブな保存とアクセスをサポートするようになりました。今回のリリースにより、アプリケーションデベロッパーは、シリアル化と逆シリアル化のためのカスタムコードを管理することなく、Redis 内で JSON データを簡単に保存、取得、更新できます。ElastiCache と MemoryDB を使用することで、オブジェクト全体を操作することなく、JSON ドキュメントの特定の部分を効率的に取得して更新できるようになりました。これは、パフォーマンスを改善し、コストを削減するのに役立つ場合があります。JSONPath クエリ構文を使用して JSON ドキュメントのコンテンツを検索することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Customer Profiles がアフリカ (ケープタウン) で利用可能に]]></title>
-        <id>d4150bb0f8cdcda6794c530ba26a4ccf8b64dde3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-africa-cape-town/"/>
-        <updated>2022-05-27T04:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、アフリカ (ケープタウン) AWS リージョンで Amazon Connect Customer Profiles をご利用いただけるようになりました。顧客からカスタマーサービス部門に問い合わせがあった場合に、その顧客に関する最新情報をエージェントとインタラクティブ音声応答 (IVR) ソリューションに提供できるようになりました。これにより、より高速かつパーソナライズされたカスタマーサービスを実現できます。Customer Profiles は、Salesforce、Amazon S3、ServiceNow などの複数のアプリケーションからの顧客情報 (住所、購入履歴、問い合わせ履歴など) を 1 つの統合されたカスタマープロファイルにまとめます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が AWS アジアパシフィック (大阪) リージョンで利用可能に]]></title>
-        <id>3f264acabb3ea46b5e21e312210485f9f88f227d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-sign-on-asia-pacific-osaka-region/"/>
-        <updated>2022-05-27T03:48:22.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On (SSO) が AWS アジアパシフィック (大阪) リージョンで利用可能になりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 で、意図しない停止アクションからインスタンスを保護することが可能に]]></title>
-        <id>c334a399ec806c97ea0d2ad4e5b4098cbda76d4f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ec2-enables-protect-instances-unintentional-stop-actions/"/>
-        <updated>2022-05-27T03:47:16.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon EC2 は、お客様が偶発的な停止アクションからインスタンスを保護できるようにする Stop Protection 機能を発表しました。これまで、お客様は、Termination Protection を有効にすることで、意図しない終了アクションからインスタンスを保護することが可能でした。Stop Protection を使用すると、ステートフルなワークロードを持つお客様は、意図しない停止および終了アクションから、インスタンスストアボリューム内のデータを保護できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Grafana が、Grafana API トークンを作成するための新しい API と、バージョン 8.4 のサポートを導入]]></title>
-        <id>48326c0148495c9e1cacf8706c8b84f890878a19</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-managed-grafana-api-tokens-support-version-8-4/"/>
-        <updated>2022-05-27T03:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Managed Grafana は、Grafana API トークンを作成するための新しい API をサポートするとともに、新しいプラグイン、Grafana バージョン 8.4、およびワークスペースタグをサポートするようになりました。CreateWorkspaceApiKey を使用すると、お客様は Grafana ワークスペースコンソールにログインせずに Grafana API トークンを作成できるため、ユーザーはダッシュボード、アラート、データソースなどの Grafana リソースをプログラムを使用して作成、削除、および管理できます。Amazon Managed Grafana は、Github、Moogsoft、Pixie、および Windrose プラグインのサポートを追加し、お客様が別のデータソースからのデータを接続、クエリ、および視覚化できるようにします。既存および新規の Amazon Managed Grafana ワークスペースは、Grafana バージョン 8.4 をサポートするようになりました。ユーザーによるアクションは不要です。お客様は、Amazon Managed Grafana ワークスペースにタグを付けて、ワークスペースの編成とコスト管理を簡素化できるようになりました。タグは、Amazon Managed Grafana ワークスペースにアタッチしてコストを検索、フィルタリング、または割り当てることができるキーと値のペアの形式のラベルです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年5月27日号　kinetic（22.10）の開発 / ターミナルソフトウェアの変更とPipeWireへの切り替え，Azure Active Directoryへの対応 ── Ubuntu Weekly Topics]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202205/27</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202205/27"/>
-        <updated>2022-05-27T00:54:00.000Z</updated>
-        <summary type="html"><![CDATA[kineticの開発では，いくつかの興味深い動きが開始されています。ひとつは，長きに渡って「標準のターミナルソフトウェア」として位置づけられてきた，gnome-terminalからgnome-consoleへの切り替えです。]]></summary>
-        <author>
-            <name>吉田史</name>
         </author>
     </entry>
     <entry>
