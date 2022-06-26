@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T09:00:38.652Z</updated>
+    <updated>2022-06-26T10:00:39.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4638,36 +4638,6 @@
         <summary type="html"><![CDATA[マイクロソフトはコンテナをサーバレスで実行する新サービス「Azure Container Apps」の正式サービスとしての提供開始を発表しました。 Azure Container Apps is now generally availabl...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Config が Amazon CloudWatch のメトリクスをサポート]]></title>
-        <id>4d6508b0d8a2d165f169526d591f42793773d539</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/"/>
-        <updated>2022-05-27T21:04:15.000Z</updated>
-        <summary type="html"><![CDATA[本日は、AWS Config での使用状況のモニタリングのための Amazon CloudWatch メトリクスの提供開始を発表します。AWS Config は、サポートされているリソースに加えられた変更を追跡し、設定アイテム (CI) として記録し、その後 Amazon Simple Storage Service (Amazon S3) のバケットに配信されます。Amazon CloudWatch のメトリクスは、システムの使用状況に関するデータを提供するモニタリングサービスで、AWS リソースのメトリクスに関する検索、グラフ化、アラームの構築などの機能が含まれます。本リリースでは、Amazon CloudWatch メトリクスを使用して、設定の検証や AWS Config の使用状況の把握ができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナッシュビルとタンパで新しい AWS Wavelength Zone を開始]]></title>
-        <id>4db97b8e059673a3709d59e688946a4083ba7bde</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/"/>
-        <updated>2022-05-27T21:02:15.000Z</updated>
-        <summary type="html"><![CDATA[本日より、テネシーのナッシュビルとフロリダのタンパにある Verizon の 5G Ultra Wideband ネットワークで、2 つの新しい AWS Wavelength Zone がご利用可能になりました。Wavelength Zone は、以前発表したアトランタ、ボストン、シャーロット、シカゴ、ダラス、デンバー、デトロイト、ヒューストン、ラスベガス、ロサンゼルス、マイアミ、ミネアポリス、ニューヨーク市、フェニックス、サンフランシスコ、シアトル、ワシントン DC を含む 19 の主要都市でご利用いただけるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management がアクティブジョブの制限を 1 つのリージョンにつき AWS アカウントあたり 100,000 に引き上げ]]></title>
-        <id>fc4767d4422b737d57304752f2b0317e124ec3fb</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/"/>
-        <updated>2022-05-27T21:01:25.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Management のお客様は、1 つのリージョンにつき、AWS アカウントあたり最大 100,000 個のアクティブジョブを作成できるようになります。これまでの上限は、 1 つのリージョンにつき AWS アカウントあたり 1,000 アクティブジョブでした。この新しい制限は、作成されたジョブの総数、すなわち、継続ジョブとスナップショットジョブの両方に適用されます。数千の個別ターゲットにオーダーメイドの設定を並行して適用するなど、大量のアクティブジョブを必要とするお客様は、今回のアップグレードでブロックされなくなりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
