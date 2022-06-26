@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-25T22:00:47.869Z</updated>
+    <updated>2022-06-26T00:00:39.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -4668,16 +4668,6 @@
         <summary type="html"><![CDATA[AWS IoT Device Management のお客様は、1 つのリージョンにつき、AWS アカウントあたり最大 100,000 個のアクティブジョブを作成できるようになります。これまでの上限は、 1 つのリージョンにつき AWS アカウントあたり 1,000 アクティブジョブでした。この新しい制限は、作成されたジョブの総数、すなわち、継続ジョブとスナップショットジョブの両方に適用されます。数千の個別ターゲットにオーダーメイドの設定を並行して適用するなど、大量のアクティブジョブを必要とするお客様は、今回のアップグレードでブロックされなくなりました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/spa-auth0-settings</id>
-        <link href="https://blog.agile.esm.co.jp/entry/spa-auth0-settings"/>
-        <updated>2022-05-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、nand2tetrisにハマっているyuki0920です。 今回は業務で得たTipsである「部分SPAのRalisアプリにおけるフロントエンドからAuth0のアクセストークンを取得する方法」を紹介します。 前提: フロントエンドからアクセストークンを使いたい 一部SPA構成のRails製のアプリケーションを運用しており、認証基盤にAuth0を利用しています。 Railsアプリはユーザーから受け取ったメールアドレスとパスワードをAuth0へ送信するなどの認証処理を担っており、認証後のアクセストークンはRailsアプリが受け取っています。 今回、部分SPAのフロントエンドから、ログイン…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
         </author>
     </entry>
     <entry>
