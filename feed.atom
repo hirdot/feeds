@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-27T01:30:01.160Z</updated>
+    <updated>2022-06-27T02:44:59.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アジャイル事業部運営を支える技術]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/programming-for-management</id>
+        <link href="https://blog.agile.esm.co.jp/entry/programming-for-management"/>
+        <updated>2022-06-27T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、平田です。 普段私はマネージャーとして、事業部の運営やお客様との折衝を担当しています。業務でプログラミングをすることはほとんどないのですが、運営の中で必要な業務の自動化や省略化のためにコードを書くことがあります。そのいくつかを紹介したいと思います。 勤怠承認の省力化 メンバーの勤怠を月末に確認して承認する必要があります。以前、あまり使い勝手の良くない勤怠管理ソフトが導入されていた時代に、30名近くのメンバーの勤怠確認をしやすくするために、 CSV ファイルを読み込んで、ターミナル上で確認できるように作ったプログラムです。 その後、全社の勤怠管理ツールが変更になった後もその変更に追随…]]></summary>
+        <author>
+            <name>esm アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「中絶の権利」は認められず　米最高裁、判例覆す]]></title>
         <id>https://www.technologyreview.jp/?p=279276</id>
