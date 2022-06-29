@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "39776c52ea0291592569102cdaa1935a1b293f05",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Ground Truth は、機械学習モデル向けの高精度のトレーニングデータセットを構築するのに役立ちます。SageMaker Ground Truth を使用すると、Amazon Mechanical Turk や選択したベンダー企業のワーカー、または自社の労働力を活用して、機械学習モデルのトレーニング用のラベル付きデータセットを作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/",
+          "publishedOn": "2022-06-29T18:33:32.000Z",
+          "wordCount": 340,
+          "title": "仮想プライベートクラウド (VPC) のサポートが SageMaker Ground Truth で一般に利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a34c3dc8cb2951d286bd34068069f9278916f818",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight で、Amazon CloudWatch にメトリクスを送信して QuickSight アセットをモニタリングできるようになりました。QuickSight の開発者と管理者は、これらのメトリクスを使用して、QuickSight エコシステムの可用性とパフォーマンスをほぼリアルタイムで監視し、対応できます。データインジェスト、ダッシュボード、ビジュアルを監視して、一貫性があり、高性能で中断のないサービスを QuickSight で閲覧者に提供できます。詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-launches-monitoring-cloudwatch-metrics/",
+          "publishedOn": "2022-06-29T18:32:43.000Z",
+          "wordCount": 327,
+          "title": "Amazon QuickSight が CloudWatch メトリクスを使用したモニタリングを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "dcccaa487fb59e840dd087d0930843e6e68b9e69",
           "author": "aws@amazon.com",
           "description": "Amazon Elastic Kubernetes Service (EKS) 向けの AWS Fargate が、Sinnet 運営のアマゾン ウェブ サービス中国 (北京) リージョンと NWCD 運営のアマゾン ウェブ サービス中国 (寧夏) リージョンで利用可能になりました。AWS Fargate は、サーバーレスで従量制料金のコンピューティングエンジンであり、サーバーを管理することなくアプリケーションの構築に集中することができます。Amazon EKS は、Kubernetes アプリケーションを実行およびスケールするためのマネージドコンテナサービスです。AWS Fargate サーバーレスコンピューティングを Amazon EKS クラスターで使用すれば、サーバーのプロビジョンと管理が不要になり、アプリケーションごとにリソースを指定してその分のみ料金を支払うことができるだけでなく、設計段階からのアプリケーション分離によりセキュリティが強化されます。",
@@ -1524,26 +1544,6 @@
           "wordCount": 258,
           "title": "AWS Systems Manager が Session Manager を利用したリモートホストへのポートフォワーディングをサポート開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bcc9410c5de19d2fcb5678b9811fee561eeb69af",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon Genomics CLI v1.5.0 で、Toil ワークフローエンジンを使用して Common Workflow Language (CWL) で記述されたワークフローのサポートが追加されたことをお知らせします。CWL に加えて、Amazon Genomics CLI は、Workflow Definition Language (WDL)、Nextflow、および Snakemake で記述されたワークフローをサポートし、ゲノムバリアントや単一セル RNAseq の共同呼び出しなどのさまざまなゲノミクスデータ分析を実行できるようにします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/",
-          "publishedOn": "2022-05-31T01:32:08.000Z",
-          "wordCount": 338,
-          "title": "Amazon Genomics CLI v1.5.0 が Toil を使用した Common Workflow Language (CWL) のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ba4dbe3b42366e14681af9db9cf6c238a1dc1ea8",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Services (Amazon ECS) は、ユーザーに代わって Amazon Elastic Compute Cloud (EC2) Auto Scaling グループ (ASG) のスケーリングを動的に管理する Cluster Auto Scaling (CAS) 機能を提供します。これにより、お客様はコンテナの実行に集中できます。Capacity Provider は、Amazon ECS クラスターを ASG にリンクするコンピューティングインターフェイスです。Capacity Providers では、コンテナ化されたワークロードをさまざまな種類のコンピューティングキャパシティで実行する方法について柔軟なルールを定義し、そのキャパシティのスケーリングを管理できます。Capacity Providers は、ECS でタスクとサービスを実行する可用性、スケーラビリティを改善し、コストを削減します。本日より、AWS Auto Scaling スケーリングプランに依拠するのではなく、ターゲット追跡スケーリングポリシーと直接統合することで、Capacity Provider と ASG 間の統合メカニズムを簡素化します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/",
-          "publishedOn": "2022-05-31T01:31:18.000Z",
-          "wordCount": 298,
-          "title": "Amazon ECS が Capacity Provider と Auto Scaling グループの統合を簡素化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2693,16 +2693,6 @@
           "wordCount": 381,
           "title": "第82回　MySQL Operator for k8s GAリリース，PostgreSQL 15 β1登場とPGECons成果報告会 ── OSSデータベース取り取り時報",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1433_oss-db-various-news.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0172",
-          "author": "深町日出海",
-          "description": "MySQLバージョン8.0.16では権限周りの新しい追加要素としてSYSTEM_USER権限が追加されました。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0172",
-          "publishedOn": "2022-05-31T00:22:00.000Z",
-          "wordCount": 437,
-          "title": "第172回　SYSTEM_USERによるアカウントの保護 ── MySQL道普請便り",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
         }
       ]
     },
@@ -2780,16 +2770,6 @@
           "wordCount": 292,
           "title": "2022年6月第1週　より磨きのかかった「Android 13」はリリースが楽しみ！ ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0040",
-          "author": "こじまみつひろ",
-          "description": "ここ数年，筆者がとりまとめ役をしているPlamo Linuxの新バージョンは田植えで忙しくなる前にリリースすることにしており，今年も先月末に約1年ぶりとなるPlamo Linux 7.4をリリースしました。",
-          "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0040",
-          "publishedOn": "2022-05-31T00:26:00.000Z",
-          "wordCount": 340,
-          "title": "第40回　Plamo Linux 7.4と赤の女王仮説 ── 続・玩式草子 ―戯れせんとや生まれけん―",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2018/thumb/TH800_1692_ganshiki-soushi-2.png"
         }
       ]
     },
@@ -3068,16 +3048,6 @@
           "wordCount": 1293,
           "title": "週刊Railsウォッチ: Railsコミュニティアンケート結果発表、書籍『Sustainable Web Development with Ruby on Rails』ほか（20220531）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/05/railswatch_20220531_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_05_31/25326",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2016/08/rails_html_escape_eyecatch-min-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>更新情報 2016/08/31: 初版公開 2022/05/31: 更新 こんにちは、hachi8833です。 ここでは次のような結果を期待していました。以下コード中の&#38;は、エスケープを表示するために全角の&#38;にしています。 &#60;%= link_to '#', data: {key: '&#60;span&#62;piyopiyo&#60;/span&#62;'} %&#62; &#60;!-- 元のERBコード --&#62; &#60;a href=\"#\" data-key=\"＆lt;span＆gt;piyopiyo＆lt;/span\\＆gt;\"&#62; &#60;!-- 期待するHTML出力 --&#62;  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_05_31/25326\" data-wpel-link=\"internal\" target=\"_self\">Rails: ビューのHTMLエスケープは#link_toなどのヘルパーメソッドで解除されることがある</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_05_31/25326",
-          "publishedOn": "2022-05-31T08:31:23.000Z",
-          "wordCount": 491,
-          "title": "Rails: ビューのHTMLエスケープは#link_toなどのヘルパーメソッドで解除されることがある",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2016/08/rails_html_escape_eyecatch-min-min.png"
         }
       ]
     },
@@ -3086,6 +3056,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/vmwarevsphere_652022101512.html",
+          "author": null,
+          "description": "VMwareは、仮想化基盤であるvSphereを強化した「vSphere+」を発表しました。 vSphere+は従来のvSphereを基盤に、同社のKubernetesディストリビューションであるTanzuの一部機能を統合してKuberne...",
+          "link": "https://www.publickey1.jp/blog/22/vmwarevsphere_652022101512.html",
+          "publishedOn": "2022-06-29T15:12:02.000Z",
+          "wordCount": 1220,
+          "title": "VMwareが「vSphere+」を発表。サブスクリプション制、アドオンサービスによる機能追加など",
+          "imageUrl": "https://www.publickey1.jp/2022/FWVtBl2X0AAp7nN.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/vmware_sovereign_cloud_initiative.html",
           "author": null,
@@ -3543,6 +3523,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/29/279610/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/30/279610/",
+          "publishedOn": "2022-06-29T21:15:06.000Z",
+          "wordCount": 689,
+          "title": "理研など、細胞培養条件を自律的に探索するロボAIシステム",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/06/29/279614/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/06/30/279614/",
+          "publishedOn": "2022-06-29T21:09:37.000Z",
+          "wordCount": 690,
+          "title": "VR空間で「第3・4の腕」の身体化に成功、東大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=279479",
           "author": "MIT Technology Review Audio Studio",
@@ -4372,26 +4372,6 @@
           "wordCount": 581,
           "title": "バイオ油を使わず埋める 米スタートアップの 意外な炭素除去ビジネス",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/26182117/charm-industrial-032a-1400x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/05/30/277280/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/05/31/277280/",
-          "publishedOn": "2022-05-31T08:21:05.000Z",
-          "wordCount": 341,
-          "title": "新型コロナの超高感度・全自動検出装置を開発＝理研など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/05/30/277266/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/05/31/277266/",
-          "publishedOn": "2022-05-31T07:21:00.000Z",
-          "wordCount": 337,
-          "title": "NECと理研、AI画像認識で対象物の追加を容易にする新技術",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
