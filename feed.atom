@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-28T22:00:44.279Z</updated>
+    <updated>2022-06-29T00:00:54.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[角を曲がる回数が多い方が街は魅力的になる！？都市の「効率性」と「多様性」と「魅力」の関係性についてビッグデータを使って考えてみた！]]></title>
+        <id>https://data.wingarc.com/?p=38364</id>
+        <link href="https://data.wingarc.com/diversity-by-big-data-38364?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=diversity-by-big-data"/>
+        <updated>2022-06-28T23:00:43.000Z</updated>
+        <summary type="html"><![CDATA[人類の発展に伴いさまざまに変化してきた都市。近年では、人々やさまざまなサービスが都市近郊に集約される動きが加速し、世界全体で見ると毎週150万人もの人々が都市に流入していると言います。 都市で暮らす人々の割合が日に日に高 […]]]></summary>
+        <author>
+            <name>大藤 ヨシヲ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大手スパイウェア企業「NSO」が買収協議、業界の終わりの始まりか]]></title>
         <id>https://www.technologyreview.jp/?p=279395</id>
@@ -4968,46 +4978,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/"/>
         <updated>2022-05-30T15:01:04.000Z</updated>
         <summary type="html"><![CDATA[Amazon ElastiCache for Memcached が、Transport Layer Security (TLS) バージョン 1.2 を使用した転送中のデータの暗号化をサポートするようになりました。転送中に暗号化を使用する場合、クライアントと Memcached クラスター間のすべてのネットワークトラフィックが暗号化されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lightsail コンテナが Amazon ECR プライベートリポジトリからのイメージのデプロイのサポートを開始]]></title>
-        <id>c1398b9b2188ab323494dce7fa05424419632a6c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/"/>
-        <updated>2022-05-30T11:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail は、Amazon ECR プライベートリポジトリのコンテナイメージを使用して、Lightsail コンテナサービスのデプロイの作成をサポートするようになりました。このリリースでは、プライベート ECR リポジトリに既に存在する可能性があるイメージを利用しながら、Lightsail の簡素化されたエクスペリエンスでコンテナを実行できるため、移植性が向上します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 M6id インスタンスのご紹介]]></title>
-        <id>8a848ec86204642d485818da5871ee0b18cf8e9d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/introducing-amazon-ec2-m6id-instances/"/>
-        <updated>2022-05-30T11:32:56.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) は、新しい汎用 Amazon Elastic Compute Cloud (Amazon EC2) M6id インスタンスの一般提供の開始を発表します。M6id インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名 Ice Lake) と、最大 7.6 TB のローカル NVMe ベースのソリッドステートディスク (SSD) ブロックレベルストレージを搭載しており、M5d インスタンスと比較して最大 15% 優れたコストパフォーマンスを提供します。前世代のインスタンスと比較して、M6id インスタンスは、vCPU あたり最大 58% 高い TB ストレージと、TB あたり 34% 低いコストを提供します。M6id インスタンスは、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化機能も備えています。すべての最新の EC2 インスタンスのように、M6id インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアのほとんどのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。M6id インスタンスは、データログ記録やメディア処理など、高速で低レイテンシーのローカルブロックストレージとともに、コンピューティングリソースとメモリリソースのバランスを必要とするワークロードに最適です。M6id インスタンスは、バッチ処理やログ処理およびキャッシュやスクラッチファイルが必要なアプリケーション、ならびにデータの一時的な格納が必要なアプリケーションにも役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 C6id インスタンスのご紹介]]></title>
-        <id>c1f9b5fb2c88dfd256f147fbfae958b590cf34f5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/"/>
-        <updated>2022-05-30T11:31:51.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) は、新しいコンピューティング最適化 Amazon Elastic Compute Cloud (Amazon EC2) C6id インスタンスの一般提供の開始を発表します。C6id インスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサ (コード名 Ice Lake) と、最大 7.6 TB のローカル NVMe ベースのソリッドステートドライブ (SSD) ブロックレベルストレージを搭載しており、C5d インスタンスと比較して最大 15% 優れたコストパフォーマンスを提供します。前世代のインスタンスと比較して、C6id インスタンスは、vCPU あたり最大 138% 高い TB ストレージと、TB あたり 56% 低いコストを提供します。C6id インスタンスは、Intel Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化機能も備えています。すべての最新の EC2 インスタンスのように、C6id インスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System 上に構築されています。これは、ホストハードウェアのほとんどのコンピューティングリソースとメモリリソースをお客様のインスタンスに提供します。 C6id インスタンスは、動画エンコーディング、画像操作、他の形式のメディア処理など、高速かつ低レイテンシーのローカルストレージにアクセスする必要があるワークロードを含め、コンピューティングを多用するワークロードに最適です。C6id インスタンスは、バッチ処理やログ処理およびキャッシュやスクラッチファイルが必要なアプリケーション、ならびにデータの一時的な格納が必要なアプリケーションにも役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Launch Wizard が Amazon FSx for NetApp ONTAP を使用した SQL Server のデプロイのサポートを開始]]></title>
-        <id>fef6c6db23797d98a6e4cd9a88f4cebe896cf6b3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/"/>
-        <updated>2022-05-30T11:31:02.000Z</updated>
-        <summary type="html"><![CDATA[AWS Launch Wizard は、Amazon FSx for NetApp ONTAP を使用した SQL Server Always On Failover Cluster Instances (FCI) のサポートを発表します。今後は、シンプルなコンソールウィザードを使用して、共有ストレージとして FSx for NetApp ONTAP を使用して SQL Server FCI を Amazon EC2 にデプロイできます。この機能は、複雑な手動デプロイプロセスを、共有ストレージに依存するオンプレミスの SQL Server ワークロードの移行を高速化する使いやすいガイド付きウィザードに置き換えることを通じて、時間と労力を削減します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
