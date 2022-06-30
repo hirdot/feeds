@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-30T10:00:26.876Z</updated>
+    <updated>2022-06-30T22:00:35.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「EV大国」目指す米国の死角、急速充電施設はわずか6000カ所]]></title>
+        <id>https://www.technologyreview.jp/?p=279509</id>
+        <link href="https://www.technologyreview.jp/s/279509/the-u-s-only-has-60000-charging-stations-for-evs-heres-where-they-all-are/"/>
+        <updated>2022-06-30T21:55:55.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車（EV）は主流になりつつあるように見えるが、充電する場所はどれくらいあるのだろうか。EVユーザーの需要を満たすだけの台数が、必要な場所にあるのだろうか。]]></summary>
+        <author>
+            <name>Andrew Moseman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北大、オンライン会話中の脳活動を解析できる新システム]]></title>
+        <id>https://www.technologyreview.jp/n/2022/06/27/279340/</id>
+        <link href="https://www.technologyreview.jp/n/2022/07/01/279340/"/>
+        <updated>2022-06-30T21:32:53.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) により、ストレージ容量の動的なサイズ変更が可能に]]></title>
+        <id>357f3d57269ec956e94ed39b37d6b512eb528093</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/"/>
+        <updated>2022-06-30T15:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DocumentDB (MongoDB 互換) クラスターに割り当てられたストレージ容量が、クラスターからデータを削除すると動的に減少するようになりました。Amazon DocumentDB は、大規模な JSON データ管理のためのデータベースサービスであり、AWS で完全に管理および統合されている、高い耐久性を備えたエンタープライズ対応のサービスです。以前は、コレクションを削除するなどして Amazon DocumentDB のデータが削除されても、割り当てられた総容量は変わりませんでした。将来的にデータ量が増加すると、空き容量は自動的に再利用されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原因不明でテストが失敗する「フレイキーテスト」問題／GitHubの使い方を学ぶ「GitHub Skills」／パスワードレスの時代にパスワードマネージャの存在意義、ほか。2022年6月の人気記事]]></title>
+        <id>https://www.publickey1.jp/blog/22/githubgithub_skills20226.html</id>
+        <link href="https://www.publickey1.jp/blog/22/githubgithub_skills20226.html"/>
+        <updated>2022-06-30T15:15:48.000Z</updated>
+        <summary type="html"><![CDATA[これまでコンビニで炭酸水を買って飲んでいたのですが、流行に乗って炭酸水メーカーというやつを買ってみました。あれはどうやって炭酸水を作っているのだろうかと思っていたのですが、ボトルに入った水に向けて、勢いよく炭酸ガスを噴射して溶け込ませている...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Stimulusガイド 07: SOLID原則（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_06_30/119133</id>
@@ -4737,131 +4776,6 @@
         <summary type="html"><![CDATA[Cloud Foundry Foundationは、Kubernetes上にPaaS（Platform as a Service）環境を構築する「Korifi」のベータ版をオープンソースで公開しました。 もともとCloud Foundryは...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紅色細菌でゼロカーボン肥料を生成＝京大とバイオベンチャー]]></title>
-        <id>https://www.technologyreview.jp/n/2022/05/30/277202/</id>
-        <link href="https://www.technologyreview.jp/n/2022/06/01/277202/"/>
-        <updated>2022-06-01T08:42:25.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: シャードの意図しないスワップを防止する機能が追加（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_06_01/118255</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_06_01/118255"/>
-        <updated>2022-06-01T08:30:04.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_prevent_unwarranted_shard_swapping_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails adds the ability to prevent unwarranted shard swapping &#124; Saeloun Blog 原文公開日: 2022/03/29 原著者: Swaathi Kakarla サイト: blog.saeloun.com 関連: 週刊Railsウォッチ20211108 ActiveRecord::Base.prohibit_shard_swappingを追加 この改修は、7-0-stableブランチに含まれています。 Rails 7: シャードの意図しないスワップを防止する機能が追加（翻訳） Rails [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_06_01/118255" data-wpel-link="internal" target="_self">Rails 7: シャードの意図しないスワップを防止する機能が追加（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聴くMITTR：なぜ規制？ 日本人が知らない「顔認識」問題]]></title>
-        <id>https://www.technologyreview.jp/?p=277395</id>
-        <link href="https://www.technologyreview.jp/s/277395/audiomook-why-regulation-facial-recognition-issue-that-japanese-do-not-know-about/"/>
-        <updated>2022-06-01T03:01:33.000Z</updated>
-        <summary type="html"><![CDATA[なぜ、顔認識技術が欧米で問題とされているのか？ 今週のオーディオ・ムック（β）は、その背景と規制をめぐる直近の動きについて紹介する。]]></summary>
-        <author>
-            <name>MIT Technology Review Audio Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muxでのサービス間プロキシとしてのEnvoy]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/envoy-proxy-mux/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/envoy-proxy-mux/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-06-01T01:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Muxは、gRPCリクエストと長時間のHTTP/2接続に関連する既知の負荷分散の問題を解決するためKubernetesクラスタにEnvoyネットワーキングプロキシを使用している。
- By Patrick Zhang  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Patrick Zhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Newsラウンドアップ - Project LoomとPanamaのJEP、JobRunr 5.1.0、Kotlin 1.7.0プレビュー]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/java-news-roundup-may02-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/java-news-roundup-may02-2022/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-06-01T01:56:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年5月2日、今週のJavaラウンドアップは、OpenJDK、JDK19を対象とするJEP、JobRunr 5.1.0、Quarkus 2.8.3.Final、Hibernate ORM 6.0.1.Final、Kotlin 1.7.0プレビュー、Apache Camel versions 3.14.3と3.11.7、Apache Tika version 2.4.0と1.28.2、JDKの最小バージョンに関するMicronautのサーベイ、2022 JFokus Conference、といったニュースをお伝えする。
- By Michael Redlich  Translated by  h_yoshida _]]></summary>
-        <author>
-            <name>Michael Redlich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMakerサーバーレス推論が一般向け提供へ]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/sagemaker-serverless-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/sagemaker-serverless-aws/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-06-01T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは最近、SageMakerサーバレス推論が一般向けに利用可能となったことを発表した。この新しいオプションは、断続的、あるいは、まれなトラフィックパターンを伴う処理向けに設計されており、モデルが受信する推論要求の量に応じて計算能力をプロビジョニング・スケーリングする。
- By Renato Losio  Translated by  編集部T _]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MSK Serverlessが一般提供に]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/aws-msk-apache-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/aws-msk-apache-kafka/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-06-01T01:52:00.000Z</updated>
-        <summary type="html"><![CDATA[AWSは先ごろ、Amazon MSK Serverlessが一般提供されるようになったと発表した。Apache Kafka クラスタを管理するサーバレスオプションにより、容量を監視する必要がなくなり、クラスタ内のパーティションのバランスが自動的にとられる。
- By Renato Losio  Translated by  Shoji Shigeki]]></summary>
-        <author>
-            <name>Renato Losio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[継続的な負荷テストをSlackパイプラインに統合]]></title>
-        <id>https://www.infoq.com/jp/news/2022/05/slack-continuous-load-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3</id>
-        <link href="https://www.infoq.com/jp/news/2022/05/slack-continuous-load-testing/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3"/>
-        <updated>2022-06-01T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Slackは、パフォーマンスに焦点を当てているエンジニアだけでなく、すべてのエンジニアにとって負荷テストが注力すべき関心事になるよう取り組んできた。そして、パフォーマンスに対するリアクティブなアプローチから、より統合された取り組みに移行していると、SlackのエンジニアShreya Ramesh氏とMelissa Khuat氏は述べている。
- By Sergio De Simone  Translated by 編集部T _]]></summary>
-        <author>
-            <name>Sergio De Simone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第717回　Ubuntu 22.04 LTSにおける，Waylandとアプリケーションの微妙な関係 ── Ubuntu Weekly Recipe]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0717</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0717"/>
-        <updated>2022-06-01T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[今回はUbuntu 22.04 LTS時点のWayland上で各種アプリケーションを快適に動作させる勘所を紹介します。]]></summary>
-        <author>
-            <name>あわしろいくや</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五十嵐歩美×成田悠輔×中島秀之：日本がAIで世界と戦う方法]]></title>
-        <id>https://www.technologyreview.jp/?p=276660</id>
-        <link href="https://www.technologyreview.jp/s/276660/researchers-discuss-how-will-japan-compete-with-the-world-in-the-ai/"/>
-        <updated>2022-06-01T01:01:47.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルスの感染拡大で、分散化・自動化・省人化など、社会の価値観やニーズの変化が加速している。AIの研究・社会実装で日本が遅れをとっていると言われて久しいが、社会課題の解決に向けてAIをどのように活かせば良いのだろうか。不可分財の公平な配分を研究している五十嵐歩美氏、データを使って公共政策やビジネスをデザインしている成田悠輔氏と、『AI白書』編集委員長の中島秀之氏が話し合った。]]></summary>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第82回　MySQL Operator for k8s GAリリース，PostgreSQL 15 β1登場とPGECons成果報告会 ── OSSデータベース取り取り時報]]></title>
-        <id>https://gihyo.jp/dev/serial/01/oss-db-various-news/0082</id>
-        <link href="https://gihyo.jp/dev/serial/01/oss-db-various-news/0082"/>
-        <updated>2022-06-01T00:29:00.000Z</updated>
-        <summary type="html"><![CDATA[この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。]]></summary>
-        <author>
-            <name>gihyo.jp：DEVELOPER STAGE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【書評】非公務員にも役立つ！ “スーパー公務員”の仕事術『ゼロからわかる! 公務員のためのデータ分析』]]></title>
-        <id>https://data.wingarc.com/?p=40940</id>
-        <link href="https://data.wingarc.com/data-for-public-workers-40940?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=data-for-public-workers"/>
-        <updated>2022-05-31T23:00:15.000Z</updated>
-        <summary type="html"><![CDATA[みなさん、“スーパー公務員”岡祐輔さんをご存じですか？ 豊かな自然や海の幸などの地域資源を持つ福岡県糸島市（ちなみに糸島は福岡市と陸続きになっていて「島」ではありません）の市役所職員で、データ分析力を用いて実行力のある政 […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
         </author>
     </entry>
     <entry>
