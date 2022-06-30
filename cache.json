@@ -1894,6 +1894,46 @@
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
         {
+          "id": "https://www.infoq.com/jp/news/2022/06/java-news-roundup-jun13-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Michael Redlich",
+          "description": "2022年6月13日、今週のJavaラウンドアップは、JDK19とJDK 20の最新情報、Spring Framework 5.3.21、Spring CVE-2022-22979レポート、Spring Cloud 2022.0.0-M3、Spring Tools 4.15、Spring Tool Suite 3のサポート終了、Hibernate 6.1.0-Final、Apache NetBeans 14、Apache Tomcat 8.5.81、Piranha 22.6.0、TornadoVM 0.14、JDKMonのアップデート、JobRunr 5.1.4、JReleaser早期アクセス、といった内容でお届けする。\n By Michael Redlich  Translated by h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/06/java-news-roundup-jun13-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-06-30T00:47:00.000Z",
+          "wordCount": 4071,
+          "title": "Java News ラウンドアップ: NetBeans 14、Spring Tools Suite 3のサポート終了、Hibernate 6.1、TornadoVM",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220629120004/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/06/azure-storage-optimized-vms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Steef-Jan Wiggers",
+          "description": "最近、Microsoftは、ストレージに最適化した新たなAzure仮想マシン（VM）の一般向け提供（GA）を発表した。このVMは、高スループットとIOPSを必要とする処理を実行するために設計されたLasv3シリーズとLsv3シリーズである。そのターゲットは、ビッグデータアプリケーション、SQLデータベースとNoSQLデータベース、分散ファイルシステム、データ分析エンジンなどである。\n By Steef-Jan Wiggers  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/06/azure-storage-optimized-vms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-06-30T00:41:00.000Z",
+          "wordCount": 3616,
+          "title": "Microsoftがストレージに最適化した新たなVMとしてLasv3とLsv3を発表",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220629115553/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/06/cockroach-report-amd-intel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "Cockroach Labsは最近、一般的なOLTP処理に対するAWS、Microsoft Azure、Google Cloudのパフォーマンスを評価する年次クラウドレポートをリリースした。これまでとは異なり、今年のレポートでは総合的なベストプロバイダーを掲示していないが、AMDインスタンスはIntelインスタンスよりも優れていると結論付けている。ARMインスタンスはテストの対象外であった。\n By Renato Losio  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/06/cockroach-report-amd-intel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-06-30T00:32:00.000Z",
+          "wordCount": 3617,
+          "title": "Cockroach Labs 2022クラウドレポート：AMDがIntelの性能を上回る",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220629120004/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/06/mongodb-atlas-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "author": "Renato Losio",
+          "description": "最近のMongoDB World 2022会議で、MongoDBは、AtlasのサーバレスインスタンスとData APIが一般向け利用可能になったことを発表した。新たなマネージドサーバレスの選択肢として段階的な価格設定が導入されており、毎日の使用量に対して自動的に割引される。\n By Renato Losio  Translated by 編集部T _",
+          "link": "https://www.infoq.com/jp/news/2022/06/mongodb-atlas-serverless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
+          "publishedOn": "2022-06-30T00:27:00.000Z",
+          "wordCount": 2690,
+          "title": "MongoDBがAtlasサーバーレスインスタンスとデータAPIを一般向け提供へ",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220629115553/styles/static/images/logo/logo-big.jpg"
+        },
+        {
           "id": "https://www.infoq.com/jp/news/2022/06/dynatrace-for-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
           "author": "Steef-Jan Wiggers",
           "description": "Microsoftは最近、Dynatrace for Azureを発表した。これはDynatraceのネイティブ統合ソフトウェア（SaaS）ソリューションで、Azure Marketplaceからプレビュー版として入手できる。\n By Steef-Jan Wiggers  Translated by 編集部T _",
@@ -2390,6 +2430,26 @@
       "feedUrl": "https://feed.infoq.com/jp/culture-methods/",
       "siteUrl": "https://www.infoq.com/jp",
       "articles": [
+        {
+          "id": "https://www.infoq.com/jp/news/2022/06/office-design-hybrid/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "author": "Shane Hastie",
+          "description": "リモートワークからハイブリッドワークへの移行を契機として、パンデミック以前はうまくいっていた(あるいはうまくいっていなかった)ことが今はうまくいかない、という理解の下、企業によるオフィスデザインの見直しが進められている。さまざまな働き方やコラボレーション手法にとって都合のよいように、オフィス空間を再設計する必要があるのだ。\n By Shane Hastie  Translated by  h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/06/office-design-hybrid/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "publishedOn": "2022-06-30T00:45:00.000Z",
+          "wordCount": 2713,
+          "title": "ハイブリッドワークスペースのためのオフィスデザイン",
+          "imageUrl": "https://cdn.infoq.com/statics_s2_20220629120004/styles/static/images/logo/logo-big.jpg"
+        },
+        {
+          "id": "https://www.infoq.com/jp/news/2022/06/become-staff-plus-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "author": "Ben Linders",
+          "description": "もしあなたが、スタッフプラス(staff-plus)エンジニアになることに興味があるのならば、自分のキャリアを検証する時間を確保して、自分のキャリア目標と熱意についての議論をマネージャと始めよう。自分のスキルを伸ばすには、エンジニアリングコミュニティに関わるのがよいだろう。スタッフプラスエンジニアは、技術関係者をリードして、個々人の能力を越えた物事を成し遂げることによって、他の人々を成長させ、指導することができるのだ。\n By Ben Linders  Translated by  h_yoshida _",
+          "link": "https://www.infoq.com/jp/news/2022/06/become-staff-plus-engineer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
+          "publishedOn": "2022-06-30T00:20:00.000Z",
+          "wordCount": 3573,
+          "title": "スタッフプラスエンジニアになるには",
+          "imageUrl": "https://cdn.infoq.com/statics_s1_20220629115553/styles/static/images/logo/logo-big.jpg"
+        },
         {
           "id": "https://www.infoq.com/jp/news/2022/06/testers-stop-training-wheel/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
           "author": "Ben Linders",
