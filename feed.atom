@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T08:00:46.763Z</updated>
+    <updated>2022-07-01T09:00:32.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows版Slackでコードブロック内の丸囲み数字が小さすぎる問題の対策]]></title>
+        <id>https://techracho.bpsinc.jp/baba/2022_07_01/119268</id>
+        <link href="https://techracho.bpsinc.jp/baba/2022_07_01/119268"/>
+        <updated>2022-07-01T08:30:32.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/slack_windows_fix_round_num_fonts_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>多くのWindows環境で、Slackの &#8220;` で囲ったコードブロック内に丸囲み数字があると、異常に小さく表示されますよね。 丸囲み文字なんて使いたくないのですが、お客さんから送られてきたメールを貼り付けたりするとよくあります。（これにコードブロックを使うのが間違いであって引用やスニペットを使うべきだと言う宗教論争は脇に置いておきます） monospaceとしてよく使われるConsolasフォントの丸囲み文字が小さいのが直接的な原因です。tx のダンプを見ても明らかに小さい。 つまり、別のフォントが使いたいのです。 効果の検討 ブラウザのフォント設定：効果なし Chromeのフォント設定でmonosp [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/baba/2022_07_01/119268" data-wpel-link="internal" target="_self">Windows版Slackでコードブロック内の丸囲み数字が小さすぎる問題の対策</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年7月1日　もう1匹いる！いや，いない？！ ── 帰ってきた『技評ねこ部通信』]]></title>
         <id>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202207/0701</id>
