@@ -1364,176 +1364,6 @@
           "wordCount": 278,
           "title": "AWS Data Exchange for APIs の従量制課金を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "43e7efb31718de1b418636a9658957015378085b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Timestream が、米国東部 (オハイオ)、米国東部 (バージニア北部)、および米国西部 (オレゴン) の各 AWS リージョンにおいて 、FedRAMP Moderate の認証を受けました。Amazon Timestream をご利用のお客様は、今後、Amazon Virtual Private Cloud (Amazon VPC) 内にある各種のアプリケーションの時系列データを収集、保存、クエリ、可視化して、FedRAMP Moderate の管理に適合させることが可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/",
-          "publishedOn": "2022-06-03T02:36:39.000Z",
-          "wordCount": 301,
-          "title": "Amazon Timestream が FedRAMP Moderate 準拠を獲得しました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8149db37629dcdd3b8b18c79f2f3c682ad76667b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lookout for Metrics から、Athena コネクタがリリースされました。これは、AWS のデータレイク、Amazon S3、Amazon Redshift などの各種データソースからデータをクエリし、そのデータを異常検出のために取り込むことを可能にする、Amazon Lookout for Metrics の新たなコネクタです。Athena コネクタにより、複雑な ETL ジョブの設定と、異常検出のためにデータを準備する時間が削減されます。お客様は、標準SQL を使用して大量のデータセットにクエリしょ、その結果を、異常検出に入力する手前で分析することができます。Athena コネクタは、CSV、JSON、ORC (Optimized Row Columnar)、Parquet、XML、プレインテキスト、および AVRO の各形式のデータをサポートします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/",
-          "publishedOn": "2022-06-03T02:35:50.000Z",
-          "wordCount": 275,
-          "title": "Amazon Lookout for Metrics 用の Athena コネクタの発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e7aa39cb0736bbeb0c079497af0f887ef997e753",
-          "author": "aws@amazon.com",
-          "description": "AWS WAF と AWS Shield Advanced が、アジアパシフィック (ジャカルタ) リージョンでも利用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-waf-aws-shield-advanced-available-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-06-03T02:34:45.000Z",
-          "wordCount": 275,
-          "title": "AWS WAF と AWS Shield Advanced がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e7d3fb7fa178d0eceda9b8fe306598834bbec684",
-          "author": "aws@amazon.com",
-          "description": "今後は、Elastic Volumes を使用して、動的なキャパシティーの増加や io2 Block Express ボリュームのパフォーマンスの調整が行えるようになります。その際、ダウンタイムやパフォーマンスへの影響が発生することはなく、手法は他の EBS ボリュームと同様です。さらに、Fast Snapshot Restore (FSR) が有効化されたスナップショットから、完全に初期化済みの io2 Block Express ボリュームを作成することも可能になりました。FSR に対応したスナップショットから作成されたボリュームであれば、プロビジョニングされたパフォーマンスをすぐに発揮できます。これらの機能により、最高パフォーマンスの EBS ボリュームタイプ (io2 Block Express) が追加されることになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/",
-          "publishedOn": "2022-06-03T02:33:57.000Z",
-          "wordCount": 351,
-          "title": "Amazon EBS で、io2 Block Express 向けの Elastic Volumes および Fast Snapshot Restore (FSR) がサポートされるようになりました。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d002fba45608192b6b5019ff90ee73376b117227",
-          "author": "aws@amazon.com",
-          "description": "今回、 未認証呼び出し内の呼び出しコンテキストデータの一部として、IP アドレスをアプリケーションデベロッパーが Amazon Cognito に伝達できるようになりました。Amazon Cognito の アドバンストセキュリティ機能 (ASF) を有効にしておくことで、リスクの評価が強化され、サインアップ、アカウント確認、パスワード変更などの処理フロー内における、最終的な認証決定を向上することができます。今回の変更以前は、未認証の呼び出しがプロキシの背後から発信されている場合、これらの呼び出し内で、エンドユーザーの IP アドレスを使用することはできませんでした。今回のリリースの新機能により、アイデンティティマイクロサービスや、認証モジュール、そしてアイデンティティプロキシを構築しているデベロッパーは、API を利用してクライアントの IP アドレスを可視化できるようになります。このアドレスは、他のセキュリティアプリケーションで活用できるので、ユーザーによる特定のアクティビティのリスクをより良く把握することが可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/",
-          "publishedOn": "2022-06-03T02:33:08.000Z",
-          "wordCount": 251,
-          "title": "Amazon Cognito でアドバンストセキュリティ機能のためのリスク評価が改良されました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2c389d40374ebe817be17283b7e8aa5bfdb2b65c",
-          "author": "aws@amazon.com",
-          "description": "AWS DataSync に、Amazon Elastic File System (Amazon EFS) とデータをやり取りする際のセキュリティオプションが追加されました。AWS DataSync は、オンプレミス、エッジ、あるいはクラウドストレージと AWS ストレージサービス間でのデータの移動を簡素化、自動化、および高速化するオンラインデータ転送サービスです。Amazon EFS は、サーバーレスの完全に伸縮自在なファイルシステムで、AWS クラウドでのファイルストレージのセットアップ、スケーリング、およびコスト最適化を容易にします。今回 DataSync にリリースされた機能により、EFS アクセスポイントを使用してファイルシステムにアクセスしながら、特定のデータセットとの間で相互にデータをコピーできるようになります。TLS 暗号化を使用して DataSync を EFS ファイルシステムに接続するような設定も可能で、これにより、EFS との間でコピーするために移動中のデータに対する保護を、より強力なものにできます。さらに、定義した EFS ファイルシステムポリシーを使用する IAM ロールを、DataSync に適用する設定も可能で、DataSync のファイルシステムへのアクセス方法をより詳細に制御できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/",
-          "publishedOn": "2022-06-03T02:32:17.000Z",
-          "wordCount": 279,
-          "title": "AWS DataSync に Amazon EFS のセキュリティ機能に関するサポートが追加されました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "07f339c075d735613d128ff2de5eca25126fbebf",
-          "author": "aws@amazon.com",
-          "description": "今回、AWS Well-Architected Tool に、AWS re:Post への直接アクセスの機能が追加されました。re:Post は、質問に対する回答が得られるコミュニティ主導のサービスで 、AWS のお客様は技術的な障害を解決することで、イノベーションの加速と運用の強化が図れます。AWS re:Post では、コミュニティ固有のものから AWS Well-Architected に関するものまで、40 件を超えるトピックが扱われています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-community-well-architected-tool/",
-          "publishedOn": "2022-06-03T02:31:27.000Z",
-          "wordCount": 277,
-          "title": "AWS Well-Architected Tool から AWS re:Post コミュニティにアクセスする",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f643eb750a1bcdf42bbd46d01d35ce6c4bee7e32",
-          "author": "aws@amazon.com",
-          "description": "AWS Resource Access Manager (AWS RAM) は、Service Organization Control (SOC) コンプライアンスおよび国際標準化機構 (ISO) の ISO 9001、ISO 27001、ISO 27017、ISO 27018、ISO 27701 規格の対象ワークロードに使用できるようになりました。金融、ヘルスケア、その他の規制分野のお客様は、AWS Artifact の SOC レポート、AWS ISO、CSA STAR 証明書で確認できる、顧客データを保護するセキュリティプロセスやコントロールに関するインサイトを得ることができるようになりました。AWS がこれらの世界的に認知されている実務規範の規格に適合していること、およびこれらの実務規範に関して独立したサードパーティによる評価を受けることにより、お客様のコンテンツのプライバシーと保護に関する AWS の取り組みが実証されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/",
-          "publishedOn": "2022-06-03T01:15:59.000Z",
-          "wordCount": 286,
-          "title": "AWS Resource Access Manager が ISO と SOC に準拠",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "46d327a9e3a10728f7bc5e340f734b13500798ec",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Outposts での Amazon Elastic Compute Cloud (EC2) Dedicated Hosts のサポートが発表されました。このサポートにより、既存のソフトウェアライセンスと、専有の物理サーバーを必要とするワークロードを Outpost Racks で使用できるようになります。また、お客様は今後、インスタンスタイプのデプロイをより柔軟に実行できるほか、より細かな配置制御が可能になります。さらに、そのすべてで、AWS Outposts の一貫したハイブリッドエクスペリエンスをお楽しみいただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/",
-          "publishedOn": "2022-06-03T00:26:50.000Z",
-          "wordCount": 306,
-          "title": "Amazon EC2 Dedicated Hosts、AWS Outposts で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6d4231194590236d4d589b5e5aad5da8a413a2fb",
-          "author": "aws@amazon.com",
-          "description": "AWS Elastic Disaster Recovery (DRS) で複数のステージングアカウントとターゲットアカウントへのサポート追加が発表されました。現在、AWS アカウントあたり最大 300 台のソースサーバーをレプリケートおよび保護できます。複数のステージングアカウントとターゲットアカウントを使用することで、今後は任意のターゲット AWS アカウントで、最大 3,000 台のレプリケートソースサーバーを復旧できます。この機能により、ディザスタリカバリのセットアップ、実装、モニタリングがより簡単および効率的になります。特に、大規模プロジェクトではその効果が顕著になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/",
-          "publishedOn": "2022-06-03T00:23:41.000Z",
-          "wordCount": 274,
-          "title": "AWS Elastic Disaster Recovery で複数のステージングアカウントおよびターゲットアカウントのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "819724a5748d2231246271f077f3087c4a79e176",
-          "author": "aws@amazon.com",
-          "description": "AWS Identity and Access Management (IAM) は、サポートされているすべてのブラウザ全体で、強力でフィッシングに強い認証のための Web Authentication (WebAuthn) 標準をサポートするようになりました。WebAuthn は、FIDO U2FAPI を継承する FIDO2 仕様の一部であり、パブリックキー暗号化に基づくセキュリティキーを用いた安全な多要素認証が可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/",
-          "publishedOn": "2022-06-03T00:21:47.000Z",
-          "wordCount": 256,
-          "title": "AWS IAM が WebAuthn と Safari ブラウザをサポートし、セキュリティキーによる多要素認証が可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a67ddb5a945c97421b29b7c99b42ad043ede5332",
-          "author": "aws@amazon.com",
-          "description": "AWS AppSync は、GraphQL および Real-time API の作成と管理を容易にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL では、Amazon DynamoDB、AWS Lambda、HTTP API などのデータソースのデータと、GraphQL スキーマで定義された型、フィールド、操作をリンク、または「解決」するビジネスロジックを実装するために、リゾルバという特別な関数が使用されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/",
-          "publishedOn": "2022-06-03T00:20:57.000Z",
-          "wordCount": 295,
-          "title": "AWS AppSync、拡張された GraphQL Utility Helper Library で GraphQL API 開発を簡素化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "089f942d81269ddec38bc0967121fa0ab18a8298",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect は、アジアパシフィック (シドニー) の AWS リージョンで大量のアウトバウンドコミュニケーションをサポートするようになり、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などのコミュニケーションを、毎日数百から数百万の顧客に簡単に連絡することができるようになりました。Amazon Connect の通話、テキスト、E メールによる大量のアウトバウンドコミュニケーションにより、組織はサードパーティツールを統合することなく、シンプルで埋め込み型のコスト効率の高い方法で、顧客に積極的に連絡することができます。Amazon Pinpoint が提供するオプションの統合リスト管理機能を使用して、カスタマージャーニーやマルチチャネルのユーザーエクスペリエンスを構築することも可能です。この起動により、オーストラリアおよびニュージーランドの顧客に対して、大量のアウトバウンドコールを行うことができるようになりました。この機能はすぐに利用でき、AWS コンソールで有効化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/",
-          "publishedOn": "2022-06-03T00:20:08.000Z",
-          "wordCount": 236,
-          "title": "Amazon Connect の大量のアウトバウンドコミュニケーション機能が、アジアパシフィック (シドニー) AWS リージョンのパブリックプレビューで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fea87fe75b294069adcd32332c2e3a0a033263d4",
-          "author": "aws@amazon.com",
-          "description": "AWS Marketplace は、SaaS 契約のための無料トライアルを導入し、購入前に製品を試すことができるようになりました。これまでは、製品を試す前に契約を結ぶか、ソフトウェアベンダーが直接提供する無料トライアル用のサードパーティウェブサイトにアクセスする必要がありました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/",
-          "publishedOn": "2022-06-03T00:19:16.000Z",
-          "wordCount": 234,
-          "title": "AWS Marketplace、SaaS 契約の無料トライアルを導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b6443972463c9b48fbf3b2759f45581302ec737e",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower では、AWS Control Tower のランディングゾーン内から、ワンクリックでメンバーアカウントを個別に登録、更新する機能が追加されました。ランディングゾーンの更新、アカウントドリフトの修正、または登録された組織単位 (OU) へのアカウントの登録が、いくつかの合理化された手順で行えます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/",
-          "publishedOn": "2022-06-03T00:18:25.000Z",
-          "wordCount": 258,
-          "title": "AWS Control Tower で単一アカウントの登録と更新が可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "91c55d5288947a581cefd6548d66682a0db108be",
-          "author": "aws@amazon.com",
-          "description": "新しい Dart Signature V4 クライアントにより、デベロッパーは署名付き HTTP リクエストを使用して、200 以上のすべての AWS サービスと安全に統合することができます。この機能により、Dart デベロッパーは Flutter または Dart アプリケーションで AWS バックエンドにネイティブコールを行い、AWS サービスのデータや設定に変更を加えることができるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/",
-          "publishedOn": "2022-06-03T00:17:34.000Z",
-          "wordCount": 267,
-          "title": "AWS は、AWS サービスとの対話のための Dart Signature V4 のサポートを発表しました。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "dd45d65865d78ce77f144d2ae641db79ee13d949",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect では、わずか数回のクリックで大量のアウトバウンドコミュニケーションを開始できるようになり、この機能のテストを開始できるようになりました。Amazon Connect のナビゲーションパネルで、Telephony ページを選択し、「大量のアウトバウンドコミュニケーションを有効にする」のボックスにチェックを入れ、「保存」を選択します。数分で、この機能を使用する準備が整います。電話、テキスト、E メールによる大量のアウトバウンドコミュニケーションを使用すると、サードパーティのツールを統合することなく、配信通知、マーケティングプロモーション、予定のリマインダー、債権回収などのコミュニケーションを毎日数百から何百万もの顧客に連絡することができます。Amazon Pinpoint が提供するオプションの統合リスト管理機能を使用して、カスタマージャーニーやマルチチャネルのユーザーエクスペリエンスを構築することも可能です。この機能はすぐに利用でき、AWS Connect コンソールで有効化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/",
-          "publishedOn": "2022-06-03T00:16:42.000Z",
-          "wordCount": 240,
-          "title": "Amazon Connect で、わずか数クリックで大量のアウトバウンドコミュニケーションを開始できるようになりました (パブリックプレビュー) 。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1858,16 +1688,6 @@
           "wordCount": 618,
           "title": "データのじかんNews 2022年6月Part.01",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/datatimesnews_2022_06_part1_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42595",
-          "author": "tadokoroyusuke",
-          "description": "各界のITリーダーが一堂に会する「CIO Japan Summit 2022」が、さる5月10日（火）・11日（水）の両日、ホテル椿山荘東京で開催された。今回で13回目を迎えた同サミットでは、さまざまな業界のCIOによる […]",
-          "link": "https://data.wingarc.com/all_about_persol-way-of-dx-42595?utm_source=rss&utm_medium=rss&utm_campaign=all_about_persol-way-of-dx",
-          "publishedOn": "2022-06-03T01:00:35.000Z",
-          "wordCount": 559,
-          "title": "人材のエキスパート、パーソル流 デジタル戦略（DX）をリードするIT部門のつくり方",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/persol-asahina-sama.jpg"
         }
       ]
     },
@@ -2509,16 +2329,6 @@
           "wordCount": 1159,
           "title": "女性が活躍するための強く団結した技術チームづくり",
           "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/every-question-answer-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "すべての質問には答がある、と我々は思いがちだ。しかしながら、現在時刻を知りたい時のように、必ずしもそれは真実ではない。開発者は、想定外の障害モードに対する認識を高め、障害の可能性を広く告知し、戻ることのない返答待ちからの復帰にタイムアウトを用いる必要がある。\n By Ben Linders  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/06/every-question-answer-developers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-06-03T02:58:00.000Z",
-          "wordCount": 1185,
-          "title": "すべての質問には答えがある - 開発者にとって不可能とは",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220602053837/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2626,16 +2436,6 @@
           "wordCount": 395,
           "title": "第718回　needrestartで学ぶパッケージのフック処理 ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0718/thumb/TH800_01.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/03",
-          "author": "吉田史",
-          "description": "Ubuntuには目的にあわせた，非常にさまざまなカーネルフレーバーが存在します。これらの新しい仲間として，“starfive”フレーバーが追加される方向で作業が進められています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/03",
-          "publishedOn": "2022-06-03T00:59:00.000Z",
-          "wordCount": 398,
-          "title": "2022年6月3日号　“starfive”カーネルフレーバーの追加・Ubuntu 22.10（kinetic）の開発 / テキストエディタの変更 ── Ubuntu Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
         }
       ]
     },
@@ -3068,16 +2868,6 @@
           "wordCount": 1129,
           "title": "週刊Railsウォッチ: BasecampのHotwireページネーション、Query Object、Lograge gemほか（20220606前編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220606_eyecatch.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus_add_delete_event_listeners_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Events &#8211; Better StimulusJS 原文更新日: 2021/07/16 原著者: Julian Rubisch &#8212; Stimulus Reflexのコアメンバーです サイト: Home &#8211; Better StimulusJS 🔗 1. マークアップにグローバルなイベントを登録する Bad connect() { document.addEventListener(...); } Good &#60;div data-controller=\"gallery\" data-action=\"resize@win [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465\" data-wpel-link=\"internal\" target=\"_self\">Better Stimulusガイド 04: イベントリスナーの追加・削除はStimulusで行う（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_03/118465",
-          "publishedOn": "2022-06-03T08:30:02.000Z",
-          "wordCount": 378,
-          "title": "Better Stimulusガイド 04: イベントリスナーの追加・削除はStimulusで行う（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus_add_delete_event_listeners_eyecatch-min.png"
         }
       ]
     },
