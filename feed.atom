@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-05T03:30:05.343Z</updated>
+    <updated>2022-07-05T04:13:33.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Well-Architected Tool が AWS Organizations と統合]]></title>
+        <id>430e9e67755522f003e942f5dd0da6ca3d244d17</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/"/>
+        <updated>2022-07-05T03:33:10.000Z</updated>
+        <summary type="html"><![CDATA[AWS Well-Architected Tool が AWS Organizations と統合され、クラウドアーキテクトがワークロードとカスタムレンズを組織全体でより広く共有できるようになりました。AWS Organizations はお客様が複数の AWS アカウントを集中管理型の 1 つの組織に統合できるようにするアカウント管理サービスです。このアップデートによって効率が向上し、複数のアカウントでレンズやワークロードを簡単に共有できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS GovCloud (米国) リージョンで AWS CloudShell が利用可能に]]></title>
+        <id>2fd38fe3845530c5705df9f24ded8b58a51a42c5</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-cloudshell-available-aws-govcloud-us-regions/"/>
+        <updated>2022-07-05T03:32:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS CloudShell は AWS リソースの安全な管理、探索、操作を簡単に行えるようにするブラウザベースのシェルです。CloudShell はコンソールの認証情報で事前認証されています。一般的な開発ツールがプリインストールされているため、ローカルにインストールしたり設定したりする必要はありません。CloudShell により、AWS コマンドラインインターフェイス (AWS CLI) でスクリプトを実行したり、AWS Cloud Development Kit (AWS CDK) でインフラストラクチャを定義したり、AWS SDK を使用して AWS のサービス API を試したり、その他のさまざまなツールを利用して生産性を向上させたりすることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デフォルトは「歩行者が青」、ロンドンが新しい信号をテスト中]]></title>
         <id>https://www.technologyreview.jp/?p=279701</id>
@@ -4649,16 +4669,6 @@
         <summary type="html"><![CDATA[最新記事では、目まぐるしく変化するデジタルマネーの世界について、知っておくべきことを詳述している。米国版編集長であるマット・ホーナンも後学のためにNFTを購入しようとしたが、思いがけない出費となってしまった。]]></summary>
         <author>
             <name>Mat Honan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界中のITエンジニアが悩まされている原因不明でテストが失敗する「フレイキーテスト」問題。対策の最新動向をJenkins作者の川口氏が解説（後編）。DevOps Days Tokyo 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/itjenkinsdevops_days_tokyo_2022_1.html</id>
-        <link href="https://www.publickey1.jp/blog/22/itjenkinsdevops_days_tokyo_2022_1.html"/>
-        <updated>2022-06-05T15:59:08.000Z</updated>
-        <summary type="html"><![CDATA[世界中のITエンジニアが悩まされている問題の1つに、テストが原因不明で失敗する、いわゆる「フレイキーテスト」があります。 フレイキーテストは、リトライすると成功することもあるし、失敗する原因を調べようとしてもなかなか分かりません。Googl...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>
