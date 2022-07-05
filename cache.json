@@ -6,6 +6,286 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "8d4ff4412a702194ce79d39b347ace24076b269c",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Virtual Private Cloud (VPC) のお客様は、5 つの AWS リージョン (AWS アジアパシフィック (ジャカルタ)、Sinnet が運営する AWS 中国 (北京) リージョン、NWCD が運営する AWS 中国 (寧夏) リージョン、AWS GovCloud (米国) リージョン) でも独自のプレフィックスリストを作成できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/",
+          "publishedOn": "2022-07-05T19:46:53.000Z",
+          "wordCount": 372,
+          "title": "Amazon Virtual Private Cloud (VPC) の顧客が管理するプレフィックスリストが 5 つのリージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0de9d24df27d24d30f3300244b8156ec70fe1f10",
+          "author": "aws@amazon.com",
+          "description": "Amazon EventBridge のクロスリージョンルーティングを使うと、多数のリージョンから 1 つのセントラルリージョンにイベントを統合できます。これにより、イベントを送信先リージョンに集中させ、それに対応するコードを記述したり、リージョン間でデータを同期するためにイベントを送信元から送信先のリージョンに複製したりするのが容易にできるようになります。本日、クロスリージョンルーティングが AWS GovCloud (米国) リージョンで利用可能となりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-eventbridge-cross-region-routing-aws-govcloud-regions/",
+          "publishedOn": "2022-07-05T19:46:05.000Z",
+          "wordCount": 306,
+          "title": "Amazon EventBridge クロスリージョンルーティングが AWS GovCloud (米国) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9ea2a499f40cf4426f3b611ef09d7e8446521084",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight に Level Aware Calculations (LAC) という一連の機能が追加されます。この新しい計算機能により、実行するウィンドウ関数または集計関数の粒度のレベル (前者はパーティション化するウィンドウ、後者はグループ化するレベル) を指定できるようになり、高度な計算と強力な分析を実現する柔軟性と簡便性が得られます。LAC を利用しない場合、同等の計算を行うには、元のデータソース内に事前集計したテーブルを用意するか、データの準備段階でクエリを実行することが必要になります。詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculations-lac/",
+          "publishedOn": "2022-07-05T19:17:45.000Z",
+          "wordCount": 307,
+          "title": "Amazon QuickSight で Level Aware Calculations (LAC) が利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a108bef032e7600f4a7fca03a4654844b7cd5945",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard では、Amazon EC2 x2idn や r6i インスタンス を使用して、スケールアウトのアーキテクチャで SAP HANA をデプロイできるようになりました。お客様は、これらのインスタンスタイプを使用して、最大 16 ノード (プライマリノード 1 個とセカンダリノード 15 個) までデプロイできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/scale-sap-hana-deployments-aws-launch-wizard-amazon-ec2-x2idn-r6i-instances/",
+          "publishedOn": "2022-07-05T19:16:56.000Z",
+          "wordCount": 364,
+          "title": "AWS Launch Wizard と Amazon EC2 x2idn/r6i インスタンスを使用するスケールアウト SAP HANA のデプロイ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "87f806717765a76ab8b309b13ead291c815fd8c8",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Greengrass はモノのインターネット (IoT) のエッジランタイムおよびクラウドサービスです。デバイスソフトウェアの構築、デプロイ、管理を支援します。MQTT バージョン 5 のエッジサポートを追加したバージョン 2.6 がリリースされました。このバージョン 5 では、MQTT バージョン 3.1.1 プロトコルに対し、多くの機能改善を含むデバイス間通信仕様が更新されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/",
+          "publishedOn": "2022-07-05T19:16:04.000Z",
+          "wordCount": 331,
+          "title": "AWS IoT Greengrass で MQTT v5 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9ae5c1bb2339b961e75a10703ac7ac179d0b21a3",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkMail では Custom Availability Provider Lambda (CAP Lambda) を使って、AWS Lambda の呼び出しをサポートして、ユーザーの予定を取得できるようになりました。CAP Lambda は WorkMail が外部の予定ソースから予定情報を取得するための新しい方法です。これらの CAP Lambdas を使用すると、エンドポイントが非公開であっても、Exchange Web Services (EWS) エンドポイントを持たない場合でも、顧客の所有する他のカレンダープロバイダーのユーザーの予定情報へのアクセスを WorkMail に付与できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/",
+          "publishedOn": "2022-07-05T17:48:37.000Z",
+          "wordCount": 384,
+          "title": "Amazon WorkMail が Lambdas を呼び出して予定 (あり/なし) を取得可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "02b94db552946be2e23a7b324db644af8e934840",
+          "author": "aws@amazon.com",
+          "description": "AWS Database Migration Service (AWS DMS) がフルロード操作モードのソースとして IBM Db2 z/OS のサポートを開始しました。AWS Schema Conversion Tool (SCT) を使用すると、スキーマとコードオブジェクトを IBM DB2 z/OS から Aurora MySQL、Aurora PostgreSQL、MySQL、PostgreSQL ターゲットに変換できます。スキーマとオブジェクトをターゲットデータベースと互換性のある形式にしたら、AWS DMS を利用して z/OS で動作する IBM DB2 から AWS DMS がサポートするターゲットにデータを移行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/",
+          "publishedOn": "2022-07-05T17:47:48.000Z",
+          "wordCount": 349,
+          "title": "AWS Database Migration Service がソースとして IBM Db2 z/OS のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bc327879c1cf7058e1248a5bec93477ab85e70fd",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は AWS Migration Hub Refactor Spaces を使ってルートのオン、オフを切り替える機能を発表しました。この機能を使うと、非アクティブなルートを作成して、ルートの対象サービスがトラフィックを受信できるようになった時点で、あらためてアクティブできるようになります。また、ルートの切り替えを使用してルーティングアプローチを微調整し、アプリケーションが段階的にリファクタリングされる際に適時ルートを変更できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/",
+          "publishedOn": "2022-07-05T17:47:00.000Z",
+          "wordCount": 320,
+          "title": "AWS Migration Hub Refactor Spaces でアクティブルートを有効および無効にできるように",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6556e3d85aa2421bf4f9056b182d797b9713db2e",
+          "author": "aws@amazon.com",
+          "description": "AWS Outposts ラックがパナマで出荷可能となり、データセンターおよびオンプレミス環境に設置できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-outposts-rack-panama/",
+          "publishedOn": "2022-07-05T17:46:04.000Z",
+          "wordCount": 296,
+          "title": "パナマで AWS Outposts ラックの一般提供を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8315942ab551d4e3121523475d04d0a7cda74253",
+          "author": "aws@amazon.com",
+          "description": "AWS Database Migration Service (AWS DMS) の機能が拡張され、Babelfish for Aurora PostgreSQL をターゲットとして指定できるようになりました。Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新しい変換レイヤーであり、Aurora が Microsoft SQL Server 用に作成されたアプリケーションからのコマンドを理解できるようにします。今後は、AWS DMS の利用により、最小限のダウンタイムで Babelfish for Aurora PostgreSQL に全面移行することが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/",
+          "publishedOn": "2022-07-05T17:31:26.000Z",
+          "wordCount": 319,
+          "title": "AWS Database Migration Service で Babelfish for Aurora PostgreSQL をターゲットとして指定可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "206eef700a68dc472e84c844c3fc2f0e3bedfc04",
+          "author": "aws@amazon.com",
+          "description": "新しくリリースされる Amazon FinSpace の API ではアクセス権を詳細に設定できるため、AWS SDK と CLI を使用して、FinSpace 環境のユーザーアクセスを完全に管理できるようになります。これにより、FinSpace のアクセス制御の設定を ID オーケストレーションワークフローに統合し、組織のアクセスポリシーと FinSpace を同期できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-finspace-apis-assign-granular-user-permissions/",
+          "publishedOn": "2022-07-05T15:17:52.000Z",
+          "wordCount": 315,
+          "title": "ユーザーのアクセス権を詳細に設定できる Amazon FinSpace の API をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f8b7d455f298d5c58d8ee08391573683df24ef37",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、Amazon Lex の顧客センチメント分析をフローの分岐として活用することで、自動化されたセルフサービスのカスタマーエクスペリエンスをさらにパーソナライズできるようになりました。Amazon Lex を使うと、インテリジェントなチャットボットを作成して、Amazon Connect フローを自然な会話に変換できます。今回のリリースでは、顧客が Lex ボットに対して肯定的な発言をしたか否定的な発言をしたかによってフローを構築できるようになりました。例えば、好意的な感情を示した顧客にはさらなるアップセルの機会を提示し、否定的な感情を示した顧客にはエージェントと話すためのキューに直接入ってもらえます。新機能は [Get Customer Input] (顧客入力を取得する) または [Check contact attributes] (コンタクト属性を確認する) フローブロックを使用して設定できます。また、フローブロックのすべての Lex 関連属性 (Intent、Slot、Sentiment など) は、属性選択で 1 つの「タイプ」に統合され、フローの Lex エクスペリエンスの構築を簡素化できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-supports-personalization-customer-experience-lex-sentiment-analysis-flows/",
+          "publishedOn": "2022-07-05T15:17:04.000Z",
+          "wordCount": 314,
+          "title": "Amazon Connect で Lex 感情分析をフローで使用したカスタマーエクスペリエンスのパーソナライズのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6109b38fc0b709b09660fdaec5c9060a4030d136",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Customer Profiles で信頼性スコアにより重複する顧客レコードを自動的に結合できるようになりました。アイデンティティレゾリューション機能は、重複するレコードを検出するたびに、一致の精度を表す 0 から 1 の信頼性スコアを提供します。1 が最も正確な一致、0 が最も正確でない一致を表します。0 から 1 の間の任意のしきい値を選択して、重複するレコードを統合された顧客プロファイルに自動的に結合できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-customer-profiles-confidence-scores-help-merge-duplicate-customer-records/",
+          "publishedOn": "2022-07-05T15:16:14.000Z",
+          "wordCount": 304,
+          "title": "Amazon Connect Customer Profiles で信頼性スコアを提供し、重複する顧客レコードの結合を支援",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8d1e3ae830defc9c5fc6fbf59ed461378fe95572",
+          "author": "aws@amazon.com",
+          "description": "本日、ベアメタルで Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere の一般提供を開始しました。これにより、オンプレミスで Kubernetes を実行するためのインフラの選択肢が広がりました。アプリケーションがモダナイズされるにつれ、既存のオンプレミスのベアメタルインフラストラクチャとクラウドの間で一貫性のある Kubernetes が求められるようになりました。ベアメタルインフラストラクチャでの Kubernetes の運用は複雑で、お客様はビジネスイノベーションにではなく、インフラストラクチャの運用に時間、労力、資金を費やしています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/",
+          "publishedOn": "2022-07-05T15:04:29.000Z",
+          "wordCount": 320,
+          "title": "Amazon EKS Anywhere のベアメタルサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "54e07d67f6333fa6f70f2a16a7d932bc01c5a8ba",
+          "author": "aws@amazon.com",
+          "description": "Amazon Interactive Video Service (Amazon IVS) はコロンビアで初めての Point of Presence (PoP) を発表しました。この新しいエッジロケーションにより、コロンビアに拠点を置くストリーマーや視聴者は、短いレイテンシーでより良質の動画をより多くの容量で楽しめるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/",
+          "publishedOn": "2022-07-05T15:03:41.000Z",
+          "wordCount": 312,
+          "title": "Amazon Interactive Video Service でコロンビアのエッジロケーションが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fabd42b17a70dd705de93cd5a5dee008bddef272",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager の機能である Patch Manager では、Windows Server 2022、Rocky Linux バージョン 8.4 および 8.5、CentOS Stream 8、Red Hat Enterprise Linux (RHEL) バージョン 8.4 および 8.5 のインスタンスに対するパッチのデプロイの自動化をサポートし、ノードに対するパッチのオプションを増やせるようになりました。Patch Manager はセキュリティ関連やその他の種類のアップデートでノードにパッチを適用するプロセスを自動化するのに役立ちます。また、Patch Manager は Windows Server、Red Hat Enterprise Linux (RHEL)、Ubuntu Server、Amazon Linux、Amazon Linux 2、CentOS、SUSE Linux Enterprise Server (SLES) を実行している Linux インスタンスに対するパッチのデプロイの自動化にも役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/",
+          "publishedOn": "2022-07-05T15:02:53.000Z",
+          "wordCount": 342,
+          "title": "AWS Systems Manager が Windows Server 2022 およびその他の Linux OS へのパッチ適用に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8a0333c090e385ace4a3a934dac05f41e9b94463",
+          "author": "aws@amazon.com",
+          "description": "オープンソースの UI ライブラリである Amplify UI を使うと、AWS Amplify のシンプルさと拡張性を UI 開発に取り入れることができます。Amplify UI は認証や動的データなどの複雑なワークフローを簡素化するコネクテッドコンポーネント、アプリケーション間の一貫性を生み出すビルディングブロックになるプリミティブコンポーネント、Amplify UI をどんなブランドにもできるテーマで構成されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/",
+          "publishedOn": "2022-07-05T15:02:05.000Z",
+          "wordCount": 322,
+          "title": "Amplify UI for React の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c82526b62e348cc2b24ccd606848e5a010ef6e84",
+          "author": "aws@amazon.com",
+          "description": "AWS Database Migration Service (AWS DMS) がソースとターゲットとして仮想プライベートクラウド (VPC) エンドポイントのサポートを開始しました。AWS DMS の VPC にサービスまでの経路が明示的に定義されていれば、AWS DMS は VPC エンドポイントを持つどの AWS サービスにも接続できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/",
+          "publishedOn": "2022-07-05T15:01:14.000Z",
+          "wordCount": 309,
+          "title": "AWS Database Migration Service が VPC のソースとターゲットのエンドポイントのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3c5124129f4dea5800ef6d0d10bb102b3de7d506",
+          "author": "aws@amazon.com",
+          "description": "AWS Serverless Application Model (SAM) は、AWS SAM Accelerate の一般公開を発表します。AWS SAM Command Line Interface (CLI) は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。AWS SAM Accelerate は AWS SAM CLI の新機能であり、クラウドベースの環境に対してデベロッパーがコード変更をテストすることをより簡単にし、ローカルの反復作業から本番環境への準備までの時間を短縮します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/",
+          "publishedOn": "2022-07-05T14:46:05.000Z",
+          "wordCount": 324,
+          "title": "AWS SAM Accelerate の一般公開を開始、クラウドに対してコード変更をすばやくテスト",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b0a5d124e6fcfb44324e0d754aa2de3bb0800be8",
+          "author": "aws@amazon.com",
+          "description": "AWS DataSync で Amazon FSx for NetApp ONTAP とデータコピーのやり取りができるようになりました。Amazon FSx for NetApp ONTAP は、お客様がクラウドでフルマネージドの ONTAP ファイルシステムを起動して実行できるようにするストレージサービスです。AWS DataSync を使用すると、オンプレミスのストレージやエッジ、その他のクラウドから、AWS で稼働する FSx for NetApp ONTAP ファイルシステムにデータを迅速かつ安全に移行できます。また、DataSync を使用して、FSx for NetApp ONTAP ファイルシステムと Amazon S3 バケット、Amazon EFS ファイルシステム、他の Amazon FSx ファイルシステムとの間でデータを移動できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/",
+          "publishedOn": "2022-07-05T14:35:08.000Z",
+          "wordCount": 372,
+          "title": "AWS DataSync で Amazon FSx for NetApp ONTAP とのデータコピーのやり取りが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6b9f17a40a5eb817c2d70bbbb6a45a5ba9ddb884",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker はデータサイエンティストや機械学習担当者が機械学習モデルのトレーニングとデプロイを迅速に開始できるように、組み込みアルゴリズム、トレーニング済みモデル、構築済みソリューションテンプレートのスイートを提供します。これらのアルゴリズムとモデルは、教師あり学習と教師なし学習の両方に使用でき、表形式、画像、テキストなど、さまざまな入力データを処理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-built-in-algorithms-four-new-tabular-data-modeling-algorithms/",
+          "publishedOn": "2022-07-05T14:34:20.000Z",
+          "wordCount": 352,
+          "title": "Amazon SageMaker の組み込みアルゴリズムで 4 つの表形式データモデル化アルゴリズムが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1965a22836c83338c7877b911beb1cf417923599",
+          "author": "aws@amazon.com",
+          "description": "AWS にあるゲームサーバーをより直感的に管理およびスケーリングできる Amazon GameLift の新しいコンソールが利用できるようになりました。リニューアルされたコンソールでは、左側のナビゲーションが新しくなり、ビルド、スクリプト、フリート、FlexMatch の管理と作成など、GameLift のさまざまな機能を簡単に切り替えられ、「Prepare to launch」（ローンチの準備）や Service Quotas などの役立つリソースのリンクも追加されています。新しいインターフェイスではすべての設定を 1 か所で確認できるため、より早く、より簡単にゲームサーバーインスタンスの設定と管理ができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-gamelift-new-console-experience/",
+          "publishedOn": "2022-07-05T14:33:32.000Z",
+          "wordCount": 307,
+          "title": "Amazon GameLift で新しいコンソールが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b006f2fc776a36a32aa56b4f705576c38e097620",
+          "author": "aws@amazon.com",
+          "description": "これまで、Amazon RDS での同時コピーには 1 アカウント、1 つの送信先リージョンにつき 5 件という制限がありましたが、1 アカウント、1 つの送信先リージョンにつき最大 20 件の同時スナップショットコピーのリクエストが可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/",
+          "publishedOn": "2022-07-05T14:32:43.000Z",
+          "wordCount": 302,
+          "title": "Amazon RDS で同時コピーの制限が送信先リージョンごとに 20 個のスナップショットに増加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4a28407770966c24243fe0d01d9572b4817a5d71",
+          "author": "aws@amazon.com",
+          "description": "Amazon AppStream 2.0 が AWS 米国東部 (オハイオ) リージョンで利用できるようになりました。これにより、アクティブなワークロードのため、またディザスタリカバリ (DR) やビジネス継続性のニーズに合わせて AppStream 2.0 を導入できるようになりました。このリリースによって、ユーザーのニーズを満たすために、汎用、コンピューティング最適化、メモリ最適化、グラフィックデザイン、メモリ最適化、グラフィックプロ、グラフィック G4 インスタンスをデプロイできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appstream-2-0-aws-east-ohio-region/",
+          "publishedOn": "2022-07-05T14:31:53.000Z",
+          "wordCount": 311,
+          "title": "Amazon AppStream 2.0 が AWS 米国東部 (オハイオ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b07ab917e378dab34c9d403c257eea9a48db13e4",
+          "author": "aws@amazon.com",
+          "description": "今すぐ Amazon EC2 のプレイスメントグループを使って、AWS Outposts ラックの別々のホストにインスタンスを分散させられます。ホストレベルのスプレッドプレイスメントグループはインスタンスをホスト間で分散させ、相関性のある障害の可能性を低減します。これは、ミッションクリティカルなデータベースなど、高可用性 (HA) を必要とするワークロードに有効です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/",
+          "publishedOn": "2022-07-05T14:31:04.000Z",
+          "wordCount": 304,
+          "title": "Amazon EC2 のプレイスメントグループが AWS Outposts ラックでホストレベルのスプレッドのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6287f49897fb9354c8c866b7372b9fe139d39bbe",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue ストリーミング ETL (Extract Transform and Load) は、Amazon Kinesis、Amazon Managed Streaming for Apache Kafka (Amazon MSK)、セルフマネジード型 Apache Kafka からの圧縮されたデータストリーミングを検出できるようになりました。コードを書かずにこのデータを自動的に解凍できるため、開発時間を短縮できます。AWS Glue ストリーミング ETL ジョブは、ストリーミングソースからのデータを継続的に消費し、処理中のデータをクリーンアップして変換し、数秒で分析できるようにします。ストリーミングの前にデータを圧縮し、パフォーマンスを向上させて Amazon Kinesis と Amazon MSK によるスロットリングの制限を回避できます。この機能ができる前は、ストリームからデータを解凍するために、ユーザー定義の関数を記述する必要があり、時間がかかっていました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/",
+          "publishedOn": "2022-07-05T14:17:51.000Z",
+          "wordCount": 316,
+          "title": "AWS Glue ストリーミング ETL が自動解凍のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "24c4d7734c0d6ccbe19fc49e557ef328ff29d087",
+          "author": "aws@amazon.com",
+          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。Neural TTS 音声に 4 人の男性の音声が加わりました。フランス語 (カナダ) の Liam、英語 (英国) の Arthur、ドイツ語の Daniel、スペイン語 (米国) の Pedro です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/",
+          "publishedOn": "2022-07-05T14:17:03.000Z",
+          "wordCount": 314,
+          "title": "Amazon Polly に新しいニューラル TTS の男性の音声が追加され、4 言語に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b9f1d46456fe6a4da1778f7f29aa41f3dd16ee4d",
+          "author": "aws@amazon.com",
+          "description": "本日より、サポートケースを作成する新しいインターフェイスを AWS サポートセンターのコンソールで体験できます。ケースを作成すると、サポートセンターはケースの詳細を把握し、お客様の問題をより適切に予測して理解できます。そのため、よくある質問に対する回答や関連情報へのリンクなど、的確で具体的な改善策の提供が可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/",
+          "publishedOn": "2022-07-05T14:16:14.000Z",
+          "wordCount": 277,
+          "title": "AWS サポート、ケース作成エクスペリエンスを向上",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "430e9e67755522f003e942f5dd0da6ca3d244d17",
           "author": "aws@amazon.com",
           "description": "AWS Well-Architected Tool が AWS Organizations と統合され、クラウドアーキテクトがワークロードとカスタムレンズを組織全体でより広く共有できるようになりました。AWS Organizations はお客様が複数の AWS アカウントを集中管理型の 1 つの組織に統合できるようにするアカウント管理サービスです。このアップデートによって効率が向上し、複数のアカウントでレンズやワークロードを簡単に共有できるようになります。",
@@ -1374,36 +1654,6 @@
           "wordCount": 257,
           "title": "Amazon Kendra が GitHub OnPrem コネクタをリリース",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "23a1855762c536be18ab727cb1b71e110c67f367",
-          "author": "aws@amazon.com",
-          "description": "ボタンをクリックするだけで、Amazon FSx for OpenZFS ファイルシステムのストレージや IOPS キャパシティを更新できるようになり、進化するストレージとパフォーマンスのニーズにさらに簡単に適応できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/",
-          "publishedOn": "2022-06-06T03:33:32.000Z",
-          "wordCount": 264,
-          "title": "Amazon FSx for OpenZFS ファイルシステムのストレージと IOPS キャパシティの更新が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "eff6e3dac50d5924e9ef3593b6fe9a83d2cad9b1",
-          "author": "aws@amazon.com",
-          "description": "NoSQL Workbench for Amazon DynamoDB  は、スケーラブルで高性能なデータモデルの視覚化と構築を支援するクライアントサイドアプリケーションです。本日より、NoSQL Workbench は、CreateTable、UpdateTable、DeleteTable などのテーブルおよびグローバルセカンダリインデックス (GSI) コントロールプレーン操作のサポートを追加します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/",
-          "publishedOn": "2022-06-06T03:32:44.000Z",
-          "wordCount": 254,
-          "title": "NoSQL Workbench for Amazon DynamoDB が、CreateTable、UpdateTable、DeleteTable 操作のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a09b5b1b1fa446aacf760b0f0e5a99cc5b82af85",
-          "author": "aws@amazon.com",
-          "description": "AWS の量子コンピューティングサービスである Amazon Braket が、Xanadu の新しいフォトニック量子処理ユニット (QPU) である Borealis のサポートを追加しました。Borealis デバイスは、量子アドバンテージを達成したと主張している最初の公的に利用可能な量子コンピューターです。Nature 誌に掲載されたピアレビュー済みの研究で、量子コンピューターが明確なタスクで世界最速のスーパーコンピューターを上回ったときの技術的なマイルストーンです。これまで、量子アドバンテージを実証したと主張しているデバイスはどれもまだ一般に公開されていませんでしたが、お客様は初めて、このテクノロジーの潜在的なアプリケーションを探索しながら、Amazon Braket で量子アドバンテージの主張をテストすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/",
-          "publishedOn": "2022-06-06T03:31:49.000Z",
-          "wordCount": 272,
-          "title": "Amazon Braket が、量子アドバンテージを提供すると主張しいる、初めて公的にアクセス可能となった量子コンピューターである Borealis のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1718,26 +1968,6 @@
           "wordCount": 564,
           "title": "フロント、食事提供、清掃、そしてITも「おもてなし」 星野リゾートが描く「全社員IT人材化計画」の本質",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/359680d4cfa0940e564a425b3247ab68.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42384",
-          "author": "野島光太郎",
-          "description": "VUCAの時代とも言われ、変化の予測がますます難しくなっている。そこで今、経営者をはじめとしたリーダーに注目されているのが、SF（サイエンスフィクション）の持つ「人の想像力を広げる力」「登場人物を主体にして未来の社会を描 […]",
-          "link": "https://data.wingarc.com/science-fiction-thinnking-42384?utm_source=rss&utm_medium=rss&utm_campaign=science-fiction-thinnking",
-          "publishedOn": "2022-06-06T01:00:31.000Z",
-          "wordCount": 693,
-          "title": "VUCAの時代、未来は予測するのではなくつくり上げるもの。 「SF思考」がビジネスシーンで注目を集めている理由",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/a997d16a20e1478b0022d80b39313de2.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42868",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：今日6月6日はグレゴリオ暦で年始から157日目（閏年では158日目）にあたり、年末まであと208日ある日だそうです。 みなさん、おはようございます。 僕も新米社員の年齢なので、インターネット […]",
-          "link": "https://data.wingarc.com/taimu-kun-128-42868?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-128",
-          "publishedOn": "2022-06-05T23:00:37.000Z",
-          "wordCount": 352,
-          "title": "【タイムくん 第128話】WEB 3.0",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/128.jpg"
         }
       ]
     },
@@ -2938,16 +3168,6 @@
           "wordCount": 897,
           "title": "週刊Railsウォッチ: Shopifyのlanguage server ruby-lsp、PostgreSQL 15 Beta 1リリースほか（20220607後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220607_eyecatch.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_06/118470",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220606_eyecatch-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 参考: 犬・猫へのマイクロチップ埋め込み義務化　きょうから　無責任な飼育の抑止など見込む &#8211; ITmedia NEWS つっつきボイス:「今度から有料でチップ装着と情報登録が義務付けられるんですよ: 私も飼ってて自分は前から実施してますけど」「施行ということは前から決まってたんですね」「チップそのものは15桁の番号のみで、電波から給電するのか」「チップは単なるIDタグで、情報は別途登録してそちらで紐付ける感じ」 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRails [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_06/118470\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: BasecampのHotwireページネーション、Query Object、Lograge gemほか（20220606前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_06/118470",
-          "publishedOn": "2022-06-06T10:00:34.000Z",
-          "wordCount": 1129,
-          "title": "週刊Railsウォッチ: BasecampのHotwireページネーション、Query Object、Lograge gemほか（20220606前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220606_eyecatch.png"
         }
       ]
     },
@@ -2956,6 +3176,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/18200023706.html",
+          "author": null,
+          "description": "米国でクラウドを活用したソフトウェアデベロッパーやアプリケーション開発者、運用スタッフなど、同社が「クラウドプロフェッショナル」と呼ぶITエンジニアの平均年収を始めとした各種調査結果「2022 Cloud Salary Survey」を、米...",
+          "link": "https://www.publickey1.jp/blog/22/18200023706.html",
+          "publishedOn": "2022-07-05T15:18:03.000Z",
+          "wordCount": 1292,
+          "title": "クラウド関連ソフトウェアエンジニアの平均年収は18万2000ドル（約2370万円）、6割以上がフルリモートワーク。米国でオライリーが調査",
+          "imageUrl": "https://www.publickey1.jp/2022/FW2CO8iXwAA_1ky.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/2022pc10.html",
+          "author": null,
+          "description": "米調査会社のガートナーは、2022年のワールドワイド市場におけるPC出荷の予測「Gartner Forecasts Worldwide PC Shipments to Decline 9.5% in 2022」を発表しました。 同社シニアデ...",
+          "link": "https://www.publickey1.jp/blog/22/2022pc10.html",
+          "publishedOn": "2022-07-05T15:12:35.000Z",
+          "wordCount": 1236,
+          "title": "2022年はインフレ、地政学的混乱、為替変動などによりPC出荷が前年比で10％近く下落。中国ゼロコロナ政策の影響も大。ガートナーの予測",
+          "imageUrl": "https://www.publickey1.jp/2022/pcship2022gartner.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/amazon_eksamazon_eks_anywherevmware.html",
           "author": null,
@@ -3403,6 +3643,46 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=279530",
+          "author": "Patrick Howell O'Neill",
+          "description": "中国はレアアースにおけるほぼ独占状態を維持するため、西側諸国と戦い続けている。中国工作員は、ネットで偽情報を流布して欧米のレアアース企業の弱体化を試みている。",
+          "link": "https://www.technologyreview.jp/s/279530/a-pro-china-online-influence-campaign-is-targeting-the-rare-earths-industry/",
+          "publishedOn": "2022-07-05T21:59:55.000Z",
+          "wordCount": 1352,
+          "title": "レアアース産業に照準、中国系ネット工作活動が激化",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/28231507/h_14238784-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/05/280108/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/06/280108/",
+          "publishedOn": "2022-07-05T21:33:22.000Z",
+          "wordCount": 701,
+          "title": "ポリエステルを完全分解する触媒反応を開発＝東京農工大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/05/280098/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/06/280098/",
+          "publishedOn": "2022-07-05T21:30:55.000Z",
+          "wordCount": 701,
+          "title": "新型コロナ「貼るだけ」で診断、東大がパッチデバイス",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=279268",
+          "author": "Will Douglas Heaven",
+          "description": "深層学習の生みの親の1人であるヤン・ルカンが、古い考え方を組み合わせて、AIが進むべき新たな道の構想を提唱した。汎用人工知能への出発点になる可能性があるとも述べており、AI研究者の間で物議を醸している。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/279268/yann-lecun-has-a-bold-new-vision-for-the-future-of-ai/",
+          "publishedOn": "2022-07-05T21:09:21.000Z",
+          "wordCount": 1187,
+          "title": "深層学習の父、 ヤン・ルカンが思い描く 汎用人工知能への道筋",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/24210503/GettyImages-540680934-thumb-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=279701",
           "author": "Rachael Revesz",
