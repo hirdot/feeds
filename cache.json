@@ -1584,76 +1584,6 @@
           "wordCount": 253,
           "title": "ソウルで新しい AWS Wavelength Zone を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7635113d56c92b33e8a23d117226429f05ec4d16",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra GitHub SaaS コネクタを使用して、GitHub Enterprise Cloud データソースからドキュメントのインデックスを作成したり、ドキュメントを検索したりできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/",
-          "publishedOn": "2022-06-06T17:06:39.000Z",
-          "wordCount": 257,
-          "title": "Amazon Kendra が GitHub SaaS コネクタをリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "57a5b222ffc078d416613ab49fd0293b911e9153",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect では、カスタムタスクテンプレートを作成できるようになりました。これにより、エージェントは、タスクを作成して完了するための適切な情報を簡単に取得できます。Amazon Connect Tasks を使用すると、すべてのコンタクトセンターエージェントタスクの優先順位付け、割り当て、完了までの追跡ができるようになります。これにより、エージェントの生産性が向上し、顧客の問題を迅速に解決できます。請求の問題や新しい保険金請求の調査など、さまざまなシナリオ用のテンプレートを簡単に作成できるため、エージェントは状況に最適なテンプレートを選択できます。例えば、請求に関する問い合わせを処理する場合、タスクテンプレートはデータを事前に入力し、問題の迅速な解決に向けて必要な追加情報を収集するためにエージェントをガイドできます。タスクテンプレートはすぐにサポートされます。Amazon Connect エージェントアプリケーションの手動設定は必要ありません。詳細については、「API リファレンスガイド」やヘルプドキュメントを参照してください。また、当社のウェブページにアクセスしてください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/",
-          "publishedOn": "2022-06-06T17:05:50.000Z",
-          "wordCount": 250,
-          "title": "Amazon Connect がエージェントタスクのカスタムテンプレートのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "19820d7b5890da259b99c1d6040964ab9cb2a6e3",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker JumpStart は、事前にトレーニングされたモデル、事前に構築されたソリューションテンプレート、およびサンプルノートブックからの Sagemaker Automatic Model Tuning によるモデルチューニングをサポートするようになりました。つまり、お客様は機械学習モデルを自動的にチューニングして、お客様が SageMaker API を通じて提供する範囲内において、最高の精度でハイパーパラメータ値を見つけることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/",
-          "publishedOn": "2022-06-06T17:05:00.000Z",
-          "wordCount": 252,
-          "title": "SageMaker JumpStart が自動チューニングのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "48cf764d37d43dd076a7a10f4dd3a84b12f06e97",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK により、デベロッパーは WebRTC セッション内で音声、動画、および画面共有を送受信する各参加者の機能を一元的に制御できるようになりました。Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。出席者機能の強制適用は WebRTC セッションで一元化されるため、デベロッパーはクライアントアプリケーション内のロジックに依拠する必要がありません。これは、古いバージョンでは有効ではなくなっている可能性があります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-centralized-attendee-controls/",
-          "publishedOn": "2022-06-06T17:04:10.000Z",
-          "wordCount": 243,
-          "title": "Amazon Chime SDK が一元化された参加者コントロールのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "63d5fafe59ab0b26f7518a3ca8837bfadbe74ace",
-          "author": "aws@amazon.com",
-          "description": "AWS Panorama のお客様は AWS PrivateLink を使って、パブリックエンドポイントを使用せずに Amazon Virtual Private Cloud (Amazon VPC) から AWS Panorama にアクセスできるようになりました。トラフィックがインターネットを経由する必要はありません。AWS PrivateLink を使用すると、トラフィックを AWS のネットワーク内に保つことにより、簡単かつ安全に AWS Panorama エンドポイントにアクセスでき、内部ネットワークアーキテクチャを簡素化します。また、AWS Panorama に接続するためにインターネットゲートウェイ、ネットワークアドレス変換 (NAT) デバイス、またはファイアウォールプロキシを使用する必要がなくなります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/",
-          "publishedOn": "2022-06-06T17:03:05.000Z",
-          "wordCount": 302,
-          "title": "AWS Panorama 向けの AWS PrivateLink のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3ecd890e5f9621e34cb1b07b91efd90309020470",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect は、別のフロー、エージェントキュー、または利用可能なエージェントに対するディストリビューションのための共有キューに、プログラムを使用してタスクを転送するための TransferContact API を提供するようになりました。Amazon Connect Tasks は、コンタクトセンターのマネージャーが、エージェントが使用するさまざまなアプリケーション全体でカスタマーサービスタスクに優先順位を付け、割り当て、追跡し、自動化できるようにします。この API を使用して、コンタクトセンターのマネージャーは、速やかな解決のために、カスタム分析ダッシュボードからタスクを直接転送できるようになりました。Connect Flows を使用して、エージェントのスキルセット、可用性、タスクに関する情報 (タイプ、優先度/緊急度、カテゴリなど) に基づいて、タスクに動的に優先順位を付けて、割り当てることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/",
-          "publishedOn": "2022-06-06T17:02:10.000Z",
-          "wordCount": 256,
-          "title": "Amazon Connect がプログラムを使用してタスクを転送するための API をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0bb03a6685956e05489ee96d57707475c3a826e9",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は、機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を必要なときに顧客や従業員に提供することを可能にします。本日より、AWS のお客様は、Amazon Kendra GitHub OnPrem コネクタを使用して、GitHub Enterprise Server データソースからドキュメントのインデックスを作成したり、ドキュメントを検索したりできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-kendra-github-onprem-connectors/",
-          "publishedOn": "2022-06-06T17:01:22.000Z",
-          "wordCount": 257,
-          "title": "Amazon Kendra が GitHub OnPrem コネクタをリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3485,26 +3415,6 @@
           "wordCount": 183,
           "title": "AWS IAMがWebAuthnに対応。パスワードレスでAWSへのログインが可能に",
           "imageUrl": "https://www.publickey1.jp/2022/iam_webauthn.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/open_hybrid_cloud_week_2022pr.html",
-          "author": null,
-          "description": "クラウドを用いたシステム開発や運用が多くの企業やビジネスにとって当たり前になりつつある現在、開発やテストはPCやオンプレミスで、運用はクラウドで行う、あるいはオンプレミスのシステムをクラウドと連携させるなど、さまざまなプラットフォームを連携...",
-          "link": "https://www.publickey1.jp/blog/22/open_hybrid_cloud_week_2022pr.html",
-          "publishedOn": "2022-06-06T16:22:38.000Z",
-          "wordCount": 248,
-          "title": "オープンなハイブリッドクラウドの実現は、システムの開発と運用、ビジネスを変革する。Open Hybrid Cloud Week 2022［PR］",
-          "imageUrl": "https://www.publickey1.jp/2022/rhopenhybridcloudwk01.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/angular_14typed_angular_formsstandalone_components.html",
-          "author": null,
-          "description": "Webアプリケーションフレームワーク「Angular」の最新版となる「Angular 14」が正式にリリースされました。 Angular v14 is here#ngUpdate includes:Strictly typed forms!...",
-          "link": "https://www.publickey1.jp/blog/22/angular_14typed_angular_formsstandalone_components.html",
-          "publishedOn": "2022-06-06T16:19:33.000Z",
-          "wordCount": 231,
-          "title": "Angular 14正式リリース。Typed Angular FormsやStandalone Componentsなど新機能",
-          "imageUrl": "https://www.publickey1.jp/2022/angular14.gif"
         }
       ]
     },
