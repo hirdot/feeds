@@ -1464,86 +1464,6 @@
           "wordCount": 250,
           "title": "新しい Amplify Flutter がカスタマイズ可能な認証フローをサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cbbf04d4d73ecc414c640e5f188e4c0134943825",
-          "author": "aws@amazon.com",
-          "description": "AWS DeepRacer Multi-user モードは、組織が 1 つの AWS アカウントで複数の AWS DeepRacer 参加者を後援するためのエキサイティングな方法を提供します。これまで、AWS DeepRacer のイベント主催者は、参加者の予算とコントロールを事前に設定し、使用状況をモニタリングして予算を維持、モニタリング、管理する方法が不足していました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-deepracer-quota-management/",
-          "publishedOn": "2022-06-08T02:37:29.000Z",
-          "wordCount": 237,
-          "title": "AWS DeepRacer がクォータ管理を導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a1e5f8eb3d0f0c534d0b2c32691730493ab2bfaf",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK メッセージングを使用すると、デベロッパーはビジネスユーザーとその顧客をウェブおよびモバイルアプリケーションで安全かつスケーラブルなメッセージングに接続できます。本日より、デベロッパーは、特定のチャネルを検索する機能を提供する新しい API にアクセスできるようになりました。また、アプリケーションを開くときに、ユーザーの注意が必要なメッセージングチャネルを表示するためにクライアントが接続する際、情報を自動的にプリフェッチします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/",
-          "publishedOn": "2022-06-08T02:36:40.000Z",
-          "wordCount": 261,
-          "title": "Amazon Chime SDK がメッセージング会話 API を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5c47271220993941b6dcda7edbecf8eceabab79a",
-          "author": "aws@amazon.com",
-          "description": "MySQL データベースバージョン 5.7 および 8.0 の更新の発表に続いて、MySQL マイナーバージョン 5.7.38 および 8.0.29 をサポートするために Amazon Relational Database Service (Amazon RDS) for MySQL を更新しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/",
-          "publishedOn": "2022-06-08T02:35:03.000Z",
-          "wordCount": 265,
-          "title": "Amazon RDS for MySQL が、新しいマイナーバージョン (5.7.38 および 8.0.29) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ba3d6a3b52d378ac3c50a40d60368e363e6d0d4a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Personalize は、スペイン語、ドイツ語、フランス語、ポルトガル語、中国語 (簡体字および繁体字)、日本語の 6 つの新しい言語で非構造化テキストをサポートするよう拡張しました。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。昨年、Amazon Personalize は英語の非構造化テキストのサポートを開始しました。これにより、お客様は、製品の説明、レビュー、映画のあらすじ、または他の非構造化テキストに存在する情報を活用して、ユーザーのために関連性の高いレコメンデーションを生成できます。Amazon Personalize は、このサポートを 6 つの新しい言語の非構造化テキストに拡張しました。これにより、グローバルカタログをご利用のお客様がこの機能を使用できるようになりました。お客様がカタログの一部として非構造化テキストを提供すると、Amazon Personalize が最先端の自然言語処理 (NLP) 技術を活用してアイテムに関する重要な情報を自動的に抽出し、ユーザーのためにレコメンデーションを生成する際に利用します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/",
-          "publishedOn": "2022-06-08T02:34:16.000Z",
-          "wordCount": 241,
-          "title": "Amazon Personalize が 6 つの新しい言語で非構造化テキストのサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "941cdd6f2fb2352c2572108f9465d6407b5f4cb2",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppStream 2.0 では、汎用インスタンスファミリーに新しいインスタンスサイズ stream.standard.xlarge、stream.standard.2xlarge を追加しました。stream.standard.xlarge では 4vCPU と 16 GiB メモリ、 stream.standard.2xlarge では 8v CPU と 32 GiB メモリのインスタンスを提供します。これらの新しいインスタンスは、効率的に運用するためにより多くのシステムリソースを必要とする多様なワークロードに対して、コンピューティング、メモリ、ネットワークリソースのより高いパフォーマンスのオプションを提供します。例えば、統合開発環境、ウェブサーバー、コードリポジトリなどが挙げられます。新しいインスタンスサイズは、AppStream のすべてのフリートタイプ (Always-On、On-Demand、Elastic) で利用可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/",
-          "publishedOn": "2022-06-08T02:33:28.000Z",
-          "wordCount": 278,
-          "title": "Amazon AppStream 2.0 が、汎用インスタンスファミリーにより大きなインスタンスサイズを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e59afcef6ea5b67f18813421729d37bc3aad4ce3",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower により、Account Factory for Terraform (AFT) で共有アカウントや管理アカウントの管理やカスタマイズができるようになりました。アカウントのカスタマイズ管理を一元化し、AWS Control Tower 環境のガバナンス範囲を拡大しつつ、アカウント設定のセキュリティを保護することもできるようになりました。共有アカウントのカスタマイズでは、すべてのアカウントで同じメカニズムを使用したカスタマイズを行いたいお客様を支援します。また、AFT では、カスタマイズの許可をよりうまく管理できるように、ロールを変更しました。AFT がすべてのアカウントに対して、あらゆる詳細レベルで行動できるよう、許可管理を完全に自動化できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/",
-          "publishedOn": "2022-06-08T02:32:39.000Z",
-          "wordCount": 262,
-          "title": "AWS Control Tower Account Factory for Terraform で共有アカウントのカスタマイズが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6b01d2464c81f6cd513802c4dd4bb1fffbdca208",
-          "author": "aws@amazon.com",
-          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) は、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (北カリフォルニア)、米国西部 (オレゴン) リージョンでは FedRAMP Moderate として、AWS GovCloud (米国) リージョンでは FedRAMP High として承認されています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/",
-          "publishedOn": "2022-06-08T02:31:51.000Z",
-          "wordCount": 298,
-          "title": "Amazon Managed Streaming for Apache Kafka が FedRAMP に準拠",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5064a678054f852e6e68fda678c45e8848f79c3e",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker には、データの探索と機械学習 (ML) モデルの構築のために、フルマネージドノートブックを起動するための 2 つのオプションがあります。最初のオプションは、Amazon SageMaker Studio 内でアクセス可能なファストスタートのコラボレーションに適したノートブックです。これは、機械学習用の完全に統合された開発環境 (IDE) です。Studio でノートブックをすばやく起動し、作業を中断することなく、基盤となるコンピューティングリソースを簡単にダイヤルアップまたはダイヤルダウンでき、数回クリックするだけでノートブックをリンクとして共有することもできます。ノートブックの作成に加えて、Studio の単一のウィンドウで、モデルを構築、トレーニング、デバッグ、追跡、デプロイ、およびモニタリングするためにすべての機械学習の開発ステップを実行できます。2 つ目のオプションは Amazon SageMaker Notebook Instance です。これは、クラウドでノートブックを実行する単一のフルマネージド機械学習コンピューティングインスタンスであり、お客様がノートブック設定をより細かく制御できるようにします。本日、SageMaker Studio と SageMaker Notebook Instance の両方に JupyterLab 3 ノートブックが付属するようになり、SageMaker で機械学習モデルを構築するデータサイエンティストとデベロッパーの生産性を向上させることができるようになったことを発表します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/",
-          "publishedOn": "2022-06-08T02:31:02.000Z",
-          "wordCount": 282,
-          "title": "Amazon SageMaker Studio および SageMaker Notebook インスタンスに JupyterLab 3 ノートブックが付属",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1621,16 +1541,6 @@
           "wordCount": 1794,
           "title": "Rubyでできる！RISC-Vシミュレータの作りかた 〜 From 4649 To HELLO WORLD 〜",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/h/htkymtks/20220608/20220608105951.png"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/fjord-boot-camp-drinkup-2022-06-02",
-          "author": null,
-          "description": "ワドルディ集めにいそしんでいる nsgc です。 2022年6月2日(木)に、フィヨルドブートキャンプさん主催のオンライン合同会社説明ドリンクアップで、@fugakkbnと一緒にお話させていただきました。 今年3月入社の@fugakkbnは、フィヨルドブートキャンプ卒業生で入社後ちょうど3ヵ月というタイミングでした。 身近なOBの先輩のふりかえりを通して、どんな感じの会社か、どういうことを学べるのか、どんな不安があってそれは解消されるか、といった生の声をライブ感を持ってお伝えできればという想いから、弊社で開発運用しており、日頃現場のプロジェクトでも活用している『Continuous KPTA …",
-          "link": "https://blog.agile.esm.co.jp/entry/fjord-boot-camp-drinkup-2022-06-02",
-          "publishedOn": "2022-06-08T03:00:00.000Z",
-          "wordCount": 244,
-          "title": "フィヨルドブートキャンプのオンライン合同会社説明ドリンクアップでお話してきました",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/nsgc/20220603/20220603155738.png"
         }
       ]
     },
@@ -2402,16 +2312,6 @@
           "wordCount": 1346,
           "title": "JEP 425: 仮想スレッドによるスループット向上",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220607-0333/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/google-distributed-cloud-edge-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "Googleは先月、Google Distributed Cloud Edge Appliancesを含むGoogle Distributed Cloud Edgeの一般提供を開始すると発表した。このプロダクトは、企業によるエッジ上でのワークロードの運用を可能にする、完全マネージドなハードウェアとソフトウェアポートフォリオであるGoogle Distributed Cloud (GDC)の一部である。\n By Steef-Jan Wiggers  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/06/google-distributed-cloud-edge-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-08T02:27:00.000Z",
-          "wordCount": 1157,
-          "title": "Googleが分散クラウドエッジプロダクトの一般提供を開始",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2529,16 +2429,6 @@
           "wordCount": 1145,
           "title": "QCon Londonでのディベロッパーイネーブルメントに関するディスカッションからの学び",
           "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/tight-cohesive-tech-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "技術系の女性には、ダイナミックで価値あるチーム、刺激的な仕事、後押しとサポート、身近なロールモデル、偏見のない柔軟性、そして個人のパワーが必要である。結束力の強いチームは、質の高い交流を実現し、人々が大切にされていると感じることができる。\n By Ben Linders  Translated by  中村 真子",
-          "link": "https://www.infoq.com/jp/news/2022/06/tight-cohesive-tech-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-06-08T02:25:00.000Z",
-          "wordCount": 1159,
-          "title": "女性が活躍するための強く団結した技術チームづくり",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2646,16 +2536,6 @@
           "wordCount": 381,
           "title": "2022年6月10日号　22.10の開発/WPA_Supplicantの置き換えとfdk-aacの取り込み，“adwatchd” ── Ubuntu Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0718",
-          "author": "柴田充也",
-          "description": "今回は，パッケージの更新時に再起動が必要なデーモンを通知してくれる仕組みであるneedrestartについて，その設定方法と，どういう仕組みで動いているのかを解説します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0718",
-          "publishedOn": "2022-06-08T00:51:00.000Z",
-          "wordCount": 395,
-          "title": "第718回　needrestartで学ぶパッケージのフック処理 ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0718/thumb/TH800_01.png"
         }
       ]
     },
@@ -3118,16 +2998,6 @@
           "wordCount": 390,
           "title": "Better Stimulusガイド 05: ライフサイクルイベントによるセットアップ・終了（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus05_lifecycle_events_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_08/118447",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/ruby31_variable_width_allocation_for_string-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Ruby 3.1 introduces Variable Width Allocation for Strings &#124; Saeloun Blog 原文公開日: 2022/04/19 原著者: Murtaza Bagwala サイト: Saeloun Blog Rubyのメモリ管理方法2: Ruby 3.1の文字列の可変幅アロケーション（翻訳） 本記事は第1回の続編です。今回はRubyのメモリ管理における可変幅アロケーション（Variable Width Allocation: VWA）の仕組みと、可変幅アロケーションがRubyのメモリパフォーマンスをどの [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_08/118447\" data-wpel-link=\"internal\" target=\"_self\">Rubyのメモリ管理方法2: Ruby 3.1の文字列の可変幅アロケーション（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_08/118447",
-          "publishedOn": "2022-06-08T08:30:27.000Z",
-          "wordCount": 401,
-          "title": "Rubyのメモリ管理方法2: Ruby 3.1の文字列の可変幅アロケーション（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/ruby31_variable_width_allocation_for_string-min.png"
         }
       ]
     },
@@ -3136,6 +3006,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsiam_roles_anywhereawsaws.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は、AWSの外側にあるワークロードに対して一時的にAWSリソースへのアクセス権を付与できる「IAM Roles Anywhere」を発表しました。 : Need to give workloa...",
+          "link": "https://www.publickey1.jp/blog/22/awsiam_roles_anywhereawsaws.html",
+          "publishedOn": "2022-07-07T15:17:40.000Z",
+          "wordCount": 1383,
+          "title": "AWSが「IAM Roles Anywhere」発表。一時的にAWSへのアクセス権をAWSの外側にあるワークロードに付与",
+          "imageUrl": "https://www.publickey1.jp/2022/FXAe1RoWAAEoz5b.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/jenkinsjava_8java_11java_17.html",
           "author": null,
@@ -3563,6 +3443,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=279502",
+          "author": "Hana Kiros",
+          "description": "米最高裁の新判断を受け、米国の各州で中絶を禁止する州法が広がる中、大手テック企業は中絶関連のコンテンツをどう扱うのか？ 対応をまとめた。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/279502/big-tech-remains-silent-on-questions-about-data-privacy-in-a-post-roe-world/",
+          "publishedOn": "2022-07-07T21:58:38.000Z",
+          "wordCount": 1240,
+          "title": "米「中絶禁止」判決、メタ／グーグル／ツイッターの対応は？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/28173504/phonebreadcrumbs-unsplash-1-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/08/280309/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/08/280309/",
+          "publishedOn": "2022-07-07T21:54:36.000Z",
+          "wordCount": 689,
+          "title": "阪大、膵がんの治療抵抗性メカニズムを解明",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/08/280310/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/08/280310/",
+          "publishedOn": "2022-07-07T21:51:07.000Z",
+          "wordCount": 688,
+          "title": "NEC、人工衛星データで橋の損傷を検知する新技術",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=279648",
           "author": "Rachel del Valle",
@@ -4332,16 +4242,6 @@
           "wordCount": 329,
           "title": "オリオン大星雲の星団の形成過程をスパコンで再現＝東大など共同",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=277842",
-          "author": "MIT Technology Review Audio Studio",
-          "description": "今週のオーディオ・ムック（β）は、量子コンピューター開発の最新動向を伝える記事2本と、著名物理学者が展開する誇大広告批判についても紹介する。",
-          "link": "https://www.technologyreview.jp/s/277842/audiomook-hopes-and-fears-for-the-quantum-computing-race/",
-          "publishedOn": "2022-06-08T07:08:32.000Z",
-          "wordCount": 694,
-          "title": "聴くMITTR：「量子コンピューター」開発競争への期待と懸念",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/11125910/AudioMook2-1.png"
         }
       ]
     }
