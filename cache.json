@@ -6,6 +6,156 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "2d81ca4b7129c87ead8bb95cf4321cdde0ab483f",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudFront では、キャッシュポリシー、オリジンリクエストポリシー、オリジンレスポンスポリシーにおけるすべてのヘッダー名について、最大 1024 文字がサポートされるようになりました。512 文字が追加され、最大 1024 文字まで使用できるようになったことで、ヘッダーメタデータをポリシーに追加できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-cloudfront-header-names-1024-characters-cloudfront-policies/",
+          "publishedOn": "2022-07-12T19:02:04.000Z",
+          "wordCount": 295,
+          "title": "Amazon CloudFront が CloudFront ポリシーで最大 1024 文字までのヘッダー名をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b06f80076c2da06c3cbe4c0666345fd87fa4bd41",
+          "author": "aws@amazon.com",
+          "description": "re:Post で、コミュニティメンバーが自身のアカウントにプロフィール写真やアバターを追加できる新機能が搭載されました。re:Post メンバーは、選択した写真や画像をアップロードして、自身のアカウントをカスタマイズできるようになります。アカウントにプロフィール画像を追加できると、アカウントを独自のデザインにカスタマイズできるため、コミュニティ内で他のメンバーとつながり、関係を構築し、学習環境を作るのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/",
+          "publishedOn": "2022-07-12T19:01:08.000Z",
+          "wordCount": 278,
+          "title": "AWS re:Post でプロフィール写真とインライン画像をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a4abd56399f41cf68012f4f211b753a3fc7003b4",
+          "author": "aws@amazon.com",
+          "description": "Apache Spark の Amazon EMR ランタイムは、Apache Spark のパフォーマンスが最適化されたランタイム環境であり、Amazon EMR クラスター 5.28 以降においてデフォルトで使用可能および有効になっています。Spark の Amazon EMR ランタイムは最大 32 倍高速で、オープンソースの Spark と 100% API 互換性があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/",
+          "publishedOn": "2022-07-12T18:33:13.000Z",
+          "wordCount": 375,
+          "title": "Apache Spark の EMR ランタイムで Result Fragment Caching を使用することにより、クエリパフォーマンスが最大 15 倍に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "71fd2c1e3bee8763e89a453db902c8796fccdafb",
+          "author": "aws@amazon.com",
+          "description": ".NET アプリケーション向けに合理化された新しいデプロイ体験が、ついに一般公開となりました。すべてのデプロイ設定にきめ細やかな既定値が設けられているため、AWS に関する深い専門知識がなくても、ワンクリックで、またはいくつかの簡単な手順で、.NET アプリケーションの起動と実行が行えます。アプリケーションに最適なコンピューティングに関するレコメンデーションが提供されるため、初めてのデプロイであっても自信を持って実行できます。この機能は、新しくなった「Publish to AWS」(AWS に公開) ウィザードを使用することにより、AWS Toolkit for Visual Studio で利用できます。AWS Deploy Tool for .NET をインストールすれば、.NET CLI からでも利用できます。\n \n主な機能:\n \n \n \nコンピューティングレコメンデーション - コンピューティングに関する推奨事項を表示して、アプリケーションに最適な AWS のコンピューティング機能を知ることができます。\n \n \nDockerfile の生成 – 選択した AWS コンピューティングに必要な Dockerfile は自動生成されます。\n \n \nオートパッケージング/デプロイ – 選択した AWS コンピューティングの必要に応じて、アプリケーションが構築され、パッケージ化されます。このツールは、AWS CDK を使用して必要なインフラストラクチャをプロビジョニングし、アプリケーションをデプロイします。\n  \n \n反復/共有可能なデプロイ – 適切に整頓および文書化された AWS CDK デプロイプロジェクトを生成し、それを特定のユースケースに合わせて変更することができます。その後、それらのバージョンを管理し、チームで共有することにより、反復可能なデプロイが実現できます。\n \n \nCI/CD 統合 – インタラクティブな機能をオフにし、さまざまなデプロイ設定を使用することで、同じアプリケーションバンドルを異なる環境にプッシュできます。\n \n \nAWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを支える基盤となる AWS ツールに関する知識を深めることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/",
+          "publishedOn": "2022-07-12T18:32:15.000Z",
+          "wordCount": 413,
+          "title": ".NET CLI と Visual Studio での .NET アプリケーション向けに合理化されたデプロイ体験を一般公開",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "84cf9ff2330591d61a6fc2c73974704dc469e090",
+          "author": "aws@amazon.com",
+          "description": "Amazon Athena ではコンソールと API が強化され、パラメータ化されたクエリを使用する際の柔軟性が向上しました。パラメータ化されたクエリを Athena コンソールや強化された API から直接実行できるようになりました。事前に SQL ステートメントを準備する必要はもうありません。本日のリリースにより、パラメータ化されたクエリの再利用性、簡便性、安全性といった利点を、これまでよりも簡単に活用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/",
+          "publishedOn": "2022-07-12T18:31:26.000Z",
+          "wordCount": 301,
+          "title": "Amazon Athena でパラメータ化されたクエリにおけるコンソールと API のサポートを強化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8eed56f460fb32cfa50fee864b4f305b76e5f84c",
+          "author": "aws@amazon.com",
+          "description": "AWS Identity and Access Management (IAM) の IAM Roles Anywhere を使用することで、AWS 外で実行されているワークロードが AWS リソースにアクセスできるようになりました。IAM Roles Anywhere を使用すれば、サーバー、コンテナ、アプリケーションなどのワークロードが X.509 デジタル証明書を利用して一時的な AWS 認証情報を取得できます。これにより、AWS ワークロードが AWS リソースへのアクセスに利用しているのと同じ IAM ロールおよびポリシーを、AWS 外のワークロードが利用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/",
+          "publishedOn": "2022-07-12T18:16:06.000Z",
+          "wordCount": 355,
+          "title": "AWS Identity and Access Management で AWS 外のワークロード向けの IAM Roles Anywhere がリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "68ecdaeb995e8d22a039bfe0c3cd26277e200be6",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.6.8、10.5.16、10.4.25、10.3.35、および 10.2.44 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-for-mariadb-supports-new-minor-versions/",
+          "publishedOn": "2022-07-12T17:37:36.000Z",
+          "wordCount": 325,
+          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.8、10.5.16、10.4.25、10.3.35、10.2.44 をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "39f889b180340bf9914dc9dc987a0e0adc5b5166",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) では、パフォーマンス履歴の保持期間を 1 か月から 24 か月まで選択できるようになりました。RDS Performance Insights の無料利用枠を使用することもできます。この利用枠には、7 日間のパフォーマンスデータ履歴と、1 か月あたり 100 万件の API リクエストが含まれます。また、料金モデルの調整の結果、ほとんどのインスタンスタイプで 24 か月間のデータ保持に対する料金が引き下げられました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-performance-insights-additional-performance-history-retention-periods/",
+          "publishedOn": "2022-07-12T17:36:26.000Z",
+          "wordCount": 335,
+          "title": "Amazon RDS Performance Insights がパフォーマンス履歴の保持期間にさらなる選択肢を提供",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4e0b939529c5a57635b0c54d1ee5dd779720b971",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight が QuickSight アカウント作成用 API のサポートを開始しました。これにより、管理者とデベロッパーは、組織内での QuickSight アカウントの大規模なデプロイを自動化できます。QuickSight Enterprise エディションと Q を追加した Enterprise エディションでは、プログラムによってアカウントを作成できるようになりました。詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-quicksight-apis-account-create-delete/",
+          "publishedOn": "2022-07-12T17:35:36.000Z",
+          "wordCount": 301,
+          "title": "Amazon QuickSight がアカウント作成用 API のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "84cca7668beddb41f80b63a0ca3fca205b9dd31b",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、検索、共有するためのフルマネージド型の専用リポジトリです。本サービスでは、簡単な特徴量の再利用、低レイテンシー処理、タイムトラベル、トレーニングおよび推論で利用される特徴量の一貫性の確保といった特徴量管理機能を活用できます。 これまで、SageMaker Feature Store のモニタリングは、使用された読み込みユニットと書き込みユニットに限定されていたため、Feature Store の運用効率は限定的にしか確認できませんでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/",
+          "publishedOn": "2022-07-12T17:34:45.000Z",
+          "wordCount": 299,
+          "title": "Amazon SageMaker Feature Store に特徴量グループを簡単にモニタリングする運用メトリクスが追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "81b6551e606ecacd1bc21f7919708cd57d56af1f",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Feature Store は、機械学習における特徴量の保存、更新、検索、共有に特化したフルマネージド型リポジトリです。本サービスでは、簡単な特徴量の再利用、低レイテンシー処理、タイムトラベル、トレーニング/推論ワークフローで活用される特徴量の一貫性の確保といった、特徴量管理機能を利用できます。特徴量グループは、特徴量グループスキーマによって構造が定義される、機械学習における特徴量の論理グループです。これまでも、特徴量グループにメタデータタグを付加すれば、特徴量グループを簡単に検索することができました。しかし、メタデータタグは特徴量グループにしか付加できず、特定の特徴量を検索する手順は複雑なものでした。探している特徴量がどの特徴量グループに属しているかを把握し、その特徴量グループ内で当該の特徴量をスキャンする必要があったため、特徴量の検索によって余分なオーバーヘッドが発生していました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/",
+          "publishedOn": "2022-07-12T17:33:56.000Z",
+          "wordCount": 301,
+          "title": "Amazon SageMaker Feature Store が特徴量のメタデータと検索に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0f071be377f9b60552652cb36db8380990d5eaf3",
+          "author": "aws@amazon.com",
+          "description": "AWS Security Hub において、お客様のクラウドセキュリティ体制管理 (CSPM、Cloud Security Posture Management) を強化する目的で、Foundational Security Best Practice (FSBP) 標準の 36 の新しいコントロールがリリースされました。新しいコントロールは、セキュリティベストプラクティスに照らして、対象サービスの全自動チェックを実行します。対象サービスは、AWS Auto Scaling、AWS CloudFormation、Amazon CloudFront、Amazon Elastic Compute Cloud (EC2)、Amazon Elastic Container Registry (ECR)、Amazon Elastic Container Service (ECS)、Amazon Elastic File System (EFS)、Amazon Elastic Kubernetes Service (EKS)、Elastic Load Balancing (ELB)、Amazon Kinesis、AWS Network Firewall、Amazon OpenSearch Service、Amazon Redshift、Amazon Simple Storage Service (S3)、Amazon Simple Notification Service (SNS)、AWS WAF です。Security Hub において新しいコントロールを自動で有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub は今回のリリースにより、AWS のセキュリティ体制を自動的にチェックするための 223 のセキュリティコントロールに対応しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/",
+          "publishedOn": "2022-07-12T17:33:01.000Z",
+          "wordCount": 420,
+          "title": "AWS Security Hub で 36 のセキュリティベストプラクティスコントロールが新たにリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0cf84b7de26272f1f5beef32dd9a3fdc271056cb",
+          "author": "aws@amazon.com",
+          "description": "Amazon Location Service でクォータ管理のサポートが開始されました。これにより、任意の API の使用率がその API のクォータ制限に近付いた際に通知する Amazon CloudWatch アラームを作成できるようになります。このアラームは、運用上の継続性を確保し、サービスのスロットリングを防止し、意図しない支出を回避するのに役立ちます。また、AWS Service Quotas を使用することで、クォータの増加を 1 つのユーザーインターフェイスから確認、管理、リクエストすることもできます。例えば、eコマースのウェブサイトであれば、Amazon Location API のそれぞれについて、使用率が 80% に達した際に通知する CloudWatch アラームを作成することができます。アラームが発動した際に、クォータの引き上げをリクエストすることもできます。それにより、ワークロードをスケーリングし、ウェブサイトの機能停止を回避して、購入者のカスタマーエクスペリエンスを保証することもできるでしょう。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-location-service-quota-management/",
+          "publishedOn": "2022-07-12T17:32:13.000Z",
+          "wordCount": 333,
+          "title": "Amazon Location Service でクォータ管理のサポートが開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "35c3bab1a1ec4f4708ea147f05e30cc625a32373",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、検索、共有するためのフルマネージド型の専用リポジトリです。本サービスでは、簡単な特徴量の再利用、低レイテンシー処理、タイムトラベル、トレーニングおよび推論ワークフローで利用される特徴量の一貫性の確保といった特徴量管理機能を活用できます。特徴量グループは、特徴量グループスキーマによって構造が定義される、機械学習における特徴量の論理的グループです。これまでは、特徴量グループに含まれる特徴量は特徴量グループの作成時に定義され、特徴量グループのスキーマを変更することはできませんでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-new-features-existing-feature-groups/",
+          "publishedOn": "2022-07-12T17:31:14.000Z",
+          "wordCount": 287,
+          "title": "Amazon SageMaker Feature Store で既存の特徴量グループに新しい特徴量を追加可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "17d174baf18a5e1b5d66e539ada251002a9b7e5e",
+          "author": "aws@amazon.com",
+          "description": "高いモデルパフォーマンスを発揮する機械学習モデルを生成するための Amazon SageMaker Autopilot の実験が、最大 2 倍の速度で実行されるようになりました。Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、調整できるローコードの機械学習製品です。しかし、データセットのサイズが大きくなるにつれて、モデルのトレーニングと調整に必要なコンピューティングコストが増大する可能性があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-autopilot-experiments-2x-faster/",
+          "publishedOn": "2022-07-12T14:46:12.000Z",
+          "wordCount": 340,
+          "title": "Amazon SageMaker Autopilot の実験速度が最大で 2 倍に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "f0cec9541d4f6c06f1cc6ddfc234a371d3cbee85",
           "author": "aws@amazon.com",
           "description": "本日、AWS は AWS IoT Core の新機能の一般提供開始を発表しました。それは、デバイスプロビジョニングに必要な認証局 (CA) の登録を簡素化し、同一の AWS リージョン内や異なるリージョン間でお客様が所有する複数の AWS アカウント間のデバイス移動を簡単にする機能です。これにより、AWS IoT Core へのデバイス登録の複雑さが軽減し、AWS IoT Core の Just-in-Time Provisioning (JITP) や Just-in-Time Registration (JITR) といった AWS IoT Core のデバイスプロビジョニング方法を使用する際に、IoT 実装の開発ライフサイクルを加速できます。",
@@ -1778,16 +1928,6 @@
           "wordCount": 541,
           "title": "「ビジネスでのAI活用が当たり前」時代における管理職の在り方",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2023/06/TOP01.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=41009",
-          "author": "BunkiMIyata",
-          "description": "モーメント（moment）──「瞬間」を意味する英単語です。 今や、日用品から大型バスまでほとんどのものをネットを経由していつでもどこでも購入したり、その下調べをしたりできる状況が整っています。Webマーケティングの重要 […]",
-          "link": "https://data.wingarc.com/moment-analysis-41009?utm_source=rss&utm_medium=rss&utm_campaign=moment-analysis",
-          "publishedOn": "2022-06-12T23:00:41.000Z",
-          "wordCount": 432,
-          "title": "今この瞬間に効果を発揮する「モーメント分析」とは？  データの力で消費者の「真実の瞬間」に近づこう！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_moment.jpg"
         }
       ]
     },
@@ -2192,26 +2332,6 @@
           "wordCount": 1365,
           "title": "Microsoft + Java = ♡: Devoxx UKでMartijn Verburg氏が語ったこと",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220607-0333/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/future-java-may22/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Olimpiu Pop",
-          "description": "新たなプラットフォームの出現によってクラウドネイティブというステージを失ったJavaは今、ルネッサンスの時を迎えているようだ。Javaエコシステムには数多くのプロジェクトがあって、Javaをよりクラウドフレンドリな存在にすべく、言語レベルのサポートの提供やランタイムの改善に取り組んでおり、イノベーションに向かう急行路線のような様相を呈している。Red Hatエンジニアリング担当副社長のMark Little氏は、Devoxx UKで行った講演の中で、これらの活動をクローズアップした。\n By Olimpiu Pop  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/06/future-java-may22/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-13T01:52:00.000Z",
-          "wordCount": 1332,
-          "title": "Javaの未来",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/java-news-roundup-may09-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "今週、2022年5月9日のJavaラウンドアップでは、OpenJDKの最新情報、JDK 19をターゲットとする一連のJEP、Project Lilliputのマイルストンリリース、Spring Framework 5.3.20と5.2.22、Open Liberty 22.0.0.5と22.0.0.6-beta、Quarkus 2.9.0.Final、Apache Camel Quarkus 2.9.0、WildFly Preview 27 Alpha1、Hibernate Search 6.1.5、JobRunr 5.1.1、Piranha 22.5.0、Failsafe 3.2.4、Microautサーベイの結果、Devoxx UKといった内容をお届けする。\n By Michael Redlich  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/06/java-news-roundup-may09-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-13T01:25:00.000Z",
-          "wordCount": 1557,
-          "title": "Java Newsラウンドアップ - JDK 19対象JEP、Project Lilliputマイルストン、Spring Framework、Quarkus 2.9.0",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2299,16 +2419,6 @@
           "wordCount": 1154,
           "title": "ノルウェー最大の官僚機構がファストフローをどのように最適化したか",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220607-0333/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/trust-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "トラスト駆動開発では、人の活動に安全な環境を構築するために真実性を利用する。信頼を築くには、認知と感情という2つの信頼の主要な柱に焦点を当てる必要がある。私たちはヒーローになり、勇気を持ち、皆に真の私たち自身へのアクセスを与えなければならない。\n By Ben Linders  Translated by  Shoji Shigeki",
-          "link": "https://www.infoq.com/jp/news/2022/06/trust-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-06-13T02:01:00.000Z",
-          "wordCount": 1156,
-          "title": "トラスト駆動開発: 認知的および感情的な柱の構築",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220607-0333/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2620,16 +2730,6 @@
           "wordCount": 298,
           "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202206/0613",
-          "author": null,
-          "description": "雨上がりはねこがわさわさ現れる・・・気がするのはねこ部だけでしょうか？",
-          "link": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202206/0613",
-          "publishedOn": "2022-06-13T06:00:00.000Z",
-          "wordCount": 230,
-          "title": "2022年6月13日 ── 帰ってきた『技評ねこ部通信』",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         }
       ]
     },
@@ -2663,6 +2763,16 @@
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
         {
+          "id": "https://rubyonrails.org/2022/7/12/Rails-Versions-7-0-3-1-6-1-6-1-6-0-5-1-and-5-2-8-1-have-been-released",
+          "author": null,
+          "description": "Hi everyone!!! Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released!",
+          "link": "https://rubyonrails.org/2022/7/12/Rails-Versions-7-0-3-1-6-1-6-1-6-0-5-1-and-5-2-8-1-have-been-released",
+          "publishedOn": "2022-07-12T17:52:28.000Z",
+          "wordCount": 319,
+          "title": "Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released!",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
+        {
           "id": "https://rubyonrails.org/2022/7/4/this-week-in-rails-improved-postgresql-support-performance-improvements-and-more-e462895a",
           "author": null,
           "description": "Hi, this is Petrik, bringing you the latest news from the Rails world.",
@@ -2670,16 +2780,6 @@
           "publishedOn": "2022-07-04T00:00:00.000Z",
           "wordCount": 574,
           "title": "Improved PostgreSQL support, performance improvements and more…",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/6/13/rails-discord-server-is-now-open-to-the-public",
-          "author": null,
-          "description": "In the past few weeks, the Rails team has been working on a few changes to lower the barrier for new contributors to the framework.",
-          "link": "https://rubyonrails.org/2022/6/13/rails-discord-server-is-now-open-to-the-public",
-          "publishedOn": "2022-06-13T00:00:00.000Z",
-          "wordCount": 282,
-          "title": "Rails Discord server is now open to the public",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
@@ -2928,16 +3028,6 @@
           "wordCount": 666,
           "title": "Rails: Puma/Unicorn/Passengerの効率を最大化する設定（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2017/11/rails_configuring_puma_unicorn_passenger_max_efficiency_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_13/118725",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220613_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。とうとう値上がりしました。 参考: Apple、Macの既存モデルを値上げ &#8211; 14インチProで35,000円アップ &#124; マイナビニュース つっつきボイス:「旧モデルも上がっちゃいましたね」「円安は仕方ないけど、それでもスペックの割にMacは高いな〜」「仕事で必要なら買うしかないですけどね」 「そういえばM1チップの中心人物Jeff Wilcoxさんが少し前にAppleからIntelに転職してましたね↓」 参考: 「Apple M1」開発責任者がIntelに転職 &#8211; PC Watch 「それで思い出しましたけど、ジム・ケラーというAMDのx86互換CP [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_13/118725\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Hotwireをアプリ構築で学ぶ、Active RecordのDurationとPostgreSQL intervalデータ型ほか（20220613前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_13/118725",
-          "publishedOn": "2022-06-13T09:54:45.000Z",
-          "wordCount": 1298,
-          "title": "週刊Railsウォッチ: Hotwireをアプリ構築で学ぶ、Active RecordのDurationとPostgreSQL intervalデータ型ほか（20220613前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220613_eyecatch-min.png"
         }
       ]
     },
@@ -2946,6 +3036,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/_cloud_operator_days_tokyo_2022pr.html",
+          "author": null,
+          "description": "クラウドの運用者にフォーカスするというユニークなイベント「Cloud Operator Days Tokyo 2022」が開催中です。 クラウドの時代が到来し、ソフトウェアプロダクトの形態がパッケージからサービスへと大きく変わろうとしている...",
+          "link": "https://www.publickey1.jp/blog/22/_cloud_operator_days_tokyo_2022pr.html",
+          "publishedOn": "2022-07-12T15:20:06.000Z",
+          "wordCount": 1306,
+          "title": "日本を代表する大手クラウド運用の裏側はどうなっている？ 運用をクリエティブに改善する方法とは。Cloud Operator Days Tokyo 2022［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/codt2022_p01.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/rubygemsruby_sheildrubyrailsshopify410013000.html",
+          "author": null,
+          "description": "Ruby言語用のパッケージであるGemのホスティングサービス「RubyGems.org」を運営するRuby Centralは、RubyやRailsに対するサプライチェーン攻撃への対応を行うプロジェクト「Ruby Shield」を開始すると発...",
+          "link": "https://www.publickey1.jp/blog/22/rubygemsruby_sheildrubyrailsshopify410013000.html",
+          "publishedOn": "2022-07-12T15:15:57.000Z",
+          "wordCount": 1584,
+          "title": "RubyGemsの運営元が「Ruby Shield」を発表。RubyとRailsへのサプライチェーン攻撃への対策としてShopifyが4年で100万ドル（約1億3000万円）を提供",
+          "imageUrl": "https://www.publickey1.jp/2022/aUZ4MsOv.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/redis25dragonfly2022.html",
           "author": null,
@@ -3373,6 +3483,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=280104",
+          "author": "Jane Flegal",
+          "description": "地球温暖化が危険なレベルに達するのを防ぐために、二酸化炭素の除去はもはや必須となりつつある。だが、二酸化炭素の除去に頼りすぎると、本来なすべき二酸化炭素の排出量削減に悪影響を及ぼしかねない。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/280104/we-need-to-draw-down-carbon-not-just-stop-emitting-it/",
+          "publishedOn": "2022-07-12T21:57:52.000Z",
+          "wordCount": 1195,
+          "title": "CO2「排出削減」では不十分、「除去」が避けられない理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/05181504/GettyImages-500863126-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/12/280588/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/13/280588/",
+          "publishedOn": "2022-07-12T20:55:09.000Z",
+          "wordCount": 685,
+          "title": "東北大、可視光の80％を通すほぼ透明な太陽電池を開発",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/07/12/280583/",
           "author": "MIT Technology Review Japan",
@@ -4182,26 +4312,6 @@
           "wordCount": 315,
           "title": "AIで「量子指紋」を解読、金属の微細構造を再現＝東大など",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/06/13/278169/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/06/13/278169/",
-          "publishedOn": "2022-06-13T09:00:57.000Z",
-          "wordCount": 316,
-          "title": "「はやぶさ2」チーム、小惑星リュウグウの起源と進化を解明",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=277629",
-          "author": "Ryo Shimizu",
-          "description": "画像認識と自然言語処理を融合させたマルチモーダルなAI技術が広がりを見せている。オープンAIの「Image GPT」から「DALL-E2」、グーグルの「Imagen」まで、画像生成モデルの進化とその仕組みについてAI研究者の清水 亮氏が解説する。",
-          "link": "https://www.technologyreview.jp/s/277629/the-evolving-multimodal-ai-changes-art-and-human-ability/",
-          "publishedOn": "2022-06-13T03:01:48.000Z",
-          "wordCount": 677,
-          "title": "DALL-E、Imagen——進化する自動作画、AIは想像力を拡張するか",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/13115721/aiart.jpg"
         }
       ]
     }
