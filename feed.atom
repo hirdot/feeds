@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T09:01:09.799Z</updated>
+    <updated>2022-07-13T10:01:18.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -34,6 +34,17 @@
         <summary type="html"><![CDATA[Red Hatは7月12日（米国時間）、製品/テクノロジ部門のエグゼクティブバイスプレジデントを務めるMatt Hicksが同社の新CEO兼プレジデントに指名されたことを発表した。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: Sprockets-&gt;Propshaftアップグレードガイド（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_13/119829</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_13/119829"/>
+        <updated>2022-07-13T09:45:14.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_sprockets_propshaft_upgrade_guide_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: propshaft/UPGRADING.md at main · rails/propshaft 原文更新日: 2022/03/16（f9e8c3b） ライセンス: MIT Rails: Sprockets->Propshaftアップグレードガイド（翻訳） Propshaftの適用範囲はSprocketsよりも狭いので、Propshaftへの移行にはjsbundling-rails gemとcssbundling-rails gemも利用する必要があります。本ガイドでは、プロジェクトがRails 6.1以後の以下の規約に沿っていることを前提として [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_13/119829" data-wpel-link="internal" target="_self">Rails: Sprockets->Propshaftアップグレードガイド（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
@@ -2056,6 +2067,17 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <updated>2022-07-05T09:56:45.000Z</updated>
         <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220705_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_05/119336" data-wpel-link="internal" target="_self">週刊Railsウォッチ: 6月のRubyコア動向、Stack Overflowアンケート結果ほか（20220705後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Propshaft gem README（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_05/114743</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_05/114743"/>
+        <updated>2022-07-05T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2021/12/rails_propshaft_readme_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 README: rails/propshaft: Deliver assets for Rails 原文更新日: 2022/02/15（4433b73） ライセンス: MIT 2022/01/04 初版公開 2022/07/05 更新 propshaft README（翻訳） Propshaftは、Railsのアセットパイプライン用ライブラリです。Propshaftは、以下のような時代に合わせて構築されました。 HTTPコネクションを節約するためのアセットバンドルがもはや切実ではなくなった JavaScriptやCSSを専用のNode.jsバンドルでコンパイ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_05/114743" data-wpel-link="internal" target="_self">Propshaft gem README（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
         </author>
@@ -6127,149 +6149,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[今回は、何気なく使っている数字ですが、予期せず使っていて問題が起こってしまうことも多いため、MySQLで扱える整数型について紹介をしていきます。]]></summary>
         <author>
             <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[桁外れの中国トップ・インフルエンサー、一夜にして転落]]></title>
-        <id>https://www.technologyreview.jp/?p=278045</id>
-        <link href="https://www.technologyreview.jp/s/278045/how-chinas-biggest-online-influencers-fell-from-their-thrones/"/>
-        <updated>2022-06-13T21:55:55.000Z</updated>
-        <summary type="html"><![CDATA[ネット通販で一度に数十億ドル相当を売り上げることもある中国のトップ・インフルエンサーが突然、活動を停止した。消費行動に絶大な影響力を持つインフルエンサーの勢力図が変わりつつある。 		
-
-こちらは会員限定の記事です。
-メールアドレスの登録で続きを読めます。
-
-
-会員登録して読む
-
-ログインして読む
-
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-
-
-
-
-
-
-こちらは有料会員限定の記事です。
-有料会員になると制限なしにご利用いただけます。
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-購読キャンペーン実施中]]></summary>
-        <author>
-            <name>Zeyi Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「富岳」で核燃焼プラズマの閉じ込め改善効果を発見＝名大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/06/13/278205/</id>
-        <link href="https://www.technologyreview.jp/n/2022/06/14/278205/"/>
-        <updated>2022-06-13T21:19:11.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監視、迫害、嫌がらせ…… 自分らしく生きるために闘う LGBTQ活動家たち]]></title>
-        <id>https://www.technologyreview.jp/?p=277998</id>
-        <link href="https://www.technologyreview.jp/s/277998/meet-the-lgbtq-activists-fighting-to-be-themselves-online-in-malaysia/"/>
-        <updated>2022-06-13T21:12:09.000Z</updated>
-        <summary type="html"><![CDATA[保守的なイスラム教国であるマレーシアでは、オンライン・プラットフォームがLGBTQの人々がつながり、組織化することに役に立ってきた。だが、そうしたプラットフォームでの露出は、検閲、監視、攻撃されるリスクに晒されることにもつながる。
- 		
-
-こちらは会員限定の記事です。
-メールアドレスの登録で続きを読めます。
-
-
-会員登録して読む
-
-ログインして読む
-
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-
-
-
-
-
-
-こちらは有料会員限定の記事です。
-有料会員になると制限なしにご利用いただけます。
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-購読キャンペーン実施中]]></summary>
-        <author>
-            <name>Megan Tatum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIで「量子指紋」を解読、金属の微細構造を再現＝東大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/06/13/278146/</id>
-        <link href="https://www.technologyreview.jp/n/2022/06/14/278146/"/>
-        <updated>2022-06-13T21:01:14.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
