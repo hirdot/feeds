@@ -2433,10 +2433,20 @@
       ]
     },
     {
-      "title": "gihyo.jp：ADMINISTRATOR STAGE",
+      "title": "gihyo.jp",
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
-      "siteUrl": "https://gihyo.jp/admin",
+      "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220713",
+          "author": null,
+          "description": "Red Hatは7月12日（米国時間）、製品/テクノロジ部門のエグゼクティブバイスプレジデントを務めるMatt Hicksが同社の新CEO兼プレジデントに指名されたことを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220713?utm_source=feed",
+          "publishedOn": "2022-07-13T11:22:00.000Z",
+          "wordCount": 216,
+          "title": "2022年7月13日　Red Hat、新CEOにマット・ヒックスを指名、現CEOのポール・コーミアはチェアマンに",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
           "author": "水野源",
@@ -2448,6 +2458,26 @@
           "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0723/ogp.jpg"
         },
         {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
+          "author": null,
+          "description": "今回は、リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723?utm_source=feed",
+          "publishedOn": "2022-07-13T00:55:00.000Z",
+          "wordCount": 383,
+          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0723/ogp.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
+          "author": null,
+          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
+          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002?utm_source=feed",
+          "publishedOn": "2022-07-13T00:26:00.000Z",
+          "wordCount": 298,
+          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1890_cloud_operatr_dt2022_001.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/http3/0003",
           "author": "後藤ゆき",
           "description": "本章では，HTTP/3がどのようにQUICを利用し，効率良くHTTPメッセージをやりとりするかを説明します。",
@@ -2455,6 +2485,16 @@
           "publishedOn": "2022-07-13T00:16:00.000Z",
           "wordCount": 655,
           "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し，いかにして高速化を実現したか ── HTTP/3入門",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
+          "author": null,
+          "description": "本章では、HTTP/3がどのようにQUICを利用し、効率良くHTTPメッセージをやりとりするかを説明します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0003?utm_source=feed",
+          "publishedOn": "2022-07-12T23:59:00.000Z",
+          "wordCount": 655,
+          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し、いかにして高速化を実現したか",
           "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
         },
         {
@@ -2468,6 +2508,46 @@
           "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
         },
         {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175",
+          "author": null,
+          "description": "MySQLのレプリケーション機能は非常に便利で、冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175?utm_source=feed",
+          "publishedOn": "2022-07-12T00:15:00.000Z",
+          "wordCount": 309,
+          "title": "第175回　enforce_gtid_consistencyを設定しよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0002",
+          "author": null,
+          "description": "本章では、HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0002?utm_source=feed",
+          "publishedOn": "2022-07-12T00:00:00.000Z",
+          "wordCount": 563,
+          "title": "第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/monthly-python-2207",
+          "author": null,
+          "description": "今月から「Python Monthly Topics」と題して、毎月Python関連の話題になったトピックやツール、ライブラリなどを紹介していきたいと思います。第1回目はPython 3.10の新機能「構造化パターンマッチング（Structural Pattern Matching）」について紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/monthly-python-2207?utm_source=feed",
+          "publishedOn": "2022-07-11T11:22:00.000Z",
+          "wordCount": 548,
+          "title": "Python 3.10の新機能：構造化パターンマッチング",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/iot-engineer01",
+          "author": null,
+          "description": "本企画は「IoTエンジニアを目指すには」というテーマについて、ソラコムのエンジニアが全3回でお送りします。第1回は私から、そもそも「IoTエンジニア」とはなんなのかについてお話してみたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/iot-engineer01?utm_source=feed",
+          "publishedOn": "2022-07-11T11:22:00.000Z",
+          "wordCount": 192,
+          "title": "あなたの身近にある  IoTエンジニアに通じる数多の「道」",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1893_iot-engineer.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/http3/0001",
           "author": "後藤ゆき",
           "description": "HTTP（Hypertext Transfer Protocol）の最新版であるHTTP/3が登場しました。HTTP/3では，より安全で速い通信が行えます。本特集では，今までのHTTPにあった課題と，HTTP/3で課題をどのように解決し，改善が行われたかを解説します。",
@@ -2478,6 +2558,36 @@
           "imageUrl": "http://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
         },
         {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0001",
+          "author": null,
+          "description": "HTTP（Hypertext Transfer Protocol）の最新版であるHTTP/3が登場しました。HTTP/3では、より安全で速い通信が行えます。本特集では、今までのHTTPにあった課題と、HTTP/3で課題をどのように解決し、改善が行われたかを解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0001?utm_source=feed",
+          "publishedOn": "2022-07-11T06:19:00.000Z",
+          "wordCount": 467,
+          "title": "第1章 進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし、HTTP/3の基本を知る",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/gihyojp-renewal",
+          "author": null,
+          "description": "技術評論社のエンジニア向け情報サイト「gihyo.jp」は2022年7月11日、リニューアルを行いました。2007年のサイトオープン以来の大幅な更新になります。",
+          "link": "https://gihyo.jp/article/2022/07/gihyojp-renewal?utm_source=feed",
+          "publishedOn": "2022-07-11T04:33:40.000Z",
+          "wordCount": 153,
+          "title": "gihyo.jp、15年ぶりの大幅リニューアル！",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/news.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11",
+          "author": null,
+          "description": "Debianプロジェクトは7月9日、「Debian 11 ”bullseye”」の4回目のポイントリリースとなる「Debian 11.4」の公開を発表した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11?utm_source=feed",
+          "publishedOn": "2022-07-11T02:20:00.000Z",
+          "wordCount": 153,
+          "title": "2022年7月11日　Debian 11.4リリース、セキュリティアップデートが中心",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11",
           "author": "階戸アキラ",
           "description": "Debianプロジェクトは7月9日，「Debian 11 ”bullseye”」の4回目のポイントリリースとなる「Debian 11.4」の公開を発表した。",
@@ -2486,6 +2596,26 @@
           "wordCount": 992,
           "title": "2022年7月11日　Debian 11.4リリース，セキュリティアップデートが中心 ── Linux Daily Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2022/thumb/TH800_1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/design/serial/01/website-pickup/0172",
+          "author": null,
+          "description": "今回紹介するのは、イギリスの公共放送であるBBC（英国放送協会）が、アクセス制限されている国からでも情報を取得できるよう構築したウェブサイト、『BBC - Home』です。",
+          "link": "https://gihyo.jp/design/serial/01/website-pickup/0172?utm_source=feed",
+          "publishedOn": "2022-07-11T02:00:00.000Z",
+          "wordCount": 236,
+          "title": "第172回　BBC（英国放送協会）がロシアのウクライナ侵攻で見せた誇りとインターネットの“つながり”",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1907_website-pickup.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08",
+          "author": null,
+          "description": "Fedoraプロジェクトは7月6日、今秋リリース予定の「Fedora Linux 37」において、シングルボードコンピュータ「Raspberry Pi 4」をオフィシャルにサポートする方針を明らかにした。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08?utm_source=feed",
+          "publishedOn": "2022-07-08T01:41:00.000Z",
+          "wordCount": 173,
+          "title": "2022年7月8日　Fedora、次バージョンでRaspberry Pi 4をオフィシャルサポート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
         },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08",
@@ -2499,6 +2629,16 @@
         },
         {
           "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08",
+          "author": null,
+          "description": "Ubuntu 21.10（impish）は、7月14日にEOLを迎えます。これを踏まえて、現在まだunverifiedステータスで保留されているパッケージについて、重要なものは速やかに確認してほしいという呼びかけが行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08?utm_source=feed",
+          "publishedOn": "2022-07-08T00:57:00.000Z",
+          "wordCount": 362,
+          "title": "2022年7月8日号　21.10のEOLに向けた取り組み、各リリースにおけるいろいろな取り組み",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08",
           "author": "吉田史",
           "description": "Ubuntu 21.10（impish）は，7月14日にEOLを迎えます。これを踏まえて，現在まだunverifiedステータスで保留されているパッケージについて，重要なものは速やかに確認してほしいという呼びかけが行われています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08",
@@ -2506,6 +2646,46 @@
           "wordCount": 1204,
           "title": "2022年7月8日号　21.10のEOLに向けた取り組み，各リリースにおけるいろいろな取り組み ── Ubuntu Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0801",
+          "author": null,
+          "description": "2022年7月8日、BoostIO株式会社は、世界中のセキュリティリサーチャーへ脆弱性診断を依頼できるバグバウンティ（脆弱性報奨金制度）プラットフォーム「IssueHunt」を一般公開しました。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0801?utm_source=feed",
+          "publishedOn": "2022-07-08T00:20:00.000Z",
+          "wordCount": 184,
+          "title": "70万人が使うOSS向け報奨金サービスIssueHunt、バグバウンティ（脆弱性報奨金制度）プラットフォームを一般公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1901_IssueHant.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07",
+          "author": null,
+          "description": "2022年7月第2週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07?utm_source=feed",
+          "publishedOn": "2022-07-08T00:18:00.000Z",
+          "wordCount": 201,
+          "title": "2022年7月第2週　脱iPhone、Pixel 6 ProとMacの相性を考える",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0701",
+          "author": null,
+          "description": "（株）ソラコムは2022年7月6日（水）、7日（木）の2日間にわたって、年次カンファレンス「SORACOM Discovery 2022 ONLINE」を開催した。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0701?utm_source=feed",
+          "publishedOn": "2022-07-07T02:34:00.000Z",
+          "wordCount": 205,
+          "title": "Internet of Everywhere、そしてInternet of Everyoneへ ―ソラコム「SORACOM Discovery 2022」でカバレッジを広げる新たなプランやサービスを発表",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1896_soracom_discovery2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722",
+          "author": null,
+          "description": "今回はランサムウェアに屈しないため、UrBackupで簡単かつ確実にバックアップを取る方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722?utm_source=feed",
+          "publishedOn": "2022-07-06T01:00:00.000Z",
+          "wordCount": 304,
+          "title": "第722回　UrBackupでお手軽ランサムウェア対策",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0722/ogp.png"
         },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722",
@@ -2528,6 +2708,76 @@
           "imageUrl": null
         },
         {
+          "id": "https://gihyo.jp/news/info/2022/07/0401",
+          "author": null,
+          "description": "Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。",
+          "link": "https://gihyo.jp/news/info/2022/07/0401?utm_source=feed",
+          "publishedOn": "2022-07-04T02:55:00.000Z",
+          "wordCount": 169,
+          "title": "「Python Boot Camp」2022年9月3日に静岡県沼津市で開催",
+          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0101",
+          "author": null,
+          "description": "「U-22プログラミング・コンテスト2022」および「U-22キービジュアルコンテスト」の応募受付が7月1日から開始された。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0101?utm_source=feed",
+          "publishedOn": "2022-07-01T02:57:00.000Z",
+          "wordCount": 162,
+          "title": "U-22プログラミング・コンテスト2022／U-22キービジュアルコンテスト 応募受付開始",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1895_u22-contest.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083",
+          "author": null,
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083?utm_source=feed",
+          "publishedOn": "2022-07-01T00:21:00.000Z",
+          "wordCount": 445,
+          "title": "第83回　OCIコンソール上でのMySQL Shell、PostgreSQL 14.4の緊急リリースとPostgres Vision 2022",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1899_ossdb_vn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041",
+          "author": null,
+          "description": "あっと言う間に2022年も半分が過ぎ、昨年末のHDDのクラッシュとサーバ回りの更新、それに合わせた最新版のSpamAssasinの導入からも約半年が経ったことになります。",
+          "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041?utm_source=feed",
+          "publishedOn": "2022-07-01T00:18:00.000Z",
+          "wordCount": 391,
+          "title": "第41回　SpamAssasinと最近の迷惑メール事情",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0602",
+          "author": null,
+          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jpおよび株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿ではこの輪読会の第2回の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0602?utm_source=feed",
+          "publishedOn": "2022-06-30T03:00:00.000Z",
+          "wordCount": 320,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート ～データ基盤システム編～",
+          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0602/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/06/2901",
+          "author": null,
+          "description": "エンジニアフレンドリーシティ福岡（EFC）は、開発コンテスト Engineer Driven Day を2022年から新たに開催する。",
+          "link": "https://gihyo.jp/news/info/2022/06/2901?utm_source=feed",
+          "publishedOn": "2022-06-29T02:04:00.000Z",
+          "wordCount": 163,
+          "title": "エンジニアフレンドリーシティ福岡 開発コンテスト「Engineer Driven Day」開催",
+          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721",
+          "author": null,
+          "description": "今回はDeskMeet B660とIntelの第12世代Core（Alder Lake）にUbuntuをインストールしてみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721?utm_source=feed",
+          "publishedOn": "2022-06-29T00:57:00.000Z",
+          "wordCount": 838,
+          "title": "第721回　新型ベアボーンキットであるDeskMeetと最新CPUであるAlder Lakeで夢のパワフルUbuntuライフ",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0721/photo.jpg"
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721",
           "author": "柴田充也",
           "description": "今回はDeskMeet B660とIntelの第12世代Core（Alder Lake）にUbuntuをインストールしてみましょう。",
@@ -2538,6 +2788,26 @@
           "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0721/thumb/TH800_photo.jpg"
         },
         {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
+          "author": null,
+          "description": "MySQLでは、テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174?utm_source=feed",
+          "publishedOn": "2022-06-28T00:52:00.000Z",
+          "wordCount": 292,
+          "title": "第174回　MySQLのデータ暗号化いろいろ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24",
+          "author": null,
+          "description": "jammy（22.04 LTS）向けに、「linux-nezha」と名付けられたカーネルフレーバーが登場しています。また、WSL2がWindows Serverにやってきました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24?utm_source=feed",
+          "publishedOn": "2022-06-24T01:08:00.000Z",
+          "wordCount": 301,
+          "title": "2022年6月24日号　「Nezha」用RISC-Vカーネルフレーバー、Windows ServerにおけるWSL2のサポート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24",
           "author": "吉田史",
           "description": "jammy（22.04 LTS）向けに，「linux-nezha」と名付けられたカーネルフレーバーが登場しています。また，WSL2がWindows Serverにやってきました。",
@@ -2546,6 +2816,36 @@
           "wordCount": 1158,
           "title": "2022年6月24日号　「Nezha」用RISC-Vカーネルフレーバー，Windows ServerにおけるWSL2のサポート ── Ubuntu Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23",
+          "author": null,
+          "description": "2022年6月第4週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23?utm_source=feed",
+          "publishedOn": "2022-06-23T00:11:00.000Z",
+          "wordCount": 210,
+          "title": "2022年6月第4週　Android 13 Beta 3.2がリリース、Android for Carsの最新事情",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/06/2201",
+          "author": null,
+          "description": "GitHubは6月22日、入力したコードとコメントから推論されるコードをAIを使って自動的に提案するツール「GitHub Copilot」を正式リリースした。",
+          "link": "https://gihyo.jp/news/nr/2022/06/2201?utm_source=feed",
+          "publishedOn": "2022-06-22T07:11:00.000Z",
+          "wordCount": 142,
+          "title": "GitHub、AIペアプログラマー「GitHub Copilot」を正式リリース",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1892_github_copilot.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720",
+          "author": null,
+          "description": "今回は、Ubuntuでベースのシステムは安定させつつ、アプリケーションは新しいバージョンを使用したい場合のセットアップ方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720?utm_source=feed",
+          "publishedOn": "2022-06-22T00:53:00.000Z",
+          "wordCount": 233,
+          "title": "第720回　Ubuntuの最小インストールとFlatpakでいつでも最新アプリ生活",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0720/03.png"
         },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720",
@@ -2559,6 +2859,16 @@
         },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22",
+          "author": null,
+          "description": "AlmaLinux OS Foundationは6月20日、ディストリビューションやパッケージのビルドからリリースまでを自動化するシステム「AlmaLinux Build System」をリードオンリーで公開した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22?utm_source=feed",
+          "publishedOn": "2022-06-22T00:15:00.000Z",
+          "wordCount": 174,
+          "title": "2022年6月22日　RHEL互換OSのAlmaLinux、ディストリビューション/パッケージのビルドを自動化する「AlmaLinux Build System」を公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22",
           "author": "階戸アキラ",
           "description": "AlmaLinux OS Foundationは6月20日，ディストリビューションやパッケージのビルドからリリースまでを自動化するシステム「AlmaLinux Build System」をリードオンリーで公開した。",
           "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22",
@@ -2566,6 +2876,36 @@
           "wordCount": 1048,
           "title": "2022年6月22日　RHEL互換OSのAlmaLinux，ディストリビューション/パッケージのビルドを自動化する「AlmaLinux Build Syatem」を公開 ── Linux Daily Topics",
           "imageUrl": "https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif"
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/06/2101",
+          "author": null,
+          "description": "（株）ソラコムは、年次カンファレンス「SORACOM Discovery 2022 Online」を、2022年7月6日（水）、7日（木）の2日間にわたり開催する。",
+          "link": "https://gihyo.jp/news/info/2022/06/2101?utm_source=feed",
+          "publishedOn": "2022-06-21T00:41:00.000Z",
+          "wordCount": 166,
+          "title": "ソラコム、オンライン年次カンファレンス「SORACOM Discovery 2022 Online」7/6、7に開催",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1891_soracom_discovery2022.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/technical_field/0005",
+          "author": null,
+          "description": "今回のテーマはVR（Virtual Reality）です。VRゲーム「アルトデウス」の開発者中地さんにユーザー体験のデザインや没入感、技術の魅力を伝えていただきます。",
+          "link": "https://gihyo.jp/dev/serial/01/technical_field/0005?utm_source=feed",
+          "publishedOn": "2022-06-21T00:15:00.000Z",
+          "wordCount": 281,
+          "title": "第5回　VRの魅力とエンジニアの情熱",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1904_neighboring-technical-field.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20",
+          "author": null,
+          "description": "ext4の遅延割り当て機能は、データがディスクに書き込まれる際に複数のブロックを連続した状態で確保できることから、パフォーマンス向上に大きな効果があるとされている。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20?utm_source=feed",
+          "publishedOn": "2022-06-20T02:55:00.000Z",
+          "wordCount": 148,
+          "title": "2022年6月20日　ワンライナーのお手本!? SUSEエンジニアが作成したext4のパフォーマンス改善パッチ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
         },
         {
           "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20",
@@ -2579,6 +2919,16 @@
         },
         {
           "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17",
+          "author": null,
+          "description": "Ubuntuの「組み込み向け」リリース、Ubuntu Core 22（22.04 LTSベース）がリリースされました。また、デスクトップ関連の開発ではこれまで「AD」という分類だったタスクが「Enterprise Desktop / AD」という名称に置き換えられています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17?utm_source=feed",
+          "publishedOn": "2022-06-17T00:48:00.000Z",
+          "wordCount": 516,
+          "title": "2022年6月17日号　Ubuntu Core 22のリリース、22.10（kinetic）の開発 / ”Enterprise Desktop”",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17",
           "author": "吉田史",
           "description": "Ubuntuの「組み込み向け」リリース，Ubuntu Core 22（22.04 LTSベース）がリリースされました。また，デスクトップ関連の開発ではこれまで「AD」という分類だったタスクが「Enterprise Desktop / AD」という名称に置き換えられています。",
           "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17",
@@ -2586,6 +2936,56 @@
           "wordCount": 619,
           "title": "2022年6月17日号　Ubuntu Core 22のリリース，22.10（kinetic）の開発 / ”Enterprise Desktop” ── Ubuntu Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2008/thumb/TH800_113_ubuntuTopi.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202",
+          "author": null,
+          "description": "今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」、（1）の続きです。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202?utm_source=feed",
+          "publishedOn": "2022-06-17T00:17:00.000Z",
+          "wordCount": 538,
+          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（2）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0601",
+          "author": null,
+          "description": "データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0601?utm_source=feed",
+          "publishedOn": "2022-06-16T03:00:00.000Z",
+          "wordCount": 318,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜",
+          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0601/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
+          "author": null,
+          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed",
+          "publishedOn": "2022-06-16T00:19:00.000Z",
+          "wordCount": 316,
+          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
+          "author": null,
+          "description": "次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed",
+          "publishedOn": "2022-06-16T00:18:00.000Z",
+          "wordCount": 196,
+          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719",
+          "author": null,
+          "description": "今回は、Ubuntu上でDocker Desktop for Linux（DD4L）を使う具体的な方法を、その機能と合わせて詳しく紹介していきましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719?utm_source=feed",
+          "publishedOn": "2022-06-15T00:56:00.000Z",
+          "wordCount": 519,
+          "title": "第719回　UbuntuでDocker Desktop for Linuxを使う",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0719/home.png"
         },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719",
@@ -2596,14 +2996,64 @@
           "wordCount": 378,
           "title": "第719回　UbuntuでDocker Desktop for Linuxを使う ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0719/thumb/TH800_home.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173",
+          "author": null,
+          "description": "今回は、何気なく使っている数字ですが、予期せず使っていて問題が起こってしまうことも多いため、MySQLで扱える整数型について紹介をしていきます。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173?utm_source=feed",
+          "publishedOn": "2022-06-14T01:12:00.000Z",
+          "wordCount": 493,
+          "title": "第173回　MySQLで整数型を扱ってみる",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
         }
       ]
     },
     {
-      "title": "gihyo.jp：DEVELOPER STAGE",
+      "title": "gihyo.jp",
       "feedUrl": "https://gihyo.jp/dev/feed/rss2",
-      "siteUrl": "https://gihyo.jp/dev",
+      "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220713",
+          "author": null,
+          "description": "Red Hatは7月12日（米国時間）、製品/テクノロジ部門のエグゼクティブバイスプレジデントを務めるMatt Hicksが同社の新CEO兼プレジデントに指名されたことを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220713?utm_source=feed",
+          "publishedOn": "2022-07-13T11:22:00.000Z",
+          "wordCount": 216,
+          "title": "2022年7月13日　Red Hat、新CEOにマット・ヒックスを指名、現CEOのポール・コーミアはチェアマンに",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
+          "author": null,
+          "description": "今回は、リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723?utm_source=feed",
+          "publishedOn": "2022-07-13T00:55:00.000Z",
+          "wordCount": 383,
+          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0723/ogp.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
+          "author": null,
+          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
+          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002?utm_source=feed",
+          "publishedOn": "2022-07-13T00:26:00.000Z",
+          "wordCount": 298,
+          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1890_cloud_operatr_dt2022_001.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
+          "author": null,
+          "description": "本章では、HTTP/3がどのようにQUICを利用し、効率良くHTTPメッセージをやりとりするかを説明します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0003?utm_source=feed",
+          "publishedOn": "2022-07-12T23:59:00.000Z",
+          "wordCount": 655,
+          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し、いかにして高速化を実現したか",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
         {
           "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175",
           "author": "深町日出海",
@@ -2613,6 +3063,166 @@
           "wordCount": 309,
           "title": "第175回　enforce_gtid_consistencyを設定しよう ── MySQL道普請便り",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175",
+          "author": null,
+          "description": "MySQLのレプリケーション機能は非常に便利で、冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175?utm_source=feed",
+          "publishedOn": "2022-07-12T00:15:00.000Z",
+          "wordCount": 309,
+          "title": "第175回　enforce_gtid_consistencyを設定しよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0002",
+          "author": null,
+          "description": "本章では、HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0002?utm_source=feed",
+          "publishedOn": "2022-07-12T00:00:00.000Z",
+          "wordCount": 563,
+          "title": "第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/monthly-python-2207",
+          "author": null,
+          "description": "今月から「Python Monthly Topics」と題して、毎月Python関連の話題になったトピックやツール、ライブラリなどを紹介していきたいと思います。第1回目はPython 3.10の新機能「構造化パターンマッチング（Structural Pattern Matching）」について紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/monthly-python-2207?utm_source=feed",
+          "publishedOn": "2022-07-11T11:22:00.000Z",
+          "wordCount": 548,
+          "title": "Python 3.10の新機能：構造化パターンマッチング",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/iot-engineer01",
+          "author": null,
+          "description": "本企画は「IoTエンジニアを目指すには」というテーマについて、ソラコムのエンジニアが全3回でお送りします。第1回は私から、そもそも「IoTエンジニア」とはなんなのかについてお話してみたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/iot-engineer01?utm_source=feed",
+          "publishedOn": "2022-07-11T11:22:00.000Z",
+          "wordCount": 192,
+          "title": "あなたの身近にある  IoTエンジニアに通じる数多の「道」",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1893_iot-engineer.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0001",
+          "author": null,
+          "description": "HTTP（Hypertext Transfer Protocol）の最新版であるHTTP/3が登場しました。HTTP/3では、より安全で速い通信が行えます。本特集では、今までのHTTPにあった課題と、HTTP/3で課題をどのように解決し、改善が行われたかを解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0001?utm_source=feed",
+          "publishedOn": "2022-07-11T06:19:00.000Z",
+          "wordCount": 467,
+          "title": "第1章 進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし、HTTP/3の基本を知る",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/gihyojp-renewal",
+          "author": null,
+          "description": "技術評論社のエンジニア向け情報サイト「gihyo.jp」は2022年7月11日、リニューアルを行いました。2007年のサイトオープン以来の大幅な更新になります。",
+          "link": "https://gihyo.jp/article/2022/07/gihyojp-renewal?utm_source=feed",
+          "publishedOn": "2022-07-11T04:33:40.000Z",
+          "wordCount": 153,
+          "title": "gihyo.jp、15年ぶりの大幅リニューアル！",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/news.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11",
+          "author": null,
+          "description": "Debianプロジェクトは7月9日、「Debian 11 ”bullseye”」の4回目のポイントリリースとなる「Debian 11.4」の公開を発表した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11?utm_source=feed",
+          "publishedOn": "2022-07-11T02:20:00.000Z",
+          "wordCount": 153,
+          "title": "2022年7月11日　Debian 11.4リリース、セキュリティアップデートが中心",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/design/serial/01/website-pickup/0172",
+          "author": null,
+          "description": "今回紹介するのは、イギリスの公共放送であるBBC（英国放送協会）が、アクセス制限されている国からでも情報を取得できるよう構築したウェブサイト、『BBC - Home』です。",
+          "link": "https://gihyo.jp/design/serial/01/website-pickup/0172?utm_source=feed",
+          "publishedOn": "2022-07-11T02:00:00.000Z",
+          "wordCount": 236,
+          "title": "第172回　BBC（英国放送協会）がロシアのウクライナ侵攻で見せた誇りとインターネットの“つながり”",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1907_website-pickup.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08",
+          "author": null,
+          "description": "Fedoraプロジェクトは7月6日、今秋リリース予定の「Fedora Linux 37」において、シングルボードコンピュータ「Raspberry Pi 4」をオフィシャルにサポートする方針を明らかにした。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08?utm_source=feed",
+          "publishedOn": "2022-07-08T01:41:00.000Z",
+          "wordCount": 173,
+          "title": "2022年7月8日　Fedora、次バージョンでRaspberry Pi 4をオフィシャルサポート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08",
+          "author": null,
+          "description": "Ubuntu 21.10（impish）は、7月14日にEOLを迎えます。これを踏まえて、現在まだunverifiedステータスで保留されているパッケージについて、重要なものは速やかに確認してほしいという呼びかけが行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08?utm_source=feed",
+          "publishedOn": "2022-07-08T00:57:00.000Z",
+          "wordCount": null,
+          "title": "2022年7月8日号　21.10のEOLに向けた取り組み、各リリースにおけるいろいろな取り組み",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0801",
+          "author": null,
+          "description": "2022年7月8日、BoostIO株式会社は、世界中のセキュリティリサーチャーへ脆弱性診断を依頼できるバグバウンティ（脆弱性報奨金制度）プラットフォーム「IssueHunt」を一般公開しました。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0801?utm_source=feed",
+          "publishedOn": "2022-07-08T00:20:00.000Z",
+          "wordCount": 184,
+          "title": "70万人が使うOSS向け報奨金サービスIssueHunt、バグバウンティ（脆弱性報奨金制度）プラットフォームを一般公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1901_IssueHant.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07",
+          "author": null,
+          "description": "2022年7月第2週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07?utm_source=feed",
+          "publishedOn": "2022-07-08T00:18:00.000Z",
+          "wordCount": 201,
+          "title": "2022年7月第2週　脱iPhone、Pixel 6 ProとMacの相性を考える",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0701",
+          "author": null,
+          "description": "（株）ソラコムは2022年7月6日（水）、7日（木）の2日間にわたって、年次カンファレンス「SORACOM Discovery 2022 ONLINE」を開催した。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0701?utm_source=feed",
+          "publishedOn": "2022-07-07T02:34:00.000Z",
+          "wordCount": 205,
+          "title": "Internet of Everywhere、そしてInternet of Everyoneへ ―ソラコム「SORACOM Discovery 2022」でカバレッジを広げる新たなプランやサービスを発表",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1896_soracom_discovery2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722",
+          "author": null,
+          "description": "今回はランサムウェアに屈しないため、UrBackupで簡単かつ確実にバックアップを取る方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722?utm_source=feed",
+          "publishedOn": "2022-07-06T01:00:00.000Z",
+          "wordCount": null,
+          "title": "第722回　UrBackupでお手軽ランサムウェア対策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/07/0401",
+          "author": null,
+          "description": "Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。",
+          "link": "https://gihyo.jp/news/info/2022/07/0401?utm_source=feed",
+          "publishedOn": "2022-07-04T02:55:00.000Z",
+          "wordCount": 169,
+          "title": "「Python Boot Camp」2022年9月3日に静岡県沼津市で開催",
+          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0101",
+          "author": null,
+          "description": "「U-22プログラミング・コンテスト2022」および「U-22キービジュアルコンテスト」の応募受付が7月1日から開始された。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0101?utm_source=feed",
+          "publishedOn": "2022-07-01T02:57:00.000Z",
+          "wordCount": 162,
+          "title": "U-22プログラミング・コンテスト2022／U-22キービジュアルコンテスト 応募受付開始",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1895_u22-contest.png"
         },
         {
           "id": "https://gihyo.jp/magazine/wdpress/serial/readers-forum/vol129",
@@ -2638,11 +3248,71 @@
           "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083",
           "author": null,
           "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083?utm_source=feed",
+          "publishedOn": "2022-07-01T00:21:00.000Z",
+          "wordCount": 445,
+          "title": "第83回　OCIコンソール上でのMySQL Shell、PostgreSQL 14.4の緊急リリースとPostgres Vision 2022",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1899_ossdb_vn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083",
+          "author": null,
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
           "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083",
           "publishedOn": "2022-07-01T00:21:00.000Z",
           "wordCount": 1121,
           "title": "第83回　OCIコンソール上でのMySQL Shell，PostgreSQL 14.4の緊急リリースとPostgres Vision 2022 ── OSSデータベース取り取り時報",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1433_oss-db-various-news.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041",
+          "author": null,
+          "description": "あっと言う間に2022年も半分が過ぎ、昨年末のHDDのクラッシュとサーバ回りの更新、それに合わせた最新版のSpamAssasinの導入からも約半年が経ったことになります。",
+          "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041?utm_source=feed",
+          "publishedOn": "2022-07-01T00:18:00.000Z",
+          "wordCount": 391,
+          "title": "第41回　SpamAssasinと最近の迷惑メール事情",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0602",
+          "author": null,
+          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jpおよび株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿ではこの輪読会の第2回の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0602?utm_source=feed",
+          "publishedOn": "2022-06-30T03:00:00.000Z",
+          "wordCount": 320,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート ～データ基盤システム編～",
+          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0602/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/06/2901",
+          "author": null,
+          "description": "エンジニアフレンドリーシティ福岡（EFC）は、開発コンテスト Engineer Driven Day を2022年から新たに開催する。",
+          "link": "https://gihyo.jp/news/info/2022/06/2901?utm_source=feed",
+          "publishedOn": "2022-06-29T02:04:00.000Z",
+          "wordCount": 163,
+          "title": "エンジニアフレンドリーシティ福岡 開発コンテスト「Engineer Driven Day」開催",
+          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721",
+          "author": null,
+          "description": "今回はDeskMeet B660とIntelの第12世代Core（Alder Lake）にUbuntuをインストールしてみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721?utm_source=feed",
+          "publishedOn": "2022-06-29T00:57:00.000Z",
+          "wordCount": null,
+          "title": "第721回　新型ベアボーンキットであるDeskMeetと最新CPUであるAlder Lakeで夢のパワフルUbuntuライフ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
+          "author": null,
+          "description": "MySQLでは、テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174?utm_source=feed",
+          "publishedOn": "2022-06-28T00:52:00.000Z",
+          "wordCount": 292,
+          "title": "第174回　MySQLのデータ暗号化いろいろ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
         },
         {
           "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
@@ -2655,6 +3325,76 @@
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
         },
         {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24",
+          "author": null,
+          "description": "jammy（22.04 LTS）向けに、「linux-nezha」と名付けられたカーネルフレーバーが登場しています。また、WSL2がWindows Serverにやってきました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24?utm_source=feed",
+          "publishedOn": "2022-06-24T01:08:00.000Z",
+          "wordCount": 301,
+          "title": "2022年6月24日号　「Nezha」用RISC-Vカーネルフレーバー、Windows ServerにおけるWSL2のサポート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23",
+          "author": null,
+          "description": "2022年6月第4週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23?utm_source=feed",
+          "publishedOn": "2022-06-23T00:11:00.000Z",
+          "wordCount": 210,
+          "title": "2022年6月第4週　Android 13 Beta 3.2がリリース、Android for Carsの最新事情",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/06/2201",
+          "author": null,
+          "description": "GitHubは6月22日、入力したコードとコメントから推論されるコードをAIを使って自動的に提案するツール「GitHub Copilot」を正式リリースした。",
+          "link": "https://gihyo.jp/news/nr/2022/06/2201?utm_source=feed",
+          "publishedOn": "2022-06-22T07:11:00.000Z",
+          "wordCount": 142,
+          "title": "GitHub、AIペアプログラマー「GitHub Copilot」を正式リリース",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1892_github_copilot.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720",
+          "author": null,
+          "description": "今回は、Ubuntuでベースのシステムは安定させつつ、アプリケーションは新しいバージョンを使用したい場合のセットアップ方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720?utm_source=feed",
+          "publishedOn": "2022-06-22T00:53:00.000Z",
+          "wordCount": 233,
+          "title": "第720回　Ubuntuの最小インストールとFlatpakでいつでも最新アプリ生活",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0720/03.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22",
+          "author": null,
+          "description": "AlmaLinux OS Foundationは6月20日、ディストリビューションやパッケージのビルドからリリースまでを自動化するシステム「AlmaLinux Build System」をリードオンリーで公開した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22?utm_source=feed",
+          "publishedOn": "2022-06-22T00:15:00.000Z",
+          "wordCount": 174,
+          "title": "2022年6月22日　RHEL互換OSのAlmaLinux、ディストリビューション/パッケージのビルドを自動化する「AlmaLinux Build System」を公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/06/2101",
+          "author": null,
+          "description": "（株）ソラコムは、年次カンファレンス「SORACOM Discovery 2022 Online」を、2022年7月6日（水）、7日（木）の2日間にわたり開催する。",
+          "link": "https://gihyo.jp/news/info/2022/06/2101?utm_source=feed",
+          "publishedOn": "2022-06-21T00:41:00.000Z",
+          "wordCount": null,
+          "title": "ソラコム、オンライン年次カンファレンス「SORACOM Discovery 2022 Online」7/6、7に開催",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/technical_field/0005",
+          "author": null,
+          "description": "今回のテーマはVR（Virtual Reality）です。VRゲーム「アルトデウス」の開発者中地さんにユーザー体験のデザインや没入感、技術の魅力を伝えていただきます。",
+          "link": "https://gihyo.jp/dev/serial/01/technical_field/0005?utm_source=feed",
+          "publishedOn": "2022-06-21T00:15:00.000Z",
+          "wordCount": 281,
+          "title": "第5回　VRの魅力とエンジニアの情熱",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1904_neighboring-technical-field.png"
+        },
+        {
           "id": "https://gihyo.jp/dev/serial/01/technical_field/0005",
           "author": "日高正博",
           "description": "今回のテーマはVR（Virtual Reality）です。VRゲーム「アルトデウス」の開発者中地さんにユーザー体験のデザインや没入感、技術の魅力を伝えていただきます。",
@@ -2663,6 +3403,36 @@
           "wordCount": 1059,
           "title": "第5回　VRの魅力とエンジニアの情熱 ── ちょっと気になる隣の技術畑",
           "imageUrl": "https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20",
+          "author": null,
+          "description": "ext4の遅延割り当て機能は、データがディスクに書き込まれる際に複数のブロックを連続した状態で確保できることから、パフォーマンス向上に大きな効果があるとされている。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20?utm_source=feed",
+          "publishedOn": "2022-06-20T02:55:00.000Z",
+          "wordCount": 148,
+          "title": "2022年6月20日　ワンライナーのお手本!? SUSEエンジニアが作成したext4のパフォーマンス改善パッチ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17",
+          "author": null,
+          "description": "Ubuntuの「組み込み向け」リリース、Ubuntu Core 22（22.04 LTSベース）がリリースされました。また、デスクトップ関連の開発ではこれまで「AD」という分類だったタスクが「Enterprise Desktop / AD」という名称に置き換えられています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17?utm_source=feed",
+          "publishedOn": "2022-06-17T00:48:00.000Z",
+          "wordCount": 516,
+          "title": "2022年6月17日号　Ubuntu Core 22のリリース、22.10（kinetic）の開発 / ”Enterprise Desktop”",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202",
+          "author": null,
+          "description": "今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」、（1）の続きです。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202?utm_source=feed",
+          "publishedOn": "2022-06-17T00:17:00.000Z",
+          "wordCount": 538,
+          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（2）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
         },
         {
           "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202",
@@ -2675,6 +3445,26 @@
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2010/thumb/TH800_616_perlhackershub.png"
         },
         {
+          "id": "https://gihyo.jp/news/report/2022/06/0601",
+          "author": null,
+          "description": "データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0601?utm_source=feed",
+          "publishedOn": "2022-06-16T03:00:00.000Z",
+          "wordCount": 318,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜",
+          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0601/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
+          "author": null,
+          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed",
+          "publishedOn": "2022-06-16T00:19:00.000Z",
+          "wordCount": 316,
+          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
+        },
+        {
           "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
           "author": "三島智一，和田智，尾形鉄次",
           "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
@@ -2683,6 +3473,36 @@
           "wordCount": 315,
           "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1） ── Perl Hackers Hub",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2010/thumb/TH800_616_perlhackershub.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
+          "author": null,
+          "description": "次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed",
+          "publishedOn": "2022-06-16T00:18:00.000Z",
+          "wordCount": 196,
+          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719",
+          "author": null,
+          "description": "今回は、Ubuntu上でDocker Desktop for Linux（DD4L）を使う具体的な方法を、その機能と合わせて詳しく紹介していきましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719?utm_source=feed",
+          "publishedOn": "2022-06-15T00:56:00.000Z",
+          "wordCount": 519,
+          "title": "第719回　UbuntuでDocker Desktop for Linuxを使う",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0719/home.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173",
+          "author": null,
+          "description": "今回は、何気なく使っている数字ですが、予期せず使っていて問題が起こってしまうことも多いため、MySQLで扱える整数型について紹介をしていきます。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173?utm_source=feed",
+          "publishedOn": "2022-06-14T01:12:00.000Z",
+          "wordCount": null,
+          "title": "第173回　MySQLで整数型を扱ってみる",
+          "imageUrl": null
         },
         {
           "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173",
@@ -2697,10 +3517,170 @@
       ]
     },
     {
-      "title": "gihyo.jp：LIFESTYLE STAGE",
+      "title": "gihyo.jp",
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
-      "siteUrl": "https://gihyo.jp/lifestyle",
+      "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220713",
+          "author": null,
+          "description": "Red Hatは7月12日（米国時間）、製品/テクノロジ部門のエグゼクティブバイスプレジデントを務めるMatt Hicksが同社の新CEO兼プレジデントに指名されたことを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220713?utm_source=feed",
+          "publishedOn": "2022-07-13T11:22:00.000Z",
+          "wordCount": null,
+          "title": "2022年7月13日　Red Hat、新CEOにマット・ヒックスを指名、現CEOのポール・コーミアはチェアマンに",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
+          "author": null,
+          "description": "今回は、リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723?utm_source=feed",
+          "publishedOn": "2022-07-13T00:55:00.000Z",
+          "wordCount": null,
+          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
+          "author": null,
+          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
+          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002?utm_source=feed",
+          "publishedOn": "2022-07-13T00:26:00.000Z",
+          "wordCount": 298,
+          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1890_cloud_operatr_dt2022_001.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
+          "author": null,
+          "description": "本章では、HTTP/3がどのようにQUICを利用し、効率良くHTTPメッセージをやりとりするかを説明します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0003?utm_source=feed",
+          "publishedOn": "2022-07-12T23:59:00.000Z",
+          "wordCount": 655,
+          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し、いかにして高速化を実現したか",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175",
+          "author": null,
+          "description": "MySQLのレプリケーション機能は非常に便利で、冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175?utm_source=feed",
+          "publishedOn": "2022-07-12T00:15:00.000Z",
+          "wordCount": 309,
+          "title": "第175回　enforce_gtid_consistencyを設定しよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0002",
+          "author": null,
+          "description": "本章では、HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0002?utm_source=feed",
+          "publishedOn": "2022-07-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/monthly-python-2207",
+          "author": null,
+          "description": "今月から「Python Monthly Topics」と題して、毎月Python関連の話題になったトピックやツール、ライブラリなどを紹介していきたいと思います。第1回目はPython 3.10の新機能「構造化パターンマッチング（Structural Pattern Matching）」について紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/monthly-python-2207?utm_source=feed",
+          "publishedOn": "2022-07-11T11:22:00.000Z",
+          "wordCount": null,
+          "title": "Python 3.10の新機能：構造化パターンマッチング",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/iot-engineer01",
+          "author": null,
+          "description": "本企画は「IoTエンジニアを目指すには」というテーマについて、ソラコムのエンジニアが全3回でお送りします。第1回は私から、そもそも「IoTエンジニア」とはなんなのかについてお話してみたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/iot-engineer01?utm_source=feed",
+          "publishedOn": "2022-07-11T11:22:00.000Z",
+          "wordCount": 192,
+          "title": "あなたの身近にある  IoTエンジニアに通じる数多の「道」",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1893_iot-engineer.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0001",
+          "author": null,
+          "description": "HTTP（Hypertext Transfer Protocol）の最新版であるHTTP/3が登場しました。HTTP/3では、より安全で速い通信が行えます。本特集では、今までのHTTPにあった課題と、HTTP/3で課題をどのように解決し、改善が行われたかを解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0001?utm_source=feed",
+          "publishedOn": "2022-07-11T06:19:00.000Z",
+          "wordCount": 467,
+          "title": "第1章 進化するHTTPの歩み ～ HTTP/1.1とHTTP/2をおさらいし、HTTP/3の基本を知る",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/gihyojp-renewal",
+          "author": null,
+          "description": "技術評論社のエンジニア向け情報サイト「gihyo.jp」は2022年7月11日、リニューアルを行いました。2007年のサイトオープン以来の大幅な更新になります。",
+          "link": "https://gihyo.jp/article/2022/07/gihyojp-renewal?utm_source=feed",
+          "publishedOn": "2022-07-11T04:33:40.000Z",
+          "wordCount": 153,
+          "title": "gihyo.jp、15年ぶりの大幅リニューアル！",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/news.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11",
+          "author": null,
+          "description": "Debianプロジェクトは7月9日、「Debian 11 ”bullseye”」の4回目のポイントリリースとなる「Debian 11.4」の公開を発表した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202207/11?utm_source=feed",
+          "publishedOn": "2022-07-11T02:20:00.000Z",
+          "wordCount": null,
+          "title": "2022年7月11日　Debian 11.4リリース、セキュリティアップデートが中心",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/design/serial/01/website-pickup/0172",
+          "author": null,
+          "description": "今回紹介するのは、イギリスの公共放送であるBBC（英国放送協会）が、アクセス制限されている国からでも情報を取得できるよう構築したウェブサイト、『BBC - Home』です。",
+          "link": "https://gihyo.jp/design/serial/01/website-pickup/0172?utm_source=feed",
+          "publishedOn": "2022-07-11T02:00:00.000Z",
+          "wordCount": null,
+          "title": "第172回　BBC（英国放送協会）がロシアのウクライナ侵攻で見せた誇りとインターネットの“つながり”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08",
+          "author": null,
+          "description": "Fedoraプロジェクトは7月6日、今秋リリース予定の「Fedora Linux 37」において、シングルボードコンピュータ「Raspberry Pi 4」をオフィシャルにサポートする方針を明らかにした。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202207/08?utm_source=feed",
+          "publishedOn": "2022-07-08T01:41:00.000Z",
+          "wordCount": 173,
+          "title": "2022年7月8日　Fedora、次バージョンでRaspberry Pi 4をオフィシャルサポート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08",
+          "author": null,
+          "description": "Ubuntu 21.10（impish）は、7月14日にEOLを迎えます。これを踏まえて、現在まだunverifiedステータスで保留されているパッケージについて、重要なものは速やかに確認してほしいという呼びかけが行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/08?utm_source=feed",
+          "publishedOn": "2022-07-08T00:57:00.000Z",
+          "wordCount": 362,
+          "title": "2022年7月8日号　21.10のEOLに向けた取り組み、各リリースにおけるいろいろな取り組み",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0801",
+          "author": null,
+          "description": "2022年7月8日、BoostIO株式会社は、世界中のセキュリティリサーチャーへ脆弱性診断を依頼できるバグバウンティ（脆弱性報奨金制度）プラットフォーム「IssueHunt」を一般公開しました。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0801?utm_source=feed",
+          "publishedOn": "2022-07-08T00:20:00.000Z",
+          "wordCount": 184,
+          "title": "70万人が使うOSS向け報奨金サービスIssueHunt、バグバウンティ（脆弱性報奨金制度）プラットフォームを一般公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1901_IssueHant.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07",
+          "author": null,
+          "description": "2022年7月第2週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07?utm_source=feed",
+          "publishedOn": "2022-07-08T00:18:00.000Z",
+          "wordCount": 201,
+          "title": "2022年7月第2週　脱iPhone、Pixel 6 ProとMacの相性を考える",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
         {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/07",
           "author": "傍島康雄",
@@ -2710,6 +3690,36 @@
           "wordCount": 1048,
           "title": "2022年7月第2週　脱iPhone，Pixel 6 ProとMacの相性を考える ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/07/0701",
+          "author": null,
+          "description": "（株）ソラコムは2022年7月6日（水）、7日（木）の2日間にわたって、年次カンファレンス「SORACOM Discovery 2022 ONLINE」を開催した。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0701?utm_source=feed",
+          "publishedOn": "2022-07-07T02:34:00.000Z",
+          "wordCount": 205,
+          "title": "Internet of Everywhere、そしてInternet of Everyoneへ ―ソラコム「SORACOM Discovery 2022」でカバレッジを広げる新たなプランやサービスを発表",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1896_soracom_discovery2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722",
+          "author": null,
+          "description": "今回はランサムウェアに屈しないため、UrBackupで簡単かつ確実にバックアップを取る方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0722?utm_source=feed",
+          "publishedOn": "2022-07-06T01:00:00.000Z",
+          "wordCount": 304,
+          "title": "第722回　UrBackupでお手軽ランサムウェア対策",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0722/ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/07/0401",
+          "author": null,
+          "description": "Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。",
+          "link": "https://gihyo.jp/news/info/2022/07/0401?utm_source=feed",
+          "publishedOn": "2022-07-04T02:55:00.000Z",
+          "wordCount": 169,
+          "title": "「Python Boot Camp」2022年9月3日に静岡県沼津市で開催",
+          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
         },
         {
           "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202207/0701",
@@ -2722,6 +3732,36 @@
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         },
         {
+          "id": "https://gihyo.jp/news/nr/2022/07/0101",
+          "author": null,
+          "description": "「U-22プログラミング・コンテスト2022」および「U-22キービジュアルコンテスト」の応募受付が7月1日から開始された。",
+          "link": "https://gihyo.jp/news/nr/2022/07/0101?utm_source=feed",
+          "publishedOn": "2022-07-01T02:57:00.000Z",
+          "wordCount": 162,
+          "title": "U-22プログラミング・コンテスト2022／U-22キービジュアルコンテスト 応募受付開始",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1895_u22-contest.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083",
+          "author": null,
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/dev/serial/01/oss-db-various-news/0083?utm_source=feed",
+          "publishedOn": "2022-07-01T00:21:00.000Z",
+          "wordCount": 445,
+          "title": "第83回　OCIコンソール上でのMySQL Shell、PostgreSQL 14.4の緊急リリースとPostgres Vision 2022",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1899_ossdb_vn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041",
+          "author": null,
+          "description": "あっと言う間に2022年も半分が過ぎ、昨年末のHDDのクラッシュとサーバ回りの更新、それに合わせた最新版のSpamAssasinの導入からも約半年が経ったことになります。",
+          "link": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041?utm_source=feed",
+          "publishedOn": "2022-07-01T00:18:00.000Z",
+          "wordCount": 391,
+          "title": "第41回　SpamAssasinと最近の迷惑メール事情",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0041",
           "author": "こじまみつひろ",
           "description": "あっと言う間に2022年も半分が過ぎ，昨年末のHDDのクラッシュとサーバ回りの更新，それに合わせた最新版のSpamAssasinの導入からも約半年が経ったことになります。",
@@ -2730,6 +3770,16 @@
           "wordCount": 1235,
           "title": "第41回　SpamAssasinと最近の迷惑メール事情 ── 続・玩式草子 ―戯れせんとや生まれけん―",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2018/thumb/TH800_1692_ganshiki-soushi-2.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0602",
+          "author": null,
+          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jpおよび株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿ではこの輪読会の第2回の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0602?utm_source=feed",
+          "publishedOn": "2022-06-30T03:00:00.000Z",
+          "wordCount": 320,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート ～データ基盤システム編～",
+          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0602/01.png"
         },
         {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/30",
@@ -2742,6 +3792,56 @@
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         },
         {
+          "id": "https://gihyo.jp/news/info/2022/06/2901",
+          "author": null,
+          "description": "エンジニアフレンドリーシティ福岡（EFC）は、開発コンテスト Engineer Driven Day を2022年から新たに開催する。",
+          "link": "https://gihyo.jp/news/info/2022/06/2901?utm_source=feed",
+          "publishedOn": "2022-06-29T02:04:00.000Z",
+          "wordCount": 163,
+          "title": "エンジニアフレンドリーシティ福岡 開発コンテスト「Engineer Driven Day」開催",
+          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721",
+          "author": null,
+          "description": "今回はDeskMeet B660とIntelの第12世代Core（Alder Lake）にUbuntuをインストールしてみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0721?utm_source=feed",
+          "publishedOn": "2022-06-29T00:57:00.000Z",
+          "wordCount": 838,
+          "title": "第721回　新型ベアボーンキットであるDeskMeetと最新CPUであるAlder Lakeで夢のパワフルUbuntuライフ",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0721/photo.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
+          "author": null,
+          "description": "MySQLでは、テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174?utm_source=feed",
+          "publishedOn": "2022-06-28T00:52:00.000Z",
+          "wordCount": 292,
+          "title": "第174回　MySQLのデータ暗号化いろいろ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24",
+          "author": null,
+          "description": "jammy（22.04 LTS）向けに、「linux-nezha」と名付けられたカーネルフレーバーが登場しています。また、WSL2がWindows Serverにやってきました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/24?utm_source=feed",
+          "publishedOn": "2022-06-24T01:08:00.000Z",
+          "wordCount": 301,
+          "title": "2022年6月24日号　「Nezha」用RISC-Vカーネルフレーバー、Windows ServerにおけるWSL2のサポート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23",
+          "author": null,
+          "description": "2022年6月第4週のAndroid関連のニュースをお届けします。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23?utm_source=feed",
+          "publishedOn": "2022-06-23T00:11:00.000Z",
+          "wordCount": 210,
+          "title": "2022年6月第4週　Android 13 Beta 3.2がリリース、Android for Carsの最新事情",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/23",
           "author": "傍島康雄",
           "description": "2022年6月第4週のAndroid関連のニュースをお届けします。",
@@ -2750,6 +3850,16 @@
           "wordCount": 1084,
           "title": "2022年6月第4週　Android 13 Beta 3.2がリリース，Android for Carsの最新事情 ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/nr/2022/06/2201",
+          "author": null,
+          "description": "GitHubは6月22日、入力したコードとコメントから推論されるコードをAIを使って自動的に提案するツール「GitHub Copilot」を正式リリースした。",
+          "link": "https://gihyo.jp/news/nr/2022/06/2201?utm_source=feed",
+          "publishedOn": "2022-06-22T07:11:00.000Z",
+          "wordCount": 142,
+          "title": "GitHub、AIペアプログラマー「GitHub Copilot」を正式リリース",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1892_github_copilot.png"
         },
         {
           "id": "https://gihyo.jp/lifestyle/clip/01/monthly-cat/202206/0622",
@@ -2762,6 +3872,106 @@
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2019/thumb/TH800_1729_neko2019.jpg"
         },
         {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720",
+          "author": null,
+          "description": "今回は、Ubuntuでベースのシステムは安定させつつ、アプリケーションは新しいバージョンを使用したい場合のセットアップ方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0720?utm_source=feed",
+          "publishedOn": "2022-06-22T00:53:00.000Z",
+          "wordCount": 233,
+          "title": "第720回　Ubuntuの最小インストールとFlatpakでいつでも最新アプリ生活",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0720/03.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22",
+          "author": null,
+          "description": "AlmaLinux OS Foundationは6月20日、ディストリビューションやパッケージのビルドからリリースまでを自動化するシステム「AlmaLinux Build System」をリードオンリーで公開した。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/22?utm_source=feed",
+          "publishedOn": "2022-06-22T00:15:00.000Z",
+          "wordCount": 174,
+          "title": "2022年6月22日　RHEL互換OSのAlmaLinux、ディストリビューション/パッケージのビルドを自動化する「AlmaLinux Build System」を公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/info/2022/06/2101",
+          "author": null,
+          "description": "（株）ソラコムは、年次カンファレンス「SORACOM Discovery 2022 Online」を、2022年7月6日（水）、7日（木）の2日間にわたり開催する。",
+          "link": "https://gihyo.jp/news/info/2022/06/2101?utm_source=feed",
+          "publishedOn": "2022-06-21T00:41:00.000Z",
+          "wordCount": 166,
+          "title": "ソラコム、オンライン年次カンファレンス「SORACOM Discovery 2022 Online」7/6、7に開催",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1891_soracom_discovery2022.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/technical_field/0005",
+          "author": null,
+          "description": "今回のテーマはVR（Virtual Reality）です。VRゲーム「アルトデウス」の開発者中地さんにユーザー体験のデザインや没入感、技術の魅力を伝えていただきます。",
+          "link": "https://gihyo.jp/dev/serial/01/technical_field/0005?utm_source=feed",
+          "publishedOn": "2022-06-21T00:15:00.000Z",
+          "wordCount": 281,
+          "title": "第5回　VRの魅力とエンジニアの情熱",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1904_neighboring-technical-field.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20",
+          "author": null,
+          "description": "ext4の遅延割り当て機能は、データがディスクに書き込まれる際に複数のブロックを連続した状態で確保できることから、パフォーマンス向上に大きな効果があるとされている。",
+          "link": "https://gihyo.jp/admin/clip/01/linux_dt/202206/20?utm_source=feed",
+          "publishedOn": "2022-06-20T02:55:00.000Z",
+          "wordCount": 148,
+          "title": "2022年6月20日　ワンライナーのお手本!? SUSEエンジニアが作成したext4のパフォーマンス改善パッチ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17",
+          "author": null,
+          "description": "Ubuntuの「組み込み向け」リリース、Ubuntu Core 22（22.04 LTSベース）がリリースされました。また、デスクトップ関連の開発ではこれまで「AD」という分類だったタスクが「Enterprise Desktop / AD」という名称に置き換えられています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202206/17?utm_source=feed",
+          "publishedOn": "2022-06-17T00:48:00.000Z",
+          "wordCount": 516,
+          "title": "2022年6月17日号　Ubuntu Core 22のリリース、22.10（kinetic）の開発 / ”Enterprise Desktop”",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202",
+          "author": null,
+          "description": "今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」、（1）の続きです。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007202?utm_source=feed",
+          "publishedOn": "2022-06-17T00:17:00.000Z",
+          "wordCount": 538,
+          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（2）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0601",
+          "author": null,
+          "description": "データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0601?utm_source=feed",
+          "publishedOn": "2022-06-16T03:00:00.000Z",
+          "wordCount": 318,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜",
+          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0601/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
+          "author": null,
+          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
+          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed",
+          "publishedOn": "2022-06-16T00:19:00.000Z",
+          "wordCount": null,
+          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
+          "author": null,
+          "description": "次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed",
+          "publishedOn": "2022-06-16T00:18:00.000Z",
+          "wordCount": 196,
+          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
           "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
           "author": "傍島康雄",
           "description": "次期Android OSとなるAndroid 13は，ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
@@ -2770,6 +3980,26 @@
           "wordCount": 298,
           "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に ── Android Weekly Topics",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719",
+          "author": null,
+          "description": "今回は、Ubuntu上でDocker Desktop for Linux（DD4L）を使う具体的な方法を、その機能と合わせて詳しく紹介していきましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0719?utm_source=feed",
+          "publishedOn": "2022-06-15T00:56:00.000Z",
+          "wordCount": 519,
+          "title": "第719回　UbuntuでDocker Desktop for Linuxを使う",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0719/home.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173",
+          "author": null,
+          "description": "今回は、何気なく使っている数字ですが、予期せず使っていて問題が起こってしまうことも多いため、MySQLで扱える整数型について紹介をしていきます。",
+          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0173?utm_source=feed",
+          "publishedOn": "2022-06-14T01:12:00.000Z",
+          "wordCount": 493,
+          "title": "第173回　MySQLで整数型を扱ってみる",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
         }
       ]
     },
@@ -2829,6 +4059,16 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_13/119808",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_security_fix_7031_6161_6051_5281_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby on Rails 7.0.3.1、6.1.6.1、6.0.5.1、5.2.8.1がリリースされました。 Happy Tuesday everyone! A set of releases has occurred! These releases address an important security issue, so please check it out! More information is here: https://t.co/EpxnsTJ3xt &#8212; Ruby on Rails (@rails) July 12, 2022 リリース情報: Ruby on Rails — Ra [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_13/119808\" data-wpel-link=\"internal\" target=\"_self\">Railsセキュリティ修正7.0.3.1、6.1.6.1、6.0.5.1、5.2.8.1がリリースされました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_13/119808",
+          "publishedOn": "2022-07-13T08:25:39.000Z",
+          "wordCount": 610,
+          "title": "Railsセキュリティ修正7.0.3.1、6.1.6.1、6.0.5.1、5.2.8.1がリリースされました",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_security_fix_7031_6161_6051_5281_eyecatch-min.png"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_12/119649",
           "author": null,
