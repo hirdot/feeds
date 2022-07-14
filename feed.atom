@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-14T09:01:40.722Z</updated>
+    <updated>2022-07-14T10:01:21.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -6042,65 +6042,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[MITテクノロジーレビュー［日本版］は印刷版マガジン『Vol.7 世界を変える10大技術2022年版』を6月15日に発売した。今号の狙いと主な内容を紹介する。]]></summary>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[送電網向け蓄電池は「需給ひっ迫」の危機を救えるか？]]></title>
-        <id>https://www.technologyreview.jp/?p=278252</id>
-        <link href="https://www.technologyreview.jp/s/278252/can-grid-storage-batteries-save-japans-power-supply-crisis/"/>
-        <updated>2022-06-14T21:50:00.000Z</updated>
-        <summary type="html"><![CDATA[太陽光発電や風力発電などの再生可能エネルギーの多くは、自然条件に左右される。化石燃料のように必要に応じて発電できるわけではないため、電力の安定供給には今後、蓄電システムの重要性が増してくる。世界の潮流が脱炭素へと向かう中、日本の蓄電池の現状を整理していく。]]></summary>
-        <author>
-            <name>Keiichi Motohashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server が SQL Server 2014 SP3 CU4 のサポートを開始]]></title>
-        <id>19bd7ce1aef1552a03ca429b37826a673618c785</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/"/>
-        <updated>2022-06-14T21:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft SQL Server の新しいマイナーバージョンが Amazon Relational Database Service (Amazon RDS) for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が提供されます。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Edition において、Microsoft SQL Server 2014 の新しいマイナーバージョンをサポートするようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で数回クリックするだけでデータをトレーニングセットとテストセットに分割することが可能に]]></title>
-        <id>8ead4e6ddce201eee21121af4a9670427633c1f1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/"/>
-        <updated>2022-06-14T21:33:50.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon SageMaker Data Wrangler でデータをトレーニングスプリットとテストスプリットに分割する機能の一般提供の開始を発表します。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Snowflake、および Databricks Delta Lake などの複数のデータソースからデータをすばやく選択できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Data Wrangler で利用できるようになったエクスポート機能により、これまでにない速度で Amazon SageMaker Feature Store に特徴量をエクスポート]]></title>
-        <id>5853e5036c0fb36295b59419273d2c319330eda5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/export-features-amazon-sagemaker-functionality-data-wrangler/"/>
-        <updated>2022-06-14T21:33:01.000Z</updated>
-        <summary type="html"><![CDATA[本日から、Amazon SageMaker Data Wrangler で利用できるようになったエクスポート機能により、これまでにない速度で Amazon SageMaker Feature Store に特徴量をエクスポートできるようになりました。Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴エンジニアリングのプロセスを簡素化し、データ選択、クレンジング、探索、視覚化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。SageMaker Data Wrangler のデータ選択ツールを使用すると、Amazon S3、Amazon Athena、Amazon Redshift、AWS Lake Formation、Amazon SageMaker Feature Store、および Snowflake などの複数のデータソースからデータをすばやく選択できます。Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、取得、共有するためのフルマネージド型の専用リポジトリです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理研など、ヘリウム3の磁気モーメントの超高精度決定に成功]]></title>
-        <id>https://www.technologyreview.jp/n/2022/06/14/278303/</id>
-        <link href="https://www.technologyreview.jp/n/2022/06/15/278303/"/>
-        <updated>2022-06-14T21:12:36.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が AWS GovCloud (米国) でライブ文字起こしのサポートを開始]]></title>
-        <id>47d44fe87c8ae473d791bc267c9e34fe9fc399e3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/"/>
-        <updated>2022-06-14T21:01:05.000Z</updated>
-        <summary type="html"><![CDATA[デベロッパーは AWS GovCloud (米国) リージョンで、Amazon Chime SDK のライブ文字起こしを使用して、ライブ音声の文字起こしができるようになりました。Amazon Chime SDK を使用すれば、デベロッパーはインテリジェントなリアルタイムでの音声、動画、画面共有を自身のウェブアプリケーションおよびモバイルアプリケーションに追加できます。AWS GovCloud (米国) により、米国政府関連機関や業者は、特定の規制およびコンプライアンス要件に対処しつつ、コミュニケーションワークロードをクラウドに移行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
