@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "679bcd58fd38ed36e4b153a894b402b70aa0fab8",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift にて、行レベルセキュリティ (RLS) のサポートが開始されました。RLS は、テーブル内の行への詳細なアクセスを、簡単に設計および実装するための新しい強化機能です。RLS を利用すれば、ユーザーのジョブロールまたはアクセス権限、およびデータの機密性レベルに基づき、テーブル内に存在する行のサブセットへのアクセスを、SQL コマンドを使用して制限することができます。Amazon Redshift をご使用のお客様は、列レベルのアクセス制御と RLS を組み合わせることで、データへのアクセスを細かく設定して、包括的な保護策を講じることが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/",
+          "publishedOn": "2022-07-15T13:34:39.000Z",
+          "wordCount": 320,
+          "title": "Amazon Redshift、行レベルセキュリティ (RLS) のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7330a6468ce7a2638e789915347952a88e5786d4",
+          "author": "aws@amazon.com",
+          "description": "Amazon Redshift Serverless の一般提供が開始されました。本サービスでは、分析の実行やスケーリングを、データウェアハウスクラスターのプロビジョニングや管理なしに行うことが可能です。Amazon Redshift Serverless により、データアナリスト、デベロッパー、データサイエンティストを含むすべてのユーザーが、Amazon Redshift を使用してほんの数秒でデータのインサイトを得られるようになりました。Amazon Redshift Serverless は、データウェアハウスの容量を自動的にプロビジョンし、インテリジェントにスケールして、すべての分析で高いパフォーマンスを発揮します。お支払いいただくのは、1 秒単位で計算される、ワークロードの期間中に使用したコンピューティングの料金のみです。既存の分析/ビジネスインテリジェンス用アプリケーションを変更することなく、シンプルにご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/",
+          "publishedOn": "2022-07-15T13:33:47.000Z",
+          "wordCount": 341,
+          "title": "Amazon Redshift Serverless の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f1f9893fea61925669e0a45882aae17e02294d5f",
+          "author": "aws@amazon.com",
+          "description": "AWS は、AWS Cloud WAN の一般提供を開始しました。本サービスは、統合されたグローバルネットワークの構築、管理、モニタリングを可能にするワイドエリアネットワーク (WAN) サービスです。 ご使用の AWS リソースとオンプレミス環境の間を流れるトラフィックを管理します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/",
+          "publishedOn": "2022-07-15T13:32:57.000Z",
+          "wordCount": 326,
+          "title": "AWS Cloud WAN の一般提供が開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ad2b5de2f270f89dfdc707ae5dd3e3041ac59d50",
+          "author": "aws@amazon.com",
+          "description": "反復可能なワークロードのクエリレイテンシーを短縮する、自動マテリアライズドビュー (AutoMV) の一般提供が Amazon Redshift で開始されました。AutoMV は、マテリアライズドビューを手動で作成し管理する手間を最小限に抑え、ユーザーが作成したマテリアライズドビューと同等のパフォーマンス上の利点をもたらします。主要業績指標 (KPI)、イベント、トレンドなどのメトリクスをすばやく確認するためのダッシュボードクエリといったワークロードで活用可能です。また、異なる頻度でスケジュールされたレポートクエリでも役立つ可能性があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/",
+          "publishedOn": "2022-07-15T13:32:06.000Z",
+          "wordCount": 313,
+          "title": "Amazon Redshift の自動マテリアライズドビューの一般提供が開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d26b4212d9e63d5b6ec541e665378f8c9e15456b",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru の新機能、ログ異常検出と推奨事項の一般提供が開始されました。この機能の一環として DevOps Guru は、アプリケーションを構成している AWS リソースの Amazon CloudWatch Logs を、まず Lambda から、取り込みます。ログは新しいエンリッチメントデータをインサイトに提供します。これにより、アプリケーションの問題の根本原因をより正確に把握することや、より厳密な修正策を施すことが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/",
+          "publishedOn": "2022-07-15T13:31:14.000Z",
+          "wordCount": 321,
+          "title": "Amazon DevOps Guru にログ異常検出機能と推奨事項機能が追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "94da2dc95132008c22c6f63c9ff245adc937608f",
           "author": "aws@amazon.com",
           "description": "AWS Firewall Manager は、共通のセキュリティグループポリシーを作成する際に、VPC セキュリティグループタグの一元的な配布をサポートするようになりました。",
@@ -1918,36 +1968,6 @@
           "wordCount": 414,
           "title": "【データ活用なんて簡単でR】エピソード2：一人でできる超簡単データ活用入門編",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_R_e2.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42125",
-          "author": "tadokoroyusuke",
-          "description": "XaaSとは？ 皆さんは『XaaS』という用語を見たことはありますか？XaaSは『ザース』とよばれ、『インターネットを通じてクラウドによって提供されるサービス全般』のことを指します。 XaaSの例として、SaaSやPaa […]",
-          "link": "https://data.wingarc.com/xaas_so_what-42125?utm_source=rss&utm_medium=rss&utm_campaign=xaas_so_what",
-          "publishedOn": "2022-06-16T06:59:43.000Z",
-          "wordCount": 718,
-          "title": "【似たような用語を整理しよう】 XaaSの基本からSaaS／IaaS／PaaSなど主要な用語を解説！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_SaaSIaaS.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42151",
-          "author": "tadokoroyusuke",
-          "description": "『〇X』という用語について 皆さんは『〇X』という用語を目にしたことがありますか？ 〇X系の用語には代表的なものとしてAX、BX、CX、DX、UXなどがあります。しかしこれらの〇X系の用語は日々生み出されているので、なか […]",
-          "link": "https://data.wingarc.com/ax_bx_cx_dx_ux_so_what-42151?utm_source=rss&utm_medium=rss&utm_campaign=ax_bx_cx_dx_ux_so_what",
-          "publishedOn": "2022-06-16T06:53:47.000Z",
-          "wordCount": 555,
-          "title": "【似たような用語を整理しよう】 AX、BX、CX、DX、UXついて網羅的に解説！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_axux.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=43090",
-          "author": "tadokoroyusuke",
-          "description": "DXプロジェクトは「変化の時代を生き抜く」を目的に企業だけでなく、全国の自治体でも取り組まれています。加賀市では、マイナンバーの登録者数が全国でもトップクラスになるほど積極的にDXを推進し「スマートシティ構想」の下、AI […]",
-          "link": "https://data.wingarc.com/localdxlab-17-ishikawa-43090?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-17-ishikawa",
-          "publishedOn": "2022-06-16T02:00:48.000Z",
-          "wordCount": 591,
-          "title": "消滅可能性都市から挑戦可能性都市へ 人との繋がりで連鎖する加賀市のDX",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/103bf82a791cbc74db71c7243f600d2e.jpg"
         }
       ]
     },
@@ -2885,36 +2905,6 @@
           "wordCount": null,
           "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（2）",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/news/report/2022/06/0601",
-          "author": null,
-          "description": "データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。",
-          "link": "https://gihyo.jp/news/report/2022/06/0601?utm_source=feed",
-          "publishedOn": "2022-06-16T03:00:00.000Z",
-          "wordCount": null,
-          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
-          "author": null,
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed",
-          "publishedOn": "2022-06-16T00:19:00.000Z",
-          "wordCount": 316,
-          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
-          "author": null,
-          "description": "次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed",
-          "publishedOn": "2022-06-16T00:18:00.000Z",
-          "wordCount": 196,
-          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3352,46 +3342,6 @@
           "wordCount": 553,
           "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（2） ── Perl Hackers Hub",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2010/thumb/TH800_616_perlhackershub.png"
-        },
-        {
-          "id": "https://gihyo.jp/news/report/2022/06/0601",
-          "author": null,
-          "description": "データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。",
-          "link": "https://gihyo.jp/news/report/2022/06/0601?utm_source=feed",
-          "publishedOn": "2022-06-16T03:00:00.000Z",
-          "wordCount": 318,
-          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜",
-          "imageUrl": "https://gihyo.jp/assets/images/news/report/2022/06/0601/01.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
-          "author": null,
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed",
-          "publishedOn": "2022-06-16T00:19:00.000Z",
-          "wordCount": null,
-          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
-          "author": "三島智一，和田智，尾形鉄次",
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
-          "publishedOn": "2022-06-16T00:19:00.000Z",
-          "wordCount": 315,
-          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1） ── Perl Hackers Hub",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2010/thumb/TH800_616_perlhackershub.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
-          "author": null,
-          "description": "次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed",
-          "publishedOn": "2022-06-16T00:18:00.000Z",
-          "wordCount": null,
-          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に",
-          "imageUrl": null
         }
       ]
     },
@@ -3819,46 +3769,6 @@
           "wordCount": 538,
           "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（2）",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
-        },
-        {
-          "id": "https://gihyo.jp/news/report/2022/06/0601",
-          "author": null,
-          "description": "データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。",
-          "link": "https://gihyo.jp/news/report/2022/06/0601?utm_source=feed",
-          "publishedOn": "2022-06-16T03:00:00.000Z",
-          "wordCount": null,
-          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201",
-          "author": null,
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed",
-          "publishedOn": "2022-06-16T00:19:00.000Z",
-          "wordCount": 316,
-          "title": "第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1905_perl-hackers-hub.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
-          "author": null,
-          "description": "次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed",
-          "publishedOn": "2022-06-16T00:18:00.000Z",
-          "wordCount": 196,
-          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
-          "author": "傍島康雄",
-          "description": "次期Android OSとなるAndroid 13は，ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。",
-          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202206/16",
-          "publishedOn": "2022-06-16T00:18:00.000Z",
-          "wordCount": 298,
-          "title": "2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に ── Android Weekly Topics",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2013/thumb/TH800_1152_awt.png"
         }
       ]
     },
@@ -4167,16 +4077,6 @@
           "wordCount": 414,
           "title": "Better Stimulusガイド 06: コントローラとDOMのマッパー（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/better_stimulus_controller_dom_mapper_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_16/118719",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_actioncable_zeitwerk-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails loads ActionCable via Zeitwerk &#124; Saeloun Blog 原文公開日: 2022/03/22 原著者: Swaathi Kakarla サイト: Saeloun Blog 注: この改修は、現時点ではmainブランチにマージされていますが、7-0-stableブランチにはまだ含まれていません。 Rails 7: Action CableがZeitwerkで読み込まれる（翻訳） Railsの読み込みは、Rails 6から組み込まれたZeitwerk gemによる新しく優れたオートロードに委ねられるようになりま [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_16/118719\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: Action CableがZeitwerkで読み込まれる（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_16/118719",
-          "publishedOn": "2022-06-16T08:30:29.000Z",
-          "wordCount": 383,
-          "title": "Rails 7: Action CableがZeitwerkで読み込まれる（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_actioncable_zeitwerk-min.png"
         }
       ]
     },
@@ -4444,16 +4344,6 @@
           "wordCount": 1217,
           "title": "国内クラウド市場規模、2021年の4兆2000億円から5年後の2026年には11兆円へ急成長。IDC Japan",
           "imageUrl": "https://www.publickey1.jp/2022/jcloudmarket2021idcjapan.gif"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/electronrusttauri10windowsmaclinux.html",
-          "author": null,
-          "description": "JavaScriptとHTML/CSSを用いてアプリケーションを構築できるElectronの代替を目指し、より軽量なフレームワークとして開発されている「Tauri」がバージョン1.0に到達し、正式リリースとなりました。 After 4 mo...",
-          "link": "https://www.publickey1.jp/blog/22/electronrusttauri10windowsmaclinux.html",
-          "publishedOn": "2022-06-16T09:11:05.000Z",
-          "wordCount": 232,
-          "title": "Electron代替を目指すRust製フレームワーク「Tauri」がバージョン1.0に到達、Windows/Mac/Linuxに対応",
-          "imageUrl": "https://www.publickey1.jp/2022/1eLlpu3M.jpg"
         }
       ]
     },
@@ -4622,6 +4512,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/16/280880/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/16/280880/",
+          "publishedOn": "2022-07-15T21:22:29.000Z",
+          "wordCount": 684,
+          "title": "マルチエージェント環境でのモデル学習を安定化＝電通大とCA",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=280602",
           "author": "Antonio Regalado",

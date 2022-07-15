@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T10:01:15.753Z</updated>
+    <updated>2022-07-15T22:01:24.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マルチエージェント環境でのモデル学習を安定化＝電通大とCA]]></title>
+        <id>https://www.technologyreview.jp/n/2022/07/16/280880/</id>
+        <link href="https://www.technologyreview.jp/n/2022/07/16/280880/"/>
+        <updated>2022-07-15T21:22:29.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift、行レベルセキュリティ (RLS) のサポートを開始]]></title>
+        <id>679bcd58fd38ed36e4b153a894b402b70aa0fab8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/"/>
+        <updated>2022-07-15T13:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift にて、行レベルセキュリティ (RLS) のサポートが開始されました。RLS は、テーブル内の行への詳細なアクセスを、簡単に設計および実装するための新しい強化機能です。RLS を利用すれば、ユーザーのジョブロールまたはアクセス権限、およびデータの機密性レベルに基づき、テーブル内に存在する行のサブセットへのアクセスを、SQL コマンドを使用して制限することができます。Amazon Redshift をご使用のお客様は、列レベルのアクセス制御と RLS を組み合わせることで、データへのアクセスを細かく設定して、包括的な保護策を講じることが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift Serverless の一般提供を開始]]></title>
+        <id>7330a6468ce7a2638e789915347952a88e5786d4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/"/>
+        <updated>2022-07-15T13:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Redshift Serverless の一般提供が開始されました。本サービスでは、分析の実行やスケーリングを、データウェアハウスクラスターのプロビジョニングや管理なしに行うことが可能です。Amazon Redshift Serverless により、データアナリスト、デベロッパー、データサイエンティストを含むすべてのユーザーが、Amazon Redshift を使用してほんの数秒でデータのインサイトを得られるようになりました。Amazon Redshift Serverless は、データウェアハウスの容量を自動的にプロビジョンし、インテリジェントにスケールして、すべての分析で高いパフォーマンスを発揮します。お支払いいただくのは、1 秒単位で計算される、ワークロードの期間中に使用したコンピューティングの料金のみです。既存の分析/ビジネスインテリジェンス用アプリケーションを変更することなく、シンプルにご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud WAN の一般提供が開始]]></title>
+        <id>f1f9893fea61925669e0a45882aae17e02294d5f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/"/>
+        <updated>2022-07-15T13:32:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、AWS Cloud WAN の一般提供を開始しました。本サービスは、統合されたグローバルネットワークの構築、管理、モニタリングを可能にするワイドエリアネットワーク (WAN) サービスです。 ご使用の AWS リソースとオンプレミス環境の間を流れるトラフィックを管理します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Redshift の自動マテリアライズドビューの一般提供が開始]]></title>
+        <id>ad2b5de2f270f89dfdc707ae5dd3e3041ac59d50</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/"/>
+        <updated>2022-07-15T13:32:06.000Z</updated>
+        <summary type="html"><![CDATA[反復可能なワークロードのクエリレイテンシーを短縮する、自動マテリアライズドビュー (AutoMV) の一般提供が Amazon Redshift で開始されました。AutoMV は、マテリアライズドビューを手動で作成し管理する手間を最小限に抑え、ユーザーが作成したマテリアライズドビューと同等のパフォーマンス上の利点をもたらします。主要業績指標 (KPI)、イベント、トレンドなどのメトリクスをすばやく確認するためのダッシュボードクエリといったワークロードで活用可能です。また、異なる頻度でスケジュールされたレポートクエリでも役立つ可能性があります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DevOps Guru にログ異常検出機能と推奨事項機能が追加]]></title>
+        <id>d26b4212d9e63d5b6ec541e665378f8c9e15456b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/"/>
+        <updated>2022-07-15T13:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DevOps Guru の新機能、ログ異常検出と推奨事項の一般提供が開始されました。この機能の一環として DevOps Guru は、アプリケーションを構成している AWS リソースの Amazon CloudWatch Logs を、まず Lambda から、取り込みます。ログは新しいエンリッチメントデータをインサイトに提供します。これにより、アプリケーションの問題の根本原因をより正確に把握することや、より厳密な修正策を施すことが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悪玉コレステロールを遺伝子編集で一生下げる、世界初の治験]]></title>
         <id>https://www.technologyreview.jp/?p=280602</id>
@@ -6041,167 +6100,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[地球温暖化の進行を遅らせるために、二酸化炭素を大量に吸収する農作物を作り出そうとする研究が始まった。遺伝子編集ツールのCRISPR（クリスパー）を使って光合成を微調整して植物の成長を早めたり、根系を大きく深くしたりするのだ。]]></summary>
         <author>
             <name>Casey Crownhart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron代替を目指すRust製フレームワーク「Tauri」がバージョン1.0に到達、Windows/Mac/Linuxに対応]]></title>
-        <id>https://www.publickey1.jp/blog/22/electronrusttauri10windowsmaclinux.html</id>
-        <link href="https://www.publickey1.jp/blog/22/electronrusttauri10windowsmaclinux.html"/>
-        <updated>2022-06-16T09:11:05.000Z</updated>
-        <summary type="html"><![CDATA[JavaScriptとHTML/CSSを用いてアプリケーションを構築できるElectronの代替を目指し、より軽量なフレームワークとして開発されている「Tauri」がバージョン1.0に到達し、正式リリースとなりました。 After 4 mo...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: Action CableがZeitwerkで読み込まれる（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_06_16/118719</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_06_16/118719"/>
-        <updated>2022-06-16T08:30:29.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_actioncable_zeitwerk-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails loads ActionCable via Zeitwerk &#124; Saeloun Blog 原文公開日: 2022/03/22 原著者: Swaathi Kakarla サイト: Saeloun Blog 注: この改修は、現時点ではmainブランチにマージされていますが、7-0-stableブランチにはまだ含まれていません。 Rails 7: Action CableがZeitwerkで読み込まれる（翻訳） Railsの読み込みは、Rails 6から組み込まれたZeitwerk gemによる新しく優れたオートロードに委ねられるようになりま [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_06_16/118719" data-wpel-link="internal" target="_self">Rails 7: Action CableがZeitwerkで読み込まれる（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【似たような用語を整理しよう】 XaaSの基本からSaaS／IaaS／PaaSなど主要な用語を解説！]]></title>
-        <id>https://data.wingarc.com/?p=42125</id>
-        <link href="https://data.wingarc.com/xaas_so_what-42125?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xaas_so_what"/>
-        <updated>2022-06-16T06:59:43.000Z</updated>
-        <summary type="html"><![CDATA[XaaSとは？ 皆さんは『XaaS』という用語を見たことはありますか？XaaSは『ザース』とよばれ、『インターネットを通じてクラウドによって提供されるサービス全般』のことを指します。 XaaSの例として、SaaSやPaa […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【似たような用語を整理しよう】 AX、BX、CX、DX、UXついて網羅的に解説！]]></title>
-        <id>https://data.wingarc.com/?p=42151</id>
-        <link href="https://data.wingarc.com/ax_bx_cx_dx_ux_so_what-42151?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ax_bx_cx_dx_ux_so_what"/>
-        <updated>2022-06-16T06:53:47.000Z</updated>
-        <summary type="html"><![CDATA[『〇X』という用語について 皆さんは『〇X』という用語を目にしたことがありますか？ 〇X系の用語には代表的なものとしてAX、BX、CX、DX、UXなどがあります。しかしこれらの〇X系の用語は日々生み出されているので、なか […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜]]></title>
-        <id>https://gihyo.jp/news/report/2022/06/0601</id>
-        <link href="https://gihyo.jp/news/report/2022/06/0601?utm_source=feed"/>
-        <updated>2022-06-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜]]></title>
-        <id>https://gihyo.jp/news/report/2022/06/0601</id>
-        <link href="https://gihyo.jp/news/report/2022/06/0601?utm_source=feed"/>
-        <updated>2022-06-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート 〜データ整備編〜]]></title>
-        <id>https://gihyo.jp/news/report/2022/06/0601</id>
-        <link href="https://gihyo.jp/news/report/2022/06/0601?utm_source=feed"/>
-        <updated>2022-06-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp及び株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、発表者だけでなく執筆者も参加し、書籍では扱えなかった内容についても議論が交わされました。本稿では輪読会の様子をダイジェストで紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消滅可能性都市から挑戦可能性都市へ 人との繋がりで連鎖する加賀市のDX]]></title>
-        <id>https://data.wingarc.com/?p=43090</id>
-        <link href="https://data.wingarc.com/localdxlab-17-ishikawa-43090?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=localdxlab-17-ishikawa"/>
-        <updated>2022-06-16T02:00:48.000Z</updated>
-        <summary type="html"><![CDATA[DXプロジェクトは「変化の時代を生き抜く」を目的に企業だけでなく、全国の自治体でも取り組まれています。加賀市では、マイナンバーの登録者数が全国でもトップクラスになるほど積極的にDXを推進し「スマートシティ構想」の下、AI […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed"/>
-        <updated>2022-06-16T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed"/>
-        <updated>2022-06-16T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1） ── Perl Hackers Hub]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201"/>
-        <updated>2022-06-16T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。]]></summary>
-        <author>
-            <name>三島智一，和田智，尾形鉄次</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第72回　初学者に伝えたい Perl学習の勘所 ―勉強会を10年運営して培ったノウハウ（1）]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007201?utm_source=feed"/>
-        <updated>2022-06-16T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは初学者のPerl学習を支援する勉強会「Perl入学式」の運営に携わっている尾形鉄次さん、和田智さん、三島智一さんで、テーマは「初学者に伝えたいPerl学習の勘所」です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/16</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed"/>
-        <updated>2022-06-16T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/16</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed"/>
-        <updated>2022-06-16T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/16</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/16?utm_source=feed"/>
-        <updated>2022-06-16T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[次期Android OSとなるAndroid 13は、ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第3週　セキュリティと使い勝手が強化！Android 13 Betaが安定版に ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/16</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/16"/>
-        <updated>2022-06-16T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[次期Android OSとなるAndroid 13は，ベータリリースの段階ですがAPIなどが最終版になった安定化バージョン「Android 13 Beta 3」が公開されました。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
     <entry>
