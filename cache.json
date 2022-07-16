@@ -3802,6 +3802,16 @@
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
         {
+          "id": "https://rubyonrails.org/2022/7/15/this-week-in-rails-rails-security-releases-improved-generator-option-handling-and-more-24774592",
+          "author": null,
+          "description": "Hi! Emmanuel here with updates from Rails over the last week. Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released! A few days ago Rails released versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1. These are security updates that impact applications that use serialised attributes on Active Record models. These updates, identified by CVE-2022-32224 cover a possible escalation to RCE when using YAML serialised columns in Active Record. Allow opting out of the SameSite cookie You can now opt out of using SameSite on your cookies by passing same_site: nil. Improve generator implied option handling AppGenerator and PluginGenerator implied options have gotten some improvements: Implied options will now be reported in your shell. Conflicting options will raise an error. Meta options and –no-* options are reported with more precision. Add Formatting Full Messages with I18n section in ActiveRecordValidations guides Rails Guides received some love. There’s now a section on the Active Record Validations guides to demonstrate how full validation messages can be formatted with the help of I18n. Add –parent option to job generator to specify parent class of job There’s now a superclass option in the job generator. It’s possible to do bin/rails g job process_payment –parent=payment_job to get class ProcessPaymentJob &lt; PaymentJob; end. Add include_seconds option to datetime_local_field According to input elements of type time browsers render time differently if you format time without the seconds bit. This PR adds an option to omit the seconds part of formatted time with include_seconds: false. Add timestamptz as a time zone aware type for PostgreSQL Previously, support for the timestamptz type on the Postgres adapter was added, this caused issues in some cases where the newly-added timestamptz was not considered timezone-aware attribute. This PR fixes the issue for Postgres users. Common Table Expression support added “out-of-the-box You can now build sophisticated queries with Common Table Expressions using the .with query method on models. The .with allows the usage of Active Record relations without the need to manually build Arel::Nodes::As nodes. Add ActiveRecord::Base::generates_token_for With this PR, signed_id is relieved of token generation. Token generation is now directly associated with a record allowing record state to be tracked easily. Add quarter to date/time DateAndTime::Calculations gets a new method, quarter, that returns the quarter of the receiver’s calendar year. Here are some examples: Date.new(2010, 12, 25).quarter # =&gt; 4 and Date.new(2010, 4, 12).quarter  # =&gt; 2. 32 people contributed to Rails since the last time. Until next time!",
+          "link": "https://rubyonrails.org/2022/7/15/this-week-in-rails-rails-security-releases-improved-generator-option-handling-and-more-24774592",
+          "publishedOn": "2022-07-15T00:00:00.000Z",
+          "wordCount": 859,
+          "title": "Rails security releases, Improved generator option handling and more…",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
+        {
           "id": "https://rubyonrails.org/2022/7/12/Rails-Versions-7-0-3-1-6-1-6-1-6-0-5-1-and-5-2-8-1-have-been-released",
           "author": null,
           "description": "Hi everyone!!! Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released!",
@@ -4512,6 +4522,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/16/280881/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/16/280881/",
+          "publishedOn": "2022-07-15T22:04:56.000Z",
+          "wordCount": 678,
+          "title": "がん免疫療法による臓器傷害、原因の一端を解明＝京大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/07/16/280880/",
           "author": "MIT Technology Review Japan",
@@ -5311,16 +5331,6 @@
           "wordCount": 705,
           "title": "アルファフォールド2が社会に与える「アルファ碁」以上のインパクト",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/17065151/shutterstock_1960985800-1181x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=278315",
-          "author": "Casey Crownhart",
-          "description": "地球温暖化の進行を遅らせるために、二酸化炭素を大量に吸収する農作物を作り出そうとする研究が始まった。遺伝子編集ツールのCRISPR（クリスパー）を使って光合成を微調整して植物の成長を早めたり、根系を大きく深くしたりするのだ。",
-          "link": "https://www.technologyreview.jp/s/278315/these-scientists-want-to-capture-more-carbon-with-crispr-crops/",
-          "publishedOn": "2022-06-16T10:00:55.000Z",
-          "wordCount": 653,
-          "title": "遺伝子編集で農作物の炭素回収能力を強化するプロジェクトが始動",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/14191504/Banfield-Rice-8139-1400x787.jpeg"
         }
       ]
     }
