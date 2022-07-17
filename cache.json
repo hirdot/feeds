@@ -1534,96 +1534,6 @@
           "wordCount": 312,
           "title": "Amazon SageMaker Canvas の新しいインタラクティブな製品ツアーとサンプルデータセットを使用してオンボーディングをスムーズに",
           "imageUrl": "https://a0.awsstatic.com/main/images/logos/aws_logo_smile_179x109.png"
-        },
-        {
-          "id": "e3dcb32ca6f33df1a9686fb6af9b800a3270a10e",
-          "author": "aws@amazon.com",
-          "description": "SageMaker Experiments で、SageMaker 上で実行されたトレーニングジョブの結果を理解するのに役立つ詳細なメトリクスやチャートのサポートを開始しました。Amazon SageMaker Experiments は、機械学習 (ML) を使用した実験を整理、追跡、比較、評価するのに役立つ Amazon SageMaker の機能です。本リリースにより、適合率と再現率 (PR) の曲線、受信者動作特性 (ROC 曲線)、および混同行列を表示できるようになりました。これらの曲線を使用すると、偽陽性と陰性、および SageMaker で学習済みのモデルのパフォーマンスと精度のトレードオフを把握することができます。複数のトレーニングの実行を比較したり、ユースケースに最適なモデルを特定したりすることも容易になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/",
-          "publishedOn": "2022-06-18T02:53:39.000Z",
-          "wordCount": 252,
-          "title": "Amazon SageMaker Experiments でモデルのトレーニング結果を可視化する一般的なチャートタイプのサポートを開始しました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cdbcb858a7393c05062443f138e43eb26cc8fc41",
-          "author": "aws@amazon.com",
-          "description": "Amazon Aurora PostgreSQL 互換エディションは、ラージオブジェクト (LO) モジュールをサポートするようになりました。LO モジュールは、ラージオブジェクト (LO や BLOB とも言われる) の管理をサポートします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/",
-          "publishedOn": "2022-06-18T02:52:50.000Z",
-          "wordCount": 249,
-          "title": "Amazon Aurora PostgreSQL が LO モジュールをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9fe9208f802b2cf793711ba4f30e36ebe8afdf82",
-          "author": "aws@amazon.com",
-          "description": "オープンソースコミュニティによる PostgreSQL データベースの更新の発表を受けて、Amazon Aurora PostgreSQL 互換エディションが更新され、PostgreSQL 13.7、12.11、11.16、10.21 がサポートされました。これらのリリースには、PostgreSQL コミュニティによるバグ修正と改善が含まれています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/",
-          "publishedOn": "2022-06-18T02:52:02.000Z",
-          "wordCount": 280,
-          "title": "Amazon Aurora は PostgreSQL 13.7、12.11、11.16、10.21 バージョンをサポートし、拡張機能を更新",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3a3d3240de058a05dbc59b5dcf70e1c2e666e101",
-          "author": "aws@amazon.com",
-          "description": "本日より、SageMaker Data Wrangler から SageMaker Autopilot を起動して、機械学習モデルを自動的にトレーニング、調整、構築できます。SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的にトレーニングおよび調整します。以前は Data Wrangler を使用して機械学習用のデータを準備し、Autopilot で機械学習モデルを個別にトレーニングしていました。この統合されたエクスペリエンスにより、SageMaker Data Wrangler で準備したデータを SageMaker Autopilot に簡単にエクスポートして、モデルトレーニングできるようになりました。数回クリックするだけで、機械学習モデルを自動的に構築、トレーニング、調整できます。これにより従来より簡単に、最先端の特徴量エンジニアリング技術を自動的に採用し、高品質な機械学習モデルをトレーニングして、データからより迅速にインサイトを得ることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/",
-          "publishedOn": "2022-06-18T02:51:14.000Z",
-          "wordCount": 287,
-          "title": "Amazon SageMaker Data Wrangler で、Amazon SageMaker Autopilot を使用したモデルトレーニングが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ced35c9629b4e401cdaeedd509bb001c63b298ae",
-          "author": "aws@amazon.com",
-          "description": "Amazon Transcribe は、音声をテキストに変換する機能をユーザーのアプリケーションに簡単に追加できるようにする自動音声認識 (ASR) サービスです。本日、Amazon Transcribe のストリーミング API が AWS GovCloud (米国) リージョンで利用可能となったことをお知らせいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-transcribe-real-time-streaming-aws-govcloud-us/",
-          "publishedOn": "2022-06-18T02:50:26.000Z",
-          "wordCount": 262,
-          "title": "Amazon Transcribe のリアルタイムストリーミングが AWS GovCloud (米国) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "59516ff4d0104cb66def027ade60fb1ec3dd70d0",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppFlow は、AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間のデータ転送をわずか数クリックで安全に行うことができる、フルマネージド型の統合サービスです。今回、Amazon AppFlow のソースに Salesforce Marketing Cloud のサポートが加わりました。Salesforce Marketing Cloud は、B2B および B2C のお客様を対象とする主要なマーケティングオートメーションプラットフォームとして、関連性の高いパーソナライズされたジャーニーをさまざまなチャネル間やデバイス間で企業が実現するのをサポートします。本リリースにより、AppFlow では Campaigns や Activities などの Salesforce Marketing Cloud のデータを AWS に取り込み、さらなる分析や強化を行えるようになります。本リリースでは、AppFlow の既存のデータ転送機能を用いて Salesforce のアプリケーションとの連携が構築されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/",
-          "publishedOn": "2022-06-18T02:48:24.000Z",
-          "wordCount": 265,
-          "title": "Amazon AppFlow のソースに Salesforce Marketing Cloud のサポートが加わりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ffcbf665d45917b82cb564740f587b1da5bf93a2",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect の予測、容量計画、スケジューリング (プレビュー) が、アジアパシフィック (シドニー) の AWS リージョンで利用可能になりました。機械学習機能により、コンタクトセンターのマネージャーがコンタクトボリュームと平均処理時間を高精度で予測するのが容易になり、理想的な人員配置レベルを決定し、エージェントスケジュールを最適化して、適切なエージェントを適切なタイミングで確保することができます。これは、企業がオペレーションを最適化し、サービスレベルの目標を達成し、エージェントと顧客の満足度を向上させるのに役立ちます。クリックするだけで使い始めることができ、カスタムアプリケーションを構築したり、サードパーティー製品と統合したりする必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/",
-          "publishedOn": "2022-06-18T02:45:20.000Z",
-          "wordCount": 236,
-          "title": "Amazon Connect の予測、容量計画、スケジューリングが AWS のアジアパシフィック (シドニー) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "683297bf2d7cc4d8701a19140da5152d3a355c2a",
-          "author": "aws@amazon.com",
-          "description": "Amazon Aurora PostgreSQL 互換エディションが、ダウンタイムなしのパッチ適用 (ZDP) に対応しました。ZDP により、新しいバージョンの PostgreSQL へのアップグレードや Aurora クラスターへのパッチ適用をダウンタイムなしで行えるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/",
-          "publishedOn": "2022-06-18T02:40:17.000Z",
-          "wordCount": 245,
-          "title": "Amazon Aurora PostgreSQL 互換エディションがダウンタイムなしのパッチ適用に対応しました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "730d8cdb4fc4ca7c15bfdafc2ebf9a604ff3c8b4",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Systems Manager Change Manager ServiceNow Connector を使用して、変更リクエストに対応する CloudTrail イベントログを表示できます。 この統合により、変更リクエストの影響を受けたリソースがわかりやすくなるため、変更リクエストの実行がよりはっきりと把握できます。AWS Systems Manager Change Manager を使用すると、AWS およびオンプレミスでのインフラストラクチャおよびアプリケーションの設定に対する運用上の変更リクエスト、承認、実行、報告をより簡単に行うことができます。AWS Service Management Connector を使用すると、変更リクエストを作成して承認し、ServiceNow コンソールでこれらの変更リクエストに関連付けられた CloudTrail イベントを取得して、AWS Change Manager との統合をさらに深めることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/",
-          "publishedOn": "2022-06-18T02:38:22.000Z",
-          "wordCount": 317,
-          "title": "AWS Systems Manager Change Manager 統合により、ServiceNow の変更リクエストに関連付けられた AWS CloudTrail イベントが表示されるようになりました。",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -4382,6 +4292,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=280864",
+          "author": "Tanya Basu",
+          "description": "人種問題や性的指向に関する本やカリキュラムを学校から排除しようとする運動が米国で過激化している。教員に対し、ソーシャルメディアでの発言を監視したり、暴言を浴びせたりする嫌がらせが相次ぎ、現実の暴力行為に発展するケースも出てきた。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/280864/the-book-ban-movement-has-a-chilling-new-tactic-harassing-teachers-on-social-media/",
+          "publishedOn": "2022-07-17T21:43:12.000Z",
+          "wordCount": 1206,
+          "title": "過激化する米国の禁書運動、教員に照準　ネット監視に威嚇発砲も",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/15183504/book-burn-librarian-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/07/16/280881/",
           "author": "MIT Technology Review Japan",
