@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-20T02:44:46.590Z</updated>
+    <updated>2022-07-20T03:31:11.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5836,76 +5836,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[Google Cloudは、これまで同社のハイブリッドクラウド戦略を実現する製品としてオンプレミス用に提供してきた「Anthos on-premises」の製品名を「Google Distributed Cloud Virtual」（GDC...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service のクロスリージョン検索のサポートを発表]]></title>
-        <id>6f7ecae3193b7fa42a4f0eac1def9ff609639448</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/"/>
-        <updated>2022-06-20T15:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service では、複数のリージョンにおけるクラスター間検索をサポートしました。これにより、異なるリージョンの複数のドメイン間において 1 回のクエリで検索、集計、可視化を実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family がサーバー設定のオプションを拡張し、幅広いクライアントに対応]]></title>
-        <id>2c282b30fa9dc88a6bbb683ebb6aeb2e720e1e07</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/"/>
-        <updated>2022-06-20T15:04:32.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Transfer Family では、SETSTAT コマンドの無視や TLS セッション再開の処理方法のカスタマイズを行えます。これらの新機能により、クライアント側の変更を何もすることなく、幅広いクライアントに対応できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Quicksight がテーブルやピボットテーブルの行と列のドラッグコントローラーを追加]]></title>
-        <id>f961e1e59bdf3a58bcf3f3f5d24edbdacd8d8ce1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/"/>
-        <updated>2022-06-20T15:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon QuickSight に、作成者と閲覧者がテーブルやピボットテーブルでドラッグコントローラーを柔軟に使用できるオプションが追加されました。作成者や閲覧者は、セル、行ヘッダー、列ヘッダー (ピボットテーブルの場合は親レベルとリーフレベルの両方にある) をドラッグすることで、列の幅を簡単に変更できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Service Catalog から属性ベースのアクセス制御 (ABAC) のサポートの発表]]></title>
-        <id>cdfa59d7a541ebfbbf41a92d6ef3ff5f3e0685f3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/"/>
-        <updated>2022-06-20T15:02:51.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービス (AWS) Service Catalog で、属性ベースのアクセス制御 (ABAC) のサポートが開始されました。これにより、お客様は Service Catalog でタグを使用して、AWS リソースへのアクセスと権限を容易に管理することができます。Service Catalog 管理者は、AWS Identity and Access Management (IAM) ポリシーを定義し、AWS リソースと IAM ユーザーまたはロール間で共有されるタグに基づいて、アクセス権の付与やよりきめ細かな権限の指定ができるようになりました。例えば、タグの照合に基づいて、IAM エンティティ (ユーザーやロールなど) による Service Catalog アカウントでのリソース作成を許可したり拒否したりできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Keyspaces が Amazon CloudWatch を使ったテーブルストレージ料金のモニタリングをサポート]]></title>
-        <id>2d4e79db1c3a0bc23e947083152e7ba2ece79948</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/"/>
-        <updated>2022-06-20T15:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルで可用性が高い、フルマネージドの Apache Cassandra 互換データベースサービスですが、今回、Amazon CloudWatch を使ってテーブルレベルのストレージ料金をモニタリングできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for SQL Server で、TDE が有効化された SQL Server データベースの移行をサポート]]></title>
-        <id>01f00e3641ee2051ada16436041f4698ce29a120</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/"/>
-        <updated>2022-06-20T15:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for SQL Server では、Native Backup/Restore for Microsoft SQL Server を使用して、TDE が有効化されたデータベースの移行をサポートしました。これまでは、Amazon RDS に移行するために、TDE が有効化されたオンプレミス SQL Server データベースでは TDE を無効にする必要がありました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Canvas の新しいインタラクティブな製品ツアーとサンプルデータセットを使用してオンボーディングをスムーズに]]></title>
-        <id>e1bbf2902ec4a7c61d3015900f39926610364dc1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/"/>
-        <updated>2022-06-20T14:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker Canvas の新しいインタラクティブな製品ツアーとさまざまなユースケースのサンプルデータセットを使用すれば、オンボーディングがスムーズになります。Amazon SageMaker Canvas は、ビジネスアナリストが自分で正確な機械学習 (ML) モデルを生成してインサイトと予測を入手できるようにするポイントアンドクリック式のビジュアルインターフェイスです。機械学習の経験やコードの記述はまったく必要ありません。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
