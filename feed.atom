@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T01:29:59.952Z</updated>
+    <updated>2022-07-22T02:46:09.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5602,86 +5602,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[米オラクルは、Oracle Cloudと同様の機能を備えたリージョンを企業が社内データセンター内に設けられる「OCI Dedicated Region」について、より小規模なラック数で対応することを発表しました。 オラクルは2020年に、顧...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On が欧州 (ミラノ) リージョンで利用可能に]]></title>
-        <id>fdbcda15542b8442762efa8f9f670ba23310a2d3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/"/>
-        <updated>2022-06-22T14:18:10.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On (AWS SSO) が欧州 (ミラノ) リージョンでご利用いただけるようになりました。AWS SSO が利用可能なリージョンの詳細な一覧については、AWS リージョン別のサービス一覧をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS コンソール内から Amazon DevOps Guru for RDS を有効化]]></title>
-        <id>75e699be4e331887a93bd8bec2a2eb5d44ea95fc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/"/>
-        <updated>2022-06-22T14:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DevOps Guru for RDS は、Amazon RDS コンソール内から使用可能に設定できるようになりました。本日より、Amazon DevOps Guru for RDS を有効化することができ、Amazon Aurora データベースで新しいデータベースを作成しつつ、さまざまなデータベース関連の問題をすばやく検出、診断、修正できます。 また、RDS Performance Insights ページ内からも、Amazon DevOps Guru for RDS を有効化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect でエージェントの現在のアクティビティを取得する API をリリース]]></title>
-        <id>d892ee61d47eda4c82da3d3d4efe39a499482423</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/"/>
-        <updated>2022-06-22T14:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、現在のステータス (例: 「対応可能」) など、エージェントの現在のアクティビティに関するリアルタイムの詳細情報にプログラムを使ってアクセスする API の提供を開始しました。エージェントが問い合わせ処理中の場合、その詳細情報には、問い合わせの状態 (例: 「接続済み」や「失敗」) と継続時間が含まれます。企業は、この API を使用して、コンタクトセンターの管理者向けのカスタムダッシュボードを作成し、エージェントのアクティビティをリアルタイムでモニタリングできます。例えば、問い合わせ処理にさらに多くのエージェントが必要になった場合、この新しい API を使用して、長い間、休憩しているエージェントを特定し、そのエージェントに連絡して「対応可能」に切り替えてもらうことや、PutUserStatus を使用してプログラムで変更することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Config が新たなリソースタイプ 15 種類のサポートを開始]]></title>
-        <id>8d53e1e424d394c6f3e6f44dcedea4b8619492db</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/"/>
-        <updated>2022-06-22T14:04:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS Config は、Amazon SageMaker、Elastic Load Balancing、AWS Batch、AWS Step Functions、AWS Identity and Access Management Access Analyzer、Amazon WorkSpaces、Amazon Route 53 Resolver、Amazon Managed Streaming for Apache Kafka、AWS Database Migration Service を含む、新たなリソースタイプ 15 種類のサポートを開始しました。新たにサポートされるリソースタイプの一覧については、[1] をご覧ください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon OpenSearch Service now supports tag-based authorization for data read and write operations (Amazon OpenSearch Service でデータの読み取り/書き込みオペレーションにタグベースの認可をサポート)]]></title>
-        <id>682cab4d9068b04f8ff71e0b7433d916ec918747</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/"/>
-        <updated>2022-06-22T14:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Amazon OpenSearch Service で HTTP メソッドにタグベースの認可がサポートされるようになりました。これにより、データの読み取り/書き込みオペレーションのアクセスコントロールの管理が容易になりました。AWS Identity and Access Management (IAM) でアイデンティティポリシーを使用して、読み取り/書き込みを行う HTTP メソッドのアクセス許可を定義することにより、Amazon OpenSearch Service ドメインのデータの大まかなアクセスコントロールが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Budgets の UI の改善]]></title>
-        <id>09a49967dc265f48880d594212273e1bae788258</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/"/>
-        <updated>2022-06-22T14:02:51.000Z</updated>
-        <summary type="html"><![CDATA[AWS Budgets のコンソールの使用感を改善するため、分割ビューパネルをコンソールに追加しました。これにより、予算の概要ページから離れずに、予算の詳細を確認できるようになりました。AWS Budgets は、AWS のコストと使用状況を管理するのに役立ちます。カスタム予算を設定すると、クラウドの支出が予算額を超えた時 (または超えることが予想される時) にアラートが届きます。AWS Budgets では Savings Plans や Reservation アラートを設定し、使用率やカバレッジのターゲットが希望のしきい値を下回った時に通知を受け取ることもできます。AWS Budgets は、すべての AWS パブリックリージョンで一般提供を開始しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK で 100 本のウェブカム動画ストリームのサポートを開始]]></title>
-        <id>6b058b2ca7842473e2c0f953f808b32b450ba7f6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-100-webcam-video-streams/"/>
-        <updated>2022-06-22T14:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK で、WebRTC セッションあたり 100 本のウェブカム動画ストリームのサポートが開始されました。Amazon Chime SDK を使用すると、インテリジェントなリアルタイムでの音声、動画、画面共有を開発者が自身のウェブアプリケーションやモバイルアプリケーションに追加することができます。各クライアントアプリケーションでは表示するウェブカム動画ストリームを 25 本まで選択でき、ユーザーごとにカスタマイズ可能な没入型の動画エクスペリエンスを創出できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Elastic Beanstalk がアジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>a874bb2af2b957bdad61b05077c5a3b87c5bbda9</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-elastic-beanstalk-jakarta-region/"/>
-        <updated>2022-06-22T14:01:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Elastic Beanstalk を利用することで、お客様は基盤となるインフラを管理しなくても、ウェブアプリケーションやサービスをデプロイし、スケーリングできます。Elastic Beanstalk は、特定のニーズに基づいてアプリケーションを自動的に拡大および縮小します。本日より、アジアパシフィック (ジャカルタ) リージョンで、AWS Elastic Beanstalk によってオーケストレーションされたアプリケーションを実行できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
