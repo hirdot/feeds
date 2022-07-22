@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T10:01:06.748Z</updated>
+    <updated>2022-07-22T22:01:23.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -45,6 +45,16 @@
         <summary type="html"><![CDATA[鳥取県は、中国地方の北東部に位置し、日本海側にあり、山陰地方の東側を占める地域です。 東西約120ｋｍ、南北約20～50ｋｍと、東西にやや細長く、鳥取砂丘をはじめとする白砂青松の海岸線が続き、南には、中国地方の最高峰・大 […]]]></summary>
         <author>
             <name>石川麻里</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bugfixes, performance improvements and more!]]></title>
+        <id>https://rubyonrails.org/2022/7/22/this-week-in-rails-bugfixes-performance-improvements-and-more-424e272d</id>
+        <link href="https://rubyonrails.org/2022/7/22/this-week-in-rails-bugfixes-performance-improvements-and-more-424e272d"/>
+        <updated>2022-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Greg, bringing you the latest news from the Rails world.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
@@ -5401,140 +5411,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[Amazon Connect Cases は、組み込み型のケース管理機能を提供し、複数のお客様との会話やフォローアップタスクを必要とするお客様の問題を、コンタクトセンターのエージェントが簡単に作成、コラボレーション、迅速な解決を行えるようにします。カスタムアプリケーションを構築したり、サードパーティー製品と統合したりする必要はありません。Cases を使用すると、エージェントはお客様のケースに関連するすべてのアクティビティを、統一されたタイムラインビューで確認できます。それには複数のエージェントに割り当てて追跡できる個々のタスクも含まれます。また、ケース情報を使用して、セルフサービス IVR やチャットボットインタラクションでお客様の質問に答えることもできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_06_23/50109</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_06_23/50109"/>
-        <updated>2022-06-23T09:05:17.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2017/12/ruby_malloc_can_double_multithreaded_ruby_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Malloc Can Double Multi-threaded Ruby Program Memory Usage 原文公開日: 2017/12/04 著者: Nate Berkopec &#8212; 『Complete Guide to Rails Performance』の著者です。 「スレッド単位メモリアリーナ」（per-thread memory arena）は定訳が見当たらないため仮訳を当てています。 楽しい画像はすべて英語記事からの引用です。 Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由（翻訳） 要約 メモリ断 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_06_23/50109" data-wpel-link="internal" target="_self">Ruby: mallocでマルチスレッドプログラムのメモリが倍増する理由（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: Active Modelにパターンマッチングが追加（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_06_23/119108</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_06_23/119108"/>
-        <updated>2022-06-23T08:30:23.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_pattern_matching_active_model_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails now provides pattern matching support for ActiveModel &#124; Saeloun Blog 原文公開日: 2022/06/08 原著者: Keshav Biswa サイト: Saeloun Blog 参考: 週刊Railsウォッチ20220516 Active Modelでパターンマッチングを利用可能に #45035は、現時点の7-0-stableブランチにはまだ含まれていません。 Rails 7: Active Modelにパターンマッチングが追加（翻訳） Ruby 2.7でリリースされた最も [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_06_23/119108" data-wpel-link="internal" target="_self">Rails 7: Active Modelにパターンマッチングが追加（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「招かざる客」 ビットコイン採掘業者が 町に残した爪痕]]></title>
-        <id>https://www.technologyreview.jp/?p=278280</id>
-        <link href="https://www.technologyreview.jp/s/278280/how-bitcoin-mining-devastated-this-new-york-town/"/>
-        <updated>2022-06-23T05:58:20.000Z</updated>
-        <summary type="html"><![CDATA[暗号通貨の採掘（マイニング）は地域社会に大きな影響を与えている。採掘業者は電気代が低い地域を狙って進出し、大量のサーバーを稼働させることで暗号通貨を採掘し続ける。暗号通貨採掘業者に翻弄された人口3万人の米国の小さな町を訪れた。 		
-
-こちらは会員限定の記事です。
-メールアドレスの登録で続きを読めます。
-
-
-会員登録して読む
-
-ログインして読む
-
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-
-
-
-
-
-
-こちらは有料会員限定の記事です。
-有料会員になると制限なしにご利用いただけます。
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-購読キャンペーン実施中]]></summary>
-        <author>
-            <name>Lois Parshley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSpecで引数に特定の値が渡された時だけスタブしたい]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/rspec-stub</id>
-        <link href="https://blog.agile.esm.co.jp/entry/rspec-stub"/>
-        <updated>2022-06-23T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[はじめに こんにちは。入社して4年目になりました、wai-doi です。 お仕事でRSpecでテストを書いていて、 「引数に特定の値が渡された時だけスタブしたい」 ということがありました。そのときどのように書けばよいか分からなかったので、今回は調べたこととその方法を書きます。 実行環境 Ruby 3.1.2 RSpec 3.11.0 サンプルコード 例えば以下の Shopper#buy_fruits メソッドのテストをしたいとします。単純に配列の ['apple', 'banana', 'orange'] を返します。 class Shopper def buy_fruits(shop) ba…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第4週　Android 13 Beta 3.2がリリース、Android for Carsの最新事情]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/23</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/23?utm_source=feed"/>
-        <updated>2022-06-23T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年6月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第4週　Android 13 Beta 3.2がリリース、Android for Carsの最新事情]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/23</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/23?utm_source=feed"/>
-        <updated>2022-06-23T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年6月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第4週　Android 13 Beta 3.2がリリース、Android for Carsの最新事情]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/23</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/23?utm_source=feed"/>
-        <updated>2022-06-23T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年6月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月第4週　Android 13 Beta 3.2がリリース，Android for Carsの最新事情 ── Android Weekly Topics]]></title>
-        <id>https://gihyo.jp/lifestyle/clip/01/awt/202206/23</id>
-        <link href="https://gihyo.jp/lifestyle/clip/01/awt/202206/23"/>
-        <updated>2022-06-23T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年6月第4週のAndroid関連のニュースをお届けします。]]></summary>
-        <author>
-            <name>傍島康雄</name>
         </author>
     </entry>
     <entry>
