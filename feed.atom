@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T07:02:26.547Z</updated>
+    <updated>2022-07-22T08:01:18.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5552,46 +5552,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <updated>2022-06-22T21:14:26.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 C6gn インスタンスをご利用いただけるリージョンが増加]]></title>
-        <id>7619fc26a30a6d49ba8f3c9a549ea76bd7772049</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/"/>
-        <updated>2022-06-22T19:34:15.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 C6gn インスタンスが欧州 (パリ、ミラノ)、アジアパシフィック (ソウル)、中東 (バーレーン) の各リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBS スナップショットおよび EBS-backed AMI の AWS ごみ箱が、保持ルールを管理するための IAM 条件キーに対応]]></title>
-        <id>fd4f30e6a389cce6db1b029e42b6cef0a5aef425</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/"/>
-        <updated>2022-06-22T19:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Identity and Access Management (IAM) 条件キーを使用して、ごみ箱に作成した保持ルールに許可するリソースタイプを指定できるようになりました。ごみ箱では、削除した EBS スナップショットや EBS-backed AMI を一定期間保持できるため、誤って削除してしまった場合でも復元できます。1 つ以上の保持ルールを作成することにより、アカウント内の全部または一部のスナップショットまたは AMI に対してごみ箱を有効にできます。それぞれのルールでは、保持期間も指定できます。削除された EBS スナップショットまたは登録解除された AMI は、保持期間が終了する前であれば、ごみ箱から復元できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Lookout for Metrics で通知を簡単にカスタマイズ]]></title>
-        <id>5ae28937942d2984e665d9b711fc08d4c490de7b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/"/>
-        <updated>2022-06-22T19:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lookout for Metrics の使用時に、アラートのフィルター機能と既存アラートの編集機能を追加できるようになったことをお知らせします。このリリースにより、アラート設定にフィルター機能を追加して、自分にとって最も重要な異常の通知のみを受信できるようになります。また、異常の変化による通知のニーズに応じて既存アラートを簡単に修正できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 VT1 が、GStreamer と 10 ビット動画トランスコーディングを可能にする AMD-Xilinx Video SDK 2.0 をサポート]]></title>
-        <id>71354fc6924acd304494da295acb0168d28d9e37</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/"/>
-        <updated>2022-06-22T19:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon EC2 VT1 インスタンスが AMD-Xilinx Video SDK 2.0 をサポートするようになりました。これにより、GStreamer、10 ビット HDR 動画、動的エンコーダーのパラメータがサポートされます。この新しいバージョンでは、新機能に加え、4k 動画の画質向上、FFmpeg の新バージョン (4.4) のサポート、OS/カーネルサポートの拡大、バグ修正などが行われています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
