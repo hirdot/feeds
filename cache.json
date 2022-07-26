@@ -6,6 +6,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "0c0059bee0d6256d9d525ad8f8d3515725acf3a1",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 の C6i、M6i、R6i インスタンスが欧州 (ストックホルム、ミラノ) およびアジアパシフィック (香港) で利用可能になります。さらに、Amazon EC2 の C6i、M6i インスタンスは中東 (バーレーン) で、R6i インスタンスは欧州 (フランクフルト) で利用可能になります。これらのインスタンスはオールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、幅広いワークロードにおいて同等の Gen5 インスタンスと比較して最大 15％ 向上したコンピューティングプライスパフォーマンス、およびインテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/",
+          "publishedOn": "2022-07-26T20:19:32.000Z",
+          "wordCount": 415,
+          "title": "Amazon EC2 の C6i、M6i、R6i インスタンスを利用できるリージョンが拡大",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8283463151b959d58f0125e8fa01d04d83a2fac6",
+          "author": "aws@amazon.com",
+          "description": "Amazon Interactive Video Service (Amazon IVS) のウェブブロードキャスト SDK を使用すると、ウェブブラウザのライブ動画をキャプチャし、Amazon IVS チャネルに入力として送信することができます。この入力内容は新規または既存のウェブサイトに設置できます。ウェブブラウザは、デスクトップ版とモバイル版の両方をサポートします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/",
+          "publishedOn": "2022-07-26T20:17:52.000Z",
+          "wordCount": 333,
+          "title": "Amazon Interactive Video Service がウェブブロードキャスト SDK を搭載",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "95935cbeb94b837c9c5d63a382a47d5521eba1e3",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall が Amazon 仮想プライベートクラウド (VPC) のプレフィックスリストのサポートを開始し、VPC 全体のファイアウォールルールおよびポリシー管理を簡素化できるようになりました。プレフィックスリストを使用すると、1 つ以上の CIDR ブロックを単一のオブジェクトにグループ化できます。プレフィックスリストで頻繁に使用する IP アドレスをグループ化し、AWS Network Firewall ルールグループでこのリストを参照できます。以前はネットワークをスケーリングして新しい IP アドレスを追加するときに、個々のファイアウォールルールを更新する必要がありましたが、これには時間がかかり、エラーが発生しがちでした。今回のリリースでは、関連するプレフィックスリストを更新すると、そのプレフィックスリストを参照するすべての AWS Network Firewall ルールグループが自動的に更新されるようになりました。ネットワークを拡張するときにプレフィックスリストを使用して、同じ AWS リージョンの複数の VPC とアカウントにまたがるファイアウォールルールグループとポリシーの管理を簡素化できます。AWS が管理するプレフィックスリストを使用することも、独自のプレフィックスリストを作成して管理することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-network-firewall-vpc-prefix-lists/",
+          "publishedOn": "2022-07-26T20:17:03.000Z",
+          "wordCount": 328,
+          "title": "AWS Network Firewall が VPC プレフィックスリストのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bd9d2633780a0f28452c5eaf5048fc497b9ea1ab",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Fraud Detector (AFD) が Account Takeover Insight (ATI) モデルのサポートを開始しました。これは盗まれた認証情報、フィッシング、ソーシャルエンジニアリング、その他の形態のアカウント乗っ取りによって侵害されたアカウントを検出するために特別に設計された低レイテンシーの不正検出の機械学習 (ML) モデルです。この ATI モデルは、従来のルールベースのアカウント乗っ取りソリューションに比べて最大 4 倍多く ATI 不正を検出しながら、正当なユーザーへの負荷レベルも最小限に抑えるように設計されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/",
+          "publishedOn": "2022-07-26T20:01:15.000Z",
+          "wordCount": 326,
+          "title": "Amazon Fraud Detector が Account Takeover Insight (ATI) を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ac2cb75c9574e9c83ce984078f6ae03ce2582495",
+          "author": "aws@amazon.com",
+          "description": "AWS Single Sign-On (AWS SSO) は AWS Identity and Access Management (IAM) カスタマー管理ポリシー (CMP) と AWS SSO アクセス許可セットのアクセス許可の境界ポリシーのサポートを開始しました。この新機能により、AWS SSO のユーザーは最小特権でアクセスするための大規模できめ細かいポリシーを作成し、適用されるアカウントのリソースを参照するようにポリシーを調整することで、セキュリティ体制を改善できます。CMP を使用すると、CMP の変更が CMP を使用するすべてのアクセス許可セットとロールに自動的に適用されるため、AWS SSO のユーザーはポリシーの一貫性を維持できます。これにより、ユーザーは CMP とアクセス許可の境界を一元的に管理でき、監査人はそれらの検索、監視、レビューができるようになります。AWS IAM で管理しているロールの CMP がすでにあるユーザーは、アクセス許可セットのインラインポリシーを新しく作成、レビュー、承認することなく、その CMP を再利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/",
+          "publishedOn": "2022-07-26T17:48:12.000Z",
+          "wordCount": 345,
+          "title": "AWS Single Sign-On (AWS SSO) が AWS Identity and Access Management (IAM) カスタマー管理ポリシー (CMP) のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "91692959393909b924b00996a42bdc2ceb7f0774",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue ストリーミング ETL のオートスケーリングが一般利用できるようになりました。AWS Glue ストリーミング ETL ジョブでは、入力ストリームに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングでストリーミング ETL ジョブに必要となる適切なリソースを割り当てることにより、リソースの最適化に必要なコストと手作業を削減するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-glue-streaming-etl-auto-scaling-available/",
+          "publishedOn": "2022-07-26T17:46:35.000Z",
+          "wordCount": 287,
+          "title": "AWS Glue ストリーミング ETL のオートスケーリングの一般提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "01335b87fc67af95a23c2b2a55b85c0276904db3",
+          "author": "aws@amazon.com",
+          "description": "AWS の量子コンピューティングサービスである Amazon Braket を使用すれば、量子コンピューターによる科学研究やソフトウェア開発をより簡単に始められます。本日、Braket SDK に新しいコスト追跡機能が追加され、量子コンピューティングのコストをより簡単で迅速に監視できるようになりました。AWS の請求書を待つ代わりに数行のコードを追加するだけで、量子処理ユニット (QPU) やオンデマンドシミュレーターで、各量子タスクの処理後すぐにコストを見積もれるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-braket-sdk-near-real-time-cost-tracking/",
+          "publishedOn": "2022-07-26T17:16:31.000Z",
+          "wordCount": 286,
+          "title": "Amazon Braket SDK がほぼリアルタイムのコスト追跡サポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "376a3be2a88d9a22a3769e8fe7444ffa810d2f29",
+          "author": "aws@amazon.com",
+          "description": "re:Post では、記事機能を介して質問に答えるだけでなく、エキスパートコミュニティのメンバーが技術的なガイダンスや知識を共有する機能を拡張しました。この機能により、コミュニティメンバーはベストプラクティスやトラブルシューティングのプロセスを共有し、AWS 技術に関するニーズに幅広く対応できます。投稿機能を利用できるのは、re:Post で Rising Star のステータスを獲得したコミュニティメンバーや、貢献と認定に基づいてコミュニティで評判を築いた SME (内容領域専門家) です。re:Post で公開されたすべての記事は AWS に関する共通知識の成長を助け、すべてのユーザーのセルフサービスガイダンスを向上させ、クラウドジャーニーを加速するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-re-post-community-generated-articles/",
+          "publishedOn": "2022-07-26T10:35:49.000Z",
+          "wordCount": 297,
+          "title": "AWS re:Post でコミュニティが作成した記事の公開開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "eec41433cb9886b5aa658e186e10ca3a29c663cb",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。Amazon RDS Performance Insights は RDS と Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を素早く評価し、いつ、どこに対策を行うかを判断するのに役立ちます。",
@@ -1211,16 +1291,6 @@
           "wordCount": 1441,
           "title": "Rust でもできる！RISC-Vシミュレータの作りかた 〜 From Ruby To Rust 〜",
           "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/4207112889896156904/1657152015"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/programming-for-management",
-          "author": null,
-          "description": "こんにちは、平田です。 普段私はマネージャーとして、事業部の運営やお客様との折衝を担当しています。業務でプログラミングをすることはほとんどないのですが、運営の中で必要な業務の自動化や省略化のためにコードを書くことがあります。そのいくつかを紹介したいと思います。 勤怠承認の省力化 メンバーの勤怠を月末に確認して承認する必要があります。以前、あまり使い勝手の良くない勤怠管理ソフトが導入されていた時代に、30名近くのメンバーの勤怠確認をしやすくするために、 CSV ファイルを読み込んで、ターミナル上で確認できるように作ったプログラムです。 その後、全社の勤怠管理ツールが変更になった後もその変更に追随…",
-          "link": "https://blog.agile.esm.co.jp/entry/programming-for-management",
-          "publishedOn": "2022-06-27T02:30:00.000Z",
-          "wordCount": 436,
-          "title": "アジャイル事業部運営を支える技術",
-          "imageUrl": "https://cdn.user.blog.st-hatena.com/default_entry_og_image/118345113/1514250491570739"
         }
       ]
     },
@@ -1628,16 +1698,6 @@
           "wordCount": 3393,
           "title": "「デジタルの日」とは？ 社会全体の「デジタル化」を官民連携、企業・団体の賛同で推進！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/40e07019170cd4dbb9f0221044bbc4b1.png"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=41023",
-          "author": "BunkiMIyata",
-          "description": "国際情勢や日本の産業について、自分の知識不足を痛感した──。 そんな経験がある方は少なくないのではないでしょうか。また、それらに精通しているという方でも、自分が住んでいる都道府県の主な生産物についてはいかがでしょう？ 第 […]",
-          "link": "https://data.wingarc.com/backnumbers-for-free-41023?utm_source=rss&utm_medium=rss&utm_campaign=backnumbers-for-free",
-          "publishedOn": "2022-06-26T23:00:10.000Z",
-          "wordCount": 3101,
-          "title": "『日本国勢図会』や『データで見る県勢』のバックナンバーが無償公開！ その内容と使い方を押さえよう",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_map-1.jpg"
         }
       ]
     },
@@ -3339,16 +3399,6 @@
           "wordCount": 875,
           "title": "週刊Railsウォッチ: attr_accessorが通常のメソッドより速い理由、ES2022の新機能ほか（20220628後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220628_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_27/119143",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220627_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。今日の暑さはヤバいですね。 【気象予報士解説】「過去100年で最も高い気温」レベルか #nhk_news https://t.co/6Solww1IBU &#8212; NHKニュース (@nhk_news) June 25, 2022 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechR [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_27/119143\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Kaigi on Rails 2022がCFP公開、Discordの公式Railsサーバーが一般公開ほか（20220627前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_27/119143",
-          "publishedOn": "2022-06-27T09:31:48.000Z",
-          "wordCount": 1121,
-          "title": "週刊Railsウォッチ: Kaigi on Rails 2022がCFP公開、Discordの公式Railsサーバーが一般公開ほか（20220627前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220627_eyecatch-min.png"
         }
       ]
     },
@@ -3357,6 +3407,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsqaaws_repost.html",
+          "author": null,
+          "description": "AWSは2021年12月に行われたイベント「AWS re:Invent 2021」で、同社が運営するQ&amp;Aサイト「AWS re:Post」を発表、公開しました。 AWS re:Postは、ユーザーが質問を投稿し、他のユーザーや専門家...",
+          "link": "https://www.publickey1.jp/blog/22/awsqaaws_repost.html",
+          "publishedOn": "2022-07-26T15:16:49.000Z",
+          "wordCount": 1249,
+          "title": "AWSが運営するQ&Aサイト「AWS re:Post」で、ユーザー自身による記事の投稿が可能に",
+          "imageUrl": "https://www.publickey1.jp/2022/awsrepost_post01.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/awscloudscapeui.html",
           "author": null,
@@ -3824,6 +3884,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=281368",
+          "author": "James Temple",
+          "description": "今年の夏、欧州は記録的な熱波に襲われている。この現象は地球温暖化の影響によるものなのだろうか？ もしそうであるのなら、気候変動は科学者たちの予想を上回るペースで進行しているということだろうか？ \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/281368/do-these-heatwaves-mean-climate-change-is-worse-than-we-thought/",
+          "publishedOn": "2022-07-26T21:51:43.000Z",
+          "wordCount": 1220,
+          "title": "この熱波は地球温暖化のせい？気候変動を巡る5つの問いに答える",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/21170508/AP_22199305372403-crop-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/26/281742/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/27/281742/",
+          "publishedOn": "2022-07-26T21:35:22.000Z",
+          "wordCount": 673,
+          "title": "新型コロナによるホルモン分泌障害の回復過程を報告＝神戸大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/26/281703/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/27/281703/",
+          "publishedOn": "2022-07-26T21:32:24.000Z",
+          "wordCount": 673,
+          "title": "「宇宙論パラメーター」をAIとスパコンで高精度に測定",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=281514",
           "author": "Hana Kiros",
@@ -4623,16 +4713,6 @@
           "wordCount": 1229,
           "title": "データセンターが都市に静かに戻ってきた理由",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/22182005/JA22_waters-01-591x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=279276",
-          "author": "Rhiannon Williams",
-          "description": "米国連邦最高裁判所は人工妊娠中絶の権利を認めたおよそ50年前の判例を覆し、中絶の権利は憲法上、認められないとの判決を下した。",
-          "link": "https://www.technologyreview.jp/s/279276/the-us-supreme-court-has-overturned-roe-v-wade-what-does-that-mean/",
-          "publishedOn": "2022-06-27T01:26:15.000Z",
-          "wordCount": 1354,
-          "title": "「中絶の権利」は認められず　米最高裁、判例覆す",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/24233504/GettyImages-1356669828-crop-1400x787.jpeg"
         }
       ]
     }
