@@ -6,6 +6,96 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "107f9131504b707b0bc9f0712c181f3493f3335d",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup Audit Manager を使用して、Amazon FSx for NetApp ONTAP のデータ保護ポリシーのコンプライアンスについて監査を実施したり、レポートを作成したりできるようになりました。 たとえば、Amazon FSx for NetApp ONTAP リソースのデータ保護アクティビティを継続的に評価したり、組織のベストプラクティスや規制基準への準拠を実証するのに役立つ監査レポートを生成したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-audit-manager-fsx-netapp-ontap/",
+          "publishedOn": "2022-07-27T20:02:13.000Z",
+          "wordCount": 361,
+          "title": "AWS Backup Audit Manager は Amazon FSx for NetApp ONTAP のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ff6085eeb9fde9206f2144360703ccd84487f2eb",
+          "author": "aws@amazon.com",
+          "description": "すべての組織単位 (OU) とアカウントの階層表示を備えた AWS Control Tower の新しい組織ページを発表できることを嬉しく思います。単一のページから組織構造全体を表示、グループ化、および管理できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/",
+          "publishedOn": "2022-07-27T20:01:22.000Z",
+          "wordCount": 319,
+          "title": "OU とアカウントの組み合わせページが AWS Control Tower で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9ea63054eb2f1b9f088ec3d06512ec7f7a0ead39",
+          "author": "aws@amazon.com",
+          "description": "2022 年 7 月 19 日、Amazon は OpenJDK の Amazon Corretto Long-Term Supported (LTS) バージョンの四半期ごとのセキュリティおよびクリティカルアップデートを発表しました。Corretto 18.0.2、17.0.4、11.0.16、8u342 がダウンロード可能になりました。Amazon Corretto はマルチプラットフォームで、本番稼働に対応した無料の OpenJDK ディストリビューションです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/",
+          "publishedOn": "2022-07-27T19:19:05.000Z",
+          "wordCount": 310,
+          "title": "Amazon Corretto の 2022 年 7 月における四半期更新情報",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "60ff7fd1d4b1225f66d29c3c2ed135a605846ee8",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight では、ダッシュボードのブックマークのサポートを開始しました。ブックマークを使用すると、QuickSight の閲覧者はカスタマイズされたダッシュボード設定をブックマークのリストに保存して、毎回複数のフィルターやパラメーターを手動で変更しなくても、ダッシュボードの特定のビューにワンクリックで簡単にアクセスできます。QuickSight の [Share this view] (このビューを共有) 機能と組み合わせることで、閲覧者はブックマークビューを他の閲覧者と共有して、簡単にコラボレーションやディスカッションを行うことができるようになりました。ブックマークは QuickSight コンソールインターフェイスのすべてのユーザーが利用できます。詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-quicksight-adds-bookmarks-dashboards/",
+          "publishedOn": "2022-07-27T19:17:57.000Z",
+          "wordCount": 295,
+          "title": "Amazon QuickSight がダッシュボードにブックマークを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ffecab3c521a27999e8d54fe7c47651cec146723",
+          "author": "aws@amazon.com",
+          "description": "AWS CodeBuild による Graviton2 を使用した Arm のサポートが南米 (サンパウロ) と欧州 (ストックホルム) で利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/",
+          "publishedOn": "2022-07-27T19:16:14.000Z",
+          "wordCount": 330,
+          "title": "AWS CodeBuild が南米 (サンパウロ) と欧州 (ストックホルム) で Arm ベースのワークロードのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "70b3629fa65ec967a04e1a97481d872a5fd45e17",
+          "author": "aws@amazon.com",
+          "description": "EC2 クラスター (EMR クラスター) 上の Amazon EMR でアクセス制御を適用するのに役立つ 2 つの新機能がリリースされます。これらの機能は、EMR ステップ API を使用してクラスターに送信されるジョブでサポートされます。1 つ目は、EMR ステップを使用したランタイムロールです。ランタイムロールは、EMR ステップに関連付ける AWS Identity and Access Management (IAM) ロールです。EMR ステップはこのロールを使用して AWS のリソースにアクセスします。2 つ目は、AWS Lake Formation との統合です。EMR ステップを使用して、Apache Spark ジョブと Apache Hive ジョブにテーブルレベルおよび列レベルのアクセス制御を適用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/",
+          "publishedOn": "2022-07-27T16:18:33.000Z",
+          "wordCount": 401,
+          "title": "ジョブを対象範囲とする IAM ロールを使用した詳細なアクセス制御を導入し、EC2 クラスター上の Amazon EMR で Apache Spark と Apache Hive 向けに AWS Lake Formation を統合",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b81c883d438e915c856b3c7577b0b2c8d2b4605b",
+          "author": "aws@amazon.com",
+          "description": "AWS Managed Service (AMS) Accelerate Operations Plan がアジアパシフィック (香港) リージョンおよび中東 (バーレーン) リージョンで利用可能になりました。AMS は、AWS の効率的かつ安全な運用に役立ちます。AMS はオペレーションの基準を引き上げ、俊敏性を制限することなく、リスクの軽減に役立つ積極的、予防的、および検出的な機能を提供し、イノベーションに集中できるようにします。AMS は、監視、インシデント検出および管理、セキュリティ、パッチ適用、バックアップ、コスト最適化などのオペレーション機能をチームに提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/",
+          "publishedOn": "2022-07-27T16:17:44.000Z",
+          "wordCount": 298,
+          "title": "AWS Managed Service がアジアパシフィック (香港) リージョンおよび中東 (バーレーン) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e8428ed2c3e8140925b3d03658481541f7d6bce3",
+          "author": "aws@amazon.com",
+          "description": "AWS Transfer Family のお客様は、認証に ED25519 および ECDSA キーを使用して、AWS Transfer Family サーバーに接続できるようになりました。これまで Transfer Family では、認証で RSA キーのみをサポートしていました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-transfer-family-ed25519-ecdsa-keys-user-authentication/",
+          "publishedOn": "2022-07-27T16:16:55.000Z",
+          "wordCount": 332,
+          "title": "AWS Transfer Family が、ユーザー認証で ED25519 および ECDSA キーをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "98e0a9d5ba0da99161bf04d40b3e290bee432716",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Device Management Fleet Indexing が、2 つの追加データソースとの統合を提供するようになりました。シャドウという名前の AWS IoT Core と AWS IoT Device Defender が違反を検出します。お客様は、特定の名前のシャドウを選択し、検索クエリに必要なデータのみにインデックスを設定できます。また、検出した違反をインデックス化し、目標のデバイスでフリートメトリクスによりフリートレベルの異常傾向のトラブルシューティングや監視に使用することもできます。新たに追加された 2 つのデータソースは、IoT のお客様が、さまざまなサービスやシステムに IoT フリートデータを保存し、フリートモニタリング、ヘルスチェック、無線通信 (OTA) の更新、トラブルシューティングのためにデータに定期的にアクセスする場面で役立ちます。このリリースで、フリートインデックスでサポートされるデータソースが 3 つ (AWS IoT Core レジストリ、シャドウ、接続ライフサイクルイベント) から 5 つに増えました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/",
+          "publishedOn": "2022-07-27T16:16:06.000Z",
+          "wordCount": 339,
+          "title": "AWS IoT Device Management Fleet Indexing が 2 つの追加データソースのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0c0059bee0d6256d9d525ad8f8d3515725acf3a1",
           "author": "aws@amazon.com",
           "description": "本日より、Amazon EC2 の C6i、M6i、R6i インスタンスが欧州 (ストックホルム、ミラノ) およびアジアパシフィック (香港) で利用可能になります。さらに、Amazon EC2 の C6i、M6i インスタンスは中東 (バーレーン) で、R6i インスタンスは欧州 (フランクフルト) で利用可能になります。これらのインスタンスはオールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、幅広いワークロードにおいて同等の Gen5 インスタンスと比較して最大 15％ 向上したコンピューティングプライスパフォーマンス、およびインテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。",
@@ -1608,16 +1698,6 @@
           "wordCount": 3021,
           "title": "角を曲がる回数が多い方が街は魅力的になる！？都市の「効率性」と「多様性」と「魅力」の関係性についてビッグデータを使って考えてみた！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/02/DTNJ_divercity.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=43570",
-          "author": "石川麻里",
-          "description": "「デジタルの日」とは？ 「デジタルの日」とは日本政府が、日本のデジタル化推進を目的に、国民がデジタルについて振り返り、体験し、見直し、共有し合える定期的な機会と定めた記念日です。 このデジタルの日は、毎年「10月の第一日 […]",
-          "link": "https://data.wingarc.com/allabout_digitaldays-43570?utm_source=rss&utm_medium=rss&utm_campaign=allabout_digitaldays",
-          "publishedOn": "2022-06-28T03:01:31.000Z",
-          "wordCount": 3393,
-          "title": "「デジタルの日」とは？ 社会全体の「デジタル化」を官民連携、企業・団体の賛同で推進！",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/40e07019170cd4dbb9f0221044bbc4b1.png"
         }
       ]
     },
@@ -1626,6 +1706,26 @@
       "feedUrl": "https://dev.mysql.com/downloads/rss.php",
       "siteUrl": "https://dev.mysql.com/downloads/",
       "articles": [
+        {
+          "id": "https://dev.mysql.com/downloads/cluster/7.5.html",
+          "author": null,
+          "description": "MySQL Cluster 7.5 (7.5.27 GA, published on Wednesday, 27 Jul 2022)",
+          "link": "https://dev.mysql.com/downloads/cluster/7.5.html",
+          "publishedOn": "2022-07-27T00:00:00.000Z",
+          "wordCount": 551,
+          "title": "MySQL Cluster 7.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dev.mysql.com/downloads/cluster/7.4.html",
+          "author": null,
+          "description": "MySQL Cluster 7.4 (7.4.37 GA, published on Wednesday, 27 Jul 2022)",
+          "link": "https://dev.mysql.com/downloads/cluster/7.4.html",
+          "publishedOn": "2022-07-27T00:00:00.000Z",
+          "wordCount": 547,
+          "title": "MySQL Cluster 7.4",
+          "imageUrl": null
+        },
         {
           "id": "https://dev.mysql.com/downloads/cluster/7.6.html",
           "author": null,
@@ -1912,66 +2012,6 @@
           "wordCount": 3630,
           "title": "Amazon Elastic MapReduceがサーバーレス製品として一般向け提供へ",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220628061514/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/java-news-roundup-may30-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Michael Redlich",
-          "description": "2022年5月30日、今週のJavaラウンドアップは、OpenJDK、JDK 19、Spring Shell 2.1.0-M4、Spring Native 0.12.0、Spring Cloud Stream Applications 2021.1.2、Spring Security OAuthの開発終了、Micronaut 3.5.1、Quarkus 2.7.6.Final、Apache Groovyバージョン3.0.11と2.5.17、JobRunr 5.1.3、MicroStreamがMicronaut Foundationに参加、といったニュースをお届けする。\n By Michael Redlich  Translated by  h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/06/java-news-roundup-may30-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-28T02:22:00.000Z",
-          "wordCount": 4002,
-          "title": "Java Newsラウンドアップ: JEP 428、MicroStreamがMicronaut Foundationに参加、SpringとApache Groovyのアップデート",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/microsoft-azure-f5-nginx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Steef-Jan Wiggers",
-          "description": "Microsoftは最近、NGINX for Azureを発表した。これは高度なトラフィック管理と監視を備えたネイティブ統合ソフトウェア（SaaS）ソリューションである。このサービスは、Azure Marketplaceからプレビュー版で入手できる。\n By Steef-Jan Wiggers  Translated by 編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/06/microsoft-azure-f5-nginx/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-28T02:20:00.000Z",
-          "wordCount": 3612,
-          "title": "Microsoftが自身のマーケットプレイスでSaaSソリューションとしてNGINX for Azureのパブリックプレビュー版をリリース",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/aws-datasync-gcp-azure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "Amazonは最近、AWS DataSyncがストレージロケーションとしてGoogle Cloud StorageとAzure Filesストレージをサポートを追加したと発表した。このデータサービスの2つの新しいオプションは、AWSの内外へのデータの移動に役立つが、データ転送料金は依然としてネックとなる可能性がある。\n By Renato Losio  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/06/aws-datasync-gcp-azure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-28T01:57:00.000Z",
-          "wordCount": 3573,
-          "title": "AWS DataSyncがAWS、Google Cloud、Azure間のデータ移動をサポート",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/aws-powershell-lambda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Renato Losio",
-          "description": "AWSは最近、AWS Lambda向けの新たなPowerShellカスタムランタイムを発表した。これはPowerShellで記述したLambda関数を実行するためのランタイムである。この新たなランタイムを使うことで開発者はLambdaでネイティブPowerShellコードをコンパイルせずに記述できるため、デプロイとテストがシンプルになる。\n By Renato Losio  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/06/aws-powershell-lambda/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-28T01:55:00.000Z",
-          "wordCount": 3548,
-          "title": "AWSがLambda向けのPowerShellカスタムランタイムを発表",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/java-structured-concurrency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "A N M Bazlur Rahman",
-          "description": "JEP 428 \"Structured Concurrency (Incubator)\"が、JDK 19のProposed to TargetステータスからTargetedステータスに昇格した。Project Loomの傘下にあるこのJEPは、異なるスレッド上で動作する複数のタスクをアトミックなオペレーションとして扱うライブラリの導入によって、マルチスレッドプログラミングを簡略にすることを提案するものだ。エラー処理の容易化、信頼性の向上、可観測性の改善が期待できる。\n By A N M Bazlur Rahman  Translated by h_yoshida _",
-          "link": "https://www.infoq.com/jp/news/2022/06/java-structured-concurrency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-28T01:53:00.000Z",
-          "wordCount": 4053,
-          "title": "JEP 428: javaマルチスレッドプログラミングを容易にする構造化並行性",
-          "imageUrl": "https://cdn.infoq.com/statics_s1_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/lyft-improving-experiments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "author": "Vasco Veloso",
-          "description": "LyftのプロダクトマネージャーのJohn Kirn氏は最近、実験を行う際に直面する課題について記事を公開した。既存の実験手法では、Lyftのビジネスの特徴であるリアルタイム性に完全に適応したり、ネットワーク効果を低減したりすることはできなかった。Lyftの実験チームは、時間と領域の分割テストなどの新しいテストを展開し、社内の実験基準と手法を改善した。\n By Vasco Veloso  Translated by  編集部T _",
-          "link": "https://www.infoq.com/jp/news/2022/06/lyft-improving-experiments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E8%A8%AD%E8%A8%88%2F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3",
-          "publishedOn": "2022-06-28T01:00:00.000Z",
-          "wordCount": 3554,
-          "title": "LyftはA/Bテストの域を越えて実験をどのように改善しているか",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2009,16 +2049,6 @@
           "wordCount": 3585,
           "title": "モダンテストへの移行：テスターがチームの補助輪になることをどのように止めるか",
           "imageUrl": "https://cdn.infoq.com/statics_s1_20220628061514/styles/static/images/logo/logo-big.jpg"
-        },
-        {
-          "id": "https://www.infoq.com/jp/news/2022/06/documentation-user-experience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "author": "Ben Linders",
-          "description": "製品やドキュメントに使用する言葉は、人を不愉快にさせたり、人を傷つけたりすることがある。正確で、複雑なメタファーに依存せず、否定的な意味合いを持たずにメッセージを伝える言葉を、私たちは選ぶことができる\n By Ben Linders  Translated by 中村 真子",
-          "link": "https://www.infoq.com/jp/news/2022/06/documentation-user-experience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%EF%BC%86%E6%89%8B%E6%B3%95",
-          "publishedOn": "2022-06-28T01:49:00.000Z",
-          "wordCount": 3586,
-          "title": "より良いユーザーエクスペリエンスを構築するためのドキュメンテーションにおける言葉の重要性",
-          "imageUrl": "https://cdn.infoq.com/statics_s2_20220613-1419-4/styles/static/images/logo/logo-big.jpg"
         }
       ]
     },
@@ -2376,16 +2406,6 @@
           "wordCount": 1198,
           "title": "第721回　新型ベアボーンキットであるDeskMeetと最新CPUであるAlder Lakeで夢のパワフルUbuntuライフ ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0721/thumb/TH800_photo.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
-          "author": null,
-          "description": "MySQLでは、テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174?utm_source=feed",
-          "publishedOn": "2022-06-28T00:52:00.000Z",
-          "wordCount": null,
-          "title": "第174回　MySQLのデータ暗号化いろいろ",
-          "imageUrl": null
         }
       ]
     },
@@ -2683,26 +2703,6 @@
           "wordCount": null,
           "title": "第721回　新型ベアボーンキットであるDeskMeetと最新CPUであるAlder Lakeで夢のパワフルUbuntuライフ",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
-          "author": null,
-          "description": "MySQLでは、テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174?utm_source=feed",
-          "publishedOn": "2022-06-28T00:52:00.000Z",
-          "wordCount": null,
-          "title": "第174回　MySQLのデータ暗号化いろいろ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
-          "author": "北川健太郎",
-          "description": "MySQLでは，テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
-          "publishedOn": "2022-06-28T00:52:00.000Z",
-          "wordCount": 1141,
-          "title": "第174回　MySQLのデータ暗号化いろいろ ── MySQL道普請便り",
-          "imageUrl": "https://image.gihyo.co.jp/assets/images/ICON/2015/thumb/TH800_1428_mysql.png"
         }
       ]
     },
@@ -3000,16 +3000,6 @@
           "wordCount": 838,
           "title": "第721回　新型ベアボーンキットであるDeskMeetと最新CPUであるAlder Lakeで夢のパワフルUbuntuライフ",
           "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0721/photo.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174",
-          "author": null,
-          "description": "MySQLでは、テーブルやredoログといったさまざまなファイルのデータ暗号化をサポートしています。",
-          "link": "https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0174?utm_source=feed",
-          "publishedOn": "2022-06-28T00:52:00.000Z",
-          "wordCount": 292,
-          "title": "第174回　MySQLのデータ暗号化いろいろ",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
         }
       ]
     },
@@ -3339,16 +3329,6 @@
           "wordCount": 814,
           "title": "Rails 7: バックグラウンドジョブで削除する最大レコード数を指定可能になった（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_max_records_background_delete_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_06_28/119153",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220628_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_06_28/119153\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: attr_accessorが通常のメソッドより速い理由、ES2022の新機能ほか（20220628後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_06_28/119153",
-          "publishedOn": "2022-06-28T09:11:34.000Z",
-          "wordCount": 875,
-          "title": "週刊Railsウォッチ: attr_accessorが通常のメソッドより速い理由、ES2022の新機能ほか（20220628後編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220628_eyecatch-min.png"
         }
       ]
     },
@@ -3357,6 +3337,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/circlecigitlabgitlabcircleci.html",
+          "author": null,
+          "description": "CI/CD機能をクラウドサービスとして提供するCircleCIが、クラウド版のGitLabに対応したことを発表しました（日本語での発表）。 New feature launchThe next evolution of the Circle...",
+          "link": "https://www.publickey1.jp/blog/22/circlecigitlabgitlabcircleci.html",
+          "publishedOn": "2022-07-27T15:47:47.000Z",
+          "wordCount": 1268,
+          "title": "CircleCIがGitLabに対応。GitLabのコード変更をトリガーにCircleCI でビルド、テスト、デプロイを実行可能に",
+          "imageUrl": "https://www.publickey1.jp/2022/gitlabcircleci.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/awsqaaws_repost.html",
           "author": null,
@@ -3824,6 +3814,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=281650",
+          "author": "Jessica Hamzelou",
+          "description": "原因不明の急性肝炎が、子どもたちの間で急増している。4月にスコットランドで最初の症例が見つかり、7月8日時点では35カ国で1010件が報告されている。最新の研究で、ウイルス、遺伝子、都市封鎖のすべてが関わっている可能性が示唆された。",
+          "link": "https://www.technologyreview.jp/s/281650/were-starting-to-understand-the-mysterious-surge-of-hepatitis-in-children/",
+          "publishedOn": "2022-07-27T21:58:40.000Z",
+          "wordCount": 1364,
+          "title": "原因不明の急性肝炎が子どもに急増、パンデミックとの関連は？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/26041504/GettyImages-908932908-crop-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/27/281843/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/07/28/281843/",
+          "publishedOn": "2022-07-27T21:55:55.000Z",
+          "wordCount": 687,
+          "title": "ISSで初、高濃度酸素条件での材料燃焼実験を実施＝JAXAと北大",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=281732",
           "author": "MIT Technology Review Audio Studio",
@@ -4632,26 +4642,6 @@
           "publishedOn": "2022-06-28T21:26:05.000Z",
           "wordCount": 687,
           "title": "温室ガス削減でも異常な干ばつが常態化か、一部地域で予測",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/06/27/279410/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/06/28/279410/",
-          "publishedOn": "2022-06-28T08:49:29.000Z",
-          "wordCount": 686,
-          "title": "理研など、中性子4個だけでできた「原子番号ゼロ」原子核を観測",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/06/27/279413/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/06/28/279413/",
-          "publishedOn": "2022-06-28T08:38:27.000Z",
-          "wordCount": 687,
-          "title": "NEDO、自動配送ロボを全国4カ所の市街地などで実証へ",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
