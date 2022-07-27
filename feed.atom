@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T02:49:32.081Z</updated>
+    <updated>2022-07-27T03:35:38.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5548,46 +5548,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/"/>
         <updated>2022-06-27T19:01:06.000Z</updated>
         <summary type="html"><![CDATA[Amazon SageMaker Ground Truth がサポート提供を開始し、手動でラベル付けした実際のデータを大量に集めることなく、ラベル付き合成データを生成できるようになりました。Amazon SageMaker は、Amazon SageMaker Ground Truth Plus と Amazon SageMaker Ground Truth の 2 つのデータラベリングサービスを提供します。どちらのオプションでも、画像、テキストファイル、動画などの生データを識別し、有益なラベルを追加して、機械学習モデル用の高品質のトレーニングデータセットを作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Direct Connect が米国のすべての AWS Local Zones のサポートを実現]]></title>
-        <id>bdd95e585e464df92338e8ebac6f6a0d1c098879</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/"/>
-        <updated>2022-06-27T15:18:04.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS は AWS Direct Connect が米国のすべての AWS Local Zones をサポートすると発表しました。ネットワークトラフィックは、Direct Connect の Point of Presence (POP) ロケーションと、ローカルゾーンで実行される AWS リソース間の最短距離を通るようになります。これによりネットワークトラフィックの通る距離が削減されるため、レイテンシーが減少しアプリケーションのレスポンスが向上します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 つのプライマリデータベースインスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ 配置で M5d と R5d インスタンスのサポートを開始]]></title>
-        <id>46a18a4a5544b12421a31eaa13acf5b00724ff7e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/"/>
-        <updated>2022-06-27T15:17:15.000Z</updated>
-        <summary type="html"><![CDATA[3 つのアベイラビリティゾーン (AZ) にまたがる 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを備えた Amazon Relational Database Service (Amazon RDS) Multi-AZ 配置オプションで、M5d と R5d インスタンスのサポートを開始しました。この配置オプションには、最大 2 倍高速のトランザクションコミットレイテンシー、通常 35 秒未満の自動フェイルオーバー、読み取り可能なスタンバイインスタンスが備わっています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssemblyアプリ開発ではRustが一番人気、用途ではサーバレスが急上昇、ランタイムはWasmtime。The State of WebAssembly 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/webassemblyrustwebassemblywasmtimethe_state_of_webassembly_2022.html</id>
-        <link href="https://www.publickey1.jp/blog/22/webassemblyrustwebassemblywasmtimethe_state_of_webassembly_2022.html"/>
-        <updated>2022-06-27T15:17:10.000Z</updated>
-        <summary type="html"><![CDATA[メールマガジン「WebAssembly Weekly」を発行しているScott Logicは、WebAssemblyの利用状況などに関する調査報告として「The State of WebAssembly 2022」を公開しました。 回答者は...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Site-to-Site VPN がプライベート IP VPN を導入してセキュリティとプライバシーを強化]]></title>
-        <id>cd18a1e5be6c1802a997a33cffee40e9af358cc6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/"/>
-        <updated>2022-06-27T15:16:26.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Site-to-Site VPN は、Direct Connect 経由でプライベート IP アドレスを使用して IPSec VPN 接続をデプロイする機能をサポートします。この変更により、お客様は、パブリック IP アドレスを使用することなくオンプレミスネットワークと AWS の間の DX トラフィックを暗号化でき、これにより、セキュリティとネットワークのプライバシーを同時に強化できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
