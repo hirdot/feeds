@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "f78df9efa760fb36d054fcb2ff3164ac2095904d",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup を使用して、2 つの読み取り可能なスタンバイを備えた Amazon Relational Database Service (Amazon RDS) Multi-AZ クラスターを保護できるようになりました。3 つのアベイラビリティーゾーン (AZ) に 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ クラスターは、トランザクションコミットレイテンシーを最大半分に短縮し、フェイルオーバーを自動化し、読み取り可能なスタンバイインスタンスを利用できるように設計されています。今回の更新により、Amazon RDS Multi-AZ クラスターで、AWS Backup におけるすべてのデータ保護機能を利用できるようになりました。これには、自動ライフサイクル管理、個別のバックアップアクセスポリシー、AWS Backup Vault Lock によるイミュータブルなバックアップ、AWS Backup Audit Manager によるコンプライアンスモニタリングが含まれます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/",
+          "publishedOn": "2022-07-29T22:47:04.000Z",
+          "wordCount": 357,
+          "title": "AWS Backup が新たに Amazon RDS Multi-AZ クラスターに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c73c2093b5608c29bef956372eab22a8c2cf506c",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation ベースのスタックとリソースに対する変更を、Amazon EventBridge のイベント通知として利用できるようになりました。これらのイベント通知を使用して、疎結合のイベント駆動型アプリケーションを構築およびスケールできます。この機能により、ワンタイムカスタムコードの記述や新しいソフトウェアの開発をしなくても、CloudFormation スタックまたは CloudFormation スタック内のリソースを作成、更新、削除した後に、アクションをリアルタイムでトリガーすることが可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
+          "publishedOn": "2022-07-29T22:46:16.000Z",
+          "wordCount": 338,
+          "title": "Amazon EventBridge の AWS CloudFormation イベント通知を活用した、イベント駆動型アプリケーションの作成が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "484b38e83faf8354d8cf66e73ac1278f338023a9",
           "author": "aws@amazon.com",
           "description": "AI ユースケースエクスプローラはビジネス成果中心のウェブ検索ツールで、ユーザーは適切な人工知能 (AI) のユースケースを簡単に見つけ、関連するユーザーの成功事例を知り、AI 導入に向けてチームを動かすことができます。ユーザーフレンドリーなツールで、ビジネスの問題の説明を入力として受け取り、関連する実用的なユースケースと成功事例を出力として提供します。",

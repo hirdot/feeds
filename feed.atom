@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-29T22:01:25.737Z</updated>
+    <updated>2022-07-30T00:01:16.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup が新たに Amazon RDS Multi-AZ クラスターに対応]]></title>
+        <id>f78df9efa760fb36d054fcb2ff3164ac2095904d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/"/>
+        <updated>2022-07-29T22:47:04.000Z</updated>
+        <summary type="html"><![CDATA[AWS Backup を使用して、2 つの読み取り可能なスタンバイを備えた Amazon Relational Database Service (Amazon RDS) Multi-AZ クラスターを保護できるようになりました。3 つのアベイラビリティーゾーン (AZ) に 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ クラスターは、トランザクションコミットレイテンシーを最大半分に短縮し、フェイルオーバーを自動化し、読み取り可能なスタンバイインスタンスを利用できるように設計されています。今回の更新により、Amazon RDS Multi-AZ クラスターで、AWS Backup におけるすべてのデータ保護機能を利用できるようになりました。これには、自動ライフサイクル管理、個別のバックアップアクセスポリシー、AWS Backup Vault Lock によるイミュータブルなバックアップ、AWS Backup Audit Manager によるコンプライアンスモニタリングが含まれます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EventBridge の AWS CloudFormation イベント通知を活用した、イベント駆動型アプリケーションの作成が可能に]]></title>
+        <id>c73c2093b5608c29bef956372eab22a8c2cf506c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/"/>
+        <updated>2022-07-29T22:46:16.000Z</updated>
+        <summary type="html"><![CDATA[AWS CloudFormation ベースのスタックとリソースに対する変更を、Amazon EventBridge のイベント通知として利用できるようになりました。これらのイベント通知を使用して、疎結合のイベント駆動型アプリケーションを構築およびスケールできます。この機能により、ワンタイムカスタムコードの記述や新しいソフトウェアの開発をしなくても、CloudFormation スタックまたは CloudFormation スタック内のリソースを作成、更新、削除した後に、アクションをリアルタイムでトリガーすることが可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI ユースケースエクスプローラが利用可能に]]></title>
         <id>484b38e83faf8354d8cf66e73ac1278f338023a9</id>
