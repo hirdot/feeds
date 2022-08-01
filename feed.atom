@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-01T08:01:17.276Z</updated>
+    <updated>2022-08-01T09:01:11.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JetBrains GatewayやProjectorで快適RubyMine生活]]></title>
+        <id>https://techracho.bpsinc.jp/morimorihoge/2022_08_01/120261</id>
+        <link href="https://techracho.bpsinc.jp/morimorihoge/2022_08_01/120261"/>
+        <updated>2022-08-01T08:30:27.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rubymine_jetbrains_gateway_projector_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>morimorihogeです。しばらく色々とバタバタしてしまっていまいほぼオンライン上のアクティビティが無になってしまっているのですが、生存報告ということで例年やっている夏のTechRachoフェア記事を投稿します。 今回はあまり知られていなさそうなJetBrains GatewayとJetBrains Projectorについて紹介します。 宣伝 本日より1ヶ月間、『夏のTechRachoフェア2021』と題して弊社のメンバーで入れ替わり記事を公開していきます。 企画としては冬に行われるアドベントカレンダーの夏バージョンで、普段あまり記事を書く機会のないメンバーにも記事を書くきっかけを作ろうという内容になります [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/morimorihoge/2022_08_01/120261" data-wpel-link="internal" target="_self">JetBrains GatewayやProjectorで快適RubyMine生活</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Step Functions は AWS SDK 統合の拡大を続け、新たに 3 つの AWS サービスと 195 の API アクションに対応]]></title>
+        <id>d4e0f721afe634c9f600ee68319560b2976cb9ba</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-step-functions-expand-aws-sdk-integrations-support-additional-aws-services-more-api-actions/"/>
+        <updated>2022-08-01T07:36:18.000Z</updated>
+        <summary type="html"><![CDATA[AWS Step Functions は AWS SDK の統合を拡大し、3 つの AWS サービスと 195 の AWS API アクションのサポートが新たに始まりました。その結果、合計で 223 の AWS サービス、10,000 以上の API アクションをサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon GuardDuty がマルウェア対策機能を追加]]></title>
+        <id>af4a28e8890fe655de9737d48b76d235eeb50ed8</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/malware-protection-feature-amazon-guardduty/"/>
+        <updated>2022-08-01T07:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Amazon GuardDuty Malware Protection が Amazon GuardDuty で利用できるようになりました。この機能により、セキュリティソフトウェアやエージェントを導入することなく、Amazon Elastic Compute Cloud (Amazon EC2) 上で稼働するインスタンスやコンテナワークロード内に存在する悪意のあるファイルを検出できるようになります。Amazon GuardDuty Malware Protection により、Amazon Elastic Block Store (EBS) ボリュームを利用するワークロードに対してファイルのスキャンが行われるようになります。これによって、リソースのセキュリティ侵害、アクセス許可の変更、データの不正引き出しに使用できるマルウェアが検出されます。トロイの木馬、ワーム、クリプトマイナー、ルートキット、ボットなどの悪意のあるファイルは、ワークロードのセキュリティを侵害し、リソースを悪意のある用途に再利用し、データに不正にアクセスするために使用される可能性があります。既存のお客様は、GuardDuty コンソールでワンクリックするだけで、または GuardDuty API を使用して、GuardDuty Malware Protection の機能を有効にできます。脅威が検出されると、GuardDuty Malware Protection はセキュリティに関する検出結果を AWS Security Hub、Amazon EventBridge、Amazon Detective に自動で送信します。このような統合により、AWS とパートナーサービスの一元的なモニタリング、マルウェア検出時の対応の自動化、GuardDuty コンソールからのセキュリティ調査の実行が可能になります。Amazon GuardDuty Malware Protection のリリースに伴い、次の 8 つの検出対象の脅威が新たに追加されました。
+ 
+ 
+ 
+Execution:EC2/MaliciousFile
+ 
+ 
+Execution:ECS/MaliciousFile
+ 
+ 
+Execution:Kubernetes/MaliciousFile
+ 
+ 
+Execution:Container/MaliciousFile
+ 
+ 
+Execution:EC2/SuspiciousFile
+ 
+ 
+Execution:ECS/SuspiciousFile
+ 
+ 
+Execution:Kubernetes/SuspiciousFile
+ 
+ 
+Execution:Container/SuspiciousFile]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Neptune Global Database の発表]]></title>
+        <id>4e40530825429fb2a1a7fa37507b8aa2518c2827</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-neptune-global-database/"/>
+        <updated>2022-08-01T07:34:38.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Neptune は Global Database のサポートを開始しました。単一の Neptune データベースが複数の AWS リージョンに及ぶことにより、リージョン全体が停止した際のディザスタリカバリと、グローバルフットプリントを持つアプリケーションでの低レイテンシーのグローバルな読み取りを提供します。Neptune Global Database は、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (オレゴン)、米国西部 (北カルフォルニア)、欧州 (アイルランド)、欧州 (ロンドン) およびアジアパシフィック (東京) の各リージョンで利用可能です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 R6a インスタンスのご紹介]]></title>
+        <id>7d0befa7529d96addac570ba49d6909f02f5faaa</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/"/>
+        <updated>2022-08-01T07:33:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS から、Amazon EC2 R6a インスタンスの一般提供が開始されたことをお知らせいたします。大量のメモリを必要とするワークロード向けにデザインされた R6a インスタンスは、AWS Nitro System 上に構築されています。AWS Nitro System は、ホストハードウェアにあるほぼすべてのコンピューティングリソースとメモリリソースをお使いのインスタンスに提供します。R6a インスタンスは、最大 3.6 GHz のオールコアターボ周波数を備えた第 3 世代 AMD EPYC プロセッサを搭載しています。メモリを最適化したこのインスタンスは SAP 認定を受けており、R5a インスタンスと比較するとコンピューティング料金パフォーマンスが最大 35% 向上しています。また広範囲のワークロードに対応し、コストは x86 ベースの EC2 インスタンスより 10% 低くなっています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Device Client v1.7 機能とセキュリティを強化して利用可能に]]></title>
+        <id>6fb135f29b234e698c27aa66f3941df5b973edc0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-device-client-v1-7-enhanced-functionality-security-features/"/>
+        <updated>2022-08-01T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Device Client は IoT デバイスにコンパイルおよびインストールできる C++ で記述された無料のオープンソースのモジュラーデバイス側のリファレンス実装です。これにより、デバイスデベロッパーはデバイス側は最小限のコードで AWS IoT Core、AWS IoT Device Management、AWS IoT Device Defender 機能にアクセスできます。Device Client は一般的なマイクロプロセッサ (x86_64 および ARM アーキテクチャ) や一般的な Embedded Linux ソフトウェア環境 (Debian、Ubuntu、RHEL など) を備えたデバイスで動作します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が属性ベースのアクセス制御 (ABAC) のサポートを発表]]></title>
+        <id>978daf00a59792f6261ccb766fdfd4dc2b3f26cc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-lambda-support-abac/"/>
+        <updated>2022-08-01T07:32:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda では、Lambda 関数を必須のリソースとして使用する API アクションに対応するため、属性ベースのアクセス制御 (ABAC) のサポートを発表しました。ABAC は、IAM ユーザーやロールなどの IAM リソースや Lambda 関数などの AWS リソースにアタッチできるタグに基づいてアクセス許可を定義し、許可管理を簡素化する承認戦略です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Athena にクエリの分析および調整用の視覚的なツールを追加]]></title>
+        <id>49f82ca64a8d6a20ba55732c97be8041e36aa51e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-athena-visual-query-analysis-tuning-tools/"/>
+        <updated>2022-08-01T07:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Athena ユーザーは視覚的でインタラクティブなツールを使用して、クエリを分析および調整できるようになりました。クエリの最適化とエラーのデバッグは困難なタスクです。多くの場合、クエリの動作に関する知識と、クエリのロジックを調整するための慎重なアプローチが必要になります。本日のリリースにより、Athena コンソールから、エラーのデバッグとパフォーマンスの向上を簡単に実現できるツールでクエリを分析できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高齢者施設利用者のおよそ1割でワクチン効果弱く＝岡山大調査]]></title>
         <id>https://www.technologyreview.jp/n/2022/07/31/282068/</id>
