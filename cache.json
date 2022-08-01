@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "631cb81c9591345b1dc64dc083f27cacf262e12a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB は、R5b データベース (DB) インスタンスをサポートするようになりました。R5b DB インスタンスは、x86 ベースのメモリ最適化 R5 DB インスタンスと比較して、Amazon Elastic Block Store (Amazon EBS) で最大 3 倍の I/O オペレーション/秒 (IOPS) と最大 3 倍の帯域幅をサポートします。R5b DB インスタンスは、I/O 負荷の高い DB ワークロードに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-mariadb-supports-r5b-instances/",
+          "publishedOn": "2022-08-01T17:47:15.000Z",
+          "wordCount": 397,
+          "title": "Amazon RDS for MariaDB が R5b インスタンスのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a9e16823153c80cc32df1128cfc9a810617469d9",
+          "author": "aws@amazon.com",
+          "description": "本日、エンゲージメントを高め、直感的でインクルーシブなユーザーエクスペリエンスを大規模に構築するオープンソースソリューションである Cloudscape デザインシステムを発表します。Cloudscape は Web アプリケーションを作成するための広範なガイドラインと、実装を効率化するためのデザインリソースおよびフロントエンドコンポーネントで構成されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/cloudscape-design-system-open-source-solution-building-intuitive-web-applications/",
+          "publishedOn": "2022-08-01T15:33:26.000Z",
+          "wordCount": 305,
+          "title": "直感的な Web アプリケーションを構築するオープンソースソリューションの Cloudscape デザインシステムを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2fc46c8acee30b427324b212bcab583b8a55a536",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、Contact Control Panel (CCP) と Salesforce CTI Adapter で Contact Lens のトランスクリプト、検出された問題、マッチしたカテゴリをエージェントが閲覧できるようになりました。顧客との電話の終わりに、改編されていない通話のトランスクリプトがエージェントに表示され、顧客やケースのメモに必要な情報をコピーできます。通話終了後、Contact Lens が検出した問い合わせカテゴリラベルと問題がトランスクリプトに表示されます。さらに、エージェントに通話が転送された場合、前のエージェントが顧客と行った会話のトランスクリプトが表示されるため、それまでのやり取りの状況を理解でき、同じやり取りを繰り返す必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-connect-contact-lens-integration-contact-control-panel-salesforce-cti-adapter/",
+          "publishedOn": "2022-08-01T15:32:38.000Z",
+          "wordCount": 326,
+          "title": "Amazon Connect が Contact Lens の Contact Control Panel と Salesforce CTI Adapter との統合を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b671685b1c41accff2da85ed40dbc19727a24493",
+          "author": "aws@amazon.com",
+          "description": "AWS Snowball Edge (SBE) Storage Optimized デバイスが、高性能ネットファイルシステム (NFS) データ転送オペレーションのサポートを AWS GovCloud (米国) リージョンで開始しました。このサポートの開始により、AWS GovCloud (米国) リージョンではファイルやオブジェクトのインターフェイスを通じて、最大 80 TB のデータを Snowball Edge Storage Optimized デバイスに転送できるようになりました。ファイルインターフェイスは AWS Snowball Edge Storage Optimized の各 Amazon S3 バケットのネットファイルシステム (NFS) のマウントポイントを公開します。ファイル共有をマウントした後に、コンピュータから Snowball エッジデバイスの S3 バケットにファイルをドラッグ＆ドロップできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-snowball-edge-storage-optimized-devices-nfs-data-transfer-govcloud/",
+          "publishedOn": "2022-08-01T15:31:47.000Z",
+          "wordCount": 391,
+          "title": "AWS Snowball Edge Storage Optimized デバイスが高性能 NFS データ転送のサポートを AWS GovCloud (米国) リージョンで開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "de562fe8f890ec2bebb464a4e93c90910d6cde1e",
+          "author": "aws@amazon.com",
+          "description": "AWS Identity and Access Management (IAM) を使って Amazon Neptune に接続する際、データプレーンアクションのきめ細かいアクセス管理が設定できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-neptune-supports-fine-grained-access-control-iam/",
+          "publishedOn": "2022-08-01T15:16:13.000Z",
+          "wordCount": 306,
+          "title": "Amazon Neptune が IAM できめ細かいアクセス管理のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "d4e0f721afe634c9f600ee68319560b2976cb9ba",
           "author": "aws@amazon.com",
           "description": "AWS Step Functions は AWS SDK の統合を拡大し、3 つの AWS サービスと 195 の AWS API アクションのサポートが新たに始まりました。その結果、合計で 223 の AWS サービス、10,000 以上の API アクションをサポートしています。",
@@ -3156,6 +3206,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/amazon_guardduty.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は、悪意のある動作を検出する「Amazon GuardDuty」の新機能として、マルウェアの検出機能に対応したことを、7月26日、27日に開催したイベント「AWS re:Inforce 202...",
+          "link": "https://www.publickey1.jp/blog/22/amazon_guardduty.html",
+          "publishedOn": "2022-08-01T15:13:16.000Z",
+          "wordCount": 1237,
+          "title": "Amazon GuardDutyでマルウェアの検出が可能に。既存の悪意のある動作の検出に加えて",
+          "imageUrl": "https://www.publickey1.jp/2022/reinforce202202.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsamazon_detectiveamazon_ekskubernetes.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は、クラウド上で稼働するアプリケーションにおけるセキュリティの問題や不審なアクティビティなどの原因を分析、調査し、特定することを支援するサービス「Amazon Detective」が、Amaz...",
+          "link": "https://www.publickey1.jp/blog/22/awsamazon_detectiveamazon_ekskubernetes.html",
+          "publishedOn": "2022-08-01T15:09:10.000Z",
+          "wordCount": 1243,
+          "title": "AWS、セキュリティ問題を分析する「Amazon Detective」がAmazon EKSのKubernetesワークロードに対応",
+          "imageUrl": "https://www.publickey1.jp/2022/reinforce202201.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/metafacebookrustpythonchack.html",
           "author": null,
           "description": "Meta（旧Facebook）は、ブログ「Engineering at Meta」で公開した記事「Programming languages endorsed for server-side use at Meta」で、Rustを新たに社内...",
@@ -3622,6 +3692,46 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=281393",
+          "author": "Noriko Higo",
+          "description": "地球温暖化の影響など、将来の気候予測をシミュレーションする「気候モデリング」に長年携わり、現在は気候変動をめぐる科学と社会の関係に注目する、東京大学/国立環境研究所の江守正多氏に、2050年のカーボンニュートラル実現に向けて必要な視点と自身の取り組みについて聞いた。",
+          "link": "https://www.technologyreview.jp/s/281393/what-will-we-learn-from-discussing-decarbonization-in-terms-of-elsi/",
+          "publishedOn": "2022-08-01T21:55:24.000Z",
+          "wordCount": 1506,
+          "title": "江守正多：技術だけではない、日本の「脱炭素」議論に必要な視点",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/22011945/49fe68c6a15bb8adf51bf7b61a8c9e00-1400x743.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/01/282187/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/02/282187/",
+          "publishedOn": "2022-08-01T21:15:46.000Z",
+          "wordCount": 705,
+          "title": "光ランダムアクセス量子メモリーの実証に初成功＝横浜国大",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/07/31/282067/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/02/282067/",
+          "publishedOn": "2022-08-01T21:08:36.000Z",
+          "wordCount": 708,
+          "title": "固形がんを8種に分類、免疫チェックポイント阻害薬の効果を予測＝近大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/01/282211/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/02/282211/",
+          "publishedOn": "2022-08-01T20:56:13.000Z",
+          "wordCount": 705,
+          "title": "プラズマ利用で植物免疫を活性化、環境負荷の少ない病害防除技術",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/07/31/282068/",
           "author": "MIT Technology Review Japan",
