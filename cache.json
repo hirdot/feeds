@@ -6,6 +6,96 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "54ebc74d51408f0fe2cb6d8bd85c2cb71b2bd94f",
+          "author": "aws@amazon.com",
+          "description": "AWS AppSync は GraphQL および Pub/Sub API の作成と管理を簡単にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL を使って、開発者は Amazon DynamoDB、AWS Lambda、HTTP API などのバックエンドのデータソースからデータを取得するリゾルバーを記述できます。実行時に GraphQL クエリを「リゾルブ」するために AppSync はクエリのコンテキスト情報 (context など) でリゾルバーコードを評価します。AppSync リゾルバーは Velocity Template Language (VTL) で記述されていて、開発者がデータのパース ($util.parseJson など)、変換 ($util.toJson など)、生成 ($util.autoId、$util.autoUlid など)、ログ取得 ($util.log など) を行えるようにする柔軟な統合ユーティリティに対応しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/",
+          "publishedOn": "2022-08-02T18:47:06.000Z",
+          "wordCount": 344,
+          "title": "AWS AppSync が GraphQL リゾルバーをテストする新しい API コマンドをリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e3c529ff2afbb8ebdeb448ab7af631dad676576c",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkSpaces は WorkSpace インスタンスから WorkSpace イメージを作成する API の提供を始めました。これまでこの機能は Amazon WorkSpaces コンソールのみから利用できました。今回のリリースによって、WorkSpace ですべてのアプリケーションとオペレーションシステムの更新を適用し、この API を使用して新しいイメージを作成できるようになります。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。今回のリリースで WorkSpace の CI/CD パイプラインを完全に自動化し、WorkSpace イメージを規則基準に応じて常に更新できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/",
+          "publishedOn": "2022-08-02T18:46:17.000Z",
+          "wordCount": 313,
+          "title": "WorkSpace イメージを作成する Amazon WorkSpaces API をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0862932482d6cfac106b0fba022c7f776c52349d",
+          "author": "aws@amazon.com",
+          "description": "AWS Transfer Family が、既存の SFTP、FTPS、FTP プロトコルのサポートに加え、Applicability Statement 2 (AS2) プロトコルをサポートするようになりました。 ヘルスケアとライフサイエンス、小売、金融サービス、保険など、ビジネスクリティカルなデータの交換に AS2 を利用している業種のお客様は、可用性に優れ、スケーラブルでグローバルに利用可能な AWS Transfer Family の AS2 エンドポイントを使用して、より費用対効果の高い方法で取引先と安全に取引データを交換できるようになりました。交換されたデータは AWS でネイティブにアクセスでき、処理、分析、機械学習に利用したり、AWS 上で動作するビジネスアプリケーションと統合したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/",
+          "publishedOn": "2022-08-02T15:31:55.000Z",
+          "wordCount": 325,
+          "title": "AWS Transfer Family が Applicability Statement 2 (AS2) のサポートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e4c7438b58dd57002550fe6f7a00357b5a3a5fdc",
+          "author": "aws@amazon.com",
+          "description": "AWS Single Sign-On (AWS SSO) が AWS IAM Identity Center になりました。従業員用のユーザーを一度作成または接続すると、複数の AWS アカウントやアプリケーションへのアクセスを一元管理できます。IAM Identity Center では、ユーザー ID を直接作成することも、Microsoft Active Directory や標準ベースの ID プロバイダー (Okta Universal Directory、Azure AD など) を含む、既存の ID ソースを接続することもできます。AWS アカウントのみ、クラウドアプリケーションのみ、またはその両方へのアクセスを管理できます。ユーザーは、既存の認証情報を利用して、割り当てられた AWS アカウント、AWS アプリケーション (Amazon SageMaker Studio など)、その他の標準ベースのクラウドアプリケーション (Salesforce、Box、Microsoft 365 など) にワンクリックでアクセスできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/",
+          "publishedOn": "2022-08-02T15:31:06.000Z",
+          "wordCount": 404,
+          "title": "AWS Single Sign-On (AWS SSO) が AWS IAM Identity Center に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "31881ad37fe5e2c5ec73535ebd18711b3e2049f2",
+          "author": "aws@amazon.com",
+          "description": "AWS Wickr はエンドツーエンドの暗号化されたエンタープライズコミュニケーションサービスで、メッセージング、音声およびビデオ通話、ファイル共有、画面共有にわたる安全なコラボレーションを可能にします。このサービスは現在プレビューで提供されています。AWS Wickr は極秘の通信を保護し、情報ガバナンスポリシーを適用し、必要に応じて情報を保持するよう設計されたセキュリティと管理機能の組み合わせにより、進化する脅威や規制に組織が対応するのに役立ちます。暗号化はローカルのエンドポイントで行われます。すべての通話、メッセージ、ファイルは新しいランダムキーで暗号化され、意図した受信者以外は誰も (AWS でさえ) それらを復号できません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/",
+          "publishedOn": "2022-08-02T15:18:06.000Z",
+          "wordCount": 306,
+          "title": "AWS が AWS Wickr を発表 (プレビュー版)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5be6f4dfd79a9628473c0576b9910d8edf009ad2",
+          "author": "aws@amazon.com",
+          "description": "AWS Marketplace Vendor Insights は販売者が AWS Marketplace を通じてセキュリティとコンプライアンスの情報を利用できるようにし、複雑なサードパーティソフトウェアのリスク評価プロセスを合理化するのに役立ちます。ウェブベースの統合ダッシュボードにより、ガバナンス、リスク、コンプライアンス (GRC) チームは、データプライバシーとレジデンシー、アプリケーションセキュリティ、アクセスコントロールなどのセキュリティとコンプライアンスの情報にアクセスできます。また、ダッシュボードには、AWS Config や AWS Audit Manager の評価、外部監査報告 (ISO 27001 や SOC2 Type 2 など)、ソフトウェアベンダーの自己評価に裏付けられたエビデンスが表示されます。Vendor Insights はサードパーティソフトウェアがビジネスコンプライアンスのニーズを満たしているかを効率的に検証するのにサポートを必要とするバイヤーに役立ちます。また、Vendor Insights は販売者が自社の強固なセキュリティ体制を紹介するのに役立ち、販売者は購入者からのリスク評価情報の要求に対応するための運用の負担を軽減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/",
+          "publishedOn": "2022-08-02T15:17:16.000Z",
+          "wordCount": 327,
+          "title": "ベンダーリスク評価の合理化に役立つ AWS Marketplace Vendor Insights を発表 (プレビュー版)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1a74465fdc3dc7725545886c9ec9291d2779ce9c",
+          "author": "aws@amazon.com",
+          "description": "AWS Config ではコンフォーマンスパックの拡張機能としてコンプライアンススコアをサポートするようになりました。コンプライアンススコアはパーセンテージベースのスコアで、コンフォーマンスパックの範囲でキャプチャされる一連の要件に対してリソースがどの程度準拠しているかをすばやく確認するのに役立ちます。コンフォーマンスパックは AWS アカウントと AWS リージョンの単一のエンティティとしてデプロイできる、または AWS Organizations の組織全体に簡単にデプロイできる AWS Config ルールと修正アクションのコレクションです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/",
+          "publishedOn": "2022-08-02T15:16:27.000Z",
+          "wordCount": 323,
+          "title": "AWS Config コンフォーマンスパックでリソースのコンプライアンス追跡のためのスコアを提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "51651235c49b867469a9f152d09e5d1d85b27b01",
+          "author": "aws@amazon.com",
+          "description": "AWS Security Hub では Amazon GuardDuty のマルウェア対策の検出結果を自動で受け取るようになりました。Amazon GuardDuty のマルウェア対策では、Amazon Elastic Cloud Compute (EC2) インスタンスおよびコンテナワークロードのマルウェアをエージェントレスで検出します。Security Hub と GuardDuty のこの統合により、マルウェア対策の検出結果を他のセキュリティの検出結果と統合することで、Security Hub での一元化および単一ウィンドウのエクスペリエンスが拡張され、セキュリティの検出結果をより簡単に検索、トリアージ、調査し、対策を講じられるようになります。Security Hub の GuardDuty のマルウェア対策の調査結果には、Amazon Detective で調査結果を素早く深く掘り下げることができる調査リンクも含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/",
+          "publishedOn": "2022-08-02T13:46:14.000Z",
+          "wordCount": 376,
+          "title": "AWS Security Hub が Amazon GuardDuty のマルウェア対策の検出結果の受け取りを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0df7523a66386ded0d551c3e1cadcc75bf36f1b9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Storage Service (Amazon S3) で見つかった極秘データを 10 例までワンクリックで一時的に取り出すことができる Amazon Macie の新機能を発表します。この新機能により、S3 オブジェクトのどのコンテンツが極秘であると特定されたかをより簡単に表示して理解できるため、必要に応じて迅速に確認、検証し、対策を講じられるようになります。この新機能でキャプチャされた極秘データの例はすべてユーザーが管理する AWS Key Management Service (AWS KMS) のキーを使って暗号化され、取得後に Amazon Macie コンソールで一時的に表示できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-macie-capability-securely-review-validate-sensitive-data-amazon-s3-object/",
+          "publishedOn": "2022-08-02T11:46:22.000Z",
+          "wordCount": 350,
+          "title": "Amazon Macie で Amazon S3 オブジェクトで見つかった極秘データを安全にレビューおよび検証する新機能を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "631cb81c9591345b1dc64dc083f27cacf262e12a",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB は、R5b データベース (DB) インスタンスをサポートするようになりました。R5b DB インスタンスは、x86 ベースのメモリ最適化 R5 DB インスタンスと比較して、Amazon Elastic Block Store (Amazon EBS) で最大 3 倍の I/O オペレーション/秒 (IOPS) と最大 3 倍の帯域幅をサポートします。R5b DB インスタンスは、I/O 負荷の高い DB ワークロードに最適です。",
@@ -1938,26 +2028,6 @@
           "wordCount": 2992,
           "title": "カメムシの生息地の変化がスマホでわかる！？データ収集と調査研究の新しいカタチ！",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/DTNJ_biome.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42418",
-          "author": "tadokoroyusuke",
-          "description": "SaaSなどのクラウドサービスが氾濫する時代 現代はSaaSやIaaSなどのクラウドサービスが数多く存在します。今やクラウドサービスの利用は企業にとっても政府にとってもなくてはならない時代となりました。 しかし日本ではも […]",
-          "link": "https://data.wingarc.com/all_about_ismap-42418?utm_source=rss&utm_medium=rss&utm_campaign=all_about_ismap",
-          "publishedOn": "2022-07-04T06:57:32.000Z",
-          "wordCount": 3913,
-          "title": "溢れるSaaS！ 選ぶ基準の一つ“政府認定クラウド“のお墨付きがあるかどうか？ ISMAP（イスマップ）= 政府情報システムのためのセキュリティ評価制度とは？",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/DTNJ_ISMAP.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=43613",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：デンチョーホーでデータの時代が加速する、かも！？ みなさん、おはようございます。 「改正電子帳簿保存法」って何度聞いても名前を覚えられないんで、内容まではちょっと頭に入ってこない感じだったんですけど、羊沼 […]",
-          "link": "https://data.wingarc.com/taimu-kun-130-43613?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-130",
-          "publishedOn": "2022-07-03T23:00:55.000Z",
-          "wordCount": 2945,
-          "title": "【タイムくん第130話】 改正電子帳簿保存法",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/130.jpg"
         }
       ]
     },
@@ -2424,26 +2494,6 @@
           "wordCount": 1090,
           "title": "第722回　UrBackupでお手軽ランサムウェア対策 ── Ubuntu Weekly Recipe",
           "imageUrl": "https://image.gihyo.co.jp/assets/images/admin/serial/01/ubuntu-recipe/0722/thumb/TH800_ogp.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
-          "author": null,
-          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
-          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002",
-          "publishedOn": "2022-07-04T06:43:00.000Z",
-          "wordCount": null,
-          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介 ── クラウド運用のリアルを変革につなげるには？―「Cloud Operator Days Tokyo 2022」の歩き方",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/news/info/2022/07/0401",
-          "author": null,
-          "description": "Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。",
-          "link": "https://gihyo.jp/news/info/2022/07/0401?utm_source=feed",
-          "publishedOn": "2022-07-04T02:55:00.000Z",
-          "wordCount": 169,
-          "title": "「Python Boot Camp」2022年9月3日に静岡県沼津市で開催",
-          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
         }
       ]
     },
@@ -2640,16 +2690,6 @@
           "publishedOn": "2022-07-06T01:00:00.000Z",
           "wordCount": null,
           "title": "第722回　UrBackupでお手軽ランサムウェア対策",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/news/info/2022/07/0401",
-          "author": null,
-          "description": "Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。",
-          "link": "https://gihyo.jp/news/info/2022/07/0401?utm_source=feed",
-          "publishedOn": "2022-07-04T02:55:00.000Z",
-          "wordCount": null,
-          "title": "「Python Boot Camp」2022年9月3日に静岡県沼津市で開催",
           "imageUrl": null
         }
       ]
@@ -2848,16 +2888,6 @@
           "wordCount": 304,
           "title": "第722回　UrBackupでお手軽ランサムウェア対策",
           "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0722/ogp.png"
-        },
-        {
-          "id": "https://gihyo.jp/news/info/2022/07/0401",
-          "author": null,
-          "description": "Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。",
-          "link": "https://gihyo.jp/news/info/2022/07/0401?utm_source=feed",
-          "publishedOn": "2022-07-04T02:55:00.000Z",
-          "wordCount": 169,
-          "title": "「Python Boot Camp」2022年9月3日に静岡県沼津市で開催",
-          "imageUrl": "https://gihyo.jp/assets/images/gihyojp-ogp.png"
         }
       ]
     },
@@ -2940,16 +2970,6 @@
           "wordCount": 319,
           "title": "Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released!",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/7/4/this-week-in-rails-improved-postgresql-support-performance-improvements-and-more-e462895a",
-          "author": null,
-          "description": "Hi, this is Petrik, bringing you the latest news from the Rails world.",
-          "link": "https://rubyonrails.org/2022/7/4/this-week-in-rails-improved-postgresql-support-performance-improvements-and-more-e462895a",
-          "publishedOn": "2022-07-04T00:00:00.000Z",
-          "wordCount": 574,
-          "title": "Improved PostgreSQL support, performance improvements and more…",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
     },
@@ -2958,6 +2978,16 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/120332",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220802_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_02/120332\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: RubyのGVLトレーサーgvl-tracing、casting gemでオブジェクトに振る舞いを追加ほか（20220802後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/120332",
+          "publishedOn": "2022-08-02T10:10:55.000Z",
+          "wordCount": 1074,
+          "title": "週刊Railsウォッチ: RubyのGVLトレーサーgvl-tracing、casting gemでオブジェクトに振る舞いを追加ほか（20220802後編）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220802_eyecatch-min.png"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/120087",
           "author": null,
@@ -3197,16 +3227,6 @@
           "wordCount": 473,
           "title": "Propshaft gem README（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2021/12/rails_propshaft_readme_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_04/119289",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220704_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_04/119289\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: マイグレーションをStrategyパターンで拡張可能にほか（20220704前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_04/119289",
-          "publishedOn": "2022-07-04T09:40:49.000Z",
-          "wordCount": 1113,
-          "title": "週刊Railsウォッチ: マイグレーションをStrategyパターンで拡張可能にほか（20220704前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/railswatch_20220704_eyecatch-min.png"
         }
       ]
     },
@@ -3215,6 +3235,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/2021it590003212ntt3idc_japan.html",
+          "author": null,
+          "description": "調査会社のIDC Japanは、2021年の国内ITサービス市場ベンダー売上ランキングを発表しました。 発表によると、2021年の国内ITサービス市場規模は5兆8712億円、前年比成長率は3.2％でした。ベンダー売上の上位5社は、1位が富士...",
+          "link": "https://www.publickey1.jp/blog/22/2021it590003212ntt3idc_japan.html",
+          "publishedOn": "2022-08-02T15:38:39.000Z",
+          "wordCount": 1238,
+          "title": "2021年の国内ITサービス市場規模は5兆9000億円、成長率は3.2％。売上げ1位は富士通、2位がNTTデータ、3位日立製作所。IDC Japan",
+          "imageUrl": "https://www.publickey1.jp/2022/itserviceidcjapan2022.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/amazon_guardduty.html",
           "author": null,
@@ -3682,6 +3712,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=281948",
+          "author": "Abby Ohlheiser",
+          "description": "ツイッターのトレンド機能については、これまでさまざまな問題が指摘されてきた。同機能の問題点は何なのだろうか？ これまでにどんな修正がなされ、なぜ依然として残されているのだろうか？",
+          "link": "https://www.technologyreview.jp/s/281948/why-twitter-still-has-those-terrible-trends/",
+          "publishedOn": "2022-08-02T21:58:05.000Z",
+          "wordCount": 1381,
+          "title": "問題だらけのツイッター「トレンド」機能がなくならない理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/29032505/trending-twitter-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/02/282325/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/03/282325/",
+          "publishedOn": "2022-08-02T21:53:39.000Z",
+          "wordCount": 691,
+          "title": "ニューラルネットの時系列予測性能を向上させる新手法＝東大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=280591",
+          "author": "Melissa Heikkilä",
+          "description": "オープンAIの「GPT-3」に匹敵する大規模言語モデルが無料公開された。世界中の1000人以上のボランティア研究者が1年がかりで作成したこのAIモデルは、従来の大規模言語モデルの持つ秘密主義と排他性を排し、倫理的配慮を初期段階から埋め込むことを狙いとしている。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/280591/inside-a-radical-new-project-to-democratize-ai/",
+          "publishedOn": "2022-08-02T21:25:23.000Z",
+          "wordCount": 1236,
+          "title": "GPT-3に強力ライバル、 1000人が作ったLLMは AI界の流れを変えるか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/12181504/Flower_2a-1400x787.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=282221",
           "author": "MIT Technology Review Audio Studio",
