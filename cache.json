@@ -2096,6 +2096,376 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/08/daily-linux-220803",
+          "author": null,
+          "description": "UbuntuやFedoraといったメジャーなディストリビューションでは、OSの起動時にデフォルトで「Plymouth」というスプラッシュスクリーン（ブートスプラッシュ）が表示される。このPlymouthを利用して、現在Red HatのソフトウェアエンジニアであるKate Hsuanを中心としたGNNOMEの開発者たちが、セキュアブート（Secure Boot）が無効になっているハードウェアやユーザに対して警告メッセージを表示できるように実装中だ。",
+          "link": "https://gihyo.jp/article/2022/08/daily-linux-220803?utm_source=feed",
+          "publishedOn": "2022-08-03T04:19:34.000Z",
+          "wordCount": null,
+          "title": "GNOME開発チーム、セキュアブートチェック機能をブートスプラッシュ「Plymouth」に実装中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/hcp-vault-and-consul",
+          "author": null,
+          "description": "HashiCorpは、クラウドセキュリティを自動化する「HCP Vault」と、クラウドサービスのネットワーキングとサービスメッシュに関するトータルソリューション「HCP Consul」を、マネージドプラットフォーム「HashiCorp Cloud Platform（HCP）」上で10月末以降に日本で提供を開始することを発表した。",
+          "link": "https://gihyo.jp/article/2022/08/hcp-vault-and-consul?utm_source=feed",
+          "publishedOn": "2022-08-03T03:25:00.000Z",
+          "wordCount": null,
+          "title": "HashiCorp、HashiCorp Cloud Platform（HCP）上で「HCP Vault」「HCP Consul」を日本で今秋提供",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ga4-001",
+          "author": null,
+          "description": "これまで、ユニバーサルアナリティクス（これまで長く使われてきたGoogleアナリティクス）を使ってWebサイトのアクセス解析を行っていた方向けに、「Googleアナリティクス4（GA4）」に切り替える方法について解説していきます。",
+          "link": "https://gihyo.jp/article/2022/08/ga4-001?utm_source=feed",
+          "publishedOn": "2022-08-03T01:10:00.000Z",
+          "wordCount": null,
+          "title": "GA4（Google Analytics 4）を自分のサイトに導入しよう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0726",
+          "author": null,
+          "description": "Slackの料金・プランが2022年9月1日改定されるニュースは、Slackユーザーの中で大きな話題になっていました。それと同時に注目を浴びているのが、「FLOSS版のSlack」とも言うべきMattermostです。そこで今回は改めてMattermostについておさらいしてみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0726?utm_source=feed",
+          "publishedOn": "2022-08-03T00:39:00.000Z",
+          "wordCount": null,
+          "title": "第726回　Slackの代替として、ハドルミーティングも実装されたオープンソース版のMattermostはいかが？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/sync2022",
+          "author": null,
+          "description": "ユニティ・テクノロジーズ・ジャパン（株）は、 2022年10月25、26日に開催するUnityに関するオンラインカンファレンス「SYNC 2022」の参加登録受付を開始した。",
+          "link": "https://gihyo.jp/article/2022/08/sync2022?utm_source=feed",
+          "publishedOn": "2022-08-03T00:30:00.000Z",
+          "wordCount": 152,
+          "title": "10月開催 Unity大規模カンファレンス「SYNC 2022」参加受付開始、サテライト会場の公募も開始",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1920_sync2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/daily-linux-220802",
+          "author": null,
+          "description": "Linus Torvaldsは7月31日（米国時間）、「Linux 5.19」の正式リリースを明らかにした。",
+          "link": "https://gihyo.jp/article/2022/08/daily-linux-220802?utm_source=feed",
+          "publishedOn": "2022-08-02T04:40:00.000Z",
+          "wordCount": null,
+          "title": "Linux 5.19が公開、LinusはMacBook Airでリリース作業",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/morisawa-fonts2208",
+          "author": null,
+          "description": "（株）モリサワは、クラウド型の新たなフォントサービス「Morisawa Fonts」を2022年10月4日（火）にリリースすることを発表した。",
+          "link": "https://gihyo.jp/article/2022/08/morisawa-fonts2208?utm_source=feed",
+          "publishedOn": "2022-08-02T04:26:00.000Z",
+          "wordCount": null,
+          "title": "モリサワ、「MORISAWA PASSPORT」の後継となる新フォントサービス「Morisawa Fonts」を10/4リリース、リリースキャンペーンも実施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042",
+          "author": null,
+          "description": "最近のbashは変数展開や置換機能がずいぶん充実していて、かつてはsedやtr,awkを使って書いていた処理が、ほぼbashの機能だけで書けるようになりました。今回は、そのようなbashの便利な機能をいくつか紹介してみようと思います。",
+          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042?utm_source=feed",
+          "publishedOn": "2022-08-02T00:38:00.000Z",
+          "wordCount": null,
+          "title": "第42回　bashの便利な機能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ossdb-various-news0084",
+          "author": null,
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/article/2022/08/ossdb-various-news0084?utm_source=feed",
+          "publishedOn": "2022-08-01T00:12:00.000Z",
+          "wordCount": null,
+          "title": "第84回　MySQL 8.0.30がリリース、次のバージョンPostgreSQL 15をベータ版から予習しよう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/basics-of-power-automate",
+          "author": null,
+          "description": "2021年3月にMicrosoftからWindowsユーザーは追加費用なしでPower AutomateのRPA機能である「Power Automate for desktop」を使って、身の回りのPC業務を自動化できると発表がありました。今回は、Power Automateの概要と、Power Automate for desktopのセットアップと基本構成について説明します。",
+          "link": "https://gihyo.jp/article/2022/07/basics-of-power-automate?utm_source=feed",
+          "publishedOn": "2022-07-29T11:32:00.000Z",
+          "wordCount": 490,
+          "title": "Power Automate／Power Automate for desktopの概要と基礎を学ぶ",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/07/basics-of-power-automate/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/iot-engineer02",
+          "author": null,
+          "description": "本記事は、ソラコムのエンジニアが全3回でお送りする「IoTエンジニアを目指すには」の第2回の記事です。第2回では、IoTエンジニアに関わる技術要素から、どのようなステップでIoTエンジニアになっていけばよいかについて語っていきたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/iot-engineer02?utm_source=feed",
+          "publishedOn": "2022-07-29T06:04:00.000Z",
+          "wordCount": null,
+          "title": "スキルと経験をIoTエンジニア誕生に導くためのステップ・バイ・ステップ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/29",
+          "author": null,
+          "description": "Ubuntu 22.04 LTS（jammy）用に、linux-nvidiaと名付けられた新しいカーネルフレーバーが登場しています。正式なリリースではなく、「このようなものが開発されている」という段階ですが、きわめて興味深い点があるので見ていきましょう。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/29?utm_source=feed",
+          "publishedOn": "2022-07-29T00:55:00.000Z",
+          "wordCount": null,
+          "title": "Ubuntu 22.04 LTS用“linux-nvidia”カーネルフレーバーの開発、Canonical Ubuntu Confidential VMsのGA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/illustrator-itpassport-02",
+          "author": null,
+          "description": "本連載は、イラストレーターのイシクラがITパスポートの取得を目指して、独学で勉強する様子を日記風に紹介するものです。",
+          "link": "https://gihyo.jp/article/2022/07/illustrator-itpassport-02?utm_source=feed",
+          "publishedOn": "2022-07-29T00:23:00.000Z",
+          "wordCount": null,
+          "title": "第2回　イシクラ2進数について知る〜2進数とコンピュータの関係〜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/devrel-tokyo2022",
+          "author": null,
+          "description": "開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。",
+          "link": "https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed",
+          "publishedOn": "2022-07-28T00:40:00.000Z",
+          "wordCount": null,
+          "title": "「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728",
+          "author": null,
+          "description": "多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。",
+          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed",
+          "publishedOn": "2022-07-28T00:18:00.000Z",
+          "wordCount": 215,
+          "title": "Android 13待ちで世間が静かなので小ネタをピックアップ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/figma220727",
+          "author": null,
+          "description": "ブラウザ上で共同編集できるデザインプラットフォーム「Figma（フィグマ）」を提供するFigma, Inc.は2022年7月27日、デザインコラボレーションツール「Figma」とオンラインホワイトボードツール「FigJam」の日本版をリリース、Webサイト、ヘルプセンターも日本語に対応したことを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/figma220727?utm_source=feed",
+          "publishedOn": "2022-07-27T07:24:53.000Z",
+          "wordCount": 133,
+          "title": "Figmaが日本版をリリース、英語以外の言語へのローカライズは初",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/07/figma2207/001.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220727",
+          "author": null,
+          "description": "Fedora Linuxのデスクトップエディション「Fedora Linux Workstation」はデフォルトのデスクトップ環境にGNOMEを採用しているが、KDE PlasmaやXfceなどを利用したいユーザのためにそれぞれのデスクトップ環境にカスタマイズされた「Fedora Spins」が用意されている。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220727?utm_source=feed",
+          "publishedOn": "2022-07-27T03:15:57.000Z",
+          "wordCount": null,
+          "title": "メンテナーが消えた！？ ―Fedora、メンテナー不在のSpins/Labsについて方針を示唆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0725",
+          "author": null,
+          "description": "今回はRcloneと専用GNOME Shell拡張機能であるrclone-managerを併用し、さまざまなクラウドストレージサービスをまるで専用クライアントを使用しているかのようにアクセスする方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0725?utm_source=feed",
+          "publishedOn": "2022-07-27T00:30:00.000Z",
+          "wordCount": null,
+          "title": "第725回　Rcloneと専用GNOME Shell拡張機能を併用して、Ubuntuからさまざまなクラウドストレージサービスにアクセスする",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220726",
+          "author": null,
+          "description": "Debianベースの軽量Linuxディストロのひとつ、USBドライブやLiveCDから起動できる「Slax」、現在でこそDebianベースのOSとして知られているが、プロジェクトがスタートした2003年ごろから2013年まではベースにSlackwareを採用していた。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220726?utm_source=feed",
+          "publishedOn": "2022-07-26T06:24:42.000Z",
+          "wordCount": null,
+          "title": "原点回帰!? Slax開発者、Slackware＋FluxBoxのプロトタイプを期間限定で公開",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0006",
+          "author": null,
+          "description": "これまでレポートしてきたとおり、SaaS時代になり、OSSをコアにしてサービスを提供し、開発コミュニティの大きさを投資家にアピールして資金調達に成功するユニコーン企業が米中で出てきています。",
+          "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0006?utm_source=feed",
+          "publishedOn": "2022-07-26T00:22:00.000Z",
+          "wordCount": null,
+          "title": "第6回　中国が世界の大規模OSSプロジェクトを主導する",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/mysql-rcn0176",
+          "author": null,
+          "description": "SQLでザックリとした日付を指定したはずなのに、何故か全件取れてしまう。皆さんは、そんな恐ろしい経験はありませんでしょうか？今回は、そんな真夏にふさわしい？ SQLで起こった怖いお話を紹介していきたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/mysql-rcn0176?utm_source=feed",
+          "publishedOn": "2022-07-26T00:20:00.000Z",
+          "wordCount": null,
+          "title": "第176回　MySQLのクエリ：日付で絞り込んでいるはずなのに何故か全件取れてしまった",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/what_is_dx",
+          "author": null,
+          "description": "「DX」という言葉を聞いたことがありますか？「DXで業務を効率化しましょう」といった文句があらゆる場所で氾濫していますが、その意味を正しく理解できていない担当者も少なくありません。本記事では、DXの定義やDXで何が変わるのか、DXを担うために必要なスキルなどを事例を交えて解説していきます。\r\nまた、DXによって何が変わっていくのか、DXを実現するために変えなくてはいけないことはあるのかについても紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/what_is_dx?utm_source=feed",
+          "publishedOn": "2022-07-25T00:39:00.000Z",
+          "wordCount": null,
+          "title": "［IPAのDXエバンジェリストが解説］VUCAの時代に立ち向かうエンジニアに知ってほしいDXの基礎知識",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/22",
+          "author": null,
+          "description": "DELL製PCの中には一定数の通常のUbuntuプリインストールマシンとともに、「Developer Edition」と呼ばれる、「ソフトウェア開発者向けの、Ubuntuがプリインストールされたスペシャルバージョン」のリリースが存在します。その最新バージョンである、12世代Intel Coreシリーズ搭載のXPS 13 Plus Developer Editionが、Ubuntu 22.04 LTS Certifiedになりました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/22?utm_source=feed",
+          "publishedOn": "2022-07-22T06:59:00.000Z",
+          "wordCount": null,
+          "title": "DELL XPS 13 Plus Developer EditionのUbuntu 22.04 LTS認定 / Project “Sputnik”の最新リリース、Ubuntu 21.10のサポート終了（EOL）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/nocode-tide-with-appsheet",
+          "author": null,
+          "description": "DXの世界で「ノーコード」という言葉が聞かれるようになり久しくなりました。今回は、Googleが提供する業務アプリ開発ツールのAppSheetに焦点をあて、ノーコードによるアプリ開発の利点、および運用に当たっての問題点とその解決方法について整理します。",
+          "link": "https://gihyo.jp/article/2022/07/nocode-tide-with-appsheet?utm_source=feed",
+          "publishedOn": "2022-07-22T00:38:00.000Z",
+          "wordCount": null,
+          "title": "ノーコードの潮流と、AppSheetによる業務アプリケーション開発のススメ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0603",
+          "author": null,
+          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp、株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿では輪読会の第3回の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0603?utm_source=feed",
+          "publishedOn": "2022-07-21T03:00:00.000Z",
+          "wordCount": null,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート〜データ組織編〜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721",
+          "author": null,
+          "description": "Nothing TechnologyのPhone (1)が限定発売になりました。国内販売は8月に予定されており、SIMフリーモデルで、メモリ8Gバイト、ストレージ256Gバイトのモデルが6万9,800円になる見込みです。",
+          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721?utm_source=feed",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Nothing Phone (1)は、アリ・ナシどっち？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0724",
+          "author": null,
+          "description": "第721回ではASRockからリリースされたDeskMeet B660にUbuntuを入れて使ってみました。このB660では第12世代Coreをサポートしており、二種類のコアを組み合わせたIntel Hybrid Technologyになっています。今回はPythonを用いて、各コアのベンチマークを取ってみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0724?utm_source=feed",
+          "publishedOn": "2022-07-20T01:00:00.000Z",
+          "wordCount": null,
+          "title": "第724回　CPUコアごとのベンチマークをPythonで簡単に取得してみる",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220719",
+          "author": null,
+          "description": "Debianをベースにした軽量なロードバランサーとして、少しずつユースケースが拡大しているプロダクトに「ZEVENET」がある。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220719?utm_source=feed",
+          "publishedOn": "2022-07-19T04:02:44.000Z",
+          "wordCount": null,
+          "title": "Debianベースのロードバランサー「ZEVENET」、バージョン5.12.2にマイナーアップデート",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/ruby-procon2022-07",
+          "author": null,
+          "description": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」第12回大会が開催されます。最終審査会は2022年12月3日です。",
+          "link": "https://gihyo.jp/article/2022/07/ruby-procon2022-07?utm_source=feed",
+          "publishedOn": "2022-07-19T01:10:00.000Z",
+          "wordCount": null,
+          "title": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」開催決定、作品募集開始～2022年9月30日まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/slack-update",
+          "author": null,
+          "description": "Slackは、2022年9月1日から「プロプラン」の料金を変更することを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/slack-update?utm_source=feed",
+          "publishedOn": "2022-07-19T00:50:00.000Z",
+          "wordCount": null,
+          "title": "Slack「プロプラン」の料金を改定、フリープランの内容も変更に",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/illustrator-itpassport-01",
+          "author": null,
+          "description": "本連載は、イラストレーターのイシクラがITパスポートの取得を目指して、独学で勉強する様子を日記風に紹介するものです。",
+          "link": "https://gihyo.jp/article/2022/07/illustrator-itpassport-01?utm_source=feed",
+          "publishedOn": "2022-07-15T04:32:00.000Z",
+          "wordCount": null,
+          "title": "第1回　イシクラITパスポートを知る～自己紹介とITパスポートシラバスについて～",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/cacoo-update",
+          "author": null,
+          "description": "株式会社ヌーラボが提供するオンラインコラボレーション作図ツール「Cacoo」に「無限キャンバス」機能が追加されました。",
+          "link": "https://gihyo.jp/article/2022/07/cacoo-update?utm_source=feed",
+          "publishedOn": "2022-07-15T04:15:00.000Z",
+          "wordCount": null,
+          "title": "オンライン作図ツールのCacoo、「無限キャンバス」をリリース",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/15",
+          "author": null,
+          "description": "Arm向けUbuntuの利用範囲が広がります。プレビューが開始されたGCPのT2A VM用最適化されたUbuntuイメージの提供が開始されています。また、Ubuntu 22.10（kinetic）向けの動きとして、linux-riscvカーネルコンフィグの補正が行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/15?utm_source=feed",
+          "publishedOn": "2022-07-15T01:08:00.000Z",
+          "wordCount": null,
+          "title": "Google CloudのT2A VM向け最適化Ubuntuイメージ・Ubuntu 22.10向けRISC-V用カーネルコンフィグの整理と「Allwinner D1向けカーネル」の準備",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0005",
+          "author": null,
+          "description": "本章では、HTTP/3に機能の追加や変更を行う拡張についてと、HTTP/3を利用した応用プロトコルについて解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0005?utm_source=feed",
+          "publishedOn": "2022-07-15T00:30:00.000Z",
+          "wordCount": null,
+          "title": "第5章 HTTP/3の拡張と応用 ～ 機能を追加し、より効率的に、より便利に",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/java2022-0701",
+          "author": null,
+          "description": "誕生から27周年を迎えたプログラミング言語Java。ここでは、Javaの最新動向についてていねいに紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/java2022-0701?utm_source=feed",
+          "publishedOn": "2022-07-13T23:59:00.000Z",
+          "wordCount": null,
+          "title": "2022年のJavaまるわかり！最新バージョンからJavaを取り巻く環境まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0004",
+          "author": null,
+          "description": "プロトコルやクライアントとサーバの動作を理解するには、実際に動かすことが大事です。そこで本章では、実際にHTTP/3に触ってみます。ブラウザやCurl、Wiresharkなどを使ってHTTP/3通信を確認する方法と、nginxを使ってHTTP/3サーバを構築する方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0004?utm_source=feed",
+          "publishedOn": "2022-07-13T23:59:00.000Z",
+          "wordCount": 667,
+          "title": "第4章 実践HTTP/3 ～ 実装を触り、通信を観測し、理解を深める",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/14",
+          "author": null,
+          "description": "新進気鋭のスタートアップの「Nothing」の最初のスマートフォン「Nothing phone (1)」が7月13日の0時にオンラインで発表が行われ、同日の正午12時より販売が開始されます。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202207/14?utm_source=feed",
+          "publishedOn": "2022-07-13T22:49:00.000Z",
+          "wordCount": null,
+          "title": "話題の中心となれるか？ Nothing phone (1)が発売です",
+          "imageUrl": null
+        },
+        {
           "id": "https://gihyo.jp/article/2022/07/daily-linux-220713",
           "author": null,
           "description": "Red Hatは7月12日（米国時間）、製品/テクノロジ部門のエグゼクティブバイスプレジデントを務めるMatt Hicksが同社の新CEO兼プレジデントに指名されたことを発表した。",
@@ -2363,6 +2733,376 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/08/daily-linux-220803",
+          "author": null,
+          "description": "UbuntuやFedoraといったメジャーなディストリビューションでは、OSの起動時にデフォルトで「Plymouth」というスプラッシュスクリーン（ブートスプラッシュ）が表示される。このPlymouthを利用して、現在Red HatのソフトウェアエンジニアであるKate Hsuanを中心としたGNNOMEの開発者たちが、セキュアブート（Secure Boot）が無効になっているハードウェアやユーザに対して警告メッセージを表示できるように実装中だ。",
+          "link": "https://gihyo.jp/article/2022/08/daily-linux-220803?utm_source=feed",
+          "publishedOn": "2022-08-03T04:19:34.000Z",
+          "wordCount": null,
+          "title": "GNOME開発チーム、セキュアブートチェック機能をブートスプラッシュ「Plymouth」に実装中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/hcp-vault-and-consul",
+          "author": null,
+          "description": "HashiCorpは、クラウドセキュリティを自動化する「HCP Vault」と、クラウドサービスのネットワーキングとサービスメッシュに関するトータルソリューション「HCP Consul」を、マネージドプラットフォーム「HashiCorp Cloud Platform（HCP）」上で10月末以降に日本で提供を開始することを発表した。",
+          "link": "https://gihyo.jp/article/2022/08/hcp-vault-and-consul?utm_source=feed",
+          "publishedOn": "2022-08-03T03:25:00.000Z",
+          "wordCount": null,
+          "title": "HashiCorp、HashiCorp Cloud Platform（HCP）上で「HCP Vault」「HCP Consul」を日本で今秋提供",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ga4-001",
+          "author": null,
+          "description": "これまで、ユニバーサルアナリティクス（これまで長く使われてきたGoogleアナリティクス）を使ってWebサイトのアクセス解析を行っていた方向けに、「Googleアナリティクス4（GA4）」に切り替える方法について解説していきます。",
+          "link": "https://gihyo.jp/article/2022/08/ga4-001?utm_source=feed",
+          "publishedOn": "2022-08-03T01:10:00.000Z",
+          "wordCount": 210,
+          "title": "GA4（Google Analytics 4）を自分のサイトに導入しよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1918_ga4.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0726",
+          "author": null,
+          "description": "Slackの料金・プランが2022年9月1日改定されるニュースは、Slackユーザーの中で大きな話題になっていました。それと同時に注目を浴びているのが、「FLOSS版のSlack」とも言うべきMattermostです。そこで今回は改めてMattermostについておさらいしてみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0726?utm_source=feed",
+          "publishedOn": "2022-08-03T00:39:00.000Z",
+          "wordCount": 329,
+          "title": "第726回　Slackの代替として、ハドルミーティングも実装されたオープンソース版のMattermostはいかが？",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0726/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/sync2022",
+          "author": null,
+          "description": "ユニティ・テクノロジーズ・ジャパン（株）は、 2022年10月25、26日に開催するUnityに関するオンラインカンファレンス「SYNC 2022」の参加登録受付を開始した。",
+          "link": "https://gihyo.jp/article/2022/08/sync2022?utm_source=feed",
+          "publishedOn": "2022-08-03T00:30:00.000Z",
+          "wordCount": null,
+          "title": "10月開催 Unity大規模カンファレンス「SYNC 2022」参加受付開始、サテライト会場の公募も開始",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/daily-linux-220802",
+          "author": null,
+          "description": "Linus Torvaldsは7月31日（米国時間）、「Linux 5.19」の正式リリースを明らかにした。",
+          "link": "https://gihyo.jp/article/2022/08/daily-linux-220802?utm_source=feed",
+          "publishedOn": "2022-08-02T04:40:00.000Z",
+          "wordCount": null,
+          "title": "Linux 5.19が公開、LinusはMacBook Airでリリース作業",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/morisawa-fonts2208",
+          "author": null,
+          "description": "（株）モリサワは、クラウド型の新たなフォントサービス「Morisawa Fonts」を2022年10月4日（火）にリリースすることを発表した。",
+          "link": "https://gihyo.jp/article/2022/08/morisawa-fonts2208?utm_source=feed",
+          "publishedOn": "2022-08-02T04:26:00.000Z",
+          "wordCount": 149,
+          "title": "モリサワ、「MORISAWA PASSPORT」の後継となる新フォントサービス「Morisawa Fonts」を10/4リリース、リリースキャンペーンも実施",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1919_morisawa-fonts.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042",
+          "author": null,
+          "description": "最近のbashは変数展開や置換機能がずいぶん充実していて、かつてはsedやtr,awkを使って書いていた処理が、ほぼbashの機能だけで書けるようになりました。今回は、そのようなbashの便利な機能をいくつか紹介してみようと思います。",
+          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042?utm_source=feed",
+          "publishedOn": "2022-08-02T00:38:00.000Z",
+          "wordCount": null,
+          "title": "第42回　bashの便利な機能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ossdb-various-news0084",
+          "author": null,
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/article/2022/08/ossdb-various-news0084?utm_source=feed",
+          "publishedOn": "2022-08-01T00:12:00.000Z",
+          "wordCount": null,
+          "title": "第84回　MySQL 8.0.30がリリース、次のバージョンPostgreSQL 15をベータ版から予習しよう",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/basics-of-power-automate",
+          "author": null,
+          "description": "2021年3月にMicrosoftからWindowsユーザーは追加費用なしでPower AutomateのRPA機能である「Power Automate for desktop」を使って、身の回りのPC業務を自動化できると発表がありました。今回は、Power Automateの概要と、Power Automate for desktopのセットアップと基本構成について説明します。",
+          "link": "https://gihyo.jp/article/2022/07/basics-of-power-automate?utm_source=feed",
+          "publishedOn": "2022-07-29T11:32:00.000Z",
+          "wordCount": null,
+          "title": "Power Automate／Power Automate for desktopの概要と基礎を学ぶ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/iot-engineer02",
+          "author": null,
+          "description": "本記事は、ソラコムのエンジニアが全3回でお送りする「IoTエンジニアを目指すには」の第2回の記事です。第2回では、IoTエンジニアに関わる技術要素から、どのようなステップでIoTエンジニアになっていけばよいかについて語っていきたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/iot-engineer02?utm_source=feed",
+          "publishedOn": "2022-07-29T06:04:00.000Z",
+          "wordCount": 177,
+          "title": "スキルと経験をIoTエンジニア誕生に導くためのステップ・バイ・ステップ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1893_iot-engineer.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/29",
+          "author": null,
+          "description": "Ubuntu 22.04 LTS（jammy）用に、linux-nvidiaと名付けられた新しいカーネルフレーバーが登場しています。正式なリリースではなく、「このようなものが開発されている」という段階ですが、きわめて興味深い点があるので見ていきましょう。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/29?utm_source=feed",
+          "publishedOn": "2022-07-29T00:55:00.000Z",
+          "wordCount": null,
+          "title": "Ubuntu 22.04 LTS用“linux-nvidia”カーネルフレーバーの開発、Canonical Ubuntu Confidential VMsのGA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/illustrator-itpassport-02",
+          "author": null,
+          "description": "本連載は、イラストレーターのイシクラがITパスポートの取得を目指して、独学で勉強する様子を日記風に紹介するものです。",
+          "link": "https://gihyo.jp/article/2022/07/illustrator-itpassport-02?utm_source=feed",
+          "publishedOn": "2022-07-29T00:23:00.000Z",
+          "wordCount": null,
+          "title": "第2回　イシクラ2進数について知る〜2進数とコンピュータの関係〜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/devrel-tokyo2022",
+          "author": null,
+          "description": "開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。",
+          "link": "https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed",
+          "publishedOn": "2022-07-28T00:40:00.000Z",
+          "wordCount": null,
+          "title": "「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728",
+          "author": null,
+          "description": "多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。",
+          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed",
+          "publishedOn": "2022-07-28T00:18:00.000Z",
+          "wordCount": 215,
+          "title": "Android 13待ちで世間が静かなので小ネタをピックアップ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/figma220727",
+          "author": null,
+          "description": "ブラウザ上で共同編集できるデザインプラットフォーム「Figma（フィグマ）」を提供するFigma, Inc.は2022年7月27日、デザインコラボレーションツール「Figma」とオンラインホワイトボードツール「FigJam」の日本版をリリース、Webサイト、ヘルプセンターも日本語に対応したことを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/figma220727?utm_source=feed",
+          "publishedOn": "2022-07-27T07:24:53.000Z",
+          "wordCount": null,
+          "title": "Figmaが日本版をリリース、英語以外の言語へのローカライズは初",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220727",
+          "author": null,
+          "description": "Fedora Linuxのデスクトップエディション「Fedora Linux Workstation」はデフォルトのデスクトップ環境にGNOMEを採用しているが、KDE PlasmaやXfceなどを利用したいユーザのためにそれぞれのデスクトップ環境にカスタマイズされた「Fedora Spins」が用意されている。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220727?utm_source=feed",
+          "publishedOn": "2022-07-27T03:15:57.000Z",
+          "wordCount": null,
+          "title": "メンテナーが消えた！？ ―Fedora、メンテナー不在のSpins/Labsについて方針を示唆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0725",
+          "author": null,
+          "description": "今回はRcloneと専用GNOME Shell拡張機能であるrclone-managerを併用し、さまざまなクラウドストレージサービスをまるで専用クライアントを使用しているかのようにアクセスする方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0725?utm_source=feed",
+          "publishedOn": "2022-07-27T00:30:00.000Z",
+          "wordCount": null,
+          "title": "第725回　Rcloneと専用GNOME Shell拡張機能を併用して、Ubuntuからさまざまなクラウドストレージサービスにアクセスする",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220726",
+          "author": null,
+          "description": "Debianベースの軽量Linuxディストロのひとつ、USBドライブやLiveCDから起動できる「Slax」、現在でこそDebianベースのOSとして知られているが、プロジェクトがスタートした2003年ごろから2013年まではベースにSlackwareを採用していた。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220726?utm_source=feed",
+          "publishedOn": "2022-07-26T06:24:42.000Z",
+          "wordCount": null,
+          "title": "原点回帰!? Slax開発者、Slackware＋FluxBoxのプロトタイプを期間限定で公開",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0006",
+          "author": null,
+          "description": "これまでレポートしてきたとおり、SaaS時代になり、OSSをコアにしてサービスを提供し、開発コミュニティの大きさを投資家にアピールして資金調達に成功するユニコーン企業が米中で出てきています。",
+          "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0006?utm_source=feed",
+          "publishedOn": "2022-07-26T00:22:00.000Z",
+          "wordCount": null,
+          "title": "第6回　中国が世界の大規模OSSプロジェクトを主導する",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/mysql-rcn0176",
+          "author": null,
+          "description": "SQLでザックリとした日付を指定したはずなのに、何故か全件取れてしまう。皆さんは、そんな恐ろしい経験はありませんでしょうか？今回は、そんな真夏にふさわしい？ SQLで起こった怖いお話を紹介していきたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/mysql-rcn0176?utm_source=feed",
+          "publishedOn": "2022-07-26T00:20:00.000Z",
+          "wordCount": null,
+          "title": "第176回　MySQLのクエリ：日付で絞り込んでいるはずなのに何故か全件取れてしまった",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/what_is_dx",
+          "author": null,
+          "description": "「DX」という言葉を聞いたことがありますか？「DXで業務を効率化しましょう」といった文句があらゆる場所で氾濫していますが、その意味を正しく理解できていない担当者も少なくありません。本記事では、DXの定義やDXで何が変わるのか、DXを担うために必要なスキルなどを事例を交えて解説していきます。\r\nまた、DXによって何が変わっていくのか、DXを実現するために変えなくてはいけないことはあるのかについても紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/what_is_dx?utm_source=feed",
+          "publishedOn": "2022-07-25T00:39:00.000Z",
+          "wordCount": null,
+          "title": "［IPAのDXエバンジェリストが解説］VUCAの時代に立ち向かうエンジニアに知ってほしいDXの基礎知識",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/22",
+          "author": null,
+          "description": "DELL製PCの中には一定数の通常のUbuntuプリインストールマシンとともに、「Developer Edition」と呼ばれる、「ソフトウェア開発者向けの、Ubuntuがプリインストールされたスペシャルバージョン」のリリースが存在します。その最新バージョンである、12世代Intel Coreシリーズ搭載のXPS 13 Plus Developer Editionが、Ubuntu 22.04 LTS Certifiedになりました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/22?utm_source=feed",
+          "publishedOn": "2022-07-22T06:59:00.000Z",
+          "wordCount": null,
+          "title": "DELL XPS 13 Plus Developer EditionのUbuntu 22.04 LTS認定 / Project “Sputnik”の最新リリース、Ubuntu 21.10のサポート終了（EOL）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/nocode-tide-with-appsheet",
+          "author": null,
+          "description": "DXの世界で「ノーコード」という言葉が聞かれるようになり久しくなりました。今回は、Googleが提供する業務アプリ開発ツールのAppSheetに焦点をあて、ノーコードによるアプリ開発の利点、および運用に当たっての問題点とその解決方法について整理します。",
+          "link": "https://gihyo.jp/article/2022/07/nocode-tide-with-appsheet?utm_source=feed",
+          "publishedOn": "2022-07-22T00:38:00.000Z",
+          "wordCount": null,
+          "title": "ノーコードの潮流と、AppSheetによる業務アプリケーション開発のススメ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0603",
+          "author": null,
+          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp、株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿では輪読会の第3回の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0603?utm_source=feed",
+          "publishedOn": "2022-07-21T03:00:00.000Z",
+          "wordCount": null,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート〜データ組織編〜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721",
+          "author": null,
+          "description": "Nothing TechnologyのPhone (1)が限定発売になりました。国内販売は8月に予定されており、SIMフリーモデルで、メモリ8Gバイト、ストレージ256Gバイトのモデルが6万9,800円になる見込みです。",
+          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721?utm_source=feed",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Nothing Phone (1)は、アリ・ナシどっち？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0724",
+          "author": null,
+          "description": "第721回ではASRockからリリースされたDeskMeet B660にUbuntuを入れて使ってみました。このB660では第12世代Coreをサポートしており、二種類のコアを組み合わせたIntel Hybrid Technologyになっています。今回はPythonを用いて、各コアのベンチマークを取ってみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0724?utm_source=feed",
+          "publishedOn": "2022-07-20T01:00:00.000Z",
+          "wordCount": null,
+          "title": "第724回　CPUコアごとのベンチマークをPythonで簡単に取得してみる",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220719",
+          "author": null,
+          "description": "Debianをベースにした軽量なロードバランサーとして、少しずつユースケースが拡大しているプロダクトに「ZEVENET」がある。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220719?utm_source=feed",
+          "publishedOn": "2022-07-19T04:02:44.000Z",
+          "wordCount": null,
+          "title": "Debianベースのロードバランサー「ZEVENET」、バージョン5.12.2にマイナーアップデート",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/ruby-procon2022-07",
+          "author": null,
+          "description": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」第12回大会が開催されます。最終審査会は2022年12月3日です。",
+          "link": "https://gihyo.jp/article/2022/07/ruby-procon2022-07?utm_source=feed",
+          "publishedOn": "2022-07-19T01:10:00.000Z",
+          "wordCount": null,
+          "title": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」開催決定、作品募集開始～2022年9月30日まで",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/slack-update",
+          "author": null,
+          "description": "Slackは、2022年9月1日から「プロプラン」の料金を変更することを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/slack-update?utm_source=feed",
+          "publishedOn": "2022-07-19T00:50:00.000Z",
+          "wordCount": null,
+          "title": "Slack「プロプラン」の料金を改定、フリープランの内容も変更に",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/illustrator-itpassport-01",
+          "author": null,
+          "description": "本連載は、イラストレーターのイシクラがITパスポートの取得を目指して、独学で勉強する様子を日記風に紹介するものです。",
+          "link": "https://gihyo.jp/article/2022/07/illustrator-itpassport-01?utm_source=feed",
+          "publishedOn": "2022-07-15T04:32:00.000Z",
+          "wordCount": null,
+          "title": "第1回　イシクラITパスポートを知る～自己紹介とITパスポートシラバスについて～",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/cacoo-update",
+          "author": null,
+          "description": "株式会社ヌーラボが提供するオンラインコラボレーション作図ツール「Cacoo」に「無限キャンバス」機能が追加されました。",
+          "link": "https://gihyo.jp/article/2022/07/cacoo-update?utm_source=feed",
+          "publishedOn": "2022-07-15T04:15:00.000Z",
+          "wordCount": 138,
+          "title": "オンライン作図ツールのCacoo、「無限キャンバス」をリリース",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1912_cacoo.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/15",
+          "author": null,
+          "description": "Arm向けUbuntuの利用範囲が広がります。プレビューが開始されたGCPのT2A VM用最適化されたUbuntuイメージの提供が開始されています。また、Ubuntu 22.10（kinetic）向けの動きとして、linux-riscvカーネルコンフィグの補正が行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/15?utm_source=feed",
+          "publishedOn": "2022-07-15T01:08:00.000Z",
+          "wordCount": null,
+          "title": "Google CloudのT2A VM向け最適化Ubuntuイメージ・Ubuntu 22.10向けRISC-V用カーネルコンフィグの整理と「Allwinner D1向けカーネル」の準備",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0005",
+          "author": null,
+          "description": "本章では、HTTP/3に機能の追加や変更を行う拡張についてと、HTTP/3を利用した応用プロトコルについて解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0005?utm_source=feed",
+          "publishedOn": "2022-07-15T00:30:00.000Z",
+          "wordCount": null,
+          "title": "第5章 HTTP/3の拡張と応用 ～ 機能を追加し、より効率的に、より便利に",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/java2022-0701",
+          "author": null,
+          "description": "誕生から27周年を迎えたプログラミング言語Java。ここでは、Javaの最新動向についてていねいに紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/java2022-0701?utm_source=feed",
+          "publishedOn": "2022-07-13T23:59:00.000Z",
+          "wordCount": 461,
+          "title": "2022年のJavaまるわかり！最新バージョンからJavaを取り巻く環境まで",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1910_java.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0004",
+          "author": null,
+          "description": "プロトコルやクライアントとサーバの動作を理解するには、実際に動かすことが大事です。そこで本章では、実際にHTTP/3に触ってみます。ブラウザやCurl、Wiresharkなどを使ってHTTP/3通信を確認する方法と、nginxを使ってHTTP/3サーバを構築する方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0004?utm_source=feed",
+          "publishedOn": "2022-07-13T23:59:00.000Z",
+          "wordCount": null,
+          "title": "第4章 実践HTTP/3 ～ 実装を触り、通信を観測し、理解を深める",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/14",
+          "author": null,
+          "description": "新進気鋭のスタートアップの「Nothing」の最初のスマートフォン「Nothing phone (1)」が7月13日の0時にオンラインで発表が行われ、同日の正午12時より販売が開始されます。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202207/14?utm_source=feed",
+          "publishedOn": "2022-07-13T22:49:00.000Z",
+          "wordCount": null,
+          "title": "話題の中心となれるか？ Nothing phone (1)が発売です",
+          "imageUrl": null
+        },
+        {
           "id": "https://gihyo.jp/article/2022/07/daily-linux-220713",
           "author": null,
           "description": "Red Hatは7月12日（米国時間）、製品/テクノロジ部門のエグゼクティブバイスプレジデントを務めるMatt Hicksが同社の新CEO兼プレジデントに指名されたことを発表した。",
@@ -2559,6 +3299,376 @@
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
       "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/08/daily-linux-220803",
+          "author": null,
+          "description": "UbuntuやFedoraといったメジャーなディストリビューションでは、OSの起動時にデフォルトで「Plymouth」というスプラッシュスクリーン（ブートスプラッシュ）が表示される。このPlymouthを利用して、現在Red HatのソフトウェアエンジニアであるKate Hsuanを中心としたGNNOMEの開発者たちが、セキュアブート（Secure Boot）が無効になっているハードウェアやユーザに対して警告メッセージを表示できるように実装中だ。",
+          "link": "https://gihyo.jp/article/2022/08/daily-linux-220803?utm_source=feed",
+          "publishedOn": "2022-08-03T04:19:34.000Z",
+          "wordCount": 149,
+          "title": "GNOME開発チーム、セキュアブートチェック機能をブートスプラッシュ「Plymouth」に実装中",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/hcp-vault-and-consul",
+          "author": null,
+          "description": "HashiCorpは、クラウドセキュリティを自動化する「HCP Vault」と、クラウドサービスのネットワーキングとサービスメッシュに関するトータルソリューション「HCP Consul」を、マネージドプラットフォーム「HashiCorp Cloud Platform（HCP）」上で10月末以降に日本で提供を開始することを発表した。",
+          "link": "https://gihyo.jp/article/2022/08/hcp-vault-and-consul?utm_source=feed",
+          "publishedOn": "2022-08-03T03:25:00.000Z",
+          "wordCount": 160,
+          "title": "HashiCorp、HashiCorp Cloud Platform（HCP）上で「HCP Vault」「HCP Consul」を日本で今秋提供",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1921_hcp-vault-and-consul.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ga4-001",
+          "author": null,
+          "description": "これまで、ユニバーサルアナリティクス（これまで長く使われてきたGoogleアナリティクス）を使ってWebサイトのアクセス解析を行っていた方向けに、「Googleアナリティクス4（GA4）」に切り替える方法について解説していきます。",
+          "link": "https://gihyo.jp/article/2022/08/ga4-001?utm_source=feed",
+          "publishedOn": "2022-08-03T01:10:00.000Z",
+          "wordCount": 210,
+          "title": "GA4（Google Analytics 4）を自分のサイトに導入しよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1918_ga4.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0726",
+          "author": null,
+          "description": "Slackの料金・プランが2022年9月1日改定されるニュースは、Slackユーザーの中で大きな話題になっていました。それと同時に注目を浴びているのが、「FLOSS版のSlack」とも言うべきMattermostです。そこで今回は改めてMattermostについておさらいしてみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0726?utm_source=feed",
+          "publishedOn": "2022-08-03T00:39:00.000Z",
+          "wordCount": 329,
+          "title": "第726回　Slackの代替として、ハドルミーティングも実装されたオープンソース版のMattermostはいかが？",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0726/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/sync2022",
+          "author": null,
+          "description": "ユニティ・テクノロジーズ・ジャパン（株）は、 2022年10月25、26日に開催するUnityに関するオンラインカンファレンス「SYNC 2022」の参加登録受付を開始した。",
+          "link": "https://gihyo.jp/article/2022/08/sync2022?utm_source=feed",
+          "publishedOn": "2022-08-03T00:30:00.000Z",
+          "wordCount": 152,
+          "title": "10月開催 Unity大規模カンファレンス「SYNC 2022」参加受付開始、サテライト会場の公募も開始",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1920_sync2022.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/daily-linux-220802",
+          "author": null,
+          "description": "Linus Torvaldsは7月31日（米国時間）、「Linux 5.19」の正式リリースを明らかにした。",
+          "link": "https://gihyo.jp/article/2022/08/daily-linux-220802?utm_source=feed",
+          "publishedOn": "2022-08-02T04:40:00.000Z",
+          "wordCount": 183,
+          "title": "Linux 5.19が公開、LinusはMacBook Airでリリース作業",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/morisawa-fonts2208",
+          "author": null,
+          "description": "（株）モリサワは、クラウド型の新たなフォントサービス「Morisawa Fonts」を2022年10月4日（火）にリリースすることを発表した。",
+          "link": "https://gihyo.jp/article/2022/08/morisawa-fonts2208?utm_source=feed",
+          "publishedOn": "2022-08-02T04:26:00.000Z",
+          "wordCount": 149,
+          "title": "モリサワ、「MORISAWA PASSPORT」の後継となる新フォントサービス「Morisawa Fonts」を10/4リリース、リリースキャンペーンも実施",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1919_morisawa-fonts.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042",
+          "author": null,
+          "description": "最近のbashは変数展開や置換機能がずいぶん充実していて、かつてはsedやtr,awkを使って書いていた処理が、ほぼbashの機能だけで書けるようになりました。今回は、そのようなbashの便利な機能をいくつか紹介してみようと思います。",
+          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042?utm_source=feed",
+          "publishedOn": "2022-08-02T00:38:00.000Z",
+          "wordCount": 417,
+          "title": "第42回　bashの便利な機能",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ossdb-various-news0084",
+          "author": null,
+          "description": "この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。",
+          "link": "https://gihyo.jp/article/2022/08/ossdb-various-news0084?utm_source=feed",
+          "publishedOn": "2022-08-01T00:12:00.000Z",
+          "wordCount": 430,
+          "title": "第84回　MySQL 8.0.30がリリース、次のバージョンPostgreSQL 15をベータ版から予習しよう",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1899_ossdb_vn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/basics-of-power-automate",
+          "author": null,
+          "description": "2021年3月にMicrosoftからWindowsユーザーは追加費用なしでPower AutomateのRPA機能である「Power Automate for desktop」を使って、身の回りのPC業務を自動化できると発表がありました。今回は、Power Automateの概要と、Power Automate for desktopのセットアップと基本構成について説明します。",
+          "link": "https://gihyo.jp/article/2022/07/basics-of-power-automate?utm_source=feed",
+          "publishedOn": "2022-07-29T11:32:00.000Z",
+          "wordCount": 490,
+          "title": "Power Automate／Power Automate for desktopの概要と基礎を学ぶ",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/07/basics-of-power-automate/01.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/iot-engineer02",
+          "author": null,
+          "description": "本記事は、ソラコムのエンジニアが全3回でお送りする「IoTエンジニアを目指すには」の第2回の記事です。第2回では、IoTエンジニアに関わる技術要素から、どのようなステップでIoTエンジニアになっていけばよいかについて語っていきたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/iot-engineer02?utm_source=feed",
+          "publishedOn": "2022-07-29T06:04:00.000Z",
+          "wordCount": 177,
+          "title": "スキルと経験をIoTエンジニア誕生に導くためのステップ・バイ・ステップ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1893_iot-engineer.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/29",
+          "author": null,
+          "description": "Ubuntu 22.04 LTS（jammy）用に、linux-nvidiaと名付けられた新しいカーネルフレーバーが登場しています。正式なリリースではなく、「このようなものが開発されている」という段階ですが、きわめて興味深い点があるので見ていきましょう。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/29?utm_source=feed",
+          "publishedOn": "2022-07-29T00:55:00.000Z",
+          "wordCount": 306,
+          "title": "Ubuntu 22.04 LTS用“linux-nvidia”カーネルフレーバーの開発、Canonical Ubuntu Confidential VMsのGA",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/illustrator-itpassport-02",
+          "author": null,
+          "description": "本連載は、イラストレーターのイシクラがITパスポートの取得を目指して、独学で勉強する様子を日記風に紹介するものです。",
+          "link": "https://gihyo.jp/article/2022/07/illustrator-itpassport-02?utm_source=feed",
+          "publishedOn": "2022-07-29T00:23:00.000Z",
+          "wordCount": 175,
+          "title": "第2回　イシクラ2進数について知る〜2進数とコンピュータの関係〜",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/devrel-tokyo2022",
+          "author": null,
+          "description": "開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。",
+          "link": "https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed",
+          "publishedOn": "2022-07-28T00:40:00.000Z",
+          "wordCount": 173,
+          "title": "「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1917_devrelcon2022.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728",
+          "author": null,
+          "description": "多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。",
+          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed",
+          "publishedOn": "2022-07-28T00:18:00.000Z",
+          "wordCount": 215,
+          "title": "Android 13待ちで世間が静かなので小ネタをピックアップ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/figma220727",
+          "author": null,
+          "description": "ブラウザ上で共同編集できるデザインプラットフォーム「Figma（フィグマ）」を提供するFigma, Inc.は2022年7月27日、デザインコラボレーションツール「Figma」とオンラインホワイトボードツール「FigJam」の日本版をリリース、Webサイト、ヘルプセンターも日本語に対応したことを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/figma220727?utm_source=feed",
+          "publishedOn": "2022-07-27T07:24:53.000Z",
+          "wordCount": 133,
+          "title": "Figmaが日本版をリリース、英語以外の言語へのローカライズは初",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/07/figma2207/001.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220727",
+          "author": null,
+          "description": "Fedora Linuxのデスクトップエディション「Fedora Linux Workstation」はデフォルトのデスクトップ環境にGNOMEを採用しているが、KDE PlasmaやXfceなどを利用したいユーザのためにそれぞれのデスクトップ環境にカスタマイズされた「Fedora Spins」が用意されている。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220727?utm_source=feed",
+          "publishedOn": "2022-07-27T03:15:57.000Z",
+          "wordCount": 177,
+          "title": "メンテナーが消えた！？ ―Fedora、メンテナー不在のSpins/Labsについて方針を示唆",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0725",
+          "author": null,
+          "description": "今回はRcloneと専用GNOME Shell拡張機能であるrclone-managerを併用し、さまざまなクラウドストレージサービスをまるで専用クライアントを使用しているかのようにアクセスする方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0725?utm_source=feed",
+          "publishedOn": "2022-07-27T00:30:00.000Z",
+          "wordCount": 1239,
+          "title": "第725回　Rcloneと専用GNOME Shell拡張機能を併用して、Ubuntuからさまざまなクラウドストレージサービスにアクセスする",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0725/ogp.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220726",
+          "author": null,
+          "description": "Debianベースの軽量Linuxディストロのひとつ、USBドライブやLiveCDから起動できる「Slax」、現在でこそDebianベースのOSとして知られているが、プロジェクトがスタートした2003年ごろから2013年まではベースにSlackwareを採用していた。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220726?utm_source=feed",
+          "publishedOn": "2022-07-26T06:24:42.000Z",
+          "wordCount": 156,
+          "title": "原点回帰!? Slax開発者、Slackware＋FluxBoxのプロトタイプを期間限定で公開",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0006",
+          "author": null,
+          "description": "これまでレポートしてきたとおり、SaaS時代になり、OSSをコアにしてサービスを提供し、開発コミュニティの大きさを投資家にアピールして資金調達に成功するユニコーン企業が米中で出てきています。",
+          "link": "https://gihyo.jp/dev/serial/01/china-oss-frontline/0006?utm_source=feed",
+          "publishedOn": "2022-07-26T00:22:00.000Z",
+          "wordCount": 620,
+          "title": "第6回　中国が世界の大規模OSSプロジェクトを主導する",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2021/1857_china-oss-frontline.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/mysql-rcn0176",
+          "author": null,
+          "description": "SQLでザックリとした日付を指定したはずなのに、何故か全件取れてしまう。皆さんは、そんな恐ろしい経験はありませんでしょうか？今回は、そんな真夏にふさわしい？ SQLで起こった怖いお話を紹介していきたいと思います。",
+          "link": "https://gihyo.jp/article/2022/07/mysql-rcn0176?utm_source=feed",
+          "publishedOn": "2022-07-26T00:20:00.000Z",
+          "wordCount": 545,
+          "title": "第176回　MySQLのクエリ：日付で絞り込んでいるはずなのに何故か全件取れてしまった",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/what_is_dx",
+          "author": null,
+          "description": "「DX」という言葉を聞いたことがありますか？「DXで業務を効率化しましょう」といった文句があらゆる場所で氾濫していますが、その意味を正しく理解できていない担当者も少なくありません。本記事では、DXの定義やDXで何が変わるのか、DXを担うために必要なスキルなどを事例を交えて解説していきます。\r\nまた、DXによって何が変わっていくのか、DXを実現するために変えなくてはいけないことはあるのかについても紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/what_is_dx?utm_source=feed",
+          "publishedOn": "2022-07-25T00:39:00.000Z",
+          "wordCount": 189,
+          "title": "［IPAのDXエバンジェリストが解説］VUCAの時代に立ち向かうエンジニアに知ってほしいDXの基礎知識",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1916_whatisDX.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/22",
+          "author": null,
+          "description": "DELL製PCの中には一定数の通常のUbuntuプリインストールマシンとともに、「Developer Edition」と呼ばれる、「ソフトウェア開発者向けの、Ubuntuがプリインストールされたスペシャルバージョン」のリリースが存在します。その最新バージョンである、12世代Intel Coreシリーズ搭載のXPS 13 Plus Developer Editionが、Ubuntu 22.04 LTS Certifiedになりました。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/22?utm_source=feed",
+          "publishedOn": "2022-07-22T06:59:00.000Z",
+          "wordCount": 449,
+          "title": "DELL XPS 13 Plus Developer EditionのUbuntu 22.04 LTS認定 / Project “Sputnik”の最新リリース、Ubuntu 21.10のサポート終了（EOL）",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/nocode-tide-with-appsheet",
+          "author": null,
+          "description": "DXの世界で「ノーコード」という言葉が聞かれるようになり久しくなりました。今回は、Googleが提供する業務アプリ開発ツールのAppSheetに焦点をあて、ノーコードによるアプリ開発の利点、および運用に当たっての問題点とその解決方法について整理します。",
+          "link": "https://gihyo.jp/article/2022/07/nocode-tide-with-appsheet?utm_source=feed",
+          "publishedOn": "2022-07-22T00:38:00.000Z",
+          "wordCount": 187,
+          "title": "ノーコードの潮流と、AppSheetによる業務アプリケーション開発のススメ",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1915_appsheet.png"
+        },
+        {
+          "id": "https://gihyo.jp/news/report/2022/06/0603",
+          "author": null,
+          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp、株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿では輪読会の第3回の様子をダイジェストで紹介します。",
+          "link": "https://gihyo.jp/news/report/2022/06/0603?utm_source=feed",
+          "publishedOn": "2022-07-21T03:00:00.000Z",
+          "wordCount": null,
+          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート〜データ組織編〜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721",
+          "author": null,
+          "description": "Nothing TechnologyのPhone (1)が限定発売になりました。国内販売は8月に予定されており、SIMフリーモデルで、メモリ8Gバイト、ストレージ256Gバイトのモデルが6万9,800円になる見込みです。",
+          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721?utm_source=feed",
+          "publishedOn": "2022-07-21T00:00:00.000Z",
+          "wordCount": 184,
+          "title": "Nothing Phone (1)は、アリ・ナシどっち？",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0724",
+          "author": null,
+          "description": "第721回ではASRockからリリースされたDeskMeet B660にUbuntuを入れて使ってみました。このB660では第12世代Coreをサポートしており、二種類のコアを組み合わせたIntel Hybrid Technologyになっています。今回はPythonを用いて、各コアのベンチマークを取ってみましょう。",
+          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0724?utm_source=feed",
+          "publishedOn": "2022-07-20T01:00:00.000Z",
+          "wordCount": 1907,
+          "title": "第724回　CPUコアごとのベンチマークをPythonで簡単に取得してみる",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0724/05.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/daily-linux-220719",
+          "author": null,
+          "description": "Debianをベースにした軽量なロードバランサーとして、少しずつユースケースが拡大しているプロダクトに「ZEVENET」がある。",
+          "link": "https://gihyo.jp/article/2022/07/daily-linux-220719?utm_source=feed",
+          "publishedOn": "2022-07-19T04:02:44.000Z",
+          "wordCount": 196,
+          "title": "Debianベースのロードバランサー「ZEVENET」、バージョン5.12.2にマイナーアップデート",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/ruby-procon2022-07",
+          "author": null,
+          "description": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」第12回大会が開催されます。最終審査会は2022年12月3日です。",
+          "link": "https://gihyo.jp/article/2022/07/ruby-procon2022-07?utm_source=feed",
+          "publishedOn": "2022-07-19T01:10:00.000Z",
+          "wordCount": 148,
+          "title": "「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」開催決定、作品募集開始～2022年9月30日まで",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1913_rubyprocon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/slack-update",
+          "author": null,
+          "description": "Slackは、2022年9月1日から「プロプラン」の料金を変更することを発表した。",
+          "link": "https://gihyo.jp/article/2022/07/slack-update?utm_source=feed",
+          "publishedOn": "2022-07-19T00:50:00.000Z",
+          "wordCount": 130,
+          "title": "Slack「プロプラン」の料金を改定、フリープランの内容も変更に",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1914_slack-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/illustrator-itpassport-01",
+          "author": null,
+          "description": "本連載は、イラストレーターのイシクラがITパスポートの取得を目指して、独学で勉強する様子を日記風に紹介するものです。",
+          "link": "https://gihyo.jp/article/2022/07/illustrator-itpassport-01?utm_source=feed",
+          "publishedOn": "2022-07-15T04:32:00.000Z",
+          "wordCount": 165,
+          "title": "第1回　イシクラITパスポートを知る～自己紹介とITパスポートシラバスについて～",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/cacoo-update",
+          "author": null,
+          "description": "株式会社ヌーラボが提供するオンラインコラボレーション作図ツール「Cacoo」に「無限キャンバス」機能が追加されました。",
+          "link": "https://gihyo.jp/article/2022/07/cacoo-update?utm_source=feed",
+          "publishedOn": "2022-07-15T04:15:00.000Z",
+          "wordCount": 138,
+          "title": "オンライン作図ツールのCacoo、「無限キャンバス」をリリース",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1912_cacoo.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/15",
+          "author": null,
+          "description": "Arm向けUbuntuの利用範囲が広がります。プレビューが開始されたGCPのT2A VM用最適化されたUbuntuイメージの提供が開始されています。また、Ubuntu 22.10（kinetic）向けの動きとして、linux-riscvカーネルコンフィグの補正が行われています。",
+          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202207/15?utm_source=feed",
+          "publishedOn": "2022-07-15T01:08:00.000Z",
+          "wordCount": 296,
+          "title": "Google CloudのT2A VM向け最適化Ubuntuイメージ・Ubuntu 22.10向けRISC-V用カーネルコンフィグの整理と「Allwinner D1向けカーネル」の準備",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0005",
+          "author": null,
+          "description": "本章では、HTTP/3に機能の追加や変更を行う拡張についてと、HTTP/3を利用した応用プロトコルについて解説します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0005?utm_source=feed",
+          "publishedOn": "2022-07-15T00:30:00.000Z",
+          "wordCount": 375,
+          "title": "第5章 HTTP/3の拡張と応用 ～ 機能を追加し、より効率的に、より便利に",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/07/java2022-0701",
+          "author": null,
+          "description": "誕生から27周年を迎えたプログラミング言語Java。ここでは、Javaの最新動向についてていねいに紹介します。",
+          "link": "https://gihyo.jp/article/2022/07/java2022-0701?utm_source=feed",
+          "publishedOn": "2022-07-13T23:59:00.000Z",
+          "wordCount": 461,
+          "title": "2022年のJavaまるわかり！最新バージョンからJavaを取り巻く環境まで",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1910_java.png"
+        },
+        {
+          "id": "https://gihyo.jp/admin/serial/01/http3/0004",
+          "author": null,
+          "description": "プロトコルやクライアントとサーバの動作を理解するには、実際に動かすことが大事です。そこで本章では、実際にHTTP/3に触ってみます。ブラウザやCurl、Wiresharkなどを使ってHTTP/3通信を確認する方法と、nginxを使ってHTTP/3サーバを構築する方法を紹介します。",
+          "link": "https://gihyo.jp/admin/serial/01/http3/0004?utm_source=feed",
+          "publishedOn": "2022-07-13T23:59:00.000Z",
+          "wordCount": 667,
+          "title": "第4章 実践HTTP/3 ～ 実装を触り、通信を観測し、理解を深める",
+          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
+        },
+        {
+          "id": "https://gihyo.jp/lifestyle/clip/01/awt/202207/14",
+          "author": null,
+          "description": "新進気鋭のスタートアップの「Nothing」の最初のスマートフォン「Nothing phone (1)」が7月13日の0時にオンラインで発表が行われ、同日の正午12時より販売が開始されます。",
+          "link": "https://gihyo.jp/lifestyle/clip/01/awt/202207/14?utm_source=feed",
+          "publishedOn": "2022-07-13T22:49:00.000Z",
+          "wordCount": 211,
+          "title": "話題の中心となれるか？ Nothing phone (1)が発売です",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
         {
           "id": "https://gihyo.jp/article/2022/07/daily-linux-220713",
           "author": null,
