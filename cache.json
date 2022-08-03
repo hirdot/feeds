@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "bedb256fe7707afc86925992c3777fff35bb1d86",
+          "author": "aws@amazon.com",
+          "description": "Amazon Polly は、テキストをリアルな音声に変換するサービスです。本日、ヒンディー語とインド英語をサポートする新しいバイリンガルのニューラルテキスト読み上げ音声である Kajal の一般提供を開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-polly-neural-tts-support-hindi-indian-english/",
+          "publishedOn": "2022-08-03T09:46:22.000Z",
+          "wordCount": 298,
+          "title": "Amazon Polly で、ヒンディー語とインド英語でのニューラルテキスト読み上げのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "54ebc74d51408f0fe2cb6d8bd85c2cb71b2bd94f",
           "author": "aws@amazon.com",
           "description": "AWS AppSync は GraphQL および Pub/Sub API の作成と管理を簡単にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL を使って、開発者は Amazon DynamoDB、AWS Lambda、HTTP API などのバックエンドのデータソースからデータを取得するリゾルバーを記述できます。実行時に GraphQL クエリを「リゾルブ」するために AppSync はクエリのコンテキスト情報 (context など) でリゾルバーコードを評価します。AppSync リゾルバーは Velocity Template Language (VTL) で記述されていて、開発者がデータのパース ($util.parseJson など)、変換 ($util.toJson など)、生成 ($util.autoId、$util.autoUlid など)、ログ取得 ($util.log など) を行えるようにする柔軟な統合ユーティリティに対応しています。",
@@ -5581,36 +5591,6 @@
           "wordCount": 1187,
           "title": "深層学習の父、 ヤン・ルカンが思い描く 汎用人工知能への道筋",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/24210503/GettyImages-540680934-thumb-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=279701",
-          "author": "Rachael Revesz",
-          "description": "ロンドンで実施されたテストでは、横断歩道のルールを車両優先から歩行者優先に単純に変更するだけで、交通の安全性が向上すると分かった。",
-          "link": "https://www.technologyreview.jp/s/279701/london-is-experimenting-with-traffic-lights-that-put-pedestrians-first/",
-          "publishedOn": "2022-07-04T21:58:22.000Z",
-          "wordCount": 1331,
-          "title": "デフォルトは「歩行者が青」、ロンドンが新しい信号をテスト中",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/30093503/GettyImages-83584549-1400x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/04/279993/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/05/279993/",
-          "publishedOn": "2022-07-04T21:35:17.000Z",
-          "wordCount": 698,
-          "title": "産総研とNTTが世界初、低遅延で低消費電力の光AI基本技術を実証",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/04/280001/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/05/280001/",
-          "publishedOn": "2022-07-04T21:34:02.000Z",
-          "wordCount": 702,
-          "title": "早稲田大など、回転円盤銀河が誕生する最初期段階を観測",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
