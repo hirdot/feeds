@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T06:01:19.499Z</updated>
+    <updated>2022-08-04T07:01:10.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 が S3 Access Points の最大数を増やし、Amazon Redshift、Amazon CloudFront、Amazon SageMaker Feature Store のサポートを開始]]></title>
+        <id>d8674f4a666699aca0fbb56c1080ad9cbe3d99cc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/"/>
+        <updated>2022-08-04T06:46:26.000Z</updated>
+        <summary type="html"><![CDATA[各リージョンのアカウントごとに Amazon S3 Access Points を 10,000 まで作成して、異なるアプリケーションにわたる詳細なアクセス権限を管理できるようになりました。さらに、アクセスポイントが Amazon SageMaker、Amazon Redshift、Amazon CloudFront をサポートすることにより、S3 バケット名の代わりにアクセスポイントのエイリアスを直接アプリケーションで使えるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gihyo.jp編集部におけるMarkdown記法]]></title>
         <id>https://gihyo.jp/article/2022/08/gihyojp-markdown</id>
