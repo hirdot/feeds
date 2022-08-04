@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T08:01:30.102Z</updated>
+    <updated>2022-08-04T09:01:18.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Railsのタイムスタンプカラム(created_at, updated_at)を別名で動かす(create_date, update_dateなど)]]></title>
+        <id>https://techracho.bpsinc.jp/mataka345/2022_08_04/120225</id>
+        <link href="https://techracho.bpsinc.jp/mataka345/2022_08_04/120225"/>
+        <updated>2022-08-04T08:30:37.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_aliasing_timestamp_columns_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに 本記事は Rails のタイムスタンプ カラム(created_at, updated_at)を別名で動かす(create_date, update_dateなど) 方法をご紹介します。(Rails 7において、動作確認をしています。) たとえば、既存アプリケーションのシステム移行などで DB 構成は変えずに他の言語から Rails へ移行させる場合などで、既存のカラムが create_date update_date などと定義されており、それぞれレコード作成日時や更新日時を入れたい、などの要望がある場合に役に立ちそうです。 タイムスタンプカラムを別名で動かす方法 たとえば、以下のようなテーブルがある [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/mataka345/2022_08_04/120225" data-wpel-link="internal" target="_self">Railsのタイムスタンプカラム(created_at, updated_at)を別名で動かす(create_date, update_dateなど)</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon S3 が S3 Access Points の最大数を増やし、Amazon Redshift、Amazon CloudFront、Amazon SageMaker Feature Store のサポートを開始]]></title>
         <id>d8674f4a666699aca0fbb56c1080ad9cbe3d99cc</id>
