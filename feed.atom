@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T02:42:23.393Z</updated>
+    <updated>2022-08-04T03:28:36.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -6381,116 +6381,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/"/>
         <updated>2022-07-05T17:31:26.000Z</updated>
         <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) の機能が拡張され、Babelfish for Aurora PostgreSQL をターゲットとして指定できるようになりました。Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新しい変換レイヤーであり、Aurora が Microsoft SQL Server 用に作成されたアプリケーションからのコマンドを理解できるようにします。今後は、AWS DMS の利用により、最小限のダウンタイムで Babelfish for Aurora PostgreSQL に全面移行することが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウド関連ソフトウェアエンジニアの平均年収は18万2000ドル（約2370万円）、6割以上がフルリモートワーク。米国でオライリーが調査]]></title>
-        <id>https://www.publickey1.jp/blog/22/18200023706.html</id>
-        <link href="https://www.publickey1.jp/blog/22/18200023706.html"/>
-        <updated>2022-07-05T15:18:03.000Z</updated>
-        <summary type="html"><![CDATA[米国でクラウドを活用したソフトウェアデベロッパーやアプリケーション開発者、運用スタッフなど、同社が「クラウドプロフェッショナル」と呼ぶITエンジニアの平均年収を始めとした各種調査結果「2022 Cloud Salary Survey」を、米...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユーザーのアクセス権を詳細に設定できる Amazon FinSpace の API をリリース]]></title>
-        <id>206eef700a68dc472e84c844c3fc2f0e3bedfc04</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-finspace-apis-assign-granular-user-permissions/"/>
-        <updated>2022-07-05T15:17:52.000Z</updated>
-        <summary type="html"><![CDATA[新しくリリースされる Amazon FinSpace の API ではアクセス権を詳細に設定できるため、AWS SDK と CLI を使用して、FinSpace 環境のユーザーアクセスを完全に管理できるようになります。これにより、FinSpace のアクセス制御の設定を ID オーケストレーションワークフローに統合し、組織のアクセスポリシーと FinSpace を同期できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect で Lex 感情分析をフローで使用したカスタマーエクスペリエンスのパーソナライズのサポートを開始]]></title>
-        <id>f8b7d455f298d5c58d8ee08391573683df24ef37</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-supports-personalization-customer-experience-lex-sentiment-analysis-flows/"/>
-        <updated>2022-07-05T15:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、Amazon Lex の顧客センチメント分析をフローの分岐として活用することで、自動化されたセルフサービスのカスタマーエクスペリエンスをさらにパーソナライズできるようになりました。Amazon Lex を使うと、インテリジェントなチャットボットを作成して、Amazon Connect フローを自然な会話に変換できます。今回のリリースでは、顧客が Lex ボットに対して肯定的な発言をしたか否定的な発言をしたかによってフローを構築できるようになりました。例えば、好意的な感情を示した顧客にはさらなるアップセルの機会を提示し、否定的な感情を示した顧客にはエージェントと話すためのキューに直接入ってもらえます。新機能は [Get Customer Input] (顧客入力を取得する) または [Check contact attributes] (コンタクト属性を確認する) フローブロックを使用して設定できます。また、フローブロックのすべての Lex 関連属性 (Intent、Slot、Sentiment など) は、属性選択で 1 つの「タイプ」に統合され、フローの Lex エクスペリエンスの構築を簡素化できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect Customer Profiles で信頼性スコアを提供し、重複する顧客レコードの結合を支援]]></title>
-        <id>6109b38fc0b709b09660fdaec5c9060a4030d136</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-customer-profiles-confidence-scores-help-merge-duplicate-customer-records/"/>
-        <updated>2022-07-05T15:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect Customer Profiles で信頼性スコアにより重複する顧客レコードを自動的に結合できるようになりました。アイデンティティレゾリューション機能は、重複するレコードを検出するたびに、一致の精度を表す 0 から 1 の信頼性スコアを提供します。1 が最も正確な一致、0 が最も正確でない一致を表します。0 から 1 の間の任意のしきい値を選択して、重複するレコードを統合された顧客プロファイルに自動的に結合できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年はインフレ、地政学的混乱、為替変動などによりPC出荷が前年比で10％近く下落。中国ゼロコロナ政策の影響も大。ガートナーの予測]]></title>
-        <id>https://www.publickey1.jp/blog/22/2022pc10.html</id>
-        <link href="https://www.publickey1.jp/blog/22/2022pc10.html"/>
-        <updated>2022-07-05T15:12:35.000Z</updated>
-        <summary type="html"><![CDATA[米調査会社のガートナーは、2022年のワールドワイド市場におけるPC出荷の予測「Gartner Forecasts Worldwide PC Shipments to Decline 9.5% in 2022」を発表しました。 同社シニアデ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EKS Anywhere のベアメタルサポートを開始]]></title>
-        <id>8d1e3ae830defc9c5fc6fbf59ed461378fe95572</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/"/>
-        <updated>2022-07-05T15:04:29.000Z</updated>
-        <summary type="html"><![CDATA[本日、ベアメタルで Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere の一般提供を開始しました。これにより、オンプレミスで Kubernetes を実行するためのインフラの選択肢が広がりました。アプリケーションがモダナイズされるにつれ、既存のオンプレミスのベアメタルインフラストラクチャとクラウドの間で一貫性のある Kubernetes が求められるようになりました。ベアメタルインフラストラクチャでの Kubernetes の運用は複雑で、お客様はビジネスイノベーションにではなく、インフラストラクチャの運用に時間、労力、資金を費やしています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Interactive Video Service でコロンビアのエッジロケーションが利用可能に]]></title>
-        <id>54e07d67f6333fa6f70f2a16a7d932bc01c5a8ba</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/"/>
-        <updated>2022-07-05T15:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) はコロンビアで初めての Point of Presence (PoP) を発表しました。この新しいエッジロケーションにより、コロンビアに拠点を置くストリーマーや視聴者は、短いレイテンシーでより良質の動画をより多くの容量で楽しめるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager が Windows Server 2022 およびその他の Linux OS へのパッチ適用に対応]]></title>
-        <id>fabd42b17a70dd705de93cd5a5dee008bddef272</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/"/>
-        <updated>2022-07-05T15:02:53.000Z</updated>
-        <summary type="html"><![CDATA[AWS Systems Manager の機能である Patch Manager では、Windows Server 2022、Rocky Linux バージョン 8.4 および 8.5、CentOS Stream 8、Red Hat Enterprise Linux (RHEL) バージョン 8.4 および 8.5 のインスタンスに対するパッチのデプロイの自動化をサポートし、ノードに対するパッチのオプションを増やせるようになりました。Patch Manager はセキュリティ関連やその他の種類のアップデートでノードにパッチを適用するプロセスを自動化するのに役立ちます。また、Patch Manager は Windows Server、Red Hat Enterprise Linux (RHEL)、Ubuntu Server、Amazon Linux、Amazon Linux 2、CentOS、SUSE Linux Enterprise Server (SLES) を実行している Linux インスタンスに対するパッチのデプロイの自動化にも役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amplify UI for React の一般提供を開始]]></title>
-        <id>8a0333c090e385ace4a3a934dac05f41e9b94463</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/"/>
-        <updated>2022-07-05T15:02:05.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースの UI ライブラリである Amplify UI を使うと、AWS Amplify のシンプルさと拡張性を UI 開発に取り入れることができます。Amplify UI は認証や動的データなどの複雑なワークフローを簡素化するコネクテッドコンポーネント、アプリケーション間の一貫性を生み出すビルディングブロックになるプリミティブコンポーネント、Amplify UI をどんなブランドにもできるテーマで構成されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Database Migration Service が VPC のソースとターゲットのエンドポイントのサポートを開始]]></title>
-        <id>c82526b62e348cc2b24ccd606848e5a010ef6e84</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/"/>
-        <updated>2022-07-05T15:01:14.000Z</updated>
-        <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) がソースとターゲットとして仮想プライベートクラウド (VPC) エンドポイントのサポートを開始しました。AWS DMS の VPC にサービスまでの経路が明示的に定義されていれば、AWS DMS は VPC エンドポイントを持つどの AWS サービスにも接続できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS SAM Accelerate の一般公開を開始、クラウドに対してコード変更をすばやくテスト]]></title>
-        <id>3c5124129f4dea5800ef6d0d10bb102b3de7d506</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/"/>
-        <updated>2022-07-05T14:46:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Serverless Application Model (SAM) は、AWS SAM Accelerate の一般公開を発表します。AWS SAM Command Line Interface (CLI) は構築を容易にするとともに、ローカルでサーバーレスアプリケーションをテスト、パッケージ化、デプロイできるようにするデベロッパーツールです。AWS SAM Accelerate は AWS SAM CLI の新機能であり、クラウドベースの環境に対してデベロッパーがコード変更をテストすることをより簡単にし、ローカルの反復作業から本番環境への準備までの時間を短縮します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
