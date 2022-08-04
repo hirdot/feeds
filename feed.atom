@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-04T05:12:22.249Z</updated>
+    <updated>2022-08-04T06:01:19.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -6361,56 +6361,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/"/>
         <updated>2022-07-05T19:16:04.000Z</updated>
         <summary type="html"><![CDATA[AWS IoT Greengrass はモノのインターネット (IoT) のエッジランタイムおよびクラウドサービスです。デバイスソフトウェアの構築、デプロイ、管理を支援します。MQTT バージョン 5 のエッジサポートを追加したバージョン 2.6 がリリースされました。このバージョン 5 では、MQTT バージョン 3.1.1 プロトコルに対し、多くの機能改善を含むデバイス間通信仕様が更新されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon WorkMail が Lambdas を呼び出して予定 (あり/なし) を取得可能に]]></title>
-        <id>9ae5c1bb2339b961e75a10703ac7ac179d0b21a3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/"/>
-        <updated>2022-07-05T17:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkMail では Custom Availability Provider Lambda (CAP Lambda) を使って、AWS Lambda の呼び出しをサポートして、ユーザーの予定を取得できるようになりました。CAP Lambda は WorkMail が外部の予定ソースから予定情報を取得するための新しい方法です。これらの CAP Lambdas を使用すると、エンドポイントが非公開であっても、Exchange Web Services (EWS) エンドポイントを持たない場合でも、顧客の所有する他のカレンダープロバイダーのユーザーの予定情報へのアクセスを WorkMail に付与できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Database Migration Service がソースとして IBM Db2 z/OS のサポートを開始]]></title>
-        <id>02b94db552946be2e23a7b324db644af8e934840</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/"/>
-        <updated>2022-07-05T17:47:48.000Z</updated>
-        <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) がフルロード操作モードのソースとして IBM Db2 z/OS のサポートを開始しました。AWS Schema Conversion Tool (SCT) を使用すると、スキーマとコードオブジェクトを IBM DB2 z/OS から Aurora MySQL、Aurora PostgreSQL、MySQL、PostgreSQL ターゲットに変換できます。スキーマとオブジェクトをターゲットデータベースと互換性のある形式にしたら、AWS DMS を利用して z/OS で動作する IBM DB2 から AWS DMS がサポートするターゲットにデータを移行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Migration Hub Refactor Spaces でアクティブルートを有効および無効にできるように]]></title>
-        <id>bc327879c1cf7058e1248a5bec93477ab85e70fd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/"/>
-        <updated>2022-07-05T17:47:00.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS は AWS Migration Hub Refactor Spaces を使ってルートのオン、オフを切り替える機能を発表しました。この機能を使うと、非アクティブなルートを作成して、ルートの対象サービスがトラフィックを受信できるようになった時点で、あらためてアクティブできるようになります。また、ルートの切り替えを使用してルーティングアプローチを微調整し、アプリケーションが段階的にリファクタリングされる際に適時ルートを変更できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パナマで AWS Outposts ラックの一般提供を発表]]></title>
-        <id>6556e3d85aa2421bf4f9056b182d797b9713db2e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-outposts-rack-panama/"/>
-        <updated>2022-07-05T17:46:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Outposts ラックがパナマで出荷可能となり、データセンターおよびオンプレミス環境に設置できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Database Migration Service で Babelfish for Aurora PostgreSQL をターゲットとして指定可能に]]></title>
-        <id>8315942ab551d4e3121523475d04d0a7cda74253</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/"/>
-        <updated>2022-07-05T17:31:26.000Z</updated>
-        <summary type="html"><![CDATA[AWS Database Migration Service (AWS DMS) の機能が拡張され、Babelfish for Aurora PostgreSQL をターゲットとして指定できるようになりました。Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新しい変換レイヤーであり、Aurora が Microsoft SQL Server 用に作成されたアプリケーションからのコマンドを理解できるようにします。今後は、AWS DMS の利用により、最小限のダウンタイムで Babelfish for Aurora PostgreSQL に全面移行することが可能です。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

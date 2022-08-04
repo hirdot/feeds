@@ -1254,56 +1254,6 @@
           "wordCount": 331,
           "title": "AWS IoT Greengrass で MQTT v5 のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9ae5c1bb2339b961e75a10703ac7ac179d0b21a3",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkMail では Custom Availability Provider Lambda (CAP Lambda) を使って、AWS Lambda の呼び出しをサポートして、ユーザーの予定を取得できるようになりました。CAP Lambda は WorkMail が外部の予定ソースから予定情報を取得するための新しい方法です。これらの CAP Lambdas を使用すると、エンドポイントが非公開であっても、Exchange Web Services (EWS) エンドポイントを持たない場合でも、顧客の所有する他のカレンダープロバイダーのユーザーの予定情報へのアクセスを WorkMail に付与できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/",
-          "publishedOn": "2022-07-05T17:48:37.000Z",
-          "wordCount": 384,
-          "title": "Amazon WorkMail が Lambdas を呼び出して予定 (あり/なし) を取得可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "02b94db552946be2e23a7b324db644af8e934840",
-          "author": "aws@amazon.com",
-          "description": "AWS Database Migration Service (AWS DMS) がフルロード操作モードのソースとして IBM Db2 z/OS のサポートを開始しました。AWS Schema Conversion Tool (SCT) を使用すると、スキーマとコードオブジェクトを IBM DB2 z/OS から Aurora MySQL、Aurora PostgreSQL、MySQL、PostgreSQL ターゲットに変換できます。スキーマとオブジェクトをターゲットデータベースと互換性のある形式にしたら、AWS DMS を利用して z/OS で動作する IBM DB2 から AWS DMS がサポートするターゲットにデータを移行できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/",
-          "publishedOn": "2022-07-05T17:47:48.000Z",
-          "wordCount": 349,
-          "title": "AWS Database Migration Service がソースとして IBM Db2 z/OS のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bc327879c1cf7058e1248a5bec93477ab85e70fd",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS は AWS Migration Hub Refactor Spaces を使ってルートのオン、オフを切り替える機能を発表しました。この機能を使うと、非アクティブなルートを作成して、ルートの対象サービスがトラフィックを受信できるようになった時点で、あらためてアクティブできるようになります。また、ルートの切り替えを使用してルーティングアプローチを微調整し、アプリケーションが段階的にリファクタリングされる際に適時ルートを変更できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/",
-          "publishedOn": "2022-07-05T17:47:00.000Z",
-          "wordCount": 320,
-          "title": "AWS Migration Hub Refactor Spaces でアクティブルートを有効および無効にできるように",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6556e3d85aa2421bf4f9056b182d797b9713db2e",
-          "author": "aws@amazon.com",
-          "description": "AWS Outposts ラックがパナマで出荷可能となり、データセンターおよびオンプレミス環境に設置できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-outposts-rack-panama/",
-          "publishedOn": "2022-07-05T17:46:04.000Z",
-          "wordCount": 296,
-          "title": "パナマで AWS Outposts ラックの一般提供を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8315942ab551d4e3121523475d04d0a7cda74253",
-          "author": "aws@amazon.com",
-          "description": "AWS Database Migration Service (AWS DMS) の機能が拡張され、Babelfish for Aurora PostgreSQL をターゲットとして指定できるようになりました。Babelfish for Aurora PostgreSQL は、Amazon Aurora PostgreSQL 互換エディションの新しい変換レイヤーであり、Aurora が Microsoft SQL Server 用に作成されたアプリケーションからのコマンドを理解できるようにします。今後は、AWS DMS の利用により、最小限のダウンタイムで Babelfish for Aurora PostgreSQL に全面移行することが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/",
-          "publishedOn": "2022-07-05T17:31:26.000Z",
-          "wordCount": 319,
-          "title": "AWS Database Migration Service で Babelfish for Aurora PostgreSQL をターゲットとして指定可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
