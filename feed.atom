@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T10:01:04.042Z</updated>
+    <updated>2022-08-05T22:01:14.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise が米国東部 (オハイオ) とカナダ (中部) の AWS リージョンで利用可能に]]></title>
+        <id>e80b39eb224dab481369fc6e7664b1466e21c6d2</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-sitewise-canada-ohio-regions/"/>
+        <updated>2022-08-05T10:33:54.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise が米国東部 (オハイオ) とカナダ (中部) の AWS リージョンで利用可能となり、そのフットプリントを 12 の AWS リージョンに拡大しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Control Tower、グローバルリソースのみをホームリージョンに記録することで AWS Conﬁg の構成項目を削減]]></title>
+        <id>97dd2ca258c0949705226d7a7a011ae32b4780cd</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/"/>
+        <updated>2022-08-05T10:33:06.000Z</updated>
+        <summary type="html"><![CDATA[AWS Control Tower はこのたび、グローバルリソースの記録をホームリージョンに制限することで、AWS Conﬁg の冗長な構成項目を削減しました。AWS Control Tower はこれまで、グローバルリソースをすべてのリージョンで記録するように、AWS Conﬁg の構成を行ってきました。グローバルリソースは特定の AWS リージョンに拘束されるものではないため、リソースの変更はすべてのリージョンで同一となります。グローバルリソース (IAM ユーザー、グループ、ロール、顧客が管理するポリシー等) の記録を制限することにより、変更の冗長コピーは、すべてのリージョンには保存されなくなります。今回の変更により、リソースの記録は AWS Conﬁg のベストプラクティスに従うものとなります。グローバルリソースの一覧は、AWS Conﬁg のドキュメントでご覧いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Canvas、カスタマーマネージドキーによる暗号化サポートを開始]]></title>
+        <id>8ab5168548209d47e361eccca32d29917e84b088</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-canvas-encryption-managed-keys/"/>
+        <updated>2022-08-05T10:31:27.000Z</updated>
+        <summary type="html"><![CDATA[当社ではこのたび、AWS Key Management Service (KMS) のカスタマーマネージドキーを使用して、Amazon SageMaker Canvas にあるデータセットと機械学習 (ML) モデルを保管する際の暗号化のサポートを開始いたします。Amazon SageMaker Canvas はポイントアンドクリック式のビジュアルインターフェイスで、ビジネスアナリストはこれを使用することで、機械学習を使用した経験がなくても、あるいはコードを一行も書かなくても、正確な ML 予測を自分で生成することができます。SageMaker Canvas を使用すれば、さまざまなソースからデータにアクセスしそれらを組み合わせたり、データを自動的にクリーニングしたり、数クリックで正確な予測を生成する ML モデルを構築したり、といったことが容易に行えるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50人の開発会社でMisoca/弥生会計からfreee/MoneyForwardに移行してみた]]></title>
         <id>https://techracho.bpsinc.jp/piichan1031/2022_08_05/120168</id>
@@ -75,6 +105,16 @@
         <summary type="html"><![CDATA[Ubuntu 22.04.1のポイントリリースに向けて、パッケージのフリーズとRCのリリース、そしてQAが行われています。当初8月4日を予定していたリリースはOEMインストールを利用すると問題が生じる問題が発見されたため8月11日に延期されました。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week In Rails Strict Template Locals Detecting Unused Routes And An Improved Find_or_create_by 1366f9d7]]></title>
+        <id>https://rubyonrails.org/2022/8/5/this-week-in-rails-strict-template-locals-detecting-unused-routes-and-an-improved-find_or_create_by-1366f9d7</id>
+        <link href="https://rubyonrails.org/2022/8/5/this-week-in-rails-strict-template-locals-detecting-unused-routes-and-an-improved-find_or_create_by-1366f9d7"/>
+        <updated>2022-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[layout: post title: “Strict template locals, detecting unused routes and an improved find_or_create_by” categories: news author: p8 published: true date: 2022-08-05 —]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
@@ -6259,67 +6299,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[Amazon Web Services（AWS）は、AWSの外側にあるワークロードに対して一時的にAWSリソースへのアクセス権を付与できる「IAM Roles Anywhere」を発表しました。 : Need to give workloa...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: audio_tagとvideo_tagヘルパーにActive Storage添付ファイルを指定可能になる（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_07/119347</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_07/119347"/>
-        <updated>2022-07-07T08:30:37.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails7_audio_video_tag_attachment_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails 7 extends audio_tag and video_tag to accept Active Storage attachments &#124; Saeloun Blog 原文公開日: 2022/06/15 原著者: Deepak Mahakale サイト: Saeloun Blog #44085は、現時点ではmainブランチにのみマージされています。 Rails 7: Rails 7: audio_tagとvideo_tagヘルパーにActive Storage添付ファイルを指定可能になる（翻訳） Active Storageは、さまざま [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_07/119347" data-wpel-link="internal" target="_self">Rails 7: audio_tagとvideo_tagヘルパーにActive Storage添付ファイルを指定可能になる（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet of Everywhere、そしてInternet of Everyoneへ ―ソラコム「SORACOM Discovery 2022」でカバレッジを広げる新たなプランやサービスを発表]]></title>
-        <id>https://gihyo.jp/news/nr/2022/07/0701</id>
-        <link href="https://gihyo.jp/news/nr/2022/07/0701?utm_source=feed"/>
-        <updated>2022-07-07T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[（株）ソラコムは2022年7月6日（水）、7日（木）の2日間にわたって、年次カンファレンス「SORACOM Discovery 2022 ONLINE」を開催した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet of Everywhere、そしてInternet of Everyoneへ ―ソラコム「SORACOM Discovery 2022」でカバレッジを広げる新たなプランやサービスを発表]]></title>
-        <id>https://gihyo.jp/news/nr/2022/07/0701</id>
-        <link href="https://gihyo.jp/news/nr/2022/07/0701?utm_source=feed"/>
-        <updated>2022-07-07T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[（株）ソラコムは2022年7月6日（水）、7日（木）の2日間にわたって、年次カンファレンス「SORACOM Discovery 2022 ONLINE」を開催した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet of Everywhere、そしてInternet of Everyoneへ ―ソラコム「SORACOM Discovery 2022」でカバレッジを広げる新たなプランやサービスを発表]]></title>
-        <id>https://gihyo.jp/news/nr/2022/07/0701</id>
-        <link href="https://gihyo.jp/news/nr/2022/07/0701?utm_source=feed"/>
-        <updated>2022-07-07T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[（株）ソラコムは2022年7月6日（水）、7日（木）の2日間にわたって、年次カンファレンス「SORACOM Discovery 2022 ONLINE」を開催した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust でもできる！RISC-Vシミュレータの作りかた 〜 From Ruby To Rust 〜]]></title>
-        <id>https://blog.agile.esm.co.jp/entry/rvs32sim-rs</id>
-        <link href="https://blog.agile.esm.co.jp/entry/rvs32sim-rs"/>
-        <updated>2022-07-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近 ESM と RISC-V のロゴの配色が似ていると感じている @wat-aro です。 はたけやまさん の blog.agile.esm.co.jp はおもしろい記事でしたね。 この記事は最後こう締めくくられています。 以上、Rubyを使ったシンプルなRISC-Vシミュレータの作り方のご紹介しました。 皆さんも梅雨の時期のおうち時間にお好きなプログラム言語でCPUシミュレータ自作なんていかがですか？ なのでこの記事を参考に Rust で RISC-V シミュレータを作成しました。 https://github.com/wat-aro/rv32sim.rs 処理の流れはだいたい元記事と同じ…]]></summary>
-        <author>
-            <name>esm アジャイル事業部 開発者ブログ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データ実務家達によるデータサイエンスを学ぶ人への水先案内 学習者x学習コンテンツとの最適マッチングを目指す 「Data Learning Bibliography」とは？]]></title>
-        <id>https://data.wingarc.com/?p=43722</id>
-        <link href="https://data.wingarc.com/about_data-learning-bibliography-43722?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=about_data-learning-bibliography"/>
-        <updated>2022-07-06T23:45:43.000Z</updated>
-        <summary type="html"><![CDATA[なぜ、日本はデジタル化が遅れているのか？ 昨今“DX”というキーワードがあらゆるところで飛び交っています。 DXは経済産業省の「デジタルトランスフォーメーションを推進するためのガイドライン（DX推奨ガイドライン）」では以 […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
     <entry>
