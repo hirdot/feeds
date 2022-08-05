@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "8b414677671850e1d71660b68b98b8754f1268e1",
+          "author": "aws@amazon.com",
+          "description": "QuickSight の作成者は、Amazon QuickSight でサポートされている新しいベースマップのいずれかにマップを変更することで、マップのルックアンドフィールをカスタマイズできるようになりました。\n \n \n \n街路 – 街路ベースマップを使用して、場所の詳細を追加できるようになりました。このベースマップでは、高速道路、幹線道路、補助道路、鉄道線路、水景施設、都市、公園、ランドマーク、建物の敷地、行政区画が強調されて見やすく表示されます。\n \n \nダークグレーのキャンバス – ライトグレー (既存のベース) またはダークグレー (新しいベース) のキャンバスを選択し、マップをダッシュボードの全体的なスタイルに合わせて調整できるようになりました。色、ラベル、特徴を最小限に抑えたダークグレーのキャンバスのベースマップは、データに注目が集まりやすいように設計されています。\n \n \n画像 – 画像ベースマップを選択すると、マップの精細度を高めることができます。世界の衛星ビューを使用することで、位置データが把握しやすくなります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/",
+          "publishedOn": "2022-08-05T01:32:47.000Z",
+          "wordCount": 326,
+          "title": "Amazon QuickSight の新しいベースマップによる地理空間の可視化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "39a7c2fce11cb6f6255040f15bd2a5a6eb9d3644",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for MySQL で、データベースインスタンスに対する暗号化された SSL/TLS 接続がサポートされます。本日より、トランスポート層のセキュリティを強化するために、RDS for MySQL データベースインスタンスに対して SSL/TLS クライアント接続を適用できるようになりました。SSL/TLS を適用するには、Amazon RDS マネジメントコンソール、AWS CLI、または API を使用して、require_secure_transport パラメータ (デフォルトでは無効) を有効にするだけです。require_secure_transport パラメータを有効にすると、データベースクライアントは、暗号化された接続を確立できる場合にのみ、RDS for MySQL インスタンスに接続できます。require_secure_transport パラメータを使用して暗号化されたクライアント接続を適用する方法の詳細については、Amazon RDS ユーザーガイドを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-mysql-supports-ssl-tls-connections/",
+          "publishedOn": "2022-08-05T01:31:58.000Z",
+          "wordCount": 324,
+          "title": "Amazon RDS for MySQL が SSL/TLS 接続の適用のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "415cd0470ec65fbfc0300eb1bbaf8eddee90145a",
           "author": "aws@amazon.com",
           "description": "AWS Network Firewall では AWS Managed Threat Signatures をサポートします。この機能は脅威を検出し、既知の脆弱性に対する攻撃を阻止します。これにより、独自のルールを書いたり保守したりすることなく最新のセキュリティの脅威に対し、常に防御を固めることができます。本日より、AWS マネージドルールを使用して、コインマイニングマルウェア、認証情報フィッシング、モバイルオペレーティングシステム (OS) マルウェアから保護できるようになりました。",
@@ -1233,26 +1253,6 @@
           "publishedOn": "2022-07-11T13:46:12.000Z",
           "wordCount": 384,
           "title": "Amazon WorkMail が Lambda を呼び出して予定 (あり/なし) を取得可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2f31664b1d19f15bf953c7149b70bbbaf26904a2",
-          "author": "aws@amazon.com",
-          "description": "Amazon Pinpoint のジャーニーでは、曜日や日にちに基づいたチャネルコミュニケーションのスケジュールを定義できるようになりました。また、Amazon Pinpoint では、2 つの新しいジャーニー送信制限が追加され、ユーザーに送信されるコミュニケーションの量を制御できるようになりました。Amazon Pinpoint のジャーニーはユーザーのアクションや属性に基づいてユーザーをコミュニケーションパスに送るマルチステップキャンペーンです。ジャーニーは SMS、メール、プッシュ、音声などの複数のチャネルを使用できます。ジャーニーはユーザーエンゲージメント用のユースケースを持ち、高価値なユーザーアクションをもたらすようなターゲットを絞ったメッセージを送信したいと考えているお客様を対象としています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-pinpoint-launches-journey-schedule-communication-delivery/",
-          "publishedOn": "2022-07-06T14:32:01.000Z",
-          "wordCount": 300,
-          "title": "Amazon Pinpoint でより正確にメッセージを送信するためのジャーニースケジュールをリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c393204da2203487d751856f146ab4d0ba4ff970",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect では、Amazon Lex のインテント信頼性スコアをフローの分岐として活用することで、自動化されたセルフサービスのカスタマーエクスペリエンスをさらにパーソナライズできるようになりました。Amazon Lex を使うと、インテリジェントな Chatbot を作成して、Amazon Connect フローを自然な会話に変換できます。Lex の信頼性スコアに応じた分岐フローにより、お客様に適切なソリューションを提示してより迅速な問題解決を支援できます。たとえば、信頼性コアが高い場合、追加情報を求めたり、エージェントに転送したりするのではなく、お客様にすぐにセルフサービスオプションを提示できます。新機能は [Check contact attributes] (コンタクト属性を確認する) フローブロックを使用して設定できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/amazon-connect-supports-branching-flows-lex-confidence-scores/",
-          "publishedOn": "2022-07-06T14:31:13.000Z",
-          "wordCount": 301,
-          "title": "Amazon Connect が Lex 信頼性スコアに基づいてフローの分岐のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
