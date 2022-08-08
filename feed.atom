@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-08T10:01:07.766Z</updated>
+    <updated>2022-08-08T22:01:19.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Secrets Manager 接続で Kyber によるハイブリッドポスト量子 TLS のサポートを開始]]></title>
+        <id>b7e1fe44ea140c06be63a4347be1b07023d36c1f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-secrets-manager-connections-support-hybrid-post-quantum-tls-kyber/"/>
+        <updated>2022-08-08T17:19:30.000Z</updated>
+        <summary type="html"><![CDATA[AWS Secrets Manager への接続で、ハイブリッドポスト量子鍵確立がサポートされるようになりました。これは、NIST ポスト量子暗号 (PQC) 選択プロセスのラウンド 3 から Transport Layer Security (TLS) で Kyber を使用します。これにより、ポスト量子アルゴリズムのパフォーマンスへの潜在的な影響を測定できます。また、ハイブリッドポスト量子 TLS によって提供される、長期にわたる秘密保護の恩恵を受けられます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VM Import/Export が Windows 11 に対応]]></title>
+        <id>ef59b885a6cdb7376d802d6f4d83de28166f2093</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/vm-import-export-windows-11/"/>
+        <updated>2022-08-08T17:18:41.000Z</updated>
+        <summary type="html"><![CDATA[VM Import/Export (VMIE) は、AWS で Windows 11 オペレーティングシステムを使用する仮想マシンの移行に対応しました。こうした仮想マシンは、EC2 専有ホストおよび EC2 専有インスタンスで、インポートされたイメージからインスタンスを起動します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bottlerocket がアマゾン ウェブ サービス中国リージョンで利用可能に]]></title>
+        <id>c6860e29b3887e5a5fac33318f341d16ec635edf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/"/>
+        <updated>2022-08-08T17:17:53.000Z</updated>
+        <summary type="html"><![CDATA[コンテナワークロードの実行に特化した Linux ベースのオペレーティングシステムである Bottlerocket が、Sinnet 運営のアマゾン ウェブ サービス中国 (北京) リージョンと NWCD 運営のアマゾン ウェブ サービス中国 (寧夏) リージョンでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Microservice Extractor for .NET が自動化されたリファクタリングのレコメンデーションの提供を開始]]></title>
+        <id>4a7534c55f2c88ac104b3edaa96e24eec40a3fad</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-microservice-extractor-net-automated-refactoring-recommendations/"/>
+        <updated>2022-08-08T17:17:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS Microservice Extractor for .NET は古いモノリシックなアプリケーションをより小さなコードプロジェクトにリファクタリングするプロセスを簡素化し、マイクロサービスベースのアーキテクチャを構築します。ソースコードとランタイムメトリクスを分析してアプリケーションとその依存関係を視覚的に表現する支援ツールを使用し、アプリケーションをモダナイズして変換します。自動化されたレコメンデーションを Microservice Extractor が提供するので、デベロッパーはガイドを受けながらレガシーアプリケーションをリファクタリングできます。Microservice Extractor が抽出のためにソースコードのクラスを手動で識別してグループ化する必要がなくなり、Microservice Extractor がヒューリスティックベースの技術を使ってよくある抽出の候補を識別し、ハイライトして視覚化します。こうしたレコメンデーションはそれ自体としても、モノリシックなコードベースからマイクロサービスを抽出する開始点としても使えます。Microservice Extractor の自動化されたレコメンデーションは、デベロッパーがコードベースに不慣れでも、大きなアプリケーションのリファクタリングをすばやく行うのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon OpenSearch Service、高度なログとアプリケーションの分析を追加]]></title>
+        <id>6df9e195db711d0807d44a63d2c18f16bf1771de</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-opensearch-service-includes-log-application-analytics/"/>
+        <updated>2022-08-08T17:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon OpenSearch Service では、OpenSearch 1.3 の提供開始に伴い、ログ、トレース、ビジュアル化をアプリケーション中心のビューにまとめる機能が新たに追加されました。また、ユーザーは、ログのライブテーリング、ログサラウンドデータの閲覧、未フォーマットのログデータをクエリ時にアドホック分析する強力な機能など、強化したログモニタリングのサポートも利用できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect、予測 UI で過去の実績を表示]]></title>
+        <id>c5216e6fb7756d8edb474e18038a0423e982c882</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-connect-historical-actuals-forecasting-ui/"/>
+        <updated>2022-08-08T17:02:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect を使用しているコンタクトセンターの管理者は今後、過去のコンタクト量と平均処理時間 (AHT) とを、予測 UI に表示できるようになります。この新機能は、Amazon Connect 予測、キャパシティ計画、スケジューリング (プレビュー) に追加され、これによりコンタクトセンターの管理者は、処理量や AHT を予測し、最適なスタッフ数を判断し、スケジュールに照らしてエージェントの計画を立て、適切な時間に適切な人数のエージェントを配置することが可能になります。予測 UI に過去のコンタクト量が表示されることで、コンタクトセンターの管理者は、予測や実績内の異常をすばやく特定することが可能になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS サポート、AWS サポートセンターコンソールで新しいドメインの使用を開始]]></title>
+        <id>9b736327ac2546e7abeaf337447174699afe706f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/"/>
+        <updated>2022-08-08T17:01:18.000Z</updated>
+        <summary type="html"><![CDATA[AWS サポートは、AWS サポートセンターコンソールで新しい URL (https://support.console.aws.amazon.com/) の使用を開始します。新しい URL を使用すれば、AWS サポートセンターのコンソールから確実に AWS サポートにコンタクトをとることができます。こちらは、高い可用性とリージョンの冗長性とを実現する最新のアーキテクチャ基準を使用して構築されています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript/WebAssemblyをCDNエッジで実行するCloudflare Workersが、Python、Scala、Kotlin、Dart、Reasonへの対応を発表]]></title>
+        <id>https://www.publickey1.jp/blog/22/javascriptwebassemblycdncloudflare_workerspythonscalakotlindartreason.html</id>
+        <link href="https://www.publickey1.jp/blog/22/javascriptwebassemblycdncloudflare_workerspythonscalakotlindartreason.html"/>
+        <updated>2022-08-08T16:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflareは、JavaScript/WebAssemblyをCDNエッジで実行するサーバレス基盤「Cloudflare Workers」が、Python、Scala、Kotlin、Dart、Reasonの各言語に対応したことを発表...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が 12.1 の 2022 年 4 月のパッチセットの更新 (PSU) と 19c と 21c のリリース更新 (RU) のサポートを開始]]></title>
+        <id>e5575a167aa54fdc6405f8dd9e7fd4f250bd8334</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/"/>
+        <updated>2022-08-08T10:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle は Oracle Database 12.1 用の 2022 年 4 月のパッチセットの更新 (PSU)、および Oracle Database 19c と 21c 用のリリース更新 (RU) をサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Security Hub が AWS GovCloud (米国) で検出結果のクロスリージョン集約の提供を開始]]></title>
+        <id>297ab42974710a0d4c4435bd05f75f4eb23e02b1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/"/>
+        <updated>2022-08-08T10:32:46.000Z</updated>
+        <summary type="html"><![CDATA[AWS Security Hub では、AWS GovCloud (米国) で集約リージョンを指定して一部またはすべてのリージョンをその集約リージョンにリンクできるようになりました。これにより、アカウントおよびリンクされたリージョン全体のすべてのセキュリティの検出結果を一元的に表示できます。あるリージョンを集約リージョンにリンクすると、検出結果はリージョン間で継続的に同期されます。リンクされたリージョンの検出結果に対する更新は、集約リージョンにレプリケートされ、集約リージョンの検出結果に対する更新は、検出結果の発生元のリンクされたリージョンにレプリケートされます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Global Accelerator が IPv6 のサポートを発表]]></title>
+        <id>f0ffcd2614e7a0bdb817b0c6bfb73f46c45b67ed</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-global-accelerator-announces-ipv6-support/"/>
+        <updated>2022-08-08T10:31:56.000Z</updated>
+        <summary type="html"><![CDATA[AWS Global Accelerator で、IPv6 トラフィックをリージョン Application Load Balancer エンドポイントにルーティングできるデュアルスタックのアクセラレーターが提供されるようになりました。本日より、トラフィックを Application Load Balancer エンドポイントにルーティングしながら、IPv4 と IPv6 の両方のトラフィックに対して AWS Global Accelerator の可用性、セキュリティ、パフォーマンスの利点を享受できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NuxtJS で構築する LP・サイトコーディング開発環境]]></title>
         <id>https://techracho.bpsinc.jp/ebi/2022_08_08/120554</id>
