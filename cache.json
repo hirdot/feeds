@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "55901463655ee629b7d0a7fa07b9fde78d4b9cf5",
+          "author": "aws@amazon.com",
+          "description": "OpenSearch と OpenSearch Dashboards バージョン 1.3 が Amazon OpenSearch Service で実行できるようになりました。新しいバージョンには、オブザーバビリティ、SQL と PPL、アラートと異常検出に関する新機能と改善点がいくつかあります。OpenSearch Service コンソールまたは API を使用して、以前のどのバージョンの OpenSearch からでも、または Elasticsearch バージョン 6.8 や 7.x から直接ドメインをシームレスに OpenSearch バージョン 1.3 にアップグレードできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/",
+          "publishedOn": "2022-08-09T09:51:48.000Z",
+          "wordCount": 423,
+          "title": "Amazon OpenSearch Service で OpenSearch バージョン 1.3 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "58dc0eebf0ab92c34a67bb5ce85a5f22d5e0b3d7",
+          "author": "aws@amazon.com",
+          "description": "AWS ParallelCluster 3.2 リリースの一般提供を開始しました。AWS ParallelCluster は全面的なサポートとメンテナンスが提供されているオープンソースのクラスター管理ツールです。このツールを使用すると、科学者、研究者、IT 管理者が、AWS クラウドでハイパフォーマンスコンピューティング (HPC) クラスターのデプロイと管理をより簡単に実行できるようになります。HPC クラスターはコンピューティング、ストレージ、およびネットワーキングリソースを緊密に結び付けた複数のコレクションで、お客様はこれを使用し科学やエンジニアリングの分野で大規模なワークロードを実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/",
+          "publishedOn": "2022-08-09T09:50:51.000Z",
+          "wordCount": 348,
+          "title": "AWS ParallelCluster 3.2 のファイルシステムの機能強化とその他の要望の多い機能について",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a8d08b913e071e6278cf1bbdb15538099521bb99",
+          "author": "aws@amazon.com",
+          "description": "Amazon OpenSearch Service は、既存の gp2、マグネティック、PIOPS (io1) の各ボリュームに加えて、新たに Amazon Elastic Block Store (Amazon EBS) ボリュームタイプ gp3 (汎用 SSD) のサポートを開始しました。これにより、gp3 ボリュームを最新世代の T3、R5、R6g、M5、M6g、C5、C6g の各インスタンスファミリーでご利用いただけるようになります。Amazon EBS gp3 を使用すれば、ストレージ容量に関係なくパフォーマンスをプロビジョニングすることができ、OpenSearch Service で、ベースラインパフォーマンスを既存の gp2 ボリュームよりも GB あたり最大 9.6% 低い料金で利用できます。さらに、gp3 を使用すれば、R5、R6g、M5、M6g の各インスタンスファミリーでさらに密度の高いストレージを利用でき、コストをより一層最適化することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-opensearch-service-support-ebs-gp3-volume-type/",
+          "publishedOn": "2022-08-09T09:48:06.000Z",
+          "wordCount": 362,
+          "title": "Amazon OpenSearch Service、EBS gp3 ボリュームタイプのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e75e941550c4673affa335f60f6e3c92991a9222",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup for Amazon S3 を使用して、Amazon S3 バックアップを AWS リージョンと AWS アカウント全体でコピーできるようになりました。Amazon S3 のバックアップを複数の AWS リージョンに配置することで、バックアップデータの分離可能で保護されたコピーを維持して、データ保護とディザスタリカバリに関するコンプライアンス要件を満たすことができます。さらに、AWS アカウント全体のバックアップにより、不注意または不正なアクションに対する追加の保護レイヤーが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-supports-copying-amazon-s3-aws-regions-accounts/",
+          "publishedOn": "2022-08-09T09:47:17.000Z",
+          "wordCount": 358,
+          "title": "AWS Backup が AWS リージョンとアカウント全体での Amazon S3 バックアップのコピーのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "296c1e35e57c188058d4e8c57cbc2650fb798a2e",
+          "author": "aws@amazon.com",
+          "description": "AWS Control Tower のリージョン拒否ガードレールが更新されて AWS グローバルサービス API が追加され、設定やダッシュボード情報の取得を支援し、インタラクティブなチャットエージェントをサポートするようになりました。リージョン拒否ガードレールである「Deny access to AWS based on the requested AWS Region (リクエストされた AWS リージョンに基づいて AWS へのアクセスを拒否する)」は、AWS Control Tower 環境の登録アカウントに対して、AWS のサービスと操作へのアクセスを制限するのに役立ちます。AWS Control Tower のリージョン拒否ガードレールは、AWS のサービスにアップロードする顧客データが、指定した AWS リージョンにのみ配置されるようにするのに役立ちます。顧客データが保存および処理される AWS リージョン (複数可) を選択できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/",
+          "publishedOn": "2022-08-09T09:46:27.000Z",
+          "wordCount": 366,
+          "title": "AWS Control Tower のリージョン拒否ガードレールが拡張され、追加の AWS Chatbot、Amazon S3 Storage Lens、Amazon S3 Multi-Region Access Point の API が含まれるように",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "b7e1fe44ea140c06be63a4347be1b07023d36c1f",
           "author": "aws@amazon.com",
           "description": "AWS Secrets Manager への接続で、ハイブリッドポスト量子鍵確立がサポートされるようになりました。これは、NIST ポスト量子暗号 (PQC) 選択プロセスのラウンド 3 から Transport Layer Security (TLS) で Kyber を使用します。これにより、ポスト量子アルゴリズムのパフォーマンスへの潜在的な影響を測定できます。また、ハイブリッドポスト量子 TLS によって提供される、長期にわたる秘密保護の恩恵を受けられます。",
@@ -1392,6 +1442,16 @@
       "feedUrl": "https://blog.agile.esm.co.jp/feed",
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
+        {
+          "id": "https://blog.agile.esm.co.jp/entry/start-accepting-ise-ebi-curry",
+          "author": null,
+          "description": "こんにちは、ふーが ( @fugakkbn ) です。 RubyKaigi 2022 において、弊社は「伊勢海老スポンサー」として協賛させていただく旨をお知らせしました。 RubyKaigi 2022 に伊勢海老スポンサーとして協賛します🦐 - esm アジャイル事業部 開発者ブログ こちらはオンライン参加予定の皆様のご自宅に「伊勢海老カレー」をお届けし、ランチタイムに一緒に食べながら懇親しましょう！という趣旨です。 本日より申込み受付を開始します！先着順です！！ 受付期間 本日 2022年8月9日(火)〜2022年8月15日(月) 23:59 まで。 ※定員に達し次第、受付期間内であっても申…",
+          "link": "https://blog.agile.esm.co.jp/entry/start-accepting-ise-ebi-curry",
+          "publishedOn": "2022-08-09T09:30:23.000Z",
+          "wordCount": 471,
+          "title": "伊勢海老カレー🦐🍛 の受付を開始します！",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/4207112889904993666/1660037423"
+        },
         {
           "id": "https://blog.agile.esm.co.jp/entry/ise-ebi-sponsor-rubykaigi-2022",
           "author": null,
@@ -4653,6 +4713,16 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=282809",
+          "author": "Koichi Motoda",
+          "description": "MITテクノロジーレビューが選ぶ「Innovators Under 35 Japan」に選ばれた本多達也氏（富士通）、坪井俊輔氏（サグリ代表）、小嶌不二夫氏（ピリカ代表）はそれぞれ異なる立場やテーマで社会的インパクトのある課題解決に取り組んでいる。なぜ、社会課題の解決に取り組むことになったのか？ 語り合った。",
+          "link": "https://www.technologyreview.jp/s/282809/why-did-tr35-innovators-turn-their-attention-to-social-issues/",
+          "publishedOn": "2022-08-09T09:27:10.000Z",
+          "wordCount": 1431,
+          "title": "MITTRが選ぶU35イノベーターはなぜ、社会課題に目を向けたのか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/09134650/IMG20220722172949-scaled-e1660023694677-1334x787.jpg"
+        },
+        {
           "id": "https://www.technologyreview.jp/n/2022/08/08/282791/",
           "author": "MIT Technology Review Japan",
           "description": "",
@@ -5461,16 +5531,6 @@
           "wordCount": 1217,
           "title": "自動運転・ドローンが消え、 グーグルが去った街 キーサイド2.0のビジョン",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/29185027/JA22_quayside_utopia-grad-1116x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=279780",
-          "author": "Casey Crownhart",
-          "description": "米国最高裁判所は6月30日、二酸化炭素排出量を規制する米国環境保護庁の権限を、大きく制限する判決を出した。気候変動が進む中で、米国の気候政策が後退する可能性がある。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/279780/the-us-supreme-court-just-gutted-federal-climate-policy/",
-          "publishedOn": "2022-07-10T21:25:18.000Z",
-          "wordCount": 1220,
-          "title": "環境保護庁の排ガス規制は越権、最高裁判断で米気候政策に暗雲",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/30235504/h_10.04091552-crop-1400x787.jpeg"
         }
       ]
     }
