@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "696a6830c64489998fb651b8cd3e79bcf4d110af",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Compute Cloud (Amazon EC2) での Microsoft Visual Studio Enterprise 2022 および Microsoft Visual Studio Professional 2022 Amazon マシンイメージ (AMI) の、Amazon が提供する完全準拠のライセンスが AWS で利用可能になりました。これらの AMI は Amazon EC2 コンソールと AWS Marketplace で利用でき、インスタンスをオンデマンドで起動できます。長期ライセンス契約は必要ありません。Amazon EC2 では幅広いインスタンスの選択肢があり、エンドユーザーが使った分だけ支払える柔軟性があるうえ、エンドユーザーにキャパシティーと適切なハードウェアを提供できます。多くの請負業者をかかえる企業は、セキュリティとコンプライアンスを損なうことなく、自社の IT 部門が管理する標準化された開発マシンを簡単にプロビジョニングできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/",
+          "publishedOn": "2022-08-10T09:53:17.000Z",
+          "wordCount": 388,
+          "title": "Amazon EC2 での Microsoft Visual Studio Amazon マシンイメージ (AMI) を含むライセンスが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "79e02efff8c9f1e417b60a325bf1ea645138d02a",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch カスタムメトリクスでは、50 倍の容量がサポートされるようになりました。これにより、1 回の呼び出しで最大 1,000 メトリクスを 3 倍のデフォルトコールレートで送信し、メトリクスあたり 3 倍のディメンション (最大 30) を指定できます。CloudWatch カスタムメトリクスを利用すると、使用中の AWS サービスに基づいて CloudWatch で提供される自動メトリクスを補完するアプリケーション固有のデータを取得できます。これらの改善により、より少ない API リクエストで同量のデータを送信することが可能になるため、コスト削減につながります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/",
+          "publishedOn": "2022-08-10T09:43:17.000Z",
+          "wordCount": 327,
+          "title": "Amazon CloudWatch メトリクスにより 150 倍のスループット向上を実現",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9b28f97bb4e72d6f7c9dda6f0351074d89aa757f",
           "author": "aws@amazon.com",
           "description": "Amazon Timestream がアジアパシフィック (シドニー) およびアジアパシフィック (東京) AWS リージョンで利用できるようになりました。Amazon Timestream は、IoT、エッジ、運用アプリケーション向けの、新しいフルマネージド型サーバーレス時系列データベースです。リレーショナルデータベースの最大 1,000 倍の速度と 1/10 のコストで、1 日あたり数兆件の時系列イベントを処理するようにスケールできます。",
@@ -2156,6 +2176,16 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/08/data-ai-summit2022",
+          "author": null,
+          "description": "6月27日～30日、米サンフランシスコにおいてDatabricks主催の年次カンファレンス「Data + AI Summit 2022」が行われました。本稿では同カンファレンスで発表されたアップデートの中から、Databricksがそのレイクハウス戦略の要に位置づけているストレージレイヤ「Delta Lake」にフォーカスし、Delta Lakeによってレイクハウス、そしてデータ分析のあり方がどう変わっていくのか、その展望を示したいと想います。",
+          "link": "https://gihyo.jp/article/2022/08/data-ai-summit2022?utm_source=feed",
+          "publishedOn": "2022-08-10T06:12:00.000Z",
+          "wordCount": null,
+          "title": "「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション",
+          "imageUrl": null
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727",
           "author": null,
           "description": "2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。",
@@ -2733,6 +2763,16 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/08/data-ai-summit2022",
+          "author": null,
+          "description": "6月27日～30日、米サンフランシスコにおいてDatabricks主催の年次カンファレンス「Data + AI Summit 2022」が行われました。本稿では同カンファレンスで発表されたアップデートの中から、Databricksがそのレイクハウス戦略の要に位置づけているストレージレイヤ「Delta Lake」にフォーカスし、Delta Lakeによってレイクハウス、そしてデータ分析のあり方がどう変わっていくのか、その展望を示したいと想います。",
+          "link": "https://gihyo.jp/article/2022/08/data-ai-summit2022?utm_source=feed",
+          "publishedOn": "2022-08-10T06:12:00.000Z",
+          "wordCount": null,
+          "title": "「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション",
+          "imageUrl": null
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727",
           "author": null,
           "description": "2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。",
@@ -3289,6 +3329,16 @@
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
       "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/08/data-ai-summit2022",
+          "author": null,
+          "description": "6月27日～30日、米サンフランシスコにおいてDatabricks主催の年次カンファレンス「Data + AI Summit 2022」が行われました。本稿では同カンファレンスで発表されたアップデートの中から、Databricksがそのレイクハウス戦略の要に位置づけているストレージレイヤ「Delta Lake」にフォーカスし、Delta Lakeによってレイクハウス、そしてデータ分析のあり方がどう変わっていくのか、その展望を示したいと想います。",
+          "link": "https://gihyo.jp/article/2022/08/data-ai-summit2022?utm_source=feed",
+          "publishedOn": "2022-08-10T06:12:00.000Z",
+          "wordCount": 325,
+          "title": "「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1925_data-ai-summit22.png"
+        },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727",
           "author": null,
@@ -3997,6 +4047,16 @@
           "wordCount": 1074,
           "title": "週刊Railsウォッチ: RubyのGVLトレーサーgvl-tracing、casting gemでオブジェクトに振る舞いを追加ほか（20220802後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220802_eyecatch-min.png"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2019/10/rails_request_lifecycles_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: The Lifecycle of a Rails Request 原文公開日: 2019/05/02 著者: Godfrey Chan サイト: Skylight 日本語タイトルは内容に即したものにしました。画像は元記事の引用です。 2019/10/03: 初版公開 2022/08/02: 更新 参考 以下のサイトで、Railsのリクエストの全ライフサイクルをビジュアル表示で追うことができます。本記事と合わせて参照することで理解が進むと思います。 サイト: Rails Trace rails-trace.chriszetter.comより Rails:  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493\" data-wpel-link=\"internal\" target=\"_self\">Rails: リクエストのライフサイクルとRackを理解する（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493",
+          "publishedOn": "2022-08-02T08:30:15.000Z",
+          "wordCount": 1278,
+          "title": "Rails: リクエストのライフサイクルとRackを理解する（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2019/10/rails_request_lifecycles_eyecatch-min.png"
         },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/120087",
@@ -5501,36 +5561,6 @@
           "wordCount": 684,
           "title": "大腸がん再発のメカニズムを解明、再発予防に光明＝慶應大",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=280210",
-          "author": "Tammy Xu",
-          "description": "大量の電力を使う深層学習モデルの訓練において、クラウド・サービスの設定を変更するだけでエネルギー消費量や排出量を削減できるという研究が発表された。ただ、実際には手間暇かけてそれを実践する研究者は少ない。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/280210/these-simple-changes-can-make-ai-research-much-more-energy-efficient/",
-          "publishedOn": "2022-07-11T21:58:37.000Z",
-          "wordCount": 1190,
-          "title": "AI研究のエネルギー効率が、大幅に向上するシンプルな方法",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/06181504/AI-carbonemissions-3-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/11/280506/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/12/280506/",
-          "publishedOn": "2022-07-11T21:57:07.000Z",
-          "wordCount": 687,
-          "title": "北大が「フォトニック分子列車」開発、分子レベルで光伝達を制御",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=279653",
-          "author": "Karrie Jacobs",
-          "description": "グーグルの兄弟会社であるサイドウォーク・ラボが計画した「スマートシティ」が頓挫した街は今、まったく新しい計画「キーサイド2.0」を進めている。コンセプトは、市民が住みたくなる街づくりだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/279653/toronto-wants-to-kill-the-smart-city-forever/",
-          "publishedOn": "2022-07-11T21:54:44.000Z",
-          "wordCount": 1217,
-          "title": "自動運転・ドローンが消え、 グーグルが去った街 キーサイド2.0のビジョン",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/29185027/JA22_quayside_utopia-grad-1116x787.jpeg"
         }
       ]
     }
