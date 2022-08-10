@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-10T10:01:20.339Z</updated>
+    <updated>2022-08-10T22:01:12.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect のスケジュール準拠性がプレビューで確認可能に]]></title>
+        <id>8b285a0733f405d5de71db24d8b06b625da1ee79</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-connect-schedule-adherence-preview/"/>
+        <updated>2022-08-10T10:59:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect には、既にプレビューに使用されている既存の予測、容量計画、およびスケジューリング機能に加えて、エージェントのスケジュール準拠性についてレポートする機能が新しく組み込まれました。スケジュール準拠性の機能を使用して、計画したスケジュールに対するエージェントの順守状況を測定し、エージェントの生産性と顧客満足度を向上させるための対策に役立つインサイトを得ることができます。たとえば、エージェントが予定よりも忙しかった場合、スーパーバイザーは Amazon Connect のスケジュール準拠性機能を使用して、休憩を取っていないエージェントを特定し、パフォーマンスの維持と疲弊防止のために、今後は忘れずに休憩を取るよう促すことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT SiteWise がデータインジェストのためペイロード圧縮のサポートを開始]]></title>
+        <id>079b1819171ebc2226c3748a339aeb7c7fccd304</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-payload-compression-data-ingestion/"/>
+        <updated>2022-08-10T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT SiteWise が AWS IoT SiteWise データインジェスト API (BatchPutAssetPropertyValue) を使ってデータインジェストのためペイロード圧縮のサポートを開始しました。産業分野のユーザーはペイロード圧縮を利用してペイロードのサイズを圧縮し、AWS IoT SiteWise にデータをインジェストするために使われるネットワーク帯域幅を最適化できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Comprehend によって達成される、カスタムエンティティ認識モデルのトレーニングにおける注釈の下限値の低減]]></title>
+        <id>945dc5de0e791d0074086eb15f5301195ec5915b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/"/>
+        <updated>2022-08-10T10:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Comprehend を使用すると、モデルをトレーニングするための注釈の要件が軽減されるため、カスタムエンティティ認識を簡単に開始することができます。Amazon Comprehend は、テキストからキーフレーズ、コンテキストエンティティ、イベント、センチメントを抽出するための API を備えた自然言語処理 (NLP) サービスです。エンティティとは、ドキュメントに記載された人、場所、組織、クレジットカード番号などを指します。Amazon Comprehend のカスタムエンティティ認識 (CER) を使用すると、少しの簡単な手順で、ビジネスに固有のエンティティに基づいてモデルをトレーニングできます。モデルを効果的にトレーニングできる程度の詳細情報を提供するだけで、ほぼすべての種類のエンティティを識別できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Data Exchange がアセットサイズの制限を 100 GB に引き上げ]]></title>
+        <id>fb51e1a533f5188aa5843f9f27eb57b0fcdb3ccf</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/"/>
+        <updated>2022-08-10T10:34:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS Data Exchange のサードパーティーのデータプロバイダーは、Amazon S3 アセットを 100 GB のサイズまでインポートできるようになりました。以前の制限は 10 GB でした。アセットサイズが増えることにより、特にヘルスケアとライフサイエンス、金融サービス、小売業で新しいユースケースが見込まれます。これは、プロバイダーがゲノムデータ、大量の金融データ、衛星画像など、通常 10 GB を超えるアセットのライセンスを取得できるようになるためです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Compute Optimizer の利用可能な AWS リージョンが 5 つ増加]]></title>
+        <id>caed54876c355401c80a28c490b42e03350b161d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/"/>
+        <updated>2022-08-10T10:28:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS Compute Optimizer が、アジアパシフィック (大阪)、アジアパシフィック (香港)、中東 (バーレーン)、アフリカ (ケープタウン)、欧州 (ミラノ) の 5 つのリージョンでも利用できるようになったことをお伝えします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Is4gen および Im4gn のインスタンスが新たに 4 つのリージョンで利用可能に]]></title>
+        <id>2beadd8d06c39358d340614cff3f5a4d4022b8eb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/"/>
+        <updated>2022-08-10T10:22:17.000Z</updated>
+        <summary type="html"><![CDATA[本日より、最新世代のストレージ最適化インスタンスである Amazon EC2 Is4gen および Im4gn のインスタンスがアジアパシフィック (シドニー)、カナダ (中部)、欧州 (フランクフルト)、欧州 (ロンドン) で利用できるようになりました。Is4gen および Im4gn のインスタンスは AWS Nitro System に構築されており、AWS Graviton2 プロセッサを搭載しています。これらは AWS によってカスタム設計された新しい AWS Nitro SSD を備えた最大 30 TB のストレージを備えており、SSD から継続的に読み取りと書き込みを行う SQL/NoSQL データベース、検索エンジン、分散ファイルシステム、データ分析などの I/O 集約型ワークロードのストレージパフォーマンスを最大化します。AWS Nitro SSD は、第 3 世代のストレージ最適化インスタンスと比較して、Im4gn および Is4gen インスタンスで最大 60% 低いレイテンシーと最大 75% 低いレイテンシー変動を実現します。これらのインスタンスは、中規模から大規模のデータセットを備えており、高いコンピューティングパフォーマンスと高いネットワークスループットを利用できるリレーショナルデータベース (MySQL、MariaDB、PostgreSQL など) や NoSQL データベース (KeyDB、ScyllaDB、Cassandra) など、I/O 集約型ワークロードで 1 秒あたり処理されるトランザクション (TPS) の数を最大化します。また、検索エンジンや、ローカルストレージ上のデータセットに対して、非常に高速なアクセスを必要とするデータ分析ワークロードにも最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lookout for Metrics での 50K のメトリクスから 500K のメトリクスへのクォータの引き上げを発表]]></title>
+        <id>cdafde9afa14e4aae894986e5777ca794bffad41</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-lookout-metrics-increased-quota-50k-500k-metrics/"/>
+        <updated>2022-08-10T10:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Lookout for Metrics は機械学習 (ML) を使用して、ビジネスに不可欠なメトリクスを自動的にモニタリングするサービスです。異常検出に使用されていた従来の手法よりも非常に高速かつ正確に実行できます。このサービスを使用すると、予想外の収益減少、ショッピングカートの高い放棄率、支払取引の不履行の急増、新規ユーザー登録の増加などの異常の根本原因を簡単に特定できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda が段階的な価格設定を発表]]></title>
+        <id>247a11ff249cdf6589b016ede0a23677ec4afb74</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/"/>
+        <updated>2022-08-10T10:10:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda では、月間の Lambda 関数の実行時間、すなわち GB 秒の使用に段階的な価格設定を提供するようになりました。今回、追加された 2 つの段階的な価格設定では、月間のオンデマンド関数実行時間の総料金に対して割引が適用されます。 段階的な価格設定は 2022 年 8 月 1 日に始まる月額請求サイクルから有効になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IoT Core で新しいデバイスプロビジョニングのコンソールが利用可能に]]></title>
+        <id>4624b8e11315633c24dddbddc246a602dbd46d73</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/"/>
+        <updated>2022-08-10T09:59:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS IoT Core で新しいデバイスプロビジョニングのコンソールが利用できるようになり、IoT ソリューションに最適なプロビジョニングのオプションをより直観的に選択できるようになりました。これまでより簡単にデバイスのプロビジョニングのシナリオをナビゲートし、シンプルなフローに沿ってプロビジョニングテンプレートを作成し、1 つまたは多数のデバイスのアクセス許可を設定できるようになりました。また、更新されたインターフェイスを使用すると、ドキュメント、製品情報、リソースにアクセスできるため、デバイスのプロビジョニングフローの選択、作成、管理を一か所で行うのに役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EC2 での Microsoft Visual Studio Amazon マシンイメージ (AMI) を含むライセンスが利用可能に]]></title>
         <id>696a6830c64489998fb651b8cd3e79bcf4d110af</id>
@@ -6156,135 +6246,6 @@ AWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを�
         <summary type="html"><![CDATA[高いモデルパフォーマンスを発揮する機械学習モデルを生成するための Amazon SageMaker Autopilot の実験が、最大 2 倍の速度で実行されるようになりました。Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、調整できるローコードの機械学習製品です。しかし、データセットのサイズが大きくなるにつれて、モデルのトレーニングと調整に必要なコンピューティングコストが増大する可能性があります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: RubyのGCが高速化、RuboCopのストレスを減らす4つの方法、Defensive CSSほか（20220712後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_12/119649</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_12/119649"/>
-        <updated>2022-07-12T09:45:29.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220712_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_12/119649" data-wpel-link="internal" target="_self">週刊Railsウォッチ: RubyのGCが高速化、RuboCopのストレスを減らす4つの方法、Defensive CSSほか（20220712後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東大、タンデム太陽電池で世界最高の変換効率を達成]]></title>
-        <id>https://www.technologyreview.jp/n/2022/07/12/280583/</id>
-        <link href="https://www.technologyreview.jp/n/2022/07/12/280583/"/>
-        <updated>2022-07-12T07:30:47.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大腸がん再発のメカニズムを解明、再発予防に光明＝慶應大]]></title>
-        <id>https://www.technologyreview.jp/n/2022/07/11/280513/</id>
-        <link href="https://www.technologyreview.jp/n/2022/07/12/280513/"/>
-        <updated>2022-07-12T07:27:15.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[農業から他分野へ、熊本から世界へ。 国内最大のベビーリーフメーカーの原動力は 「データ」と「技術」]]></title>
-        <id>https://data.wingarc.com/?p=43862</id>
-        <link href="https://data.wingarc.com/localdxlab-43-kumamoto-43862?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=localdxlab-43-kumamoto"/>
-        <updated>2022-07-12T01:00:56.000Z</updated>
-        <summary type="html"><![CDATA[第1次産業はデータ活用やDXが困難な業界である。製造業であれば「トヨタの生産方式」、「タクトタイムスケーラー」、「QCDS」 といった方法論が確立されている。しかし農業のような1次産業では、いまだに経験と勘による生産が中 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル ── HTTP/3入門]]></title>
-        <id>https://gihyo.jp/admin/serial/01/http3/0002</id>
-        <link href="https://gihyo.jp/admin/serial/01/http3/0002"/>
-        <updated>2022-07-12T00:29:00.000Z</updated>
-        <summary type="html"><![CDATA[本章では，HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。]]></summary>
-        <author>
-            <name>後藤ゆき</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第175回　enforce_gtid_consistencyを設定しよう ── MySQL道普請便り]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175"/>
-        <updated>2022-07-12T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQLのレプリケーション機能は非常に便利で，冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。]]></summary>
-        <author>
-            <name>深町日出海</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第175回　enforce_gtid_consistencyを設定しよう]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175?utm_source=feed"/>
-        <updated>2022-07-12T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQLのレプリケーション機能は非常に便利で、冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第175回　enforce_gtid_consistencyを設定しよう]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175?utm_source=feed"/>
-        <updated>2022-07-12T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQLのレプリケーション機能は非常に便利で、冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第175回　enforce_gtid_consistencyを設定しよう]]></title>
-        <id>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175</id>
-        <link href="https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0175?utm_source=feed"/>
-        <updated>2022-07-12T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[MySQLのレプリケーション機能は非常に便利で、冗長構成としてレプリケーションを構築しているサービスは多くあるかと思います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル]]></title>
-        <id>https://gihyo.jp/admin/serial/01/http3/0002</id>
-        <link href="https://gihyo.jp/admin/serial/01/http3/0002?utm_source=feed"/>
-        <updated>2022-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本章では、HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル]]></title>
-        <id>https://gihyo.jp/admin/serial/01/http3/0002</id>
-        <link href="https://gihyo.jp/admin/serial/01/http3/0002?utm_source=feed"/>
-        <updated>2022-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本章では、HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 詳解QUIC ～ TCPに代わり下位層で使用する新しいトランスポートプロトコル]]></title>
-        <id>https://gihyo.jp/admin/serial/01/http3/0002</id>
-        <link href="https://gihyo.jp/admin/serial/01/http3/0002?utm_source=feed"/>
-        <updated>2022-07-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本章では、HTTP/3がTCPに代わって下位層で用いるQUICについて解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奈良県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
-        <id>https://data.wingarc.com/?p=43888</id>
-        <link href="https://data.wingarc.com/local-dx-lab-nara-43888?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-nara"/>
-        <updated>2022-07-11T23:53:04.000Z</updated>
-        <summary type="html"><![CDATA[奈良県は日本のほぼ中央部、紀伊半島の真ん中に位置します。 内陸県のため、海はありませんが、盆地あり、高原あり、山ありの豊かな自然と、日本が国家を形成し始めた時代からの歴史遺産や文化を数多く受け継いできた観光で人気の地域で […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
     <entry>
