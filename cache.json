@@ -1494,46 +1494,6 @@
           "wordCount": 317,
           "title": "Amazon Keyspaces (Apache Cassandra 向け) に BillableTableSizeInBytes CloudWatch メトリクスへのコンソールアクセスが追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fdf8e8bc4e9a2b420ae2228b3181b768a253e2f6",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty には、Amazon Simple Storage Service (Amazon S3) バケットに保存されているデータへの異常なアクセスを効果的に検出する、新しい機械学習技術が組み込まれています。この新機能は、アカウント内の S3 データプレーン API 呼び出し (GET、PUT、DELETE など) を継続的にモデル化し、確率的予測を組み込んで、S3 バケットに保存されているデータへの疑わしいユーザーアクセス (異常な地理的位置からのリクエスト、データの不正引き出しと思われる不自然に多い API コールなど) をより正確に判断して警告を発します。この新しい機械学習アプローチでは、データの検出、改ざん、不正引き出しなど、既知の攻撃戦術に関連する悪意のあるアクティビティをより正確に特定できます。新しい脅威検出は、追加の対応および追加の費用なしで、GuardDuty S3 Protection が有効になっている、既存のすべての Amazon GuardDuty のお客様がご利用いただけます。GuardDuty をまだ使用していない場合、サービスを有効にすると、S3 Protection はデフォルトでオンになっています。GuardDuty を既に使用していて S3 Protection をまだ有効にしていない場合は、GuardDuty コンソールからワンクリックで、または API を通じて、組織全体でこの機能を有効にできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/",
-          "publishedOn": "2022-07-11T13:48:40.000Z",
-          "wordCount": 372,
-          "title": "Amazon GuardDuty が S3 バケットに保存されているデータへの疑わしいアクセスを高精度で検出する新しい機械学習機能を導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cd917829e0ed555e4479406797a25a1e8bfcd067",
-          "author": "aws@amazon.com",
-          "description": "Amazon OpenSearch Service では、Service Quotas を通じて、デフォルトクォータと適用されたクォータの情報をユーザーに表示できるようになりました。クォータとは、AWS のサービス制限とも呼ばれる、AWS アカウントのリソース、アクション、アイテムに設けられた最大値のことです。AWS の各サービスがクォータを定義しており、それらのクォータにデフォルト値を設定しています。ビジネスのニーズによっては、サービスのクォータ値を引き上げることが必要になる場合もあります。Service Quotas を使用することにより、サービスのクォータを検索し、クォータの引き上げをリクエストできます。リクエストは、AWS サポートによって承認、拒否、または部分的に承認されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/",
-          "publishedOn": "2022-07-11T13:47:50.000Z",
-          "wordCount": 349,
-          "title": "Amazon OpenSearch Service が Service Quotas によるクォータ情報の表示機能を実装",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a0a09ca68901f27487cfe64b884aa3db780f54a2",
-          "author": "aws@amazon.com",
-          "description": "AWS Snowcone ソリッドステートドライブ (SSD) デバイスは、既に Snowcone SSD の利用が可能となっている AWS 米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (オレゴン)、米国西部 (北カルフォルニア)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、アジアパシフィック (シドニー)、欧州 (フランクフルト)、欧州 (アイルランド)、欧州 (ロンドン)、アジアパシフィック (ムンバイ)、カナダ (中部)、南米 (サンパウロ) に追加されるかたちで、AWS 欧州 (パリ) でもご利用いただけるようになりました。これらの利用可能なリージョンのリストは、今後も拡大予定です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/",
-          "publishedOn": "2022-07-11T13:47:01.000Z",
-          "wordCount": 397,
-          "title": "AWS Snowcone SSD が AWS 欧州 (パリ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "38cd82f3e9d47993c3d80137c5ec5f74c3826362",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkMail では Custom Availability Provider Lambda (CAP Lambda) を使って、AWS Lambda の呼び出しをサポートして、ユーザーの予定を取得できるようになりました。CAP Lambda は WorkMail が外部の予定ソースから予定情報を取得するための新しい方法です。これらの CAP Lambda を使用すると、エンドポイントが非公開であっても、Exchange Web Services (EWS) エンドポイントを持たない場合でも、顧客の所有する他のカレンダープロバイダーのユーザーの予定情報へのアクセスを WorkMail に付与できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/",
-          "publishedOn": "2022-07-11T13:46:12.000Z",
-          "wordCount": 384,
-          "title": "Amazon WorkMail が Lambda を呼び出して予定 (あり/なし) を取得可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
