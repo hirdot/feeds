@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "0eb9f5c9c61a60e0bb42bf367d5442edac3586ce",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch Evidently はユーザーが自分で定義した基準を使って、実験とローンチのターゲット層 (セグメント) を定義できる新機能を発表します。例えば、Chrome ブラウザのユーザー、自社サービスのアーリーアダプター、特定の地域のユーザーといったカスタムセグメントを対象に、機能実験やローンチの実行を選択できます。新しい機能や実験を開始する際、複数のセグメントを含むように設定できます。各セグメントは機能の 1 つ以上のバリアントを提供し、ページのロード時間やコンバージョンなどの主要なメトリクスをモニタリングし、その後一般利用に向けて安全にトラフィックをダイヤルアップするように設定できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/",
+          "publishedOn": "2022-08-11T10:35:17.000Z",
+          "wordCount": 302,
+          "title": "Amazon CloudWatch Evidently が機能ローンチと実験のターゲット顧客セグメント作成のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "8b285a0733f405d5de71db24d8b06b625da1ee79",
           "author": "aws@amazon.com",
           "description": "Amazon Connect には、既にプレビューに使用されている既存の予測、容量計画、およびスケジューリング機能に加えて、エージェントのスケジュール準拠性についてレポートする機能が新しく組み込まれました。スケジュール準拠性の機能を使用して、計画したスケジュールに対するエージェントの順守状況を測定し、エージェントの生産性と顧客満足度を向上させるための対策に役立つインサイトを得ることができます。たとえば、エージェントが予定よりも忙しかった場合、スーパーバイザーは Amazon Connect のスケジュール準拠性機能を使用して、休憩を取っていないエージェントを特定し、パフォーマンスの維持と疲弊防止のために、今後は忘れずに休憩を取るよう促すことができます。",
@@ -1414,16 +1424,6 @@
           "wordCount": 323,
           "title": "AWS CloudFormation StackSets は、組織単位内でのアカウントレベルのターゲティングをサポートすることを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c42aa4bdd7aa3bc4eae15168f2b9b65919d4a9bd",
-          "author": "aws@amazon.com",
-          "description": "※本プレスリリースは、2022 年 7 月 12 日に米国で発表されたプレスリリースをもとに作成しています。\n \n \n \nAmazon EMR Serverless、Amazon MSK Serverless に加え、Amazon Redshift Serverless の新しいサーバーレスオプションにより、お客様は基盤となるインフラの設定、拡張・管理をせずに膨大なデータ量の分析が可能に\n \n \nこの新たなサーバーレス分析オプションを Informatica、NextGen Healthcare、Huron を含むお客様およびパートナーが採用",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/redshift-serverless-japan/",
-          "publishedOn": "2022-07-13T05:22:27.000Z",
-          "wordCount": 582,
-          "title": "AWS、モダンなデータ分析をエンドツーエンドで支援する 3 つのサーバーレス分析サービス群を一般提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2594,56 +2594,6 @@
           "wordCount": 216,
           "title": "2022年7月13日　Red Hat、新CEOにマット・ヒックスを指名、現CEOのポール・コーミアはチェアマンに",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
-          "author": "水野源",
-          "description": "今回は，リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
-          "publishedOn": "2022-07-13T01:21:00.000Z",
-          "wordCount": 383,
-          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法 ── Ubuntu Weekly Recipe",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0723/ogp.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
-          "author": null,
-          "description": "今回は、リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723?utm_source=feed",
-          "publishedOn": "2022-07-13T00:55:00.000Z",
-          "wordCount": 383,
-          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0723/ogp.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
-          "author": null,
-          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
-          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002?utm_source=feed",
-          "publishedOn": "2022-07-13T00:26:00.000Z",
-          "wordCount": 298,
-          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1890_cloud_operatr_dt2022_001.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
-          "author": "後藤ゆき",
-          "description": "本章では，HTTP/3がどのようにQUICを利用し，効率良くHTTPメッセージをやりとりするかを説明します。",
-          "link": "https://gihyo.jp/admin/serial/01/http3/0003",
-          "publishedOn": "2022-07-13T00:16:00.000Z",
-          "wordCount": 655,
-          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し，いかにして高速化を実現したか ── HTTP/3入門",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
-          "author": null,
-          "description": "本章では、HTTP/3がどのようにQUICを利用し、効率良くHTTPメッセージをやりとりするかを説明します。",
-          "link": "https://gihyo.jp/admin/serial/01/http3/0003?utm_source=feed",
-          "publishedOn": "2022-07-12T23:59:00.000Z",
-          "wordCount": null,
-          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し、いかにして高速化を実現したか",
-          "imageUrl": null
         }
       ]
     },
@@ -3150,36 +3100,6 @@
           "publishedOn": "2022-07-13T11:22:00.000Z",
           "wordCount": null,
           "title": "2022年7月13日　Red Hat、新CEOにマット・ヒックスを指名、現CEOのポール・コーミアはチェアマンに",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
-          "author": null,
-          "description": "今回は、リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723?utm_source=feed",
-          "publishedOn": "2022-07-13T00:55:00.000Z",
-          "wordCount": null,
-          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
-          "author": null,
-          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
-          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002?utm_source=feed",
-          "publishedOn": "2022-07-13T00:26:00.000Z",
-          "wordCount": null,
-          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
-          "author": null,
-          "description": "本章では、HTTP/3がどのようにQUICを利用し、効率良くHTTPメッセージをやりとりするかを説明します。",
-          "link": "https://gihyo.jp/admin/serial/01/http3/0003?utm_source=feed",
-          "publishedOn": "2022-07-12T23:59:00.000Z",
-          "wordCount": null,
-          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し、いかにして高速化を実現したか",
           "imageUrl": null
         }
       ]
@@ -3688,36 +3608,6 @@
           "wordCount": 216,
           "title": "2022年7月13日　Red Hat、新CEOにマット・ヒックスを指名、現CEOのポール・コーミアはチェアマンに",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723",
-          "author": null,
-          "description": "今回は、リアルタイムに実行結果を確認できるパイプライン構築ツールPiprをご紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0723?utm_source=feed",
-          "publishedOn": "2022-07-13T00:55:00.000Z",
-          "wordCount": 383,
-          "title": "第723回　複雑なコマンドパイプラインを簡単に組み立てる方法",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0723/ogp.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/codt2022/0002",
-          "author": null,
-          "description": "「Cloud Operator Days Tokyo 2022」の本編と言えるオンデマンドセッションがが6月27日から配信中です。",
-          "link": "https://gihyo.jp/admin/serial/01/codt2022/0002?utm_source=feed",
-          "publishedOn": "2022-07-13T00:26:00.000Z",
-          "wordCount": 298,
-          "title": "#02　「Cloud Operator Days Tokyo 2022」オンデマンドセッションを楽しもう ―編集部の“推しセッション”大紹介",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1890_cloud_operatr_dt2022_001.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/http3/0003",
-          "author": null,
-          "description": "本章では、HTTP/3がどのようにQUICを利用し、効率良くHTTPメッセージをやりとりするかを説明します。",
-          "link": "https://gihyo.jp/admin/serial/01/http3/0003?utm_source=feed",
-          "publishedOn": "2022-07-12T23:59:00.000Z",
-          "wordCount": 655,
-          "title": "第3章 詳解HTTP/3 ～ いかにしてQUICを活用し、いかにして高速化を実現したか",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/http3/http3-introduction-icon.png"
         }
       ]
     },
@@ -4047,26 +3937,6 @@
           "wordCount": 696,
           "title": "Rails: Sprockets-&gt;Propshaftアップグレードガイド（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_sprockets_propshaft_upgrade_guide_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_13/119829",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_sprockets_propshaft_upgrade_guide_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: propshaft/UPGRADING.md at main · rails/propshaft 原文更新日: 2022/03/16（f9e8c3b） ライセンス: MIT Rails: Sprockets->Propshaftアップグレードガイド（翻訳） Propshaftの適用範囲はSprocketsよりも狭いので、Propshaftへの移行にはjsbundling-rails gemとcssbundling-rails gemも利用する必要があります。本ガイドでは、プロジェクトがRails 6.1以後の以下の規約に沿っていることを前提として [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_13/119829\" data-wpel-link=\"internal\" target=\"_self\">Rails: Sprockets->Propshaftアップグレードガイド（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_13/119829",
-          "publishedOn": "2022-07-13T09:45:14.000Z",
-          "wordCount": 697,
-          "title": "Rails: Sprockets-&gt;Propshaftアップグレードガイド（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_sprockets_propshaft_upgrade_guide_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_13/119808",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_security_fix_7031_6161_6051_5281_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby on Rails 7.0.3.1、6.1.6.1、6.0.5.1、5.2.8.1がリリースされました。 Happy Tuesday everyone! A set of releases has occurred! These releases address an important security issue, so please check it out! More information is here: https://t.co/EpxnsTJ3xt &#8212; Ruby on Rails (@rails) July 12, 2022 リリース情報: Ruby on Rails — Ra [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_13/119808\" data-wpel-link=\"internal\" target=\"_self\">Railsセキュリティ修正7.0.3.1、6.1.6.1、6.0.5.1、5.2.8.1がリリースされました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_13/119808",
-          "publishedOn": "2022-07-13T08:25:39.000Z",
-          "wordCount": 609,
-          "title": "Railsセキュリティ修正7.0.3.1、6.1.6.1、6.0.5.1、5.2.8.1がリリースされました",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_security_fix_7031_6161_6051_5281_eyecatch-min.png"
         }
       ]
     },
@@ -4522,6 +4392,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=282894",
+          "author": "Noriko Higo",
+          "description": "米国在住のエンジェル投資家であり、バイオベンチャー起業家としての経験を持つキヨイズミ・タカシ氏。医師から起業家、投資家としてのキャリアを歩んだキヨイズミ氏に、医学／生物工学の分野におけるテクノロジーとイノベーションの現状と医学ならではの課題、さらに医学分野でのイノベーターの条件について聞いた。",
+          "link": "https://www.technologyreview.jp/s/282894/innovators-in-medicine-need-to-think-clearly-about-how-to-bring-the-technology-to-patients/",
+          "publishedOn": "2022-08-11T21:55:12.000Z",
+          "wordCount": 1496,
+          "title": "米バイオ業界を知る投資家・キヨイズミ氏に聞くイノベーターの条件",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/09122738/Kiyoizumi_1-1145x787.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/10/283008/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/12/283008/",
+          "publishedOn": "2022-08-11T21:41:35.000Z",
+          "wordCount": 694,
+          "title": "新型コロナ重症化、「DOCK2」の変異に関連＝大規模ゲノム解析",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/10/283006/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/12/283006/",
+          "publishedOn": "2022-08-11T21:28:49.000Z",
+          "wordCount": 693,
+          "title": "会話を通じて認知症を診断するAIプログラム＝慶應大など開発",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/08/09/282871/",
           "author": "MIT Technology Review Japan",
@@ -5311,16 +5211,6 @@
           "wordCount": 687,
           "title": "東大、高精度ミラーと計算で高分解能の軟X線顕微鏡",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=280615",
-          "author": "MIT Technology Review Audio Studio",
-          "description": "今週のオーディオ・ムック（β）では、中絶禁止判決が米国国民に与えた衝撃、過激化する反中絶団体の活動、それに抵抗する支援団体の動き、テック企業の対応などを紹介する。",
-          "link": "https://www.technologyreview.jp/s/280615/audiomook-the-impact-of-the-u-s-abortion-ban/",
-          "publishedOn": "2022-07-13T03:09:29.000Z",
-          "wordCount": 1566,
-          "title": "聴くMITTR：米「中絶禁止」の衝撃、新たな分断ネットでも",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/03/25152926/AudioMook2-1.png"
         }
       ]
     }
