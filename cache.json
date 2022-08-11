@@ -1444,46 +1444,6 @@
           "wordCount": 278,
           "title": "AWS re:Post でプロフィール写真とインライン画像をサポート",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a4abd56399f41cf68012f4f211b753a3fc7003b4",
-          "author": "aws@amazon.com",
-          "description": "Apache Spark の Amazon EMR ランタイムは、Apache Spark のパフォーマンスが最適化されたランタイム環境であり、Amazon EMR クラスター 5.28 以降においてデフォルトで使用可能および有効になっています。Spark の Amazon EMR ランタイムは最大 32 倍高速で、オープンソースの Spark と 100% API 互換性があります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/",
-          "publishedOn": "2022-07-12T18:33:13.000Z",
-          "wordCount": 375,
-          "title": "Apache Spark の EMR ランタイムで Result Fragment Caching を使用することにより、クエリパフォーマンスが最大 15 倍に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "71fd2c1e3bee8763e89a453db902c8796fccdafb",
-          "author": "aws@amazon.com",
-          "description": ".NET アプリケーション向けに合理化された新しいデプロイ体験が、ついに一般公開となりました。すべてのデプロイ設定にきめ細やかな既定値が設けられているため、AWS に関する深い専門知識がなくても、ワンクリックで、またはいくつかの簡単な手順で、.NET アプリケーションの起動と実行が行えます。アプリケーションに最適なコンピューティングに関するレコメンデーションが提供されるため、初めてのデプロイであっても自信を持って実行できます。この機能は、新しくなった「Publish to AWS」(AWS に公開) ウィザードを使用することにより、AWS Toolkit for Visual Studio で利用できます。AWS Deploy Tool for .NET をインストールすれば、.NET CLI からでも利用できます。\n \n主な機能:\n \n \n \nコンピューティングレコメンデーション - コンピューティングに関する推奨事項を表示して、アプリケーションに最適な AWS のコンピューティング機能を知ることができます。\n \n \nDockerfile の生成 – 選択した AWS コンピューティングに必要な Dockerfile は自動生成されます。\n \n \nオートパッケージング/デプロイ – 選択した AWS コンピューティングの必要に応じて、アプリケーションが構築され、パッケージ化されます。このツールは、AWS CDK を使用して必要なインフラストラクチャをプロビジョニングし、アプリケーションをデプロイします。\n  \n \n反復/共有可能なデプロイ – 適切に整頓および文書化された AWS CDK デプロイプロジェクトを生成し、それを特定のユースケースに合わせて変更することができます。その後、それらのバージョンを管理し、チームで共有することにより、反復可能なデプロイが実現できます。\n \n \nCI/CD 統合 – インタラクティブな機能をオフにし、さまざまなデプロイ設定を使用することで、同じアプリケーションバンドルを異なる環境にプッシュできます。\n \n \nAWS CDK for .NET ラーニングヘルプ – AWS CDK など、デプロイを支える基盤となる AWS ツールに関する知識を深めることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/",
-          "publishedOn": "2022-07-12T18:32:15.000Z",
-          "wordCount": 413,
-          "title": ".NET CLI と Visual Studio での .NET アプリケーション向けに合理化されたデプロイ体験を一般公開",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "84cf9ff2330591d61a6fc2c73974704dc469e090",
-          "author": "aws@amazon.com",
-          "description": "Amazon Athena ではコンソールと API が強化され、パラメータ化されたクエリを使用する際の柔軟性が向上しました。パラメータ化されたクエリを Athena コンソールや強化された API から直接実行できるようになりました。事前に SQL ステートメントを準備する必要はもうありません。本日のリリースにより、パラメータ化されたクエリの再利用性、簡便性、安全性といった利点を、これまでよりも簡単に活用できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/",
-          "publishedOn": "2022-07-12T18:31:26.000Z",
-          "wordCount": 301,
-          "title": "Amazon Athena でパラメータ化されたクエリにおけるコンソールと API のサポートを強化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8eed56f460fb32cfa50fee864b4f305b76e5f84c",
-          "author": "aws@amazon.com",
-          "description": "AWS Identity and Access Management (IAM) の IAM Roles Anywhere を使用することで、AWS 外で実行されているワークロードが AWS リソースにアクセスできるようになりました。IAM Roles Anywhere を使用すれば、サーバー、コンテナ、アプリケーションなどのワークロードが X.509 デジタル証明書を利用して一時的な AWS 認証情報を取得できます。これにより、AWS ワークロードが AWS リソースへのアクセスに利用しているのと同じ IAM ロールおよびポリシーを、AWS 外のワークロードが利用できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/",
-          "publishedOn": "2022-07-12T18:16:06.000Z",
-          "wordCount": 355,
-          "title": "AWS Identity and Access Management で AWS 外のワークロード向けの IAM Roles Anywhere がリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
