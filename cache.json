@@ -1484,86 +1484,6 @@
           "wordCount": 355,
           "title": "AWS Identity and Access Management で AWS 外のワークロード向けの IAM Roles Anywhere がリリース",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "68ecdaeb995e8d22a039bfe0c3cd26277e200be6",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.6.8、10.5.16、10.4.25、10.3.35、および 10.2.44 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の恩恵を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-for-mariadb-supports-new-minor-versions/",
-          "publishedOn": "2022-07-12T17:37:36.000Z",
-          "wordCount": 325,
-          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.8、10.5.16、10.4.25、10.3.35、10.2.44 をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "39f889b180340bf9914dc9dc987a0e0adc5b5166",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) では、パフォーマンス履歴の保持期間を 1 か月から 24 か月まで選択できるようになりました。RDS Performance Insights の無料利用枠を使用することもできます。この利用枠には、7 日間のパフォーマンスデータ履歴と、1 か月あたり 100 万件の API リクエストが含まれます。また、料金モデルの調整の結果、ほとんどのインスタンスタイプで 24 か月間のデータ保持に対する料金が引き下げられました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-performance-insights-additional-performance-history-retention-periods/",
-          "publishedOn": "2022-07-12T17:36:26.000Z",
-          "wordCount": 335,
-          "title": "Amazon RDS Performance Insights がパフォーマンス履歴の保持期間にさらなる選択肢を提供",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4e0b939529c5a57635b0c54d1ee5dd779720b971",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight が QuickSight アカウント作成用 API のサポートを開始しました。これにより、管理者とデベロッパーは、組織内での QuickSight アカウントの大規模なデプロイを自動化できます。QuickSight Enterprise エディションと Q を追加した Enterprise エディションでは、プログラムによってアカウントを作成できるようになりました。詳細については、こちらをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-quicksight-apis-account-create-delete/",
-          "publishedOn": "2022-07-12T17:35:36.000Z",
-          "wordCount": 301,
-          "title": "Amazon QuickSight がアカウント作成用 API のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "84cca7668beddb41f80b63a0ca3fca205b9dd31b",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、検索、共有するためのフルマネージド型の専用リポジトリです。本サービスでは、簡単な特徴量の再利用、低レイテンシー処理、タイムトラベル、トレーニングおよび推論で利用される特徴量の一貫性の確保といった特徴量管理機能を活用できます。 これまで、SageMaker Feature Store のモニタリングは、使用された読み込みユニットと書き込みユニットに限定されていたため、Feature Store の運用効率は限定的にしか確認できませんでした。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/",
-          "publishedOn": "2022-07-12T17:34:45.000Z",
-          "wordCount": 299,
-          "title": "Amazon SageMaker Feature Store に特徴量グループを簡単にモニタリングする運用メトリクスが追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "81b6551e606ecacd1bc21f7919708cd57d56af1f",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Feature Store は、機械学習における特徴量の保存、更新、検索、共有に特化したフルマネージド型リポジトリです。本サービスでは、簡単な特徴量の再利用、低レイテンシー処理、タイムトラベル、トレーニング/推論ワークフローで活用される特徴量の一貫性の確保といった、特徴量管理機能を利用できます。特徴量グループは、特徴量グループスキーマによって構造が定義される、機械学習における特徴量の論理グループです。これまでも、特徴量グループにメタデータタグを付加すれば、特徴量グループを簡単に検索することができました。しかし、メタデータタグは特徴量グループにしか付加できず、特定の特徴量を検索する手順は複雑なものでした。探している特徴量がどの特徴量グループに属しているかを把握し、その特徴量グループ内で当該の特徴量をスキャンする必要があったため、特徴量の検索によって余分なオーバーヘッドが発生していました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/",
-          "publishedOn": "2022-07-12T17:33:56.000Z",
-          "wordCount": 301,
-          "title": "Amazon SageMaker Feature Store が特徴量のメタデータと検索に対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0f071be377f9b60552652cb36db8380990d5eaf3",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub において、お客様のクラウドセキュリティ体制管理 (CSPM、Cloud Security Posture Management) を強化する目的で、Foundational Security Best Practice (FSBP) 標準の 36 の新しいコントロールがリリースされました。新しいコントロールは、セキュリティベストプラクティスに照らして、対象サービスの全自動チェックを実行します。対象サービスは、AWS Auto Scaling、AWS CloudFormation、Amazon CloudFront、Amazon Elastic Compute Cloud (EC2)、Amazon Elastic Container Registry (ECR)、Amazon Elastic Container Service (ECS)、Amazon Elastic File System (EFS)、Amazon Elastic Kubernetes Service (EKS)、Elastic Load Balancing (ELB)、Amazon Kinesis、AWS Network Firewall、Amazon OpenSearch Service、Amazon Redshift、Amazon Simple Storage Service (S3)、Amazon Simple Notification Service (SNS)、AWS WAF です。Security Hub において新しいコントロールを自動で有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、これらのコントロールがデフォルトで有効化されます。Security Hub は今回のリリースにより、AWS のセキュリティ体制を自動的にチェックするための 223 のセキュリティコントロールに対応しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/",
-          "publishedOn": "2022-07-12T17:33:01.000Z",
-          "wordCount": 420,
-          "title": "AWS Security Hub で 36 のセキュリティベストプラクティスコントロールが新たにリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0cf84b7de26272f1f5beef32dd9a3fdc271056cb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Location Service でクォータ管理のサポートが開始されました。これにより、任意の API の使用率がその API のクォータ制限に近付いた際に通知する Amazon CloudWatch アラームを作成できるようになります。このアラームは、運用上の継続性を確保し、サービスのスロットリングを防止し、意図しない支出を回避するのに役立ちます。また、AWS Service Quotas を使用することで、クォータの増加を 1 つのユーザーインターフェイスから確認、管理、リクエストすることもできます。例えば、eコマースのウェブサイトであれば、Amazon Location API のそれぞれについて、使用率が 80% に達した際に通知する CloudWatch アラームを作成することができます。アラームが発動した際に、クォータの引き上げをリクエストすることもできます。それにより、ワークロードをスケーリングし、ウェブサイトの機能停止を回避して、購入者のカスタマーエクスペリエンスを保証することもできるでしょう。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-location-service-quota-management/",
-          "publishedOn": "2022-07-12T17:32:13.000Z",
-          "wordCount": 333,
-          "title": "Amazon Location Service でクォータ管理のサポートが開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "35c3bab1a1ec4f4708ea147f05e30cc625a32373",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Feature Store は、機械学習 (ML) の特徴量を保存、更新、検索、共有するためのフルマネージド型の専用リポジトリです。本サービスでは、簡単な特徴量の再利用、低レイテンシー処理、タイムトラベル、トレーニングおよび推論ワークフローで利用される特徴量の一貫性の確保といった特徴量管理機能を活用できます。特徴量グループは、特徴量グループスキーマによって構造が定義される、機械学習における特徴量の論理的グループです。これまでは、特徴量グループに含まれる特徴量は特徴量グループの作成時に定義され、特徴量グループのスキーマを変更することはできませんでした。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-new-features-existing-feature-groups/",
-          "publishedOn": "2022-07-12T17:31:14.000Z",
-          "wordCount": 287,
-          "title": "Amazon SageMaker Feature Store で既存の特徴量グループに新しい特徴量を追加可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3939,16 +3859,6 @@
           "publishedOn": "2022-07-15T00:00:00.000Z",
           "wordCount": 859,
           "title": "Rails security releases, Improved generator option handling and more…",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/7/12/Rails-Versions-7-0-3-1-6-1-6-1-6-0-5-1-and-5-2-8-1-have-been-released",
-          "author": null,
-          "description": "Hi everyone!!! Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released!",
-          "link": "https://rubyonrails.org/2022/7/12/Rails-Versions-7-0-3-1-6-1-6-1-6-0-5-1-and-5-2-8-1-have-been-released",
-          "publishedOn": "2022-07-12T17:52:28.000Z",
-          "wordCount": 319,
-          "title": "Rails Versions 7.0.3.1, 6.1.6.1, 6.0.5.1, and 5.2.8.1 have been released!",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
