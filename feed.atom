@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T03:28:40.318Z</updated>
+    <updated>2022-08-12T04:09:35.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5822,16 +5822,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <summary type="html"><![CDATA[EC2 Auto Scaling では、予測スケーリングポリシーの予測内容を CloudWatch メトリクスとして公開しました。これにより、予測スケーリングの精度の分析やモニタリング、精度に関するアラームの設定などが行えるようになります。予測スケーリングは、予測した需要に基づき、Auto Scaling グループの容量を事前に引き上げるスケーリングポリシーです。このポリシーを利用すれば、アプリケーションの可用性を向上させながら、EC2 コストの増加につながるオーバープロビジョニングな状態を維持する必要性を抑えることができます。予測スケーリングは Auto Scaling グループの容量を引き上げるだけなので、現在のスケーリング設定に正確に適用することができれば、お使いのアプリケーションの可用性が向上します。とはいえ、予測が不正確だと、逆にコストが増加する可能性もあります。CloudWatch が備える多種多様な機能を使用できるようになったことで、予測精度を測定し、見慣れた CloudWatch グラフで予測内容を表示できるほか、予測結果が設定した水準を超えた場合の自動アラームや自動通知を設定することもできます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DevOps Guruが新機能、機械学習によるログの異常（アノマリー）検知と推奨される解決策の提示]]></title>
-        <id>https://www.publickey1.jp/blog/22/amazon_devops_guru.html</id>
-        <link href="https://www.publickey1.jp/blog/22/amazon_devops_guru.html"/>
-        <updated>2022-07-13T15:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、機械学習によってアプリケーションの異常動作などを検出、改善するためのサービス「Amazon DevOps Guru」の新機能として、アプリケーションログの異常値検知（Log Anomaly...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>
