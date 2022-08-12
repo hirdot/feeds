@@ -1344,56 +1344,6 @@
           "wordCount": 321,
           "title": "Amazon DevOps Guru にログ異常検出機能と推奨事項機能が追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "94da2dc95132008c22c6f63c9ff245adc937608f",
-          "author": "aws@amazon.com",
-          "description": "AWS Firewall Manager は、共通のセキュリティグループポリシーを作成する際に、VPC セキュリティグループタグの一元的な配布をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/",
-          "publishedOn": "2022-07-13T17:34:24.000Z",
-          "wordCount": 324,
-          "title": "AWS Firewall Manager で共通のセキュリティグループポリシーによる VPC セキュリティグループタグの配布をサポート開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8ae0a74d9027587cc5d3cd7db81998f0f95e5113",
-          "author": "aws@amazon.com",
-          "description": "Amazon Nimble Studio は、スタジオコンポーネントおよびカスタムスタジオコンポーネントに対するシームレスな AWS Identity Access Management (IAM) プロファイルのアクセスをサポートするようになりました。ワークステーションセッションに直接アクセスして、すぐに利用できます。これにより、Nimble Studio の管理者がシームレスな IAM ロールのアクセス許可によってストリーミングワークステーションの追加のプロパティを設定および制御できるため、アーティストはプロファイルを切り替えることなく、作業中のタスクに適したレベルのアクセス権を持つことができます。カスタムコンポーネントは、Windows の場合は PowerShell スクリプトを使用し、Linux インスタンスの場合はシェルスクリプトを使用します。これらの設定は、Nimble Studio の起動プロファイルに追加して、簡単に取り出すことができます。カスタム設定では、シームレスな IAM ロールのアクセス許可によって、従来よりも柔軟にワークステーションにリソースを追加したり、インスタンス、システム、ユーザーの初期化時にカスタムスクリプトを実行したりできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/",
-          "publishedOn": "2022-07-13T17:33:33.000Z",
-          "wordCount": 305,
-          "title": "Nimble Studio にスタジオコンポーネントに対するシームレスな IAM アクセスを導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "448371e1b43215259a82079de3c7d4d51b1dfde8",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Compute Cloud (Amazon EC2) M1 Mac インスタンスの一般提供が開始されました (GA)。Apple Silicon Mac mini コンピュータ上に構築され、AWS Nitro System を搭載した Amazon EC2 M1 Mac インスタンスは、iOS および macOS アプリケーションの構築用およびテスト用となる x86 ベースの EC2 Mac インスタンスよりも最大 60% 優れたコストパフォーマンスを提供します。安全なオンデマンドの AWS インフラストラクチャが何百万ものお客様に 10 年以上提供してきた伸縮性、スケーラビリティ、信頼性はそのままです。また、EC2 M1 Mac インスタンスは、AWS で初めてネイティブ Arm64 macOS 環境での Apple デバイス向けのアプリケーションの開発、構築、テスト、デプロイ、実行を可能にするものです。macOS アプリケーションをリアーキテクトして Apple Silicon Mac をネイティブにサポートするデベロッパーは、Arm64 macOS 環境を数分以内にプロビジョニングし、必要に応じて容量を動的に拡張し、従量制料金を利用してさらに高速な構築と便利な分散テストを行えるようになりました。詳細や開始方法については、Amazon EC2 Mac インスタンスをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/",
-          "publishedOn": "2022-07-13T17:32:44.000Z",
-          "wordCount": 479,
-          "title": "macOS 向け Amazon EC2 M1 Mac インスタンスの一般提供を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "729ecaaa11f49a043c5833455bd18ace0b48c047",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker のモデルトレーニングで、異種クラスターがサポートされるようになりました。これにより、単一のジョブに複数のインスタンスタイプを使用するトレーニングジョブを開始できるようになります。この新機能によって、モデルトレーニングを構成するさまざまな部分をそれぞれに最適なインスタンスタイプで実行できるため、トレーニングコストを削減できます。例えば、AWS では最近、ResNet-50 コンピュータビジョンモデルのトレーニングを ml.g5.xl インスタンスと ml.c5n.2xl インスタンスによる異種クラスターで実施しました。このトレーニングジョブでは、同じモデルで同じ精度のトレーニングを ml.g5.xl インスタンスのみのクラスターで実施した場合と比較して、コストが 13% 低くなりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/announcing-heterogeneous-clusters-amazon-sagemaker-model-training/",
-          "publishedOn": "2022-07-13T17:31:55.000Z",
-          "wordCount": 298,
-          "title": "Amazon SageMaker のモデルトレーニングで異種クラスターのサポートが開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "22fec2f31f75bcbc80a9dafae8fd2e0432863feb",
-          "author": "aws@amazon.com",
-          "description": "EC2 Auto Scaling では、予測スケーリングポリシーの予測内容を CloudWatch メトリクスとして公開しました。これにより、予測スケーリングの精度の分析やモニタリング、精度に関するアラームの設定などが行えるようになります。予測スケーリングは、予測した需要に基づき、Auto Scaling グループの容量を事前に引き上げるスケーリングポリシーです。このポリシーを利用すれば、アプリケーションの可用性を向上させながら、EC2 コストの増加につながるオーバープロビジョニングな状態を維持する必要性を抑えることができます。予測スケーリングは Auto Scaling グループの容量を引き上げるだけなので、現在のスケーリング設定に正確に適用することができれば、お使いのアプリケーションの可用性が向上します。とはいえ、予測が不正確だと、逆にコストが増加する可能性もあります。CloudWatch が備える多種多様な機能を使用できるようになったことで、予測精度を測定し、見慣れた CloudWatch グラフで予測内容を表示できるほか、予測結果が設定した水準を超えた場合の自動アラームや自動通知を設定することもできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/",
-          "publishedOn": "2022-07-13T17:31:05.000Z",
-          "wordCount": 330,
-          "title": "Amazon EC2 Auto Scaling のお客様が Amazon CloudWatch を使用して予測スケーリングポリシーをモニタリング可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
