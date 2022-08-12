@@ -1394,36 +1394,6 @@
           "wordCount": 330,
           "title": "Amazon EC2 Auto Scaling のお客様が Amazon CloudWatch を使用して予測スケーリングポリシーをモニタリング可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6c96b2e1ba8f16c2536a2eab9b2b3ceff0b7103a",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub に、クラウドセキュリティ体制のモニタリングについてお客様を支援する 4 つの新しい統合パートナーが追加されました。Lacework、Juniper Networks、SentinelOne、および K9 Security との統合により、Security Hub での統合の総数は 79 になります。Lacework は Polygraph Data Platform (PDP) から Security Hub に検出結果を送信して、AWS のポスチャとコンプライアンスのイベントを管理するのを支援します。Juniper Networks の vSRX 仮想 (次世代) ファイアウォール は、ファイアウォールによって観測されたセキュリティイベントを Security Hub に送信します。SentinelOne は、お客様の AWS 環境で実行されている SentinelOne エンドポイントによって識別されたセキュリティの検出結果を Security Hub に送信します。K9 Security は、AWS Identity and Access Management (IAM) 設定内の重要なアクセス権の変更に関連する検出結果を Security Hub に送信します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-security-hub-adds-four-new-integration-partners/",
-          "publishedOn": "2022-07-13T14:04:34.000Z",
-          "wordCount": 400,
-          "title": "AWS Security Hub に 4 つの新しい統合パートナーが追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "906657053087f11775d96e620ba964fdd7c45f16",
-          "author": "aws@amazon.com",
-          "description": "AWS CloudFormation では、StackSets が利用できるリージョンを AWS アジアパシフィック (ジャカルタ) に拡大しました。StackSets を使用すると、複数の AWS アカウントとリージョンに対して、クラウドリソースのデプロイのプロビジョニングと管理を 1 回の操作で実行できます。StackSets が AWS Organizations と統合されているため、AWS アカウントが組織に入るたびに自動デプロイを利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-07-13T14:02:54.000Z",
-          "wordCount": 322,
-          "title": "AWS CloudFormation StackSets が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8844b1e85473e468a6caea06fe4fe282b5e4a21e",
-          "author": "aws@amazon.com",
-          "description": "AWS CloudFormation StackSets は、組織単位 (OU) 内の選択された AWS アカウントに単一の操作でスタックセットをデプロイできる新機能をリリースしました。この機能を使用して、OU 内の AWS アカウントに対するスタックセットのデプロイをターゲティングまたはスキップできます。例えば、この機能を使用して、OU 内の AWS Config ポリシーが既にある AWS アカウントには、ポリシーのデプロイをスキップできます。数回クリックするだけで、以前のスタックセットのデプロイが失敗した AWS アカウントに対してスタックセットを再デプロイできます。同様に、OU 内の停止された AWS アカウントに対しては、スタックセットのデプロイをスキップできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/",
-          "publishedOn": "2022-07-13T14:01:14.000Z",
-          "wordCount": 323,
-          "title": "AWS CloudFormation StackSets は、組織単位内でのアカウントレベルのターゲティングをサポートすることを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
