@@ -1294,56 +1294,6 @@
           "wordCount": 310,
           "title": "AWS が AWS AppConfig の拡張機能を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "679bcd58fd38ed36e4b153a894b402b70aa0fab8",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift にて、行レベルセキュリティ (RLS) のサポートが開始されました。RLS は、テーブル内の行への詳細なアクセスを、簡単に設計および実装するための新しい強化機能です。RLS を利用すれば、ユーザーのジョブロールまたはアクセス権限、およびデータの機密性レベルに基づき、テーブル内に存在する行のサブセットへのアクセスを、SQL コマンドを使用して制限することができます。Amazon Redshift をご使用のお客様は、列レベルのアクセス制御と RLS を組み合わせることで、データへのアクセスを細かく設定して、包括的な保護策を講じることが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/",
-          "publishedOn": "2022-07-15T13:34:39.000Z",
-          "wordCount": 320,
-          "title": "Amazon Redshift、行レベルセキュリティ (RLS) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7330a6468ce7a2638e789915347952a88e5786d4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift Serverless の一般提供が開始されました。本サービスでは、分析の実行やスケーリングを、データウェアハウスクラスターのプロビジョニングや管理なしに行うことが可能です。Amazon Redshift Serverless により、データアナリスト、デベロッパー、データサイエンティストを含むすべてのユーザーが、Amazon Redshift を使用してほんの数秒でデータのインサイトを得られるようになりました。Amazon Redshift Serverless は、データウェアハウスの容量を自動的にプロビジョンし、インテリジェントにスケールして、すべての分析で高いパフォーマンスを発揮します。お支払いいただくのは、1 秒単位で計算される、ワークロードの期間中に使用したコンピューティングの料金のみです。既存の分析/ビジネスインテリジェンス用アプリケーションを変更することなく、シンプルにご利用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/",
-          "publishedOn": "2022-07-15T13:33:47.000Z",
-          "wordCount": 341,
-          "title": "Amazon Redshift Serverless の一般提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f1f9893fea61925669e0a45882aae17e02294d5f",
-          "author": "aws@amazon.com",
-          "description": "AWS は、AWS Cloud WAN の一般提供を開始しました。本サービスは、統合されたグローバルネットワークの構築、管理、モニタリングを可能にするワイドエリアネットワーク (WAN) サービスです。 ご使用の AWS リソースとオンプレミス環境の間を流れるトラフィックを管理します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/",
-          "publishedOn": "2022-07-15T13:32:57.000Z",
-          "wordCount": 326,
-          "title": "AWS Cloud WAN の一般提供が開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ad2b5de2f270f89dfdc707ae5dd3e3041ac59d50",
-          "author": "aws@amazon.com",
-          "description": "反復可能なワークロードのクエリレイテンシーを短縮する、自動マテリアライズドビュー (AutoMV) の一般提供が Amazon Redshift で開始されました。AutoMV は、マテリアライズドビューを手動で作成し管理する手間を最小限に抑え、ユーザーが作成したマテリアライズドビューと同等のパフォーマンス上の利点をもたらします。主要業績指標 (KPI)、イベント、トレンドなどのメトリクスをすばやく確認するためのダッシュボードクエリといったワークロードで活用可能です。また、異なる頻度でスケジュールされたレポートクエリでも役立つ可能性があります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/",
-          "publishedOn": "2022-07-15T13:32:06.000Z",
-          "wordCount": 313,
-          "title": "Amazon Redshift の自動マテリアライズドビューの一般提供が開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d26b4212d9e63d5b6ec541e665378f8c9e15456b",
-          "author": "aws@amazon.com",
-          "description": "Amazon DevOps Guru の新機能、ログ異常検出と推奨事項の一般提供が開始されました。この機能の一環として DevOps Guru は、アプリケーションを構成している AWS リソースの Amazon CloudWatch Logs を、まず Lambda から、取り込みます。ログは新しいエンリッチメントデータをインサイトに提供します。これにより、アプリケーションの問題の根本原因をより正確に把握することや、より厳密な修正策を施すことが可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/",
-          "publishedOn": "2022-07-15T13:31:14.000Z",
-          "wordCount": 321,
-          "title": "Amazon DevOps Guru にログ異常検出機能と推奨事項機能が追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
