@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-17T10:01:20.438Z</updated>
+    <updated>2022-08-17T22:01:20.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブタのコラーゲンから作った「角膜」で視力が蘇った]]></title>
+        <id>https://www.technologyreview.jp/?p=283141</id>
+        <link href="https://www.technologyreview.jp/s/283141/a-bioengineered-cornea-can-restore-sight-to-blind-people/"/>
+        <updated>2022-08-17T21:55:57.000Z</updated>
+        <summary type="html"><![CDATA[スウェーデンの研究チームが、ブタの皮膚から抽出したコラーゲンを使って角膜インプラントを作成し、円錐角膜によって視力を失った患者の視力回復に成功した。人間の角膜を使う場合に比べて、圧倒的な低コストで提供できるという。]]></summary>
+        <author>
+            <name>Rhiannon Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヒナはなぜスピーカーではなく親鳥から歌を学ぶのか？＝OIST]]></title>
+        <id>https://www.technologyreview.jp/n/2022/08/17/283697/</id>
+        <link href="https://www.technologyreview.jp/n/2022/08/18/283697/"/>
+        <updated>2022-08-17T21:51:42.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denoが大幅な方針変更を発表。3カ月以内にnpmパッケージへの対応を実現、最速のJavaScriptランタイムを目指しHTTPサーバを刷新]]></title>
+        <id>https://www.publickey1.jp/blog/22/deno3npmjavascripthttp.html</id>
+        <link href="https://www.publickey1.jp/blog/22/deno3npmjavascripthttp.html"/>
+        <updated>2022-08-17T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのJavaScript/TyeScriptランタイム「Deno」を開発するDeno Landは、「Big Changes Ahead for Deno」（Denoの方向性の大きな変更）という記事を公開し、Denoのnpmパッケ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS Custom for Oracle がリージョン内マネージドリードレプリカの昇格のサポートを開始]]></title>
+        <id>99a21ef2740e366d9e60f2002d9d10b630e3490f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/"/>
+        <updated>2022-08-17T13:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) Custom for Oracle は、レプリカ機能を使用して作成されたマネージドレプリカの昇格をサポートするようになりました。マネージドレプリカを昇格すると、そのレプリカはフィジカルスタンバイデータベースから変換され、スタンドアロンの読み取り/書き込みが可能なプライマリデータベースインスタンスとして有効になります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight のダッシュボードデザインが一新]]></title>
+        <id>3a6e8e95456bec8fb3f617c6e29137c098689789</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/"/>
+        <updated>2022-08-17T13:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight のダッシュボードのルックアンドフィールが新しくなりました。新しいインターフェイスでは、見つけやすさと予測可能性が改善し、ダッシュボード全体が洗練されたことにより、ユーザーエクスペリエンスが向上しています。新しいダッシュボードエクスペリエンスには、次のものが含まれます。 
+ 
+ 
+ 
+よく使う操作のアイコンが見やすく更新された、シンプルなツールバー
+ 
+ 
+カーソルを合せると表示される見やすい視覚的なメニューで、ドリル、エクスポート、フィルターの修正再表示に関して見つけやすさを改善
+ 
+ 
+新しいコントロール、メニュー、サブメニューでより優れたビジュアルエクスペリエンスを提供
+ 
+ 
+フィルター、しきい値アラート、ダウンロードなどの二次的なエクスペリエンスを右側のペインにまとめて、ダッシュボードのコンテンツがより目立つように]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヤマハルーターをバッファローの安物に買い替えた（VR-U500Xの簡易レビュー）]]></title>
         <id>https://techracho.bpsinc.jp/baba/2022_08_17/120601</id>
@@ -5435,168 +5497,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <summary type="html"><![CDATA[本日より、Amazon VPC フローログに Transit Gateway のサポートが追加されました。この機能により、Transit Gateway はすべてのネットワークフローについて、送信元/送信先 IP アドレス、ポート、プロトコル、トラフィックカウンター、タイムスタンプ、各種メタデータなどの詳細なテレメトリ情報をエクスポートできます。この機能は、VPC とオンプレミスネットワーク間を通過するすべてのネットワークトラフィックのフローレベルのテレメトリを、Transit Gateway 経由で一元的にエクスポートおよび検査するための AWS ネイティブツールを提供します。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby: strftimeでよく使うテンプレート]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_19/25960</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_19/25960"/>
-        <updated>2022-07-19T09:31:40.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2016/10/ruby_strftime_templates_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2016/10/06: 初版公開 2022/07/19: 更新 なお、以下のWebサービスを使うと、シンプルなstrftime書式についてブラウザ上で確認できますので、参考までにどうぞ（週刊Railsウォッチ20220726）。 Strftimes Like These こんにちは、hachi8833です。つい先ほどTechRachoをSSL暗号化いたしました。 関係ありませんが、スクショ撮影中にSlackの時間表示方法を切り替えました。 以下、よく使いそうなオプションを集めてみましたのでスニペットにでもどうぞ。strptimeはまた今度。 注意: コード中で時間取得に使っているTime.nowはすべて [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_19/25960" data-wpel-link="internal" target="_self">Ruby: strftimeでよく使うテンプレート</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: Active Modelのパターンマッチングがいったん取り消し、Ruby技術者認定試験が10月3日から3.xに対応ほか（20220719）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_19/119870</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_19/119870"/>
-        <updated>2022-07-19T09:21:45.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220719_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_19/119870" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Active Modelのパターンマッチングがいったん取り消し、Ruby技術者認定試験が10月3日から3.xに対応ほか（20220719）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U35イノベーターに聞く「社会課題解決とイノベーション」配信のご案内]]></title>
-        <id>https://www.technologyreview.jp/?p=281145</id>
-        <link href="https://www.technologyreview.jp/s/281145/iu35-2022-opening-event/"/>
-        <updated>2022-07-19T04:12:35.000Z</updated>
-        <summary type="html"><![CDATA[「Innovators Under 35 Japan」の2022年度の開催を記念し、IU35を過去に受賞したイノベーター3人をゲストに迎え、「社会課題解決」と「イノベーション」をテーマに語り合うトークセッションをオンライン配信する。]]></summary>
-        <author>
-            <name>MIT Technology Review Event Producer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debianベースのロードバランサー「ZEVENET」、バージョン5.12.2にマイナーアップデート]]></title>
-        <id>https://gihyo.jp/article/2022/07/daily-linux-220719</id>
-        <link href="https://gihyo.jp/article/2022/07/daily-linux-220719?utm_source=feed"/>
-        <updated>2022-07-19T04:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Debianをベースにした軽量なロードバランサーとして、少しずつユースケースが拡大しているプロダクトに「ZEVENET」がある。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debianベースのロードバランサー「ZEVENET」、バージョン5.12.2にマイナーアップデート]]></title>
-        <id>https://gihyo.jp/article/2022/07/daily-linux-220719</id>
-        <link href="https://gihyo.jp/article/2022/07/daily-linux-220719?utm_source=feed"/>
-        <updated>2022-07-19T04:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Debianをベースにした軽量なロードバランサーとして、少しずつユースケースが拡大しているプロダクトに「ZEVENET」がある。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debianベースのロードバランサー「ZEVENET」、バージョン5.12.2にマイナーアップデート]]></title>
-        <id>https://gihyo.jp/article/2022/07/daily-linux-220719</id>
-        <link href="https://gihyo.jp/article/2022/07/daily-linux-220719?utm_source=feed"/>
-        <updated>2022-07-19T04:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Debianをベースにした軽量なロードバランサーとして、少しずつユースケースが拡大しているプロダクトに「ZEVENET」がある。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fault Injection Simulator が AWS GovCloud (米国) リージョンで利用可能に]]></title>
-        <id>53aa093800ca9e4fb1e554375829fef2abaeb94c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/"/>
-        <updated>2022-07-19T03:33:29.000Z</updated>
-        <summary type="html"><![CDATA[AWS Fault Injection Simulator (FIS) は AWS GovCloud (米国東部、米国西部) で利用できます。AWS FIS が AWS GovCloud (米国) リージョンに拡張されたことで、米国の政府機関や請負業者は、実際の条件下でアプリケーションがストレスにどのように応答するかを明らかにするフォールトインジェクション実験を作成して実行できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight が IE11 のサポートを 2022 年 7 月 31 日に終了]]></title>
-        <id>c985368940cf55af41b581724ef6d377eb4a378e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-quicksight-support-ie11-ending-july-31-2022/"/>
-        <updated>2022-07-19T03:32:24.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 7 月 31 日以降、Amazon QuickSight は IE11 をサポートしません。それ以降、Amazon QuickSight の機能とウェブページは IE 11 で正常に機能することが保証されなくなります。サポートされているブラウザである Microsoft Edge (Chromium)、Google Chrome、Mozilla Firefox のいずれかをお使いください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Firewall Manager がアラートとドロップの設定で AWS Network Firewall の厳密なルール順序のサポートを開始]]></title>
-        <id>16c017539beb5b5d929a9e40b37051bbbd0d92b6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/"/>
-        <updated>2022-07-19T03:31:20.000Z</updated>
-        <summary type="html"><![CDATA[AWS Firewall Manager では、厳格なルール順序、デフォルトの拒否、デフォルトのドロップの設定を追加した AWS Network Firewall を一元的にデプロイできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」開催決定、作品募集開始～2022年9月30日まで]]></title>
-        <id>https://gihyo.jp/article/2022/07/ruby-procon2022-07</id>
-        <link href="https://gihyo.jp/article/2022/07/ruby-procon2022-07?utm_source=feed"/>
-        <updated>2022-07-19T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」第12回大会が開催されます。最終審査会は2022年12月3日です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」開催決定、作品募集開始～2022年9月30日まで]]></title>
-        <id>https://gihyo.jp/article/2022/07/ruby-procon2022-07</id>
-        <link href="https://gihyo.jp/article/2022/07/ruby-procon2022-07?utm_source=feed"/>
-        <updated>2022-07-19T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」第12回大会が開催されます。最終審査会は2022年12月3日です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」開催決定、作品募集開始～2022年9月30日まで]]></title>
-        <id>https://gihyo.jp/article/2022/07/ruby-procon2022-07</id>
-        <link href="https://gihyo.jp/article/2022/07/ruby-procon2022-07?utm_source=feed"/>
-        <updated>2022-07-19T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[「中高生国際Rubyプログラミングコンテスト2022 in Mitaka」第12回大会が開催されます。最終審査会は2022年12月3日です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由なお別れとは、自由に生きること。 大の葬祭 川野氏がデジタルで寄り添い、模索する 「新しくて、温かいお葬式」]]></title>
-        <id>https://data.wingarc.com/?p=43890</id>
-        <link href="https://data.wingarc.com/localdxlab-44-oita-43890?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=localdxlab-44-oita"/>
-        <updated>2022-07-19T01:00:36.000Z</updated>
-        <summary type="html"><![CDATA[緊急事態宣言下で三密を避けるため、さまざまなシーンでの立ち合いが見直された。そのひとつに挙げられるのが、お葬式。近年では弔辞や弔電含めての辞退が多く、近親者のみでお別れするケースも増えていった。 ただお葬式というものは寂 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack「プロプラン」の料金を改定、フリープランの内容も変更に]]></title>
-        <id>https://gihyo.jp/article/2022/07/slack-update</id>
-        <link href="https://gihyo.jp/article/2022/07/slack-update?utm_source=feed"/>
-        <updated>2022-07-19T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Slackは、2022年9月1日から「プロプラン」の料金を変更することを発表した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack「プロプラン」の料金を改定、フリープランの内容も変更に]]></title>
-        <id>https://gihyo.jp/article/2022/07/slack-update</id>
-        <link href="https://gihyo.jp/article/2022/07/slack-update?utm_source=feed"/>
-        <updated>2022-07-19T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Slackは、2022年9月1日から「プロプラン」の料金を変更することを発表した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack「プロプラン」の料金を改定、フリープランの内容も変更に]]></title>
-        <id>https://gihyo.jp/article/2022/07/slack-update</id>
-        <link href="https://gihyo.jp/article/2022/07/slack-update?utm_source=feed"/>
-        <updated>2022-07-19T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Slackは、2022年9月1日から「プロプラン」の料金を変更することを発表した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
         </author>
     </entry>
     <entry>
