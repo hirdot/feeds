@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "6a87dbbb4fcb07105a2e8fb9f5c4e4c64aea7e3e",
+          "author": "aws@amazon.com",
+          "description": "Amazon Location Service で円形ジオフェンスのサポートが開始され、デベロッパーは地図上に中心と半径を指定して仮想的な境界線を描けるようになりました。デベロッパーは Amazon Location のジオフェンシングを使用して、ほぼリアルタイムで数万ものジオフェンスに対する位置を評価することにより、デバイスが特定の対象区域に入ったり出たりしたときにアクションを起こすことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/",
+          "publishedOn": "2022-08-18T01:34:09.000Z",
+          "wordCount": 329,
+          "title": "Amazon Location Service が円形ジオフェンスのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "99a21ef2740e366d9e60f2002d9d10b630e3490f",
           "author": "aws@amazon.com",
           "description": "Amazon Relational Database Service (Amazon RDS) Custom for Oracle は、レプリカ機能を使用して作成されたマネージドレプリカの昇格をサポートするようになりました。マネージドレプリカを昇格すると、そのレプリカはフィジカルスタンバイデータベースから変換され、スタンドアロンの読み取り/書き込みが可能なプライマリデータベースインスタンスとして有効になります。",
@@ -1304,26 +1314,6 @@
           "wordCount": 315,
           "title": "Amazon Connect Customer Profiles で統合された顧客データをカスタムエージェントアプリケーションに統合可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6c36da7a7693ef41f5cee915bd3f3d2300a3609b",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift では Redshift の従来のサイズ変更機能のパフォーマンスを強化し、クラスタースナップショット復元の柔軟性を高めました。Redshift の従来のサイズ変更は、インスタンスタイプの変更や伸縮自在なサイズ変更で対応できない構成への移行が必要な状況でクラスターのサイズを変更するために使用されます。以前はサイズ変更中にクラスターが何時間もオフラインになることがありましたが、現在は通常数分でクエリを処理できるようになりました。スナップショットから復元するときにクラスターのサイズを変更することもできますが、その場合は制限が生じることがあります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/",
-          "publishedOn": "2022-07-19T13:17:14.000Z",
-          "wordCount": 305,
-          "title": "Amazon Redshift がクラスターサイズ変更のパフォーマンスとクラスター復元の柔軟性を向上",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a744c4963809d8c6154a4b1c3df9e75f57d56dec",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon VPC フローログに Transit Gateway のサポートが追加されました。この機能により、Transit Gateway はすべてのネットワークフローについて、送信元/送信先 IP アドレス、ポート、プロトコル、トラフィックカウンター、タイムスタンプ、各種メタデータなどの詳細なテレメトリ情報をエクスポートできます。この機能は、VPC とオンプレミスネットワーク間を通過するすべてのネットワークトラフィックのフローレベルのテレメトリを、Transit Gateway 経由で一元的にエクスポートおよび検査するための AWS ネイティブツールを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/",
-          "publishedOn": "2022-07-19T13:16:25.000Z",
-          "wordCount": 357,
-          "title": "Amazon VPC フローログで Transit Gateway を追加し、可視性と監視機能を向上",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1996,6 +1986,26 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220818",
+          "author": null,
+          "description": "8月15日にAndroid 13がリリースされました。今回は、まず13に向けた端末メーカのOS開発の状況を紹介します。",
+          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220818?utm_source=feed",
+          "publishedOn": "2022-08-18T00:33:00.000Z",
+          "wordCount": 252,
+          "title": "Android 13リリース～ColorOS 13発表とOne UI 5のベータプログラムが開始",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ruby_prize_2022",
+          "author": null,
+          "description": "「Ruby Prize」は新規にRubyコミュニティ活動に参加した人を正当に評価し、Rubyの普及と利用促進を図るために毎年開催されている顕彰制度。今年も「Ruby Prize2022」の開催が決定した。",
+          "link": "https://gihyo.jp/article/2022/08/ruby_prize_2022?utm_source=feed",
+          "publishedOn": "2022-08-17T23:02:02.000Z",
+          "wordCount": 148,
+          "title": "Rubyコミュニティの個人賞「Ruby Prize 2022」開催。副賞賞金100万円、ノミネート期限は9/11",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1927_rubyprize2022.png"
+        },
+        {
           "id": "https://gihyo.jp/article/2022/08/daily-linux-220816",
           "author": null,
           "description": "The GNOME Foundationは8月15日、GNOMEが誕生してから25周年を迎えたことを発表した。1997年にMiguel de IcazaとFederico Mena Quinteroのたった2人の開発者が始めた”フリーでユーザフレンドリなデスクトップ環境”を求めるプロジェクトは25年後、世界中の開発者が参加する巨大なオープンソースプロジェクトへと成長し、現在も精力的な活動が行われている。",
@@ -2453,6 +2463,26 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220818",
+          "author": null,
+          "description": "8月15日にAndroid 13がリリースされました。今回は、まず13に向けた端末メーカのOS開発の状況を紹介します。",
+          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220818?utm_source=feed",
+          "publishedOn": "2022-08-18T00:33:00.000Z",
+          "wordCount": null,
+          "title": "Android 13リリース～ColorOS 13発表とOne UI 5のベータプログラムが開始",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ruby_prize_2022",
+          "author": null,
+          "description": "「Ruby Prize」は新規にRubyコミュニティ活動に参加した人を正当に評価し、Rubyの普及と利用促進を図るために毎年開催されている顕彰制度。今年も「Ruby Prize2022」の開催が決定した。",
+          "link": "https://gihyo.jp/article/2022/08/ruby_prize_2022?utm_source=feed",
+          "publishedOn": "2022-08-17T23:02:02.000Z",
+          "wordCount": 148,
+          "title": "Rubyコミュニティの個人賞「Ruby Prize 2022」開催。副賞賞金100万円、ノミネート期限は9/11",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1927_rubyprize2022.png"
+        },
+        {
           "id": "https://gihyo.jp/article/2022/08/daily-linux-220816",
           "author": null,
           "description": "The GNOME Foundationは8月15日、GNOMEが誕生してから25周年を迎えたことを発表した。1997年にMiguel de IcazaとFederico Mena Quinteroのたった2人の開発者が始めた”フリーでユーザフレンドリなデスクトップ環境”を求めるプロジェクトは25年後、世界中の開発者が参加する巨大なオープンソースプロジェクトへと成長し、現在も精力的な活動が行われている。",
@@ -2909,6 +2939,26 @@
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
       "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220818",
+          "author": null,
+          "description": "8月15日にAndroid 13がリリースされました。今回は、まず13に向けた端末メーカのOS開発の状況を紹介します。",
+          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220818?utm_source=feed",
+          "publishedOn": "2022-08-18T00:33:00.000Z",
+          "wordCount": null,
+          "title": "Android 13リリース～ColorOS 13発表とOne UI 5のベータプログラムが開始",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/ruby_prize_2022",
+          "author": null,
+          "description": "「Ruby Prize」は新規にRubyコミュニティ活動に参加した人を正当に評価し、Rubyの普及と利用促進を図るために毎年開催されている顕彰制度。今年も「Ruby Prize2022」の開催が決定した。",
+          "link": "https://gihyo.jp/article/2022/08/ruby_prize_2022?utm_source=feed",
+          "publishedOn": "2022-08-17T23:02:02.000Z",
+          "wordCount": 148,
+          "title": "Rubyコミュニティの個人賞「Ruby Prize 2022」開催。副賞賞金100万円、ノミネート期限は9/11",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1927_rubyprize2022.png"
+        },
         {
           "id": "https://gihyo.jp/article/2022/08/daily-linux-220816",
           "author": null,
