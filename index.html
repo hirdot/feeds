@@ -17,6 +17,26 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://techracho.bpsinc.jp">TechRacho</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>2 min</time> : 495)</span>Devise::SessionsControllerのcreateアクションで認証を回避する際の注意点
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://techracho.bpsinc.jp/yusiro/2022_08_18/120706" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Deviseを使っていて意図しないタイミングで認証処理が実行されてしまったことがあったので、そのことについてまとめてみます。 class Users::SessionsController &lt; Devise::SessionsController # POST /resource/sign_in def create user &#x3D; User.find_by(email: sign_in_params[:email]) if user.two_factor_enabled return redirect_to users_two_factor_path end super end 例えば、Devise::Se […]
+The post Devise::SessionsControllerのcreateアクションで認証を回避する際の注意点 first appeared on TechRacho.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
           <section class="articles-per-source">
             <article>

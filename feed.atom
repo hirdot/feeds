@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T08:01:25.700Z</updated>
+    <updated>2022-08-18T09:01:19.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Devise::SessionsControllerのcreateアクションで認証を回避する際の注意点]]></title>
+        <id>https://techracho.bpsinc.jp/yusiro/2022_08_18/120706</id>
+        <link href="https://techracho.bpsinc.jp/yusiro/2022_08_18/120706"/>
+        <updated>2022-08-18T08:30:02.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_devise_avoiding_auth_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Deviseを使っていて意図しないタイミングで認証処理が実行されてしまったことがあったので、そのことについてまとめてみます。 class Users::SessionsController &#60; Devise::SessionsController # POST /resource/sign_in def create user = User.find_by(email: sign_in_params[:email]) if user.two_factor_enabled return redirect_to users_two_factor_path end super end 例えば、Devise::Se [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/yusiro/2022_08_18/120706" data-wpel-link="internal" target="_self">Devise::SessionsControllerのcreateアクションで認証を回避する際の注意点</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第73回　Perlで作るGraphQL API ～graphql-perlを使って実装してみよう！（1）]]></title>
         <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007301</id>
