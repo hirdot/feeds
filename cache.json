@@ -1294,66 +1294,6 @@
           "wordCount": 345,
           "title": "Amazon RDS Performance Insights がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6994490f5966db733dc6aa09314592097544ef01",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift の ODBC ドライバーがオープンソースになり、Apache-2.0 ライセンスの下で、ユーザーコミュニティで利用できるようになりました。このリリースにより、お客様はドライバーの実装を詳細に確認できるようになり、開発に貢献できるようになります。ユーザーは、関連する AWS GitHub リポジトリで ODBC ドライバーのコードを参照し、GitHub のプルリクエストを使用してドライバーの拡張機能を送信したり、レビューのために問題を報告したりできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/",
-          "publishedOn": "2022-07-20T21:05:13.000Z",
-          "wordCount": 323,
-          "title": "Amazon Redshift は、バイナリプロトコルがサポートされ、パフォーマンスが向上したオープンソース ODBC ドライバーを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7c2dda32992e5ffdc1e449eeb6574b50dc20c419",
-          "author": "aws@amazon.com",
-          "description": "Amazon EBS エラスティックボリュームでは、アプリケーションのニーズの変化に応じて、容量の増加、パフォーマンスの調整、Amazon EBS ボリュームのタイプの変更を簡単に行えます。ユーザーは EBS エラスティックボリュームを使用して gp3 ボリュームに移行し、gp2 ボリュームと比較して 1 GB あたりコストを最大 20% 削減しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ebs-elastic-volumes-automated-settings-modify-volumes-costs/",
-          "publishedOn": "2022-07-20T21:04:25.000Z",
-          "wordCount": 305,
-          "title": "新しい Amazon EBS エラスティックボリュームの自動パフォーマンス設定でボリュームの変更とコストの節約がより簡単に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "09098727fb382e038de739db4621c25843c925bf",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkSpaces Web はアジアパシフィック (ムンバイ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) の AWS リージョンで一般利用が可能になりました。ローカルリージョンに WorkSpaces Web ポータルを作成すると、Web コンテンツをストリーミングするときの応答性が向上します。また、データの保存場所に関する義務の遵守に役立ちます。現在、WorkSpaces Web は合計 7 つのリージョンで利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-workspaces-web-available-new-regions/",
-          "publishedOn": "2022-07-20T21:03:34.000Z",
-          "wordCount": 316,
-          "title": "Amazon WorkSpaces Web がアジアパシフィック (ムンバイ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) のリージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d0626b5fd3cb0ff9060b23574fb176656141c523",
-          "author": "aws@amazon.com",
-          "description": "Amazon Timestream では、2022 年 7 月 8 日 00:00 UTC より後に書き込まれたデータに対する取り込み、保存、クエリ実行に関連するディメンション名とメジャー名については課金されなくなります。ディメンション名とメジャー名は、時系列データを識別するために使用されるメタデータです。この変更により、Amazon Timestream ではディメンションとメジャーをより柔軟に命名できるようになり、サービスの費用対効果も向上します。Amazon Timestream では、時系列データに関連付けられたディメンション値、メジャー値、タイムスタンプに対する取り込み、保存、クエリ実行については引き続き課金されます。Amazon Timestream を使用する際のコストの詳細については、料金ページをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/",
-          "publishedOn": "2022-07-20T21:02:46.000Z",
-          "wordCount": 342,
-          "title": "Amazon Timestream はメタデータ計測の更新による費用対効果の改善を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "70946ed8e102382d85c6d5c6e4de798750c3f207",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue で G.025X がリリースされます。これは、DPU が 4 分の 1 になった、ストリーミング抽出、変換、ロード (ETL) ジョブ向けの新しいワーカータイプです。この小規模なワーカータイプは、散発的に発生する少量のデータストリームの処理に適しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-glue-supports-smaller-instance-types-streaming/",
-          "publishedOn": "2022-07-20T21:01:57.000Z",
-          "wordCount": 291,
-          "title": "AWS Glue がストリーミング向けの小規模なインスタンスタイプのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4a56f026ba4081dcb29966306aac4c01decc65dc",
-          "author": "aws@amazon.com",
-          "description": "Porting Assistant for .NET で、VB.NET 言語で記述されたレガシー .NET Framework アプリケーションの評価と移植がサポートされるようになりました。このリリースによって、Porting Assistant for .NET は VB.NET のクラスライブラリ、Web API、コンソールアプリケーションを .NET Core 3.1、.NET 5、.NET 6 に変換することで、VB.NET で記述されたレガシー .NET Framework アプリケーションを簡単にモダナイズできるようになります。デベロッパーは、Porting Assistant for .NET スタンドアロンツールまたは Porting Assistant for .NET Visual Studio IDE 拡張機能を使用して、レガシー VB.NET アプリケーションをモダナイズできます。C# ベースの .NET Framework アプリケーションの評価と移植に関する既存のサポートに加え、VB.NET のサポートが追加されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/",
-          "publishedOn": "2022-07-20T21:01:07.000Z",
-          "wordCount": 349,
-          "title": "Porting Assistant for .NET が VB.NET アプリケーションの評価と .NET Core への移植のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -4432,6 +4372,16 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/n/2022/08/19/283867/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/19/283867/",
+          "publishedOn": "2022-08-19T09:57:52.000Z",
+          "wordCount": 680,
+          "title": "光と酸で分解できる光分解性材料、東大が開発",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=282632",
           "author": "Tammy Xu",
           "description": "自動機械学習は人工知能（AI）モデル開発のプロセスを加速し、AIテクノロジーをより扱いやすくする可能性を秘めている。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
@@ -5129,46 +5079,6 @@
           "publishedOn": "2022-07-24T21:04:09.000Z",
           "wordCount": 690,
           "title": "北大など、新型コロナに結合する人工DNAアプタマー",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=279258",
-          "author": "Chris Salter",
-          "description": "オランダの芸術家がかつて夢想した「ニューバビロン」は、今日のスマートシティへと続く予言的なものだった。データを作成した人間よりもデータそのものが重要だと考えてしまうと、スマートシティの可能性を狭めてしまう。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/279258/the-smart-city-is-a-perpetually-unrealized-utopia/",
-          "publishedOn": "2022-07-20T21:58:18.000Z",
-          "wordCount": 1216,
-          "title": "永遠に実現しないユートピア スマートシティの源流",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/06/24181504/JA22-back.utopia-01-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=280594",
-          "author": "Sarah Simon",
-          "description": "新型コロナウイルスによるパンデミックの発生と共に増加したネット注文は、都市を大量の荷物で埋め尽くしている。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/280594/new-york-city-is-drowning-in-packages/",
-          "publishedOn": "2022-07-20T21:55:38.000Z",
-          "wordCount": 1219,
-          "title": "ネット通販で宅配激増、ニューヨークが問う「都市に住む価値」",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/12182004/JA22_city-packages-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/20/281281/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/21/281281/",
-          "publishedOn": "2022-07-20T21:42:50.000Z",
-          "wordCount": 681,
-          "title": "木の中にメタンガスの「パイプライン」、京大など発見",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/20/281276/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/21/281276/",
-          "publishedOn": "2022-07-20T21:35:27.000Z",
-          "wordCount": 690,
-          "title": "急激に超高輝度となる天体の発生の瞬間を初めて観測＝東大など",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
