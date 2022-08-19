@@ -6,6 +6,196 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "569b23fcaa2065daaf0fcb0085fafc57a5815f93",
+          "author": "aws@amazon.com",
+          "description": "AWS Conﬁg は Amazon SageMaker、Amazon Route 53、Amazon Elastic Kubernetes Service (Amazon EKS)、AWS Global Accelerator、AWS Glue など、新たなリソースタイプ 20 種類のサポートを開始しました。新たにサポートされるリソースタイプの一覧については、[1] をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/",
+          "publishedOn": "2022-08-19T17:20:09.000Z",
+          "wordCount": 347,
+          "title": "AWS Config が新たなリソースタイプ 20 種類のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "755c5d03b1d6c9d98e4249048b6e61c1bb5efeb6",
+          "author": "aws@amazon.com",
+          "description": "Amazon DocumentDB (MongoDB 互換) は、大規模な JSON データ管理のためのデータベースサービスで、AWS で完全に管理・統合されており、高い耐久性を備えたエンタープライズ対応のサービスとなっています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/",
+          "publishedOn": "2022-08-19T16:47:09.000Z",
+          "wordCount": 329,
+          "title": "Amazon DocumentDB (MongoDB 互換) で Amazon CloudWatch Logs による DML クエリ監査のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f3b7251f888a1121b5f1deda682d7c75776eca16",
+          "author": "aws@amazon.com",
+          "description": "AWS Resource Access Manager (AWS RAM) で Amazon SageMaker Model Building Pipelines を使用して AWS アカウント間で安全にパイプラインエンティティを共有し、直接 API を呼び出して共有パイプラインにアクセスできるようになりました。マルチアカウント戦略によって、データ、プロジェクト、チームの分離を実現しながら、ソフトウェア開発のライフサイクルのステップをサポートできます。クロスアカウントのパイプライン共有によって、マルチアカウント戦略で複数アカウントのログインとログアウトを繰り返す手間を省けます。例えば、クロスアカウントのパイプライン共有により、ステージングと本番のアカウントでリソースを共有して機械学習のテストとデプロイのワークフローを改善できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-sharing-pipeline-entities-across-accounts/",
+          "publishedOn": "2022-08-19T16:41:09.000Z",
+          "wordCount": 310,
+          "title": "Amazon SageMaker Pipelines がアカウント間でのパイプラインエンティティ共有のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fdfef8b33578ffa498575deb680a8c0aeedb0716",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Greengrass は、モノのインターネット (IoT) のエッジランタイムおよびクラウドサービスであり、お客様のデバイスソフトウェアの構築、デプロイ、および管理を支援します。今回リリースするバージョン 2.7 では、以下の機能が実装されます。\n \n \n \nシステムテレメトリの強化 – Stream Manager エージェントのコンポーネントに、システムテレメトリメトリクスを Amazon EventBridge に送信する機能 (デフォルトで有効) が追加されました。システムテレメトリデータは、AWS IoT Greengrass Core デバイスの重要なオペレーションのパフォーマンスをモニタリングする際に役立つ、診断データです。エッジデバイスからテレメトリデータを取得し、分析し、変換し、報告するようなプロジェクトとアプリケーションを作成することができます。プロセスエンジニアなど、ドメインの専門家であれば、そのアプリケーションを使用することにより、Stream Manager 経由で AWS のサービス (Amazon Kinesis、Amazon Simple Storage Service (Amazon S3)、AWS IoT Analytics、AWS IoT SiteWise など) にアップロードされたデバイスデータに基づく、フリートの状態に関するインサイトを得ることができます。詳細については、デベロッパーガイドの「システムテレメトリの収集」セクションを参照してください。\n \n \nローカルデプロイの改善 – この新しい改善により、AWS IoT Greengrass nucleus は、ほぼリアルタイムのデプロイステータスアップデートを AWS IoT Greengrass クラウドサービスに送信できるようになりました。例えば、ListInstalledComponents API を使用すれば、インターネットに接続されたデバイスについて、ローカルにデプロイされたコンポーネントのステータスを確認することが可能になります。\n \n \nクライアント証明書に関する追加サポート – AWS IoT に登録されていないカスタム認証機関 (CA) が署名した証明書もサポート対象になりました。これにより、AWS IoT に登録されていないカスタム認証機関を柔軟に使用できるようになります。この機能を使用するには、新しい greengrassDataPlaneEndpoint 設定オプションを iotdata に設定してください。詳細については、「プライベート CA が署名したデバイス証明書を使用する」を参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/",
+          "publishedOn": "2022-08-19T16:35:09.000Z",
+          "wordCount": 358,
+          "title": "AWS IoT Greengrass V2 における Stream Manager のアップデートにより、新しいテレメトリメトリクスの報告などの新機能が実装",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "066079db5b5d89f7b270b8ffef24791b8ceb6610",
+          "author": "aws@amazon.com",
+          "description": "AWS コンソールモバイルアプリケーションのユーザーは iOS アプリケーションと Android アプリケーションの両方で AWS Cost Explorer を利用できるようになりました。コンソールモバイルアプリケーションは AWS のコストと使用量を時系列で視覚化して把握し、管理するための外出先で安全に使えるソリューションを提供します。ユーザーは過去 8 週間のすべてのリージョンとサービスの総コストと使用量を分析し、傾向を見極め、コスト要因を特定し、異常を検出できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/",
+          "publishedOn": "2022-08-19T15:25:09.000Z",
+          "wordCount": 300,
+          "title": "AWS コンソールモバイルアプリケーションで Cost Explorer サービスのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d43eae2891cd98e2c08573395ff0d210c04fa416",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudFront は、エンドユーザー接続のために QUIC を介した HTTP バージョン 3 (HTTP/3) リクエストをサポートするようになりました。HTTP/3 は、ユーザーデータグラムプロトコル (UDP) ベースのストリーム多重化された安全なトランスポートプロトコルである QUIC を使用します。これは、既存の伝送制御プロトコル (TCP)、TLS、および HTTP/2 の機能を組み合わせ、改善するものです。HTTP/3 には、応答時間の短縮、セキュリティの向上など、以前の HTTP バージョンを上回るいくつかの利点があります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-cloudfront-supports-http-3-quic/",
+          "publishedOn": "2022-08-19T14:51:09.000Z",
+          "wordCount": 363,
+          "title": "Amazon CloudFront が QUIC を利用した HTTP/3 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d4c64784411c9811a7bc00ddd27d40b10ed9c7ad",
+          "author": "aws@amazon.com",
+          "description": "AWS Compute Optimizer はワークロードに最適な AWS リソースを推奨し、機械学習を使って過去の使用率メトリクスを分析することで、コストを削減し、パフォーマンスを向上するサービスです。本日より、組織内のメンバーアカウントを指定して、Compute Optimizer のレコメンデーションを取得し、Compute Optimizer の設定を管理できるようになりました。これにより、より柔軟に、リソース最適化の機会の一元的な特定が行えるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/",
+          "publishedOn": "2022-08-19T14:44:09.000Z",
+          "wordCount": 317,
+          "title": "指定されたアカウントから AWS Compute Optimizer を使用して、組織全体のリソースを最適化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b1d68125763a07c6a2be43b774917f288aa5257a",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise では、3 つの新しい API が利用可能になり、センサーからの履歴測定値の一括インポートがサポートされるようになりました。新しい一括インポート API は、AWS IoT SiteWise のヒストリアンや時系列データベースなどのさまざまなシステムに保存されているオペレーションから履歴データを取り込むのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-bulk-import-historical-measurement-data/",
+          "publishedOn": "2022-08-19T14:43:09.000Z",
+          "wordCount": 326,
+          "title": "AWS IoT SiteWise による履歴測定データの一括インポートのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4619bec33ba569cb9e611465c4cff82b6f2e698c",
+          "author": "aws@amazon.com",
+          "description": "AWS パートナー向けの新しい AWS Transfer Family Delivery Program を発表いたします。このプログラムは、AWS Transfer Family を使用した洗練されたマネージドファイル転送 (MFT) および企業間 (B2B) ファイル交換ソリューションを構築するのに役立ちます。AWS Transfer Family は、SFTP、AS2、FTPS、FTP プロトコルを使用して、Amazon S3 および Amazon EFS との間でのファイル転送ワークフローを移行、自動化、モニタリングすることを可能にするサービスです。AWS にある自社のデータを使用して、豊富なデータ分析およびデータ処理サービスを活用することができます。AWS Transfer Family は、現時点で利用可能な唯一のフルマネージド型クラウドネイティブファイル転送サービスです。AWS パートナーは、顧客が選択した ID プロバイダーの統合、ファイル転送モニタリングの強化、エンドポイントの保護など、カスタマイズされた検証済みのソリューションを構築することが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-transfer-family-delivery-program/",
+          "publishedOn": "2022-08-19T14:37:09.000Z",
+          "wordCount": 335,
+          "title": "AWS Transfer Family Delivery Program の紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f9f3e64452e70e99c1108783b2f155c4d2fed108",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker 自動モデルチューニングでは、容量が不足しているために優先的なインスタンスタイプが使用できない場合にチューニングジョブをさらに堅牢にするために、複数の代替 SageMaker トレーニングインスタンスタイプの指定のサポートを開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/",
+          "publishedOn": "2022-08-19T14:36:09.000Z",
+          "wordCount": 299,
+          "title": "Amazon SageMaker 自動モデルチューニングで、より堅牢なチューニングを行う代替 SageMaker トレーニングインスタンスタイプのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "905b0b0668815f3a1c80015ab7bef82d6097397a",
+          "author": "aws@amazon.com",
+          "description": "Amazon RDS for SQL Server により M6i、R6i、および R5b インスタンスがサポートされる AWS リージョンが拡大されました。M6i インスタンスは現在、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ) リージョンで利用できます。R6i インスタンスは現在、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京)、カナダ (中部)、欧州 (ロンドン)、欧州 (パリ)、南米 (サンパウロ)、米国西部 (北カリフォルニア) で利用できます。R5b インスタンスは現在、アジアパシフィック (ソウル)、アジアパシフィック (シドニー)、カナダ (中部)、欧州 (アイルランド)、欧州 (ロンドン)、南米 (サンパウロ) で利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-sql-server-m6i-r6i-r5b-instances-additional-regions/",
+          "publishedOn": "2022-08-19T14:31:09.000Z",
+          "wordCount": 432,
+          "title": "Amazon RDS for SQL Server で M6i、R6i、および R5b インスタンスがサポートされるリージョンが拡大",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5a76bab2aa2f2b364599c7ed49e5bc8238eeb595",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkSpaces Web は現在、AWS カナダ (中部)、欧州 (フランクフルト)、および欧州 (ロンドン) リージョンで一般に利用できるようになりました。ローカルリージョンに WorkSpaces Web ポータルを作成すると、Web コンテンツをストリーミングするときの応答性が向上します。また、データの保存場所に関する義務の遵守に役立ちます。現在、WorkSpaces Web は合計 10 のリージョンで利用できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-workspaces-web-available-canada-frankfurt-london-regions/",
+          "publishedOn": "2022-08-19T14:29:09.000Z",
+          "wordCount": 321,
+          "title": "Amazon WorkSpaces Web がカナダ (中部)、欧州 (フランクフルト)、欧州 (ロンドン) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2377316b951cf9dfa536f7e600d5984ce945dc73",
+          "author": "aws@amazon.com",
+          "description": "Amazon Rekognition Custom Labels は自動機械学習 (AutoML) サービスです。機械学習に関する専門知識がなくても、ビジネスに特化したオブジェクトやシーンを検出する、カスタムのコンピュータビジョンモデルを構築することができます。本日より、Custom Labels では、トレーニング済みのモデルの推論ユニットを、ユーザーのワークロードに基づいて自動的にスケールできるようになりました。急に増加したり変動したりする画像ボリュームに対処するために推論ユニットを過度にプロビジョニングする必要がなくなるため、モデル推論のコストを削減できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-supports-autoscaling-inference-units/",
+          "publishedOn": "2022-08-19T14:25:09.000Z",
+          "wordCount": 342,
+          "title": "Amazon Rekognition Custom Labels、推論ユニットのオートスケーリングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "377ca4fc065dc721bad9ad3b0386026b4c1e4748",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize で、ビジネス目標に一致したルールに基づき、すべてのユーザーレコメンデーションで特定の商品をプロモーションすることが可能になりました。Amazon Personalize を使えば、デベロッパーは、パーソナライズされた製品やコンテンツレコメンデーションを通じてカスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。Personalize では現在、各ユーザーに関連する商品や、特定の商品に類似した商品を、インタラクションやメタデータ情報に基づいてレコメンドしています。今回のリリースから、自社のユーザーベースでプロモーションする商品を特定するための、ビジネスルールを定義できるようになります。また、レコメンデーション内で、プロモーションされたコンテンツのパーセンテージを制御することも可能です。例えば、E コマース企業のお客様は、この機能を使って、レコメンデーションの 20% を「セール中」の商品にすることができます。同様に、ビデオオンデマンド企業のお客様は、レール/カルーセルの 40% をリニア/ライブのテレビコンテンツにすることができます。Amazon Personalize は、企業のビジネスルールや定義に基づいてプロモーションに関連する商品を特定し、それらをユーザーに固有のレコメンデーション内で配信します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-personalize-rule-based-promotions-recommendations/",
+          "publishedOn": "2022-08-19T14:23:09.000Z",
+          "wordCount": 295,
+          "title": "Amazon Personalize、レコメンデーションでルールベースのプロモーションが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a9fd6a1581698eed7ae010504c5e0de8c1d4e0f2",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Custom for Oracle で、Scale Compute オペレーションのサポートが開始されました。これにより、Amazon RDS Custom for Oracle インスタンスをスケールアップまたはスケールダウンすることが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-scale-compute/",
+          "publishedOn": "2022-08-19T14:19:09.000Z",
+          "wordCount": 344,
+          "title": "Amazon RDS Custom for Oracle、Scale Compute のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0c98dbd8d2f734c467724fe776ce3c25174c7f10",
+          "author": "aws@amazon.com",
+          "description": "AWS Direct Connect は、500 メガビット/秒 (Mbps) 以下の速度による AWS Transit Gateway への接続をサポートするようになりました。これにより、高速接続が不要な場合の費用対効果に優れた選択肢が Transit Gateway ユーザーに提供されることになります。今回の変更により、50、100、200、300、400、500 Mbps の接続速度で Direct Connect を使用しているお客様も Transit Gateway に接続できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/",
+          "publishedOn": "2022-08-19T14:17:10.000Z",
+          "wordCount": 357,
+          "title": "AWS Direct Connect が AWS Transit Gateway への多様な接続速度をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "02e2581626e082f1dc85aaf8b5ddc6812ba1188c",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize の動的フィルターが比較演算子 (=、<、<=、>、>=) に対応しました。これにより、推奨事項へのビジネスルールの適用に柔軟性がもたらされます。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツの推奨事項を通じて、カスタマーエンゲージメントを高めることが可能です。機械学習の専門知識は必要ありません。動的フィルターは現在、推奨事項の取得時におけるフィルター条件の変更に対応しているため、ユーザーは個々の順列を作成することなく、オンザフライでフィルタールールを変更できます。このたび、動的フィルター値に比較演算子 (=、<、<=、>、>=) を使用できるようになったことで、推奨事項のより詳細な制御が可能になりました。例えば、動画やニュースのウェブサイトの「最新情報」セクションで直近 7 日間にリリースされたアイテムのみを推奨することができます。同様に、小売ウェブサイトの購入手続きページでショッピングカート内のアイテムよりも高価なアイテムが表示されるようにフィルタリングすれば、アップセルを行えます。今回の更新は、個々のビジネスルールを適用する際の柔軟性を高めることで、既存の動的フィルター機能を強化するものです。結果として、ユーザーのニーズ、好み、変化し続ける行動に基づいて推奨事項を変更することが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-personalize-range-queries-dynamic-filters/",
+          "publishedOn": "2022-08-19T14:10:09.000Z",
+          "wordCount": 300,
+          "title": "Amazon Personalize が動的フィルターの範囲クエリに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "45dbd3674758578e08f495b8f31961616aa18d29",
+          "author": "aws@amazon.com",
+          "description": "2019 年 5 月、Amazon Elastic Block Store (EBS) に、Amazon EC2 インスタンスにアタッチされたすべての Amazon EBS ボリュームの Crash-consistent スナップショットを 1 回の API 呼び出しで取得できる機能が実装されました。今回、Amazon EC2 インスタンスにアタッチされた Amazon EBS データボリュームのサブセットの Crash-consistent スナップショットを取得するという選択肢が追加されました。また、Amazon Data Lifecycle Manager (DLM) を使用することで、DLM ポリシーで定義された保持スケジュールに従って、Amazon EBS ボリュームの同じサブセットの Crash-consistent スナップショットを自動取得することもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-ebs-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/",
+          "publishedOn": "2022-08-19T14:04:09.000Z",
+          "wordCount": 365,
+          "title": "Amazon EC2 インスタンスにアタッチされた EBS ボリュームのサブセットの Crash-consistent スナップショットを取得する機能が Amazon EBS に追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3a2f4bd9a309a1bc396af119101939e8fd9d0016",
+          "author": "aws@amazon.com",
+          "description": "Amazon Aurora Serverless v1 は PostgreSQL のメジャーバージョンである 11 のサポートを開始しました。PostgreSQL 11 には、パーティショニングや並行処理、パフォーマンスの機能強化 (デフォルトの非 NULL 値を列にすばやく追加するなど) が含まれます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-aurora-serverless-v1-postgresql-11-in-place-upgrade-postgresql-10/",
+          "publishedOn": "2022-08-19T13:56:09.000Z",
+          "wordCount": 338,
+          "title": "Amazon Aurora Serverless v1 が PostgreSQL 11 のサポートと PostgreSQL 10 からのインプレースアップグレードのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "f9f5f34f8b139fd0081052589681df739d843354",
           "author": "aws@amazon.com",
           "description": "Amazon SageMaker Canvas におけるデータの準備および分析の機能拡張 (不足値の置換、外れ値の置換、データセットに異なるサンプルサイズを選択できる柔軟性など) をお知らせします。Amazon SageMaker Canvas はポイントアンドクリック式のビジュアルインターフェイスで、ビジネスアナリストはこれを使用することで、機械学習 (ML) を使用した経験がなくても、あるいはコードを一行も書かなくても、正確な ML 予測を自分で生成することができます。SageMaker Canvas を使用すれば、さまざまなソースからデータにアクセスしそれらを組み合わせたり、データを自動的にクリーニングしたり、数クリックで正確な予測を生成する ML モデルを構築したり、といったことが容易に行えるようになります。",
@@ -1341,16 +1531,6 @@
           "wordCount": 460,
           "title": "RubyKaigi 2022 に伊勢海老スポンサーとして協賛します🦐",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/imaizumimr/20220729/20220729122201.jpg"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/the-art-of-reading-code-for-beginners",
-          "author": null,
-          "description": "こんにちは、ふーが（@fugakkbn）です。 暑さも厳しさを増して参りましたが、入社して5ヶ月弱となりました。 人にも環境にも恵まれて、毎日楽しくプラグラミングできていることに幸せを感じずにはいられない今日この頃です。 さて、この5ヶ月を振り返ってみると、とにかくプログラミングが楽しい！WEB エンジニア最高！！という気持ちが98%くらいなのですが、2%くらい「苦労したな…」と思うことがあります。 それがタイトルにもある「コードを読み解く」ことです。 何に苦労したのか プロジェクトに入った当初は本当にコードが読めないし、何をどこから読んだらいいのかもわからない状態でアタフタしていました。 モ…",
-          "link": "https://blog.agile.esm.co.jp/entry/the-art-of-reading-code-for-beginners",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 484,
-          "title": "コードを読み解く技術【初級編】",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/f/fuga__ch/20220714/20220714113525.png"
         }
       ]
     },
@@ -1748,26 +1928,6 @@
           "wordCount": 2758,
           "title": "こんなところにもオープンデータが！？ 今日から使えるかもしれない5つの意外なオープンデータの活用事例",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/05/DTNJ_opendata.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42883",
-          "author": "データのじかん編集部",
-          "description": "ウイングアーク１ｓｔは2022年4月、それまでのCustomer Success部をCustomer Experienceへ拡充する組織改編を行った。背景には、商品やサービスの売り方が変化する中で、PLGを視野に入れた、 […]",
-          "link": "https://data.wingarc.com/about_cx_at_wingarc-42883?utm_source=rss&utm_medium=rss&utm_campaign=about_cx_at_wingarc",
-          "publishedOn": "2022-07-21T07:00:55.000Z",
-          "wordCount": 3344,
-          "title": "SLGからPLGへシフトする中、お客様のために進化を続ける ウイングアーク流カスタマーエクスペリエンス",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/b0ec19cb4660b30a1c2f332fa64c2126.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=44136",
-          "author": "tadokoroyusuke",
-          "description": "IT人材やデジタル人材不足は、DXを推進するうえで多くの企業が直面する課題だ。2019年に発表された経済産業省の「ＩＴ人材需給に関する調査（概要）」によると、2030年時点で16～79万人ものIT人材が不足すると予測され […]",
-          "link": "https://data.wingarc.com/localdxlab-40-fukuoka_02-44136?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-40-fukuoka_02",
-          "publishedOn": "2022-07-21T01:00:03.000Z",
-          "wordCount": 3435,
-          "title": "痛みをともなう学習こそが、現場の未来を切り開く。 越境学習によるノンプログラマーのスキル育成の可能性とは？",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/04_LocalDXLab_fukuoka.jpg"
         }
       ]
     },
@@ -2484,26 +2644,6 @@
           "wordCount": null,
           "title": "ノーコードの潮流と、AppSheetによる業務アプリケーション開発のススメ",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/news/report/2022/06/0603",
-          "author": null,
-          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp、株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿では輪読会の第3回の様子をダイジェストで紹介します。",
-          "link": "https://gihyo.jp/news/report/2022/06/0603?utm_source=feed",
-          "publishedOn": "2022-07-21T03:00:00.000Z",
-          "wordCount": null,
-          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート〜データ組織編〜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721",
-          "author": null,
-          "description": "Nothing TechnologyのPhone (1)が限定発売になりました。国内販売は8月に予定されており、SIMフリーモデルで、メモリ8Gバイト、ストレージ256Gバイトのモデルが6万9,800円になる見込みです。",
-          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721?utm_source=feed",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Nothing Phone (1)は、アリ・ナシどっち？",
-          "imageUrl": null
         }
       ]
     },
@@ -3020,26 +3160,6 @@
           "publishedOn": "2022-07-22T00:38:00.000Z",
           "wordCount": null,
           "title": "ノーコードの潮流と、AppSheetによる業務アプリケーション開発のススメ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/news/report/2022/06/0603",
-          "author": null,
-          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp、株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿では輪読会の第3回の様子をダイジェストで紹介します。",
-          "link": "https://gihyo.jp/news/report/2022/06/0603?utm_source=feed",
-          "publishedOn": "2022-07-21T03:00:00.000Z",
-          "wordCount": null,
-          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート〜データ組織編〜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721",
-          "author": null,
-          "description": "Nothing TechnologyのPhone (1)が限定発売になりました。国内販売は8月に予定されており、SIMフリーモデルで、メモリ8Gバイト、ストレージ256Gバイトのモデルが6万9,800円になる見込みです。",
-          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721?utm_source=feed",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Nothing Phone (1)は、アリ・ナシどっち？",
           "imageUrl": null
         }
       ]
@@ -3558,26 +3678,6 @@
           "wordCount": 187,
           "title": "ノーコードの潮流と、AppSheetによる業務アプリケーション開発のススメ",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1915_appsheet.png"
-        },
-        {
-          "id": "https://gihyo.jp/news/report/2022/06/0603",
-          "author": null,
-          "description": "2022年1月から2月にかけて、データエンジニアリング、データ活用の知見の共有を目的としたコミュニティdatatech-jp、株式会社風音屋の協力のもと「実践的データ基盤への処方箋」の輪読会がオンライン形式で開催されました。輪読会は3回に分けて開催され、合計9名の発表者と、多くの参加者が集まり、さまざまな議論が交わされました。本稿では輪読会の第3回の様子をダイジェストで紹介します。",
-          "link": "https://gihyo.jp/news/report/2022/06/0603?utm_source=feed",
-          "publishedOn": "2022-07-21T03:00:00.000Z",
-          "wordCount": null,
-          "title": "データエンジニア大集合！「実践的データ基盤への処方箋」輪読会レポート〜データ組織編〜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721",
-          "author": null,
-          "description": "Nothing TechnologyのPhone (1)が限定発売になりました。国内販売は8月に予定されており、SIMフリーモデルで、メモリ8Gバイト、ストレージ256Gバイトのモデルが6万9,800円になる見込みです。",
-          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220721?utm_source=feed",
-          "publishedOn": "2022-07-21T00:00:00.000Z",
-          "wordCount": 184,
-          "title": "Nothing Phone (1)は、アリ・ナシどっち？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3610,6 +3710,16 @@
       "feedUrl": "https://rubyonrails.org/feed.xml",
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
+        {
+          "id": "https://rubyonrails.org/2022/8/19/this-week-in-rails-logging-raising-and-rescuing-errors-and-a-fix-for-a-query-method-564753b7",
+          "author": null,
+          "description": "Cześć! I’m Emmanuel, and I have some updates for you from Rails. Log a warning if ActiveSupport::Cache is given an expiration in the past Imagine trying to write/fetch to/from a cache and the operation fails silently because expires_at is in the past… a debugger’s nightmare. This PR helps. You won’t get an error raised, instead, you’ll get “Cache expiration is in the past” in your logs. Define and raise error if legacy_connection_handling= is called from an app In Rails 6.0 if you switched to a role, say reading, then all database connections would also switch to that role. In Rails 6.1 however, you could set legacy_connection_handling to false to disable this behaviour. legacy_connection_handling was removed in Rails 7 without setting it to false by default, causing an error. This PR fixes that by redefining legacy_connection_handling and raising an error. Fix ActiveRecord::QueryMethods#in_order_of to work with nils This PR fixes an issue where an invalid SQL is generated when nil is passed to in_order_of. Rescue EOFError error from rack on a multipart request EOFError is added to the list of rescued errors that can arise from a multipart POST request, raising a ActionController::BadRequest exception and rendering a 400 Bad Request instead of 500 Internal Server Error. Add description of breaking changes and the deprecation cycle to guides This PR clarifies the deprecation cycle. This is mostly to help contributors but a good addition to the documentation nonetheless. We had 11 contributors since last week. That’s it. Do zobaczenia!",
+          "link": "https://rubyonrails.org/2022/8/19/this-week-in-rails-logging-raising-and-rescuing-errors-and-a-fix-for-a-query-method-564753b7",
+          "publishedOn": "2022-08-19T00:00:00.000Z",
+          "wordCount": 561,
+          "title": "Logging, raising and rescuing errors and a fix for a query method.",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
         {
           "id": "https://rubyonrails.org/2022/8/12/this-week-in-rails-bugfixes-improvements-and-more-0f5bb6d5",
           "author": null,
@@ -3916,16 +4026,6 @@
           "wordCount": 535,
           "title": "Better Stimulusガイド 08: Rails-ujs（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/better_stimulus_08_rails_ujs-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_21/119838",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_overuse_of_engine_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Overuse of Rails engines &#124; Saeloun Blog 原文公開日: 2022/06/29 原著者: Murtaza Bagwala サイト: Saeloun Blog Railsエンジンは使いすぎに注意（翻訳） 有名なDevise gemを認証に使ったことは誰しもあると思いますが、このgemは「エンジン」でもあります。Railsエンジンはミニチュア版のRailsアプリケーションで、独自のapp/フォルダを持ち、その中にコントローラやモデルなどを含んでいます。唯一の違いは、エンジンは単体では動作できず、動かすにはメインのRail [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_21/119838\" data-wpel-link=\"internal\" target=\"_self\">Railsエンジンは使いすぎに注意（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_21/119838",
-          "publishedOn": "2022-07-21T08:30:47.000Z",
-          "wordCount": 501,
-          "title": "Railsエンジンは使いすぎに注意（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_overuse_of_engine_eyecatch-min.png"
         }
       ]
     },
