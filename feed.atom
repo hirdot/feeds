@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-19T07:01:26.930Z</updated>
+    <updated>2022-08-19T08:01:22.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5760,56 +5760,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/"/>
         <updated>2022-07-20T21:01:07.000Z</updated>
         <summary type="html"><![CDATA[Porting Assistant for .NET で、VB.NET 言語で記述されたレガシー .NET Framework アプリケーションの評価と移植がサポートされるようになりました。このリリースによって、Porting Assistant for .NET は VB.NET のクラスライブラリ、Web API、コンソールアプリケーションを .NET Core 3.1、.NET 5、.NET 6 に変換することで、VB.NET で記述されたレガシー .NET Framework アプリケーションを簡単にモダナイズできるようになります。デベロッパーは、Porting Assistant for .NET スタンドアロンツールまたは Porting Assistant for .NET Visual Studio IDE 拡張機能を使用して、レガシー VB.NET アプリケーションをモダナイズできます。C# ベースの .NET Framework アプリケーションの評価と移植に関する既存のサポートに加え、VB.NET のサポートが追加されます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Route 53 Resolver DNS Firewall が アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
-        <id>bbe5be937b9817e475db12540fa923b8e51bf5dd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/"/>
-        <updated>2022-07-20T19:33:53.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon Route 53 Resolver DNS Firewall がアジアパシフィック (ジャカルタ) リージョンで利用可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Powertools for TypeScript の一般提供が開始]]></title>
-        <id>2953563b77e25f579aa04e63d2070508d260e047</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/"/>
-        <updated>2022-07-20T19:33:05.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda Powertools for TypeScript の一般提供が開始されます。これは、Well-Architected Serverless のベストプラクティスを Lambda 関数に可能な限り簡単かつ高速に組み込むための、オープンソースのデベロッパーライブラリです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker がモデルデプロイ向けに ml.g5、ml.p4d、ml.c6i インスタンスを追加]]></title>
-        <id>f01006d2c64a4ae344414e9dfcbd0a30527acd71</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-adds-ml-g5-ml-p4d-ml-c6i-instances-model-deployment/"/>
-        <updated>2022-07-20T19:32:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker は、お客様がワークロードに最適なインスタンスにモデルをデプロイできるように、新しい ML インスタンスへのアクセスを拡張します。現在、お客様は、非同期およびリアルタイムのモデルデプロイオプションとして、ml.g5、ml.p4d、および ml.c6i というインスタンスを使用することができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Aurora PostgreSQL 互換エディションが R6i インスタンスのサポートを開始]]></title>
-        <id>5e6358a0b8448a3492db4696f21fa83546a62528</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/"/>
-        <updated>2022-07-20T19:31:27.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Aurora では、第 3 世代のインテル Xeon スケーラブルプロセッサを搭載している R6i インスタンスのサポートを開始しました。R6i インスタンスは、Amazon EC2 のメモリ最適化インスタンスの第 6 世代で、メモリを多用するワークロード向けに設計されています。これらのインスタンスは、専用ハードウェアと軽量ハイパーバイザーの組み合わせである AWS Nitro System に構築されています。Nitro System はホストハードウェアの実質的にすべてのコンピューティングリソースとメモリリソースをユーザーのインスタンスに提供します。 Amazon Aurora PostgreSQL 互換エディションを使用している場合、R6i インスタンスを使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker 自動モデルチューニングの上限が引き上げられ、モデルの精度が向上]]></title>
-        <id>4790dab3727432d4deeb8c225427b2c7d1a3e604</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-automatic-model-tuning-supports-increased-limits-improve-accuracy-models/"/>
-        <updated>2022-07-20T19:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker 自動モデルチューニングを使用すると、データセットに最適なハイパーパラメータ設定のセットを探すことで、最も正確なバージョンの機械学習 (ML) のモデルを見つけられます。SageMaker 自動モデルチューニングでは 2 つのサービスクォータの上限が引き上げられ、チューニングジョブごとに実行できるトレーニングジョブの合計数とチューニングジョブごとに検索できるハイパーパラメータの最大数が最大 50% 増えました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
