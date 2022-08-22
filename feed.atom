@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-22T08:01:18.215Z</updated>
+    <updated>2022-08-22T09:01:07.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails: JOINしたActiveRecord::Relationをlimitして件数が合わない場合の対処法]]></title>
+        <id>https://techracho.bpsinc.jp/konaga/2022_08_22/120891</id>
+        <link href="https://techracho.bpsinc.jp/konaga/2022_08_22/120891"/>
+        <updated>2022-08-22T08:30:06.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_limiting_ar_relation_join_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>環境 Ruby: 3.0.2 Rails: 6.1.4.1 MySQL: 5.7 ※ Railsのバージョンを上げたりDBMSを変えたりしたときには再現しなかった問題なので、環境依存している話かもしれません。 やりたいこと あるモデルのレコードを、has_many の関係にあるモデルのうち最新のレコードでorderした上で、limitして件数を絞り込みたいです。 具体例として、チャット管理アプリを作成しているとします。 このアプリでは以下のようなモデルが存在します。 class ChatRoom &#60; ApplicationRecord has_many :chat_messages end class Ch [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/konaga/2022_08_22/120891" data-wpel-link="internal" target="_self">Rails: JOINしたActiveRecord::Relationをlimitして件数が合わない場合の対処法</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails / OSS パッチ会オンライン 2022年8月のお知らせ]]></title>
         <id>https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220824</id>

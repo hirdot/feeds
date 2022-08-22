@@ -3708,6 +3708,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/konaga/2022_08_22/120891",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_limiting_ar_relation_join_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>環境 Ruby: 3.0.2 Rails: 6.1.4.1 MySQL: 5.7 ※ Railsのバージョンを上げたりDBMSを変えたりしたときには再現しなかった問題なので、環境依存している話かもしれません。 やりたいこと あるモデルのレコードを、has_many の関係にあるモデルのうち最新のレコードでorderした上で、limitして件数を絞り込みたいです。 具体例として、チャット管理アプリを作成しているとします。 このアプリでは以下のようなモデルが存在します。 class ChatRoom &#60; ApplicationRecord has_many :chat_messages end class Ch [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/konaga/2022_08_22/120891\" data-wpel-link=\"internal\" target=\"_self\">Rails: JOINしたActiveRecord::Relationをlimitして件数が合わない場合の対処法</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/konaga/2022_08_22/120891",
+          "publishedOn": "2022-08-22T08:30:06.000Z",
+          "wordCount": 747,
+          "title": "Rails: JOINしたActiveRecord::Relationをlimitして件数が合わない場合の対処法",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_limiting_ar_relation_join_eyecatch-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/piichan1031/2022_08_19/120579",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/nippoukun_tips_aggregations_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>背景 弊社顧問会計士、税理士法人とおやまの遠山伊織さん（弊社内通称”イオリン”）から今年も決算期周辺にいろいろ連絡をいただきました。その中の１つがこれです。 期末時点で納品未了のプロジェクトについて、 期末までに発生した人件費をプロジェクト別に集計して頂けませんでしょうか。 計算過程がわかるようにエクセル形式で頂けますと幸いです。 会社の全チームの全プロジェクトを洗い出して仕掛品の精査せよ、ということですね。いやあ、細かく聞いて回って情報をまとめていくとそれなりに大変なやつです。証拠も残さないといけませんし。そして作業そのものよりも、お仕事の邪魔をされちゃう方々からの冷ややかな顔やチャットコメント（どうでもよくな [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/piichan1031/2022_08_19/120579\" data-wpel-link=\"internal\" target=\"_self\">期末時点で納品未了のプロジェクトについて、期末までに発生した人件費をプロジェクト別に集計する</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
