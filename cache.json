@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "53804ee383c9e8f2ae24262daecd6ca7c12829d4",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すれば、会話型ボット (chatbot)、仮想エージェント、対話型音声応答 (IVR) システムをすばやく簡単に構築できます。本日より Amazon Lex は、条件分岐機能のサポートを開始しました。これによりお客様は、自社ユーザー向けの会話を簡単に設計できるようになります。カスタムコードを実行する代わりに、Les ボットに直接、単純な条件を追加することで、ユーザーによる入力やビジネス知識に基づいて、会話の進行をダイナミックに管理することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-lex-conditional-branching-simplified-dialog-management/",
+          "publishedOn": "2022-08-23T09:51:48.000Z",
+          "wordCount": 303,
+          "title": "Amazon Lex、条件分岐のサポートを開始しダイアログ管理を簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e31aa674cac9c1749db86d5ba5854996ed5dd783",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Kubernetes Service (EKS) では、Amazon EC2 のコストが個々の EKS クラスターによってどう決定されているのかを、より簡単に把握できるようになりました。複数の EKS クラスターを使用してワークロードをセグメント化し、レジリエンスとセキュリティ体制の向上を目指すユーザーは、AWS コストと使用状況レポートを使って、最小限の労力で EKS クラスターごとに EC2 コストの内訳を確認することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/",
+          "publishedOn": "2022-08-23T09:50:58.000Z",
+          "wordCount": 318,
+          "title": "Amazon EKS、クラスターレベルでコスト割り当てのタグ付けを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ac120768368e7a279a5b114bb9f6182f2eea9601",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS コスト異常検出をご利用のお客様は、コンソールの新しいインターフェイスをご利用いただけます。こちらでは異常とその根本原因を確認できます。AWS コスト異常検出は、お客様の支払いパターンをモニタリングしながら異常な (増加した) 支払いを検出、警告し、その根本原因の分析を行うサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-cost-anomaly-detection-simplified-interface-anomaly-exploration/",
+          "publishedOn": "2022-08-23T09:50:08.000Z",
+          "wordCount": 297,
+          "title": "AWS コスト異常検出、異常調査のためのインターフェイスを簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "25bd618c9d1d715ab8764d37febcf1a998c10c43",
+          "author": "aws@amazon.com",
+          "description": "Amazon AppFlow は AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間でのデータ転送をわずか数クリックで安全に実行するのに役立つフルマネージド型の統合サービスです。この度、Amazon AppFlow ではソースとして Zendesk Chat と Zendesk Sell のサポートを開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/",
+          "publishedOn": "2022-08-23T09:49:19.000Z",
+          "wordCount": 325,
+          "title": "Amazon AppFlow がソースとして Zendesk Chat と Zendesk Sell のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "68dc1b981dcca0fe9acc3fbd1c2da93519ab2d34",
+          "author": "aws@amazon.com",
+          "description": "Amazon AppFlow は AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間でのデータ転送をわずか数クリックで安全に実行するのに役立つフルマネージド型の統合サービスです。この度、Amazon AppFlow では SAP Operational Data Provisioning (ODP) フレームワークを使用して、SAP アプリケーションから AWS サービスへのデータ転送のサポートを開始しました。今回のサポート開始により、AppFlow ユーザーは AppFlow SAP OData コネクタを使用して完全および増分データ転送を行えるようになりました。これには、SAP Operational Delta Queue を使用して SAP ERP/BW アプリケーション (ECC、BW、BW/4HANA、S/4HANA など) から Amazon S3 などの AWS サービスに転送する Change Data Capture が含まれます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/",
+          "publishedOn": "2022-08-23T09:48:31.000Z",
+          "wordCount": 373,
+          "title": "Amazon AppFlow が SAP Operational Data Provisioning (ODP) を使用して SAP アプリケーションから AWS サービスへのデータ転送のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4015326ee79d817ce8ec8de409d712417533da26",
+          "author": "aws@amazon.com",
+          "description": "AWS App Mesh が、仮想ノードと仮想ゲートウェイ用の、カスタマイズ可能な Envoy アクセスログフォーマットに対応しました。これにより、重要な特定の箇所に焦点を当てながら、カスタマイズされたロギングを使ってサービスを診断することが可能になります。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、異なる種類のコンピューティングインフラストラクチャを横断したサービス間の通信を容易にします。AWS App Mesh は、サービス間の通信方法を標準化し、エンドツーエンドの可視性をもたらして、アプリケーションの高い可用性に合わせることを可能にします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/",
+          "publishedOn": "2022-08-23T09:47:42.000Z",
+          "wordCount": 298,
+          "title": "AWS App Mesh、設定可能な Envoy アクセスログフォーマットをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "83d975efa5428e2869657ca1f554ba6c3c242c4f",
           "author": "aws@amazon.com",
           "description": "AWS GovCloud (米国) リージョンで Amazon EC2 P4d インスタンスが利用可能になったことをお知らせします。P4d インスタンスは、機械学習 (ML) およびハイパフォーマンスコンピューティング (HPC) のアプリケーション向けに最適化されています。",
@@ -3918,6 +3978,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_23/120899",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220823_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_23/120899\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: byebugからruby/debugへの移行ガイド、YJIT解説記事ほか（20220823後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_23/120899",
+          "publishedOn": "2022-08-23T09:46:40.000Z",
+          "wordCount": 915,
+          "title": "週刊Railsウォッチ: byebugからruby/debugへの移行ガイド、YJIT解説記事ほか（20220823後編）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220823_eyecatch-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/shouichi/2022_08_23/120908",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_app_team_2022_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>「夏のTechrachoフェア2022」ということで、 チームの近況を交えつつアプリチーム の紹介をさせていただければと思います。 どんな仕事している？ アプリチームでは、自社製品である電子書籍ビューア、デジタル教科書ビューア、およびそれに関連するアプリ、システムの開発を主な業務としています。 電子書籍ビューア：『超縦書』『超画像』 デジタル教科書ビューア：『超教科書』および『超教科書クラウド』 Windows/Mac/Android/iOS/Webブラウザ が主な対象環境になっており、特にWebブラウザ向けでは、画面遷移を伴わない、いわゆる「シングルページWebアプリケーション」として開発しています。 これらの [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/shouichi/2022_08_23/120908\" data-wpel-link=\"internal\" target=\"_self\">BPS開発チームの紹介～アプリチーム～（2022年度）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -5340,46 +5410,6 @@
           "wordCount": 1384,
           "title": "贅沢品から必需品へ、欧州でもエアコン導入の動き",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/21013504/AP_22197793272296-crop-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=280750",
-          "author": "Casey Crownhart",
-          "description": "猛暑が続くと、病害虫に対する植物の防衛機能が働かなくなることで、作物の収穫量が減ってしまう恐れがある。デューク大学の研究チームは高温下でも防衛機能が働くように植物の遺伝子を改変することで、この問題を解決しようとしている。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/280750/heat-is-bad-for-plant-health-heres-how-gene-editing-could-help/",
-          "publishedOn": "2022-07-24T21:55:03.000Z",
-          "wordCount": 1209,
-          "title": "猛暑に「バテない」作物　遺伝子編集で気候変動に新たな備え",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/14191504/GettyImages-89874487-crop-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/23/281492/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/25/281492/",
-          "publishedOn": "2022-07-24T21:36:11.000Z",
-          "wordCount": 688,
-          "title": "全固体リチウム電池の界面抵抗を抑制、高性能化に道筋＝東工大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/22/281412/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/25/281412/",
-          "publishedOn": "2022-07-24T21:31:16.000Z",
-          "wordCount": 687,
-          "title": "「意識」は脳ネットワークのどこで生まれるか？ 東大が解明へ前進",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/22/281411/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/25/281411/",
-          "publishedOn": "2022-07-24T21:04:09.000Z",
-          "wordCount": 690,
-          "title": "北大など、新型コロナに結合する人工DNAアプタマー",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
