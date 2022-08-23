@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-23T10:01:10.369Z</updated>
+    <updated>2022-08-23T22:01:17.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岡山大、カドミウムの集積が少ないイネの育成に成功]]></title>
+        <id>https://www.technologyreview.jp/n/2022/08/22/284084/</id>
+        <link href="https://www.technologyreview.jp/n/2022/08/24/284084/"/>
+        <updated>2022-08-23T21:15:31.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL互換のスケーラブルな分散DB「TiDB」、スマレジや＠cosmeによる評価は本番環境のDBから移行可能、性能も十分高いと［PR］]]></title>
+        <id>https://www.publickey1.jp/blog/22/mysqldbtidbcosmedbpr.html</id>
+        <link href="https://www.publickey1.jp/blog/22/mysqldbtidbcosmedbpr.html"/>
+        <updated>2022-08-23T15:31:39.000Z</updated>
+        <summary type="html"><![CDATA[いわゆる「NewSQL」と呼ばれる、トランザクション処理を実現しつつも非常に高度なスケーラビリティを備えた新しい種類のリレーショナルデータベースが登場し、注目されています。その代表的な製品の1つが、オープンソースで開発されている「TiDB」...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesforce、簡単に導入できて安価な「Salesforce Easy」発表。セールス、サービス、マーケティング、コマースなどオールインワン]]></title>
+        <id>https://www.publickey1.jp/blog/22/salesforcesalesforce_easy.html</id>
+        <link href="https://www.publickey1.jp/blog/22/salesforcesalesforce_easy.html"/>
+        <updated>2022-08-23T15:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Salesforceは、簡単に導入できて安価なSaaS「Salesforce Easy」を発表しました。 Meet Salesforce Easy: a new way to bring sales, service, and market...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Glue Python Shell ジョブ、Python 3.9 と追加の事前ロード済みライブラリの提供を開始]]></title>
+        <id>a46dad50b69c5bb25006d5f4ed70a466486742b6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-glue-python-shell-jobs-python-3-9-additional-pre-loaded-libraries/"/>
+        <updated>2022-08-23T10:31:24.000Z</updated>
+        <summary type="html"><![CDATA[AWS Glue で、サーバーレスの Python Shell ジョブがアップグレードされ、Python 3.9 のサポートと、事前ロード済みライブラリの更新済みバンドルが追加されました。これらのジョブを使えば、複雑なデータ統合や分析のジョブを pure Python で作成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Lex、条件分岐のサポートを開始しダイアログ管理を簡素化]]></title>
         <id>53804ee383c9e8f2ae24262daecd6ca7c12829d4</id>
@@ -5859,80 +5898,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <summary type="html"><![CDATA[AWSは、マネジメントコンソールなど同社が提供する製品やサービスのWebアプリケーション画面を構築するために開発したデザインシステム「Cloudscape」をオープンソースで公開しました。 Cloudscape Design System,...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: RailsConf 2022の動画が公開、マイクロサービスのテスト戦略ほか（20220725前編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_25/120031</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_25/120031"/>
-        <updated>2022-07-25T09:00:09.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220725_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。Kaigi on Rails 2022のCFPとTRICK 2022のエントリーは共に7月いっぱいで締め切りです。 ／#kaigionrailsCFP募集中！！＼Kaigi on Railsでお話してみませんか？初心者・中級者・上級者、あなたにしかできないトークがあるはず✨締め切りは7月31日(日)です！たくさんのご応募お待ちしております🙌https://t.co/dXK7vTguy5 &#8212; Kaigi on Rails (@kaigionrails) June 21, 2022 The weird Ruby programming competition, TRIC [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_25/120031" data-wpel-link="internal" target="_self">週刊Railsウォッチ: RailsConf 2022の動画が公開、マイクロサービスのテスト戦略ほか（20220725前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［IPAのDXエバンジェリストが解説］VUCAの時代に立ち向かうエンジニアに知ってほしいDXの基礎知識]]></title>
-        <id>https://gihyo.jp/article/2022/07/what_is_dx</id>
-        <link href="https://gihyo.jp/article/2022/07/what_is_dx?utm_source=feed"/>
-        <updated>2022-07-25T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[「DX」という言葉を聞いたことがありますか？「DXで業務を効率化しましょう」といった文句があらゆる場所で氾濫していますが、その意味を正しく理解できていない担当者も少なくありません。本記事では、DXの定義やDXで何が変わるのか、DXを担うために必要なスキルなどを事例を交えて解説していきます。
-また、DXによって何が変わっていくのか、DXを実現するために変えなくてはいけないことはあるのかについても紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［IPAのDXエバンジェリストが解説］VUCAの時代に立ち向かうエンジニアに知ってほしいDXの基礎知識]]></title>
-        <id>https://gihyo.jp/article/2022/07/what_is_dx</id>
-        <link href="https://gihyo.jp/article/2022/07/what_is_dx?utm_source=feed"/>
-        <updated>2022-07-25T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[「DX」という言葉を聞いたことがありますか？「DXで業務を効率化しましょう」といった文句があらゆる場所で氾濫していますが、その意味を正しく理解できていない担当者も少なくありません。本記事では、DXの定義やDXで何が変わるのか、DXを担うために必要なスキルなどを事例を交えて解説していきます。
-また、DXによって何が変わっていくのか、DXを実現するために変えなくてはいけないことはあるのかについても紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［IPAのDXエバンジェリストが解説］VUCAの時代に立ち向かうエンジニアに知ってほしいDXの基礎知識]]></title>
-        <id>https://gihyo.jp/article/2022/07/what_is_dx</id>
-        <link href="https://gihyo.jp/article/2022/07/what_is_dx?utm_source=feed"/>
-        <updated>2022-07-25T00:39:00.000Z</updated>
-        <summary type="html"><![CDATA[「DX」という言葉を聞いたことがありますか？「DXで業務を効率化しましょう」といった文句があらゆる場所で氾濫していますが、その意味を正しく理解できていない担当者も少なくありません。本記事では、DXの定義やDXで何が変わるのか、DXを担うために必要なスキルなどを事例を交えて解説していきます。
-また、DXによって何が変わっていくのか、DXを実現するために変えなくてはいけないことはあるのかについても紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贅沢品から必需品へ、欧州でもエアコン導入の動き]]></title>
-        <id>https://www.technologyreview.jp/?p=281309</id>
-        <link href="https://www.technologyreview.jp/s/281309/the-legacy-of-europes-heat-waves-will-be-more-air-conditioning-thats-a-problem/"/>
-        <updated>2022-07-24T23:49:27.000Z</updated>
-        <summary type="html"><![CDATA[このところ猛暑が襲っている欧州であるが、エアコンを設置している家庭は全体の10％未満だ。しかし気温上昇に伴い、エアコンの導入率は増えると考えられ、新たな課題が生まれている。]]></summary>
-        <author>
-            <name>Casey Crownhart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023年10月施行】インボイス制度とは｜電子帳簿保存法宥恕（ゆうじょ）措置との関連を含め解説！]]></title>
-        <id>https://data.wingarc.com/?p=42949</id>
-        <link href="https://data.wingarc.com/invoice-system-42949?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=invoice-system"/>
-        <updated>2022-07-24T23:06:23.000Z</updated>
-        <summary type="html"><![CDATA[2023/10よりインボイス制度が施行されます。インボイス制度への対応は任意ですが、既存顧客の中に課税事業者がいる場合、適格請求書発行事業者への登録が推奨されています。 インボイス制度への対応は工数が掛かることが予想され […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【タイムくん第131話】インボイス制度]]></title>
-        <id>https://data.wingarc.com/?p=44025</id>
-        <link href="https://data.wingarc.com/taimu-kun-131-44025?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taimu-kun-131"/>
-        <updated>2022-07-24T23:00:57.000Z</updated>
-        <summary type="html"><![CDATA[ここがポイント：インボイス制度あるいは「適格請求書等保存方式」と「マンガDX」について みなさん、おはようございます。 前回に引き続き電子帳簿関連のお話を羊沼さんにしてもらっているわけなんですが、新作エピソードなのに既視 […]]]></summary>
-        <author>
-            <name>TotsukaKeisuke</name>
         </author>
     </entry>
     <entry>
