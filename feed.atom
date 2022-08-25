@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T08:01:15.992Z</updated>
+    <updated>2022-08-25T09:01:07.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows: ScreenToGifで動画のエビデンスを残そう！]]></title>
+        <id>https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786</id>
+        <link href="https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786"/>
+        <updated>2022-08-25T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/windows_screentogif_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに: テストを実施しよう テストには「ケースを立てて、実施し、不具合があれば修正をする」を繰り返して、最終的に不具合がなくなるまで繰り返すフェーズとなります。 今回は実施の部分で検証結果を残すときの話になります。 検証結果には何を残すか 機能テストを行う際に画面のキャプチャ等を残してレビュー時にはテストケースとキャプチャを確認して問題ないかの判断を行うと思います。 GitHubでも markdown でテストケースを記載して画面キャプチャの画像の張り付け 等を行ってPull Requestを行いマージ前にチェックするようになっていたりします。 そこで一連の操作の流れを動画で見れたらわかりやすいというケースも [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786" data-wpel-link="internal" target="_self">Windows: ScreenToGifで動画のエビデンスを残そう！</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始]]></title>
         <id>https://gihyo.jp/article/2022/08/rust_tokyo2022</id>
@@ -5920,46 +5931,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <updated>2022-07-26T21:32:24.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 の C6i、M6i、R6i インスタンスを利用できるリージョンが拡大]]></title>
-        <id>0c0059bee0d6256d9d525ad8f8d3515725acf3a1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/"/>
-        <updated>2022-07-26T20:19:32.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 の C6i、M6i、R6i インスタンスが欧州 (ストックホルム、ミラノ) およびアジアパシフィック (香港) で利用可能になります。さらに、Amazon EC2 の C6i、M6i インスタンスは中東 (バーレーン) で、R6i インスタンスは欧州 (フランクフルト) で利用可能になります。これらのインスタンスはオールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサ (コードネーム: Ice Lake) を搭載し、幅広いワークロードにおいて同等の Gen5 インスタンスと比較して最大 15％ 向上したコンピューティングプライスパフォーマンス、およびインテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Interactive Video Service がウェブブロードキャスト SDK を搭載]]></title>
-        <id>8283463151b959d58f0125e8fa01d04d83a2fac6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/"/>
-        <updated>2022-07-26T20:17:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Interactive Video Service (Amazon IVS) のウェブブロードキャスト SDK を使用すると、ウェブブラウザのライブ動画をキャプチャし、Amazon IVS チャネルに入力として送信することができます。この入力内容は新規または既存のウェブサイトに設置できます。ウェブブラウザは、デスクトップ版とモバイル版の両方をサポートします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Network Firewall が VPC プレフィックスリストのサポートを開始]]></title>
-        <id>95935cbeb94b837c9c5d63a382a47d5521eba1e3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-network-firewall-vpc-prefix-lists/"/>
-        <updated>2022-07-26T20:17:03.000Z</updated>
-        <summary type="html"><![CDATA[AWS Network Firewall が Amazon 仮想プライベートクラウド (VPC) のプレフィックスリストのサポートを開始し、VPC 全体のファイアウォールルールおよびポリシー管理を簡素化できるようになりました。プレフィックスリストを使用すると、1 つ以上の CIDR ブロックを単一のオブジェクトにグループ化できます。プレフィックスリストで頻繁に使用する IP アドレスをグループ化し、AWS Network Firewall ルールグループでこのリストを参照できます。以前はネットワークをスケーリングして新しい IP アドレスを追加するときに、個々のファイアウォールルールを更新する必要がありましたが、これには時間がかかり、エラーが発生しがちでした。今回のリリースでは、関連するプレフィックスリストを更新すると、そのプレフィックスリストを参照するすべての AWS Network Firewall ルールグループが自動的に更新されるようになりました。ネットワークを拡張するときにプレフィックスリストを使用して、同じ AWS リージョンの複数の VPC とアカウントにまたがるファイアウォールルールグループとポリシーの管理を簡素化できます。AWS が管理するプレフィックスリストを使用することも、独自のプレフィックスリストを作成して管理することもできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Fraud Detector が Account Takeover Insight (ATI) を開始]]></title>
-        <id>bd9d2633780a0f28452c5eaf5048fc497b9ea1ab</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/"/>
-        <updated>2022-07-26T20:01:15.000Z</updated>
-        <summary type="html"><![CDATA[本日、Amazon Fraud Detector (AFD) が Account Takeover Insight (ATI) モデルのサポートを開始しました。これは盗まれた認証情報、フィッシング、ソーシャルエンジニアリング、その他の形態のアカウント乗っ取りによって侵害されたアカウントを検出するために特別に設計された低レイテンシーの不正検出の機械学習 (ML) モデルです。この ATI モデルは、従来のルールベースのアカウント乗っ取りソリューションに比べて最大 4 倍多く ATI 不正を検出しながら、正当なユーザーへの負荷レベルも最小限に抑えるように設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
