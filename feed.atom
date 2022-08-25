@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T05:25:48.228Z</updated>
+    <updated>2022-08-25T06:09:24.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5958,26 +5958,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/"/>
         <updated>2022-07-26T20:01:15.000Z</updated>
         <summary type="html"><![CDATA[本日、Amazon Fraud Detector (AFD) が Account Takeover Insight (ATI) モデルのサポートを開始しました。これは盗まれた認証情報、フィッシング、ソーシャルエンジニアリング、その他の形態のアカウント乗っ取りによって侵害されたアカウントを検出するために特別に設計された低レイテンシーの不正検出の機械学習 (ML) モデルです。この ATI モデルは、従来のルールベースのアカウント乗っ取りソリューションに比べて最大 4 倍多く ATI 不正を検出しながら、正当なユーザーへの負荷レベルも最小限に抑えるように設計されています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Single Sign-On (AWS SSO) が AWS Identity and Access Management (IAM) カスタマー管理ポリシー (CMP) のサポートを追加]]></title>
-        <id>ac2cb75c9574e9c83ce984078f6ae03ce2582495</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/"/>
-        <updated>2022-07-26T17:48:12.000Z</updated>
-        <summary type="html"><![CDATA[AWS Single Sign-On (AWS SSO) は AWS Identity and Access Management (IAM) カスタマー管理ポリシー (CMP) と AWS SSO アクセス許可セットのアクセス許可の境界ポリシーのサポートを開始しました。この新機能により、AWS SSO のユーザーは最小特権でアクセスするための大規模できめ細かいポリシーを作成し、適用されるアカウントのリソースを参照するようにポリシーを調整することで、セキュリティ体制を改善できます。CMP を使用すると、CMP の変更が CMP を使用するすべてのアクセス許可セットとロールに自動的に適用されるため、AWS SSO のユーザーはポリシーの一貫性を維持できます。これにより、ユーザーは CMP とアクセス許可の境界を一元的に管理でき、監査人はそれらの検索、監視、レビューができるようになります。AWS IAM で管理しているロールの CMP がすでにあるユーザーは、アクセス許可セットのインラインポリシーを新しく作成、レビュー、承認することなく、その CMP を再利用できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Glue ストリーミング ETL のオートスケーリングの一般提供開始]]></title>
-        <id>91692959393909b924b00996a42bdc2ceb7f0774</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-glue-streaming-etl-auto-scaling-available/"/>
-        <updated>2022-07-26T17:46:35.000Z</updated>
-        <summary type="html"><![CDATA[AWS Glue ストリーミング ETL のオートスケーリングが一般利用できるようになりました。AWS Glue ストリーミング ETL ジョブでは、入力ストリームに基づいてリソースを動的にスケールアップおよびスケールダウンできるようになりました。オートスケーリングでストリーミング ETL ジョブに必要となる適切なリソースを割り当てることにより、リソースの最適化に必要なコストと手作業を削減するのに役立ちます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
