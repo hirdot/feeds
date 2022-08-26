@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T03:52:15.629Z</updated>
+    <updated>2022-08-26T04:32:10.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5738,46 +5738,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/"/>
         <updated>2022-07-27T19:16:14.000Z</updated>
         <summary type="html"><![CDATA[AWS CodeBuild による Graviton2 を使用した Arm のサポートが南米 (サンパウロ) と欧州 (ストックホルム) で利用可能になりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジョブを対象範囲とする IAM ロールを使用した詳細なアクセス制御を導入し、EC2 クラスター上の Amazon EMR で Apache Spark と Apache Hive 向けに AWS Lake Formation を統合]]></title>
-        <id>70b3629fa65ec967a04e1a97481d872a5fd45e17</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/"/>
-        <updated>2022-07-27T16:18:33.000Z</updated>
-        <summary type="html"><![CDATA[EC2 クラスター (EMR クラスター) 上の Amazon EMR でアクセス制御を適用するのに役立つ 2 つの新機能がリリースされます。これらの機能は、EMR ステップ API を使用してクラスターに送信されるジョブでサポートされます。1 つ目は、EMR ステップを使用したランタイムロールです。ランタイムロールは、EMR ステップに関連付ける AWS Identity and Access Management (IAM) ロールです。EMR ステップはこのロールを使用して AWS のリソースにアクセスします。2 つ目は、AWS Lake Formation との統合です。EMR ステップを使用して、Apache Spark ジョブと Apache Hive ジョブにテーブルレベルおよび列レベルのアクセス制御を適用できるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Managed Service がアジアパシフィック (香港) リージョンおよび中東 (バーレーン) リージョンで利用可能に]]></title>
-        <id>b81c883d438e915c856b3c7577b0b2c8d2b4605b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/"/>
-        <updated>2022-07-27T16:17:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS Managed Service (AMS) Accelerate Operations Plan がアジアパシフィック (香港) リージョンおよび中東 (バーレーン) リージョンで利用可能になりました。AMS は、AWS の効率的かつ安全な運用に役立ちます。AMS はオペレーションの基準を引き上げ、俊敏性を制限することなく、リスクの軽減に役立つ積極的、予防的、および検出的な機能を提供し、イノベーションに集中できるようにします。AMS は、監視、インシデント検出および管理、セキュリティ、パッチ適用、バックアップ、コスト最適化などのオペレーション機能をチームに提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Transfer Family が、ユーザー認証で ED25519 および ECDSA キーをサポート]]></title>
-        <id>e8428ed2c3e8140925b3d03658481541f7d6bce3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-transfer-family-ed25519-ecdsa-keys-user-authentication/"/>
-        <updated>2022-07-27T16:16:55.000Z</updated>
-        <summary type="html"><![CDATA[AWS Transfer Family のお客様は、認証に ED25519 および ECDSA キーを使用して、AWS Transfer Family サーバーに接続できるようになりました。これまで Transfer Family では、認証で RSA キーのみをサポートしていました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Device Management Fleet Indexing が 2 つの追加データソースのサポートを開始]]></title>
-        <id>98e0a9d5ba0da99161bf04d40b3e290bee432716</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/"/>
-        <updated>2022-07-27T16:16:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Device Management Fleet Indexing が、2 つの追加データソースとの統合を提供するようになりました。シャドウという名前の AWS IoT Core と AWS IoT Device Defender が違反を検出します。お客様は、特定の名前のシャドウを選択し、検索クエリに必要なデータのみにインデックスを設定できます。また、検出した違反をインデックス化し、目標のデバイスでフリートメトリクスによりフリートレベルの異常傾向のトラブルシューティングや監視に使用することもできます。新たに追加された 2 つのデータソースは、IoT のお客様が、さまざまなサービスやシステムに IoT フリートデータを保存し、フリートモニタリング、ヘルスチェック、無線通信 (OTA) の更新、トラブルシューティングのためにデータに定期的にアクセスする場面で役立ちます。このリリースで、フリートインデックスでサポートされるデータソースが 3 つ (AWS IoT Core レジストリ、シャドウ、接続ライフサイクルイベント) から 5 つに増えました。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
