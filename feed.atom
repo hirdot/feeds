@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T10:01:14.441Z</updated>
+    <updated>2022-08-26T22:01:04.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bottlerocket 用の Center for Internet Security (CIS) ベンチマークが利用可能に]]></title>
+        <id>559b43ba250fad2ee97bf859110c2dbf8c81bcf1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/"/>
+        <updated>2022-08-26T21:01:20.000Z</updated>
+        <summary type="html"><![CDATA[コンテナのワークロードを実行するために構築された Linux ベースのオペレーティングシステムである Bottlerocket で、Center for Internet Security (CIS) ベンチマークが利用可能になりました。CIS ベンチマークは Bottlerocket ユーザーがシンプルで効率的な方法で設定したり、あらゆるコンプライアンス違反を記録したりするのに役立つセキュリティ重視の構成設定のカタログです。Bottlerocket 用の CIS ベンチマークには、レベル 1 とレベル 2 両方の設定プロファイルがあります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Chime SDK が WebRTC メディアキャプチャの動画合成マージ (連結) をサポート]]></title>
+        <id>110ed1b419f1e833d892d13c22ec37361e1e4604</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/"/>
+        <updated>2022-08-26T20:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Chime SDK は Amazon Chime SDK メディアキャプチャが作成したメディアチャンク (音声、コンテンツ、文字起こしなど) を連結することによって単一のファイルを簡単に作成できる連結機能のリリースを発表しました。Amazon Chime SDK によって、デベロッパーはリアルタイムの音声と動画をウェブアプリとモバイルアプリに加えられるので、複数の参加者による動画セッションを利用できます。連結機能によって、複数の参加者による動画セッション (音声、個別または合成動画、文字起こしなど) から単一のファイルを作成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cost Categories がサイクル外のコストカテゴリのサポートを開始]]></title>
+        <id>4cf0f60d176e4d147f2551af942f777896132ea3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-cost-categories-out-of-cycle-cost-categorization/"/>
+        <updated>2022-08-26T20:48:02.000Z</updated>
+        <summary type="html"><![CDATA[AWS Cost Categories では、AWS エンタープライズサポートや AWS Proserve の料金などのサイクル外のコストの分類のサポートを開始しました。これまですべてのサイクル外のコストは「デフォルト値」グループにまとめられていました。今回のサポート開始により、コストカテゴリのディメンションを使用してサイクル外のコストの把握と分類ができるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DynamoDB が Amazon S3 から DynamoDB テーブルへの一括インポートのサポートを開始]]></title>
+        <id>42eb881589b5f9ab9d37afcf162194aba22265c6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/"/>
+        <updated>2022-08-26T20:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DynamoDB で Amazon S3 からの一括データインポートのサポートが始まり、新しい DynamoDB テーブルへのデータの移行とロードが簡単になりました。新しいテーブルにデータを直接インポートして、他のシステムからのデータを移行したり、テストデータをロードして新しいアプリケーションの構築に役立てたり、テーブルとアカウント間のデータ共有を促進したり、ディザスタリカバリとビジネス継続の計画を簡素化したりできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS PrivateLink が Amazon CloudWatch Contributor Insights との統合を発表]]></title>
+        <id>9e17aef7385b3b38c7dbbdce0c534e0b97564905</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/"/>
+        <updated>2022-08-26T20:46:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS PrivateLink を使用する VPC エンドポイントサービスで CloudWatch Contributor Insights を有効にできるようになりました。AWS PrivateLink はフルマネージド型のプライベート接続サービスで、ネットワークトラフィックを非公開にしたまま、AWS のサービス、または AWS でホストされているサードパーティサービスや社内のエンタープライズサービスに、安全かつスケーラブルな方法でアクセスできるようになります。CloudWatch Contributor Insights は時系列データを分析し、データセットの上位のコントリビューターと一意のコントリビューターの数をレポートします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BPS開発チームの紹介～事業推進チーム～（2022年度）]]></title>
         <id>https://techracho.bpsinc.jp/piichan1031/2022_08_26/120831</id>
@@ -177,6 +227,16 @@
         <summary type="html"><![CDATA[今回の「明後日のコンピューティングを知ろう」では、技術革新により手頃に実現できるようになった水中調査の「いま」と「これから」を解説します。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finer-grained error pages and extended routes grepping]]></title>
+        <id>https://rubyonrails.org/2022/8/26/this-week-in-rails-finer-grained-error-pages-and-extended-routes-grepping-f54940ae</id>
+        <link href="https://rubyonrails.org/2022/8/26/this-week-in-rails-finer-grained-error-pages-and-extended-routes-grepping-f54940ae"/>
+        <updated>2022-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Petrik with more Rails updates.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
@@ -5653,117 +5713,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <summary type="html"><![CDATA[EC2 コンソールで「確認済みプロバイダー」ラベルを使用することで、Amazon による確認済みのアカウントが所有するパブリック Amazon マシンイメージ (AMI) を選択できるようになりました。以前は、お客様が AMI のソースを特定するには、一般公開された AMI の所有者 ID を確認する必要がありました。確認済みのソースの ID は、必ずしも簡単に入手できるとは限りませんでした。コンソールの新しいラベルを使用すると、一般公開されている AMI の信頼できるソースを簡単に特定できます。これらの信頼できるソースは、Amazon とそのパートナー、または AWS Marketplace の AMI プロバイダーです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby: strptimeでよく使うテンプレート]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_28/26916</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_28/26916"/>
-        <updated>2022-07-28T08:59:24.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2016/10/ruby_strptime_templates_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2016/10/07: 初版公開 2022/07/28: 更新 こんにちは、hachi8833です。昨日のstrftimeテンプレート記事に続き、strptimeのよく使うオプションをテンプレート用にまとめてみました。 注意: コード例はすべてRuby 3.1.2の場合です。 RailsであればActiveSupportを使うことが多いと思いますが、タイムゾーンの扱いに注意する必要があります。 strptime 参考: Ruby API Time.strptime (Ruby 3.1 リファレンスマニュアル) &#8212; 組み込みのTimeクラスではなく、拡張ライブラリです 参考: Ruby API [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_28/26916" data-wpel-link="internal" target="_self">Ruby: strptimeでよく使うテンプレート</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7: insert_allとupsert_allで属性のエイリアスを指定可能になる（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_07_28/119241</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_07_28/119241"/>
-        <updated>2022-07-28T08:30:06.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_allows_alias_attributes_insert_all_upsert_all_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails allows using aliased attributes with insert_all and upsert_all &#124; Saeloun Blog 原文公開日: 2022/06/07 原著者: Murtaza Bagwala サイト: Saeloun Blog 参考: 週刊Railsウォッチ20220516 insert_allやupsert_allでalias_attributesもサポート #45036は、現時点ではmainブランチにのみマージされています。 Rails 7: insert_allとupsert_allで属性のエ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_07_28/119241" data-wpel-link="internal" target="_self">Rails 7: insert_allとupsert_allで属性のエイリアスを指定可能になる（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経済産業省による「未来人材ビジョン」 2050年の産業分類別労働需要は３割増から５割減という大きなインパクトで変化]]></title>
-        <id>https://data.wingarc.com/?p=44210</id>
-        <link href="https://data.wingarc.com/mirai-jinzai-vison-44210?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mirai-jinzai-vison"/>
-        <updated>2022-07-28T05:00:55.000Z</updated>
-        <summary type="html"><![CDATA[デジタル化の加速度的な進展や、脱炭素化の世界的な潮流は、これまでの産業構造だけでなく、職種・産業における労働需要にも変革をもたらそうとしています。 このレポートでは、2030年、2050年の産業構造の転換を見据えて雇用・ […]]]></summary>
-        <author>
-            <name>石川麻里</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催]]></title>
-        <id>https://gihyo.jp/article/2022/07/devrel-tokyo2022</id>
-        <link href="https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed"/>
-        <updated>2022-07-28T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催]]></title>
-        <id>https://gihyo.jp/article/2022/07/devrel-tokyo2022</id>
-        <link href="https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed"/>
-        <updated>2022-07-28T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催]]></title>
-        <id>https://gihyo.jp/article/2022/07/devrel-tokyo2022</id>
-        <link href="https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed"/>
-        <updated>2022-07-28T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 13待ちで世間が静かなので小ネタをピックアップ]]></title>
-        <id>https://gihyo.jp/article/2022/07/android-weekly-topics-220728</id>
-        <link href="https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed"/>
-        <updated>2022-07-28T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 13待ちで世間が静かなので小ネタをピックアップ]]></title>
-        <id>https://gihyo.jp/article/2022/07/android-weekly-topics-220728</id>
-        <link href="https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed"/>
-        <updated>2022-07-28T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 13待ちで世間が静かなので小ネタをピックアップ]]></title>
-        <id>https://gihyo.jp/article/2022/07/android-weekly-topics-220728</id>
-        <link href="https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed"/>
-        <updated>2022-07-28T00:18:00.000Z</updated>
-        <summary type="html"><![CDATA[多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太古の地球における酸素の起源は？ 名大と理研が新説]]></title>
-        <id>https://www.technologyreview.jp/n/2022/07/27/281845/</id>
-        <link href="https://www.technologyreview.jp/n/2022/07/28/281845/"/>
-        <updated>2022-07-27T23:56:11.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[広島県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
-        <id>https://data.wingarc.com/?p=44813</id>
-        <link href="https://data.wingarc.com/local-dx-lab-hiroshima-44813?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-hiroshima"/>
-        <updated>2022-07-27T22:36:53.000Z</updated>
-        <summary type="html"><![CDATA[広島県は瀬戸内海沿岸部に向かって、中国山地と平行に高地から低地へ階段状の地形を形成している日本の中国地方に位置する地域です。 瀬戸内海工業地域を中心に自動車産業、製鉄、造船の重工業と広島都市圏、福山都市圏と県内に二つの大 […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
     <entry>

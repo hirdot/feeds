@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "559b43ba250fad2ee97bf859110c2dbf8c81bcf1",
+          "author": "aws@amazon.com",
+          "description": "コンテナのワークロードを実行するために構築された Linux ベースのオペレーティングシステムである Bottlerocket で、Center for Internet Security (CIS) ベンチマークが利用可能になりました。CIS ベンチマークは Bottlerocket ユーザーがシンプルで効率的な方法で設定したり、あらゆるコンプライアンス違反を記録したりするのに役立つセキュリティ重視の構成設定のカタログです。Bottlerocket 用の CIS ベンチマークには、レベル 1 とレベル 2 両方の設定プロファイルがあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/",
+          "publishedOn": "2022-08-26T21:01:20.000Z",
+          "wordCount": 334,
+          "title": "Bottlerocket 用の Center for Internet Security (CIS) ベンチマークが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "110ed1b419f1e833d892d13c22ec37361e1e4604",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK は Amazon Chime SDK メディアキャプチャが作成したメディアチャンク (音声、コンテンツ、文字起こしなど) を連結することによって単一のファイルを簡単に作成できる連結機能のリリースを発表しました。Amazon Chime SDK によって、デベロッパーはリアルタイムの音声と動画をウェブアプリとモバイルアプリに加えられるので、複数の参加者による動画セッションを利用できます。連結機能によって、複数の参加者による動画セッション (音声、個別または合成動画、文字起こしなど) から単一のファイルを作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/",
+          "publishedOn": "2022-08-26T20:48:51.000Z",
+          "wordCount": 343,
+          "title": "Amazon Chime SDK が WebRTC メディアキャプチャの動画合成マージ (連結) をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4cf0f60d176e4d147f2551af942f777896132ea3",
+          "author": "aws@amazon.com",
+          "description": "AWS Cost Categories では、AWS エンタープライズサポートや AWS Proserve の料金などのサイクル外のコストの分類のサポートを開始しました。これまですべてのサイクル外のコストは「デフォルト値」グループにまとめられていました。今回のサポート開始により、コストカテゴリのディメンションを使用してサイクル外のコストの把握と分類ができるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-cost-categories-out-of-cycle-cost-categorization/",
+          "publishedOn": "2022-08-26T20:48:02.000Z",
+          "wordCount": 303,
+          "title": "AWS Cost Categories がサイクル外のコストカテゴリのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "42eb881589b5f9ab9d37afcf162194aba22265c6",
+          "author": "aws@amazon.com",
+          "description": "Amazon DynamoDB で Amazon S3 からの一括データインポートのサポートが始まり、新しい DynamoDB テーブルへのデータの移行とロードが簡単になりました。新しいテーブルにデータを直接インポートして、他のシステムからのデータを移行したり、テストデータをロードして新しいアプリケーションの構築に役立てたり、テーブルとアカウント間のデータ共有を促進したり、ディザスタリカバリとビジネス継続の計画を簡素化したりできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/",
+          "publishedOn": "2022-08-26T20:47:11.000Z",
+          "wordCount": 336,
+          "title": "Amazon DynamoDB が Amazon S3 から DynamoDB テーブルへの一括インポートのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9e17aef7385b3b38c7dbbdce0c534e0b97564905",
+          "author": "aws@amazon.com",
+          "description": "AWS PrivateLink を使用する VPC エンドポイントサービスで CloudWatch Contributor Insights を有効にできるようになりました。AWS PrivateLink はフルマネージド型のプライベート接続サービスで、ネットワークトラフィックを非公開にしたまま、AWS のサービス、または AWS でホストされているサードパーティサービスや社内のエンタープライズサービスに、安全かつスケーラブルな方法でアクセスできるようになります。CloudWatch Contributor Insights は時系列データを分析し、データセットの上位のコントリビューターと一意のコントリビューターの数をレポートします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/",
+          "publishedOn": "2022-08-26T20:46:17.000Z",
+          "wordCount": 334,
+          "title": "AWS PrivateLink が Amazon CloudWatch Contributor Insights との統合を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "d763aa9d26b890609954936998a93d9bea94a9b2",
           "author": "aws@amazon.com",
           "description": "本日より、12 TB のメモリ (u-12tb1.112xlarge) を備えた Amazon EC2 High Memory インスタンスが米国東部 (オハイオ) リージョンで利用できるようになりました。さらに、6 TB のメモリを備えたハイメモリインスタンス (u-6tb1.56xlarge、u-6tb1.112xlarge) が南米 (サンパウロ) リージョンで利用できるようになり、3 TB のメモリを備えたインスタンス (u-3tb1.56xlarge) が南米 (サンパウロ) およびアジアパシフィック (シドニー) リージョンで利用できるようになりました。",
@@ -1948,26 +1998,6 @@
           "wordCount": 2736,
           "title": "未来に対する2つのアプローチ「フォアキャスト」と「バックキャスト」 違いや意味、実例を紹介",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/DTNJ_forebackcast.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=44210",
-          "author": "石川麻里",
-          "description": "デジタル化の加速度的な進展や、脱炭素化の世界的な潮流は、これまでの産業構造だけでなく、職種・産業における労働需要にも変革をもたらそうとしています。 このレポートでは、2030年、2050年の産業構造の転換を見据えて雇用・ […]",
-          "link": "https://data.wingarc.com/mirai-jinzai-vison-44210?utm_source=rss&utm_medium=rss&utm_campaign=mirai-jinzai-vison",
-          "publishedOn": "2022-07-28T05:00:55.000Z",
-          "wordCount": 3066,
-          "title": "経済産業省による「未来人材ビジョン」 2050年の産業分類別労働需要は３割増から５割減という大きなインパクトで変化",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/3fa3e5a2b55369db1e54096dce183972.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=44813",
-          "author": "石川麻里",
-          "description": "広島県は瀬戸内海沿岸部に向かって、中国山地と平行に高地から低地へ階段状の地形を形成している日本の中国地方に位置する地域です。 瀬戸内海工業地域を中心に自動車産業、製鉄、造船の重工業と広島都市圏、福山都市圏と県内に二つの大 […]",
-          "link": "https://data.wingarc.com/local-dx-lab-hiroshima-44813?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-hiroshima",
-          "publishedOn": "2022-07-27T22:36:53.000Z",
-          "wordCount": 3465,
-          "title": "広島県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/dxlab_hiroshima_top.jpg"
         }
       ]
     },
@@ -2583,26 +2613,6 @@
           "wordCount": null,
           "title": "第2回　イシクラ2進数について知る〜2進数とコンピュータの関係〜",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/devrel-tokyo2022",
-          "author": null,
-          "description": "開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。",
-          "link": "https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed",
-          "publishedOn": "2022-07-28T00:40:00.000Z",
-          "wordCount": null,
-          "title": "「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728",
-          "author": null,
-          "description": "多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。",
-          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed",
-          "publishedOn": "2022-07-28T00:18:00.000Z",
-          "wordCount": 215,
-          "title": "Android 13待ちで世間が静かなので小ネタをピックアップ",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3200,26 +3210,6 @@
           "wordCount": null,
           "title": "第2回　イシクラ2進数について知る〜2進数とコンピュータの関係〜",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/devrel-tokyo2022",
-          "author": null,
-          "description": "開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。",
-          "link": "https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed",
-          "publishedOn": "2022-07-28T00:40:00.000Z",
-          "wordCount": null,
-          "title": "「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728",
-          "author": null,
-          "description": "多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。",
-          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed",
-          "publishedOn": "2022-07-28T00:18:00.000Z",
-          "wordCount": 215,
-          "title": "Android 13待ちで世間が静かなので小ネタをピックアップ",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3817,26 +3807,6 @@
           "wordCount": 175,
           "title": "第2回　イシクラ2進数について知る〜2進数とコンピュータの関係〜",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/devrel-tokyo2022",
-          "author": null,
-          "description": "開発者向けのマーケティングコミュニティDevRel Meetup in Tokyoは8月5日（金），6日（土）に開発者イベント「DevRel/Japan CONFERENCE 2022」をオンラインとオフラインでハイブリッド開催する。",
-          "link": "https://gihyo.jp/article/2022/07/devrel-tokyo2022?utm_source=feed",
-          "publishedOn": "2022-07-28T00:40:00.000Z",
-          "wordCount": 173,
-          "title": "「DevRel/Japan CONFERENCE 2022」8/5，6にハイブリッド開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1917_devrelcon2022.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728",
-          "author": null,
-          "description": "多くの製品やサービスが、秋には登場するだろうAndroid 13を待っているのか、今週は大きな動きがないので、Androidにまつわる小ネタをピックアップしていきます。",
-          "link": "https://gihyo.jp/article/2022/07/android-weekly-topics-220728?utm_source=feed",
-          "publishedOn": "2022-07-28T00:18:00.000Z",
-          "wordCount": 215,
-          "title": "Android 13待ちで世間が静かなので小ネタをピックアップ",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3869,6 +3839,16 @@
       "feedUrl": "https://rubyonrails.org/feed.xml",
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
+        {
+          "id": "https://rubyonrails.org/2022/8/26/this-week-in-rails-finer-grained-error-pages-and-extended-routes-grepping-f54940ae",
+          "author": null,
+          "description": "Hi, this is Petrik with more Rails updates.",
+          "link": "https://rubyonrails.org/2022/8/26/this-week-in-rails-finer-grained-error-pages-and-extended-routes-grepping-f54940ae",
+          "publishedOn": "2022-08-26T00:00:00.000Z",
+          "wordCount": 321,
+          "title": "Finer-grained error pages and extended routes grepping",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
         {
           "id": "https://rubyonrails.org/2022/8/19/this-week-in-rails-logging-raising-and-rescuing-errors-and-a-fix-for-a-query-method-564753b7",
           "author": null,
@@ -4205,26 +4185,6 @@
           "wordCount": 505,
           "title": "Better Stimulusガイド 09: Turbolinks（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/better_stimulus09_turbolinks-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_28/26916",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2016/10/ruby_strptime_templates_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>更新情報 2016/10/07: 初版公開 2022/07/28: 更新 こんにちは、hachi8833です。昨日のstrftimeテンプレート記事に続き、strptimeのよく使うオプションをテンプレート用にまとめてみました。 注意: コード例はすべてRuby 3.1.2の場合です。 RailsであればActiveSupportを使うことが多いと思いますが、タイムゾーンの扱いに注意する必要があります。 strptime 参考: Ruby API Time.strptime (Ruby 3.1 リファレンスマニュアル) &#8212; 組み込みのTimeクラスではなく、拡張ライブラリです 参考: Ruby API [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_28/26916\" data-wpel-link=\"internal\" target=\"_self\">Ruby: strptimeでよく使うテンプレート</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_28/26916",
-          "publishedOn": "2022-07-28T08:59:24.000Z",
-          "wordCount": 603,
-          "title": "Ruby: strptimeでよく使うテンプレート",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2016/10/ruby_strptime_templates_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_07_28/119241",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_allows_alias_attributes_insert_all_upsert_all_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Rails allows using aliased attributes with insert_all and upsert_all &#124; Saeloun Blog 原文公開日: 2022/06/07 原著者: Murtaza Bagwala サイト: Saeloun Blog 参考: 週刊Railsウォッチ20220516 insert_allやupsert_allでalias_attributesもサポート #45036は、現時点ではmainブランチにのみマージされています。 Rails 7: insert_allとupsert_allで属性のエ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_07_28/119241\" data-wpel-link=\"internal\" target=\"_self\">Rails 7: insert_allとupsert_allで属性のエイリアスを指定可能になる（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_07_28/119241",
-          "publishedOn": "2022-07-28T08:30:06.000Z",
-          "wordCount": 585,
-          "title": "Rails 7: insert_allとupsert_allで属性のエイリアスを指定可能になる（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/06/rails7_allows_alias_attributes_insert_all_upsert_all_eyecatch-min.png"
         }
       ]
     },
@@ -5328,16 +5288,6 @@
           "publishedOn": "2022-07-28T20:51:29.000Z",
           "wordCount": 697,
           "title": "スマホアプリで不眠症改善、個人最適化したメッセージ送信",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/07/27/281845/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/07/28/281845/",
-          "publishedOn": "2022-07-27T23:56:11.000Z",
-          "wordCount": 690,
-          "title": "太古の地球における酸素の起源は？ 名大と理研が新説",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
