@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-27T01:29:15.574Z</updated>
+    <updated>2022-08-27T02:50:47.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5681,36 +5681,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-marketplace-reseller-contract/"/>
         <updated>2022-07-28T17:02:58.000Z</updated>
         <summary type="html"><![CDATA[AWS Marketplace は本日、独立系ソフトウェアベンダー (ISV) がリセラー契約を追加できるようになり、ISV の製品をチャネルパートナーが AWS Marketplace の購入者に再販することを許可する際に標準の AWS Marketplace リセラー契約 (RCMP) テンプレートを利用できるようになったことを発表しました。この機能リリースにより、2 者 (ISV とチャネルパートナー/コンサルティングパートナー) がそれぞれ業務を開始する際に、契約書の確認における作業の重複を削減することができます。ISV とチャネルパートナーは、コンサルティングパートナーのプライベートオファー (CPPO) 取引を定義する再販契約のセルフサービス機能により、再販業務の最適化を進めることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最大 2 倍高速のトランザクションコミットレイテンシーを備えた Amazon RDS Multi-AZ オプションがアジアパシフィック (シドニー) リージョンで利用可能に]]></title>
-        <id>076284c6813c85e3aab7ff8cd6467cf53d107f8e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/"/>
-        <updated>2022-07-28T14:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) マルチ AZ 配置オプション として、3 つのアベイラビリティゾーン (AZ) に 1 つのプライマリおよび 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを配置して、アジアパシフィック (シドニー) リージョンで利用可能になりました。この配置オプションにより、トランザクションのコミットレイテンシーを最大2倍高速化し、通常35秒以下でフェイルオーバーを自動化し、読み取り可能なスタンバイインスタンスを提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda は新しい IAM 条件キー lambda:SourceFunctionArn のサポートを発表]]></title>
-        <id>5aae487bcab31b58d650e8fe088856c923e36f13</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/"/>
-        <updated>2022-07-28T14:02:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda は、lambda:SourceFunctionArn のサポートを発表します。新しい IAM 条件キーは、リクエストの実行元となる関数の ARN を指定する IAM ポリシー条件に使用できます。本日より、関数が呼び出された際に、関数コードで実行されるすべての AWS API コールのリクエストコンテキストに対して、Lambda によって新しい lambda:SourceFunctionArn 条件キーが自動で追加されるようになります。IAM ポリシーの Condition 要素を使用して、リクエストコンテキストの lambda:SourceFunctionArn 条件キーを、ポリシーで指定する値と比較できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 コンソールでパブリック AMI に「確認済みプロバイダー」ラベルを追加]]></title>
-        <id>d84c148245ed09d2313093fd581e05c2b8bbc77b</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/"/>
-        <updated>2022-07-28T14:01:14.000Z</updated>
-        <summary type="html"><![CDATA[EC2 コンソールで「確認済みプロバイダー」ラベルを使用することで、Amazon による確認済みのアカウントが所有するパブリック Amazon マシンイメージ (AMI) を選択できるようになりました。以前は、お客様が AMI のソースを特定するには、一般公開された AMI の所有者 ID を確認する必要がありました。確認済みのソースの ID は、必ずしも簡単に入手できるとは限りませんでした。コンソールの新しいラベルを使用すると、一般公開されている AMI の信頼できるソースを簡単に特定できます。これらの信頼できるソースは、Amazon とそのパートナー、または AWS Marketplace の AMI プロバイダーです。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>

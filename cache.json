@@ -1594,36 +1594,6 @@
           "wordCount": 299,
           "title": "AWS Marketplace におけるリセラー契約についての発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "076284c6813c85e3aab7ff8cd6467cf53d107f8e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) マルチ AZ 配置オプション として、3 つのアベイラビリティゾーン (AZ) に 1 つのプライマリおよび 2 つの読み取り可能なスタンバイデータベース (DB) インスタンスを配置して、アジアパシフィック (シドニー) リージョンで利用可能になりました。この配置オプションにより、トランザクションのコミットレイテンシーを最大2倍高速化し、通常35秒以下でフェイルオーバーを自動化し、読み取り可能なスタンバイインスタンスを提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/",
-          "publishedOn": "2022-07-28T14:02:53.000Z",
-          "wordCount": 357,
-          "title": "最大 2 倍高速のトランザクションコミットレイテンシーを備えた Amazon RDS Multi-AZ オプションがアジアパシフィック (シドニー) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5aae487bcab31b58d650e8fe088856c923e36f13",
-          "author": "aws@amazon.com",
-          "description": "AWS Lambda は、lambda:SourceFunctionArn のサポートを発表します。新しい IAM 条件キーは、リクエストの実行元となる関数の ARN を指定する IAM ポリシー条件に使用できます。本日より、関数が呼び出された際に、関数コードで実行されるすべての AWS API コールのリクエストコンテキストに対して、Lambda によって新しい lambda:SourceFunctionArn 条件キーが自動で追加されるようになります。IAM ポリシーの Condition 要素を使用して、リクエストコンテキストの lambda:SourceFunctionArn 条件キーを、ポリシーで指定する値と比較できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/",
-          "publishedOn": "2022-07-28T14:02:04.000Z",
-          "wordCount": 323,
-          "title": "AWS Lambda は新しい IAM 条件キー lambda:SourceFunctionArn のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d84c148245ed09d2313093fd581e05c2b8bbc77b",
-          "author": "aws@amazon.com",
-          "description": "EC2 コンソールで「確認済みプロバイダー」ラベルを使用することで、Amazon による確認済みのアカウントが所有するパブリック Amazon マシンイメージ (AMI) を選択できるようになりました。以前は、お客様が AMI のソースを特定するには、一般公開された AMI の所有者 ID を確認する必要がありました。確認済みのソースの ID は、必ずしも簡単に入手できるとは限りませんでした。コンソールの新しいラベルを使用すると、一般公開されている AMI の信頼できるソースを簡単に特定できます。これらの信頼できるソースは、Amazon とそのパートナー、または AWS Marketplace の AMI プロバイダーです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/",
-          "publishedOn": "2022-07-28T14:01:14.000Z",
-          "wordCount": 324,
-          "title": "Amazon EC2 コンソールでパブリック AMI に「確認済みプロバイダー」ラベルを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
