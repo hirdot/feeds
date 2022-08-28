@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T10:01:19.821Z</updated>
+    <updated>2022-08-28T22:01:16.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScriptランタイム「Bun」が約9億円を調達、「Oven」社を設立。ホスティングやCIサービスなど計画]]></title>
+        <id>https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html</id>
+        <link href="https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html"/>
+        <updated>2022-08-28T15:17:19.000Z</updated>
+        <summary type="html"><![CDATA[7月に発表されるやいなや急速に注目を集めているJavaScriptランタイム「Bun」の開発者であるJarred Sumner氏が、Bunの開発とサービス提供などを目的とする企業「Oven」社の設立を発表しました。 Introducing ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSがSlack経由で有償サポートの提供を開始、チームのメンバーで問題への対応を共有できる「AWS Spport App」開始]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsslackaws_spport_app.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsslackaws_spport_app.html"/>
+        <updated>2022-08-28T15:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、ユーザーがSlackを通じてAWSのサポートケースを開始、サポートエージェントと対話し、その経過や結果をチームで共有できるSlackアプリケーション「AWS Support App」の提供...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bottlerocket 用の Center for Internet Security (CIS) ベンチマークが利用可能に]]></title>
         <id>559b43ba250fad2ee97bf859110c2dbf8c81bcf1</id>
@@ -5281,26 +5301,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <summary type="html"><![CDATA[米インテルは7月28日に発表した2022年第2四半期の決算報告「Intel Reports Second-Quarter 2022 Financial Results」において、「In Q2 2022, we initiated the w...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Backup が新たに Amazon RDS Multi-AZ クラスターに対応]]></title>
-        <id>f78df9efa760fb36d054fcb2ff3164ac2095904d</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/"/>
-        <updated>2022-07-29T22:47:04.000Z</updated>
-        <summary type="html"><![CDATA[AWS Backup を使用して、2 つの読み取り可能なスタンバイを備えた Amazon Relational Database Service (Amazon RDS) Multi-AZ クラスターを保護できるようになりました。3 つのアベイラビリティーゾーン (AZ) に 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ クラスターは、トランザクションコミットレイテンシーを最大半分に短縮し、フェイルオーバーを自動化し、読み取り可能なスタンバイインスタンスを利用できるように設計されています。今回の更新により、Amazon RDS Multi-AZ クラスターで、AWS Backup におけるすべてのデータ保護機能を利用できるようになりました。これには、自動ライフサイクル管理、個別のバックアップアクセスポリシー、AWS Backup Vault Lock によるイミュータブルなバックアップ、AWS Backup Audit Manager によるコンプライアンスモニタリングが含まれます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EventBridge の AWS CloudFormation イベント通知を活用した、イベント駆動型アプリケーションの作成が可能に]]></title>
-        <id>c73c2093b5608c29bef956372eab22a8c2cf506c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/"/>
-        <updated>2022-07-29T22:46:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS CloudFormation ベースのスタックとリソースに対する変更を、Amazon EventBridge のイベント通知として利用できるようになりました。これらのイベント通知を使用して、疎結合のイベント駆動型アプリケーションを構築およびスケールできます。この機能により、ワンタイムカスタムコードの記述や新しいソフトウェアの開発をしなくても、CloudFormation スタックまたは CloudFormation スタック内のリソースを作成、更新、削除した後に、アクションをリアルタイムでトリガーすることが可能です。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>

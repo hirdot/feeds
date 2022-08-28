@@ -1464,26 +1464,6 @@
           "wordCount": 296,
           "title": "Amazon Athena にクエリの分析および調整用の視覚的なツールを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f78df9efa760fb36d054fcb2ff3164ac2095904d",
-          "author": "aws@amazon.com",
-          "description": "AWS Backup を使用して、2 つの読み取り可能なスタンバイを備えた Amazon Relational Database Service (Amazon RDS) Multi-AZ クラスターを保護できるようになりました。3 つのアベイラビリティーゾーン (AZ) に 1 つのプライマリデータベース (DB) インスタンスと 2 つの読み取り可能なスタンバイデータベースインスタンスを備えた Amazon RDS Multi-AZ クラスターは、トランザクションコミットレイテンシーを最大半分に短縮し、フェイルオーバーを自動化し、読み取り可能なスタンバイインスタンスを利用できるように設計されています。今回の更新により、Amazon RDS Multi-AZ クラスターで、AWS Backup におけるすべてのデータ保護機能を利用できるようになりました。これには、自動ライフサイクル管理、個別のバックアップアクセスポリシー、AWS Backup Vault Lock によるイミュータブルなバックアップ、AWS Backup Audit Manager によるコンプライアンスモニタリングが含まれます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/",
-          "publishedOn": "2022-07-29T22:47:04.000Z",
-          "wordCount": 357,
-          "title": "AWS Backup が新たに Amazon RDS Multi-AZ クラスターに対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c73c2093b5608c29bef956372eab22a8c2cf506c",
-          "author": "aws@amazon.com",
-          "description": "AWS CloudFormation ベースのスタックとリソースに対する変更を、Amazon EventBridge のイベント通知として利用できるようになりました。これらのイベント通知を使用して、疎結合のイベント駆動型アプリケーションを構築およびスケールできます。この機能により、ワンタイムカスタムコードの記述や新しいソフトウェアの開発をしなくても、CloudFormation スタックまたは CloudFormation スタック内のリソースを作成、更新、削除した後に、アクションをリアルタイムでトリガーすることが可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/",
-          "publishedOn": "2022-07-29T22:46:16.000Z",
-          "wordCount": 338,
-          "title": "Amazon EventBridge の AWS CloudFormation イベント通知を活用した、イベント駆動型アプリケーションの作成が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3873,6 +3853,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html",
+          "author": null,
+          "description": "7月に発表されるやいなや急速に注目を集めているJavaScriptランタイム「Bun」の開発者であるJarred Sumner氏が、Bunの開発とサービス提供などを目的とする企業「Oven」社の設立を発表しました。 Introducing ...",
+          "link": "https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html",
+          "publishedOn": "2022-08-28T15:17:19.000Z",
+          "wordCount": 1390,
+          "title": "JavaScriptランタイム「Bun」が約9億円を調達、「Oven」社を設立。ホスティングやCIサービスなど計画",
+          "imageUrl": "https://www.publickey1.jp/2022/AZaMsdzf.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsslackaws_spport_app.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）は、ユーザーがSlackを通じてAWSのサポートケースを開始、サポートエージェントと対話し、その経過や結果をチームで共有できるSlackアプリケーション「AWS Support App」の提供...",
+          "link": "https://www.publickey1.jp/blog/22/awsslackaws_spport_app.html",
+          "publishedOn": "2022-08-28T15:11:13.000Z",
+          "wordCount": 1237,
+          "title": "AWSがSlack経由で有償サポートの提供を開始、チームのメンバーで問題への対応を共有できる「AWS Spport App」開始",
+          "imageUrl": "https://www.publickey1.jp/2022/awssupportapp.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/sql_server_2022azure_sqldrazure_synapseamazon_s3.html",
           "author": null,
