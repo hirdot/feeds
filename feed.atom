@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-28T02:52:36.365Z</updated>
+    <updated>2022-08-28T03:42:40.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5309,26 +5309,6 @@ Execution:Container/SuspiciousFile]]></summary>
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/available-ai-use-case-explorer/"/>
         <updated>2022-07-29T17:31:17.000Z</updated>
         <summary type="html"><![CDATA[AI ユースケースエクスプローラはビジネス成果中心のウェブ検索ツールで、ユーザーは適切な人工知能 (AI) のユースケースを簡単に見つけ、関連するユーザーの成功事例を知り、AI 導入に向けてチームを動かすことができます。ユーザーフレンドリーなツールで、ビジネスの問題の説明を入力として受け取り、関連する実用的なユースケースと成功事例を出力として提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fault Injection Simulator が Chaos Mesh と Litmus の実験のサポートを開始]]></title>
-        <id>2b514cc2ab07132f1e3a63f75034ad7c5172b523</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-fault-injection-simulator-supports-chaosmesh-litmus-experiments/"/>
-        <updated>2022-07-29T15:02:28.000Z</updated>
-        <summary type="html"><![CDATA[AWS Fault Injection Simulator (FIS) は、Amazon Elastic Kubernetes Service (EKS) で実行中のコンテナ化されたアプリケーションに対して、Chaos Mesh と Litmus の実験をサポートするようになりました。AWS FIS の新しい Kubernetes カスタムリソースアクションを使用すると、AWS FIS の実験から Chaos Mesh と Litmus のカオス実験を管理でき、複数のツール間でフォールト挿入ワークフローを調整できます。例えば、Chaos Mesh または Litmus の障害を使用してポッドの CPU で負荷テストを実行し、同時に、AWS FIS の障害アクションを使用してランダムに選択された割合のクラスターノードを終了できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS アカウントの主要連絡先の情報がプログラムで管理可能に]]></title>
-        <id>4073e55031905ea81b08190789ce3653fd61cde2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/programmatically-manage-primary-contact-information-aws-accounts/"/>
-        <updated>2022-07-29T15:01:14.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS コマンドラインインターフェイス (CLI) と AWS SDK を使用して、AWS アカウントの主要連絡先の情報を簡単に表示および更新できるようになりました。以前リリースした Accounts SDK では、お客様はアカウントの請求、運用、セキュリティに関する連絡先をプログラムで管理できるようになりました。本日より、同じ SDK を使用して追加で主要連絡先の情報も更新できるようになりました。これにより、マネジメントコンソールから更新する時間と労力を削減できます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
