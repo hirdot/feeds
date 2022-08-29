@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "702764a9e4de6883d8c997928166f2877e929d71",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK で、リアルタイムの動画をアプリケーションから Amazon Interactive Video Service (IVS) や AWS Elemental MediaLive などのストリーミングプラットフォームに送信するライブコネクタパイプラインの提供開始を発表しました。Amazon Chime SDK により、デベロッパーはリアルタイムの音声と動画をウェブアプリケーションとモバイルアプリケーションに追加して、複数の参加者による動画セッションを利用できます。ライブコネクタは、1 つの API を使用して、このようなセッションをライブストリーミングするプロセスを簡素化するのに役立ちます。お客様は、リアルタイムの動画を AWS Elemental MediaLive、Amazon IVS、Twitch、YouTube Live、Facebook Live などのストリーミングプラットフォームに送信できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/",
+          "publishedOn": "2022-08-29T18:47:59.000Z",
+          "wordCount": 362,
+          "title": "Amazon Chime SDK で Amazon IVS および Elemental MediaLive へのストリーミングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "cfce17175aae4d31062d885be72c47e0e11e501a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize から、ビデオオンデマンドドメイン向けに、急速に人気を集めているカタログアイテムをハイライトするための Trending-Now レコメンダーが発表されました。Amazon Personalize は、お客様がパーソナライズされたエクスペリエンスをユーザーに簡単に提供できるようにするフルマネージド型の機械学習サービスです。レコメンダーを使用すると、パーソナライズされたエクスペリエンスの提供と管理に必要な時間が短縮され、ユーザーに関連したレコメンデーションを提供できるようになります。ユーザーの関心事は、外部イベントや他のユーザーの関心事など、さまざまな要因によって変化することがあります。ユーザーエンゲージメントを改善するには、このような変化する関心事に合わせてレコメンデーションを調整することが重要です。Trending-Now を使用すると、新しく公開された映画や番組など、他のアイテムよりも急速に人気が上昇しているアイテムをカタログから表示できます。Amazon Personalize では、他のカタログアイテムよりも急速に人気が上昇しているアイテムが認識されてハイライトされるため、ユーザーにとって魅力的なエクスペリエンスを提供できます。また、ユーザーからの最新のインタラクションデータに基づいて、2 時間ごとにトレンドアイテムを自動的に識別できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-personalize-recommender-trending-now-video-on-demand-domain/",
+          "publishedOn": "2022-08-29T18:47:08.000Z",
+          "wordCount": 298,
+          "title": "Amazon Personalize がビデオオンデマンドドメイン向けの新しいレコメンダー「Trending-Now」を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "203acbfb3bd068c86afb902860305e996e44d3de",
+          "author": "aws@amazon.com",
+          "description": "AWS App Mesh がアジアパシフィック (大阪) およびアジアパシフィック (ジャカルタ) の AWS リージョンで利用可能になりました。AWS App Mesh は、アプリケーションレベルのネットワークを提供するサービスメッシュで、異なる種類のコンピューティングインフラストラクチャにわたるサービス間の通信を容易にします。AWS App Mesh はサービスが通信する方法を標準化するため、エンドツーエンドの可視性と、アプリケーションを高可用性のためにチューニングするオプションが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/",
+          "publishedOn": "2022-08-29T18:46:18.000Z",
+          "wordCount": 303,
+          "title": "AWS App Mesh がさらに 2 つの AWS リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "559b43ba250fad2ee97bf859110c2dbf8c81bcf1",
           "author": "aws@amazon.com",
           "description": "コンテナのワークロードを実行するために構築された Linux ベースのオペレーティングシステムである Bottlerocket で、Center for Internet Security (CIS) ベンチマークが利用可能になりました。CIS ベンチマークは Bottlerocket ユーザーがシンプルで効率的な方法で設定したり、あらゆるコンプライアンス違反を記録したりするのに役立つセキュリティ重視の構成設定のカタログです。Bottlerocket 用の CIS ベンチマークには、レベル 1 とレベル 2 両方の設定プロファイルがあります。",
@@ -3964,6 +3994,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/nextjsverceledge_functionswebassembly.html",
+          "author": null,
+          "description": "Next.jsの開発元であり、Webアプリケーションのホスティングサービスなどを提供するVercelは、CDNエッジでJavaScriptを実行できる「Vercel Edge Functions」でWebAssemblyのサポートを発表しま...",
+          "link": "https://www.publickey1.jp/blog/22/nextjsverceledge_functionswebassembly.html",
+          "publishedOn": "2022-08-29T15:18:14.000Z",
+          "wordCount": 1271,
+          "title": "Next.jsの開発元Vercel、Edge FunctionsでWebAssemblyのサポートを発表",
+          "imageUrl": "https://www.publickey1.jp/2022/lofmC0zS.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_cloudvm_threat_detection_1.html",
+          "author": null,
+          "description": "Google Cloudは、暗号資産を無断採掘されているインスタンスを自動的に検出してくれる「Virtual Machine Threat Detection」（以下VM Threat Detection）を正式な機能としてリリースしたこと...",
+          "link": "https://www.publickey1.jp/blog/22/google_cloudvm_threat_detection_1.html",
+          "publishedOn": "2022-08-29T15:16:26.000Z",
+          "wordCount": 1244,
+          "title": "Google Cloud、暗号資産を無断採掘されているインスタンスのプロセスを検出する「VM threat detection」正式リリース。ハイパーバイザレベルでメモリをスキャンし検出",
+          "imageUrl": "https://www.publickey1.jp/2022/Lw06cbXP.jpg"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html",
           "author": null,
           "description": "7月に発表されるやいなや急速に注目を集めているJavaScriptランタイム「Bun」の開発者であるJarred Sumner氏が、Bunの開発とサービス提供などを目的とする企業「Oven」社の設立を発表しました。 Introducing ...",
@@ -4450,6 +4500,46 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=283756",
+          "author": "Casey Crownhart",
+          "description": "電動航空機は、航空業界が排出する地球温暖化ガスを大幅に削減できる可能性を秘めている。だが、現在のバッテリー技術では航続距離はわずか50キロメートルほどが限界で、当面の実用化は難しそうだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/283756/this-is-whats-keeping-electric-planes-from-taking-off/",
+          "publishedOn": "2022-08-29T21:57:53.000Z",
+          "wordCount": 1197,
+          "title": "航続距離は自転車並み？ クリーンな「電動航空機」が まだまだ離陸できない理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/17190505/battery-jets2-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=284110",
+          "author": "Jessica Hamzelou",
+          "description": "年を取るとだれもが記憶力が低下することは避けられない。だが、脳の特定の部位に電気パルスを送ることで、高齢者の記憶力が向上することを示す研究成果がボストン大学の研究チームから発表された。",
+          "link": "https://www.technologyreview.jp/s/284110/brain-stimulation-can-improve-the-memory-of-older-people/",
+          "publishedOn": "2022-08-29T21:51:57.000Z",
+          "wordCount": 1323,
+          "title": "脳への「優しい刺激」で高齢者の記憶力が向上、1カ月持続か",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/23001504/GettyImages-565784993-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/29/284526/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/30/284526/",
+          "publishedOn": "2022-08-29T21:41:39.000Z",
+          "wordCount": 680,
+          "title": "シリコン量子ビットで量子誤り訂正機能を実現、理研が世界初",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/29/284534/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/08/30/284534/",
+          "publishedOn": "2022-08-29T21:34:39.000Z",
+          "wordCount": 684,
+          "title": "エンジン無しで軌道制御、名大が超小型衛星を10月に打ち上げ",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=284227",
           "author": "MIT Technology Review Audio Studio",
