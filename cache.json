@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "88245cec5a7bdaa3e5a0f9aafc18ecf8b23f5ad4",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon EC2 C6gd インスタンスが南米 (サンパウロ) リージョンで提供を開始しました。C6gd インスタンスは、ハイパフォーマンスコンピューティング (HPC)、バッチ処理、広告配信、動画エンコーディング、ゲーム、科学的モデリング、分散分析、CPU ベースの機械学習推論などのコンピューティング集約型ワークロードに最適です。これらのインスタンスで提供されるローカル SSD ストレージは、高速で低レイテンシーのストレージへのアクセスが必要なアプリケーション、バッチやログ処理などのデータの一時的なストレージ、および高速キャッシュとスクラッチファイルに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/",
+          "publishedOn": "2022-08-30T03:35:11.000Z",
+          "wordCount": 390,
+          "title": "AWS Graviton2 ベースの Amazon EC2 C6gd インスタンス、南米 (サンパウロ) リージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7420c708232e9456a51213d91dabcf70bcbe9902",
+          "author": "aws@amazon.com",
+          "description": "AWS Control Tower で、AWS Control Tower CloudTrail ログを保存する Amazon Simple Storage Service (Amazon S3) バケットの保持ポリシーをカスタマイズできるようになりました。AWS Control Tower は、ユーザー、ロール、AWS サービス等が行ったアクションを記録するときに AWS CloudTrail を使用します。これらのログは Amazon S3 バケットに保存されますが、このバケットはコアロギングアカウントに作成されます。Amazon S3 CloudTrail バケットには、ログを削除するまでの日数を指定する保持ポリシーがあります。ユーザーがログの保持ポリシーをカスタマイズしなかった場合、デフォルトの設定は、標準のアカウントログであれば 1 年、アクセスログであれば 10 年となります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/",
+          "publishedOn": "2022-08-30T03:34:22.000Z",
+          "wordCount": 348,
+          "title": "AWS Control Tower、ログ保持のカスタマイズが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d746be97a91d2048f542b5212ed0cb96a6d849af",
+          "author": "aws@amazon.com",
+          "description": "Amazon MemoryDB for Redis は、HIPAA (Health Insurance Portability and Accountability Act、医療保険の携行性と責任に関する法律) 適格のサービスとなりました。保護対象保健情報 (PHI) の保存、処理、アクセスに、MemoryDB をお使いいただけるようになり、ヘルスケアおよびライフサイエンス用アプリケーションの安全性を強化できるようになりました。MemoryDB は、低レイテンシー、高スループット、高耐久性をあらゆる規模で実現する、Redis との互換性をもつフルマネージドのインメモリデータベースです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/",
+          "publishedOn": "2022-08-30T03:33:16.000Z",
+          "wordCount": 307,
+          "title": "Amazon MemoryDB for Redis、HIPAA 適格に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2b6a9739f3751c534fd7c4383b208f6915b235b4",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Site-to-Site VPN で、VPN 接続ログを CloudWatch にパブリッシュできるようになりました。これにより VPN セットアップの可視性が高まり、VPN 接続の問題にすばやく対応し、解決することが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/",
+          "publishedOn": "2022-08-30T03:31:56.000Z",
+          "wordCount": 322,
+          "title": "AWS Site-to-Site VPN 接続ログが、Amazon CloudWatch を使って取得できるように",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "72b12a089eee32ea1cc6eae4b7a69f3fe9060c51",
+          "author": "aws@amazon.com",
+          "description": "Amazon Chime SDK が、C++ によるオープンソースのシグナリングクライアント実装の接続に対応しました。Amazon Chime SDK を使用すれば、デベロッパーは、インテリジェントなリアルタイムの音声、映像、画面共有を、ウェブおよびモバイルアプリケーションに追加できます。WebRTC はビデオ会議アプリケーション用の共通ライブラリです。Amazon Chime SDK は、WebRTC ベースのメディアクライアントを JavaScript、iOS、Android で提供します。ただしお客様の中には、ご自身のカスタムの WebRTC ライブラリを使って、サーバーサイドを Amazon Chime SDK に接続したいと考える方もいます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/",
+          "publishedOn": "2022-08-30T03:31:06.000Z",
+          "wordCount": 341,
+          "title": "Amazon Chime SDK、C++ のシグナリングクライアントをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "702764a9e4de6883d8c997928166f2877e929d71",
           "author": "aws@amazon.com",
           "description": "Amazon Chime SDK で、リアルタイムの動画をアプリケーションから Amazon Interactive Video Service (IVS) や AWS Elemental MediaLive などのストリーミングプラットフォームに送信するライブコネクタパイプラインの提供開始を発表しました。Amazon Chime SDK により、デベロッパーはリアルタイムの音声と動画をウェブアプリケーションとモバイルアプリケーションに追加して、複数の参加者による動画セッションを利用できます。ライブコネクタは、1 つの API を使用して、このようなセッションをライブストリーミングするプロセスを簡素化するのに役立ちます。お客様は、リアルタイムの動画を AWS Elemental MediaLive、Amazon IVS、Twitch、YouTube Live、Facebook Live などのストリーミングプラットフォームに送信できます。",
@@ -4402,16 +4452,6 @@
           "wordCount": 1243,
           "title": "AWS、セキュリティ問題を分析する「Amazon Detective」がAmazon EKSのKubernetesワークロードに対応",
           "imageUrl": "https://www.publickey1.jp/2022/reinforce202201.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/metafacebookrustpythonchack.html",
-          "author": null,
-          "description": "Meta（旧Facebook）は、ブログ「Engineering at Meta」で公開した記事「Programming languages endorsed for server-side use at Meta」で、Rustを新たに社内...",
-          "link": "https://www.publickey1.jp/blog/22/metafacebookrustpythonchack.html",
-          "publishedOn": "2022-07-31T15:56:56.000Z",
-          "wordCount": 1250,
-          "title": "Meta（旧Facebook）が、Rustを社内の正式サポート言語に採用。サーバサイド向けとしてPython、C++、Hackに追加",
-          "imageUrl": "https://www.publickey1.jp/2022/fb_rust_spt.png"
         }
       ]
     },
