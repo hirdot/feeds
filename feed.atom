@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T08:01:17.420Z</updated>
+    <updated>2022-08-30T09:01:11.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -34,6 +34,39 @@
         <summary type="html"><![CDATA[本連載では、筆者（tenntenn）と周囲のGoエンジニアで、Goに関わる今アツい話を取り上げていきます。最新のGoの機能やこれからリリースされるGoの機能はもちろん、実際の開発現場で用いられているノウハウや自作ライブラリやツールについてご紹介します。第1回目はtenntennがこれまでとこれからのGoについて取り上げます。]]></summary>
         <author>
             <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SwiftUIの勉強にTechRacho Feed Readerを作ってみた]]></title>
+        <id>https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927</id>
+        <link href="https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927"/>
+        <updated>2022-08-30T08:30:34.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/swiftui_techracho_feed_reader_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに WWDC2019で発表以来すでに4年目となりますが、みなさんはSwiftUIを弄ってみたり導入してみたりした経験はありますでしょうか? 私は発表以来様子見をしておりました。というのも発表当初は、当時の最新OSであるiOS13でしか使うことができず、サポートバージョンの範囲の狭さから、数年はプロジェクトで導入は難しいだろうなと決め込んでいました。また、2年ほど前から社内でクロスプラットフォーム開発の波がきており、Flutterでの開発が盛んになる一方、Swiftを使ってネイティブで開発することがあまりなくなってしまいました。結果的にSwiftUIを触るモチベーションがあまり湧きませんでした。 しかし、既に [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927" data-wpel-link="internal" target="_self">SwiftUIの勉強にTechRacho Feed Readerを作ってみた</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby: map(&#038;:upcase) の &#038;:upcase って何]]></title>
+        <id>https://techracho.bpsinc.jp/kazz/2022_08_30/121187</id>
+        <link href="https://techracho.bpsinc.jp/kazz/2022_08_30/121187"/>
+        <updated>2022-08-30T08:30:31.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_explaining_to_proc_symbol_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは。kazzです。 以下のような実装を見かけたり、実際に使っているという方が多いのではないでしょうか。 %w[a b c].map(&#38;:upcase) #=&#62; ['A', 'B', 'C'] 本日は、この実装がなぜ動くのかの秘密に迫りたいと思います。 メソッドにブロックを渡す ブロック引数 rubyの任意のメソッドはブロックを受け取ることができ、yield でメソッドに与えられたブロックを実行します。 def double yield * 2 end # do-end をブロック引数に指定する double do 1 + 2 + 3 + 4 + 5 + 6 end # =&#62; 42 #  [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/kazz/2022_08_30/121187" data-wpel-link="internal" target="_self">Ruby: map(&:upcase) の &:upcase って何</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【デザイン実績紹介】「超教科書」パンフレット 2022年版を制作しました]]></title>
+        <id>https://techracho.bpsinc.jp/sugimura/2022_08_30/120881</id>
+        <link href="https://techracho.bpsinc.jp/sugimura/2022_08_30/120881"/>
+        <updated>2022-08-30T08:30:04.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/edix2022_pamphlet-key-768x461.jpg" width="768" height="461" title="" alt="" /></div><div><p>弊社が開発したデジタル教科書ビューア「超教科書」の製品紹介パンフレットを制作いたしました。 2019年度に制作した「超教科書」パンフレットの2022年度更新版になります。 2019年度版はこちら デザインのポイント 新パンフレットではデザインを一新しました。 前回のデザイン制作時はまだ超教科書サービスが本格的な開始をする前だったため、サービスサイトやサービスのイメージカラーといったものが具体的にはありませんでした。 2021年度より「超教科書クラウド」サイトがサービスを開始したため、新パンフレットではそのサイトのブルーをテーマカラーに、明るい色みやイラストをアクセントとして取り入れています。 小中学校がメインのタ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/sugimura/2022_08_30/120881" data-wpel-link="internal" target="_self">【デザイン実績紹介】「超教科書」パンフレット 2022年版を制作しました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
         </author>
     </entry>
     <entry>
