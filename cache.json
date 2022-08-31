@@ -6,6 +6,66 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "5d98311dd944a2d82f6370e28a3c73c5fd98c542",
+          "author": "aws@amazon.com",
+          "description": "Amazon Location Service がサービスに固有の条件キーのサポートを開始し、デベロッパーは個別の追跡デバイスとジオフェンスのアクセス制御ルールを設定できるようになりました。これにより、セキュリティが一層強化され、不正なアクセスと意図しないアクセスを防いでデバイスとジオフェンスを管理します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/",
+          "publishedOn": "2022-08-31T20:31:16.000Z",
+          "wordCount": 328,
+          "title": "Amazon Location Service でジオフェンスと追跡デバイスのより精緻なアクセス制御のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ec877f0c8996bddc723c91573bc45ee36d089930",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker 自動モデルチューニングでは、モデルをチューニングするために起動する各トレーニングジョブのスタートアップ時間を平均で 20 分の 1 (2.5 分から 8 秒) に短縮できるようになりました。多くのハイパーパラメータの評価を行うシナリオでは、トレーニングインスタンスを再利用すると、50 個のシーケンシャルの評価ごとに累積で 2 時間節約できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/",
+          "publishedOn": "2022-08-31T20:17:04.000Z",
+          "wordCount": 320,
+          "title": "Amazon SageMaker 自動モデルチューニングが SageMaker Training インスタンスの再利用によりスタートアップのオーバーヘッドを 20 分の 1 に削減",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "393a76423851b29e0f39d42b7f640e1aa6fe81e3",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Relational Database Service (Amazon RDS) for Oracle では、別々の AWS リージョンまたは特定のリージョンの別々のアベイラビリティゾーンでデプロイされた、Oracle Data Guard Switchover および (読み取り専用でマウントされた) リードレプリカインスタンス用の自動バックアップがサポートされるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/",
+          "publishedOn": "2022-08-31T20:16:15.000Z",
+          "wordCount": 357,
+          "title": "Amazon RDS for Oracle がマネージド型 Oracle Data Guard Switchover およびリードレプリカの自動バックアップのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "57ed721f5b0e896b76eb4b91eccf7e9a50bdb4a9",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect で、Amazon Connect インスタンスのセキュリティプロファイルを検索できる新しい API が利用できるようになりました。この新しい API では、プログラムを使用して名前、説明、権限、タグでセキュリティプロファイルを自由自在に検索できます。例えば、この API を使用すると、問い合わせフローの編集権限を持つすべてのセキュリティプロファイルを検索できます。この新しい API の詳細については、API ドキュメントを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-connect-launches-api-search-security-profiles-permission-description-tags/",
+          "publishedOn": "2022-08-31T13:32:04.000Z",
+          "wordCount": 304,
+          "title": "Amazon Connect が権限、説明、タグでセキュリティプロファイルを検索できる API をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2b1fc0b4eb00e0dfe11a7f35f3106ba6f9743262",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Relational Database Service (Amazon RDS) および Amazon Aurora データベースから Amazon Elastic Compute Cloud (Amazon EC2) コンピューティングインスタンスへの接続を、データベースの作成中に自動でセットアップできるようになりました。Amazon RDS コンソールでデータベースをプロビジョニングする際に EC2 インスタンスを選択できるようになり、AWS 推奨のベストプラクティスに従っているデータベースと EC2 インスタンス間の接続をワンクリックで確立できるようになりました。Amazon RDS では、データベースの作成中に VPC および関連するネットワーク設定が自動でセットアップされ、EC2 インスタンスと RDS データベース間の安全な接続を実現します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-setting-up-connectivity-rds-database-ec2-compute-instance-1-click/",
+          "publishedOn": "2022-08-31T13:31:15.000Z",
+          "wordCount": 323,
+          "title": "Amazon RDS が RDS データベースと EC2 コンピューティングインスタンス間のワンクリック接続セットアップをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "464e3dbb0d3786cdc740752e15fd3b6a7ca94e13",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能になりました。Amazon SageMaker は、すべてのデベロッパーやデータサイエンティストが機械学習 (ML) モデルを迅速に構築、トレーニング、デプロイできるようにするフルマネージドサービスです。SageMaker は高品質モデルの開発を容易にするため、機械学習の各プロセスから負荷の大きな部分を取り除きます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-available-aws-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-08-31T13:16:17.000Z",
+          "wordCount": 294,
+          "title": "Amazon SageMaker が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6cb3c8f5b5433e3a524d484fda7337623d4beee0",
           "author": "aws@amazon.com",
           "description": "Smithy インターフェイス定義言語 (IDL) 2.0、一般提供を開始。Smithy は、何万もの API を構築し SDK を生成してきた経験に基づく Amazon の次世代 API モデリング言語です。IDL 2.0 を使用することで、デベロッパーはこれまでよりも簡単に、より直感的な方法で、Smithy モデルを作成し、Smithy モデルからコードを生成することができます。",
@@ -2423,36 +2483,6 @@
           "wordCount": 152,
           "title": "10月開催 Unity大規模カンファレンス「SYNC 2022」参加受付開始、サテライト会場の公募も開始",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1920_sync2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220802",
-          "author": null,
-          "description": "Linus Torvaldsは7月31日（米国時間）、「Linux 5.19」の正式リリースを明らかにした。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220802?utm_source=feed",
-          "publishedOn": "2022-08-02T04:40:00.000Z",
-          "wordCount": null,
-          "title": "Linux 5.19が公開、LinusはMacBook Airでリリース作業",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/morisawa-fonts2208",
-          "author": null,
-          "description": "（株）モリサワは、クラウド型の新たなフォントサービス「Morisawa Fonts」を2022年10月4日（火）にリリースすることを発表した。",
-          "link": "https://gihyo.jp/article/2022/08/morisawa-fonts2208?utm_source=feed",
-          "publishedOn": "2022-08-02T04:26:00.000Z",
-          "wordCount": null,
-          "title": "モリサワ、「MORISAWA PASSPORT」の後継となる新フォントサービス「Morisawa Fonts」を10/4リリース、リリースキャンペーンも実施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042",
-          "author": null,
-          "description": "最近のbashは変数展開や置換機能がずいぶん充実していて、かつてはsedやtr,awkを使って書いていた処理が、ほぼbashの機能だけで書けるようになりました。今回は、そのようなbashの便利な機能をいくつか紹介してみようと思います。",
-          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042?utm_source=feed",
-          "publishedOn": "2022-08-02T00:38:00.000Z",
-          "wordCount": null,
-          "title": "第42回　bashの便利な機能",
-          "imageUrl": null
         }
       ]
     },
@@ -3069,36 +3099,6 @@
           "publishedOn": "2022-08-03T00:30:00.000Z",
           "wordCount": null,
           "title": "10月開催 Unity大規模カンファレンス「SYNC 2022」参加受付開始、サテライト会場の公募も開始",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220802",
-          "author": null,
-          "description": "Linus Torvaldsは7月31日（米国時間）、「Linux 5.19」の正式リリースを明らかにした。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220802?utm_source=feed",
-          "publishedOn": "2022-08-02T04:40:00.000Z",
-          "wordCount": null,
-          "title": "Linux 5.19が公開、LinusはMacBook Airでリリース作業",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/morisawa-fonts2208",
-          "author": null,
-          "description": "（株）モリサワは、クラウド型の新たなフォントサービス「Morisawa Fonts」を2022年10月4日（火）にリリースすることを発表した。",
-          "link": "https://gihyo.jp/article/2022/08/morisawa-fonts2208?utm_source=feed",
-          "publishedOn": "2022-08-02T04:26:00.000Z",
-          "wordCount": 149,
-          "title": "モリサワ、「MORISAWA PASSPORT」の後継となる新フォントサービス「Morisawa Fonts」を10/4リリース、リリースキャンペーンも実施",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1919_morisawa-fonts.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042",
-          "author": null,
-          "description": "最近のbashは変数展開や置換機能がずいぶん充実していて、かつてはsedやtr,awkを使って書いていた処理が、ほぼbashの機能だけで書けるようになりました。今回は、そのようなbashの便利な機能をいくつか紹介してみようと思います。",
-          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042?utm_source=feed",
-          "publishedOn": "2022-08-02T00:38:00.000Z",
-          "wordCount": null,
-          "title": "第42回　bashの便利な機能",
           "imageUrl": null
         }
       ]
@@ -3717,36 +3717,6 @@
           "wordCount": 152,
           "title": "10月開催 Unity大規模カンファレンス「SYNC 2022」参加受付開始、サテライト会場の公募も開始",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1920_sync2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220802",
-          "author": null,
-          "description": "Linus Torvaldsは7月31日（米国時間）、「Linux 5.19」の正式リリースを明らかにした。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220802?utm_source=feed",
-          "publishedOn": "2022-08-02T04:40:00.000Z",
-          "wordCount": 183,
-          "title": "Linux 5.19が公開、LinusはMacBook Airでリリース作業",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/morisawa-fonts2208",
-          "author": null,
-          "description": "（株）モリサワは、クラウド型の新たなフォントサービス「Morisawa Fonts」を2022年10月4日（火）にリリースすることを発表した。",
-          "link": "https://gihyo.jp/article/2022/08/morisawa-fonts2208?utm_source=feed",
-          "publishedOn": "2022-08-02T04:26:00.000Z",
-          "wordCount": 149,
-          "title": "モリサワ、「MORISAWA PASSPORT」の後継となる新フォントサービス「Morisawa Fonts」を10/4リリース、リリースキャンペーンも実施",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1919_morisawa-fonts.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042",
-          "author": null,
-          "description": "最近のbashは変数展開や置換機能がずいぶん充実していて、かつてはsedやtr,awkを使って書いていた処理が、ほぼbashの機能だけで書けるようになりました。今回は、そのようなbashの便利な機能をいくつか紹介してみようと思います。",
-          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0042?utm_source=feed",
-          "publishedOn": "2022-08-02T00:38:00.000Z",
-          "wordCount": 417,
-          "title": "第42回　bashの便利な機能",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
         }
       ]
     },
@@ -4156,26 +4126,6 @@
           "wordCount": 1074,
           "title": "週刊Railsウォッチ: RubyのGVLトレーサーgvl-tracing、casting gemでオブジェクトに振る舞いを追加ほか（20220802後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/railswatch_20220802_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2019/10/rails_request_lifecycles_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: The Lifecycle of a Rails Request 原文公開日: 2019/05/02 著者: Godfrey Chan サイト: Skylight 日本語タイトルは内容に即したものにしました。画像は元記事の引用です。 2019/10/03: 初版公開 2022/08/02: 更新 参考 以下のサイトで、Railsのリクエストの全ライフサイクルをビジュアル表示で追うことができます。本記事と合わせて参照することで理解が進むと思います。 サイト: Rails Trace rails-trace.chriszetter.comより Rails:  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493\" data-wpel-link=\"internal\" target=\"_self\">Rails: リクエストのライフサイクルとRackを理解する（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/77493",
-          "publishedOn": "2022-08-02T08:30:15.000Z",
-          "wordCount": 1278,
-          "title": "Rails: リクエストのライフサイクルとRackを理解する（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2019/10/rails_request_lifecycles_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/120087",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/macbook_pro_m1_14inch_2021_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Macbook Pro 2021 14インチに移行しました 参考: 14インチMacBook Proを購入 &#8211; Apple（日本） 買い替えの主なモチベは、昨今のエネルギー事情です。 本当はメモリ32GBにしたかったけど16GBにしました😢。でもSSDは以前の倍の512GBになったので、よしとしておくことにします。既にあちこちで言われていますが、以前のMacbookよりも厚みと重さはちょい増しです。 これまで所有していた旧Intel版Macbook Pro 2019のLCDは15インチにしていましたが、今回のM1 Macbook Pro 2021は13インチか14インチか16インチという謎のバリエーシ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_02/120087\" data-wpel-link=\"internal\" target=\"_self\">M1 Macbook Proの値上げ前に購入間に合いました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_02/120087",
-          "publishedOn": "2022-08-02T08:30:11.000Z",
-          "wordCount": 813,
-          "title": "M1 Macbook Proの値上げ前に購入間に合いました",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/macbook_pro_m1_14inch_2021_eyecatch-min.png"
         }
       ]
     },
@@ -4184,6 +4134,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html",
+          "author": null,
+          "description": "Linuxの主要なディストリビューションの1つであるUbuntuを開発するCanonicalは、AWSが主導するオープンソースの検索エンジン「OpenSearch」のプロジェクトへの参加を表明しました。  Great open source...",
+          "link": "https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html",
+          "publishedOn": "2022-08-31T15:40:42.000Z",
+          "wordCount": 1283,
+          "title": "AWSが主導するElasticsearchのフォーク「OpenSearch」にCanonicalが参加へ",
+          "imageUrl": "https://www.publickey1.jp/2022/FbF51zPUUAAX_53.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/vmwarevsphere_8vsan_8smartnicssd.html",
           "author": null,
@@ -4661,6 +4621,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=283636",
+          "author": "Patrick Howell O'Neill",
+          "description": "サイバーセキュリティ企業のレコーデッド・フューチャーの調査によって、中国政府が委託しているとみられる民間のハッキング集団によるサイバー・スパイ活動の一旦が明らかになった。",
+          "link": "https://www.technologyreview.jp/s/283636/hackers-linked-to-china-have-been-targeting-human-rights-groups-for-years/",
+          "publishedOn": "2022-08-31T21:59:26.000Z",
+          "wordCount": 1370,
+          "title": "中国政府、民間ハッカー集団にスパイ活動を低予算で委託か",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/16211503/RA-crosshair2-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=283743",
+          "author": "Madeline Ostrander",
+          "description": "気候変動による脅威に立ち向かう方法は、温室効果ガスの排出削減のような「緩和」だけではない。「適応」も重要だ。緩和と適応の分野は長らく分断されてきたが、今ではその両方が必要であることが認識されつつある。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/283743/why-we-can-no-longer-afford-to-ignore-the-case-for-climate-adaptation/",
+          "publishedOn": "2022-08-31T21:17:34.000Z",
+          "wordCount": 1219,
+          "title": "脱炭素だけではない、 気候変動対策に 「適応」も必要な理由",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/17183524/GettyImages-1337537281-top-1271x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/08/27/284415/",
           "author": "MIT Technology Review Japan",
@@ -5220,16 +5200,6 @@
           "wordCount": 1236,
           "title": "GPT-3に強力ライバル、 1000人が作ったLLMは AI界の流れを変えるか？",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/12181504/Flower_2a-1400x787.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=282221",
-          "author": "MIT Technology Review Audio Studio",
-          "description": "今週のオーディオ・ムック（β）では、今回のパンデミックを機に生まれたイノベーションとして、変異株追跡と新型コロナ経口薬の誕生の舞台裏を紹介する。",
-          "link": "https://www.technologyreview.jp/s/282221/audiomook-sprouts-of-innovation-left-behind-by-the-pandemic/",
-          "publishedOn": "2022-08-02T03:01:58.000Z",
-          "wordCount": 1578,
-          "title": "聴くMITTR：パンデミックが残したイノベーションの萌芽",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/11125910/AudioMook2-1.png"
         }
       ]
     }
