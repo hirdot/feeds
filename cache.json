@@ -1424,26 +1424,6 @@
           "wordCount": 298,
           "title": "Amazon Polly で、ヒンディー語とインド英語でのニューラルテキスト読み上げのサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "54ebc74d51408f0fe2cb6d8bd85c2cb71b2bd94f",
-          "author": "aws@amazon.com",
-          "description": "AWS AppSync は GraphQL および Pub/Sub API の作成と管理を簡単にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL を使って、開発者は Amazon DynamoDB、AWS Lambda、HTTP API などのバックエンドのデータソースからデータを取得するリゾルバーを記述できます。実行時に GraphQL クエリを「リゾルブ」するために AppSync はクエリのコンテキスト情報 (context など) でリゾルバーコードを評価します。AppSync リゾルバーは Velocity Template Language (VTL) で記述されていて、開発者がデータのパース ($util.parseJson など)、変換 ($util.toJson など)、生成 ($util.autoId、$util.autoUlid など)、ログ取得 ($util.log など) を行えるようにする柔軟な統合ユーティリティに対応しています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/",
-          "publishedOn": "2022-08-02T18:47:06.000Z",
-          "wordCount": 344,
-          "title": "AWS AppSync が GraphQL リゾルバーをテストする新しい API コマンドをリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e3c529ff2afbb8ebdeb448ab7af631dad676576c",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkSpaces は WorkSpace インスタンスから WorkSpace イメージを作成する API の提供を始めました。これまでこの機能は Amazon WorkSpaces コンソールのみから利用できました。今回のリリースによって、WorkSpace ですべてのアプリケーションとオペレーションシステムの更新を適用し、この API を使用して新しいイメージを作成できるようになります。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。今回のリリースで WorkSpace の CI/CD パイプラインを完全に自動化し、WorkSpace イメージを規則基準に応じて常に更新できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/",
-          "publishedOn": "2022-08-02T18:46:17.000Z",
-          "wordCount": 313,
-          "title": "WorkSpace イメージを作成する Amazon WorkSpaces API をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },

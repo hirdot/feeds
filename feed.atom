@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-01T06:07:10.933Z</updated>
+    <updated>2022-09-01T07:03:46.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5724,26 +5724,6 @@
 購読キャンペーン実施中]]></summary>
         <author>
             <name>Melissa Heikkilä</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS AppSync が GraphQL リゾルバーをテストする新しい API コマンドをリリース]]></title>
-        <id>54ebc74d51408f0fe2cb6d8bd85c2cb71b2bd94f</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/"/>
-        <updated>2022-08-02T18:47:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS AppSync は GraphQL および Pub/Sub API の作成と管理を簡単にするフルマネージドサービスです。これにより、デベロッパーは単一の API エンドポイントを介して 1 つ以上のデータソースからのデータに安全にアクセスしたり、そのようなデータを操作および結合したりすることが可能になります。GraphQL を使って、開発者は Amazon DynamoDB、AWS Lambda、HTTP API などのバックエンドのデータソースからデータを取得するリゾルバーを記述できます。実行時に GraphQL クエリを「リゾルブ」するために AppSync はクエリのコンテキスト情報 (context など) でリゾルバーコードを評価します。AppSync リゾルバーは Velocity Template Language (VTL) で記述されていて、開発者がデータのパース ($util.parseJson など)、変換 ($util.toJson など)、生成 ($util.autoId、$util.autoUlid など)、ログ取得 ($util.log など) を行えるようにする柔軟な統合ユーティリティに対応しています。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WorkSpace イメージを作成する Amazon WorkSpaces API をリリース]]></title>
-        <id>e3c529ff2afbb8ebdeb448ab7af631dad676576c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/"/>
-        <updated>2022-08-02T18:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon WorkSpaces は WorkSpace インスタンスから WorkSpace イメージを作成する API の提供を始めました。これまでこの機能は Amazon WorkSpaces コンソールのみから利用できました。今回のリリースによって、WorkSpace ですべてのアプリケーションとオペレーションシステムの更新を適用し、この API を使用して新しいイメージを作成できるようになります。新しいイメージが作成されたら、本番バンドルを更新したり、他の AWS アカウントとイメージを共有したりする前にテストできます。今回のリリースで WorkSpace の CI/CD パイプラインを完全に自動化し、WorkSpace イメージを規則基準に応じて常に更新できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
