@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-01T01:28:55.550Z</updated>
+    <updated>2022-09-01T02:52:31.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5812,16 +5812,6 @@
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/"/>
         <updated>2022-08-02T15:16:27.000Z</updated>
         <summary type="html"><![CDATA[AWS Config ではコンフォーマンスパックの拡張機能としてコンプライアンススコアをサポートするようになりました。コンプライアンススコアはパーセンテージベースのスコアで、コンフォーマンスパックの範囲でキャプチャされる一連の要件に対してリソースがどの程度準拠しているかをすばやく確認するのに役立ちます。コンフォーマンスパックは AWS アカウントと AWS リージョンの単一のエンティティとしてデプロイできる、または AWS Organizations の組織全体に簡単にデプロイできる AWS Config ルールと修正アクションのコレクションです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Security Hub が Amazon GuardDuty のマルウェア対策の検出結果の受け取りを開始]]></title>
-        <id>51651235c49b867469a9f152d09e5d1d85b27b01</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/"/>
-        <updated>2022-08-02T13:46:14.000Z</updated>
-        <summary type="html"><![CDATA[AWS Security Hub では Amazon GuardDuty のマルウェア対策の検出結果を自動で受け取るようになりました。Amazon GuardDuty のマルウェア対策では、Amazon Elastic Cloud Compute (EC2) インスタンスおよびコンテナワークロードのマルウェアをエージェントレスで検出します。Security Hub と GuardDuty のこの統合により、マルウェア対策の検出結果を他のセキュリティの検出結果と統合することで、Security Hub での一元化および単一ウィンドウのエクスペリエンスが拡張され、セキュリティの検出結果をより簡単に検索、トリアージ、調査し、対策を講じられるようになります。Security Hub の GuardDuty のマルウェア対策の調査結果には、Amazon Detective で調査結果を素早く深く掘り下げることができる調査リンクも含まれています。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
