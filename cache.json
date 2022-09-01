@@ -1444,66 +1444,6 @@
           "wordCount": 313,
           "title": "WorkSpace イメージを作成する Amazon WorkSpaces API をリリース",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3f4c78699c09338adf9d2ccff4d941541b5773a4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Detective は、Amazon Elastic Kubernetes Service (Amazon EKS) クラスターでのセキュリティに関する検出結果やコントロールプレーンの疑わしいアクティビティに対する分析、調査、根本原因の特定をサポートするようになりました。Amazon Detective は Amazon EKS 監査ログを使用して、EKS クラスター、コンテナポッド、ユーザーアカウントなどの新しいエンティティを自動で抽出し、アクティビティ履歴に基づき各エンティティのプロファイルを作成します。その後 Detective は、Amazon EKS クラスターで潜在的な脅威や不審な動作が確認されたときに作成される Amazon GuardDuty Kubernetes Protection の検出結果を使用して、エンティティプロファイルを階層化します。この Detective の新機能により、「セキュリティ侵害の兆候を示す Kubernetes ユーザーアカウントが呼び出した Kubernetes API メソッドは何か」「Amazon GuardDuty の検出結果に含まれていた Amazon Elastic Compute Cloud (Amazon EC2) インスタンスでホストされているポッドはどれか」「悪意のあることが疑われるコンテナイメージから生成されたコンテナはどれか」といった問いの答えを、より迅速に得られます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-detective-supports-security-investigations-workloads-eks/",
-          "publishedOn": "2022-08-02T15:32:43.000Z",
-          "wordCount": 368,
-          "title": "Amazon Detective が Amazon EKS 上のワークロードのセキュリティ調査をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0862932482d6cfac106b0fba022c7f776c52349d",
-          "author": "aws@amazon.com",
-          "description": "AWS Transfer Family が、既存の SFTP、FTPS、FTP プロトコルのサポートに加え、Applicability Statement 2 (AS2) プロトコルをサポートするようになりました。 ヘルスケアとライフサイエンス、小売、金融サービス、保険など、ビジネスクリティカルなデータの交換に AS2 を利用している業種のお客様は、可用性に優れ、スケーラブルでグローバルに利用可能な AWS Transfer Family の AS2 エンドポイントを使用して、より費用対効果の高い方法で取引先と安全に取引データを交換できるようになりました。交換されたデータは AWS でネイティブにアクセスでき、処理、分析、機械学習に利用したり、AWS 上で動作するビジネスアプリケーションと統合したりできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/",
-          "publishedOn": "2022-08-02T15:31:55.000Z",
-          "wordCount": 325,
-          "title": "AWS Transfer Family が Applicability Statement 2 (AS2) のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e4c7438b58dd57002550fe6f7a00357b5a3a5fdc",
-          "author": "aws@amazon.com",
-          "description": "AWS Single Sign-On (AWS SSO) が AWS IAM Identity Center になりました。従業員用のユーザーを一度作成または接続すると、複数の AWS アカウントやアプリケーションへのアクセスを一元管理できます。IAM Identity Center では、ユーザー ID を直接作成することも、Microsoft Active Directory や標準ベースの ID プロバイダー (Okta Universal Directory、Azure AD など) を含む、既存の ID ソースを接続することもできます。AWS アカウントのみ、クラウドアプリケーションのみ、またはその両方へのアクセスを管理できます。ユーザーは、既存の認証情報を利用して、割り当てられた AWS アカウント、AWS アプリケーション (Amazon SageMaker Studio など)、その他の標準ベースのクラウドアプリケーション (Salesforce、Box、Microsoft 365 など) にワンクリックでアクセスできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/",
-          "publishedOn": "2022-08-02T15:31:06.000Z",
-          "wordCount": 404,
-          "title": "AWS Single Sign-On (AWS SSO) が AWS IAM Identity Center に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "31881ad37fe5e2c5ec73535ebd18711b3e2049f2",
-          "author": "aws@amazon.com",
-          "description": "AWS Wickr はエンドツーエンドの暗号化されたエンタープライズコミュニケーションサービスで、メッセージング、音声およびビデオ通話、ファイル共有、画面共有にわたる安全なコラボレーションを可能にします。このサービスは現在プレビューで提供されています。AWS Wickr は極秘の通信を保護し、情報ガバナンスポリシーを適用し、必要に応じて情報を保持するよう設計されたセキュリティと管理機能の組み合わせにより、進化する脅威や規制に組織が対応するのに役立ちます。暗号化はローカルのエンドポイントで行われます。すべての通話、メッセージ、ファイルは新しいランダムキーで暗号化され、意図した受信者以外は誰も (AWS でさえ) それらを復号できません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/",
-          "publishedOn": "2022-08-02T15:18:06.000Z",
-          "wordCount": 306,
-          "title": "AWS が AWS Wickr を発表 (プレビュー版)",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5be6f4dfd79a9628473c0576b9910d8edf009ad2",
-          "author": "aws@amazon.com",
-          "description": "AWS Marketplace Vendor Insights は販売者が AWS Marketplace を通じてセキュリティとコンプライアンスの情報を利用できるようにし、複雑なサードパーティソフトウェアのリスク評価プロセスを合理化するのに役立ちます。ウェブベースの統合ダッシュボードにより、ガバナンス、リスク、コンプライアンス (GRC) チームは、データプライバシーとレジデンシー、アプリケーションセキュリティ、アクセスコントロールなどのセキュリティとコンプライアンスの情報にアクセスできます。また、ダッシュボードには、AWS Config や AWS Audit Manager の評価、外部監査報告 (ISO 27001 や SOC2 Type 2 など)、ソフトウェアベンダーの自己評価に裏付けられたエビデンスが表示されます。Vendor Insights はサードパーティソフトウェアがビジネスコンプライアンスのニーズを満たしているかを効率的に検証するのにサポートを必要とするバイヤーに役立ちます。また、Vendor Insights は販売者が自社の強固なセキュリティ体制を紹介するのに役立ち、販売者は購入者からのリスク評価情報の要求に対応するための運用の負担を軽減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/",
-          "publishedOn": "2022-08-02T15:17:16.000Z",
-          "wordCount": 327,
-          "title": "ベンダーリスク評価の合理化に役立つ AWS Marketplace Vendor Insights を発表 (プレビュー版)",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1a74465fdc3dc7725545886c9ec9291d2779ce9c",
-          "author": "aws@amazon.com",
-          "description": "AWS Config ではコンフォーマンスパックの拡張機能としてコンプライアンススコアをサポートするようになりました。コンプライアンススコアはパーセンテージベースのスコアで、コンフォーマンスパックの範囲でキャプチャされる一連の要件に対してリソースがどの程度準拠しているかをすばやく確認するのに役立ちます。コンフォーマンスパックは AWS アカウントと AWS リージョンの単一のエンティティとしてデプロイできる、または AWS Organizations の組織全体に簡単にデプロイできる AWS Config ルールと修正アクションのコレクションです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/",
-          "publishedOn": "2022-08-02T15:16:27.000Z",
-          "wordCount": 323,
-          "title": "AWS Config コンフォーマンスパックでリソースのコンプライアンス追跡のためのスコアを提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -4593,16 +4533,6 @@
           "wordCount": 1258,
           "title": "HashiCorp Cloud Platformが日本リージョンの一般提供を開始。HCP VaultとCP Consulをマネージドサービスで提供",
           "imageUrl": "https://www.publickey1.jp/2022/hcpjr01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/2021it590003212ntt3idc_japan.html",
-          "author": null,
-          "description": "調査会社のIDC Japanは、2021年の国内ITサービス市場ベンダー売上ランキングを発表しました。 発表によると、2021年の国内ITサービス市場規模は5兆8712億円、前年比成長率は3.2％でした。ベンダー売上の上位5社は、1位が富士...",
-          "link": "https://www.publickey1.jp/blog/22/2021it590003212ntt3idc_japan.html",
-          "publishedOn": "2022-08-02T15:38:39.000Z",
-          "wordCount": 1238,
-          "title": "2021年の国内ITサービス市場規模は5兆9000億円、成長率は3.2％。売上げ1位は富士通、2位がNTTデータ、3位日立製作所。IDC Japan",
-          "imageUrl": "https://www.publickey1.jp/2022/itserviceidcjapan2022.png"
         }
       ]
     },
