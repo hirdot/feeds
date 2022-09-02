@@ -1364,56 +1364,6 @@
           "wordCount": 379,
           "title": "AWS Systems Manager が Application Manager のシンプルになったオンボーディングエクスペリエンスを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "633bb4b79524dd229b083e18247ffe878bad67ee",
-          "author": "aws@amazon.com",
-          "description": "AWS X-Ray の AWS Lambda サポートが AWS GovCloud (米国) リージョンで利用可能になりました。AWS X-Ray の AWS Lambda サポートにより、関数のX-Ray トレースを容易に有効にできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/",
-          "publishedOn": "2022-08-03T10:34:36.000Z",
-          "wordCount": 306,
-          "title": "AWS X-Ray の AWS Lambda サポートが AWS GovCloud (米国) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0cca92423e7452fe5e9d07db4ae579c9b99def5b",
-          "author": "aws@amazon.com",
-          "description": "AWS Outposts ラックがアジアパシフィック (ジャカルタ) リージョンでもご利用可能になりました。AWS Outposts ラックは、ほぼすべてのオンプレミスデータセンターやコロケーションスペースに、同じ AWS インフラストラクチャ、AWS サービス、API、ツールを提供するフルマネージドサービスであり、真に一貫したハイブリッドエクスペリエンスを実現します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-08-03T10:33:47.000Z",
-          "wordCount": 303,
-          "title": "AWS Outposts ラックがアジアパシフィック (ジャカルタ) リージョンでもご利用可能になりました",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "295f2f50972901d3fe5b32137c3c1a812121f747",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower では、ランディングゾーンバージョン 3.0 の一部として組織に対する AWS CloudTrail 使用したログ記録機能が提供されるようになりました。この新機能により、組織レベルの AWS CloudTrail 証跡が組織の管理アカウントにデプロイされ、組織内のすべてのメンバーアカウントのアクションが自動的に記録されます。AWS Control Tower が管理するアカウントすべてに対してログ記録が設定されていることを確認する必須の検出ガードレール以外に、AWS Control Tower はログ記録のパラメータを設定しません。組織に対するログ記録機能を備えた AWS Control Tower は、統合されたアカウントログ記録に関する最新のスタンダードとベストプラクティスをユーザーに提供します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-control-tower-adopts-aws-cloudtrail-organization-logging/",
-          "publishedOn": "2022-08-03T10:32:58.000Z",
-          "wordCount": 347,
-          "title": "AWS Control Tower が組織に対する AWS CloudTrail を使用したログ記録を導入",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ac2aee527eb05fe84b2fba847f9baa05363671c7",
-          "author": "aws@amazon.com",
-          "description": "アマゾン ウェブ サービス (AWS) は、AWS Ground Station をアジアパシフィック (シンガポール) リージョンに拡張することを発表します。これは AWS グローバルネットワークに接続された 11 番目の AWS Ground Station アンテナロケーションとなります。AWS Ground Station は、人工衛星通信の制御や人工衛星データの処理、さらに人工衛星の運用のスケールを可能にするフルマネージドサービスです。シンガポールまでグローバルなリーチを広げたことで、衛星の運用者は衛星に接続し、宇宙のワークロードをさらに処理できるようになります。中緯度の AWS Ground Station アンテナロケーションが設置されたことで、地球低軌道 (LEO) 衛星の連絡時間が短縮され、ペイロードダウンリンクが必要な運用を行うお客様の利便性が向上します。政府、企業、大学は、よりタイムリーな衛星データを活用して、正確でデータ主導の意思決定を行うことができるという利点を得ることになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-ground-station-new-antenna-location-asia-pacific-singapore-region/",
-          "publishedOn": "2022-08-03T10:32:07.000Z",
-          "wordCount": 361,
-          "title": "AWS Ground Station は、アジアパシフィック (シンガポール) にアンテナロケーションの新設を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ad57c2b75db73c34fe3b85a52345d9eb4f14229e",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Billing Conductor (ABC) コンソールで請求グループを作成するときに、AWS Organizations の組織単位 (OU) アカウントグループ化機能をご利用いただけます。ABC を使い始めて間もなく、コストと使用状況のデータを組織単位ごとにセグメント化、計算、表示することを希望するお客様は、ポイントインタイムの新しい組織単位インポート機能を使用して、組織単位と ABC 請求グループのアカウントを同等にするための労力を軽減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-billing-conductor-ou-import/",
-          "publishedOn": "2022-08-03T10:31:14.000Z",
-          "wordCount": 312,
-          "title": "AWS が AWS Billing Conductor の組織単位インポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1479,6 +1429,16 @@
       "feedUrl": "https://data.wingarc.com/feed",
       "siteUrl": "https://data.wingarc.com",
       "articles": [
+        {
+          "id": "https://data.wingarc.com/?p=43110",
+          "author": "安齋 慎平",
+          "description": "今皆さんが読まれている『データのじかん』の副題をご存知ですか？ そう、「データで越境者に寄り添うメディア」です。データがこのメディアの軸であるのはなんとなくわかりますが、「越境者」とは何なのか。データのじかんのサイトでは […]",
+          "link": "https://data.wingarc.com/boundary-spanners-43110?utm_source=rss&utm_medium=rss&utm_campaign=boundary-spanners",
+          "publishedOn": "2022-09-01T23:00:44.000Z",
+          "wordCount": 2872,
+          "title": "越境者たちよ！ヒトはより自由になることで成長できる！【書評】新時代を生き抜く越境思考",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/2d338c4ad7fc1d6a3e52eee4fe634479.jpg"
+        },
         {
           "id": "https://data.wingarc.com/?p=45708",
           "author": "石川麻里",
@@ -4521,6 +4481,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=283934",
+          "author": "Christian Elliott",
+          "description": "シカゴ市から始まった都市環境をさまざまなセンサーで観測する「AoT」デバイスは今や他の都市にも広がり、大気質の観測や地震監視などの幅広い用途で使われようとしている。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/283934/a-chicago-city-sensor-project-goes-global/",
+          "publishedOn": "2022-09-01T23:04:16.000Z",
+          "wordCount": 1211,
+          "title": "住み良い都市を作り出す、シカゴ発の「AoT」センサーに広がり",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/19181503/aot-installation-1-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/09/02/284841/",
           "author": "MIT Technology Review Japan",
