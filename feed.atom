@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-02T02:54:45.404Z</updated>
+    <updated>2022-09-02T03:49:14.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -5607,56 +5607,6 @@
         <updated>2022-08-03T21:26:08.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS コンソールモバイルアプリケーションは、最近アクセスしたサービス機能のサポートを開始]]></title>
-        <id>053c9ee60eddf7cf83a067df9ac28eb870e0ff8a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-console-mobile-application-adds-service-feature/"/>
-        <updated>2022-08-03T15:47:44.000Z</updated>
-        <summary type="html"><![CDATA[AWS コンソールモバイルアプリケーションのユーザーは、利用可能な iOS および Android 用のモバイルアプリケーションから、最近アクセスした AWS サービスを簡単に表示してアクセスできるようになりました。ユーザーが最近アクセスした AWS サービスは、モバイルとウェブサービスの間で同期されます。最近アクセスしたサービスの機能は、ダッシュボード画面の下部で利用でき、最近アクセスした 10 個の AWS サービスがスワイプ可能なリストとして表示されます。ユーザーがリスト上の AWS サービスをタップすると、モバイルアプリの該当の AWS サービスの詳細画面に移動します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Cloud Map が 2 つの新しい AWS リージョンで利用可能に]]></title>
-        <id>b9fb31c548531f43960175653e797e87fa5755fd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-cloud-map-available-regions/"/>
-        <updated>2022-08-03T15:46:55.000Z</updated>
-        <summary type="html"><![CDATA[AWS Cloud Map がアジアパシフィック (大阪) およびアジアパシフィック (ジャカルタ) の AWS リージョンで利用可能になりました。AWS Cloud Map は、クラウドリソース検出サービスです。AWS Cloud Map では、Amazon Elastic Container Services (Amazon ECS) タスク、Amazon Elastic Compute Cloud (Amazon EC2) インスタンス、Amazon DynamoDB テーブル、その他のクラウドリソースなどのアプリケーションリソースのカスタム名を定義できます。その後、このカスタム名を使用することによって、AWS SDK と認証済み API クエリを使用し、アプリケーションからクラウドリソースの場所とメタデータを見つけることができます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Systems Manager が Application Manager のシンプルになったオンボーディングエクスペリエンスを発表]]></title>
-        <id>68653105c2fe90aa790ae79089f459dda080fbdc</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/"/>
-        <updated>2022-08-03T15:46:06.000Z</updated>
-        <summary type="html"><![CDATA[本日、AWS Systems Manager の機能である Application Manager は、お客様にとってよりシンプルになったオンボーディングエクスペリエンスを発表しました。Application Manager は、アプリケーションの作成、表示、操作を単一のコンソールで行うための AWS のセントラルハブです。Application Manager を使用すると、AWS CloudFormation、AWS Launch Wizard、AWS Service Catalog App Registry、AWS Resource Groups、Amazon Elastic Kubernetes Service (Amazon EKS)、Amazon Elastic Container Service (Amazon ECS) などの複数の AWS のサービス間でリソースを探して管理できます。この機能を使用することで、IT プロフェッショナルは、ガイド付きの簡単なプロセスに従って Application Manager ダッシュボードを設定できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年第2四半期のクラウドインフラ、シェア1位はAWS、2位はAzure、3位Google Cloud。上位3社の寡占がさらに高まる]]></title>
-        <id>https://www.publickey1.jp/blog/22/202221aws2azure3google_cloud3.html</id>
-        <link href="https://www.publickey1.jp/blog/22/202221aws2azure3google_cloud3.html"/>
-        <updated>2022-08-03T15:11:43.000Z</updated>
-        <summary type="html"><![CDATA[2022年第2四半期時点のグローバルにおけるクラウドインフラのシェアをそれぞれ発表しました（Synergy Research Group、Canalys）。 Canalysの発表によると、クラウドインフラのシェア1位はこれまでと変わらずAW...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp Cloud Platformが日本リージョンの一般提供を開始。HCP VaultとCP Consulをマネージドサービスで提供]]></title>
-        <id>https://www.publickey1.jp/blog/22/hashicorp_cloud_platformhcp_vaultcp_consul.html</id>
-        <link href="https://www.publickey1.jp/blog/22/hashicorp_cloud_platformhcp_vaultcp_consul.html"/>
-        <updated>2022-08-03T15:08:23.000Z</updated>
-        <summary type="html"><![CDATA[HashiCorpは、同社の製品群をマネージドサービスで提供する「HashiCorp Cloud Platform日本リージョン」を10月末から11月頭の時期に提供を開始すると発表しました。AWS上に構築され、AWS東京リージョンとAWS大...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
     <entry>
