@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-03T10:01:06.935Z</updated>
+    <updated>2022-09-03T22:01:14.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ重症患者のmRNA／マイクロRNAを解析、死亡との関連も]]></title>
+        <id>https://www.technologyreview.jp/n/2022/09/02/284840/</id>
+        <link href="https://www.technologyreview.jp/n/2022/09/04/284840/"/>
+        <updated>2022-09-03T21:53:38.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[頭蓋内胚細胞腫瘍の関連遺伝子を発見＝阪大など]]></title>
         <id>https://www.technologyreview.jp/n/2022/08/27/284414/</id>
@@ -5314,107 +5323,6 @@
         <summary type="html"><![CDATA[当社ではこのたび、AWS Key Management Service (KMS) のカスタマーマネージドキーを使用して、Amazon SageMaker Canvas にあるデータセットと機械学習 (ML) モデルを保管する際の暗号化のサポートを開始いたします。Amazon SageMaker Canvas はポイントアンドクリック式のビジュアルインターフェイスで、ビジネスアナリストはこれを使用することで、機械学習を使用した経験がなくても、あるいはコードを一行も書かなくても、正確な ML 予測を自分で生成することができます。SageMaker Canvas を使用すれば、さまざまなソースからデータにアクセスしそれらを組み合わせたり、データを自動的にクリーニングしたり、数クリックで正確な予測を生成する ML モデルを構築したり、といったことが容易に行えるようになります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50人の開発会社でMisoca/弥生会計からfreee/MoneyForwardに移行してみた]]></title>
-        <id>https://techracho.bpsinc.jp/piichan1031/2022_08_05/120168</id>
-        <link href="https://techracho.bpsinc.jp/piichan1031/2022_08_05/120168"/>
-        <updated>2022-08-05T08:30:18.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/migrating_accounting_system_to_freee_moneyfoward_eyecatch3-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>BPS渡辺です。コロナなかなか終わりませんね。疫病は想定外でしたけど、不況には仲間と試行錯誤しながら必死で準備してきていました。何をもって終わりかもよくわかりませんが、仮に終わっても社会構造が元に戻らなさそうということで、想定が甘かったのかもしれません。 新型コロナ肺炎の現状　大変厳しいですね。 この疫病　日本や世界の社会構造を激変させることになるのではないか　と危惧しています。 そのような中での会社運営　重責だとおもいますが　どうぞ視野を広く持って　対処お願いします。 コロナ初期に、同僚のご家族から連絡を頂戴しました。粋がって、ちゃんと準備してますよ！と返事しちゃいました。ああもう恥ずかしいなあ。念入りに準備し [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/piichan1031/2022_08_05/120168" data-wpel-link="internal" target="_self">50人の開発会社でMisoca/弥生会計からfreee/MoneyForwardに移行してみた</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon QuickSight の新しいベースマップによる地理空間の可視化]]></title>
-        <id>8b414677671850e1d71660b68b98b8754f1268e1</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/"/>
-        <updated>2022-08-05T01:32:47.000Z</updated>
-        <summary type="html"><![CDATA[QuickSight の作成者は、Amazon QuickSight でサポートされている新しいベースマップのいずれかにマップを変更することで、マップのルックアンドフィールをカスタマイズできるようになりました。
- 
- 
- 
-街路 – 街路ベースマップを使用して、場所の詳細を追加できるようになりました。このベースマップでは、高速道路、幹線道路、補助道路、鉄道線路、水景施設、都市、公園、ランドマーク、建物の敷地、行政区画が強調されて見やすく表示されます。
- 
- 
-ダークグレーのキャンバス – ライトグレー (既存のベース) またはダークグレー (新しいベース) のキャンバスを選択し、マップをダッシュボードの全体的なスタイルに合わせて調整できるようになりました。色、ラベル、特徴を最小限に抑えたダークグレーのキャンバスのベースマップは、データに注目が集まりやすいように設計されています。
- 
- 
-画像 – 画像ベースマップを選択すると、マップの精細度を高めることができます。世界の衛星ビューを使用することで、位置データが把握しやすくなります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for MySQL が SSL/TLS 接続の適用のサポートを開始]]></title>
-        <id>39a7c2fce11cb6f6255040f15bd2a5a6eb9d3644</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-mysql-supports-ssl-tls-connections/"/>
-        <updated>2022-08-05T01:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Amazon RDS for MySQL で、データベースインスタンスに対する暗号化された SSL/TLS 接続がサポートされます。本日より、トランスポート層のセキュリティを強化するために、RDS for MySQL データベースインスタンスに対して SSL/TLS クライアント接続を適用できるようになりました。SSL/TLS を適用するには、Amazon RDS マネジメントコンソール、AWS CLI、または API を使用して、require_secure_transport パラメータ (デフォルトでは無効) を有効にするだけです。require_secure_transport パラメータを有効にすると、データベースクライアントは、暗号化された接続を確立できる場合にのみ、RDS for MySQL インスタンスに接続できます。require_secure_transport パラメータを使用して暗号化されたクライアント接続を適用する方法の詳細については、Amazon RDS ユーザーガイドを参照してください。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04.1のリリースに向けた作業]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/05</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/05?utm_source=feed"/>
-        <updated>2022-08-05T01:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04.1のポイントリリースに向けて、パッケージのフリーズとRCのリリース、そしてQAが行われています。当初8月4日を予定していたリリースはOEMインストールを利用すると問題が生じる問題が発見されたため8月11日に延期されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04.1のリリースに向けた作業]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/05</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/05?utm_source=feed"/>
-        <updated>2022-08-05T01:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04.1のポイントリリースに向けて、パッケージのフリーズとRCのリリース、そしてQAが行われています。当初8月4日を予定していたリリースはOEMインストールを利用すると問題が生じる問題が発見されたため8月11日に延期されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04.1のリリースに向けた作業]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/05</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/05?utm_source=feed"/>
-        <updated>2022-08-05T01:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04.1のポイントリリースに向けて、パッケージのフリーズとRCのリリース、そしてQAが行われています。当初8月4日を予定していたリリースはOEMインストールを利用すると問題が生じる問題が発見されたため8月11日に延期されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Week In Rails Strict Template Locals Detecting Unused Routes And An Improved Find_or_create_by 1366f9d7]]></title>
-        <id>https://rubyonrails.org/2022/8/5/this-week-in-rails-strict-template-locals-detecting-unused-routes-and-an-improved-find_or_create_by-1366f9d7</id>
-        <link href="https://rubyonrails.org/2022/8/5/this-week-in-rails-strict-template-locals-detecting-unused-routes-and-an-improved-find_or_create_by-1366f9d7"/>
-        <updated>2022-08-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[layout: post title: “Strict template locals, detecting unused routes and an improved find_or_create_by” categories: news author: p8 published: true date: 2022-08-05 —]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【書評】『カスタマーサクセス経営』を最速レビュー！ DX時代の企業の成長戦略「PLG」とは？]]></title>
-        <id>https://data.wingarc.com/?p=44299</id>
-        <link href="https://data.wingarc.com/customer-success-management-44299?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=customer-success-management"/>
-        <updated>2022-08-04T23:00:48.000Z</updated>
-        <summary type="html"><![CDATA[みなさんは、「PLG（Product-Led Growth：プロダクト主導型成長）」という言葉をご存じでしょうか。GAFAMをはじめ、Slack、Zoomなど近年存在感を増しているSaaS企業で見られる成長戦略であり、オ […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データのじかんNews 2022年8月Part.01]]></title>
-        <id>https://data.wingarc.com/?p=44987</id>
-        <link href="https://data.wingarc.com/datatimes_news202208-01-44987?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_news202208-01"/>
-        <updated>2022-08-04T23:00:23.000Z</updated>
-        <summary type="html"><![CDATA[データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 全国的に梅雨が明け、連日の猛暑と新型コロナの第7波が猛威をふるう中、みなさま、お元気でお過ごしでしょうか？ 新型コロ […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
     <entry>
