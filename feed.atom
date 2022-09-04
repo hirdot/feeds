@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-03T22:01:14.897Z</updated>
+    <updated>2022-09-04T00:01:11.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[記述式答案の採点、AIと人間の「分担」で効率化＝東北大など]]></title>
+        <id>https://www.technologyreview.jp/n/2022/09/03/284977/</id>
+        <link href="https://www.technologyreview.jp/n/2022/09/04/284977/"/>
+        <updated>2022-09-03T22:23:28.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナ重症患者のmRNA／マイクロRNAを解析、死亡との関連も]]></title>
         <id>https://www.technologyreview.jp/n/2022/09/02/284840/</id>
@@ -5293,36 +5302,6 @@
         <summary type="html"><![CDATA[山口県は三方が海に開かれた本州の西端に位置する地域です。 九州とは関門海峡をくぐる“関門トンネル”で繋がっているため、県西部の下関市は福岡県北九州市とともに関門都市圏の核都市を形成しています。 地形は、東西に中国山地が走 […]]]></summary>
         <author>
             <name>石川麻里</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT SiteWise が米国東部 (オハイオ) とカナダ (中部) の AWS リージョンで利用可能に]]></title>
-        <id>e80b39eb224dab481369fc6e7664b1466e21c6d2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-iot-sitewise-canada-ohio-regions/"/>
-        <updated>2022-08-05T10:33:54.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT SiteWise が米国東部 (オハイオ) とカナダ (中部) の AWS リージョンで利用可能となり、そのフットプリントを 12 の AWS リージョンに拡大しました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Control Tower、グローバルリソースのみをホームリージョンに記録することで AWS Conﬁg の構成項目を削減]]></title>
-        <id>97dd2ca258c0949705226d7a7a011ae32b4780cd</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/"/>
-        <updated>2022-08-05T10:33:06.000Z</updated>
-        <summary type="html"><![CDATA[AWS Control Tower はこのたび、グローバルリソースの記録をホームリージョンに制限することで、AWS Conﬁg の冗長な構成項目を削減しました。AWS Control Tower はこれまで、グローバルリソースをすべてのリージョンで記録するように、AWS Conﬁg の構成を行ってきました。グローバルリソースは特定の AWS リージョンに拘束されるものではないため、リソースの変更はすべてのリージョンで同一となります。グローバルリソース (IAM ユーザー、グループ、ロール、顧客が管理するポリシー等) の記録を制限することにより、変更の冗長コピーは、すべてのリージョンには保存されなくなります。今回の変更により、リソースの記録は AWS Conﬁg のベストプラクティスに従うものとなります。グローバルリソースの一覧は、AWS Conﬁg のドキュメントでご覧いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Canvas、カスタマーマネージドキーによる暗号化サポートを開始]]></title>
-        <id>8ab5168548209d47e361eccca32d29917e84b088</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-sagemaker-canvas-encryption-managed-keys/"/>
-        <updated>2022-08-05T10:31:27.000Z</updated>
-        <summary type="html"><![CDATA[当社ではこのたび、AWS Key Management Service (KMS) のカスタマーマネージドキーを使用して、Amazon SageMaker Canvas にあるデータセットと機械学習 (ML) モデルを保管する際の暗号化のサポートを開始いたします。Amazon SageMaker Canvas はポイントアンドクリック式のビジュアルインターフェイスで、ビジネスアナリストはこれを使用することで、機械学習を使用した経験がなくても、あるいはコードを一行も書かなくても、正確な ML 予測を自分で生成することができます。SageMaker Canvas を使用すれば、さまざまなソースからデータにアクセスしそれらを組み合わせたり、データを自動的にクリーニングしたり、数クリックで正確な予測を生成する ML モデルを構築したり、といったことが容易に行えるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
