@@ -6,6 +6,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "66e7fbf006ccbac30cb32ac1d2a7354d3f6a085a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect では、キャパシティプランニングの目的で、コンタクトセンターをどの曜日に営業するかを選択し、管理できるようになりました。この新機能は、Amazon Connect 予測、キャパシティ計画、スケジューリング (プレビュー) に追加され、これにより、コンタクトの量と平均処理時間を予測し、最適な人員レベルを判断し、エージェントのスケジュールを立て、適切な時間に適切なエージェントを配置することが可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/",
+          "publishedOn": "2022-09-05T16:11:38.000Z",
+          "wordCount": 302,
+          "title": "Amazon Connect でキャパシティプランニングのための週ごとの営業日の設定機能をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8a4e3f09b392b29aecd9680b507d4b6422a552a2",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudFront では、オリジンアクセスコントロールの提供を開始します。これは、指定の CloudFront ディストリビューションにのみ S3 バケットへのアクセスを許可することによって、CloudFront ユーザーが S3 オリジンを簡単に保護できるようにする新機能です。S3 バケットへの CloudFront のリクエストで AWS Signature Version 4 (SigV4) を有効にして、CloudFront がリクエストに署名するタイミングと場合を設定できるようになりました。また、CloudFront を介してアップロードとダウンロードを実行する際、SSE-KMS を使用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/",
+          "publishedOn": "2022-09-05T16:05:38.000Z",
+          "wordCount": 322,
+          "title": "Amazon CloudFront でオリジンアクセスコントロール (OAC) をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "832fa77004606c58acb4486c3123391843b284e6",
+          "author": "aws@amazon.com",
+          "description": "本日より、メモリを最適化した Amazon EC2 X2idn および X2iedn インスタンスの一般提供が、アジアパシフィック (ジャカルタ) リージョンで開始されました。X2idn および X2iedn インスタンスは、第 3 世代 Intel Xeon Scalable Processor (Ice Lake) を搭載し、メモリを大量に使用するワークロード向けに設計されており、パフォーマンス、料金パフォーマンス、メモリの GiB あたりコストが前世代の X1 インスタンスに比べ向上しています。メモリと vCPU の比率は X2idn で 16:1、X2iedn では 32:1 です。したがってこれらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。X2idn および X2iedn は、同等の X1 インスタンスよりも最大 45% 多くの SAPS を提供し、anyDB での Business Suite on HANA、SAP S/4HANA、Data Mart Solutions on HANA、Business Warehouse on HANA、SAP BW/4HANA、SAP NetWeaver ワークロードの実行について、SAP 認定を受けています。認定データは、Certified and Supported SAP HANA Hardware Directory (認定およびサポートされている SAP HANA ハードウェアディレクトリ) でご確認いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-09-05T15:40:38.000Z",
+          "wordCount": 460,
+          "title": "Amazon EC2 X2idn および X2iedn インスタンス、アジアパシフィック (ジャカルタ) リージョンで一般提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2f4ed7c69386214529c7139e27f86b22ce579edf",
+          "author": "aws@amazon.com",
+          "description": "AWS IQ で、エキスパートへの報酬に前払いまたはスケジュール払いを利用できるようになりました。スケジュール払いの場合、提案で事前に取り決めたスケジュールに従ってエキスパートに料金を支払います。前払いの場合、提案の承諾後に、前払いで業務の料金を支払います。マイルストーン払いの場合、従量制料金を利用できます。顧客として、提案内の支払い方法をご確認ください。また、エキスパートと相談して自分のプロジェクトのニーズに合った方法を選べます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/",
+          "publishedOn": "2022-09-05T15:34:38.000Z",
+          "wordCount": 294,
+          "title": "AWS IQ を使用した料金の前払いまたはスケジュール払いが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "eed9918a9223f14cec094cad1d9b37c36d553c70",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight では、きめ細かな画像の埋め込みのサポートを開始しました。QuickSight ダッシュボードの個別の画像をアプリケーションやポータルに埋め込み、ユーザーが最も必要としているところで重要なインサイトを提供できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-announces-fine-grained-visual-embedding/",
+          "publishedOn": "2022-09-05T14:03:38.000Z",
+          "wordCount": 309,
+          "title": "Amazon QuickSight できめ細かな画像の埋め込み機能を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f8d500cd00ce144670bd07fe07f436e51435274c",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT TwinMaker で、デジタルツインのスケーリング機能とデータコネクターの構築機能が強化され、お客様の体験がシンプル化しました。AWS IoT TwinMaker により、デベロッパーは建物、工場、産業用設備、生産ラインなど、実際のシステムのデジタルツインを簡単に作成できます。デジタルツインとは、物理システムを仮想環境に再現したものです。定期的に実世界のデータを活用して更新することで、システムの構造、状態、動作を模倣し、ビジネスの成果を推進できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/",
+          "publishedOn": "2022-09-05T13:57:38.000Z",
+          "wordCount": 324,
+          "title": "AWS IoT TwinMaker で、デジタルツインのスケーリング機能とデータコネクターの構築機能が強化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "34e43903fa7870276822a02b4faf7cc6a7a1a804",
+          "author": "aws@amazon.com",
+          "description": "AWS WAF Fraud Control アカウント乗っ取り防止機能が、Amazon CloudFront に対応しました。AWS WAF Fraud Control アカウント乗っ取り防止は、アプリケーションのログインページを、クレデンシャルスタッフィング攻撃やブルートフォース試行などの異常なログインアクティビティから保護する機能です。この機能を使用すれば、ネットワークのエッジでアカウントの乗っ取りを未然に防げます。また、不正行為につながる未承認のアクセスを阻止したり、影響が及ぶユーザーに通知を行って予防措置を促したりできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-waf-fraud-control-account-takeover-prevention-cloudfront/",
+          "publishedOn": "2022-09-05T13:51:38.000Z",
+          "wordCount": 354,
+          "title": "AWS WAF Fraud Control アカウント乗っ取り防止が Amazon CloudFront をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "352515445441eeac1c98a2b74697ffab188c0a5f",
+          "author": "aws@amazon.com",
+          "description": "このたび、更新によって AWS Local Zones に対応した、Amazon GameLift の一般提供 (GA) が開始されました。プレイヤーにシームレスで低レイテンシーのゲームプレイ体験が提供されるとともに、ゲームデベロッパーのカバレッジが拡大します。この更新で、ゲームデベロッパーはシカゴ、ヒューストン、ダラス、カンザスシティ、デンバー、アトランタ、ロサンゼルス、フェニックスの 8 つのローカルゾーンに接続できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-gamelift-supports-aws-local-zones/",
+          "publishedOn": "2022-09-05T13:35:40.000Z",
+          "wordCount": 372,
+          "title": "Amazon GameLift が、AWS Local Zones をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "d8ef272060ec99280a3e1035c10af7a61db641cc",
           "author": "aws@amazon.com",
           "description": "AWS Outposts ラックがケニヤとオマーンで出荷可能となり、データセンターおよびオンプレミス環境に設置できるようになりました。",
@@ -3688,6 +3768,16 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_05/121450",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20220905_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。いよいよRubyKaigiが今週始まりますね。 ミナサン〜！来週はRubyKaigi行きます！是非会いに来てください！#rubykaigi pic.twitter.com/f8zUyWTzHd &#8212; 合同会社イービルマーシャンズ (@evilmartians_jp) August 31, 2022 RubyKaigiまであと1週間ですね！ 今年は超絶技巧Rubyプログラミングコンテスト、TRICKの結果発表があります。1日目の最終枠、ご期待ください～。https://t.co/9Xsz4quRBW &#8212; Yusuke Endoh (@mametter) Au [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_05/121450\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: Herokuが無料プラン廃止を発表、Hotwire日本語コミュニティほか（20220905前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_05/121450",
+          "publishedOn": "2022-09-05T10:01:11.000Z",
+          "wordCount": 1492,
+          "title": "週刊Railsウォッチ: Herokuが無料プラン廃止を発表、Hotwire日本語コミュニティほか（20220905前編）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20220905_eyecatch-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_02/120530",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/ruby_gvl_tracing_gem_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Tracing Ruby’s (Global) VM Lock &#8211; ivo&#8217;s awfully random tech blog 原文公開日: 2022/07/17 原著者: Ivo Anjo サイト: Ivo Anjo.me Rubyの（グローバル）VMロックをトレースする（翻訳） 最近以下のgvl-tracing gemを新しく作成しました。このgemは、Rubyのスレッドの様子をビジュアル表示できます。 これを表示するには、元記事のOpen Example 1リンクをクリックするか、example1.json.gzをダウンロ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_02/120530\" data-wpel-link=\"internal\" target=\"_self\">Rubyの（グローバル）VMロックをトレースする（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -3994,6 +4084,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/flutter_33iosimpeller.html",
+          "author": null,
+          "description": "GoogleはDart言語によるマルチプラットフォーム対応のフレームワーク「Flutter」の最新版となる「Flutter 3.3」の正式リリースを発表しました。 Flutterは今年の5月にmacOSとLinuxアプリの開発が正式版となっ...",
+          "link": "https://www.publickey1.jp/blog/22/flutter_33iosimpeller.html",
+          "publishedOn": "2022-09-05T15:48:08.000Z",
+          "wordCount": 1258,
+          "title": "Flutter 3.3がリリース。パフォーマンスの改善、テキスト周りの改善、iOS向け高速な描画レイヤ「Impeller」を試験的実装",
+          "imageUrl": "https://www.publickey1.jp/2022/0_bDz2chibrm3B6QZE.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/denojavascript.html",
+          "author": null,
+          "description": "主要なJavaScriptランタイムであるNode.jsの作者であり、現在もDenoの開発を進めているライアン・ダール氏は、自身のブログで「Dear Oracle, Please Release the JavaScript Tradema...",
+          "link": "https://www.publickey1.jp/blog/22/denojavascript.html",
+          "publishedOn": "2022-09-05T15:44:55.000Z",
+          "wordCount": 1297,
+          "title": "Denoのライアン・ダール氏「親愛なるオラクル殿、どうかJavaScriptの商標を手放して」と呼びかけ",
+          "imageUrl": "https://www.publickey1.jp/2022/ryan_oracle_js.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/chromesqlitewebassemblysqlitewebweb_sql_api.html",
           "author": null,
@@ -4461,6 +4571,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=284827",
+          "author": "Antonio Regalado",
+          "description": "免疫細胞の一種であるB細胞を用いた遺伝子療法によって希少疾患の「ムコ多糖症」を治療する試みに、米国食品医薬品局が許可を出した。遺伝子編集したB細胞による治験は初となる。実施するのは、イミュソフト（Immusoft）というバイオテクノロジー企業だ。",
+          "link": "https://www.technologyreview.jp/s/284827/a-new-gene-therapy-based-on-antibody-cells-is-about-to-be-tested-in-humans/",
+          "publishedOn": "2022-09-05T21:55:48.000Z",
+          "wordCount": 1352,
+          "title": "遺伝子編集した「B細胞」で希少疾患を治療、米国で初の治験へ",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/01191504/GettyImages-1205738504-crop-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/09/05/285098/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/06/285098/",
+          "publishedOn": "2022-09-05T21:17:49.000Z",
+          "wordCount": 680,
+          "title": "世界初、金星の気象データセット＝慶應大などが作成",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/08/26/284357/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/06/284357/",
+          "publishedOn": "2022-09-05T21:11:58.000Z",
+          "wordCount": 683,
+          "title": "関節リウマチの骨破壊を引き起こす遺伝子を特定＝東大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=282939",
           "author": "Thomas Krendl Gilbert",
