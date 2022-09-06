@@ -6,6 +6,116 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "b8e63918b5f2ab382361f2f041656c85684a14eb",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Data Wrangler は、ML 向けの初の完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データの選択、クレンジング、探索、可視化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Data Wrangler を使用しているお客様は、Amazon S3、Amazon Athena、Amazon Redshift、Snowflake、Databricks Lakehouse Platform などからデータをインポートできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-data-wrangler-accelerates-onboarding-sample-dataset-guided-feature-discovery/",
+          "publishedOn": "2022-09-06T15:49:38.000Z",
+          "wordCount": 321,
+          "title": "Amazon SageMaker Data Wrangler はサンプルデータセットとガイド付き機能検出で導入を促進",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1a41706e18679a5ff056a6727edc2f00756bbb09",
+          "author": "aws@amazon.com",
+          "description": "AWS Security Hub は、Amazon Simple Notification Service (SNS) を通じてお知らせを発行できるようになりました。これにより、最新の機能リリースやお知らせの情報を入手することができます。AWS Security Hub の新機能に関するお知らせを受け取るには、ご希望のリージョンで AWS Security Hub の SNS トピックをサブスクライブしてください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/",
+          "publishedOn": "2022-09-06T15:37:39.000Z",
+          "wordCount": 372,
+          "title": "AWS Security Hub がお知らせ通知トピックの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3280dc81b974929e7ddaa9ea315f35222e3cda4e",
+          "author": "aws@amazon.com",
+          "description": "数回クリックするだけで AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間のデータ転送を安全に実行できるフルマネージド型統合サービスである Amazon AppFlow は、ソースとして Jira Cloud のサポートを開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/",
+          "publishedOn": "2022-09-06T15:25:38.000Z",
+          "wordCount": 313,
+          "title": "Amazon AppFlow がソースとして Jira Cloud のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "39a10ddc1353ccae2497cdeb23a4c8b39018bcbd",
+          "author": "aws@amazon.com",
+          "description": "Amazon ElastiCache for Memcached が HIPAA (医療保険の相互運用性と説明責任に関する法律) 準拠のサービスになりました。ElastiCache for Memcached を使用して保護対象保健情報 (PHI) の保存、処理、アクセスが可能となり、ヘルスケアおよびライフサイエンス用アプリケーションの安全性を強化できるようになりました。ElastiCache for Memcached は、フルマネージド型の Memcached 互換インメモリ Key-Value ストアサービスであり、ミリ秒未満のレイテンシーでリアルタイムアプリケーションを強化します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/",
+          "publishedOn": "2022-09-06T15:13:38.000Z",
+          "wordCount": 315,
+          "title": "Amazon ElastiCache for Memcached が HIPAA に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "53d3652323ebcc4f6287bcb2be44701a9d125bb5",
+          "author": "aws@amazon.com",
+          "description": "AWS Application Discovery Service に Application Discovery Service Agentless Collector が追加され、企業のお客様が移行プロジェクト用に情報収集するのをサポートできるようになりました。デプロイは、ユーザーのオンプレミスデータセンターにインストールされた仮想アプライアンスを使用して行われ、1 回のインストールで数百台のサーバーを監視できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/",
+          "publishedOn": "2022-09-06T15:07:38.000Z",
+          "wordCount": 335,
+          "title": "AWS Application Discovery Service の新しい検出ツールである AWS Application Discovery Service Agentless Collector を紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4eb2c5d103ce2fa9e699dd86003c6a64fd4bdcf8",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker 自動モデルチューニングが、欧州 (ミラノ)、アフリカ (ケープタウン)、アジアパシフィック (大阪)、アジアパシフィック (ジャカルタ) リージョンで利用できるようになったことをお知らせします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-available-new-regions/",
+          "publishedOn": "2022-09-06T15:01:39.000Z",
+          "wordCount": 306,
+          "title": "Amazon SageMaker 自動モデルチューニングが欧州 (ミラノ)、アフリカ (ケープタウン)、アジアパシフィック (大阪)、アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a2b58f4d0bc686f998d1cfdba68be7c069344c93",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue クローラーが、モニタリングと監査を簡素化するために、過去のクローラー実行に関連付けられたプロパティとメトリクスに対応しました。このクローラー履歴機能は、AWS Glue クローラーをベースとしています。クローラーは、データセットの検出、スキーマ情報の抽出、AWS Glue データカタログへの入力に使用できる機能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/announcing-crawler-history-aws-glue/",
+          "publishedOn": "2022-09-06T14:55:38.000Z",
+          "wordCount": 297,
+          "title": "AWS Glue がクローラー履歴に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "43d2ae787725fd7e2b7da37afa5c8b2a5bdb1439",
+          "author": "aws@amazon.com",
+          "description": "アマゾン ウェブ サービス (AWS) は、ハノイとホーチミンに新しいエッジロケーションを立ち上げてベトナムでのサービス提供を拡大することを発表します。これらの新しいエッジロケーションでサービスを提供されるエンドユーザーは、アプリケーションの可用性、セキュリティ、パフォーマンスが向上します。新しいロケーションでは、Amazon CloudFront や AWS Global Accelerator などのエッジネットワークサービスが提供されます。それらのサービスは、分散型サービス拒否 (DDoS) 攻撃からの保護、ウェブアプリケーションファイアウォール (WAF)、ボットからの保護などの機能を持つセキュリティサービスである AWS Shield と統合されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/",
+          "publishedOn": "2022-09-06T14:49:38.000Z",
+          "wordCount": 291,
+          "title": "AWS がベトナムの新しいエッジロケーションを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "edda14c000d29be662126cb42dbc98e41f741dc4",
+          "author": "aws@amazon.com",
+          "description": "本日、Red Hat OpenShift Service on AWS (ROSA) のアジアパシフィック (ジャカルタ) リージョンでの提供開始を発表します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-09-06T14:16:38.000Z",
+          "wordCount": 327,
+          "title": "Red Hat OpenShift Service on AWS (ROSA) がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9672c15b491dee10ca3fdb7b73c63dc31f01c846",
+          "author": "aws@amazon.com",
+          "description": "AWS Firewall Manager で、AWS Network Firewall ポリシーの AWS マネージドルールを一元的に設定できるようになりました。これにより、独自のファイアウォールルールを作成および維持しなくても、最新のセキュリティ上の脅威に対応できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/",
+          "publishedOn": "2022-09-06T14:10:38.000Z",
+          "wordCount": 348,
+          "title": "AWS Firewall Manager が AWS Network Firewall の AWS マネージドルールのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3e9dced5d7e766198a623c493e85212a5cf8d03b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for SQL Server で、SQL Server Reporting Services (SSRS) の E メールサブスクリプションがサポートされるようになりました。Amazon RDS for SQL Server の DB インスタンスで E メールサブスクリプション機能を使用しても追加料金は発生しません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/",
+          "publishedOn": "2022-09-06T14:04:39.000Z",
+          "wordCount": 361,
+          "title": "Amazon RDS for SQL Server が SQL Server Reporting Services (SSRS) 向け E メールサブスクリプションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "66e7fbf006ccbac30cb32ac1d2a7354d3f6a085a",
           "author": "aws@amazon.com",
           "description": "Amazon Connect では、キャパシティプランニングの目的で、コンタクトセンターをどの曜日に営業するかを選択し、管理できるようになりました。この新機能は、Amazon Connect 予測、キャパシティ計画、スケジューリング (プレビュー) に追加され、これにより、コンタクトの量と平均処理時間を予測し、最適な人員レベルを判断し、エージェントのスケジュールを立て、適切な時間に適切なエージェントを配置することが可能になります。",
@@ -1728,36 +1838,6 @@
           "wordCount": 3403,
           "title": "特集「CIOの履歴書」 CIOは意思決定を躊躇う人の背中を押す仕事（前編） 株式会社digil 田口慶二氏",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/4.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45161",
-          "author": "石川麻里",
-          "description": "データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 毎2回を目途に公開・メルマガ配信を続けてきた【データのじかんNews】ですが、よりタイムリーに、よりコンパクトに、と […]",
-          "link": "https://data.wingarc.com/datatimes_news202208-02-45161?utm_source=rss&utm_medium=rss&utm_campaign=datatimes_news202208-02",
-          "publishedOn": "2022-08-08T01:00:57.000Z",
-          "wordCount": 2997,
-          "title": "データのじかんNews 2022年8月Part.02",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/datatimesnews_2022_08_part2_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=44545",
-          "author": "tadokoroyusuke",
-          "description": "CIOに至るまでのキャリアについて ── 福田さんは以前からCIOを目指されていたのでしょうか？ 福田氏　実はまさか自分がCIOをやるとは思っていませんでした。今思えばラッキーだったのは、最も経営やビジネスに近いアプリケ […]",
-          "link": "https://data.wingarc.com/resume-of-cio-fukudayuzuru-44545?utm_source=rss&utm_medium=rss&utm_campaign=resume-of-cio-fukudayuzuru",
-          "publishedOn": "2022-08-07T23:30:01.000Z",
-          "wordCount": 3580,
-          "title": "特集「CIOの履歴書」 CIOが果たす役割は「ドラえもん」 富士通株式会社 福田譲氏",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/5.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=44960",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：「考えるな、感じろ」ってそういう意味か！って分かる年頃になってきたかもしれません（笑） みなさん、おはようございます。 今までの僕って、あれもこれも欲しいってタイプじゃなかったんで、買い物するときもけっこ […]",
-          "link": "https://data.wingarc.com/taimu-kun-132-44960?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-132",
-          "publishedOn": "2022-08-07T23:00:48.000Z",
-          "wordCount": 2755,
-          "title": "【タイムくん第132話】モーメント分析",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/132.jpg"
         }
       ]
     },
@@ -2423,26 +2503,6 @@
           "wordCount": null,
           "title": "Twitter、Card Validatorからプレビュー機能を削除。カード情報のキャッシュは最大7日",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810",
-          "author": null,
-          "description": "自動車業界に、Google、そしてAndroidの波が押し寄せています。",
-          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed",
-          "publishedOn": "2022-08-08T07:48:02.000Z",
-          "wordCount": 234,
-          "title": "あなたのクルマに、Google搭載されていますか？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/monthly-python-2208",
-          "author": null,
-          "description": "筒井@ryu22eです。8月の「Python Monthly Topics」は、Djangoでの非同期Viewの使い方について解説します。",
-          "link": "https://gihyo.jp/article/2022/08/monthly-python-2208?utm_source=feed",
-          "publishedOn": "2022-08-08T01:22:00.000Z",
-          "wordCount": 396,
-          "title": "Django非同期View入門",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
         }
       ]
     },
@@ -3090,26 +3150,6 @@
           "wordCount": 153,
           "title": "Twitter、Card Validatorからプレビュー機能を削除。カード情報のキャッシュは最大7日",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1924_twitter-card-validator-preview-removal.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810",
-          "author": null,
-          "description": "自動車業界に、Google、そしてAndroidの波が押し寄せています。",
-          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed",
-          "publishedOn": "2022-08-08T07:48:02.000Z",
-          "wordCount": null,
-          "title": "あなたのクルマに、Google搭載されていますか？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/monthly-python-2208",
-          "author": null,
-          "description": "筒井@ryu22eです。8月の「Python Monthly Topics」は、Djangoでの非同期Viewの使い方について解説します。",
-          "link": "https://gihyo.jp/article/2022/08/monthly-python-2208?utm_source=feed",
-          "publishedOn": "2022-08-08T01:22:00.000Z",
-          "wordCount": null,
-          "title": "Django非同期View入門",
-          "imageUrl": null
         }
       ]
     },
@@ -3757,26 +3797,6 @@
           "wordCount": null,
           "title": "Twitter、Card Validatorからプレビュー機能を削除。カード情報のキャッシュは最大7日",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810",
-          "author": null,
-          "description": "自動車業界に、Google、そしてAndroidの波が押し寄せています。",
-          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed",
-          "publishedOn": "2022-08-08T07:48:02.000Z",
-          "wordCount": 234,
-          "title": "あなたのクルマに、Google搭載されていますか？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/monthly-python-2208",
-          "author": null,
-          "description": "筒井@ryu22eです。8月の「Python Monthly Topics」は、Djangoでの非同期Viewの使い方について解説します。",
-          "link": "https://gihyo.jp/article/2022/08/monthly-python-2208?utm_source=feed",
-          "publishedOn": "2022-08-08T01:22:00.000Z",
-          "wordCount": 396,
-          "title": "Django非同期View入門",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
         }
       ]
     },
@@ -4176,16 +4196,6 @@
           "wordCount": 421,
           "title": "★祝★『お兄ちゃんはおしまい！』(ねことうふ様)TVアニメ化決定！",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/onimai_tv_animated_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/ebi/2022_08_08/120554",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/nuxtjs_lp_site_coding_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは ebi です。 前回の記事で NuxtJS と WordPress を組み合わせるようなサイト構成の検証を軽くやったんですが、あまり真面目なコーディングをやらず仕舞いでした。 WP REST API × NuxtJS で SSG するサイト作り 今回は NuxtJS 環境をベースでやる LP や Web サイトのコーディングに少しチャレンジしてみたいと思います。 Next.js も触りたかったんだけど、前回があまりにしょぼい内容しかやってなかったので次回以降にお預けと言うことで今回も NuxtJS です。 検証用のコーディング題材 って皆さん滅茶苦茶困りませんか？ デザインスキルとかまるでないし、かと [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/ebi/2022_08_08/120554\" data-wpel-link=\"internal\" target=\"_self\">NuxtJS で構築する LP・サイトコーディング開発環境</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/ebi/2022_08_08/120554",
-          "publishedOn": "2022-08-08T08:30:51.000Z",
-          "wordCount": 1069,
-          "title": "NuxtJS で構築する LP・サイトコーディング開発環境",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/nuxtjs_lp_site_coding_eyecatch-min.png"
         }
       ]
     },
@@ -4194,6 +4204,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/azurearmampere_altrajava.html",
+          "author": null,
+          "description": "マイクロソフトは、4月からプレビューとしていたArmサーバによる仮想マシンの提供を正式サービスとしたことを発表しました。 ArmのプロセッサとしてはAmpere Computing社が開発したAmpere Altraプロセッサが採用されてい...",
+          "link": "https://www.publickey1.jp/blog/22/azurearmampere_altrajava.html",
+          "publishedOn": "2022-09-06T15:57:29.000Z",
+          "wordCount": 1324,
+          "title": "AzureでArmサーバによる仮想マシンの正式提供が開始、「Ampere Altra」を採用。Javaはコード変更なしで実行可能",
+          "imageUrl": "https://www.publickey1.jp/2022/FbhXhW0XEAAL-nT.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsnetlinuxlinuxactive_directorycredentials_fetcher.html",
+          "author": null,
+          "description": "Amazon Web Services（AWS）の.NETオープンソースチームは、Linuxコンテナ内のサービスからActive Directoryへのアクセスを実現する「Credentials Fetcher」をオープンソースとして公開し...",
+          "link": "https://www.publickey1.jp/blog/22/awsnetlinuxlinuxactive_directorycredentials_fetcher.html",
+          "publishedOn": "2022-09-06T15:07:37.000Z",
+          "wordCount": 1295,
+          "title": "AWS、.NETのLinuxコンテナ化を容易に。LinuxコンテナからActive Directoryにアクセスできる「Credentials Fetcher」をオープンソース化。",
+          "imageUrl": "https://www.publickey1.jp/2022/FbgypB9XkAI4zTX.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/flutter_33iosimpeller.html",
           "author": null,
@@ -5350,16 +5380,6 @@
           "wordCount": 1350,
           "title": "米EV減税「諸刃の剣」、米国産バッテリー優遇で供給は間に合うか？",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/02191504/AP_21077475549688-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/08/282784/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/08/282784/",
-          "publishedOn": "2022-08-08T07:35:06.000Z",
-          "wordCount": 672,
-          "title": "120億年前の銀河周辺のダークマターの存在を初めて検出＝名大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
