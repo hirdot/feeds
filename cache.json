@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "5f4f21372f591240f0cf417f704d5a6c56925852",
+          "author": "aws@amazon.com",
+          "description": "Amazon AppFlow は、AWS のサービスと Software as a Service (SaaS) アプリケーションの間のデータ転送を、わずか数クリックで安全に実行するフルマネージドの統合サービスです。このたび、Salesforce が 2022 年夏にリリースした最新 API、Salesforce API バージョン 55.0 のサポートを開始しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/",
+          "publishedOn": "2022-09-07T16:32:08.000Z",
+          "wordCount": 348,
+          "title": "AppFlow、Salesforce バージョン 55.0 および AWS PrivateLink の追加リージョンをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d691f537edcd48b623de49a63944636eb5fbef42",
+          "author": "aws@amazon.com",
+          "description": "Amazon Macie に、許可リストを作成する新機能が追加されました。今後は、許可リストを作成および使用して、Macie で機密データとして報告したくないテキストまたはテキストパターンを特定できるようになります。例えば、許可リストには会社の住所、幹部の氏名、テスト用のサンプルデータなどを含めることができます。機密データの検出ジョブを作成する際に、増え続ける Macie のマネージドデータ識別子 (MDI) の中から選択することに加え、許可リストを 1 つ以上使用するようにジョブを設定することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/",
+          "publishedOn": "2022-09-07T16:31:18.000Z",
+          "wordCount": 339,
+          "title": "Amazon Macie、機密データの識別を向上のため、許可リストを使って検出結果を調整する機能を追加し、機械学習モデルも強化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "b8e63918b5f2ab382361f2f041656c85684a14eb",
           "author": "aws@amazon.com",
           "description": "Amazon SageMaker Data Wrangler は、ML 向けの初の完全統合開発環境 (IDE) である Amazon SageMaker Studio で、機械学習 (ML) のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データ準備と特徴量エンジニアリングのプロセスを簡素化し、データの選択、クレンジング、探索、可視化など、データ準備ワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Data Wrangler を使用しているお客様は、Amazon S3、Amazon Athena、Amazon Redshift、Snowflake、Databricks Lakehouse Platform などからデータをインポートできます。",
@@ -1334,56 +1354,6 @@
           "wordCount": 304,
           "title": "Amazon Pinpoint 無料通話番号登録のワークフローを発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "55901463655ee629b7d0a7fa07b9fde78d4b9cf5",
-          "author": "aws@amazon.com",
-          "description": "OpenSearch と OpenSearch Dashboards バージョン 1.3 が Amazon OpenSearch Service で実行できるようになりました。新しいバージョンには、オブザーバビリティ、SQL と PPL、アラートと異常検出に関する新機能と改善点がいくつかあります。OpenSearch Service コンソールまたは API を使用して、以前のどのバージョンの OpenSearch からでも、または Elasticsearch バージョン 6.8 や 7.x から直接ドメインをシームレスに OpenSearch バージョン 1.3 にアップグレードできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/",
-          "publishedOn": "2022-08-09T09:51:48.000Z",
-          "wordCount": 423,
-          "title": "Amazon OpenSearch Service で OpenSearch バージョン 1.3 のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "58dc0eebf0ab92c34a67bb5ce85a5f22d5e0b3d7",
-          "author": "aws@amazon.com",
-          "description": "AWS ParallelCluster 3.2 リリースの一般提供を開始しました。AWS ParallelCluster は全面的なサポートとメンテナンスが提供されているオープンソースのクラスター管理ツールです。このツールを使用すると、科学者、研究者、IT 管理者が、AWS クラウドでハイパフォーマンスコンピューティング (HPC) クラスターのデプロイと管理をより簡単に実行できるようになります。HPC クラスターはコンピューティング、ストレージ、およびネットワーキングリソースを緊密に結び付けた複数のコレクションで、お客様はこれを使用し科学やエンジニアリングの分野で大規模なワークロードを実行できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/",
-          "publishedOn": "2022-08-09T09:50:51.000Z",
-          "wordCount": 348,
-          "title": "AWS ParallelCluster 3.2 のファイルシステムの機能強化とその他の要望の多い機能について",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a8d08b913e071e6278cf1bbdb15538099521bb99",
-          "author": "aws@amazon.com",
-          "description": "Amazon OpenSearch Service は、既存の gp2、マグネティック、PIOPS (io1) の各ボリュームに加えて、新たに Amazon Elastic Block Store (Amazon EBS) ボリュームタイプ gp3 (汎用 SSD) のサポートを開始しました。これにより、gp3 ボリュームを最新世代の T3、R5、R6g、M5、M6g、C5、C6g の各インスタンスファミリーでご利用いただけるようになります。Amazon EBS gp3 を使用すれば、ストレージ容量に関係なくパフォーマンスをプロビジョニングすることができ、OpenSearch Service で、ベースラインパフォーマンスを既存の gp2 ボリュームよりも GB あたり最大 9.6% 低い料金で利用できます。さらに、gp3 を使用すれば、R5、R6g、M5、M6g の各インスタンスファミリーでさらに密度の高いストレージを利用でき、コストをより一層最適化することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/amazon-opensearch-service-support-ebs-gp3-volume-type/",
-          "publishedOn": "2022-08-09T09:48:06.000Z",
-          "wordCount": 362,
-          "title": "Amazon OpenSearch Service、EBS gp3 ボリュームタイプのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e75e941550c4673affa335f60f6e3c92991a9222",
-          "author": "aws@amazon.com",
-          "description": "AWS Backup for Amazon S3 を使用して、Amazon S3 バックアップを AWS リージョンと AWS アカウント全体でコピーできるようになりました。Amazon S3 のバックアップを複数の AWS リージョンに配置することで、バックアップデータの分離可能で保護されたコピーを維持して、データ保護とディザスタリカバリに関するコンプライアンス要件を満たすことができます。さらに、AWS アカウント全体のバックアップにより、不注意または不正なアクションに対する追加の保護レイヤーが提供されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-backup-supports-copying-amazon-s3-aws-regions-accounts/",
-          "publishedOn": "2022-08-09T09:47:17.000Z",
-          "wordCount": 358,
-          "title": "AWS Backup が AWS リージョンとアカウント全体での Amazon S3 バックアップのコピーのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "296c1e35e57c188058d4e8c57cbc2650fb798a2e",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower のリージョン拒否ガードレールが更新されて AWS グローバルサービス API が追加され、設定やダッシュボード情報の取得を支援し、インタラクティブなチャットエージェントをサポートするようになりました。リージョン拒否ガードレールである「Deny access to AWS based on the requested AWS Region (リクエストされた AWS リージョンに基づいて AWS へのアクセスを拒否する)」は、AWS Control Tower 環境の登録アカウントに対して、AWS のサービスと操作へのアクセスを制限するのに役立ちます。AWS Control Tower のリージョン拒否ガードレールは、AWS のサービスにアップロードする顧客データが、指定した AWS リージョンにのみ配置されるようにするのに役立ちます。顧客データが保存および処理される AWS リージョン (複数可) を選択できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/",
-          "publishedOn": "2022-08-09T09:46:27.000Z",
-          "wordCount": 366,
-          "title": "AWS Control Tower のリージョン拒否ガードレールが拡張され、追加の AWS Chatbot、Amazon S3 Storage Lens、Amazon S3 Multi-Region Access Point の API が含まれるように",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1441,16 +1411,6 @@
           "wordCount": 538,
           "title": "RubyKaigi 2022 に永和システムマネジメントから @fugakkbn @koic @ima1zumi の 3人が登壇します",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220815/20220815105407.png"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/start-accepting-ise-ebi-curry",
-          "author": null,
-          "description": "こんにちは、ふーが ( @fugakkbn ) です。 RubyKaigi 2022 において、弊社は「伊勢海老スポンサー」として協賛させていただく旨をお知らせしました。 RubyKaigi 2022 に伊勢海老スポンサーとして協賛します🦐 - esm アジャイル事業部 開発者ブログ こちらはオンライン参加予定の皆様のご自宅に「伊勢海老カレー」をお届けし、ランチタイムに一緒に食べながら懇親しましょう！という趣旨です。 本日より申込み受付を開始します！先着順です！！ 受付期間 本日 2022年8月9日(火)〜2022年8月15日(月) 23:59 まで。 ※定員に達し次第、受付期間内であっても申…",
-          "link": "https://blog.agile.esm.co.jp/entry/start-accepting-ise-ebi-curry",
-          "publishedOn": "2022-08-09T09:30:23.000Z",
-          "wordCount": 471,
-          "title": "伊勢海老カレー🦐🍛 の受付を開始します！",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/4207112889904993666/1660037423"
         }
       ]
     },
@@ -2443,26 +2403,6 @@
           "wordCount": null,
           "title": "#03　クラウドに“変革”をもたらすのは誰か？―「Cloud Operator Days Tokyo 2022」クロージングイベントレポート",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/mysql-rcn0177",
-          "author": null,
-          "description": "MySQLでは、プライマリキー（主キー）がないテーブルが存在すると、運用中に問題になるケースが多々あります。プライマリキーを追加したいけれど、塩漬けされたアプリケーションやパッケージ製品のため改修できず、プライマリキーを追加できないこともあるでしょう。今回はそんなときに役に立つ、MySQL 8.0.30の新機能「不可視プライマリキー」について紹介したいと思います。",
-          "link": "https://gihyo.jp/article/2022/08/mysql-rcn0177?utm_source=feed",
-          "publishedOn": "2022-08-09T00:28:00.000Z",
-          "wordCount": null,
-          "title": "第177回　MySQL 8.0.30の新機能：不可視プライマリキーについて",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/twitter-card-validator-preview-removal",
-          "author": null,
-          "description": "Twitterは今月、開発者コミュニティサイトにおいて、Card Validatorからプレビュー機能を削除したことを告知した。また、Twitterカードの情報が通常、最大7日キャッシュされることもあわせてコメントした。",
-          "link": "https://gihyo.jp/article/2022/08/twitter-card-validator-preview-removal?utm_source=feed",
-          "publishedOn": "2022-08-09T00:08:00.000Z",
-          "wordCount": null,
-          "title": "Twitter、Card Validatorからプレビュー機能を削除。カード情報のキャッシュは最大7日",
-          "imageUrl": null
         }
       ]
     },
@@ -3120,26 +3060,6 @@
           "wordCount": null,
           "title": "#03　クラウドに“変革”をもたらすのは誰か？―「Cloud Operator Days Tokyo 2022」クロージングイベントレポート",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/mysql-rcn0177",
-          "author": null,
-          "description": "MySQLでは、プライマリキー（主キー）がないテーブルが存在すると、運用中に問題になるケースが多々あります。プライマリキーを追加したいけれど、塩漬けされたアプリケーションやパッケージ製品のため改修できず、プライマリキーを追加できないこともあるでしょう。今回はそんなときに役に立つ、MySQL 8.0.30の新機能「不可視プライマリキー」について紹介したいと思います。",
-          "link": "https://gihyo.jp/article/2022/08/mysql-rcn0177?utm_source=feed",
-          "publishedOn": "2022-08-09T00:28:00.000Z",
-          "wordCount": 389,
-          "title": "第177回　MySQL 8.0.30の新機能：不可視プライマリキーについて",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/twitter-card-validator-preview-removal",
-          "author": null,
-          "description": "Twitterは今月、開発者コミュニティサイトにおいて、Card Validatorからプレビュー機能を削除したことを告知した。また、Twitterカードの情報が通常、最大7日キャッシュされることもあわせてコメントした。",
-          "link": "https://gihyo.jp/article/2022/08/twitter-card-validator-preview-removal?utm_source=feed",
-          "publishedOn": "2022-08-09T00:08:00.000Z",
-          "wordCount": 153,
-          "title": "Twitter、Card Validatorからプレビュー機能を削除。カード情報のキャッシュは最大7日",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1924_twitter-card-validator-preview-removal.png"
         }
       ]
     },
@@ -3797,26 +3717,6 @@
           "wordCount": null,
           "title": "#03　クラウドに“変革”をもたらすのは誰か？―「Cloud Operator Days Tokyo 2022」クロージングイベントレポート",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/mysql-rcn0177",
-          "author": null,
-          "description": "MySQLでは、プライマリキー（主キー）がないテーブルが存在すると、運用中に問題になるケースが多々あります。プライマリキーを追加したいけれど、塩漬けされたアプリケーションやパッケージ製品のため改修できず、プライマリキーを追加できないこともあるでしょう。今回はそんなときに役に立つ、MySQL 8.0.30の新機能「不可視プライマリキー」について紹介したいと思います。",
-          "link": "https://gihyo.jp/article/2022/08/mysql-rcn0177?utm_source=feed",
-          "publishedOn": "2022-08-09T00:28:00.000Z",
-          "wordCount": null,
-          "title": "第177回　MySQL 8.0.30の新機能：不可視プライマリキーについて",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/twitter-card-validator-preview-removal",
-          "author": null,
-          "description": "Twitterは今月、開発者コミュニティサイトにおいて、Card Validatorからプレビュー機能を削除したことを告知した。また、Twitterカードの情報が通常、最大7日キャッシュされることもあわせてコメントした。",
-          "link": "https://gihyo.jp/article/2022/08/twitter-card-validator-preview-removal?utm_source=feed",
-          "publishedOn": "2022-08-09T00:08:00.000Z",
-          "wordCount": null,
-          "title": "Twitter、Card Validatorからプレビュー機能を削除。カード情報のキャッシュは最大7日",
-          "imageUrl": null
         }
       ]
     },
@@ -4226,16 +4126,6 @@
           "wordCount": 1027,
           "title": "[Ruby] Hashie::Mashのすすめ",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_hashie_mash_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/yoshimaaai/2022_08_09/120503",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/onimai_tv_animated_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちわ よしまいです。 海外ドラマ「ベター・コール・ソウル」が最終回目前で大変アツい展開となっておりまして感情の処理が全然追い付きません。 さて、今回はとっても嬉しいニュースのご紹介です。 原作者ねことうふ様による人気コミック『お兄ちゃんはおしまい！』 引きこもりニートのお兄ちゃんが、妹に怪しいお薬を飲まされてかわいい女の子に変身してしまうトランスコメディ作品！ 著者ねことうふ様による同人サークル「GRINP」にて2017年より連載を開始。 商業版コミックス化や月刊誌での連載開始を経て…… なんとこの度、TVアニメ化が決定したそうです！！！！ ／『お兄ちゃんはおしまい！』　❌TVアニメ化決定❌＼ 引きこもりの [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/yoshimaaai/2022_08_09/120503\" data-wpel-link=\"internal\" target=\"_self\">★祝★『お兄ちゃんはおしまい！』(ねことうふ様)TVアニメ化決定！</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/yoshimaaai/2022_08_09/120503",
-          "publishedOn": "2022-08-09T08:30:39.000Z",
-          "wordCount": 421,
-          "title": "★祝★『お兄ちゃんはおしまい！』(ねことうふ様)TVアニメ化決定！",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/onimai_tv_animated_eyecatch-min.png"
         }
       ]
     },
@@ -4244,6 +4134,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/denonpm3httpapideno_125.html",
+          "author": null,
+          "description": "JavaScriptランタイムのDenoの最新版「Deno 1.25」がリリースされました。npm対応や高速化されたHTTP Server APIの実験的実装などの新機能が搭載されています。 Deno v1.25 is released d...",
+          "link": "https://www.publickey1.jp/blog/22/denonpm3httpapideno_125.html",
+          "publishedOn": "2022-09-07T15:48:58.000Z",
+          "wordCount": 1278,
+          "title": "Deno、早くもnpm対応と3倍高速化したHTTPサーバAPIなどを実装した「Deno 1.25」をリリース",
+          "imageUrl": "https://www.publickey1.jp/2022/9_nm5MkQ.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/it20212022idc_japan.html",
+          "author": null,
+          "description": "調査会社 IDC Japanは、国内ITサービス市場予測を発表しました。 発表によると、2021年の国内ITサービス市場は、新型コロナ感染拡大の影響によりマイナス成長となった前年からの回復が進み、前年比3.4％増の5兆8808億円となりまし...",
+          "link": "https://www.publickey1.jp/blog/22/it20212022idc_japan.html",
+          "publishedOn": "2022-09-07T15:12:34.000Z",
+          "wordCount": 1233,
+          "title": "国内ITサービス市場、新型コロナ感染拡大や半導体不足があったものの2021年は回復、2022年も堅調との予測。IDC Japan",
+          "imageUrl": "https://www.publickey1.jp/2022/itserviceidcjapan2022b.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/azurearmampere_altrajava.html",
           "author": null,
@@ -4731,6 +4641,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=284842",
+          "author": "Rhiannon Williams",
+          "description": "一度ツイートした内容を編集できる機能がツイッターに追加される。かねてから要望が多い機能だが、新たな問題を生む可能性がある。",
+          "link": "https://www.technologyreview.jp/s/284842/an-edit-button-wont-fix-twitters-problems/",
+          "publishedOn": "2022-09-07T21:59:54.000Z",
+          "wordCount": 1337,
+          "title": "ツイッターについに「編集」ボタン、悪用の懸念も",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/02025504/3D-twitter-edit2-1-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=285327",
           "author": "MIT Technology Review Audio Studio",
@@ -5390,36 +5310,6 @@
           "wordCount": 1253,
           "title": "軍需に沸くAI企業、 ウクライナ侵攻で スタートアップにも商機",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/07182504/5111995-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=282809",
-          "author": "Koichi Motoda",
-          "description": "MITテクノロジーレビューが選ぶ「Innovators Under 35 Japan」に選ばれた本多達也氏（富士通）、坪井俊輔氏（サグリ代表）、小嶌不二夫氏（ピリカ代表）はそれぞれ異なる立場やテーマで社会的インパクトのある課題解決に取り組んでいる。なぜ、社会課題の解決に取り組むことになったのか？ 語り合った。",
-          "link": "https://www.technologyreview.jp/s/282809/why-did-tr35-innovators-turn-their-attention-to-social-issues/",
-          "publishedOn": "2022-08-09T09:27:10.000Z",
-          "wordCount": 1431,
-          "title": "MITTRが選ぶU35イノベーターはなぜ、社会課題に目を向けたのか？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/09134650/IMG20220722172949-scaled-e1660023694677-1334x787.jpg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/08/282791/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/09/282791/",
-          "publishedOn": "2022-08-09T03:54:25.000Z",
-          "wordCount": 687,
-          "title": "新型コロナの膜タンパク質構造を解明、新薬開発に期待＝東大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=282350",
-          "author": "Casey Crownhart",
-          "description": "米上院が可決した大規模な気候変動対策の1つとして、電気自動車に対する税控除の拡大が盛り込まれた。米国製のバッテリーや国内調達した鉱物の使用を求めているが、税控除によるEVの需要拡大によって供給が追いつくかは不明だ。",
-          "link": "https://www.technologyreview.jp/s/282350/ev-tax-credits-could-stall-out-on-lack-of-us-battery-supply/",
-          "publishedOn": "2022-08-09T03:30:01.000Z",
-          "wordCount": 1350,
-          "title": "米EV減税「諸刃の剣」、米国産バッテリー優遇で供給は間に合うか？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/02191504/AP_21077475549688-1400x787.jpeg"
         }
       ]
     }
