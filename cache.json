@@ -1454,36 +1454,6 @@
           "wordCount": 294,
           "title": "AWS サポート、AWS サポートセンターコンソールで新しいドメインの使用を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e5575a167aa54fdc6405f8dd9e7fd4f250bd8334",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle は Oracle Database 12.1 用の 2022 年 4 月のパッチセットの更新 (PSU)、および Oracle Database 19c と 21c 用のリリース更新 (RU) をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/",
-          "publishedOn": "2022-08-08T10:33:34.000Z",
-          "wordCount": 380,
-          "title": "Amazon RDS for Oracle が 12.1 の 2022 年 4 月のパッチセットの更新 (PSU) と 19c と 21c のリリース更新 (RU) のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "297ab42974710a0d4c4435bd05f75f4eb23e02b1",
-          "author": "aws@amazon.com",
-          "description": "AWS Security Hub では、AWS GovCloud (米国) で集約リージョンを指定して一部またはすべてのリージョンをその集約リージョンにリンクできるようになりました。これにより、アカウントおよびリンクされたリージョン全体のすべてのセキュリティの検出結果を一元的に表示できます。あるリージョンを集約リージョンにリンクすると、検出結果はリージョン間で継続的に同期されます。リンクされたリージョンの検出結果に対する更新は、集約リージョンにレプリケートされ、集約リージョンの検出結果に対する更新は、検出結果の発生元のリンクされたリージョンにレプリケートされます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/",
-          "publishedOn": "2022-08-08T10:32:46.000Z",
-          "wordCount": 382,
-          "title": "AWS Security Hub が AWS GovCloud (米国) で検出結果のクロスリージョン集約の提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f0ffcd2614e7a0bdb817b0c6bfb73f46c45b67ed",
-          "author": "aws@amazon.com",
-          "description": "AWS Global Accelerator で、IPv6 トラフィックをリージョン Application Load Balancer エンドポイントにルーティングできるデュアルスタックのアクセラレーターが提供されるようになりました。本日より、トラフィックを Application Load Balancer エンドポイントにルーティングしながら、IPv4 と IPv6 の両方のトラフィックに対して AWS Global Accelerator の可用性、セキュリティ、パフォーマンスの利点を享受できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/07/aws-global-accelerator-announces-ipv6-support/",
-          "publishedOn": "2022-08-08T10:31:56.000Z",
-          "wordCount": 341,
-          "title": "AWS Global Accelerator が IPv6 のサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1549,6 +1519,16 @@
       "feedUrl": "https://data.wingarc.com/feed",
       "siteUrl": "https://data.wingarc.com",
       "articles": [
+        {
+          "id": "https://data.wingarc.com/?p=41918",
+          "author": "BunkiMIyata",
+          "description": "みなさんは、「ITパスポート試験（iパス）」をご存じでしょうか？ 2022年4月に7歳の合格者が現れ、最年少合格者記録を1年5カ月ぶりに更新したというニュースで知った方も多いかもしれません。ITパスポートはIT系国家試験 […]",
+          "link": "https://data.wingarc.com/it-passport-exam-41918?utm_source=rss&utm_medium=rss&utm_campaign=it-passport-exam",
+          "publishedOn": "2022-09-06T23:00:39.000Z",
+          "wordCount": 2923,
+          "title": "「ITパスポート試験」とはどんな試験？ 実際に受検した筆者の体験談も併せてご紹介！",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/DTNJ_ITpassport.jpg"
+        },
         {
           "id": "https://data.wingarc.com/?p=45904",
           "author": "石川麻里",
@@ -2455,6 +2435,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810",
+          "author": null,
+          "description": "自動車業界に、Google、そしてAndroidの波が押し寄せています。",
+          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed",
+          "publishedOn": "2022-08-10T01:20:00.000Z",
+          "wordCount": 234,
+          "title": "あなたのクルマに、Google搭載されていますか？",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727",
           "author": null,
           "description": "2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。",
@@ -3102,6 +3092,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810",
+          "author": null,
+          "description": "自動車業界に、Google、そしてAndroidの波が押し寄せています。",
+          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed",
+          "publishedOn": "2022-08-10T01:20:00.000Z",
+          "wordCount": 234,
+          "title": "あなたのクルマに、Google搭載されていますか？",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727",
           "author": null,
           "description": "2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。",
@@ -3747,6 +3747,16 @@
           "wordCount": 325,
           "title": "「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1925_data-ai-summit22.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810",
+          "author": null,
+          "description": "自動車業界に、Google、そしてAndroidの波が押し寄せています。",
+          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed",
+          "publishedOn": "2022-08-10T01:20:00.000Z",
+          "wordCount": null,
+          "title": "あなたのクルマに、Google搭載されていますか？",
+          "imageUrl": null
         },
         {
           "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727",
