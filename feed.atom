@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-08T10:01:08.571Z</updated>
+    <updated>2022-09-08T22:01:08.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VMware Cloud on AWS と Amazon FSx for NetApp ONTAP との統合を発表]]></title>
+        <id>82f1fe840d0e13aa4bf8fa5155d194e7e37a8d86</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/"/>
+        <updated>2022-09-08T18:58:01.000Z</updated>
+        <summary type="html"><![CDATA[AWS と VMware は VMware Cloud on AWS 向けに共同で開発した補助的なネットワークファイルシステム (NFS) データストアオプションの提供を開始します。これにより、費用が抑えられ、クラウドへの移行を加速できます。Amazon FSx for NetApp ONTAP は AWS で NetApp ONTAP ファイルシステムを実行できるようにするフルマネージドサービスです。今回の統合により、コンピューティングリソースから独立して、スケーラブルでパフォーマンスに優れたストレージを VMware Cloud on AWS のソフトウェアで定義されたデータセンター (SDDC) にアタッチできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Personalize、フィルタが考慮するイベントの数を増やし、より関連性の高いレコメンデーションを表示]]></title>
+        <id>c81b4971405015cb4b7b51ba487f272e49640291</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/"/>
+        <updated>2022-09-08T17:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Personalize のフィルタ機能が拡張され、上限が増えて、各フィルタが考慮するインタラクションの数を制御できるようになりました。Amazon Personalize のフィルタは、ユーザーがすでに購入した製品や視聴済みの動画、あるいは、最近のインタラクションですでに利用したその他デジタルコンテンツを削除することで、レコメンデーションの精度を高めます。レコメンデーションを繰り返し表示することはユーザーのストレスになりかねず、ユーザーエンゲージメントの低下や収益機会の損失につながる可能性があります。このたび、Amazon Personalize に、フィルタが考慮するインタラクションの数を増やせる機能が追加されました。これにより、とりわけユーザーが大量のインタラクションを行うユースケースで、過去のアクティビティを取得する精度が向上します。今後は、フィルタを使って、イベントタイプごとにユーザーあたり最大 100 のインタラクションを考慮できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon QuickSight がデータセット管理用の新しいユーザーインターフェイスをリリース]]></title>
+        <id>095265dd00bbbb13f019336088a1315a11cb3375</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/"/>
+        <updated>2022-09-08T17:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight で、データセット管理用の新しいユーザーインターフェイスがリリースされます。これまでデータセット管理は限られたスペースのポップアップダイアログモーダルで行われていて、すべての機能が小さな 1 つのモーダルに表示されていました。新しいデータセット管理のユーザーインターフェイスでは、既存のポップアップダイアログモーダルがフルページに変わり、概要、リフレッシュ、権限、使用量など、データセットのカテゴリの詳細がより明確に示されます。また、この更新に基づいて今後も機能拡張と新機能追加が行われる予定です。詳細については、こちらをご覧ください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しい Amazon QuickSight のサインイン方法が利用可能に]]></title>
+        <id>8f98c828e6693187ce5142ea6a4af51941a94b07</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/"/>
+        <updated>2022-09-08T17:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Amazon QuickSight ではユーザーがサービスにサインインする方法が変わり、既存の AWS アプリケーションのサインインの様式と同じような見た目と使い方になります。QuickSight のサインインは次の 3 ステップになります。1) 最初のページで QuickSight アカウント名を入力する。2) 次のページでユーザーネームを入力する。3) 3 ページ目はサインインの設定 (ネイティブ QuickSight、Active Directory ユーザー、AWS ルートユーザー、IAM ユーザー) によって異なる。シングルサインオン (SSO) を使用しているユーザーの手順は、変更ありません。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for Oracle が M6i と R6i インスタンスのサポートを新しいリージョンで開始]]></title>
+        <id>a98192d59ef75ad4303b1722f007cc0297aad1eb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/"/>
+        <updated>2022-09-08T17:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for Oracle が、M6i と R6i インスタンスを新しいリージョンでサポートするようになりました。Amazon RDS for Oracle での M6i と R6i インスタンスのサポートは 2022 年 4 月にすでに始まっています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Route 53 Resolver エンドポイント、99.99% のサービスレベルアグリーメントを発表。また、Route 53 のホストゾーンのサービスレベルアグリーメントを更新]]></title>
+        <id>9a7f3d93238ae736e3b4948a7c73fb91d3830ba6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/announces-amazon-route-resolver-endpoints-service-level-agreement-updates-hosted-zones/"/>
+        <updated>2022-09-08T17:31:15.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、Amazon Route 53 Resolver エンドポイントのサービスレベルアグリーメント (SLA) を公開しました。この SLA により本サービスの可用性が保証されます。AWS は、毎月の支払請求サイクルの中で、月間稼働率 99.99% 以上で Amazon Route 53 Multi-AZ Resolver エンドポイントを提供できるよう、商取引上相応の努力を払うものとします (「サービスコミットメント」)。Amazon Route 53 Resolver エンドポイントがこのサービスコミットメントを満たさなかった場合、ユーザーは、Amazon Route 53 Resolver エンドポイントサービスレベルアグリーメントに規定されている通り、サービスクレジットの受領資格を得られます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、「.NET 7」にDockerコンテナイメージ生成機能を搭載、Dockerファイル不要に]]></title>
+        <id>https://www.publickey1.jp/blog/22/net_7dockerdocker.html</id>
+        <link href="https://www.publickey1.jp/blog/22/net_7dockerdocker.html"/>
+        <updated>2022-09-08T15:32:09.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは現在開発中のアプリケーションフレームワーク「.NET 7」に、Dockerコンテナの生成機能を搭載する予定であることを明らかにしました。 これまで.NETアプリケーションをDockerコンテナ化するには、Dockerコンテナ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails: レスポンスのライフサイクルとETagを理解する（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719</id>
@@ -5821,266 +5891,6 @@
         <summary type="html"><![CDATA[AWS Lambda では、月間の Lambda 関数の実行時間、すなわち GB 秒の使用に段階的な価格設定を提供するようになりました。今回、追加された 2 つの段階的な価格設定では、月間のオンデマンド関数実行時間の総料金に対して割引が適用されます。 段階的な価格設定は 2022 年 8 月 1 日に始まる月額請求サイクルから有効になります。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT Core で新しいデバイスプロビジョニングのコンソールが利用可能に]]></title>
-        <id>4624b8e11315633c24dddbddc246a602dbd46d73</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/"/>
-        <updated>2022-08-10T09:59:17.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT Core で新しいデバイスプロビジョニングのコンソールが利用できるようになり、IoT ソリューションに最適なプロビジョニングのオプションをより直観的に選択できるようになりました。これまでより簡単にデバイスのプロビジョニングのシナリオをナビゲートし、シンプルなフローに沿ってプロビジョニングテンプレートを作成し、1 つまたは多数のデバイスのアクセス許可を設定できるようになりました。また、更新されたインターフェイスを使用すると、ドキュメント、製品情報、リソースにアクセスできるため、デバイスのプロビジョニングフローの選択、作成、管理を一か所で行うのに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 での Microsoft Visual Studio Amazon マシンイメージ (AMI) を含むライセンスが利用可能に]]></title>
-        <id>696a6830c64489998fb651b8cd3e79bcf4d110af</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/"/>
-        <updated>2022-08-10T09:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Elastic Compute Cloud (Amazon EC2) での Microsoft Visual Studio Enterprise 2022 および Microsoft Visual Studio Professional 2022 Amazon マシンイメージ (AMI) の、Amazon が提供する完全準拠のライセンスが AWS で利用可能になりました。これらの AMI は Amazon EC2 コンソールと AWS Marketplace で利用でき、インスタンスをオンデマンドで起動できます。長期ライセンス契約は必要ありません。Amazon EC2 では幅広いインスタンスの選択肢があり、エンドユーザーが使った分だけ支払える柔軟性があるうえ、エンドユーザーにキャパシティーと適切なハードウェアを提供できます。多くの請負業者をかかえる企業は、セキュリティとコンプライアンスを損なうことなく、自社の IT 部門が管理する標準化された開発マシンを簡単にプロビジョニングできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudWatch メトリクスにより 150 倍のスループット向上を実現]]></title>
-        <id>79e02efff8c9f1e417b60a325bf1ea645138d02a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/"/>
-        <updated>2022-08-10T09:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudWatch カスタムメトリクスでは、50 倍の容量がサポートされるようになりました。これにより、1 回の呼び出しで最大 1,000 メトリクスを 3 倍のデフォルトコールレートで送信し、メトリクスあたり 3 倍のディメンション (最大 30) を指定できます。CloudWatch カスタムメトリクスを利用すると、使用中の AWS サービスに基づいて CloudWatch で提供される自動メトリクスを補完するアプリケーション固有のデータを取得できます。これらの改善により、より少ない API リクエストで同量のデータを送信することが可能になるため、コスト削減につながります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby: &#8216;&#038;:メソッド名&#8217;はブロック変数渡しより若干高速]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_08_10/77566</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_08_10/77566"/>
-        <updated>2022-08-10T09:08:47.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2019/07/ruby_ampersand_colon_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>更新情報 2019/07/12: 初版公開 2022/08/10: 更新 &#38;:メソッド名はブロック変数渡しより若干高速 Use fast ruby idioms by oniofchaos · Pull Request &#35;32337 · rails/railsのしょっぱなに、ブロック変数を用いるブロック渡しより、&#38;:メソッド名渡しの方が高速だと説明されています。 引用元: fast&#45;ruby/block&#45;vs&#45;to&#95;proc&#46;rb at master · JuanitoFatas/fast&#45;ruby require 'benchmark/ip [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_08_10/77566" data-wpel-link="internal" target="_self">Ruby: ‘&:メソッド名’はブロック変数渡しより若干高速</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北大と塩野義、下水中の新型コロナ高感度検出技術を開発]]></title>
-        <id>https://www.technologyreview.jp/n/2022/08/09/282871/</id>
-        <link href="https://www.technologyreview.jp/n/2022/08/10/282871/"/>
-        <updated>2022-08-10T08:45:04.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ruby] Hashie::Mashのすすめ]]></title>
-        <id>https://techracho.bpsinc.jp/kazz/2022_08_10/120517</id>
-        <link href="https://techracho.bpsinc.jp/kazz/2022_08_10/120517"/>
-        <updated>2022-08-10T08:30:28.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_hashie_mash_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは。お久しぶりの kazz です。 本日はHashにひと味ついた Hashie のご紹介です Hashの基本 hash = { a: 1, b: 2, c: 3 } p hash[:a] # =&#62; 1 hash[:d] = 4 p hash # {:a=&#62;1, :b=&#62;2, :c=&#62;3, :d=&#62;4} p hash[:d] #=&#62; 4 p hash[:x] # =&#62; nil p hash.a #=&#62; NoMethodError Hashはkey-value形式でデータを保持できる便利な入れ物ですが、ご承知の通り、キーをメソッドとして実行することはできません  [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/kazz/2022_08_10/120517" data-wpel-link="internal" target="_self">[Ruby] Hashie::Mashのすすめ</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[広視野動画撮影で赤色矮星のフレアを検出＝共同研究チーム]]></title>
-        <id>https://www.technologyreview.jp/n/2022/08/09/282878/</id>
-        <link href="https://www.technologyreview.jp/n/2022/08/10/282878/"/>
-        <updated>2022-08-10T08:30:02.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聴くMITTR：米政府推進で「地球工学」のタブーは破られるか]]></title>
-        <id>https://www.technologyreview.jp/?p=282950</id>
-        <link href="https://www.technologyreview.jp/s/282950/audiomook-will-u-s-government-promotion-break-the-taboo-on-geoengineering/"/>
-        <updated>2022-08-10T08:09:32.000Z</updated>
-        <summary type="html"><![CDATA[今週のオーディオ・ムック（β）では、米政府の最新の地球工学への取り組みを紹介するとともに、地球工学の基礎知識と主要な研究動向について解説する。]]></summary>
-        <author>
-            <name>MIT Technology Review Audio Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション]]></title>
-        <id>https://gihyo.jp/article/2022/08/data-ai-summit2022</id>
-        <link href="https://gihyo.jp/article/2022/08/data-ai-summit2022?utm_source=feed"/>
-        <updated>2022-08-10T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[6月27日～30日、米サンフランシスコにおいてDatabricks主催の年次カンファレンス「Data + AI Summit 2022」が行われました。本稿では同カンファレンスで発表されたアップデートの中から、Databricksがそのレイクハウス戦略の要に位置づけているストレージレイヤ「Delta Lake」にフォーカスし、Delta Lakeによってレイクハウス、そしてデータ分析のあり方がどう変わっていくのか、その展望を示したいと想います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション]]></title>
-        <id>https://gihyo.jp/article/2022/08/data-ai-summit2022</id>
-        <link href="https://gihyo.jp/article/2022/08/data-ai-summit2022?utm_source=feed"/>
-        <updated>2022-08-10T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[6月27日～30日、米サンフランシスコにおいてDatabricks主催の年次カンファレンス「Data + AI Summit 2022」が行われました。本稿では同カンファレンスで発表されたアップデートの中から、Databricksがそのレイクハウス戦略の要に位置づけているストレージレイヤ「Delta Lake」にフォーカスし、Delta Lakeによってレイクハウス、そしてデータ分析のあり方がどう変わっていくのか、その展望を示したいと想います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Data + AI Summit 2022」レポート ―Delta Lakeが導くレイクハウスのデスティネーション]]></title>
-        <id>https://gihyo.jp/article/2022/08/data-ai-summit2022</id>
-        <link href="https://gihyo.jp/article/2022/08/data-ai-summit2022?utm_source=feed"/>
-        <updated>2022-08-10T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[6月27日～30日、米サンフランシスコにおいてDatabricks主催の年次カンファレンス「Data + AI Summit 2022」が行われました。本稿では同カンファレンスで発表されたアップデートの中から、Databricksがそのレイクハウス戦略の要に位置づけているストレージレイヤ「Delta Lake」にフォーカスし、Delta Lakeによってレイクハウス、そしてデータ分析のあり方がどう変わっていくのか、その展望を示したいと想います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あなたのクルマに、Google搭載されていますか？]]></title>
-        <id>https://gihyo.jp/article/2022/08/android-weekly-topics-220810</id>
-        <link href="https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed"/>
-        <updated>2022-08-10T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[自動車業界に、Google、そしてAndroidの波が押し寄せています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あなたのクルマに、Google搭載されていますか？]]></title>
-        <id>https://gihyo.jp/article/2022/08/android-weekly-topics-220810</id>
-        <link href="https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed"/>
-        <updated>2022-08-10T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[自動車業界に、Google、そしてAndroidの波が押し寄せています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あなたのクルマに、Google搭載されていますか？]]></title>
-        <id>https://gihyo.jp/article/2022/08/android-weekly-topics-220810</id>
-        <link href="https://gihyo.jp/article/2022/08/android-weekly-topics-220810?utm_source=feed"/>
-        <updated>2022-08-10T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[自動車業界に、Google、そしてAndroidの波が押し寄せています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サル痘ワクチンの効果は？ 供給は？ 現時点で分かっていること]]></title>
-        <id>https://www.technologyreview.jp/?p=282473</id>
-        <link href="https://www.technologyreview.jp/s/282473/everything-you-need-to-know-about-the-monkeypox-vaccines/"/>
-        <updated>2022-08-10T00:54:20.000Z</updated>
-        <summary type="html"><![CDATA[世界的に流行が拡大しているサル痘には、3種類の天然痘向けワクチンが有効とされている。これらのワクチンはどの程度効果があるのか？また世界的な供給は足りているのか？ 識者に話を聞いた。]]></summary>
-        <author>
-            <name>Jessica Hamzelou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第727回　格安2in1 PC、FFF-PCM2BにUbuntu 22.04 LTSをインストールする（前編）]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727?utm_source=feed"/>
-        <updated>2022-08-10T00:41:00.000Z</updated>
-        <summary type="html"><![CDATA[2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第727回　格安2in1 PC、FFF-PCM2BにUbuntu 22.04 LTSをインストールする（前編）]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727?utm_source=feed"/>
-        <updated>2022-08-10T00:41:00.000Z</updated>
-        <summary type="html"><![CDATA[2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第727回　格安2in1 PC、FFF-PCM2BにUbuntu 22.04 LTSをインストールする（前編）]]></title>
-        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727</id>
-        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0727?utm_source=feed"/>
-        <updated>2022-08-10T00:41:00.000Z</updated>
-        <summary type="html"><![CDATA[2回に渡ってて2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介します。まずは準備編です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第7回　「いいOSS」とは何なのか？ ～OSSプロジェクトの健全さを測るCHAOSSプロジェクト]]></title>
-        <id>https://gihyo.jp/dev/serial/01/china-oss-frontline/0007</id>
-        <link href="https://gihyo.jp/dev/serial/01/china-oss-frontline/0007?utm_source=feed"/>
-        <updated>2022-08-10T00:24:00.000Z</updated>
-        <summary type="html"><![CDATA[中国では、2014年末ごろからテックスタートアップブームが起こり、その後2021年頃からOSSムーブメントが活性化し始めました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第7回　「いいOSS」とは何なのか？ ～OSSプロジェクトの健全さを測るCHAOSSプロジェクト]]></title>
-        <id>https://gihyo.jp/dev/serial/01/china-oss-frontline/0007</id>
-        <link href="https://gihyo.jp/dev/serial/01/china-oss-frontline/0007?utm_source=feed"/>
-        <updated>2022-08-10T00:24:00.000Z</updated>
-        <summary type="html"><![CDATA[中国では、2014年末ごろからテックスタートアップブームが起こり、その後2021年頃からOSSムーブメントが活性化し始めました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第7回　「いいOSS」とは何なのか？ ～OSSプロジェクトの健全さを測るCHAOSSプロジェクト]]></title>
-        <id>https://gihyo.jp/dev/serial/01/china-oss-frontline/0007</id>
-        <link href="https://gihyo.jp/dev/serial/01/china-oss-frontline/0007?utm_source=feed"/>
-        <updated>2022-08-10T00:24:00.000Z</updated>
-        <summary type="html"><![CDATA[中国では、2014年末ごろからテックスタートアップブームが起こり、その後2021年頃からOSSムーブメントが活性化し始めました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#03　クラウドに“変革”をもたらすのは誰か？―「Cloud Operator Days Tokyo 2022」クロージングイベントレポート]]></title>
-        <id>https://gihyo.jp/admin/serial/01/codt2022/0003</id>
-        <link href="https://gihyo.jp/admin/serial/01/codt2022/0003?utm_source=feed"/>
-        <updated>2022-08-10T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウド運用管理にスポットを当て、技術やノウハウを共有するカンファレンス「Cloud Operator Days Tokyo 2022」。そのフィナーレを飾るクロージングイベントが、7月27日（水）に東京・御茶ノ水ソラシティカンファレンスセンターでの実イベントとオンラインのハイブリッド形式で開催されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#03　クラウドに“変革”をもたらすのは誰か？―「Cloud Operator Days Tokyo 2022」クロージングイベントレポート]]></title>
-        <id>https://gihyo.jp/admin/serial/01/codt2022/0003</id>
-        <link href="https://gihyo.jp/admin/serial/01/codt2022/0003?utm_source=feed"/>
-        <updated>2022-08-10T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウド運用管理にスポットを当て、技術やノウハウを共有するカンファレンス「Cloud Operator Days Tokyo 2022」。そのフィナーレを飾るクロージングイベントが、7月27日（水）に東京・御茶ノ水ソラシティカンファレンスセンターでの実イベントとオンラインのハイブリッド形式で開催されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#03　クラウドに“変革”をもたらすのは誰か？―「Cloud Operator Days Tokyo 2022」クロージングイベントレポート]]></title>
-        <id>https://gihyo.jp/admin/serial/01/codt2022/0003</id>
-        <link href="https://gihyo.jp/admin/serial/01/codt2022/0003?utm_source=feed"/>
-        <updated>2022-08-10T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウド運用管理にスポットを当て、技術やノウハウを共有するカンファレンス「Cloud Operator Days Tokyo 2022」。そのフィナーレを飾るクロージングイベントが、7月27日（水）に東京・御茶ノ水ソラシティカンファレンスセンターでの実イベントとオンラインのハイブリッド形式で開催されました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集「CIOの履歴書」 CIOは意思決定を躊躇う人の背中を押す仕事（後編） 株式会社digil 田口慶二氏]]></title>
-        <id>https://data.wingarc.com/?p=44570</id>
-        <link href="https://data.wingarc.com/resume-of-cio-taguchikeiji-02-44570?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resume-of-cio-taguchikeiji-02"/>
-        <updated>2022-08-09T23:31:07.000Z</updated>
-        <summary type="html"><![CDATA[CIO後のキャリアについて ── オープンハウスから独立された経緯や、当時どのようなお考えで独立されたのか教えてください。 田口氏　ありがたいことにオープンハウスに所属していた際、ヘッドハントも含めて様々なCIOポジショ […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集「CIOの履歴書」 CIOは意思決定を躊躇う人の背中を押す仕事（前編） 株式会社digil 田口慶二氏]]></title>
-        <id>https://data.wingarc.com/?p=44561</id>
-        <link href="https://data.wingarc.com/resume-of-cio-taguchikeiji-01-44561?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resume-of-cio-taguchikeiji-01"/>
-        <updated>2022-08-09T23:30:03.000Z</updated>
-        <summary type="html"><![CDATA[CIOに至るまでのキャリアについて ── ファーストキャリアはバリバリの技術者だったとお伺いしました。 田口氏　実は私が大学1年生だった1992年の当時、私が通っていた慶應大学環境情報学部（SFC）では現在内閣官房参与を […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
         </author>
     </entry>
     <entry>
