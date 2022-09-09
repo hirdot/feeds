@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-09T10:01:15.088Z</updated>
+    <updated>2022-09-09T22:01:12.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EBS ごみ箱が AWS GovCloud (米国) リージョンで利用可能に]]></title>
+        <id>14a31dafc718c8c6d5e129cceb9bcedc9dfe688c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/ebs-recycle-bin-aws-govcloud-us-regions/"/>
+        <updated>2022-09-09T19:48:53.000Z</updated>
+        <summary type="html"><![CDATA[EBS ごみ箱が、機密情報を保護する Federal Information Processing Standards (FIPS) 140-2 検証済みエンドポイントを備えた AWS GovCloud (米国) リージョンで利用可能になりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karpenter のワークロード統合を発表]]></title>
+        <id>d3aa47ac75bc6fe8be4cc4ebf87113dc3c505e5e</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/workload-consolidation-karpenter/"/>
+        <updated>2022-09-09T19:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Karpenter v0.15.0 から、Kubernetes クラスターワークロードを自動的に新しい EC2 インスタンスに統合するようになります。これは、使用率の向上やクラスターのコンピューティングコストの削減に役立ちます。Karpenter は、柔軟性のある高性能 Kubernetes クラスターオートスケーラーです。クラスターでのスケーリング、スケジューリング、ワークロードのリソース要件に最適な方法で新しい EC2 インスタンスを起動し、アプリケーションの可用性、オペレーションのオーバーヘッド、クラスターのコンピューティング使用率を向上させます。Karpenter は Amazon Elastic Kubernetes Service (EKS) やいくつかの適合する Kubernetes クラスターで使用できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS は、Linux コンテナから Microsoft AD へのアクセスを簡単化するオープンソースの認証情報フェッチャーを発表]]></title>
+        <id>7ef9a3fc7223aa24ffe8bc22a567e81c2bd43613</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-open-sourced-credentials-fetcher-simplify-microsoft-ad-access-linux-containers/"/>
+        <updated>2022-09-09T19:47:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS は認証情報フェッチャーオープンソースプロジェクトの一般公開を発表しました。これにより、.NET アプリケーションを Linux コンテナにモダナイズする場合に、Microsoft Active Directory (AD) の依存関係を気にする必要がなくなります。認証情報フェッチャーを使用すると、サービスアカウント認証モデルで Linux コンテナにホストされたサービスから AD にアクセスできます。このパッケージによって、Linux コンテナで実行しているアプリケーションを使って、グループマネージドサービスアカウント (gMSA、Group Managed Service Accounts) に固有の Kerberos チケットを作成できるようになります。今回、リリースの一部として、認証情報フェッチャーを RPM フォーマットでパッケージ化し、Fedora Linux に追加しました。このパッケージは dnf install credentials-fetcher を使用してインストールできます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Step Functions では、ワークフロー内で効率的にデータを処理する 14 の新しい組み込み関数を追加]]></title>
+        <id>61dbf134d16a785f791e9cb8d7f5bff8b5be906a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-step-functions-14-new-intrinsic-features-process-data-workflows/"/>
+        <updated>2022-09-09T19:46:24.000Z</updated>
+        <summary type="html"><![CDATA[AWS Step Functions では、14 の新しい組み込み関数を追加し、データの入出力操作のサポートを拡張しました。これにより、データ処理が簡単化され、下流サービスの呼び出しを削減でき、コード作成の作業を軽減できます。Step Functions はローコードの視覚的なワークフローサービスを提供し、220 を超える AWS のサービスとの統合、10,000 個の API アクション、現在 18 の組み込み関数をサポートしています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Outposts でエンタープライズ On-Ramp のサポートを開始]]></title>
+        <id>17c8dc9d7052787d6aac7d809d0bbcf5fb69758f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/enterprise-on-ramp-supported-aws-outposts/"/>
+        <updated>2022-09-09T19:32:56.000Z</updated>
+        <summary type="html"><![CDATA[本日より、AWS Outposts を注文する前提条件を満たすのに使用するオプションとして、エンタープライズ On-Ramp サポートまたはエンタープライズサポートのいずれかを選択できるようになりました。エンタープライズ On-Ramp が加わり、Outposts ワークロードとサポートのニーズに最適な AWS サポートプランをより柔軟に選択できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Polly NTTS 音声がアジアパシフィック (ムンバイ) で利用可能に]]></title>
+        <id>eb8b168d166adbacbdc4325589e06fd08203243f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-asia-pacific-mumbai/"/>
+        <updated>2022-09-09T19:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Polly はテキストをリアルな音声に変換するサービスです。本日、アジアパシフィック (ムンバイ) リージョンで、すべてのニューラルテキスト読み上げ (NTTS) 音声の一般提供が開始されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Athena が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に]]></title>
+        <id>1883d3b7f8c8398395fc8b011c1cc0424c6031c3</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-athena-available-asia-pacific-jakarta-region/"/>
+        <updated>2022-09-09T19:16:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Athena はインタラクティブなクエリサービスで、Amazon S3 のデータを標準 SQL を使用して簡単に分析できるようになります。Athena はサーバーレスなので、インフラストラクチャの管理は不要です。実行したクエリに対してのみ料金が発生します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Fargate が Amazon ECS の Microsoft Windows Server 2022 イメージの提供開始を発表]]></title>
+        <id>c7ece7e9feadaa6faebdbf9ec6e8368383bb6455</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-fargate-microsoft-windows-server-2022-images-amazon-ecs/"/>
+        <updated>2022-09-09T19:01:17.000Z</updated>
+        <summary type="html"><![CDATA[AWS Fargate では、Amazon Elastic Container Service (Amazon ECS) で実行しているアプリケーションに対する Microsoft Windows Server 2022 ランタイムプラットフォームのサポートを開始しました。これにより、AWS Fargate で既にサポートされている Windows Server 2019 ランタイムプラットフォームのリストに新たなサポートが追加され、Windows の最新機能を AWS Fargate で活用できるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7.0.4, 6.1.7, and 6.0.6 have been released!]]></title>
+        <id>https://rubyonrails.org/2022/9/9/Rails-7-0-4-6-1-7-6-0-6-have-been-released</id>
+        <link href="https://rubyonrails.org/2022/9/9/Rails-7-0-4-6-1-7-6-0-6-have-been-released"/>
+        <updated>2022-09-09T18:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Railsの技: StimulusJSのコントローラを&#8221;self-destructing&#8221;にする（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_09_09/120275</id>
