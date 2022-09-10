@@ -1638,16 +1638,6 @@
           "wordCount": 3577,
           "title": "香川県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/dxlab_kagawa_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=42801",
-          "author": "BunkiMIyata",
-          "description": "Web3.0に関連する重要キーワードとして、NFTにつづき広がりを見せているのがDAO（ダオ）です。DAOという言葉をそもそもここで初めて目にしたという方や、見たことはあったけど、自分からは縁遠いものに感じられるという方 […]",
-          "link": "https://data.wingarc.com/what-is-dao-42801?utm_source=rss&utm_medium=rss&utm_campaign=what-is-dao",
-          "publishedOn": "2022-08-11T23:00:45.000Z",
-          "wordCount": 2841,
-          "title": "Web3.0の重要キーワード「DAO」とは？ 意味やメリット・デメリット、2022年の状況をわかりやすく解説",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/07/DTNJ_dao.jpg"
         }
       ]
     },
@@ -2353,16 +2343,6 @@
           "wordCount": null,
           "title": "第6回　Rustが今、流行っている理由とは",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/illustrator-itpassport-03",
-          "author": null,
-          "description": "本連載は、イラストレータイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第3回目はコンピュータの機器、特にメモリの種類についてイシクラなりに説明します。",
-          "link": "https://gihyo.jp/article/2022/08/illustrator-itpassport-03?utm_source=feed",
-          "publishedOn": "2022-08-12T00:07:00.000Z",
-          "wordCount": 180,
-          "title": "第3回 イシクラ周辺機器について知る ～よく聞くメモリの正体～",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
         }
       ]
     },
@@ -3050,16 +3030,6 @@
           "wordCount": null,
           "title": "第6回　Rustが今、流行っている理由とは",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/illustrator-itpassport-03",
-          "author": null,
-          "description": "本連載は、イラストレータイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第3回目はコンピュータの機器、特にメモリの種類についてイシクラなりに説明します。",
-          "link": "https://gihyo.jp/article/2022/08/illustrator-itpassport-03?utm_source=feed",
-          "publishedOn": "2022-08-12T00:07:00.000Z",
-          "wordCount": 180,
-          "title": "第3回 イシクラ周辺機器について知る ～よく聞くメモリの正体～",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
         }
       ]
     },
@@ -3747,16 +3717,6 @@
           "wordCount": null,
           "title": "第6回　Rustが今、流行っている理由とは",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/illustrator-itpassport-03",
-          "author": null,
-          "description": "本連載は、イラストレータイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第3回目はコンピュータの機器、特にメモリの種類についてイシクラなりに説明します。",
-          "link": "https://gihyo.jp/article/2022/08/illustrator-itpassport-03?utm_source=feed",
-          "publishedOn": "2022-08-12T00:07:00.000Z",
-          "wordCount": 180,
-          "title": "第3回 イシクラ周辺機器について知る ～よく聞くメモリの正体～",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
         }
       ]
     },
@@ -3801,6 +3761,16 @@
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
         {
+          "id": "https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56",
+          "author": null,
+          "description": "👋🏾… This is Emmanuel. I’ve got some Rails updates for you. Rack 3.0 has shipped A major version of Rack has shipped, and as expected, there are breaking changes but with lots of improvements and an upgrade guide. There’s also a changelog of the beta versions and release candidates leading up to the release. Rails 7.0.4, 6.1.7, and 6.0.6 have been released These are mostly bugfixes with various enhancements, compatibility fixes, and performance improvements. Fix bug in connection handler methods using all pools active_connections?, clear_active_connections!, clear_reloadable_connections!, clear_all_connections!, and flush_idle_connections! now operate on all pools by default. Previously they would default to using the current_role or :writing role unless specified. Add :locals to ActionView rendering instrumentation Action View render instrumentation now reports :locals. ActiveSupport::Notifications will now capture :locals in addition to :identifier and :layout. Add ability to run only before/around/after callbacks in run_callbacks This PR makes it possible to use run_callbacks without the need to run all callbacks. You can now choose specific callbacks to run. ActionDispatch::Cookies JSON deserializer discards Marshal dumps If an application reads a Marshall dump, JSON::ParserError is raised without clearing cookies when the cookies serializer is set to JSON. This PR fixes that. 35 people contributed to Rails in the last 8 days. That’s it. Допобачення!",
+          "link": "https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56",
+          "publishedOn": "2022-09-10T00:00:00.000Z",
+          "wordCount": 490,
+          "title": "Rack 3 and Rails 7.0.4, 6.1.7, and 6.0.6 releases, ActionDispatch::Cookies, etc",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
+        {
           "id": "https://rubyonrails.org/2022/9/9/Rails-7-0-4-6-1-7-6-0-6-have-been-released",
           "author": null,
           "description": "Hi everyone,",
@@ -3838,16 +3808,6 @@
           "publishedOn": "2022-08-19T00:00:00.000Z",
           "wordCount": 561,
           "title": "Logging, raising and rescuing errors and a fix for a query method.",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/8/12/this-week-in-rails-bugfixes-improvements-and-more-0f5bb6d5",
-          "author": null,
-          "description": "Hola, this is Greg bringing you the latest news from the Rails world!",
-          "link": "https://rubyonrails.org/2022/8/12/this-week-in-rails-bugfixes-improvements-and-more-0f5bb6d5",
-          "publishedOn": "2022-08-12T00:00:00.000Z",
-          "wordCount": 291,
-          "title": "Bugfixes, improvements and more!",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
@@ -4166,16 +4126,6 @@
           "wordCount": 522,
           "title": "BPS開発チームの紹介～Web開発第1チーム～（2022年度）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_web_team1_2022_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/piichan1031/2022_08_12/120545",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/atena_support_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 DM診断の姉妹サイト「宛名サポート」をリリースしました。事業の管理体制・オペレーション等は変わりません。企画・集客は自社で行い、初期及び継続的な制作・開発は出資先などの開発提携先で主に行います。印刷や発送自体も提携先が行います。今年は事業範囲を拡大するので、拡大範囲での集客を意図しています。発送代行をお求めのお客様だけでなく、発送物の宛名印字やラベル印刷で困っているお客様と接点を作ります。 定期DMや年賀状の一斉送付など、多くが自社内で行っています。リスト更新もデザインも印字も、久々にやるとめんどくさい上にミスが発生しやすく、不慣れなもんだから稼働も多く消費し、定常業務でないから改善するモチベが上がらない。 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/piichan1031/2022_08_12/120545\" data-wpel-link=\"internal\" target=\"_self\">DM診断の姉妹サイト「宛名サポート」をリリースしたよ</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/piichan1031/2022_08_12/120545",
-          "publishedOn": "2022-08-12T08:30:44.000Z",
-          "wordCount": 374,
-          "title": "DM診断の姉妹サイト「宛名サポート」をリリースしたよ",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/atena_support_eyecatch-min.png"
         }
       ]
     },

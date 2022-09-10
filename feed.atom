@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-10T10:01:12.067Z</updated>
+    <updated>2022-09-10T22:01:13.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rack 3 and Rails 7.0.4, 6.1.7, and 6.0.6 releases, ActionDispatch::Cookies, etc]]></title>
+        <id>https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56</id>
+        <link href="https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56"/>
+        <updated>2022-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[👋🏾… This is Emmanuel. I’ve got some Rails updates for you. Rack 3.0 has shipped A major version of Rack has shipped, and as expected, there are breaking changes but with lots of improvements and an upgrade guide. There’s also a changelog of the beta versions and release candidates leading up to the release. Rails 7.0.4, 6.1.7, and 6.0.6 have been released These are mostly bugfixes with various enhancements, compatibility fixes, and performance improvements. Fix bug in connection handler methods using all pools active_connections?, clear_active_connections!, clear_reloadable_connections!, clear_all_connections!, and flush_idle_connections! now operate on all pools by default. Previously they would default to using the current_role or :writing role unless specified. Add :locals to ActionView rendering instrumentation Action View render instrumentation now reports :locals. ActiveSupport::Notifications will now capture :locals in addition to :identifier and :layout. Add ability to run only before/around/after callbacks in run_callbacks This PR makes it possible to use run_callbacks without the need to run all callbacks. You can now choose specific callbacks to run. ActionDispatch::Cookies JSON deserializer discards Marshal dumps If an application reads a Marshall dump, JSON::ParserError is raised without clearing cookies when the cookies serializer is set to JSON. This PR fixes that. 35 people contributed to Rails in the last 8 days. That’s it. Допобачення!]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EBS ごみ箱が AWS GovCloud (米国) リージョンで利用可能に]]></title>
         <id>14a31dafc718c8c6d5e129cceb9bcedc9dfe688c</id>
@@ -5913,67 +5923,6 @@
         <summary type="html"><![CDATA[香川県は四国の北東部に位置する、日本で一番面積が小さい県です。 美しい瀬戸内海の島々、全国的にも有名なソウルフードの「讃岐うどん」、瀬戸内海の島々を舞台に、3年ごとに開催される「瀬戸内国際芸術祭」などで有名な地域です。  […]]]></summary>
         <author>
             <name>石川麻里</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DM診断の姉妹サイト「宛名サポート」をリリースしたよ]]></title>
-        <id>https://techracho.bpsinc.jp/piichan1031/2022_08_12/120545</id>
-        <link href="https://techracho.bpsinc.jp/piichan1031/2022_08_12/120545"/>
-        <updated>2022-08-12T08:30:44.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/atena_support_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 DM診断の姉妹サイト「宛名サポート」をリリースしました。事業の管理体制・オペレーション等は変わりません。企画・集客は自社で行い、初期及び継続的な制作・開発は出資先などの開発提携先で主に行います。印刷や発送自体も提携先が行います。今年は事業範囲を拡大するので、拡大範囲での集客を意図しています。発送代行をお求めのお客様だけでなく、発送物の宛名印字やラベル印刷で困っているお客様と接点を作ります。 定期DMや年賀状の一斉送付など、多くが自社内で行っています。リスト更新もデザインも印字も、久々にやるとめんどくさい上にミスが発生しやすく、不慣れなもんだから稼働も多く消費し、定常業務でないから改善するモチベが上がらない。 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/piichan1031/2022_08_12/120545" data-wpel-link="internal" target="_self">DM診断の姉妹サイト「宛名サポート」をリリースしたよ</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3回 イシクラ周辺機器について知る ～よく聞くメモリの正体～]]></title>
-        <id>https://gihyo.jp/article/2022/08/illustrator-itpassport-03</id>
-        <link href="https://gihyo.jp/article/2022/08/illustrator-itpassport-03?utm_source=feed"/>
-        <updated>2022-08-12T00:07:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載は、イラストレータイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第3回目はコンピュータの機器、特にメモリの種類についてイシクラなりに説明します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3回 イシクラ周辺機器について知る ～よく聞くメモリの正体～]]></title>
-        <id>https://gihyo.jp/article/2022/08/illustrator-itpassport-03</id>
-        <link href="https://gihyo.jp/article/2022/08/illustrator-itpassport-03?utm_source=feed"/>
-        <updated>2022-08-12T00:07:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載は、イラストレータイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第3回目はコンピュータの機器、特にメモリの種類についてイシクラなりに説明します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第3回 イシクラ周辺機器について知る ～よく聞くメモリの正体～]]></title>
-        <id>https://gihyo.jp/article/2022/08/illustrator-itpassport-03</id>
-        <link href="https://gihyo.jp/article/2022/08/illustrator-itpassport-03?utm_source=feed"/>
-        <updated>2022-08-12T00:07:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載は、イラストレータイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第3回目はコンピュータの機器、特にメモリの種類についてイシクラなりに説明します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bugfixes, improvements and more!]]></title>
-        <id>https://rubyonrails.org/2022/8/12/this-week-in-rails-bugfixes-improvements-and-more-0f5bb6d5</id>
-        <link href="https://rubyonrails.org/2022/8/12/this-week-in-rails-bugfixes-improvements-and-more-0f5bb6d5"/>
-        <updated>2022-08-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hola, this is Greg bringing you the latest news from the Rails world!]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3.0の重要キーワード「DAO」とは？ 意味やメリット・デメリット、2022年の状況をわかりやすく解説]]></title>
-        <id>https://data.wingarc.com/?p=42801</id>
-        <link href="https://data.wingarc.com/what-is-dao-42801?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-is-dao"/>
-        <updated>2022-08-11T23:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Web3.0に関連する重要キーワードとして、NFTにつづき広がりを見せているのがDAO（ダオ）です。DAOという言葉をそもそもここで初めて目にしたという方や、見たことはあったけど、自分からは縁遠いものに感じられるという方 […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
         </author>
     </entry>
     <entry>
