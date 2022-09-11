@@ -1618,26 +1618,6 @@
           "wordCount": 3096,
           "title": "データのじかんNews 2022年8月Part.03",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/datatimesnews_2022_08_part3_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45226",
-          "author": "石川麻里",
-          "description": "愛媛県は、四国の北西側に位置し、北側は瀬戸内海に面して平野が広がり、南西部は海面上昇によって山や谷が海に沈みこむことによって形成されたリアス式海岸の宇和海に面しています。 背後の高知県との県境付近は、西日本最高峰の石鎚山 […]",
-          "link": "https://data.wingarc.com/local-dx-lab-ehime-45226?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-ehime",
-          "publishedOn": "2022-08-13T00:05:54.000Z",
-          "wordCount": 3499,
-          "title": "愛媛県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/dxlab_ehime_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45193",
-          "author": "石川麻里",
-          "description": "香川県は四国の北東部に位置する、日本で一番面積が小さい県です。 美しい瀬戸内海の島々、全国的にも有名なソウルフードの「讃岐うどん」、瀬戸内海の島々を舞台に、3年ごとに開催される「瀬戸内国際芸術祭」などで有名な地域です。  […]",
-          "link": "https://data.wingarc.com/local-dx-lab-kagawa-45193?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-kagawa",
-          "publishedOn": "2022-08-13T00:05:09.000Z",
-          "wordCount": 3577,
-          "title": "香川県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/dxlab_kagawa_top.jpg"
         }
       ]
     },
@@ -4135,6 +4115,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/istioambient_mesh.html",
+          "author": null,
+          "description": "Istioは、サービスメッシュを実現する新たな仕組み「Ambient Mesh」を発表しました。 現在のIstioは、各サービス（≒KubenetesのPod）ごとにプロキシを配置し、サービス間のネットワークをプロキシ経由で構成することによ...",
+          "link": "https://www.publickey1.jp/blog/22/istioambient_mesh.html",
+          "publishedOn": "2022-09-11T15:49:45.000Z",
+          "wordCount": 1269,
+          "title": "Istioが新たな仕組み「Ambient Mesh」を発表。サイドカーなしでサービスメッシュを実現",
+          "imageUrl": "https://www.publickey1.jp/2022/FcEYRKZWIAALsRV.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/post_286.html",
+          "author": null,
+          "description": "文化庁は著作権侵害への対策に関するポータルサイト「海賊版対策情報ポータルサイト」に、無料で著作権侵害や海賊版対策の相談を受け付ける「相談窓口」を設けました。 フォームから相談内容を入力することで担当者が相談に乗ってくれる他、内容によっては弁...",
+          "link": "https://www.publickey1.jp/blog/22/post_286.html",
+          "publishedOn": "2022-09-11T15:46:03.000Z",
+          "wordCount": 1231,
+          "title": "文化庁、誰でも無料で著作権侵害や海賊版対策の相談ができる「相談窓口」開設、「海賊版対策情報ポータルサイト」で",
+          "imageUrl": "https://www.publickey1.jp/2022/bunkacho_kaizoku03.gif"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/net_7dockerdocker.html",
           "author": null,
           "description": "マイクロソフトは現在開発中のアプリケーションフレームワーク「.NET 7」に、Dockerコンテナの生成機能を搭載する予定であることを明らかにしました。 これまで.NETアプリケーションをDockerコンテナ化するには、Dockerコンテナ...",
@@ -4641,6 +4641,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=284972",
+          "author": "Jessica Hamzelou",
+          "description": "ロンドンの下水からポリオウイルスが検出されたことを受けて、子どもを対象にしたポリオワクチンのブースター接種が実施されている。英国では野生型ポリオウイルスは撲滅されたはずだが、一体、何が起こっているのだろうか。",
+          "link": "https://www.technologyreview.jp/s/284972/why-i-got-my-one-year-old-vaccinated-against-polio/",
+          "publishedOn": "2022-09-11T21:55:22.000Z",
+          "wordCount": 1333,
+          "title": "ロンドン下水からポリオウイルス、ブースター接種始まる",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/02235504/GettyImages-1330119211-crop-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=283946",
           "author": "Patrick Howell O'Neill",
