@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "6b5da04441f44710d3ce9eae13ed0c10a71e6890",
+          "author": "aws@amazon.com",
+          "description": "AWS Trusted Advisor は、Amazon Elastic Compute Cloud (Amazon EC2) での Microsoft Windows Server のサポート終了 (EOS、End Of Support) に対してオプションを推奨する、新しいチェックのサポートを開始します。このチェックは、お使いの Microsoft Windows Server のワークロードを検査し、EOS を迎えたか EOS 間近の Microsoft Windows Server インスタンスを自動的に一覧表示します。例えば、Microsoft Windows Server 2012/2012 R2 は、2023 年 10 月 10 日に延長サポートが終了するため、Trusted Advisor コンソールでは 18 か月未満で EOS を迎えるインスタンスにフラグが立ち、お客様はさらなる調査を進めることができます。チェックのレコメンデーションを通じて、AWS での移行、モダナイゼーション、アップグレードといった柔軟なオプションを、ベストプラクティスに基づいて見つけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/",
+          "publishedOn": "2022-09-13T20:01:16.000Z",
+          "wordCount": 359,
+          "title": "AWS Trusted Advisor に、Amazon EC2 での Microsoft Windows Server のサポート終了に対するチェックを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bb9ac00b10908f4d38fbceefde6932240a7256a3",
+          "author": "aws@amazon.com",
+          "description": "EBS ごみ箱がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。EBS スナップショットと EBS-Backed AMI のごみ箱を使用して、誤って削除してしまったものを復元し、ビジネス継続性のニーズを満たすことができます。これまでは、スナップショットを誤って削除すると、前の時点からスナップショットにロールバックする必要があり、目標復旧時点が増加していました。また、間違って登録解除した AMI を復元することはできませんでした。ごみ箱を使用すると、保持期間を指定でき、その保持期間が終了する前であれば、削除したスナップショットや登録解除した AMI を復元できます。復元されたスナップショットまたは AMI では、削除前に持っていたタグ、アクセス許可、暗号化ステータスなどの属性が保持されます。ごみ箱から復元されなかったスナップショットや AMI は、保持期間が終了すると完全に削除されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/ebs-recycle-bin-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-09-13T16:31:15.000Z",
+          "wordCount": 306,
+          "title": "EBS ごみ箱がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "2a2b7bea2dc37666cf615d965a52107e7457d81f",
           "author": "aws@amazon.com",
           "description": "本日より、Amazon Forecast に予測頻度をカスタマイズできる機能が追加されました。これによりユーザーは、予測の頻度と自らの需要サイクルとをさらに密接に連携させることが可能になります。Amazon Forecast は、機械学習 (ML) のアルゴリズムを使用して精度の高い時系列予測を行うフルマネージドサービスです。",
@@ -1471,16 +1491,6 @@
           "wordCount": 437,
           "title": "伊勢海老カレーのつくり方 🦐",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kasumi8pon/20220815/20220815145215.jpg"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/rubykaigi-2022-esminc-speakers",
-          "author": null,
-          "description": "2022年9月8日(木) から10日(土) の3日間にわたって開催される RubyKaigi 2022 に永和システムマネジメントから @fugakkbn (Day1) 、 @koic (Day 2) 、 @ima1zumi (Day 3) の 3人が登壇します。 rubykaigi.org ここでは、それぞれの登壇者から講演内容について軽く紹介をします。 9月8日(木) 14:10-14:45 @fugakkbn 『Types teaches success, what will we do?』 gem_rbs_collection をご存知でしょうか。 名前からも想像できるように、様々な …",
-          "link": "https://blog.agile.esm.co.jp/entry/rubykaigi-2022-esminc-speakers",
-          "publishedOn": "2022-08-15T01:51:32.000Z",
-          "wordCount": 538,
-          "title": "RubyKaigi 2022 に永和システムマネジメントから @fugakkbn @koic @ima1zumi の 3人が登壇します",
-          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220815/20220815105407.png"
         }
       ]
     },
@@ -2603,36 +2613,6 @@
           "wordCount": null,
           "title": "GitHub、npmの“強化したセキュリティ機能”をより使いやすく改良",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/fluent-emoji",
-          "author": null,
-          "description": "Microsoftは今月上旬、同社の提唱する「Fluent Design」にもとづいた絵文字「Fluent Emoji」の絵文字データをオープンソースとして公開した。GitHubからダウンロードしたり、Figmaで利用できる。",
-          "link": "https://gihyo.jp/article/2022/08/fluent-emoji?utm_source=feed",
-          "publishedOn": "2022-08-15T07:36:00.000Z",
-          "wordCount": 158,
-          "title": "Microsoft、「Fluent Emoji」の絵文字データをGitHubとFigmaでオープンソースとして公開",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/fluent-emoji/001.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220815",
-          "author": null,
-          "description": "Linus Torvaldsは8月14日（米国時間）、次期Linuxカーネル「Linux 6.0」の最初のリリース候補（RC）版となる「Linux 6.0-rc1」を公開した。今回のカーネルからメジャーバージョンがアップし、「Linux 6.x」としての開発が始まることになる。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220815?utm_source=feed",
-          "publishedOn": "2022-08-15T06:14:00.000Z",
-          "wordCount": 165,
-          "title": "メジャーナンバーがカウントアップ！ Linux 6.0-rc1公開、正式リリースは10月初旬か？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0006",
-          "author": null,
-          "description": "今回のテーマはRustです。効率的で信頼性が特徴と言われているRustを商業サービスに組み込んだ吉川さんに、Rustの魅力を伝えていただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0006?utm_source=feed",
-          "publishedOn": "2022-08-15T00:57:48.000Z",
-          "wordCount": null,
-          "title": "第6回　Rustが今、流行っている理由とは",
-          "imageUrl": null
         }
       ]
     },
@@ -3400,36 +3380,6 @@
           "wordCount": 152,
           "title": "GitHub、npmの“強化したセキュリティ機能”をより使いやすく改良",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/github-npm-security/001.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/fluent-emoji",
-          "author": null,
-          "description": "Microsoftは今月上旬、同社の提唱する「Fluent Design」にもとづいた絵文字「Fluent Emoji」の絵文字データをオープンソースとして公開した。GitHubからダウンロードしたり、Figmaで利用できる。",
-          "link": "https://gihyo.jp/article/2022/08/fluent-emoji?utm_source=feed",
-          "publishedOn": "2022-08-15T07:36:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft、「Fluent Emoji」の絵文字データをGitHubとFigmaでオープンソースとして公開",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220815",
-          "author": null,
-          "description": "Linus Torvaldsは8月14日（米国時間）、次期Linuxカーネル「Linux 6.0」の最初のリリース候補（RC）版となる「Linux 6.0-rc1」を公開した。今回のカーネルからメジャーバージョンがアップし、「Linux 6.x」としての開発が始まることになる。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220815?utm_source=feed",
-          "publishedOn": "2022-08-15T06:14:00.000Z",
-          "wordCount": 165,
-          "title": "メジャーナンバーがカウントアップ！ Linux 6.0-rc1公開、正式リリースは10月初旬か？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0006",
-          "author": null,
-          "description": "今回のテーマはRustです。効率的で信頼性が特徴と言われているRustを商業サービスに組み込んだ吉川さんに、Rustの魅力を伝えていただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0006?utm_source=feed",
-          "publishedOn": "2022-08-15T00:57:48.000Z",
-          "wordCount": null,
-          "title": "第6回　Rustが今、流行っている理由とは",
-          "imageUrl": null
         }
       ]
     },
@@ -4197,36 +4147,6 @@
           "wordCount": 152,
           "title": "GitHub、npmの“強化したセキュリティ機能”をより使いやすく改良",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/github-npm-security/001.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/fluent-emoji",
-          "author": null,
-          "description": "Microsoftは今月上旬、同社の提唱する「Fluent Design」にもとづいた絵文字「Fluent Emoji」の絵文字データをオープンソースとして公開した。GitHubからダウンロードしたり、Figmaで利用できる。",
-          "link": "https://gihyo.jp/article/2022/08/fluent-emoji?utm_source=feed",
-          "publishedOn": "2022-08-15T07:36:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft、「Fluent Emoji」の絵文字データをGitHubとFigmaでオープンソースとして公開",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220815",
-          "author": null,
-          "description": "Linus Torvaldsは8月14日（米国時間）、次期Linuxカーネル「Linux 6.0」の最初のリリース候補（RC）版となる「Linux 6.0-rc1」を公開した。今回のカーネルからメジャーバージョンがアップし、「Linux 6.x」としての開発が始まることになる。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220815?utm_source=feed",
-          "publishedOn": "2022-08-15T06:14:00.000Z",
-          "wordCount": null,
-          "title": "メジャーナンバーがカウントアップ！ Linux 6.0-rc1公開、正式リリースは10月初旬か？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0006",
-          "author": null,
-          "description": "今回のテーマはRustです。効率的で信頼性が特徴と言われているRustを商業サービスに組み込んだ吉川さんに、Rustの魅力を伝えていただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0006?utm_source=feed",
-          "publishedOn": "2022-08-15T00:57:48.000Z",
-          "wordCount": null,
-          "title": "第6回　Rustが今、流行っている理由とは",
-          "imageUrl": null
         }
       ]
     },
@@ -4646,16 +4566,6 @@
           "wordCount": 551,
           "title": "LPをWebデザイン制作会社に依頼するときに必要な情報や進め方は？",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/design-lp-key.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/morimorihoge/2022_08_15/120650",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_web_team1_2022_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>morimorihogeです。RTA in Japan Summer中ですね。 今年も弊社開発チームの紹介ということで、今年度版の記事を投稿します。弊社への採用応募をお考えの方やお仕事を依頼検討中の方に向けて、どんな感じの開発チーム・スタイルでやっているのかの参考にして頂ければ幸いです。 ※去年の内容と被る部分も多々ありますが、その辺りは昨年と方針が変わっていない部分ということでご容赦下さい。 というわけで、僕がチームリーダーとして所属するWeb開発第1チームの紹介になります。他の各チームについても記事がありますので、TechRachoトップページから読んで頂けるとうれしいです。 どんな仕事をしているの？ 主にW [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/morimorihoge/2022_08_15/120650\" data-wpel-link=\"internal\" target=\"_self\">BPS開発チームの紹介～Web開発第1チーム～（2022年度）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/morimorihoge/2022_08_15/120650",
-          "publishedOn": "2022-08-15T08:30:03.000Z",
-          "wordCount": 522,
-          "title": "BPS開発チームの紹介～Web開発第1チーム～（2022年度）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_web_team1_2022_eyecatch-min.png"
         }
       ]
     },
@@ -4664,6 +4574,36 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/safari_16passkeysweb_pushavif.html",
+          "author": null,
+          "description": "Appleはパスワードレスを実現する「Passkeys」などの新機能を搭載したWebブラウザ「Safari 16」のリリースを発表しました。iOS 16、macOS MontereyとmacOS Big Surに対応します。また10月に登場...",
+          "link": "https://www.publickey1.jp/blog/22/safari_16passkeysweb_pushavif.html",
+          "publishedOn": "2022-09-13T16:08:08.000Z",
+          "wordCount": 1262,
+          "title": "Safari 16がリリース、パスワードレスを実現する「Passkeys」に対応。Web Push、サブグリッド、AVIF画像形式など新機能",
+          "imageUrl": "https://www.publickey1.jp/2022/safari1601.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/ruby_322webassemblyrubyarm64yjit.html",
+          "author": null,
+          "description": "次期Rubyのプレビューリリース「Ruby 3.2 Preview 1」が公開されました。 Ruby 3.2ではWebAssembly版Rubyの登場が予定されており、これまでリリースされてきたLinux版やWindows版、Mac版などの...",
+          "link": "https://www.publickey1.jp/blog/22/ruby_322webassemblyrubyarm64yjit.html",
+          "publishedOn": "2022-09-13T16:05:44.000Z",
+          "wordCount": 1249,
+          "title": "Ruby 3.2プレビュー2がリリース。WebAssembly版Ruby、ARM64版YJITなど対応",
+          "imageUrl": "https://www.publickey1.jp/2022/ruby32p2.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/pytorch_foundationmetaawsgoogle_cloudmicrosoft_azureamdnvidia.html",
+          "author": null,
+          "description": "オープンソースのPython用深層学習用フレームワーク「PyTorch」の開発や普及を促進する団体「PyTorch Foundation」の設立を、Meta（旧Facebook）が発表しました。 PyTorchはこれまでMetaが主導するオ...",
+          "link": "https://www.publickey1.jp/blog/22/pytorch_foundationmetaawsgoogle_cloudmicrosoft_azureamdnvidia.html",
+          "publishedOn": "2022-09-13T16:03:54.000Z",
+          "wordCount": 1248,
+          "title": "「PyTorch Foundation」が設立。Meta、AWS、Google Cloud、Microsoft Azure、AMD、NVIDIAらが理事に",
+          "imageUrl": "https://www.publickey1.jp/2022/302152386_3355682037998483_1879587845940664233_n.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/awsdbmysql_heatwaveamazon_auroraredshift.html",
           "author": null,
@@ -5211,6 +5151,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=285233",
+          "author": "Rhiannon Williams",
+          "description": "ケンブリッジ大学やカリフォルニア工科大学の共同研究チームは、幹細胞から作られたマウスの人工胚を、脳が発達する段階にまで成長させることに成功した。ヒトの妊娠の初期段階における失敗などについて新たな知見をもたらす可能性があるという。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
+          "link": "https://www.technologyreview.jp/s/285233/scientists-have-created-synthetic-mouse-embryos-with-developed-brains/",
+          "publishedOn": "2022-09-13T21:59:32.000Z",
+          "wordCount": 1181,
+          "title": "脳が発達、心臓も鼓動——「人工胚」の成長で世界初",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/06105503/2.Natural-and-synthetic-embryos-side-by-side-to-show-comparable-brain-and-heart-formation.-Credit-Amadei-and-Handford-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=285541",
+          "author": "Atsuji So",
+          "description": "節電要請、電力自由化、老朽火力発電所や原発停止、急速な再生可能エネルギーへのシフト、ロシアのウクライナ侵攻など複合的な要因が絡み合い、エネルギー問題は理解しづらいものになっている。もともと日本は資源に乏しく、さらに「脱炭素」という足枷がはめられている以上、今後も不確実性はつきまとう。こうした状況をどう読み解き、国や企業は短期・中長期的にどう動いていくべきか。エネルギー・アナリストでポスト石油戦略研究所代表を務める大場紀章氏の提言をまとめた。",
+          "link": "https://www.technologyreview.jp/s/285541/decarbonization-is-japans-last-chance-to-raise-its-power/",
+          "publishedOn": "2022-09-13T21:24:28.000Z",
+          "wordCount": 1395,
+          "title": "大場紀章「脱炭素化は日本の力を底上げする最後のチャンス」",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/09150629/DZC1143-1181x787.jpg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=285517",
           "author": "Keiichi Motohashi",
@@ -5890,26 +5850,6 @@
           "wordCount": 1188,
           "title": "気候変動対策に4000億ドル、米「インフレ抑制法案」が可決",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/12200505/GettyImages-85149622-crop-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=281856",
-          "author": "Zeyi Yang",
-          "description": "大手テック企業や自動車メーカーは完全自律自動車の実用化に向けてしのぎを削っているが、まだ完全な無人自動車は珍しい。中国・バイドゥの自動運転車部門で19カ月にわたってロボタクシーの「ドライバー」として働く男性が、仕事の内容や自身の今後について語った。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/281856/a-day-in-the-life-of-a-chinese-robotaxi-driver/",
-          "publishedOn": "2022-08-15T07:34:20.000Z",
-          "wordCount": 1197,
-          "title": "ハンドル握らない「運転手」、ロボタクシー・ドライバーの仕事",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/07/27181503/Baidu-Split-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=282488",
-          "author": "Rhiannon Williams",
-          "description": "イェール大学の研究チームが、死後1時間経ったブタの臓器の機能を修復することに成功した。現時点でヒトへの応用にはほど遠い状況であり、倫理的な問題も残るが、臓器移植の可能性を将来大きく高めることになるかもしれない。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/282488/researchers-repaired-cells-in-damaged-pig-organs-an-hour-after-death/",
-          "publishedOn": "2022-08-14T23:39:50.000Z",
-          "wordCount": 1193,
-          "title": "死後1時間のブタの臓器が蘇る——イェール大が「脳」に次ぐ新成果",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/04001504/GettyImages-10120296-crop-1400x787.jpg"
         }
       ]
     }
