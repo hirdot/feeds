@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-14T08:01:20.885Z</updated>
+    <updated>2022-09-14T09:03:13.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が名前、説明、タグでルーティングプロファイルを検索できるAPI をリリース]]></title>
+        <id>76f4d2d6dec9b782f86755f63aefe2f9d9ec5728</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/"/>
+        <updated>2022-09-14T08:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect で、Amazon Connect インスタンスのルーティングプロファイルを検索できる新しい API が利用できるようになりました。この新しい API では、プログラムを使用して名前、説明、タグでルーティングプロファイルを自由自在に検索できます。例えば、この API を使用して説明内に「セールス」を含むすべてのルーティングプロファイルを検索できるようになりました。この新しい API の詳細については、API ドキュメントを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jsbundling-rails README（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881"/>
+        <updated>2022-09-14T08:37:35.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_jsbundling-rails_readme_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: https://github.com/rails/jsbundling-rails 原文更新日: 2022/03/30（5e6758f） ライセンス: MIT jsbundling-rails README（翻訳） jsbundling-rails gemは、esbuild、rollup.js、webpackのいずれかを用いてJavaScriptコードをバンドルし、Railsのアセットパイプラインで配信します。このgemが提供するのは、新しいRailsアプリケーションで上述の好みのバンドラーを利用できるインストーラと、バンドルした出力ファイルをG [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881" data-wpel-link="internal" target="_self">jsbundling-rails README（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978"/>
+        <updated>2022-09-14T08:30:23.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_validation_db_lecel_check_constraints_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails validations: database level check constraints &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2022/01/18 原著者: Matt Swanson サイト: Boring Rails Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳） Active Recordモデルのバリデーションの背後にデータベースレベルの制約を配置する手法は、Railsの定番の技のひとつです。 バリデーションはスキップされてしまうことも [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978" data-wpel-link="internal" target="_self">Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可視光でCO2をギ酸へ変換、希少金属不要の光触媒＝東工大など]]></title>
         <id>https://www.technologyreview.jp/n/2022/09/13/285769/</id>
@@ -1961,6 +1993,17 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <updated>2022-09-06T09:15:34.000Z</updated>
         <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20220906_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。RubyKaigi会場限定でこんなイベントも開催されるそうです。 Ruby に関するQAは答えられる気がしないけれども()頑張る！！#rubykaigi #agilewarehttps://t.co/aw3kCgJ94y &#8212; えりりん (@suuuuengch) September 6, 2022 グルメガイドも出ていますね。 いよいよRubyKaigiまであとわずかですね！今年は自分の地元三重で開催されるのでおすすめのグルメ＆観光スポットをまとめてみました。参考になれば幸いです🥳 【地元民おすすめ】RubyKaigi 2022で三重に来たら訪れてほしいグルメ＆観光 [&#8230;]</p>
 <p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_06/121492" data-wpel-link="internal" target="_self">週刊Railsウォッチ: syntax_suggestがRuby標準ライブラリに追加、RubyのVisitorパターンほか（20220906後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_06/115289</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_06/115289"/>
+        <updated>2022-09-06T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_webpacker→jsbundling_webpack_upgrade_guide_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: jsbundling-rails/switch_from_webpacker.md at main · rails/jsbundling-rails 原文更新日: 2022/07/15（2433d52） ライセンス: MIT 表記の大文字小文字は「Webpacker」「Shakapacker」「webpack」「jsbundling-rails」「cssbundling-rails」に統一しました。 2022/02/03: 初版公開 2022/09/06: 更新 Rails: Webpacker→jsbundling-rails+webpackア [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_06/115289" data-wpel-link="internal" target="_self">Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
         <author>
             <name>TechRacho</name>
         </author>

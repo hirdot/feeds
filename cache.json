@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "76f4d2d6dec9b782f86755f63aefe2f9d9ec5728",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect で、Amazon Connect インスタンスのルーティングプロファイルを検索できる新しい API が利用できるようになりました。この新しい API では、プログラムを使用して名前、説明、タグでルーティングプロファイルを自由自在に検索できます。例えば、この API を使用して説明内に「セールス」を含むすべてのルーティングプロファイルを検索できるようになりました。この新しい API の詳細については、API ドキュメントを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/",
+          "publishedOn": "2022-09-14T08:46:13.000Z",
+          "wordCount": 302,
+          "title": "Amazon Connect が名前、説明、タグでルーティングプロファイルを検索できるAPI をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6b5da04441f44710d3ce9eae13ed0c10a71e6890",
           "author": "aws@amazon.com",
           "description": "AWS Trusted Advisor は、Amazon Elastic Compute Cloud (Amazon EC2) での Microsoft Windows Server のサポート終了 (EOS、End Of Support) に対してオプションを推奨する、新しいチェックのサポートを開始します。このチェックは、お使いの Microsoft Windows Server のワークロードを検査し、EOS を迎えたか EOS 間近の Microsoft Windows Server インスタンスを自動的に一覧表示します。例えば、Microsoft Windows Server 2012/2012 R2 は、2023 年 10 月 10 日に延長サポートが終了するため、Trusted Advisor コンソールでは 18 か月未満で EOS を迎えるインスタンスにフラグが立ち、お客様はさらなる調査を進めることができます。チェックのレコメンデーションを通じて、AWS での移行、モダナイゼーション、アップグレードといった柔軟なオプションを、ベストプラクティスに基づいて見つけることができます。",
@@ -4468,6 +4478,26 @@
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_jsbundling-rails_readme_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: https://github.com/rails/jsbundling-rails 原文更新日: 2022/03/30（5e6758f） ライセンス: MIT jsbundling-rails README（翻訳） jsbundling-rails gemは、esbuild、rollup.js、webpackのいずれかを用いてJavaScriptコードをバンドルし、Railsのアセットパイプラインで配信します。このgemが提供するのは、新しいRailsアプリケーションで上述の好みのバンドラーを利用できるインストーラと、バンドルした出力ファイルをG [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881\" data-wpel-link=\"internal\" target=\"_self\">jsbundling-rails README（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881",
+          "publishedOn": "2022-09-14T08:37:35.000Z",
+          "wordCount": 499,
+          "title": "jsbundling-rails README（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_jsbundling-rails_readme_eyecatch-min.png"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_validation_db_lecel_check_constraints_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails validations: database level check constraints &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2022/01/18 原著者: Matt Swanson サイト: Boring Rails Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳） Active Recordモデルのバリデーションの背後にデータベースレベルの制約を配置する手法は、Railsの定番の技のひとつです。 バリデーションはスキップされてしまうことも [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978",
+          "publishedOn": "2022-09-14T08:30:23.000Z",
+          "wordCount": 540,
+          "title": "Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_validation_db_lecel_check_constraints_eyecatch-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_13/121781",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_migrating_from_Webpack_to_esbuild_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: How I migrated a Rails app from Webpack to esbuild and got smaller and faster JS builds &#124; Arkency Blog 原文公開日: 2022/08/29 原著者: Jakub Kosiński サイト: Arkency 原文の章立ての一部を訳文で変更しています。 Rails: Webpackをesbuildに移行してJSのビルドを縮小・高速化（翻訳） 先週、私はJavaScriptコードが30万行を超えるかなり大規模なプロジェクトで、Webpack 4をesbuil [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_13/121781\" data-wpel-link=\"internal\" target=\"_self\">Rails: Webpackをesbuildに移行してJSのビルドを縮小・高速化（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -4526,6 +4556,16 @@
           "wordCount": 1195,
           "title": "週刊Railsウォッチ: syntax_suggestがRuby標準ライブラリに追加、RubyのVisitorパターンほか（20220906後編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20220906_eyecatch-min.png"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_06/115289",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_webpacker→jsbundling_webpack_upgrade_guide_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: jsbundling-rails/switch_from_webpacker.md at main · rails/jsbundling-rails 原文更新日: 2022/07/15（2433d52） ライセンス: MIT 表記の大文字小文字は「Webpacker」「Shakapacker」「webpack」「jsbundling-rails」「cssbundling-rails」に統一しました。 2022/02/03: 初版公開 2022/09/06: 更新 Rails: Webpacker→jsbundling-rails+webpackア [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_06/115289\" data-wpel-link=\"internal\" target=\"_self\">Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_06/115289",
+          "publishedOn": "2022-09-06T08:30:10.000Z",
+          "wordCount": 861,
+          "title": "Rails: Webpacker→jsbundling-rails+webpackアップグレード手順（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/01/rails_webpacker→jsbundling_webpack_upgrade_guide_eyecatch-min.png"
         },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_05/121450",
