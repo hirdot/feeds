@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-16T08:01:20.239Z</updated>
+    <updated>2022-09-16T09:02:26.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rails: Dockerマルチステージビルドでgemをキャッシュする（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_16/120283</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_16/120283"/>
+        <updated>2022-09-16T08:30:59.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_docker_caching_gem_multistage_build_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Caching Gems with Docker Multi-Stage build &#124; Saeloun Blog 原文公開日: 2022/07/12 原著者: Manmeet Singh サイト: Saeloun Blog Rails: Dockerマルチステージビルドでgemをキャッシュする（翻訳） Railsのビルドでは、Dockerfileのbundle installにかかる時間が大半を占めます。 以下は、あるRailsアプリケーションの標準的なDockerfileを簡略化したものです。 FROM ruby:3.1.2 RUN gem ins [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_16/120283" data-wpel-link="internal" target="_self">Rails: Dockerマルチステージビルドでgemをキャッシュする（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［1］Ruby biz Grand prix 2022の概要]]></title>
         <id>https://gihyo.jp/article/2022/09/rubybiz2022-01</id>
