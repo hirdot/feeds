@@ -1594,56 +1594,6 @@
           "wordCount": 335,
           "title": "顧客提供のキーによるサーバー側の暗号化 (SSE-C) を要求または制限する新しいポリシー条件キーが Amazon S3 に追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4b48bba27fa23164bf6dc37632f789d99d49e1c1",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Graviton2 プロセッサを搭載した Amazon EC2 M6g、M6gd、C6g、R6g インスタンスがアジアパシフィック (ジャカルタ) リージョンで利用できるようになりました。AWS Graviton2 ベースのインスタンスは、同等の x86 ベースのインスタンスよりも最大 40% 優れた料金パフォーマンスを提供します。M6g および M6gd インスタンスは、アプリケーションサーバー、マイクロサービス、中規模データストア、キャッシュフリートなど、一般用途向けのワークロードに最適です。C6g インスタンスは、ハイパフォーマンスコンピューティング (HPC)、バッチ処理、広告配信、動画エンコーディング、ゲーム、分散分析、CPU ベースの機械学習などのコンピューティング集約型ワークロードに最適です。M6gd インスタンスで提供されるローカル SSD ストレージは、キャッシング、ログ、スクラッチファイルなど、高速で低レイテンシーのデータストレージにアクセスする必要があるアプリケーションに最適です。R6g インスタンスは、オープンソースデータベース、インメモリキャッシュ、リアルタイムビッグデータ分析などのメモリ集約型アプリケーションに最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-m6g-m6gd-c6g-r6g-available-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-08-18T14:44:09.000Z",
-          "wordCount": 414,
-          "title": "AWS Graviton2 ベースの Amazon EC2 M6g、M6gd、C6g、および R6g がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "886e491a4447caa1e3ebaeda6b4f048269841cfc",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kinesis Data Analytics がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-kenesis-data-available-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-08-18T14:38:09.000Z",
-          "wordCount": 342,
-          "title": "Amazon Kinesis Data Analytics がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0a15c539652ffdfa16876c2777cd1d313ee1af3b",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue はプリプロダクションデータ、テストデータ、緊急度が低いデータの統合ワークロードのコストを最大 34% 削減する、新しい実行オプションのサポートを開始しました。Flex を使うと、Glue は AWS の予備キャパシティーで実行されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-glue-supports-flex-execution-option/",
-          "publishedOn": "2022-08-18T14:32:09.000Z",
-          "wordCount": 316,
-          "title": "AWS Glue が Flex の実行オプションのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7a1ec73ecb510f6353cb25092fb9d0699ba14a19",
-          "author": "aws@amazon.com",
-          "description": "Amazon Personalize で大容量データセットの増分インポートがサポートされるようになったことをお知らせします。これは、データを更新し、レコメンデーションの品質を向上させるための新しいオプションです。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。以前は、Amazon Personalize では 2 種類のデータ取り込みがサポートされていました。大規模なデータセットを取り込むためのデータセットの完全一括インポートと、リアルタイムの取り込みのための API (PutEvents、PutItems、PutUsers) です。これで、既存のデータセットをそのまま維持しながら、データセット全体を用意しなおすことなく、一括読み込みされた新しいデータを追加することができます。増分インポートによって、既存のデータセット内にあるレコードが複製される場合、Amazon Personalize では現在のバージョンでレコードが自動的に更新され、データ取り込みプロセスがさらに簡素化されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-personalize-incremental-bulk-dataset-imports/",
-          "publishedOn": "2022-08-18T14:26:09.000Z",
-          "wordCount": 301,
-          "title": "Amazon Personalize による大容量データセットの増分インポートのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0a6ed9b9c329c9095d08c3ea9b0cf70d15b54634",
-          "author": "aws@amazon.com",
-          "description": "Intel が提供する AWS DeepRacer Student は学生のための最初の世界的な自律型レーシングリーグです。強化学習を通して 1/18 スケールのレースカーの動作を向上させることで機械学習 (ML) を実践できるようになっており、そのための無料の教材とリソースが用意されています。現在利用できるのは、機械学習推論に関する Intel の OpenVINO™ ツールキットに取り組む学生コミュニティレースと追加の学習コンテンツです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-deepracer-student-community-races-intel-learning-content-look-under-hood-deepracer-vehicle/",
-          "publishedOn": "2022-08-18T14:20:09.000Z",
-          "wordCount": 348,
-          "title": "AWS DeepRacer Student は、DeepRacer の車両の性能に着目し、コミュニティレースと新しい Intel 学習コンテンツの提供を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
