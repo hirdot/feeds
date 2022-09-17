@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-17T10:01:17.670Z</updated>
+    <updated>2022-09-17T22:01:10.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Handling reconnects in Action Cable, no more Coffeescript and a new guide.]]></title>
+        <id>https://rubyonrails.org/2022/9/17/this-week-in-rails-handling-reconnects-in-action-cable-no-more-coffeescript-and-a-new-guide-ae13f499</id>
+        <link href="https://rubyonrails.org/2022/9/17/this-week-in-rails-handling-reconnects-in-action-cable-no-more-coffeescript-and-a-new-guide-ae13f499"/>
+        <updated>2022-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Petrik with this week’s Rails updates and some Hotwire news.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Fargate でサービスクォータを vCPU ベースのクォータに移行することを発表]]></title>
         <id>6a2159f6fd116bab1df0dd38f80ae54e7d7cf0fa</id>
@@ -6849,236 +6859,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <summary type="html"><![CDATA[Amazon Aurora Serverless v1 は PostgreSQL のメジャーバージョンである 11 のサポートを開始しました。PostgreSQL 11 には、パーティショニングや並行処理、パフォーマンスの機能強化 (デフォルトの非 NULL 値を列にすばやく追加するなど) が含まれます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光と酸で分解できる光分解性材料、東大が開発]]></title>
-        <id>https://www.technologyreview.jp/n/2022/08/19/283867/</id>
-        <link href="https://www.technologyreview.jp/n/2022/08/19/283867/"/>
-        <updated>2022-08-19T09:57:52.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[期末時点で納品未了のプロジェクトについて、期末までに発生した人件費をプロジェクト別に集計する]]></title>
-        <id>https://techracho.bpsinc.jp/piichan1031/2022_08_19/120579</id>
-        <link href="https://techracho.bpsinc.jp/piichan1031/2022_08_19/120579"/>
-        <updated>2022-08-19T08:30:09.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/nippoukun_tips_aggregations_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>背景 弊社顧問会計士、税理士法人とおやまの遠山伊織さん（弊社内通称”イオリン”）から今年も決算期周辺にいろいろ連絡をいただきました。その中の１つがこれです。 期末時点で納品未了のプロジェクトについて、 期末までに発生した人件費をプロジェクト別に集計して頂けませんでしょうか。 計算過程がわかるようにエクセル形式で頂けますと幸いです。 会社の全チームの全プロジェクトを洗い出して仕掛品の精査せよ、ということですね。いやあ、細かく聞いて回って情報をまとめていくとそれなりに大変なやつです。証拠も残さないといけませんし。そして作業そのものよりも、お仕事の邪魔をされちゃう方々からの冷ややかな顔やチャットコメント（どうでもよくな [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/piichan1031/2022_08_19/120579" data-wpel-link="internal" target="_self">期末時点で納品未了のプロジェクトについて、期末までに発生した人件費をプロジェクト別に集計する</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高知県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
-        <id>https://data.wingarc.com/?p=45323</id>
-        <link href="https://data.wingarc.com/local-dx-lab-kochi-45323?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-kochi"/>
-        <updated>2022-08-19T08:10:56.000Z</updated>
-        <summary type="html"><![CDATA[高知県は、四国の南部に位置し、南は太平洋に面し、北は四国山地をはさんで徳島・愛媛の両県に面した細長い扇状の形の県で、幕末に活躍した坂本龍馬の出身地、かつおの一本釣り、景勝地としての、足摺岬、四万十川、桂浜などで有名です。 […]]]></summary>
-        <author>
-            <name>石川麻里</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 7.4 Communityがリリース、画像フォーマットとしてWebPをサポート]]></title>
-        <id>https://gihyo.jp/article/2022/08/daily-linux-220819</id>
-        <link href="https://gihyo.jp/article/2022/08/daily-linux-220819?utm_source=feed"/>
-        <updated>2022-08-19T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The Doucment Foundationは8月18日、「LibreOffice 7.4 Community」の一般提供（GA）を開始した。サポートプラットフォームはWindows、macOS（Apple SiliconまたはIntelプロセッサ）、Linuxで、すでにダウンロード可能となっている。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 7.4 Communityがリリース、画像フォーマットとしてWebPをサポート]]></title>
-        <id>https://gihyo.jp/article/2022/08/daily-linux-220819</id>
-        <link href="https://gihyo.jp/article/2022/08/daily-linux-220819?utm_source=feed"/>
-        <updated>2022-08-19T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The Doucment Foundationは8月18日、「LibreOffice 7.4 Community」の一般提供（GA）を開始した。サポートプラットフォームはWindows、macOS（Apple SiliconまたはIntelプロセッサ）、Linuxで、すでにダウンロード可能となっている。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 7.4 Communityがリリース、画像フォーマットとしてWebPをサポート]]></title>
-        <id>https://gihyo.jp/article/2022/08/daily-linux-220819</id>
-        <link href="https://gihyo.jp/article/2022/08/daily-linux-220819?utm_source=feed"/>
-        <updated>2022-08-19T03:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The Doucment Foundationは8月18日、「LibreOffice 7.4 Community」の一般提供（GA）を開始した。サポートプラットフォームはWindows、macOS（Apple SiliconまたはIntelプロセッサ）、Linuxで、すでにダウンロード可能となっている。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntuにおける.NETのネイティブサポートと「Chisel」、StarFive VisionFiveボードへの対応。Ubuntu 22.04.1 LTSのリリース]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/19</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/19?utm_source=feed"/>
-        <updated>2022-08-19T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 LTSにおいて、.NET関連パッケージがネイティブにサポートされるというプレスリリースが行われています。また、VisionFiveボードで「Ubuntuが使えるかもしれない」という期待が現実になる日がやってきました。また、22.04 LTSの最初のポイントリリース、Ubuntu 22.04.1 LTSが一週間遅れでリリースされています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntuにおける.NETのネイティブサポートと「Chisel」、StarFive VisionFiveボードへの対応。Ubuntu 22.04.1 LTSのリリース]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/19</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/19?utm_source=feed"/>
-        <updated>2022-08-19T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 LTSにおいて、.NET関連パッケージがネイティブにサポートされるというプレスリリースが行われています。また、VisionFiveボードで「Ubuntuが使えるかもしれない」という期待が現実になる日がやってきました。また、22.04 LTSの最初のポイントリリース、Ubuntu 22.04.1 LTSが一週間遅れでリリースされています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntuにおける.NETのネイティブサポートと「Chisel」、StarFive VisionFiveボードへの対応。Ubuntu 22.04.1 LTSのリリース]]></title>
-        <id>https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/19</id>
-        <link href="https://gihyo.jp/admin/clip/01/ubuntu-topics/202208/19?utm_source=feed"/>
-        <updated>2022-08-19T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 22.04 LTSにおいて、.NET関連パッケージがネイティブにサポートされるというプレスリリースが行われています。また、VisionFiveボードで「Ubuntuが使えるかもしれない」という期待が現実になる日がやってきました。また、22.04 LTSの最初のポイントリリース、Ubuntu 22.04.1 LTSが一週間遅れでリリースされています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Python Boot Camp」2022年9月17日に新潟市で開催]]></title>
-        <id>https://gihyo.jp/article/2022/08/python-bc-niigata2</id>
-        <link href="https://gihyo.jp/article/2022/08/python-bc-niigata2?utm_source=feed"/>
-        <updated>2022-08-19T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。2022年9月17日（土）には新潟市で開催される。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Python Boot Camp」2022年9月17日に新潟市で開催]]></title>
-        <id>https://gihyo.jp/article/2022/08/python-bc-niigata2</id>
-        <link href="https://gihyo.jp/article/2022/08/python-bc-niigata2?utm_source=feed"/>
-        <updated>2022-08-19T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。2022年9月17日（土）には新潟市で開催される。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Python Boot Camp」2022年9月17日に新潟市で開催]]></title>
-        <id>https://gihyo.jp/article/2022/08/python-bc-niigata2</id>
-        <link href="https://gihyo.jp/article/2022/08/python-bc-niigata2?utm_source=feed"/>
-        <updated>2022-08-19T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Python Boot Campは、一般社団法人PyCon JP Associationが主催するPythonを学べるチュートリアル講座。2022年9月17日（土）には新潟市で開催される。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のOWASPとOWASP Top 10]]></title>
-        <id>https://gihyo.jp/article/2022/08/owasp2022</id>
-        <link href="https://gihyo.jp/article/2022/08/owasp2022?utm_source=feed"/>
-        <updated>2022-08-19T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[OWASPはWebアプリケーションを作成する開発者や、Webアプリケーションに関わる意思決定を行う方々に対し、組織が信頼できるアプリケーションやAPIを開発、購入、維持できるよう支援するオープンなコミュニティです。OWASPプロジェクトは、ボランティアのコミュニティによって運営されるWebアプリケーションセキュリティに関連するドキュメントやツールの作成に関する活動です。中でも、アプリケーション・セキュリティ全体にとって戦略的な価値を実証したプロジェクトは、Flagshipプロジェクトに指定されています。ここでは、これらのFlagshipプロジェクトの中でも最も有名なプロジェクトの1つであるOWASP Top 10について紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のOWASPとOWASP Top 10]]></title>
-        <id>https://gihyo.jp/article/2022/08/owasp2022</id>
-        <link href="https://gihyo.jp/article/2022/08/owasp2022?utm_source=feed"/>
-        <updated>2022-08-19T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[OWASPはWebアプリケーションを作成する開発者や、Webアプリケーションに関わる意思決定を行う方々に対し、組織が信頼できるアプリケーションやAPIを開発、購入、維持できるよう支援するオープンなコミュニティです。OWASPプロジェクトは、ボランティアのコミュニティによって運営されるWebアプリケーションセキュリティに関連するドキュメントやツールの作成に関する活動です。中でも、アプリケーション・セキュリティ全体にとって戦略的な価値を実証したプロジェクトは、Flagshipプロジェクトに指定されています。ここでは、これらのFlagshipプロジェクトの中でも最も有名なプロジェクトの1つであるOWASP Top 10について紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のOWASPとOWASP Top 10]]></title>
-        <id>https://gihyo.jp/article/2022/08/owasp2022</id>
-        <link href="https://gihyo.jp/article/2022/08/owasp2022?utm_source=feed"/>
-        <updated>2022-08-19T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[OWASPはWebアプリケーションを作成する開発者や、Webアプリケーションに関わる意思決定を行う方々に対し、組織が信頼できるアプリケーションやAPIを開発、購入、維持できるよう支援するオープンなコミュニティです。OWASPプロジェクトは、ボランティアのコミュニティによって運営されるWebアプリケーションセキュリティに関連するドキュメントやツールの作成に関する活動です。中でも、アプリケーション・セキュリティ全体にとって戦略的な価値を実証したプロジェクトは、Flagshipプロジェクトに指定されています。ここでは、これらのFlagshipプロジェクトの中でも最も有名なプロジェクトの1つであるOWASP Top 10について紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js最新動向]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc001-nodejs</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc001-nodejs?utm_source=feed"/>
-        <updated>2022-08-19T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Node.js 最新動向（Yosuke Furukawa） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js最新動向]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc001-nodejs</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc001-nodejs?utm_source=feed"/>
-        <updated>2022-08-19T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Node.js 最新動向（Yosuke Furukawa） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js最新動向]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc001-nodejs</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc001-nodejs?utm_source=feed"/>
-        <updated>2022-08-19T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Node.js 最新動向（Yosuke Furukawa） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第73回　Perlで作るGraphQL API ～graphql-perlを使って実装してみよう！（2）]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007302</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007302?utm_source=feed"/>
-        <updated>2022-08-19T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはmangano-itoさんと中岡大樹さんで、テーマは「Perlで作るGraphQL API（2）」です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第73回　Perlで作るGraphQL API ～graphql-perlを使って実装してみよう！（2）]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007302</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007302?utm_source=feed"/>
-        <updated>2022-08-19T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはmangano-itoさんと中岡大樹さんで、テーマは「Perlで作るGraphQL API（2）」です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第73回　Perlで作るGraphQL API ～graphql-perlを使って実装してみよう！（2）]]></title>
-        <id>https://gihyo.jp/dev/serial/01/perl-hackers-hub/007302</id>
-        <link href="https://gihyo.jp/dev/serial/01/perl-hackers-hub/007302?utm_source=feed"/>
-        <updated>2022-08-19T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では第一線のPerlハッカーが回替わりで執筆していきます。本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはmangano-itoさんと中岡大樹さんで、テーマは「Perlで作るGraphQL API（2）」です。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logging, raising and rescuing errors and a fix for a query method.]]></title>
-        <id>https://rubyonrails.org/2022/8/19/this-week-in-rails-logging-raising-and-rescuing-errors-and-a-fix-for-a-query-method-564753b7</id>
-        <link href="https://rubyonrails.org/2022/8/19/this-week-in-rails-logging-raising-and-rescuing-errors-and-a-fix-for-a-query-method-564753b7"/>
-        <updated>2022-08-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cześć! I’m Emmanuel, and I have some updates for you from Rails. Log a warning if ActiveSupport::Cache is given an expiration in the past Imagine trying to write/fetch to/from a cache and the operation fails silently because expires_at is in the past… a debugger’s nightmare. This PR helps. You won’t get an error raised, instead, you’ll get “Cache expiration is in the past” in your logs. Define and raise error if legacy_connection_handling= is called from an app In Rails 6.0 if you switched to a role, say reading, then all database connections would also switch to that role. In Rails 6.1 however, you could set legacy_connection_handling to false to disable this behaviour. legacy_connection_handling was removed in Rails 7 without setting it to false by default, causing an error. This PR fixes that by redefining legacy_connection_handling and raising an error. Fix ActiveRecord::QueryMethods#in_order_of to work with nils This PR fixes an issue where an invalid SQL is generated when nil is passed to in_order_of. Rescue EOFError error from rack on a multipart request EOFError is added to the list of rescued errors that can arise from a multipart POST request, raising a ActionController::BadRequest exception and rendering a 400 Bad Request instead of 500 Internal Server Error. Add description of breaking changes and the deprecation cycle to guides This PR clarifies the deprecation cycle. This is mostly to help contributors but a good addition to the documentation nonetheless. We had 11 contributors since last week. That’s it. Do zobaczenia!]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「スマートシティ」とは？ 定義や事例、都市OSの役割など基本事項をわかりやすく解説！]]></title>
-        <id>https://data.wingarc.com/?p=42820</id>
-        <link href="https://data.wingarc.com/what-is-smart-city-42820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-is-smart-city"/>
-        <updated>2022-08-18T23:00:51.000Z</updated>
-        <summary type="html"><![CDATA[世界、日本で目下進んでいる都市や地域のスマートシティ化。政府はICT技術の活用により過疎化や高齢化といった課題を解決し、また国民の生活の利便性や可能性が高められる社会──Society5.0の構築を目標に掲げ、それにリー […]]]></summary>
-        <author>
-            <name>BunkiMIyata</name>
         </author>
     </entry>
     <entry>
