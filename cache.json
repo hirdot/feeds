@@ -1364,36 +1364,6 @@
           "wordCount": 347,
           "title": "AWS Config が新たなリソースタイプ 20 種類のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "755c5d03b1d6c9d98e4249048b6e61c1bb5efeb6",
-          "author": "aws@amazon.com",
-          "description": "Amazon DocumentDB (MongoDB 互換) は、大規模な JSON データ管理のためのデータベースサービスで、AWS で完全に管理・統合されており、高い耐久性を備えたエンタープライズ対応のサービスとなっています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/",
-          "publishedOn": "2022-08-19T16:47:09.000Z",
-          "wordCount": 329,
-          "title": "Amazon DocumentDB (MongoDB 互換) で Amazon CloudWatch Logs による DML クエリ監査のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f3b7251f888a1121b5f1deda682d7c75776eca16",
-          "author": "aws@amazon.com",
-          "description": "AWS Resource Access Manager (AWS RAM) で Amazon SageMaker Model Building Pipelines を使用して AWS アカウント間で安全にパイプラインエンティティを共有し、直接 API を呼び出して共有パイプラインにアクセスできるようになりました。マルチアカウント戦略によって、データ、プロジェクト、チームの分離を実現しながら、ソフトウェア開発のライフサイクルのステップをサポートできます。クロスアカウントのパイプライン共有によって、マルチアカウント戦略で複数アカウントのログインとログアウトを繰り返す手間を省けます。例えば、クロスアカウントのパイプライン共有により、ステージングと本番のアカウントでリソースを共有して機械学習のテストとデプロイのワークフローを改善できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-sharing-pipeline-entities-across-accounts/",
-          "publishedOn": "2022-08-19T16:41:09.000Z",
-          "wordCount": 310,
-          "title": "Amazon SageMaker Pipelines がアカウント間でのパイプラインエンティティ共有のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fdfef8b33578ffa498575deb680a8c0aeedb0716",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT Greengrass は、モノのインターネット (IoT) のエッジランタイムおよびクラウドサービスであり、お客様のデバイスソフトウェアの構築、デプロイ、および管理を支援します。今回リリースするバージョン 2.7 では、以下の機能が実装されます。\n \n \n \nシステムテレメトリの強化 – Stream Manager エージェントのコンポーネントに、システムテレメトリメトリクスを Amazon EventBridge に送信する機能 (デフォルトで有効) が追加されました。システムテレメトリデータは、AWS IoT Greengrass Core デバイスの重要なオペレーションのパフォーマンスをモニタリングする際に役立つ、診断データです。エッジデバイスからテレメトリデータを取得し、分析し、変換し、報告するようなプロジェクトとアプリケーションを作成することができます。プロセスエンジニアなど、ドメインの専門家であれば、そのアプリケーションを使用することにより、Stream Manager 経由で AWS のサービス (Amazon Kinesis、Amazon Simple Storage Service (Amazon S3)、AWS IoT Analytics、AWS IoT SiteWise など) にアップロードされたデバイスデータに基づく、フリートの状態に関するインサイトを得ることができます。詳細については、デベロッパーガイドの「システムテレメトリの収集」セクションを参照してください。\n \n \nローカルデプロイの改善 – この新しい改善により、AWS IoT Greengrass nucleus は、ほぼリアルタイムのデプロイステータスアップデートを AWS IoT Greengrass クラウドサービスに送信できるようになりました。例えば、ListInstalledComponents API を使用すれば、インターネットに接続されたデバイスについて、ローカルにデプロイされたコンポーネントのステータスを確認することが可能になります。\n \n \nクライアント証明書に関する追加サポート – AWS IoT に登録されていないカスタム認証機関 (CA) が署名した証明書もサポート対象になりました。これにより、AWS IoT に登録されていないカスタム認証機関を柔軟に使用できるようになります。この機能を使用するには、新しい greengrassDataPlaneEndpoint 設定オプションを iotdata に設定してください。詳細については、「プライベート CA が署名したデバイス証明書を使用する」を参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/",
-          "publishedOn": "2022-08-19T16:35:09.000Z",
-          "wordCount": 358,
-          "title": "AWS IoT Greengrass V2 における Stream Manager のアップデートにより、新しいテレメトリメトリクスの報告などの新機能が実装",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
