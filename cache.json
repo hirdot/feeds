@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "0b53a700626722aa1cdb98e91633efac8f9a7859",
+          "author": "aws@amazon.com",
+          "description": "Amazon Kinesis Data Analytics for Apache Flink が、新たな 3 タイプのコンテナレベルのメトリクス (Flink タスクマネージャーの CPU 使用率、メモリ使用率、ディスク使用率) を Amazon CloudWatch にパブリッシュできるようになりました。タスクマネージャーは、データ処理を実行する Flink アプリケーションのワーカーノードです。このたび追加されたメトリクスにより、タスクマネージャーリソースの使用状況をより適切に把握できるようになったほか、Kinesis Data Analytics で実行されるアプリケーションのスケーリングも簡単になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-kinesis-data-analytics-apache-flink-three-container-level-metrics-cloudformation-support/",
+          "publishedOn": "2022-09-20T10:34:51.000Z",
+          "wordCount": 374,
+          "title": "Amazon Kinesis Data Analytics for Apache Flink が新たな 3 タイプのコンテナレベルのメトリクスに対応し、CloudFormation サポートを改善",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "80b544c9f13923dce6dfc3a81559fa5337b54950",
+          "author": "aws@amazon.com",
+          "description": "Amazon Cognito のホストされた UI で、エンドユーザーが独自の認証アプリケーションを登録できるようになりました。お客様は、ユーザーが SMS ベースのワンタイムパスワード (OTP) または時間ベースのワンタイムパスワード (TOTP) 認証アプリケーションをセルフ登録できるように設定可能です。管理者は、ホストされた UI で TOTP を使用する際にエンドユーザー登録をせずに済むようになりました。ホストされた UI を使用しているデベロッパーは、カスタムコードを開発することなく従来と同等のセキュリティを確保できるため、アプリケーションの改善に注力できます。管理者はまた、認証のセキュリティ強度を高めるために行うエンドユーザーのオンボーディングを、より短時間で済ませることも可能になりました。エンドユーザーにとっても利便性が高まり、Cognito のホストされた UI を利用したアプリケーションへのアクセスに、独自の認証アプリケーションを追加したり、多要素認証 (MFA) を活用したりできます。今回の更新による追加料金はありません。より高レベルな認証を従来どおりの請求額でご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-cognito-enables-time-based-one-time-password-totp-self-enrollment-hosted-ui/",
+          "publishedOn": "2022-09-20T10:34:03.000Z",
+          "wordCount": 313,
+          "title": "Amazon Cognito が、ホストされた UI における時間ベースのワンタイムパスワード (TOTP) のセルフ登録に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f474bf42ed9a58af1c31bc460cfd833f6f555f68",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker は、あらゆるユースケースで予測 (推論とも言う) を行う機械学習 (ML) モデルをデプロイするためのサービスです。このたび、EBS ボリュームの最大サイズとタイムアウトのクォータを設定したうえで、Amazon SageMaker のリアルタイム非同期推論オプションに対応した大規模モデル (最大 500 GB) をデプロイできるようになりました。これにより、SageMaker のフルマネージド型のリアルタイム非同期推論機能を活用した大規模 ML モデル (GPT や OPT のバリアントなど) のデプロイおよび管理が可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-deploying-large-models-volume-size-timeout-quotas/",
+          "publishedOn": "2022-09-20T10:33:16.000Z",
+          "wordCount": 327,
+          "title": "Amazon SageMaker が、設定可能なボリュームサイズとタイムアウトのクォータを活用した大規模モデルのデプロイに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e970ab93111ec518f6c711cd5edb029b3157eac6",
+          "author": "aws@amazon.com",
+          "description": "Amazon QuickSight の折れ線グラフおよび面グラフの両方が「欠測データ」操作機能に対応しました。これまで、datetime フィールドの「欠測データ」操作に対応していたのは、折れ線グラフのみでした。今回、折れ線グラフと面グラフの両方でカテゴリデータにも対応しました。破線を表示する (デフォルトの動作) のに加え、次の利用可能なデータポイントに直接つながった実線を表示したり、欠測値にゼロを挿入して実線を表示したりできます。詳細については、こちらをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-quicksight-adds-missing-data-control-line-area-charts/",
+          "publishedOn": "2022-09-20T10:32:17.000Z",
+          "wordCount": 296,
+          "title": "Amazon Quicksight の折れ線グラフおよび面グラフに欠測データの操作機能を追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6a2159f6fd116bab1df0dd38f80ae54e7d7cf0fa",
           "author": "aws@amazon.com",
           "description": "Amazon Elastic Container Service (ECS) および Amazon Elastic Kubernetes Service (EKS) のサーバーレスコンピューティングエンジンである AWS Fargate (Fargate) では、最近、現在の Amazon ECS タスクおよび Amazon EKS ポッドカウントベースのクォータから vCPU ベースのクォータにサービスクォータを移行することを発表しました。vCPU クォータに移行しても、実行中のタスクやポッドに対する影響はありません。",
@@ -1381,16 +1421,6 @@
           "wordCount": 461,
           "title": "『RubyKaigi 2022 タイムテーブル徹底解説』イベントを開催します",
           "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220825/20220825173958.png"
-        },
-        {
-          "id": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220824",
-          "author": null,
-          "description": "2022年8月の Rails / OSS パッチ会を 8月24日(水)に Discord でオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひ…",
-          "link": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220824",
-          "publishedOn": "2022-08-22T01:44:47.000Z",
-          "wordCount": 483,
-          "title": "Rails / OSS パッチ会オンライン 2022年8月のお知らせ",
-          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/4207112889910873661/1661132687"
         }
       ]
     },
@@ -1738,16 +1768,6 @@
           "wordCount": 3086,
           "title": "データのじかんNews 2022年8月Part.04",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/datatimesnews_2022_08_part4_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45233",
-          "author": "TotsukaKeisuke",
-          "description": "ここがポイント：サブスクサービスとスポーツジムは解約のタイミングが難しいですよね。 みなさん、おはようございます。 ちょっと前まではサブスクリプションのサービスって目新しくて、毎月自動的に一定金額を支払うってなんかちょっ […]",
-          "link": "https://data.wingarc.com/taimu-kun-133-45233?utm_source=rss&utm_medium=rss&utm_campaign=taimu-kun-133",
-          "publishedOn": "2022-08-21T23:00:13.000Z",
-          "wordCount": 2759,
-          "title": "【タイムくん 第133話】カスタマーサクセス",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/133.jpg"
         }
       ]
     },
@@ -2593,26 +2613,6 @@
           "wordCount": null,
           "title": "Node.jsパフォーマンスチェックポイント ～TechFeed Conference 2022講演より",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0006",
-          "author": null,
-          "description": "今回のテーマはRustです。効率的で信頼性が特徴と言われているRustを商業サービスに組み込んだ吉川さんに、Rustの魅力を伝えていただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0006?utm_source=feed",
-          "publishedOn": "2022-08-22T02:43:00.000Z",
-          "wordCount": null,
-          "title": "第6回　Rustが今、流行っている理由とは",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/development-security-in-dx-era-01",
-          "author": null,
-          "description": "あらゆる企業がDXに取り組む現在、データを活用して新たな価値をユーザーに提供していくケースが増えています。その手法は主にアプリケーションやWebサービスですが、リリースを急ぐあまりセキュリティがおろそかになってしまい、大きなインシデントが発生してしまうこともあります。この連載では、開発にセキュリティを組み込むための考え方や手法について、GitLabのブログを再構成してお届けします。初回は、経営層向けのモダナイゼーションとコラボレーションについて紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/development-security-in-dx-era-01?utm_source=feed",
-          "publishedOn": "2022-08-22T00:35:00.000Z",
-          "wordCount": 160,
-          "title": "経営層が取り組むべき、モダナイゼーションとコラボレーション ～開発にセキュリティを組み込むための考え方",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/dx-Security.png"
         }
       ]
     },
@@ -3440,26 +3440,6 @@
           "wordCount": 199,
           "title": "Node.jsパフォーマンスチェックポイント ～TechFeed Conference 2022講演より",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1931_techfeed_nodejs_performance.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0006",
-          "author": null,
-          "description": "今回のテーマはRustです。効率的で信頼性が特徴と言われているRustを商業サービスに組み込んだ吉川さんに、Rustの魅力を伝えていただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0006?utm_source=feed",
-          "publishedOn": "2022-08-22T02:43:00.000Z",
-          "wordCount": null,
-          "title": "第6回　Rustが今、流行っている理由とは",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/development-security-in-dx-era-01",
-          "author": null,
-          "description": "あらゆる企業がDXに取り組む現在、データを活用して新たな価値をユーザーに提供していくケースが増えています。その手法は主にアプリケーションやWebサービスですが、リリースを急ぐあまりセキュリティがおろそかになってしまい、大きなインシデントが発生してしまうこともあります。この連載では、開発にセキュリティを組み込むための考え方や手法について、GitLabのブログを再構成してお届けします。初回は、経営層向けのモダナイゼーションとコラボレーションについて紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/development-security-in-dx-era-01?utm_source=feed",
-          "publishedOn": "2022-08-22T00:35:00.000Z",
-          "wordCount": null,
-          "title": "経営層が取り組むべき、モダナイゼーションとコラボレーション ～開発にセキュリティを組み込むための考え方",
-          "imageUrl": null
         }
       ]
     },
@@ -4287,26 +4267,6 @@
           "wordCount": null,
           "title": "Node.jsパフォーマンスチェックポイント ～TechFeed Conference 2022講演より",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/technical_field/0006",
-          "author": null,
-          "description": "今回のテーマはRustです。効率的で信頼性が特徴と言われているRustを商業サービスに組み込んだ吉川さんに、Rustの魅力を伝えていただきます。",
-          "link": "https://gihyo.jp/dev/serial/01/technical_field/0006?utm_source=feed",
-          "publishedOn": "2022-08-22T02:43:00.000Z",
-          "wordCount": null,
-          "title": "第6回　Rustが今、流行っている理由とは",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/development-security-in-dx-era-01",
-          "author": null,
-          "description": "あらゆる企業がDXに取り組む現在、データを活用して新たな価値をユーザーに提供していくケースが増えています。その手法は主にアプリケーションやWebサービスですが、リリースを急ぐあまりセキュリティがおろそかになってしまい、大きなインシデントが発生してしまうこともあります。この連載では、開発にセキュリティを組み込むための考え方や手法について、GitLabのブログを再構成してお届けします。初回は、経営層向けのモダナイゼーションとコラボレーションについて紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/development-security-in-dx-era-01?utm_source=feed",
-          "publishedOn": "2022-08-22T00:35:00.000Z",
-          "wordCount": 160,
-          "title": "経営層が取り組むべき、モダナイゼーションとコラボレーション ～開発にセキュリティを組み込むための考え方",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/dx-Security.png"
         }
       ]
     },
@@ -4716,26 +4676,6 @@
           "wordCount": 438,
           "title": "BPS開発チームの紹介～アプリチーム～（2022年度）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_app_team_2022_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_22/120839",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220822_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_22/120839\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: ビューテンプレートに渡せるローカル変数をマジックコメントでチェック可能にほか（20220822前編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_22/120839",
-          "publishedOn": "2022-08-22T09:46:46.000Z",
-          "wordCount": 1051,
-          "title": "週刊Railsウォッチ: ビューテンプレートに渡せるローカル変数をマジックコメントでチェック可能にほか（20220822前編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220822_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/konaga/2022_08_22/120891",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_limiting_ar_relation_join_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>環境 Ruby: 3.0.2 Rails: 6.1.4.1 MySQL: 5.7 ※ Railsのバージョンを上げたりDBMSを変えたりしたときには再現しなかった問題なので、環境依存している話かもしれません。 やりたいこと あるモデルのレコードを、has_many の関係にあるモデルのうち最新のレコードでorderした上で、limitして件数を絞り込みたいです。 具体例として、チャット管理アプリを作成しているとします。 このアプリでは以下のようなモデルが存在します。 class ChatRoom &#60; ApplicationRecord has_many :chat_messages end class Ch [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/konaga/2022_08_22/120891\" data-wpel-link=\"internal\" target=\"_self\">Rails: JOINしたActiveRecord::Relationをlimitして件数が合わない場合の対処法</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/konaga/2022_08_22/120891",
-          "publishedOn": "2022-08-22T08:30:06.000Z",
-          "wordCount": 747,
-          "title": "Rails: JOINしたActiveRecord::Relationをlimitして件数が合わない場合の対処法",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_limiting_ar_relation_join_eyecatch-min.png"
         }
       ]
     },
@@ -4744,6 +4684,36 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/webassemblywasmtime10bytecode_alliance.html",
+          "author": null,
+          "description": "Bytecode Allianceがオープンソースで開発しているWebAssemblyランタイム「Wasmtime」がバージョン1.0に到達し、本番利用にも対応した正式版としてリリースされました。 Bytecode AllianceはWeb...",
+          "link": "https://www.publickey1.jp/blog/22/webassemblywasmtime10bytecode_alliance.html",
+          "publishedOn": "2022-09-20T20:29:24.000Z",
+          "wordCount": 1239,
+          "title": "WebAssemblyランタイム「Wasmtime」がバージョン1.0に到達、本番利用に対応。Bytecode Allianceによる事実上の参照実装",
+          "imageUrl": "https://www.publickey1.jp/2022/wasmtime10.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/java_19risc-v1java_21lts.html",
+          "author": null,
+          "description": "Javaの新バージョン「Java 19」正式版がリリースされました。 Java 19 is now available! #Java19 #JDK19 #openjdk Download now: https://t.co/dKovWtNG...",
+          "link": "https://www.publickey1.jp/blog/22/java_19risc-v1java_21lts.html",
+          "publishedOn": "2022-09-20T15:37:15.000Z",
+          "wordCount": 1299,
+          "title": "Java 19が正式リリース。より軽量な仮想スレッド、RISC-Vへの移植など新機能。1年後のJava 21が次のLTS版に",
+          "imageUrl": "https://www.publickey1.jp/2022/FdG7fHgWQAEmhy6.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/content.html",
+          "author": null,
+          "description": "最近リリースされたSafariとChromeで、CSSのSelectors Level 4（現時点でドラフト）仕様にある疑似クラス「:has()」が相次いで実装されました。 疑似クラス「:has()」は、カッコ内に要素を書くと、その要素を持...",
+          "link": "https://www.publickey1.jp/blog/22/content.html",
+          "publishedOn": "2022-09-20T15:00:09.000Z",
+          "wordCount": 1426,
+          "title": "Chromeに実装された疑似クラス「:has()」がjQueryの「:has()」に悪影響、一定の条件下でWebサイトが壊れる可能性",
+          "imageUrl": "https://www.publickey1.jp/2022/b1rqTf5F.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/abematvheadspinpr.html",
           "author": null,
@@ -5301,6 +5271,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=284353",
+          "author": "Jessica Hamzelou",
+          "description": "重度の肝疾患を患う人がまもなく、かつてない治療を受ける。機能しなくなった本人の肝臓の代わりとなるミニ肝臓を体内で育てるという治療だ。ライジェネシス（LyGenesis）という企業の研究者は肝臓で上手くいったら胸腺、膵臓といった臓器を同じ手法で体内に作り出すことを考えている。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/284353/this-company-is-about-to-grow-new-organs-in-a-person-for-the-first-time/",
+          "publishedOn": "2022-09-20T21:56:13.000Z",
+          "wordCount": 1202,
+          "title": "リンパ節で育つ「ミニ肝臓」、肝不全患者を救えるか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/26020504/LiverInjection2-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/09/20/286433/",
           "author": "MIT Technology Review Japan",
