@@ -1254,66 +1254,6 @@
           "wordCount": 311,
           "title": "AWS Glue Python Shell ジョブ、Python 3.9 と追加の事前ロード済みライブラリの提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "53804ee383c9e8f2ae24262daecd6ca7c12829d4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すれば、会話型ボット (chatbot)、仮想エージェント、対話型音声応答 (IVR) システムをすばやく簡単に構築できます。本日より Amazon Lex は、条件分岐機能のサポートを開始しました。これによりお客様は、自社ユーザー向けの会話を簡単に設計できるようになります。カスタムコードを実行する代わりに、Les ボットに直接、単純な条件を追加することで、ユーザーによる入力やビジネス知識に基づいて、会話の進行をダイナミックに管理することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-lex-conditional-branching-simplified-dialog-management/",
-          "publishedOn": "2022-08-23T09:51:48.000Z",
-          "wordCount": 303,
-          "title": "Amazon Lex、条件分岐のサポートを開始しダイアログ管理を簡素化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e31aa674cac9c1749db86d5ba5854996ed5dd783",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Kubernetes Service (EKS) では、Amazon EC2 のコストが個々の EKS クラスターによってどう決定されているのかを、より簡単に把握できるようになりました。複数の EKS クラスターを使用してワークロードをセグメント化し、レジリエンスとセキュリティ体制の向上を目指すユーザーは、AWS コストと使用状況レポートを使って、最小限の労力で EKS クラスターごとに EC2 コストの内訳を確認することができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/",
-          "publishedOn": "2022-08-23T09:50:58.000Z",
-          "wordCount": 318,
-          "title": "Amazon EKS、クラスターレベルでコスト割り当てのタグ付けを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ac120768368e7a279a5b114bb9f6182f2eea9601",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS コスト異常検出をご利用のお客様は、コンソールの新しいインターフェイスをご利用いただけます。こちらでは異常とその根本原因を確認できます。AWS コスト異常検出は、お客様の支払いパターンをモニタリングしながら異常な (増加した) 支払いを検出、警告し、その根本原因の分析を行うサービスです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-cost-anomaly-detection-simplified-interface-anomaly-exploration/",
-          "publishedOn": "2022-08-23T09:50:08.000Z",
-          "wordCount": 297,
-          "title": "AWS コスト異常検出、異常調査のためのインターフェイスを簡素化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "25bd618c9d1d715ab8764d37febcf1a998c10c43",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppFlow は AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間でのデータ転送をわずか数クリックで安全に実行するのに役立つフルマネージド型の統合サービスです。この度、Amazon AppFlow ではソースとして Zendesk Chat と Zendesk Sell のサポートを開始しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/",
-          "publishedOn": "2022-08-23T09:49:19.000Z",
-          "wordCount": 325,
-          "title": "Amazon AppFlow がソースとして Zendesk Chat と Zendesk Sell のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "68dc1b981dcca0fe9acc3fbd1c2da93519ab2d34",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppFlow は AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間でのデータ転送をわずか数クリックで安全に実行するのに役立つフルマネージド型の統合サービスです。この度、Amazon AppFlow では SAP Operational Data Provisioning (ODP) フレームワークを使用して、SAP アプリケーションから AWS サービスへのデータ転送のサポートを開始しました。今回のサポート開始により、AppFlow ユーザーは AppFlow SAP OData コネクタを使用して完全および増分データ転送を行えるようになりました。これには、SAP Operational Delta Queue を使用して SAP ERP/BW アプリケーション (ECC、BW、BW/4HANA、S/4HANA など) から Amazon S3 などの AWS サービスに転送する Change Data Capture が含まれます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/",
-          "publishedOn": "2022-08-23T09:48:31.000Z",
-          "wordCount": 373,
-          "title": "Amazon AppFlow が SAP Operational Data Provisioning (ODP) を使用して SAP アプリケーションから AWS サービスへのデータ転送のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4015326ee79d817ce8ec8de409d712417533da26",
-          "author": "aws@amazon.com",
-          "description": "AWS App Mesh が、仮想ノードと仮想ゲートウェイ用の、カスタマイズ可能な Envoy アクセスログフォーマットに対応しました。これにより、重要な特定の箇所に焦点を当てながら、カスタマイズされたロギングを使ってサービスを診断することが可能になります。AWS App Mesh は、アプリケーションレベルのネットワーキングを提供するサービスメッシュで、異なる種類のコンピューティングインフラストラクチャを横断したサービス間の通信を容易にします。AWS App Mesh は、サービス間の通信方法を標準化し、エンドツーエンドの可視性をもたらして、アプリケーションの高い可用性に合わせることを可能にします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/",
-          "publishedOn": "2022-08-23T09:47:42.000Z",
-          "wordCount": 298,
-          "title": "AWS App Mesh、設定可能な Envoy アクセスログフォーマットをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1678,16 +1618,6 @@
           "wordCount": 2988,
           "title": "新しいQRコード「rMQRコード」が誕生！ メリットは？ そもそも「QR」って何の略？",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/DTNJ_qrcode.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45393",
-          "author": "石川麻里",
-          "description": "データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 暦の上では立秋（8月8日）を過ぎ、秋の始まりを迎えたものの、連日の蒸し暑さに夏バテ気味の今日この頃ですが、みなさま、 […]",
-          "link": "https://data.wingarc.com/datatimes_news202208-04-45393?utm_source=rss&utm_medium=rss&utm_campaign=datatimes_news202208-04",
-          "publishedOn": "2022-08-22T23:00:04.000Z",
-          "wordCount": 3086,
-          "title": "データのじかんNews 2022年8月Part.04",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/datatimesnews_2022_08_part4_top.jpg"
         }
       ]
     },
@@ -2523,46 +2453,6 @@
           "wordCount": 147,
           "title": "第1回　サイバー空間の見える化",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/01/sd-ifr-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/savanna-letter/0001",
-          "author": null,
-          "description": "初回のテーマは、学習や調査が目的のテストコードを書くテクニック「学習用テスト」（Learning Test）です。",
-          "link": "https://gihyo.jp/dev/serial/01/savanna-letter/0001?utm_source=feed",
-          "publishedOn": "2022-08-23T00:38:00.000Z",
-          "wordCount": 245,
-          "title": "第1回　学習用テスト ～学びを自動テストとして書く～",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1906_savanna-letter.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/power-automate-updates-202206-07",
-          "author": null,
-          "description": "Power Automate for desktopはMicrosoftより2021年3月にサービスが提供開始されて以来、毎月定期的にアップデートが行われており、今この時も、我々ユーザーにとってより便利に、かつ使いやすいツールへと日々進化を続けています。今回は、直近の2022年6月、7月に行われたアップデートにフォーカスし、便利になったポイントや活用方法について解説していきます。",
-          "link": "https://gihyo.jp/article/2022/08/power-automate-updates-202206-07?utm_source=feed",
-          "publishedOn": "2022-08-23T00:18:00.000Z",
-          "wordCount": null,
-          "title": "Power Automate for desktop のアップデート情報（2022年6月、7月）を解説 ～入出力変数で様々なデータ型がサポートされるように！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/mysql-rcn0178",
-          "author": null,
-          "description": "MySQLを運用していく上で、プライマリーキーに整数型のカラムとAUTO_INCREMENTを設定して運用することはよくあると思います。このプライマリーキーを運用していく中で、整数型によってはAUTO_INCREMENTの値が整数型のカラムの最大値に到達してしまい、エラーが出てしまう可能性があります。今回は、各整数型のカラムがデータ量によってどれくらいで消費されてしまうのかを見ていきたいと思います。",
-          "link": "https://gihyo.jp/article/2022/08/mysql-rcn0178?utm_source=feed",
-          "publishedOn": "2022-08-23T00:18:00.000Z",
-          "wordCount": null,
-          "title": "第178回　MySQLのAUTO_INCREMENTなINTEGERってどのくらいで使い切るの？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc002-nodejs-performance",
-          "author": null,
-          "description": "本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Node.js パフォーマンスチェックポイント（kohta ito） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc002-nodejs-performance?utm_source=feed",
-          "publishedOn": "2022-08-23T00:12:00.000Z",
-          "wordCount": null,
-          "title": "Node.jsパフォーマンスチェックポイント ～TechFeed Conference 2022講演より",
-          "imageUrl": null
         }
       ]
     },
@@ -3380,46 +3270,6 @@
           "wordCount": null,
           "title": "第1回　サイバー空間の見える化",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/savanna-letter/0001",
-          "author": null,
-          "description": "初回のテーマは、学習や調査が目的のテストコードを書くテクニック「学習用テスト」（Learning Test）です。",
-          "link": "https://gihyo.jp/dev/serial/01/savanna-letter/0001?utm_source=feed",
-          "publishedOn": "2022-08-23T00:38:00.000Z",
-          "wordCount": 245,
-          "title": "第1回　学習用テスト ～学びを自動テストとして書く～",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1906_savanna-letter.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/power-automate-updates-202206-07",
-          "author": null,
-          "description": "Power Automate for desktopはMicrosoftより2021年3月にサービスが提供開始されて以来、毎月定期的にアップデートが行われており、今この時も、我々ユーザーにとってより便利に、かつ使いやすいツールへと日々進化を続けています。今回は、直近の2022年6月、7月に行われたアップデートにフォーカスし、便利になったポイントや活用方法について解説していきます。",
-          "link": "https://gihyo.jp/article/2022/08/power-automate-updates-202206-07?utm_source=feed",
-          "publishedOn": "2022-08-23T00:18:00.000Z",
-          "wordCount": 387,
-          "title": "Power Automate for desktop のアップデート情報（2022年6月、7月）を解説 ～入出力変数で様々なデータ型がサポートされるように！",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/power-automate-updates-202206-07/c04.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/mysql-rcn0178",
-          "author": null,
-          "description": "MySQLを運用していく上で、プライマリーキーに整数型のカラムとAUTO_INCREMENTを設定して運用することはよくあると思います。このプライマリーキーを運用していく中で、整数型によってはAUTO_INCREMENTの値が整数型のカラムの最大値に到達してしまい、エラーが出てしまう可能性があります。今回は、各整数型のカラムがデータ量によってどれくらいで消費されてしまうのかを見ていきたいと思います。",
-          "link": "https://gihyo.jp/article/2022/08/mysql-rcn0178?utm_source=feed",
-          "publishedOn": "2022-08-23T00:18:00.000Z",
-          "wordCount": 453,
-          "title": "第178回　MySQLのAUTO_INCREMENTなINTEGERってどのくらいで使い切るの？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1898_mysql_rcn_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc002-nodejs-performance",
-          "author": null,
-          "description": "本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Node.js パフォーマンスチェックポイント（kohta ito） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc002-nodejs-performance?utm_source=feed",
-          "publishedOn": "2022-08-23T00:12:00.000Z",
-          "wordCount": 199,
-          "title": "Node.jsパフォーマンスチェックポイント ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1931_techfeed_nodejs_performance.png"
         }
       ]
     },
@@ -4237,46 +4087,6 @@
           "wordCount": 147,
           "title": "第1回　サイバー空間の見える化",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/01/sd-ifr-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/savanna-letter/0001",
-          "author": null,
-          "description": "初回のテーマは、学習や調査が目的のテストコードを書くテクニック「学習用テスト」（Learning Test）です。",
-          "link": "https://gihyo.jp/dev/serial/01/savanna-letter/0001?utm_source=feed",
-          "publishedOn": "2022-08-23T00:38:00.000Z",
-          "wordCount": null,
-          "title": "第1回　学習用テスト ～学びを自動テストとして書く～",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/power-automate-updates-202206-07",
-          "author": null,
-          "description": "Power Automate for desktopはMicrosoftより2021年3月にサービスが提供開始されて以来、毎月定期的にアップデートが行われており、今この時も、我々ユーザーにとってより便利に、かつ使いやすいツールへと日々進化を続けています。今回は、直近の2022年6月、7月に行われたアップデートにフォーカスし、便利になったポイントや活用方法について解説していきます。",
-          "link": "https://gihyo.jp/article/2022/08/power-automate-updates-202206-07?utm_source=feed",
-          "publishedOn": "2022-08-23T00:18:00.000Z",
-          "wordCount": null,
-          "title": "Power Automate for desktop のアップデート情報（2022年6月、7月）を解説 ～入出力変数で様々なデータ型がサポートされるように！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/mysql-rcn0178",
-          "author": null,
-          "description": "MySQLを運用していく上で、プライマリーキーに整数型のカラムとAUTO_INCREMENTを設定して運用することはよくあると思います。このプライマリーキーを運用していく中で、整数型によってはAUTO_INCREMENTの値が整数型のカラムの最大値に到達してしまい、エラーが出てしまう可能性があります。今回は、各整数型のカラムがデータ量によってどれくらいで消費されてしまうのかを見ていきたいと思います。",
-          "link": "https://gihyo.jp/article/2022/08/mysql-rcn0178?utm_source=feed",
-          "publishedOn": "2022-08-23T00:18:00.000Z",
-          "wordCount": null,
-          "title": "第178回　MySQLのAUTO_INCREMENTなINTEGERってどのくらいで使い切るの？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc002-nodejs-performance",
-          "author": null,
-          "description": "本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Node.js パフォーマンスチェックポイント（kohta ito） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc002-nodejs-performance?utm_source=feed",
-          "publishedOn": "2022-08-23T00:12:00.000Z",
-          "wordCount": null,
-          "title": "Node.jsパフォーマンスチェックポイント ～TechFeed Conference 2022講演より",
-          "imageUrl": null
         }
       ]
     },
@@ -4676,26 +4486,6 @@
           "wordCount": 423,
           "title": "BPSデザインチームの紹介（2022年度）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_design_team_2022_eyecatch2-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_23/120899",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220823_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_23/120899\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: byebugからruby/debugへの移行ガイド、YJIT解説記事ほか（20220823後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_23/120899",
-          "publishedOn": "2022-08-23T09:46:40.000Z",
-          "wordCount": 915,
-          "title": "週刊Railsウォッチ: byebugからruby/debugへの移行ガイド、YJIT解説記事ほか（20220823後編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220823_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/shouichi/2022_08_23/120908",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_app_team_2022_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>「夏のTechrachoフェア2022」ということで、 チームの近況を交えつつアプリチーム の紹介をさせていただければと思います。 どんな仕事している？ アプリチームでは、自社製品である電子書籍ビューア、デジタル教科書ビューア、およびそれに関連するアプリ、システムの開発を主な業務としています。 電子書籍ビューア：『超縦書』『超画像』 デジタル教科書ビューア：『超教科書』および『超教科書クラウド』 Windows/Mac/Android/iOS/Webブラウザ が主な対象環境になっており、特にWebブラウザ向けでは、画面遷移を伴わない、いわゆる「シングルページWebアプリケーション」として開発しています。 これらの [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/shouichi/2022_08_23/120908\" data-wpel-link=\"internal\" target=\"_self\">BPS開発チームの紹介～アプリチーム～（2022年度）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/shouichi/2022_08_23/120908",
-          "publishedOn": "2022-08-23T08:30:01.000Z",
-          "wordCount": 438,
-          "title": "BPS開発チームの紹介～アプリチーム～（2022年度）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_app_team_2022_eyecatch-min.png"
         }
       ]
     },
@@ -4704,6 +4494,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/cloudflarenginxrusthttppingoracdncpu31.html",
+          "author": null,
+          "description": "CDNプロバイダのCloudflareは、同社のグローバルなCDNの基盤として長らく利用してきたNGINXに代えて、同社自身がRust製のHTTPプロキシである「Pingora」を開発し利用していることを明らかにしました。 Pingoraは...",
+          "link": "https://www.publickey1.jp/blog/22/cloudflarenginxrusthttppingoracdncpu31.html",
+          "publishedOn": "2022-09-21T17:36:55.000Z",
+          "wordCount": 1267,
+          "title": "Cloudflare、NGINXに代えて自社開発のRust製HTTPプロキシ「Pingora」をグローバルCDNに採用。性能向上しつつCPUとメモリ消費を3分の1に",
+          "imageUrl": "https://www.publickey1.jp/2022/-OJKe1mS.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/s3cloudflare_r210gb.html",
+          "author": null,
+          "description": "Cloudflareは、Amazon S3互換のオブジェクトストレージ「Cloudflare R2」を正式なサービスとして提供開始しました。これまではベータ版として公開されていました。 Cloud providers taught us t...",
+          "link": "https://www.publickey1.jp/blog/22/s3cloudflare_r210gb.html",
+          "publishedOn": "2022-09-21T15:26:54.000Z",
+          "wordCount": 1264,
+          "title": "S3互換の「Cloudflare R2」が正式サービスに。データ転送料無料、10GBまで無料の分散型オブジェクトストレージ",
+          "imageUrl": "https://www.publickey1.jp/2022/vWkgB1NC.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/webassemblywasmtime10bytecode_alliance.html",
           "author": null,
@@ -5271,6 +5081,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=286081",
+          "author": "Rhiannon Williams",
+          "description": "新しい診断用人工知能（AI）モデルは、タグ付けなどの大量の人手を必要とするデータセットを用意することなく、未加工の胸部X線写真と診査報告書によるデータセットから人間の専門家と同等の判断ができる。",
+          "link": "https://www.technologyreview.jp/s/286081/an-ai-used-medical-notes-to-teach-itself-to-spot-disease-on-chest-x-rays/",
+          "publishedOn": "2022-09-21T21:59:45.000Z",
+          "wordCount": 1328,
+          "title": "医用画像と診断書で訓練したAI、医師並みの診断力",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/16001504/GettyImages-1173763716-crop-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=285265",
+          "author": "Melissa Heikkilä",
+          "description": "オープンAIの「GPT-3」のような人工知能（AI）の大規模言語モデルは、インターネットから収集した巨大なデータセットで訓練されている。そこにプライバシーの問題はないのか。実際に聞いてみた。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/285265/what-does-gpt-3-know-about-me/",
+          "publishedOn": "2022-09-21T21:45:38.000Z",
+          "wordCount": 1208,
+          "title": "GPT-3は「私」について 何を知っているのか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/06111513/text-bomb-fuse2c-1400x787.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/09/21/286512/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/22/286512/",
+          "publishedOn": "2022-09-21T21:38:20.000Z",
+          "wordCount": 669,
+          "title": "東工大など、量子アニーリングでの大規模シミュレーションに成功",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/09/21/286508/",
           "author": "MIT Technology Review Japan",
@@ -6130,26 +5970,6 @@
           "wordCount": 680,
           "title": "岡山大、カドミウムの集積が少ないイネの育成に成功",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/22/284077/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/23/284077/",
-          "publishedOn": "2022-08-23T08:17:25.000Z",
-          "wordCount": 689,
-          "title": "原始星の周囲に巨大ガス惑星の兆候と影の領域を発見、理研など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=282697",
-          "author": "Hana Kiros",
-          "description": "精神疾患の治療法として、米国ではLSDやシロシビンなどのサイケデリックス（幻覚剤）がいま再び注目されている。ある研究者の臨死体験から生まれたVRは、こうした幻覚剤の代わりになるのだろうか。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n購読キャンペーン実施中",
-          "link": "https://www.technologyreview.jp/s/282697/vr-is-as-good-as-psychedelics-at-helping-people-reach-transcendence/",
-          "publishedOn": "2022-08-23T03:15:49.000Z",
-          "wordCount": 1195,
-          "title": "臨死体験から生まれたVR、 幻覚剤のトリップを再現",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/06201504/psychedelic-VR-2b-1400x787.jpeg"
         }
       ]
     }
