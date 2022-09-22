@@ -6,6 +6,186 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "986b053a5a16fcdc56554e081a91c558703ed0c5",
+          "author": "aws@amazon.com",
+          "description": "このたび、お客様の使用レベルに応じて、AWS Config のコンフォーマンスパックの価格を最大 58% 引き下げました。コンフォーマンスパックは、アカウントやリージョンの単一のエンティティとして (または組織全体に) 簡単にデプロイできる、AWS Config ルールと修正アクションのコレクションで、AWS リソースのコンプライアンスを大規模に管理するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/",
+          "publishedOn": "2022-09-22T21:46:13.000Z",
+          "wordCount": 310,
+          "title": "AWS Config のコンフォーマンスパックの価格を最大 58% 引き下げ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1ac1f2b08458a6160a7aa35f08accc5f1e3eed16",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築できるサービスです。Amazon Lex を使用すれば、会話型ボット (chatbot)、仮想エージェント、対話型音声応答 (IVR) システムをすばやく簡単に構築できます。今回は、コードなしの環境で会話フローを可視化して構築するためのドラッグアンドドロップインターフェイスである Visual Conversation Builder をご紹介します。Visual Conversation Builder を使用すると、ボットの設計が大幅に簡素化されます。Visual Conversation Builder では、以前から提供されているメニューベースのエディタや Lex API に加え、会話フロー全体を 1 か所で完全に把握できる機能が追加されました。これにより、あらゆるユーザーが魅力的な会話体験をスピーディーに構築できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-visual-conversation-builder/",
+          "publishedOn": "2022-09-22T21:31:16.000Z",
+          "wordCount": 332,
+          "title": "Visual Conversation Builder for Amazon Lex のご紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "fd22fe78dbbcb9a614a598c8dfb64c3b6d7755bc",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkSpaces が、アフリカ (ケープタウン) リージョンで利用可能になりました。新しい AWS リージョンに展開することにより、ユーザーのより近くで WorkSpaces をプロビジョニングできるようになるため、より応答性の高いエクスペリエンスが実現します。また、オンプレミスの仮想デスクトップインフラストラクチャ (VDI) で発生するコストや複雑さを伴わずに、WorkSpaces を迅速に追加または削除でき、変化する需要に対応することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-workspaces-available-africa-cape-town-region/",
+          "publishedOn": "2022-09-22T20:57:47.000Z",
+          "wordCount": 312,
+          "title": "Amazon WorkSpaces がアフリカ (ケープタウン) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "44c9905781f2df82b88af51d194961c30324f081",
+          "author": "aws@amazon.com",
+          "description": "AWS Firewall Manager で AWS WAF を設定して、カスタムウェブリクエストとレスポンスを追加できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/",
+          "publishedOn": "2022-09-22T20:56:57.000Z",
+          "wordCount": 338,
+          "title": "AWS Firewall Manager が AWS WAF カスタムリクエストとレスポンスに対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d8641ff97becaa2d4d40239ecdf5f1d91c7952c1",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Notification Service (Amazon SNS) が、欧州 (ミラノ)、アフリカ (ケープタウン)、アジアパシフィック (大阪)、AWS GovCloud (米国東部) の各リージョンにおけるアプリケーションのホスティングに対応しました。これにより、200 以上の国と地域でコンシューマーにテキストメッセージ (SMS) を送信できるようになりました。Amazon SNS を使用すると、一度に 1 つの電話番号もくしは複数の電話番号にメッセージを直接送信できます。手順としては、トピックに対し電話番号をサブスクライブして、そのトピックにメッセージを送信します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/applications-amazon-sns-send-sms-now-hosted-new-regions/",
+          "publishedOn": "2022-09-22T20:56:09.000Z",
+          "wordCount": 349,
+          "title": "Amazon SNS を使用して SMS を送信するアプリケーションを、4 つの新たなリージョンでホスティング可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5cc411e9f1550e74f9e233cceac93c72d7685d61",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MySQL が、MySQL マイナーバージョン 8.0.30 のサポートを開始しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数の修正、パフォーマンスの改善、新機能を活用するために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/",
+          "publishedOn": "2022-09-22T20:55:19.000Z",
+          "wordCount": 322,
+          "title": "Amazon RDS for MySQL が、新しいマイナーバージョン (8.0.30) のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f228fa923b43b2ef5b55a0414999fa60352e941b",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Studio は、機械学習 (ML) 用の完全統合開発環境 (IDE) です。データサイエンティストとデベロッパーはこのサービスを使用して、データの準備からモデルの構築、トレーニング、チューニング、デプロイまで、機械学習ワークフローのすべてのステップを実行できます。SageMaker Studio には、ファストスタートのコラボレーションに適したノートブックが付属しています。Studio でノートブックをすばやく起動し、作業を中断することなく、基盤となるコンピューティングリソースを簡単にダイヤルアップまたはダイヤルダウンでき、数回クリックするだけでノートブックをリンクとして共有することもできます。本日、Amazon SageMaker Studio ノートブックに AWS Glue インタラクティブセッションとの統合が組み込まれたことを発表します。データサイエンティストやデータエンジニアは、AWS Glue インタラクティブセッションが管理する、Apache Spark のサーバーレスランタイム環境を使用して、Studio ノートブックで大規模なデータ準備をインタラクティブに行うことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/",
+          "publishedOn": "2022-09-22T20:54:30.000Z",
+          "wordCount": 353,
+          "title": "SageMaker Studio が Glue インタラクティブセッションのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7c1a01c4c5a99f2ff641eb02b12b4016f5896784",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (“chatbot”)、仮想エージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex に複合スロットタイプが導入されます。スロットは、ユーザー入力を取得して、タスクを実行するために必要な情報をボットに提供するために使用されます。場合によっては、情報に複数の値が含まれており、それぞれに独自のスロットが必要です。例えば、支払いを行うお客様は、クレジットカードの詳細をボットで確認できます (“有効期限が 2025 年 9 月のカード番号末尾が 5678 であることと請求先郵便番号が 94105 であること”)。以前、ボットビルダーでは各スロットを個別に引き出す必要がありました (「カード番号末尾の 4 桁を入力してください」、「カードの有効期限を入力してください」など)。複合スロットタイプを使用すると、Amazon Lex で、ユーザーレスポンスのすべてを一度に取得し、各情報を適切なスロットに関連付けさせることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-lex-composite-slot-type/",
+          "publishedOn": "2022-09-22T20:53:42.000Z",
+          "wordCount": 317,
+          "title": "Amazon Lex 複合スロットタイプの発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "63fb1a60cff02ab7f00403a9e84032033f6e6ca6",
+          "author": "aws@amazon.com",
+          "description": "Amazon SWF で、新しいコンソールが利用可能になりました。これにより、SWF ワークフローの管理がより簡単になり、可視性と制御が向上しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/",
+          "publishedOn": "2022-09-22T20:52:52.000Z",
+          "wordCount": 307,
+          "title": "Amazon SWF で新しいコンソールが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9e2ad5bd9ce5104bad1379f31551c1d1339b453b",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR Serverless は Amazon EMR のサーバーレスオプションで、データアナリストやエンジニアが、クラスターやサーバーを構成、管理、スケーリングすることなく、オープンソースのビッグデータ分析フレームワークを簡単に実行できるようにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/monitor-amazon-emr-serverless-applications-near-real-time-cloudwatch-metrics/",
+          "publishedOn": "2022-09-22T20:52:04.000Z",
+          "wordCount": 315,
+          "title": "CloudWatch メトリクスを使用した、Amazon EMR Serverless アプリケーションのほぼリアルタイムなモニタリング",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3d18cc6e8ad313e1ce6c95c19f416b69280279ae",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Graviton2 プロセッサを搭載した Amazon EC2 C6gd インスタンスが、欧州 (ストックホルム) リージョンで利用できるようになりました。C6gd インスタンスは、ハイパフォーマンスコンピューティング (HPC)、バッチ処理、広告配信、動画エンコーディング、ゲーム、科学的モデリング、分散分析、CPU ベースの機械学習推論などのコンピューティング集約型ワークロードに最適です。これらのインスタンスで提供されるローカル SSD ストレージは、高速で低レイテンシーのストレージへのアクセスが必要なアプリケーション、バッチやログ処理などのデータの一時的なストレージ、および高速キャッシュとスクラッチファイルに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/",
+          "publishedOn": "2022-09-22T20:51:15.000Z",
+          "wordCount": 399,
+          "title": "AWS Graviton2 ベースの Amazon EC2 C6gd インスタンスが欧州 (ストックホルム) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "db75fa0bbbc194a9547c29dd8b207e7fa0eac513",
+          "author": "aws@amazon.com",
+          "description": "AWS Security Hub において、お客様のクラウドセキュリティ体制管理 (CSPM、Cloud Security Posture Management) を強化する目的で、Foundational Security Best Practice (FSBP) 標準の新しいコントロールがリリースされました。このコントロールは AWS Auto Scaling のセキュリティのベストプラクティスに照らした全自動チェックを実行します。Security Hub において新しいコントロールを自動で有効にするように設定し、既に AWS Foundational Security Best Practices を使用している場合は、このコントロールが自動で有効化されます。Security Hub は今回のリリースにより、AWS のセキュリティ体制を自動的にチェックするための 224 のセキュリティコントロールに対応しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-security-hub-new-security-best-practice-control/",
+          "publishedOn": "2022-09-22T20:49:33.000Z",
+          "wordCount": 404,
+          "title": "AWS Security Hub で新たなセキュリティベストプラクティスコントロールをリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "450e641937fc42ae978c8e6c2872bbef30ec9c80",
+          "author": "aws@amazon.com",
+          "description": "AWS アジアパシフィック (ジャカルタ) リージョンのお客様に、Amazon FSx for Lustre をご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/",
+          "publishedOn": "2022-09-22T20:48:44.000Z",
+          "wordCount": 316,
+          "title": "Amazon FSx for Lustre が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9750fe5fb4e3c3a10cd05e1fc5c5baa5bb005fcc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Personalize でサービス制限と既存および新規のお客様のクォータが引き上げられ、Personalize の大規模なデプロイがより行いやすくなることをお知らせいたします。Amazon Personalize により、デベロッパーは、パーソナライズされた製品とコンテンツレコメンデーションを通じて、カスタマーエンゲージメントを向上させることができます。機械学習の専門知識は必要ありません。このリリースが行われる前は、特定の Personalize リソースの使用とデータインポート API の呼び出しレートに対する制限が、AWS アカウントレベルで設定されていました。例えば、お客様は AWS アカウントで一度に最大 10 個のフィルターを使用できていました。同様に、お客様は AWS アカウントに対して 1 秒あたり 1,000 件の PutEvent リクエストに制限されていました。今回のリリースにより、Personalize では、これらの制限やその他の制限がアカウントレベルからデータセットグループ (DSG) レベルに移行されました。お客様は、DSG ごとに 1 秒あたり最大 10 個のフィルターと 1,000 件の PutEvents を持つことができるようになりました。ユーザーは、アカウントごとに最大 5 つのデータセットグループを作成できます。つまり、AWS アカウントごとに合計 50 個のフィルターと 1 秒あたり 5,000 件の PutEvents を作成できるということです。これは、アプリケーションで Amazon Personalize を使用している複数のユースケースまたは複数のテナントを有するお客様が、Amazon Personalize でより高いキャパシティを得ることができることを意味します。これらの改善により、制限の引き上げのリクエストもより簡単になります。AWS クォータコンソールを使用して DSG の制限引き上げをリクエストするだけで、お客様は、アカウントレベルで集計されていた他のリソースと API レートに対する制限が引き上げられるというメリットも得ることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-personalize-increases-limits-customers-large-scale-deployments/",
+          "publishedOn": "2022-09-22T20:47:55.000Z",
+          "wordCount": 339,
+          "title": "Amazon Personalize ですべてのお客様に対する制限を引き上げて、大規模なデプロイを簡素化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4e144ad0b12aef24f4063c1808e8185f8b64633e",
+          "author": "aws@amazon.com",
+          "description": "本日より、メモリを最適化した Amazon EC2 X2idn および X2iedn インスタンスが欧州 (パリ) リージョンで利用できるようになりました。X2idn および X2iedn インスタンスは、第 3 世代インテル Xeon スケーラブルプロセッサー (コード名 Ice Lake) が搭載され、メモリを大量に使用するワークロード向けに設計されており、前世代の X1 インスタンスと比較して、パフォーマンス、コストパフォーマンス、メモリの GiB あたりコストが改善されています。メモリと vCPU の比率は X2idn で 16:1、X2iedn では 32:1 です。したがってこれらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。X2idn および X2iedn は、同等の X1 インスタンスよりも最大 45% 多くの SAPS を提供し、データベースでの Business Suite on HANA、SAP S/4HANA、Data Mart Solutions on HANA、Business Warehouse on HANA、SAP BW/4HANA、SAP NetWeaver ワークロードの実行について、SAP 認定を受けています。X2idn および X2iedn の認定データは、Certified and Supported SAP HANA Hardware Directory (認定およびサポートされている SAP HANA ハードウェアディレクトリ) で確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/",
+          "publishedOn": "2022-09-22T20:47:03.000Z",
+          "wordCount": 462,
+          "title": "Amazon EC2 X2idn および X2iedn インスタンスが欧州 (パリ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "da4a90d9a5dd33991642943831bfe31dfd552612",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) Performance Insights の [Top SQL] タブには、データベース負荷に最も寄与している SQL クエリが表示されます。本日より、Amazon RDS Performance Insights に表示される SQL クエリが上位 10 個から 25 個に増えます。Amazon RDS Performance Insights は RDS と Amazon Aurora のデータベースパフォーマンスのチューニングとモニタリングを行う機能で、データベースの負荷を迅速に評価し、いつ、どこで対策を講じるべきかを判断するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/",
+          "publishedOn": "2022-09-22T20:46:13.000Z",
+          "wordCount": 376,
+          "title": "Amazon RDS Performance Insights で上位 25 個の SQL クエリ表示を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9bc5d972ea6732bc9991ef2fb18fb01efce0b334",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Customer Profiles が Amazon AppFlow コンソールで送信先として利用できるようになりました。数回のクリックで 20 以上のアプリケーションコネクタからデータを Customer Profiles に取り込み、パーソナライズされたカスタマーサービスを提供するために必要な情報をコンタクトセンターエージェントのために用意できるようになりました。Amazon AppFlow コネクタによって、取り引き (SAP OData からの発注書など)、プロファイル情報 (Zendesk Sell からのリードなど)、カスタマーインタラクション (Slack の会話など) といったデータを取り込めます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-customer-profiles-supports-amazon-appflow-connectors/",
+          "publishedOn": "2022-09-22T20:32:59.000Z",
+          "wordCount": 340,
+          "title": "Amazon Connect Customer Profiles が Amazon AppFlow コネクタのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c0419d6d47c8d4efb6e36f9c11f48b593f5b5265",
+          "author": "aws@amazon.com",
+          "description": "CDK のユーザーは CloudFormation テンプレートで合成されたリソースを CDK Construct のソースに簡単にマッピングする方法を求めています。CloudFormation のすべてのリソースを表示するため、Management Console では CDK Constructs の階層の性質が失われていましたが、ユーザーはそれに慣れていました。CloudFormation コンソールの CDK Construct ツリービューによって、リソースが生成されたコンテキストを CloudFormation コンソールでよりたやすく、焦点を絞って確認できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/",
+          "publishedOn": "2022-09-22T20:32:08.000Z",
+          "wordCount": 355,
+          "title": "AWS Cloud Development Kit (CDK) が AWS CloudFormation コンソールでの CDK Construct ツリービュー表示を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0b53a700626722aa1cdb98e91633efac8f9a7859",
           "author": "aws@amazon.com",
           "description": "Amazon Kinesis Data Analytics for Apache Flink が、新たな 3 タイプのコンテナレベルのメトリクス (Flink タスクマネージャーの CPU 使用率、メモリ使用率、ディスク使用率) を Amazon CloudWatch にパブリッシュできるようになりました。タスクマネージャーは、データ処理を実行する Flink アプリケーションのワーカーノードです。このたび追加されたメトリクスにより、タスクマネージャーリソースの使用状況をより適切に把握できるようになったほか、Kinesis Data Analytics で実行されるアプリケーションのスケーリングも簡単になりました。",
@@ -1608,26 +1788,6 @@
           "wordCount": 3503,
           "title": "特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（前編） 中外製薬 志済聡子氏",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/9.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45312",
-          "author": "tadokoroyusuke",
-          "description": "地方の大衆食堂がDXで売上5倍、利益10倍に!? 地方のいち大衆食堂からデータ活用に取り組み10年で売上5倍という成果を挙げているのが伊勢神宮の門前町にある食堂「ゑびや」である。 もともとは伊勢うどんや定食を提供する大衆 […]",
-          "link": "https://data.wingarc.com/localdxlab-24-mie-45312?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-24-mie",
-          "publishedOn": "2022-08-24T01:00:25.000Z",
-          "wordCount": 3505,
-          "title": "データを活用して10年で売上5倍、利益10倍にした 伊勢の老舗食堂「ゑびや」、地方企業だからこそのDXとは？",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/td_220817_a_0.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=43342",
-          "author": "BunkiMIyata",
-          "description": "モバイル決済や、連絡先の交換、荷物の発送手続きなど、日々私たちが利用しているQRコード。2022年5月、その派生系である「rMQRコード」が発表され、話題を呼びました。でも、「それで何の役に立つの？」と疑問に思った方もい […]",
-          "link": "https://data.wingarc.com/new-qr-code-rmqr-43342?utm_source=rss&utm_medium=rss&utm_campaign=new-qr-code-rmqr",
-          "publishedOn": "2022-08-23T23:00:54.000Z",
-          "wordCount": 2988,
-          "title": "新しいQRコード「rMQRコード」が誕生！ メリットは？ そもそも「QR」って何の略？",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/DTNJ_qrcode.jpg"
         }
       ]
     },
@@ -2493,56 +2653,6 @@
           "wordCount": null,
           "title": "Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220824",
-          "author": null,
-          "description": "Flatpak開発チームは8月22日、Linuxデスクトップ向けパッケージングソフトウェア「Flatpak 1.14.0」のリリースを発表した。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220824?utm_source=feed",
-          "publishedOn": "2022-08-24T04:29:00.000Z",
-          "wordCount": null,
-          "title": "Linuxパッケージ管理ソフトFlatpakの新バージョンFlatpak 1.14.0がリリース",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0728",
-          "author": null,
-          "description": "2回に渡って2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介しています。後編はいよいよインストールと活用する方法の紹介です。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0728?utm_source=feed",
-          "publishedOn": "2022-08-24T00:54:00.000Z",
-          "wordCount": 229,
-          "title": "第728回　格安2in1 PC、FFF-PCM2BにUbuntu 22.04 LTSをインストールする（後編）",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0728/ogp2.png"
-        },
-        {
-          "id": "https://gihyo.jp/design/serial/01/website-pickup/0173",
-          "author": null,
-          "description": "文章を書き続けるなら、読者がたくさん集まっている場所で公開したい。そう思う人たちは、多いのではないでしょうか。2022年6月23日にTwitterが提供を開始した「Twitter Notes」は、そんな要望を叶える、最適の環境になるかもしれません。",
-          "link": "https://gihyo.jp/design/serial/01/website-pickup/0173?utm_source=feed",
-          "publishedOn": "2022-08-24T00:38:00.000Z",
-          "wordCount": 251,
-          "title": "第173回　環境の変化から生まれた「Twitter Notes」は、Twitterの未来を変えられるか",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1907_website-pickup.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/isucon12-qualifying",
-          "author": null,
-          "description": "12回目を迎える、エンジニアたちのチューニングバトルISUCON12。いよいよ本選が迫る中、注目の13チームにメールインタビューを行い、予選の振り返りと本選への意気込みを伺いました。",
-          "link": "https://gihyo.jp/article/2022/08/isucon12-qualifying?utm_source=feed",
-          "publishedOn": "2022-08-24T00:26:00.000Z",
-          "wordCount": null,
-          "title": "ISUCON12を獲るのは誰だ？！ISUCON予選突破注目チームに迫る！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-01",
-          "author": null,
-          "description": "「明後日のコンピューティングを知ろう」と題して、弊社研究所が日々取り組むリサーチ活動の中から、私たちの社会を支えるコンピューティングの「いま」と「これから」を解説していきます。\r\n\r\n第1回は、私たちの社会を支える「サイバー空間のあらまし」について解説します。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-01?utm_source=feed",
-          "publishedOn": "2022-08-24T00:16:00.000Z",
-          "wordCount": 147,
-          "title": "第1回　サイバー空間の見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/01/sd-ifr-01.png"
         }
       ]
     },
@@ -3390,56 +3500,6 @@
           "wordCount": 210,
           "title": "Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1932_techfeed_java19.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220824",
-          "author": null,
-          "description": "Flatpak開発チームは8月22日、Linuxデスクトップ向けパッケージングソフトウェア「Flatpak 1.14.0」のリリースを発表した。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220824?utm_source=feed",
-          "publishedOn": "2022-08-24T04:29:00.000Z",
-          "wordCount": null,
-          "title": "Linuxパッケージ管理ソフトFlatpakの新バージョンFlatpak 1.14.0がリリース",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0728",
-          "author": null,
-          "description": "2回に渡って2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介しています。後編はいよいよインストールと活用する方法の紹介です。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0728?utm_source=feed",
-          "publishedOn": "2022-08-24T00:54:00.000Z",
-          "wordCount": null,
-          "title": "第728回　格安2in1 PC、FFF-PCM2BにUbuntu 22.04 LTSをインストールする（後編）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/design/serial/01/website-pickup/0173",
-          "author": null,
-          "description": "文章を書き続けるなら、読者がたくさん集まっている場所で公開したい。そう思う人たちは、多いのではないでしょうか。2022年6月23日にTwitterが提供を開始した「Twitter Notes」は、そんな要望を叶える、最適の環境になるかもしれません。",
-          "link": "https://gihyo.jp/design/serial/01/website-pickup/0173?utm_source=feed",
-          "publishedOn": "2022-08-24T00:38:00.000Z",
-          "wordCount": null,
-          "title": "第173回　環境の変化から生まれた「Twitter Notes」は、Twitterの未来を変えられるか",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/isucon12-qualifying",
-          "author": null,
-          "description": "12回目を迎える、エンジニアたちのチューニングバトルISUCON12。いよいよ本選が迫る中、注目の13チームにメールインタビューを行い、予選の振り返りと本選への意気込みを伺いました。",
-          "link": "https://gihyo.jp/article/2022/08/isucon12-qualifying?utm_source=feed",
-          "publishedOn": "2022-08-24T00:26:00.000Z",
-          "wordCount": 464,
-          "title": "ISUCON12を獲るのは誰だ？！ISUCON予選突破注目チームに迫る！",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1926_ISUCON12.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-01",
-          "author": null,
-          "description": "「明後日のコンピューティングを知ろう」と題して、弊社研究所が日々取り組むリサーチ活動の中から、私たちの社会を支えるコンピューティングの「いま」と「これから」を解説していきます。\r\n\r\n第1回は、私たちの社会を支える「サイバー空間のあらまし」について解説します。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-01?utm_source=feed",
-          "publishedOn": "2022-08-24T00:16:00.000Z",
-          "wordCount": null,
-          "title": "第1回　サイバー空間の見える化",
-          "imageUrl": null
         }
       ]
     },
@@ -4287,56 +4347,6 @@
           "wordCount": 210,
           "title": "Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1932_techfeed_java19.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220824",
-          "author": null,
-          "description": "Flatpak開発チームは8月22日、Linuxデスクトップ向けパッケージングソフトウェア「Flatpak 1.14.0」のリリースを発表した。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220824?utm_source=feed",
-          "publishedOn": "2022-08-24T04:29:00.000Z",
-          "wordCount": 186,
-          "title": "Linuxパッケージ管理ソフトFlatpakの新バージョンFlatpak 1.14.0がリリース",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0728",
-          "author": null,
-          "description": "2回に渡って2in1 PC「FFF-PCM2B」にUbuntu 22.04 LTSをインストールし、活用する方法を紹介しています。後編はいよいよインストールと活用する方法の紹介です。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0728?utm_source=feed",
-          "publishedOn": "2022-08-24T00:54:00.000Z",
-          "wordCount": null,
-          "title": "第728回　格安2in1 PC、FFF-PCM2BにUbuntu 22.04 LTSをインストールする（後編）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/design/serial/01/website-pickup/0173",
-          "author": null,
-          "description": "文章を書き続けるなら、読者がたくさん集まっている場所で公開したい。そう思う人たちは、多いのではないでしょうか。2022年6月23日にTwitterが提供を開始した「Twitter Notes」は、そんな要望を叶える、最適の環境になるかもしれません。",
-          "link": "https://gihyo.jp/design/serial/01/website-pickup/0173?utm_source=feed",
-          "publishedOn": "2022-08-24T00:38:00.000Z",
-          "wordCount": null,
-          "title": "第173回　環境の変化から生まれた「Twitter Notes」は、Twitterの未来を変えられるか",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/isucon12-qualifying",
-          "author": null,
-          "description": "12回目を迎える、エンジニアたちのチューニングバトルISUCON12。いよいよ本選が迫る中、注目の13チームにメールインタビューを行い、予選の振り返りと本選への意気込みを伺いました。",
-          "link": "https://gihyo.jp/article/2022/08/isucon12-qualifying?utm_source=feed",
-          "publishedOn": "2022-08-24T00:26:00.000Z",
-          "wordCount": null,
-          "title": "ISUCON12を獲るのは誰だ？！ISUCON予選突破注目チームに迫る！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-01",
-          "author": null,
-          "description": "「明後日のコンピューティングを知ろう」と題して、弊社研究所が日々取り組むリサーチ活動の中から、私たちの社会を支えるコンピューティングの「いま」と「これから」を解説していきます。\r\n\r\n第1回は、私たちの社会を支える「サイバー空間のあらまし」について解説します。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-01?utm_source=feed",
-          "publishedOn": "2022-08-24T00:16:00.000Z",
-          "wordCount": 147,
-          "title": "第1回　サイバー空間の見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/01/sd-ifr-01.png"
         }
       ]
     },
@@ -4736,16 +4746,6 @@
           "wordCount": 478,
           "title": "Windows: ScreenToGifで動画のエビデンスを残そう！",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/windows_screentogif_eyecatch2-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/sugimura/2022_08_24/119730",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_design_team_2022_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは。デザインチームのスギムラです！ 今年もTechRachoの夏企画の一環でデザインチームを紹介します。 （※今回もほぼ昨年記事と内容変わっていません） なお、今回も夏企画のバナーはデザインチームが作成しております。 前回までのバナーの紹介記事はこちら！ TechRachoの企画バナーのデザインとコンセプトをひっそりと紹介します デザインチームの実績紹介 デザインチームの実績は下記サイトに掲載中です。 デザインチームの実績はこちらから パンフレットやロゴデザイン、Webサイト制作など幅広く手掛けておりますのでぜひご覧ください。 こちらに掲載しきれない実績も多数ございますので、 「仕事の相談をしたいからもっ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/sugimura/2022_08_24/119730\" data-wpel-link=\"internal\" target=\"_self\">BPSデザインチームの紹介（2022年度）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/sugimura/2022_08_24/119730",
-          "publishedOn": "2022-08-24T08:30:40.000Z",
-          "wordCount": 423,
-          "title": "BPSデザインチームの紹介（2022年度）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/bps_intro_to_design_team_2022_eyecatch2-min.png"
         }
       ]
     },
@@ -5321,6 +5321,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=286554",
+          "author": "Tammy Xu",
+          "description": "インペリアル・カレッジ・ロンドンの研究チームは、自然界にヒントを得て建造物を作る方法を開発した。複数のドローンが協力し合って1つの構造物を3Dプリントで作り上げていく様子は、ハチが巣を作る様子にそっくりだ。",
+          "link": "https://www.technologyreview.jp/s/286554/watch-this-team-of-drones-3d-print-a-tower/",
+          "publishedOn": "2022-09-22T21:57:03.000Z",
+          "wordCount": 1295,
+          "title": "ハチの巣作りにヒント、ドローンが建物をチームで3Dプリント",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/22001503/drones-image-two-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=283937",
           "author": "Tate Ryan-Mosley",
@@ -6190,26 +6200,6 @@
           "wordCount": 696,
           "title": "結核菌を選択的に殺す新たな抗生物質を発見＝信州大など",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/23/284166/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/24/284166/",
-          "publishedOn": "2022-08-24T05:11:49.000Z",
-          "wordCount": 694,
-          "title": "巨大サメが絶滅した750万年前、日本海で何が起こったか？",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=283764",
-          "author": "Rhiannon Williams",
-          "description": "実験室で育てられたミニ脳の活動を測定するマイクロキャップが開発された。脳波を測定するEEGキャップに着想を得たこのデバイスによって、化学物質や薬剤が脳にどのような影響を与えるか、新たな知見が得られるかもしれない。",
-          "link": "https://www.technologyreview.jp/s/283764/tiny-caps-can-measure-activity-in-lab-grown-minibrains/",
-          "publishedOn": "2022-08-23T22:09:28.000Z",
-          "wordCount": 1329,
-          "title": "脳波計に着想、「ミニ脳」を包み込むマイクロキャップ",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/18031504/tiny-brain-1400x787.jpeg"
         }
       ]
     }
