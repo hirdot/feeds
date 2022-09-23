@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "9105efb53aafa0f8217b36fe0e47d7c8eb2d3446",
+          "author": "aws@amazon.com",
+          "description": "AWS Systems Manager の機能である Patch Manager では、SUSE Linux Enterprise Server (SLES) のバージョン 15.2、15.3、15.4、Oracle Linux のバージョン 8.4、8.5、Red Hat Enterprise Linux (RHEL) のバージョン 8.6 を実行しているインスタンスに対するパッチのデプロイの自動化をサポートするようになりました。Patch Manager はセキュリティ関連やその他の種類のアップデートを反映させるためにノードにパッチを適用するプロセスを自動化するのに役立ちます。また、Patch Manager は Windows Server、Red Hat Enterprise Linux (RHEL)、Ubuntu Server、Amazon Linux、Amazon Linux 2、CentOS、SUSE Linux Enterprise Server (SLES) を実行しているインスタンスに対するパッチのデプロイの自動化にも役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/",
+          "publishedOn": "2022-09-23T20:01:27.000Z",
+          "wordCount": 352,
+          "title": "AWS Systems Manager が SUSE Linux Enterprise Server、Oracle Linux、Red Hat Enterprise Linux の新バージョンへのパッチ適用をサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "871b3d27865bf9255a27600adbdc18525c839acc",
+          "author": "aws@amazon.com",
+          "description": "AWS Certificate Manager (ACM) for Nitro Enclaves で Apache HTTP ウェブサーバーを使用できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-certificate-manager-nitro-enclaves-supports-apache-http-webservers/",
+          "publishedOn": "2022-09-23T17:04:33.000Z",
+          "wordCount": 377,
+          "title": "AWS Certificate Manager (ACM) for Nitro Enclaves が Apache HTTP ウェブサーバーのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ca7d125c6a6b360e4ed277fdd47b72b93f383812",
+          "author": "aws@amazon.com",
+          "description": "AWS Transfer Family では、SFTP サーバーあたりホストキーを 10 個までサポートするようになりました。さらに、ED25519 および ECDSA キータイプをサーバーホストキー用にサポートするようになりました。これまで AWS Transfer Family では、1 サーバーにつきサポートするホストキーは 1 個で、RSA キータイプのみでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/",
+          "publishedOn": "2022-09-23T17:02:40.000Z",
+          "wordCount": 322,
+          "title": "AWS Transfer Family が 1 サーバーあたり複数のホストキーとキータイプのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "eeddc7d98f2f3802ecc1669d3bf8953d07c41f77",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS のアフリカ (ケープタウン) リージョンおよび欧州 (ミラノ) リージョンで AWS Backup Audit Manager が利用可能になりました。AWS Backup Audit Manager は、データ保護ポリシーのコンプライアンスに関する監査と報告を行うための、AWS Backup サービスの機能で、ビジネスと規制のニーズを満たすのに役立ちます。AWS Backup により、組織のベストプラクティスと規制基準に基づき、AWS のサービス全体でデータ保護ポリシーを一元化および自動化することができます。また、AWS Backup Audit Manager は、それらのポリシーのコンプライアンスの維持と実証に役立ちます。AWS Backup Audit Manager を使用すると、監査対象のレポートを生成して、データ保護ポリシーが定義済みの業界固有の規制要件に準拠していることを証明できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-backup-audit-manager-available-africa-cape-town-europe-milan/",
+          "publishedOn": "2022-09-23T13:46:15.000Z",
+          "wordCount": 340,
+          "title": "AWS Backup Audit Manager がアフリカ (ケープタウン) と欧州 (ミラノ) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "986b053a5a16fcdc56554e081a91c558703ed0c5",
           "author": "aws@amazon.com",
           "description": "このたび、お客様の使用レベルに応じて、AWS Config のコンフォーマンスパックの価格を最大 58% 引き下げました。コンフォーマンスパックは、アカウントやリージョンの単一のエンティティとして (または組織全体に) 簡単にデプロイできる、AWS Config ルールと修正アクションのコレクションで、AWS リソースのコンプライアンスを大規模に管理するのに役立ちます。",
@@ -1638,36 +1678,6 @@
           "wordCount": 2913,
           "title": "「組織」のDXを生み出すには「個」のDXから！？ 自分というユーザーのために「電源カフェ」を立ち上げた 林大勇氏が目指す未来とは？",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/04_LocalDXLab-18.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45081",
-          "author": "tadokoroyusuke",
-          "description": "IT責任者、デジタル推進責任者の醍醐味・やりがい ── 転職をされてIT責任者、デジタル推進責任者として“中の人間”としてやっていく中で、なかなか外から提案する立場では得られなかった魅力や面白さを教えていただければと思い […]",
-          "link": "https://data.wingarc.com/resume-of-cio-shisaisatoko-03-45081?utm_source=rss&utm_medium=rss&utm_campaign=resume-of-cio-shisaisatoko-03",
-          "publishedOn": "2022-08-24T23:00:55.000Z",
-          "wordCount": 3516,
-          "title": "特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（後編） 中外製薬 志済聡子氏",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/11.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45076",
-          "author": "tadokoroyusuke",
-          "description": "IT責任者に就任してからの取り組み ── 入社前からこういったミッションでやるというようなイメージを持って入られたのか、それとも入ってから色々状況把握していく中でやるべきことを組み立てられたのか等も含めて、今のお仕事につ […]",
-          "link": "https://data.wingarc.com/resume-of-cio-shisaisatoko-02-45076?utm_source=rss&utm_medium=rss&utm_campaign=resume-of-cio-shisaisatoko-02",
-          "publishedOn": "2022-08-24T23:00:48.000Z",
-          "wordCount": 3570,
-          "title": "特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（中編） 中外製薬 志済聡子氏",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/10.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45052",
-          "author": "tadokoroyusuke",
-          "description": "IT責任者に至るまでのキャリアについて ── 事業会社側の立場になりたいというような思いがあって中外製薬さんを選ばれたのか、もしくは中外製薬さんからお声掛けがあって事業会社の中で働くのもいいかなと思われたのかどちらだった […]",
-          "link": "https://data.wingarc.com/resume-of-cio-shisaisatoko-01-45052?utm_source=rss&utm_medium=rss&utm_campaign=resume-of-cio-shisaisatoko-01",
-          "publishedOn": "2022-08-24T23:00:19.000Z",
-          "wordCount": 3503,
-          "title": "特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（前編） 中外製薬 志済聡子氏",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/9.jpg"
         }
       ]
     },
@@ -2483,56 +2493,6 @@
           "wordCount": null,
           "title": "第3回　水中の見える化",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/rust_tokyo2022",
-          "author": null,
-          "description": "2022年9月23日に開催されるオンラインカンファレンス「Rust.Tokyo 2022」のセッションとスケジュールが公開された。",
-          "link": "https://gihyo.jp/article/2022/08/rust_tokyo2022?utm_source=feed",
-          "publishedOn": "2022-08-25T04:33:00.000Z",
-          "wordCount": 134,
-          "title": "9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1933_rust_tokyo22.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220825",
-          "author": null,
-          "description": "米国時間8月15日にAndroid 13がリリースされました。アップデートの内容を見ていきましょう。",
-          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220825?utm_source=feed",
-          "publishedOn": "2022-08-25T02:20:00.000Z",
-          "wordCount": 268,
-          "title": "これまでで2番目に早いリリース、Android 13が公開",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-02",
-          "author": null,
-          "description": "今回は、昨今普及が進み始めた5Gの「いま」と「これから」を解説していきます。日本国内において、携帯電話各社による5Gインフラの増強が日々進んでいます。東京都内においては、5Gの電波を受信する頻度も増してきています。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-02?utm_source=feed",
-          "publishedOn": "2022-08-25T02:17:00.000Z",
-          "wordCount": 188,
-          "title": "第2回　5Gの見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/02/ifr-2-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace",
-          "author": null,
-          "description": "AppSheetは立ち上げ時期からGoogleが提供する各種業務アプリケーションを活用する強力な連携機能を有していました。今回は2022年8月現在のAppSheetとGoogle Workspaceを中心としたGoogleプロダクト連携パターンを紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace?utm_source=feed",
-          "publishedOn": "2022-08-25T00:21:00.000Z",
-          "wordCount": null,
-          "title": "AppSheetとGoogle Workspaceの連携",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc003-java19",
-          "author": null,
-          "description": "本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Java 19 の注目新機能 Virtual Thread について（てらだ　よしお） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc003-java19?utm_source=feed",
-          "publishedOn": "2022-08-25T00:20:00.000Z",
-          "wordCount": null,
-          "title": "Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より",
-          "imageUrl": null
         }
       ]
     },
@@ -3330,56 +3290,6 @@
           "wordCount": 181,
           "title": "第3回　水中の見える化",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/03/ifr-3-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/rust_tokyo2022",
-          "author": null,
-          "description": "2022年9月23日に開催されるオンラインカンファレンス「Rust.Tokyo 2022」のセッションとスケジュールが公開された。",
-          "link": "https://gihyo.jp/article/2022/08/rust_tokyo2022?utm_source=feed",
-          "publishedOn": "2022-08-25T04:33:00.000Z",
-          "wordCount": 134,
-          "title": "9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1933_rust_tokyo22.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220825",
-          "author": null,
-          "description": "米国時間8月15日にAndroid 13がリリースされました。アップデートの内容を見ていきましょう。",
-          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220825?utm_source=feed",
-          "publishedOn": "2022-08-25T02:20:00.000Z",
-          "wordCount": 268,
-          "title": "これまでで2番目に早いリリース、Android 13が公開",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-02",
-          "author": null,
-          "description": "今回は、昨今普及が進み始めた5Gの「いま」と「これから」を解説していきます。日本国内において、携帯電話各社による5Gインフラの増強が日々進んでいます。東京都内においては、5Gの電波を受信する頻度も増してきています。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-02?utm_source=feed",
-          "publishedOn": "2022-08-25T02:17:00.000Z",
-          "wordCount": null,
-          "title": "第2回　5Gの見える化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace",
-          "author": null,
-          "description": "AppSheetは立ち上げ時期からGoogleが提供する各種業務アプリケーションを活用する強力な連携機能を有していました。今回は2022年8月現在のAppSheetとGoogle Workspaceを中心としたGoogleプロダクト連携パターンを紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace?utm_source=feed",
-          "publishedOn": "2022-08-25T00:21:00.000Z",
-          "wordCount": null,
-          "title": "AppSheetとGoogle Workspaceの連携",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc003-java19",
-          "author": null,
-          "description": "本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Java 19 の注目新機能 Virtual Thread について（てらだ　よしお） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc003-java19?utm_source=feed",
-          "publishedOn": "2022-08-25T00:20:00.000Z",
-          "wordCount": 210,
-          "title": "Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1932_techfeed_java19.png"
         }
       ]
     },
@@ -4177,56 +4087,6 @@
           "wordCount": 181,
           "title": "第3回　水中の見える化",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/03/ifr-3-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/rust_tokyo2022",
-          "author": null,
-          "description": "2022年9月23日に開催されるオンラインカンファレンス「Rust.Tokyo 2022」のセッションとスケジュールが公開された。",
-          "link": "https://gihyo.jp/article/2022/08/rust_tokyo2022?utm_source=feed",
-          "publishedOn": "2022-08-25T04:33:00.000Z",
-          "wordCount": null,
-          "title": "9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/android-weekly-topics-220825",
-          "author": null,
-          "description": "米国時間8月15日にAndroid 13がリリースされました。アップデートの内容を見ていきましょう。",
-          "link": "https://gihyo.jp/article/2022/08/android-weekly-topics-220825?utm_source=feed",
-          "publishedOn": "2022-08-25T02:20:00.000Z",
-          "wordCount": 268,
-          "title": "これまでで2番目に早いリリース、Android 13が公開",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-02",
-          "author": null,
-          "description": "今回は、昨今普及が進み始めた5Gの「いま」と「これから」を解説していきます。日本国内において、携帯電話各社による5Gインフラの増強が日々進んでいます。東京都内においては、5Gの電波を受信する頻度も増してきています。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-02?utm_source=feed",
-          "publishedOn": "2022-08-25T02:17:00.000Z",
-          "wordCount": 188,
-          "title": "第2回　5Gの見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/02/ifr-2-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace",
-          "author": null,
-          "description": "AppSheetは立ち上げ時期からGoogleが提供する各種業務アプリケーションを活用する強力な連携機能を有していました。今回は2022年8月現在のAppSheetとGoogle Workspaceを中心としたGoogleプロダクト連携パターンを紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace?utm_source=feed",
-          "publishedOn": "2022-08-25T00:21:00.000Z",
-          "wordCount": 255,
-          "title": "AppSheetとGoogle Workspaceの連携",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/integration-of-appsheet-and-workspace/00.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc003-java19",
-          "author": null,
-          "description": "本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Java 19 の注目新機能 Virtual Thread について（てらだ　よしお） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc003-java19?utm_source=feed",
-          "publishedOn": "2022-08-25T00:20:00.000Z",
-          "wordCount": 210,
-          "title": "Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1932_techfeed_java19.png"
         }
       ]
     },
@@ -4270,6 +4130,16 @@
       "feedUrl": "https://rubyonrails.org/feed.xml",
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
+        {
+          "id": "https://rubyonrails.org/2022/9/23/this-week-in-rails-improved-assert_redirected_to-improved-error-messages-and-more-787f42d0",
+          "author": null,
+          "description": "Hi, this is Greg, bringing you the latest changes in the Rails framework.",
+          "link": "https://rubyonrails.org/2022/9/23/this-week-in-rails-improved-assert_redirected_to-improved-error-messages-and-more-787f42d0",
+          "publishedOn": "2022-09-23T00:00:00.000Z",
+          "wordCount": 282,
+          "title": "Improved assert_redirected_to, improved error messages and more!",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
         {
           "id": "https://rubyonrails.org/2022/9/17/this-week-in-rails-handling-reconnects-in-action-cable-no-more-coffeescript-and-a-new-guide-ae13f499",
           "author": null,
@@ -4616,16 +4486,6 @@
           "wordCount": 412,
           "title": "システム投資・アプリ開発によるDX支援、はじめます",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/business_digital_transformation_eyecatch2-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/windows_screentogif_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>はじめに: テストを実施しよう テストには「ケースを立てて、実施し、不具合があれば修正をする」を繰り返して、最終的に不具合がなくなるまで繰り返すフェーズとなります。 今回は実施の部分で検証結果を残すときの話になります。 検証結果には何を残すか 機能テストを行う際に画面のキャプチャ等を残してレビュー時にはテストケースとキャプチャを確認して問題ないかの判断を行うと思います。 GitHubでも markdown でテストケースを記載して画面キャプチャの画像の張り付け 等を行ってPull Requestを行いマージ前にチェックするようになっていたりします。 そこで一連の操作の流れを動画で見れたらわかりやすいというケースも [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786\" data-wpel-link=\"internal\" target=\"_self\">Windows: ScreenToGifで動画のエビデンスを残そう！</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786",
-          "publishedOn": "2022-08-25T08:30:21.000Z",
-          "wordCount": 478,
-          "title": "Windows: ScreenToGifで動画のエビデンスを残そう！",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/windows_screentogif_eyecatch2-min.png"
         }
       ]
     },
@@ -6019,36 +5879,6 @@
           "publishedOn": "2022-08-29T21:34:39.000Z",
           "wordCount": 684,
           "title": "エンジン無しで軌道制御、名大が超小型衛星を10月に打ち上げ",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=284227",
-          "author": "MIT Technology Review Audio Studio",
-          "description": "今週のオーディオ・ムック（β）では、話題の画像生成AIから、マルチモーダルAIの可能性について考える。",
-          "link": "https://www.technologyreview.jp/s/284227/audiomookwhat-will-the-ai-drawing-boom-bring/",
-          "publishedOn": "2022-08-25T03:23:56.000Z",
-          "wordCount": 1584,
-          "title": "聴くMITTR：「AIお絵描き」ブームは何をもたらすのか？",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/11125910/AudioMook2-1.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/24/284271/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/25/284271/",
-          "publishedOn": "2022-08-25T00:13:29.000Z",
-          "wordCount": 693,
-          "title": "エアロゾル中の新型コロナ、HEPAフィルターで除去可能＝東大ら検証",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/24/284268/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/25/284268/",
-          "publishedOn": "2022-08-24T23:47:42.000Z",
-          "wordCount": 696,
-          "title": "感染者の隔離終了タイミングは適切か？ シミュレーター開発",
           "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]

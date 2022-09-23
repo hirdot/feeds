@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T10:01:07.999Z</updated>
+    <updated>2022-09-23T22:01:23.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager が SUSE Linux Enterprise Server、Oracle Linux、Red Hat Enterprise Linux の新バージョンへのパッチ適用をサポート開始]]></title>
+        <id>9105efb53aafa0f8217b36fe0e47d7c8eb2d3446</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/"/>
+        <updated>2022-09-23T20:01:27.000Z</updated>
+        <summary type="html"><![CDATA[AWS Systems Manager の機能である Patch Manager では、SUSE Linux Enterprise Server (SLES) のバージョン 15.2、15.3、15.4、Oracle Linux のバージョン 8.4、8.5、Red Hat Enterprise Linux (RHEL) のバージョン 8.6 を実行しているインスタンスに対するパッチのデプロイの自動化をサポートするようになりました。Patch Manager はセキュリティ関連やその他の種類のアップデートを反映させるためにノードにパッチを適用するプロセスを自動化するのに役立ちます。また、Patch Manager は Windows Server、Red Hat Enterprise Linux (RHEL)、Ubuntu Server、Amazon Linux、Amazon Linux 2、CentOS、SUSE Linux Enterprise Server (SLES) を実行しているインスタンスに対するパッチのデプロイの自動化にも役立ちます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Certificate Manager (ACM) for Nitro Enclaves が Apache HTTP ウェブサーバーのサポートを開始]]></title>
+        <id>871b3d27865bf9255a27600adbdc18525c839acc</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-certificate-manager-nitro-enclaves-supports-apache-http-webservers/"/>
+        <updated>2022-09-23T17:04:33.000Z</updated>
+        <summary type="html"><![CDATA[AWS Certificate Manager (ACM) for Nitro Enclaves で Apache HTTP ウェブサーバーを使用できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Transfer Family が 1 サーバーあたり複数のホストキーとキータイプのサポートを開始]]></title>
+        <id>ca7d125c6a6b360e4ed277fdd47b72b93f383812</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/"/>
+        <updated>2022-09-23T17:02:40.000Z</updated>
+        <summary type="html"><![CDATA[AWS Transfer Family では、SFTP サーバーあたりホストキーを 10 個までサポートするようになりました。さらに、ED25519 および ECDSA キータイプをサーバーホストキー用にサポートするようになりました。これまで AWS Transfer Family では、1 サーバーにつきサポートするホストキーは 1 個で、RSA キータイプのみでした。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Backup Audit Manager がアフリカ (ケープタウン) と欧州 (ミラノ) で利用可能に]]></title>
+        <id>eeddc7d98f2f3802ecc1669d3bf8953d07c41f77</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-backup-audit-manager-available-africa-cape-town-europe-milan/"/>
+        <updated>2022-09-23T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS のアフリカ (ケープタウン) リージョンおよび欧州 (ミラノ) リージョンで AWS Backup Audit Manager が利用可能になりました。AWS Backup Audit Manager は、データ保護ポリシーのコンプライアンスに関する監査と報告を行うための、AWS Backup サービスの機能で、ビジネスと規制のニーズを満たすのに役立ちます。AWS Backup により、組織のベストプラクティスと規制基準に基づき、AWS のサービス全体でデータ保護ポリシーを一元化および自動化することができます。また、AWS Backup Audit Manager は、それらのポリシーのコンプライアンスの維持と実証に役立ちます。AWS Backup Audit Manager を使用すると、監査対象のレポートを生成して、データ保護ポリシーが定義済みの業界固有の規制要件に準拠していることを証明できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東大が光がん治療で新手法、赤色光でがん細胞をピンポイント攻撃]]></title>
         <id>https://www.technologyreview.jp/n/2022/09/23/286634/</id>
@@ -13,6 +53,16 @@
         <updated>2022-09-23T07:46:01.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved assert_redirected_to, improved error messages and more!]]></title>
+        <id>https://rubyonrails.org/2022/9/23/this-week-in-rails-improved-assert_redirected_to-improved-error-messages-and-more-787f42d0</id>
+        <link href="https://rubyonrails.org/2022/9/23/this-week-in-rails-improved-assert_redirected_to-improved-error-messages-and-more-787f42d0"/>
+        <updated>2022-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Greg, bringing you the latest changes in the Rails framework.]]></summary>
+        <author>
+            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>
@@ -6851,225 +6901,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <summary type="html"><![CDATA[マイクロソフトが開発中のリレーショナルデータベース「SQL Server 2022」がリリース候補版に到達したことが発表されました。 SQL Server 2022には、Microsoft Azure上のマネージドサービスであるAzure ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows: ScreenToGifで動画のエビデンスを残そう！]]></title>
-        <id>https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786</id>
-        <link href="https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786"/>
-        <updated>2022-08-25T08:30:21.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/windows_screentogif_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに: テストを実施しよう テストには「ケースを立てて、実施し、不具合があれば修正をする」を繰り返して、最終的に不具合がなくなるまで繰り返すフェーズとなります。 今回は実施の部分で検証結果を残すときの話になります。 検証結果には何を残すか 機能テストを行う際に画面のキャプチャ等を残してレビュー時にはテストケースとキャプチャを確認して問題ないかの判断を行うと思います。 GitHubでも markdown でテストケースを記載して画面キャプチャの画像の張り付け 等を行ってPull Requestを行いマージ前にチェックするようになっていたりします。 そこで一連の操作の流れを動画で見れたらわかりやすいというケースも [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/ykuki0805/2022_08_25/120786" data-wpel-link="internal" target="_self">Windows: ScreenToGifで動画のエビデンスを残そう！</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始]]></title>
-        <id>https://gihyo.jp/article/2022/08/rust_tokyo2022</id>
-        <link href="https://gihyo.jp/article/2022/08/rust_tokyo2022?utm_source=feed"/>
-        <updated>2022-08-25T04:33:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年9月23日に開催されるオンラインカンファレンス「Rust.Tokyo 2022」のセッションとスケジュールが公開された。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始]]></title>
-        <id>https://gihyo.jp/article/2022/08/rust_tokyo2022</id>
-        <link href="https://gihyo.jp/article/2022/08/rust_tokyo2022?utm_source=feed"/>
-        <updated>2022-08-25T04:33:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年9月23日に開催されるオンラインカンファレンス「Rust.Tokyo 2022」のセッションとスケジュールが公開された。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9/23開催「Rust.Tokyo 2022」セッションとスケジュールが公開、参加登録も開始]]></title>
-        <id>https://gihyo.jp/article/2022/08/rust_tokyo2022</id>
-        <link href="https://gihyo.jp/article/2022/08/rust_tokyo2022?utm_source=feed"/>
-        <updated>2022-08-25T04:33:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年9月23日に開催されるオンラインカンファレンス「Rust.Tokyo 2022」のセッションとスケジュールが公開された。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聴くMITTR：「AIお絵描き」ブームは何をもたらすのか？]]></title>
-        <id>https://www.technologyreview.jp/?p=284227</id>
-        <link href="https://www.technologyreview.jp/s/284227/audiomookwhat-will-the-ai-drawing-boom-bring/"/>
-        <updated>2022-08-25T03:23:56.000Z</updated>
-        <summary type="html"><![CDATA[今週のオーディオ・ムック（β）では、話題の画像生成AIから、マルチモーダルAIの可能性について考える。]]></summary>
-        <author>
-            <name>MIT Technology Review Audio Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これまでで2番目に早いリリース、Android 13が公開]]></title>
-        <id>https://gihyo.jp/article/2022/08/android-weekly-topics-220825</id>
-        <link href="https://gihyo.jp/article/2022/08/android-weekly-topics-220825?utm_source=feed"/>
-        <updated>2022-08-25T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[米国時間8月15日にAndroid 13がリリースされました。アップデートの内容を見ていきましょう。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これまでで2番目に早いリリース、Android 13が公開]]></title>
-        <id>https://gihyo.jp/article/2022/08/android-weekly-topics-220825</id>
-        <link href="https://gihyo.jp/article/2022/08/android-weekly-topics-220825?utm_source=feed"/>
-        <updated>2022-08-25T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[米国時間8月15日にAndroid 13がリリースされました。アップデートの内容を見ていきましょう。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[これまでで2番目に早いリリース、Android 13が公開]]></title>
-        <id>https://gihyo.jp/article/2022/08/android-weekly-topics-220825</id>
-        <link href="https://gihyo.jp/article/2022/08/android-weekly-topics-220825?utm_source=feed"/>
-        <updated>2022-08-25T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[米国時間8月15日にAndroid 13がリリースされました。アップデートの内容を見ていきましょう。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回　5Gの見える化]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-02</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-02?utm_source=feed"/>
-        <updated>2022-08-25T02:17:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、昨今普及が進み始めた5Gの「いま」と「これから」を解説していきます。日本国内において、携帯電話各社による5Gインフラの増強が日々進んでいます。東京都内においては、5Gの電波を受信する頻度も増してきています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回　5Gの見える化]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-02</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-02?utm_source=feed"/>
-        <updated>2022-08-25T02:17:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、昨今普及が進み始めた5Gの「いま」と「これから」を解説していきます。日本国内において、携帯電話各社による5Gインフラの増強が日々進んでいます。東京都内においては、5Gの電波を受信する頻度も増してきています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回　5Gの見える化]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-02</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-02?utm_source=feed"/>
-        <updated>2022-08-25T02:17:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、昨今普及が進み始めた5Gの「いま」と「これから」を解説していきます。日本国内において、携帯電話各社による5Gインフラの増強が日々進んでいます。東京都内においては、5Gの電波を受信する頻度も増してきています。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppSheetとGoogle Workspaceの連携]]></title>
-        <id>https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace</id>
-        <link href="https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace?utm_source=feed"/>
-        <updated>2022-08-25T00:21:00.000Z</updated>
-        <summary type="html"><![CDATA[AppSheetは立ち上げ時期からGoogleが提供する各種業務アプリケーションを活用する強力な連携機能を有していました。今回は2022年8月現在のAppSheetとGoogle Workspaceを中心としたGoogleプロダクト連携パターンを紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppSheetとGoogle Workspaceの連携]]></title>
-        <id>https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace</id>
-        <link href="https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace?utm_source=feed"/>
-        <updated>2022-08-25T00:21:00.000Z</updated>
-        <summary type="html"><![CDATA[AppSheetは立ち上げ時期からGoogleが提供する各種業務アプリケーションを活用する強力な連携機能を有していました。今回は2022年8月現在のAppSheetとGoogle Workspaceを中心としたGoogleプロダクト連携パターンを紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppSheetとGoogle Workspaceの連携]]></title>
-        <id>https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace</id>
-        <link href="https://gihyo.jp/article/2022/08/integration-of-appsheet-and-workspace?utm_source=feed"/>
-        <updated>2022-08-25T00:21:00.000Z</updated>
-        <summary type="html"><![CDATA[AppSheetは立ち上げ時期からGoogleが提供する各種業務アプリケーションを活用する強力な連携機能を有していました。今回は2022年8月現在のAppSheetとGoogle Workspaceを中心としたGoogleプロダクト連携パターンを紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc003-java19</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc003-java19?utm_source=feed"/>
-        <updated>2022-08-25T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Java 19 の注目新機能 Virtual Thread について（てらだ　よしお） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc003-java19</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc003-java19?utm_source=feed"/>
-        <updated>2022-08-25T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Java 19 の注目新機能 Virtual Thread について（てらだ　よしお） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 19の注目新機能Virtual Threadについて ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc003-java19</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc003-java19?utm_source=feed"/>
-        <updated>2022-08-25T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催された「TechFeed Conference 2022」のセッション書き起こし記事「Java 19 の注目新機能 Virtual Thread について（てらだ　よしお） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エアロゾル中の新型コロナ、HEPAフィルターで除去可能＝東大ら検証]]></title>
-        <id>https://www.technologyreview.jp/n/2022/08/24/284271/</id>
-        <link href="https://www.technologyreview.jp/n/2022/08/25/284271/"/>
-        <updated>2022-08-25T00:13:29.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感染者の隔離終了タイミングは適切か？ シミュレーター開発]]></title>
-        <id>https://www.technologyreview.jp/n/2022/08/24/284268/</id>
-        <link href="https://www.technologyreview.jp/n/2022/08/25/284268/"/>
-        <updated>2022-08-24T23:47:42.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（後編） 中外製薬 志済聡子氏]]></title>
-        <id>https://data.wingarc.com/?p=45081</id>
-        <link href="https://data.wingarc.com/resume-of-cio-shisaisatoko-03-45081?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resume-of-cio-shisaisatoko-03"/>
-        <updated>2022-08-24T23:00:55.000Z</updated>
-        <summary type="html"><![CDATA[IT責任者、デジタル推進責任者の醍醐味・やりがい ── 転職をされてIT責任者、デジタル推進責任者として“中の人間”としてやっていく中で、なかなか外から提案する立場では得られなかった魅力や面白さを教えていただければと思い […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（中編） 中外製薬 志済聡子氏]]></title>
-        <id>https://data.wingarc.com/?p=45076</id>
-        <link href="https://data.wingarc.com/resume-of-cio-shisaisatoko-02-45076?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resume-of-cio-shisaisatoko-02"/>
-        <updated>2022-08-24T23:00:48.000Z</updated>
-        <summary type="html"><![CDATA[IT責任者に就任してからの取り組み ── 入社前からこういったミッションでやるというようなイメージを持って入られたのか、それとも入ってから色々状況把握していく中でやるべきことを組み立てられたのか等も含めて、今のお仕事につ […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特集「CIOの履歴書」 周回遅れからの逆転を一気に進める中外デジタル（前編） 中外製薬 志済聡子氏]]></title>
-        <id>https://data.wingarc.com/?p=45052</id>
-        <link href="https://data.wingarc.com/resume-of-cio-shisaisatoko-01-45052?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resume-of-cio-shisaisatoko-01"/>
-        <updated>2022-08-24T23:00:19.000Z</updated>
-        <summary type="html"><![CDATA[IT責任者に至るまでのキャリアについて ── 事業会社側の立場になりたいというような思いがあって中外製薬さんを選ばれたのか、もしくは中外製薬さんからお声掛けがあって事業会社の中で働くのもいいかなと思われたのかどちらだった […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
         </author>
     </entry>
     <entry>
