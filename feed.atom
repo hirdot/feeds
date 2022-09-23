@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-23T08:01:49.336Z</updated>
+    <updated>2022-09-23T09:04:45.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -7098,46 +7098,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <updated>2022-08-24T21:26:33.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 High Memory インスタンスが、米国東部 (オハイオ)、南米 (サンパウロ)、およびアジアパシフィック (シドニー) リージョンで利用可能に]]></title>
-        <id>d763aa9d26b890609954936998a93d9bea94a9b2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-ec2-high-memory-instances-ohio-sao-paulo-sydney-regions/"/>
-        <updated>2022-08-24T21:03:44.000Z</updated>
-        <summary type="html"><![CDATA[本日より、12 TB のメモリ (u-12tb1.112xlarge) を備えた Amazon EC2 High Memory インスタンスが米国東部 (オハイオ) リージョンで利用できるようになりました。さらに、6 TB のメモリを備えたハイメモリインスタンス (u-6tb1.56xlarge、u-6tb1.112xlarge) が南米 (サンパウロ) リージョンで利用できるようになり、3 TB のメモリを備えたインスタンス (u-3tb1.56xlarge) が南米 (サンパウロ) およびアジアパシフィック (シドニー) リージョンで利用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker Pipelines が、ローカル環境での機械学習ワークフローのテストのサポートを開始]]></title>
-        <id>f55dcbc738ce3b13f8f6c81f793769217b889212</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-testing-machine-learning-workflows-local-environment/"/>
-        <updated>2022-08-24T21:02:54.000Z</updated>
-        <summary type="html"><![CDATA[SageMaker Pipelines は、SageMaker の直接統合を利用する機械学習パイプラインを構築するのに役立つツールです。SageMaker Pipelines では、ローカルマシン (コンピュータなど) でのパイプラインの作成とテストがサポートされるようになりました。今回のサポート開始により、クラウドの SageMaker で実行する前に、Sagemaker Pipelines スクリプトとパラメーターの互換性をローカルでテストできるようになっています。Sagemaker Pipelines のローカルモードは、処理、トレーニング、変換、モデル、条件、および失敗のステップに対応しています。これらの手順により、機械学習ワークフローのさまざまなエンティティを柔軟に定義できます。Pipelines ローカルモードを使用すると、スクリプトとパイプライン定義のエラーを短時間で効率的にデバッグできます。ワークフローをローカルモードから Sagemaker のマネージド環境にシームレスに切り替えるには、セッションを更新します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Redshift が、Query Editor V2 の使いやすさとセキュリティ機能の強化を備えたフェデレーション SSO のサポートを開始]]></title>
-        <id>f88931fdd407e9fae7de50d7f0bfac2af6bd9eea</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-redshift-federated-sso-security-enhancements-query-editor-v2/"/>
-        <updated>2022-08-24T21:02:06.000Z</updated>
-        <summary type="html"><![CDATA[SQL を使用したデータ調査と分析のための無料のウェブベースツールである Amazon Redshift Query Editor v2 は、使いやすさとセキュリティ機能が強化されました。Amazon Redshift Query Editor v2 を使用すると、管理者とエンドユーザーが ID プロバイダー (IdP) を使用して Amazon Redshift クラスターに接続するプロセスを簡素化できます。管理者は、ID プロバイダー (IdP) を Amazon AWS コンソールと統合して、フェデレーションユーザーとして Query Editor v2 にアクセスできるようになりました。データベースユーザーと (オプションで) データベースグループを渡すように ID プロバイダー (IdP) を構成するには、特定のプリンシパルタグを SAML 属性として追加する必要があります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Resilience Hub による Elastic Load Balancing と Amazon Route 53 Application Recovery Controller のサポートを発表]]></title>
-        <id>b0c3d776e7caf18e34b695603cfe39069c96837e</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/"/>
-        <updated>2022-08-24T21:01:16.000Z</updated>
-        <summary type="html"><![CDATA[AWS Resilience Hub を Elastic Load Balancing (ELB) と Amazon Route 53 Application Recovery Controller の準備状況チェックと一緒に使用し、アプリケーションの回復目標の達成に役立てることができるようになりました。Resilience Hub は、アプリケーションのレジリエンスを定義、検証、追跡するための単一の場所を提供し、ソフトウェア、インフラストラクチャ、または運用の中断による不要なダウンタイムを回避できるようにします。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
