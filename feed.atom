@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-25T08:01:11.413Z</updated>
+    <updated>2022-09-25T09:01:44.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「はやぶさ2」チーム、リュウグウの進化をシミュレーション再現]]></title>
+        <id>https://www.technologyreview.jp/n/2022/09/25/286752/</id>
+        <link href="https://www.technologyreview.jp/n/2022/09/25/286752/"/>
+        <updated>2022-09-25T08:18:48.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Systems Manager が SUSE Linux Enterprise Server、Oracle Linux、Red Hat Enterprise Linux の新バージョンへのパッチ適用をサポート開始]]></title>
         <id>9105efb53aafa0f8217b36fe0e47d7c8eb2d3446</id>
@@ -6656,46 +6665,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/"/>
         <updated>2022-08-26T21:01:20.000Z</updated>
         <summary type="html"><![CDATA[コンテナのワークロードを実行するために構築された Linux ベースのオペレーティングシステムである Bottlerocket で、Center for Internet Security (CIS) ベンチマークが利用可能になりました。CIS ベンチマークは Bottlerocket ユーザーがシンプルで効率的な方法で設定したり、あらゆるコンプライアンス違反を記録したりするのに役立つセキュリティ重視の構成設定のカタログです。Bottlerocket 用の CIS ベンチマークには、レベル 1 とレベル 2 両方の設定プロファイルがあります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK が WebRTC メディアキャプチャの動画合成マージ (連結) をサポート]]></title>
-        <id>110ed1b419f1e833d892d13c22ec37361e1e4604</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/"/>
-        <updated>2022-08-26T20:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK は Amazon Chime SDK メディアキャプチャが作成したメディアチャンク (音声、コンテンツ、文字起こしなど) を連結することによって単一のファイルを簡単に作成できる連結機能のリリースを発表しました。Amazon Chime SDK によって、デベロッパーはリアルタイムの音声と動画をウェブアプリとモバイルアプリに加えられるので、複数の参加者による動画セッションを利用できます。連結機能によって、複数の参加者による動画セッション (音声、個別または合成動画、文字起こしなど) から単一のファイルを作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Cost Categories がサイクル外のコストカテゴリのサポートを開始]]></title>
-        <id>4cf0f60d176e4d147f2551af942f777896132ea3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-cost-categories-out-of-cycle-cost-categorization/"/>
-        <updated>2022-08-26T20:48:02.000Z</updated>
-        <summary type="html"><![CDATA[AWS Cost Categories では、AWS エンタープライズサポートや AWS Proserve の料金などのサイクル外のコストの分類のサポートを開始しました。これまですべてのサイクル外のコストは「デフォルト値」グループにまとめられていました。今回のサポート開始により、コストカテゴリのディメンションを使用してサイクル外のコストの把握と分類ができるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon DynamoDB が Amazon S3 から DynamoDB テーブルへの一括インポートのサポートを開始]]></title>
-        <id>42eb881589b5f9ab9d37afcf162194aba22265c6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/"/>
-        <updated>2022-08-26T20:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Amazon DynamoDB で Amazon S3 からの一括データインポートのサポートが始まり、新しい DynamoDB テーブルへのデータの移行とロードが簡単になりました。新しいテーブルにデータを直接インポートして、他のシステムからのデータを移行したり、テストデータをロードして新しいアプリケーションの構築に役立てたり、テーブルとアカウント間のデータ共有を促進したり、ディザスタリカバリとビジネス継続の計画を簡素化したりできるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS PrivateLink が Amazon CloudWatch Contributor Insights との統合を発表]]></title>
-        <id>9e17aef7385b3b38c7dbbdce0c534e0b97564905</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/"/>
-        <updated>2022-08-26T20:46:17.000Z</updated>
-        <summary type="html"><![CDATA[AWS PrivateLink を使用する VPC エンドポイントサービスで CloudWatch Contributor Insights を有効にできるようになりました。AWS PrivateLink はフルマネージド型のプライベート接続サービスで、ネットワークトラフィックを非公開にしたまま、AWS のサービス、または AWS でホストされているサードパーティサービスや社内のエンタープライズサービスに、安全かつスケーラブルな方法でアクセスできるようになります。CloudWatch Contributor Insights は時系列データを分析し、データセットの上位のコントリビューターと一意のコントリビューターの数をレポートします。]]></summary>
         <author>
             <name>aws@amazon.com</name>
         </author>
