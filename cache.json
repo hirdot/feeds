@@ -6,6 +6,106 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "de44d2faa09b4845a2eeee0ee0e51a4137d91581",
+          "author": "aws@amazon.com",
+          "description": "AWS Batch では、ジョブレポートの保持期間が 24 時間から 7 日に延長されました。これにより、最長で 7 日前に完了した AWS Batch ジョブの詳細をクエリできるようになりました。保持期間が延びたことにより、1 日後にジョブが消えてしまう心配がなくなりました。ジョブを送信してから数日後にクエリを実行して、1 週間を通して送信したジョブをより詳しく把握できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/",
+          "publishedOn": "2022-09-26T20:19:45.000Z",
+          "wordCount": 323,
+          "title": "AWS Batch がジョブレポートの保持期間を 24 時間から 7 日に延長",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e206f77477a07d1bc4133f32f400fffc7a845643",
+          "author": "aws@amazon.com",
+          "description": "FreeRTOS 延長メンテナンスプラン (EMP) の登録受け付けを開始しました。FreeRTOS とは、マイクロコントローラ向けのリアルタイムオペレーティングシステムです。FreeRTOS EMP のサブスクリプションに登録すると、組み込みデベロッパーは、選択した FreeRTOS 長期サポート (LTS) バージョンの重大なバグ修正とセキュリティパッチの提供を、最初のサポート期間の満了後最大 10 年間、受けられます。サブスクリプション期間中、デベロッパーは FreeRTOS ライブラリの今後のパッチに関する通知を受け取るため、製品のメンテナンスアクティビティを順序立てて計画可能です。FreeRTOS EMP は、デベロッパーがマイクロコントローラーベースのデバイスを何年にもわたって保護し、オペレーティングシステムのアップグレードコストを節約し、デバイスへのパッチ適用に関連するリスクを軽減するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/freertos-extended-maintenance-plan-registration-open/",
+          "publishedOn": "2022-09-26T20:18:57.000Z",
+          "wordCount": 295,
+          "title": "FreeRTOS 延長メンテナンスプランの登録受け付けを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "52c1d3eec127d9fa3ff326fcf9ae8ec7b9bad1a8",
+          "author": "aws@amazon.com",
+          "description": "このたび、Amazon Relational Database Service (Amazon RDS) for Oracle に、M5d/R5d インスタンス向けの一時テーブルスペース用インスタンスストアおよびデータベーススマートフラッシュキャッシュのサポートが追加されました。M5d/R5d インスタンスは、スクラッチスペース、一時ファイル、キャッシュなどの一時的なストレージを必要とするものを含め、高速で低レイテンシーのローカルストレージにアクセスする必要のあるアプリケーションに最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/",
+          "publishedOn": "2022-09-26T20:18:09.000Z",
+          "wordCount": 381,
+          "title": "Amazon RDS for Oracle に、M5d/R5d インスタンス向けの一時テーブルスペース用インスタンスストアおよびデータベーススマートフラッシュキャッシュのサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d1cd974e0b6c84c16fdd4cbfcc6e2c749d4e3bd4",
+          "author": "aws@amazon.com",
+          "description": "タグの使用によって、AWS PrivateLink を利用する VPC エンドポイントサービスの追跡と管理の方法が改良されました。AWS PrivateLink はフルマネージド型のプライベート接続ソリューションで、ユーザーがネットワークトラフィックを非公開にしたまま、AWS でホストされているサービスに安全かつスケーラブルな方法でアクセスできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-privatelink-announces-enhanced-tagging-capability-service-owners/",
+          "publishedOn": "2022-09-26T20:17:18.000Z",
+          "wordCount": 304,
+          "title": "AWS PrivateLink からサービス所有者向けに強化されたタグ付け機能のリリースが発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c70acc4c40e4d29bbac34cc6ea6426bf9b1b7569",
+          "author": "aws@amazon.com",
+          "description": "Amazon Elastic Container Service (Amazon ECS) では、スケールインイベントでクラスターオートスケーリングをより速くできるよう、Amazon ECS 容量プロバイダーを改善しました。Amazon ECS では、余剰キャパシティーのスケールインをより速く行えるようになり、インフラストラクチャの使用率の向上とコンピューティングコストの削減をサポートするようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/",
+          "publishedOn": "2022-09-26T20:16:26.000Z",
+          "wordCount": 355,
+          "title": "Amazon ECS でスケールインイベントのクラスターオートスケーリングがより高速に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c92632166d69876dae87e6175fdab896e25d25ee",
+          "author": "aws@amazon.com",
+          "description": "Amazon AppFlow は、数回クリックするだけで AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間のデータ転送を安全に実行できるフルマネージド型統合サービスです。このたび、Salesforce でのレコード削除に対応しました。お客様は、Amazon AppFlow フローを実行して送信先の Salesforce インスタンスの対象レコードを削除できるようになりました。 この新機能により、挿入、更新、アップサートといった書き込みメソッドを既にサポートしている Amazon AppFlow のSalesforce 用コネクタが強化されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/appflow-now-supports-deleting-records-salesforce/",
+          "publishedOn": "2022-09-26T20:04:39.000Z",
+          "wordCount": 316,
+          "title": "Amazon AppFlow が Salesforce でのレコード削除に対応",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3d73db1925f5b6c8aaeefd83292a5719a123ac48",
+          "author": "aws@amazon.com",
+          "description": "このたび、アマゾン ウェブ サービス (AWS) は AWS インシデント検出と対応の一般提供を開始しました。AWS エンタープライズサポートのお客様が選択したワークロードに対して、積極的なモニタリングおよびインシデント管理を行います。AWS インシデント検出と対応は、オペレーションを改善し、ワークロードの回復力を高め、重大なインシデントからの復旧を促進するように設計されています。本サービスでは実績あるオペレーション機能、強化されたモニタリング機能、インシデント管理機能が活用されます。これらの機能は AWS チームによって社内で、AWS Managed Services (AMS) において外部で使用されているものです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-enterprise-support-aws-incident-detection-response/",
+          "publishedOn": "2022-09-26T20:03:50.000Z",
+          "wordCount": 328,
+          "title": "AWS エンタープライズサポートが AWS インシデント検出と対応をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9f597da6bb93aee4a8e5dfeb0622ed71cba59193",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.5.17、10.4.26、10.3.36 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/",
+          "publishedOn": "2022-09-26T20:03:00.000Z",
+          "wordCount": 319,
+          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.5.17、10.4.26、10.3.36 をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e2eec1595502d73d7e3d2df3a2a197e407dba60c",
+          "author": "aws@amazon.com",
+          "description": "Outposts ラックのローカルゲートウェイ (LGW) にインバウンドルートを作成することにより、受信トラフィックが Outposts で実行されているエンタープライズワークロードに到達する前に、そのトラフィックを Amazon EC2 インスタンスにアタッチされた Elastic Network Interface (ENI) にリダイレクトできるようになりました。この EC2 インスタンスで仮想ネットワークアプライアンスのソフトウェアを実行して、ネットワークトラフィックを別の EC2 インスタンスにリダイレクトする前に、そのトラフィックを検査、変更、フィルタリングできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/local-gateway-ingress-routing-aws-outposts-rack-now-available/",
+          "publishedOn": "2022-09-26T20:02:11.000Z",
+          "wordCount": 324,
+          "title": "AWS Outposts ラックのローカルゲートウェイでイングレスルーティングが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d9375cb3e67dd276b83612848e37c5453299dac6",
+          "author": "aws@amazon.com",
+          "description": "今回は、AWS IoT Device Defender ML Detect に新たに追加された 2 つの拡張機能であるカスタムメトリクスとディメンションのサポートをご紹介します。まず、ML Detect によるカスタムメトリクスのモニタリングが新たにサポートされました。これにより、フリートに固有の運用上の健全性パラメータを評価できるようになりました。Rules Detect を使用して静的アラームを手動で設定するだけでなく、カスタムメトリクスに対して予想されるフリートの動作を機械学習で自動的に学習させることができるようになりました。また、ML Detect ではディメンションフィルターが新たにサポートされ、ML セキュリティプロファイルのメトリクスをより正確に評価するための属性を定義できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-defender-ml-detect-custom-metrics-dimensions-support/",
+          "publishedOn": "2022-09-26T20:01:20.000Z",
+          "wordCount": 331,
+          "title": "AWS IoT Device Defender ML Detect のカスタムメトリクスとディメンションのサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "9105efb53aafa0f8217b36fe0e47d7c8eb2d3446",
           "author": "aws@amazon.com",
           "description": "AWS Systems Manager の機能である Patch Manager では、SUSE Linux Enterprise Server (SLES) のバージョン 15.2、15.3、15.4、Oracle Linux のバージョン 8.4、8.5、Red Hat Enterprise Linux (RHEL) のバージョン 8.6 を実行しているインスタンスに対するパッチのデプロイの自動化をサポートするようになりました。Patch Manager はセキュリティ関連やその他の種類のアップデートを反映させるためにノードにパッチを適用するプロセスを自動化するのに役立ちます。また、Patch Manager は Windows Server、Red Hat Enterprise Linux (RHEL)、Ubuntu Server、Amazon Linux、Amazon Linux 2、CentOS、SUSE Linux Enterprise Server (SLES) を実行しているインスタンスに対するパッチのデプロイの自動化にも役立ちます。",
@@ -4555,6 +4655,46 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/42022.html",
+          "author": null,
+          "description": "9月22日と23日の2日間、一般財団法人日本科学技術連盟主催のイベント「ソフトウェア品質シンポジウム2022」がオンラインで開催され、その企画セッションとして行われた和田卓人氏による講演「組織に自動テストを書く文化を根付かせる戦略（2022...",
+          "link": "https://www.publickey1.jp/blog/22/42022.html",
+          "publishedOn": "2022-09-26T15:55:38.000Z",
+          "wordCount": 1369,
+          "title": "自動テスト文化を根付かせる王道と、邪道を教えよう。和田卓人氏による「組織に自動テストを根付かせる戦略」（その4）。ソフトウェア品質シンポジウム2022",
+          "imageUrl": "https://www.publickey1.jp/2022/sqip2022wada39.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/32022.html",
+          "author": null,
+          "description": "9月22日と23日の2日間、一般財団法人日本科学技術連盟主催のイベント「ソフトウェア品質シンポジウム2022」がオンラインで開催され、その企画セッションとして行われた和田卓人氏による講演「組織に自動テストを書く文化を根付かせる戦略（2022...",
+          "link": "https://www.publickey1.jp/blog/22/32022.html",
+          "publishedOn": "2022-09-26T15:51:27.000Z",
+          "wordCount": 1400,
+          "title": "フルスタックエンジニアから「フルサイクルエンジニア」へ。和田卓人氏による「組織に自動テストを根付かせる戦略」（その3）。ソフトウェア品質シンポジウム2022",
+          "imageUrl": "https://www.publickey1.jp/2022/sqip2022wada34.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/wordpresswordpresswebclient-side_webassembly_wordpress.html",
+          "author": null,
+          "description": "WordPressのコア開発チームは、PHPサーバをWebAssembly化することなどにより、WordPressをWebブラウザ上で実行する「Client-side WebAssembly WordPress」（以下WASM WordPr...",
+          "link": "https://www.publickey1.jp/blog/22/wordpresswordpresswebclient-side_webassembly_wordpress.html",
+          "publishedOn": "2022-09-26T15:45:23.000Z",
+          "wordCount": 1289,
+          "title": "WordPressのコア開発チーム、WordPressをWebブラウザで実行する「Client-side WebAssembly WordPress」を開発中",
+          "imageUrl": "https://www.publickey1.jp/2022/clientsideWordPress02.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/electrontauriguitauri-egui_010.html",
+          "author": null,
+          "description": "Electronの代替を目指す軽量なRust製フレームワーク「Tauri」の開発チームは、Tauriで使えるGUIライブラリの初めてのリリース「tauri-egui 0.1.0」をリリースしました。 Today is soon™️Remem...",
+          "link": "https://www.publickey1.jp/blog/22/electrontauriguitauri-egui_010.html",
+          "publishedOn": "2022-09-26T15:20:38.000Z",
+          "wordCount": 1268,
+          "title": "Electron代替を目指すTauriがGUIライブラリ「tauri-egui 0.1.0」をリリース",
+          "imageUrl": "https://www.publickey1.jp/2022/taurieguir03.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/22022_1.html",
           "author": null,
           "description": "9月22日と23日の2日間、一般財団法人日本科学技術連盟主催のイベント「ソフトウェア品質シンポジウム2022」がオンラインで開催され、その企画セッションとして行われた和田卓人氏による講演「組織に自動テストを書く文化を根付かせる戦略（2022...",
@@ -5131,6 +5271,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=286713",
+          "author": "Chris Stokel-Walker",
+          "description": "プーチン大統領が予備役部分動員を発表するとすぐに、テレグラム上で「内戦」が始まった。親プーチン派が戦意高揚を図るプロパガンダを流す一方で、反対派は徴兵を逃れるための情報を市民に共有している。\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/286713/russias-battle-to-convince-people-to-join-its-war-is-being-waged-on-telegram/",
+          "publishedOn": "2022-09-26T21:19:26.000Z",
+          "wordCount": 1189,
+          "title": "ロシア内戦の舞台は「テレグラム」、親プーチン派と反戦派が激突",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/24190504/AP22264701821099-crop-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=285462",
           "author": "Jessica Hamzelou",
