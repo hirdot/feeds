@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "418b34fd1a69c6ac8e7ed069c4ff727964a572e5",
+          "author": "aws@amazon.com",
+          "description": "AWS Fargate ユーザーは Amazon Elastic Container Service (ECS) タスクと Amazon Elastic Kubernetes Service (EKS) ポッドを構成して、以前と比べて約 4 倍の最大 16 個の vCPU を使用できるようになりました。vCPU は ECS タスクと EKS ポッドにおける主要なコンピューティングリソースです。より大きな vCPU により、機械学習推論、科学技術用モデリング、分散分析などの計算量の多いアプリケーションを Fargate でより簡単に実行できるようになります。さらに、Fargate でメモリを以前の 4 倍にあたる 120 GiB までプロビジョニングできるようになりました。これは、バッチワークロード、抽出、変換、ロード (ETL) ジョブ、ゲノミクス、メディア処理アプリケーションが、Fargate でメモリを大量に消費する処理をより効率的に行うのに役立ちます。また、vCPU とメモリのオプションが広がったことにより、より多くのコンピューティングリソースを必要とし、小さなマイクロサービスに再設計するのが難しいアプリケーションを、サーバーレスコンテナコンピューティングに移行するのがより簡単になることがあります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/",
+          "publishedOn": "2022-09-27T02:41:57.000Z",
+          "wordCount": 385,
+          "title": "AWS Fargate でコンピューティングとメモリのリソース構成が 4 倍に増加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2290bb969cdb2522fc8cf097cda1432890eff913",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT TwinMaker では、TwinMaker Grafana Plugin を使用したデータパネルのパフォーマンスを向上させる新機能を導入しました。機能の詳細な一覧については、AWS IoT TwinMaker App in Grafana の変更履歴をご覧ください。\n 新バージョンの主な機能をいくつかご紹介します。\n \n \n \nGet Alarms Query で取得するアラームの最大数を定義できるようになりました。Get Alarms Query はペイロードサイズを設定する方法を提供します。\n \n \nGet Property Value History by Entity クエリと Get Property Value History by Component Type クエリが propertyName といったテンプレート変数をサポートするようになりました。これにより、デベロッパーは選択したエンティティに基づいて異なるプロパティ/メトリクスを表示する動的な時系列データパネルを作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-twinmaker-launches-v-1-2-0-twinmaker-grafana-plugin/",
+          "publishedOn": "2022-09-27T02:35:57.000Z",
+          "wordCount": 344,
+          "title": "AWS IoT TwinMaker が TwinMaker Grafana Plugin の v1.2.0 をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "de44d2faa09b4845a2eeee0ee0e51a4137d91581",
           "author": "aws@amazon.com",
           "description": "AWS Batch では、ジョブレポートの保持期間が 24 時間から 7 日に延長されました。これにより、最長で 7 日前に完了した AWS Batch ジョブの詳細をクエリできるようになりました。保持期間が延びたことにより、1 日後にジョブが消えてしまう心配がなくなりました。ジョブを送信してから数日後にクエリを実行して、1 週間を通して送信したジョブをより詳しく把握できます。",
@@ -5113,26 +5133,6 @@
           "wordCount": 1244,
           "title": "Google Cloud、暗号資産を無断採掘されているインスタンスのプロセスを検出する「VM threat detection」正式リリース。ハイパーバイザレベルでメモリをスキャンし検出",
           "imageUrl": "https://www.publickey1.jp/2022/Lw06cbXP.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html",
-          "author": null,
-          "description": "7月に発表されるやいなや急速に注目を集めているJavaScriptランタイム「Bun」の開発者であるJarred Sumner氏が、Bunの開発とサービス提供などを目的とする企業「Oven」社の設立を発表しました。 Introducing ...",
-          "link": "https://www.publickey1.jp/blog/22/javascriptbun9ovenci.html",
-          "publishedOn": "2022-08-28T15:17:19.000Z",
-          "wordCount": 1390,
-          "title": "JavaScriptランタイム「Bun」が約9億円を調達、「Oven」社を設立。ホスティングやCIサービスなど計画",
-          "imageUrl": "https://www.publickey1.jp/2022/AZaMsdzf.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awsslackaws_spport_app.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は、ユーザーがSlackを通じてAWSのサポートケースを開始、サポートエージェントと対話し、その経過や結果をチームで共有できるSlackアプリケーション「AWS Support App」の提供...",
-          "link": "https://www.publickey1.jp/blog/22/awsslackaws_spport_app.html",
-          "publishedOn": "2022-08-28T15:11:13.000Z",
-          "wordCount": 1237,
-          "title": "AWSがSlack経由で有償サポートの提供を開始、チームのメンバーで問題への対応を共有できる「AWS Spport App」開始",
-          "imageUrl": "https://www.publickey1.jp/2022/awssupportapp.png"
         }
       ]
     },
