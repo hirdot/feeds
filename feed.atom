@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T10:01:44.482Z</updated>
+    <updated>2022-09-28T22:01:21.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲームのやりすぎは悪か？ オックスフォード大調査の意外な結果]]></title>
+        <id>https://www.technologyreview.jp/?p=283994</id>
+        <link href="https://www.technologyreview.jp/s/283994/we-may-never-fully-know-how-video-games-affect-our-well-being/"/>
+        <updated>2022-09-28T21:55:01.000Z</updated>
+        <summary type="html"><![CDATA[「ゲームは有害」との懸念には十分なエビデンスがないにもかかわらず、保健当局や政府の政策に影響を与えてきた。ゲームメーカーから提供されたプレイ時間データに基づく調査は、新しい手がかりを得るのに役立つかもしれない。]]></summary>
+        <author>
+            <name>Rhiannon Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九大、超伝導量子コンのエラーの原因となる新種のノイズを観測]]></title>
+        <id>https://www.technologyreview.jp/n/2022/09/28/287008/</id>
+        <link href="https://www.technologyreview.jp/n/2022/09/29/287008/"/>
+        <updated>2022-09-28T21:22:31.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東芝、透過型Cu2O太陽電池の発電効率の世界記録を更新]]></title>
+        <id>https://www.technologyreview.jp/n/2022/09/28/287005/</id>
+        <link href="https://www.technologyreview.jp/n/2022/09/29/287005/"/>
+        <updated>2022-09-28T21:15:58.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare WorkersのJavaScript/WASMランタイム「workerd」がオープンソースで公開。NanoservicesやHomogeneous deploymentなど新技術を実装]]></title>
+        <id>https://www.publickey1.jp/blog/22/cloudflare_workersjavascriptwasmworkerdnanoserviceshomogeneous_deployment.html</id>
+        <link href="https://www.publickey1.jp/blog/22/cloudflare_workersjavascriptwasmworkerdnanoserviceshomogeneous_deployment.html"/>
+        <updated>2022-09-28T17:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflareは、同社のCDNエッジでJavaScript/WebAssemblyを実行するサービス「Cloudflare Workers」のコアランタイム部分を「workerd」（読み方はワーカーディー：worker- dee）とし...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio、Cloud Native Computing Foundationの正式なプロジェクトとして採択されたと発表。これでクラウドネイティブの基盤ソフトウェアはほぼ全てCNCF傘下に]]></title>
+        <id>https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundationcncf.html</id>
+        <link href="https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundationcncf.html"/>
+        <updated>2022-09-28T16:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Istioの開発チームとCloud Native Computing Foundation（CNCF）は、IstioがCNCFのインキュベーションプロジェクトとして正式に採択されたことを発表しました。 Welcome @IstioMesh ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Outposts ラックのダイレクト VPC ルーティングが利用可能に]]></title>
+        <id>e40297c9e51969eeb290d8c2268eddb16ac92302</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/direct-vpc-routing-aws-outposts-rack/"/>
+        <updated>2022-09-28T10:33:57.000Z</updated>
+        <summary type="html"><![CDATA[AWS Outposts ラックのダイレクト VPC ルーティングにより、Outposts ラック上の Amazon EC2 インスタンスの VPC プライベート IP アドレスを直接使用してお客様のオンプレミスネットワークと通信できるようになりました。この新しいダイレクト VPC ルーティングモードは、お客様のオンプレミスネットワークから提供された別の IP アドレスプールを Outposts ラックが使用する CoIP (お客様所有の IP) ルーティングモードの代わりとしてご利用いただけます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rails 7: touchやupdate_column(s)によるreadonlyモデル更新を修正（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_09_28/122062</id>
@@ -7420,190 +7478,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <summary type="html"><![CDATA[Smithy インターフェイス定義言語 (IDL) 2.0、一般提供を開始。Smithy は、何万もの API を構築し SDK を生成してきた経験に基づく Amazon の次世代 API モデリング言語です。IDL 2.0 を使用することで、デベロッパーはこれまでよりも簡単に、より直感的な方法で、Smithy モデルを作成し、Smithy モデルからコードを生成することができます。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: RubyKaigi 2022タイムテーブル公開、viewport-extraほか（20220830後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_08_30/121238</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_08_30/121238"/>
-        <updated>2022-08-30T09:33:36.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220830_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_08_30/121238" data-wpel-link="internal" target="_self">週刊Railsウォッチ: RubyKaigi 2022タイムテーブル公開、viewport-extraほか（20220830後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwiftUIの勉強にTechRacho Feed Readerを作ってみた]]></title>
-        <id>https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927</id>
-        <link href="https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927"/>
-        <updated>2022-08-30T08:30:34.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/swiftui_techracho_feed_reader_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>はじめに WWDC2019で発表以来すでに4年目となりますが、みなさんはSwiftUIを弄ってみたり導入してみたりした経験はありますでしょうか? 私は発表以来様子見をしておりました。というのも発表当初は、当時の最新OSであるiOS13でしか使うことができず、サポートバージョンの範囲の狭さから、数年はプロジェクトで導入は難しいだろうなと決め込んでいました。また、2年ほど前から社内でクロスプラットフォーム開発の波がきており、Flutterでの開発が盛んになる一方、Swiftを使ってネイティブで開発することがあまりなくなってしまいました。結果的にSwiftUIを触るモチベーションがあまり湧きませんでした。 しかし、既に [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927" data-wpel-link="internal" target="_self">SwiftUIの勉強にTechRacho Feed Readerを作ってみた</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby: map(&#038;:upcase) の &#038;:upcase って何]]></title>
-        <id>https://techracho.bpsinc.jp/kazz/2022_08_30/121187</id>
-        <link href="https://techracho.bpsinc.jp/kazz/2022_08_30/121187"/>
-        <updated>2022-08-30T08:30:31.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_explaining_to_proc_symbol_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは。kazzです。 以下のような実装を見かけたり、実際に使っているという方が多いのではないでしょうか。 %w[a b c].map(&#38;:upcase) #=&#62; ['A', 'B', 'C'] 本日は、この実装がなぜ動くのかの秘密に迫りたいと思います。 メソッドにブロックを渡す ブロック引数 rubyの任意のメソッドはブロックを受け取ることができ、yield でメソッドに与えられたブロックを実行します。 def double yield * 2 end # do-end をブロック引数に指定する double do 1 + 2 + 3 + 4 + 5 + 6 end # =&#62; 42 #  [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/kazz/2022_08_30/121187" data-wpel-link="internal" target="_self">Ruby: map(&:upcase) の &:upcase って何</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【デザイン実績紹介】「超教科書」パンフレット 2022年版を制作しました]]></title>
-        <id>https://techracho.bpsinc.jp/sugimura/2022_08_30/120881</id>
-        <link href="https://techracho.bpsinc.jp/sugimura/2022_08_30/120881"/>
-        <updated>2022-08-30T08:30:04.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/edix2022_pamphlet-key-768x461.jpg" width="768" height="461" title="" alt="" /></div><div><p>弊社が開発したデジタル教科書ビューア「超教科書」の製品紹介パンフレットを制作いたしました。 2019年度に制作した「超教科書」パンフレットの2022年度更新版になります。 2019年度版はこちら デザインのポイント 新パンフレットではデザインを一新しました。 前回のデザイン制作時はまだ超教科書サービスが本格的な開始をする前だったため、サービスサイトやサービスのイメージカラーといったものが具体的にはありませんでした。 2021年度より「超教科書クラウド」サイトがサービスを開始したため、新パンフレットではそのサイトのブルーをテーマカラーに、明るい色みやイラストをアクセントとして取り入れています。 小中学校がメインのタ [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/sugimura/2022_08_30/120881" data-wpel-link="internal" target="_self">【デザイン実績紹介】「超教科書」パンフレット 2022年版を制作しました</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debianプロジェクト、ノンフリーファームウェアへの対応変更を審議中]]></title>
-        <id>https://gihyo.jp/article/2022/08/daily-linux-220830</id>
-        <link href="https://gihyo.jp/article/2022/08/daily-linux-220830?utm_source=feed"/>
-        <updated>2022-08-30T04:54:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、Debianプロジェクトはこの問題の一般的な解決（General Resolution）をはかるため、8月18日から9月3日かけて、ノンフリー（non-free）のファームウェアの扱いに関して議論を重ねており、最終的な決定へのプロセスを進行中だ。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debianプロジェクト、ノンフリーファームウェアへの対応変更を審議中]]></title>
-        <id>https://gihyo.jp/article/2022/08/daily-linux-220830</id>
-        <link href="https://gihyo.jp/article/2022/08/daily-linux-220830?utm_source=feed"/>
-        <updated>2022-08-30T04:54:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、Debianプロジェクトはこの問題の一般的な解決（General Resolution）をはかるため、8月18日から9月3日かけて、ノンフリー（non-free）のファームウェアの扱いに関して議論を重ねており、最終的な決定へのプロセスを進行中だ。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debianプロジェクト、ノンフリーファームウェアへの対応変更を審議中]]></title>
-        <id>https://gihyo.jp/article/2022/08/daily-linux-220830</id>
-        <link href="https://gihyo.jp/article/2022/08/daily-linux-220830?utm_source=feed"/>
-        <updated>2022-08-30T04:54:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、Debianプロジェクトはこの問題の一般的な解決（General Resolution）をはかるため、8月18日から9月3日かけて、ノンフリー（non-free）のファームウェアの扱いに関して議論を重ねており、最終的な決定へのプロセスを進行中だ。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Graviton2 ベースの Amazon EC2 C6gd インスタンス、南米 (サンパウロ) リージョンで提供開始]]></title>
-        <id>88245cec5a7bdaa3e5a0f9aafc18ecf8b23f5ad4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/"/>
-        <updated>2022-08-30T03:35:11.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon EC2 C6gd インスタンスが南米 (サンパウロ) リージョンで提供を開始しました。C6gd インスタンスは、ハイパフォーマンスコンピューティング (HPC)、バッチ処理、広告配信、動画エンコーディング、ゲーム、科学的モデリング、分散分析、CPU ベースの機械学習推論などのコンピューティング集約型ワークロードに最適です。これらのインスタンスで提供されるローカル SSD ストレージは、高速で低レイテンシーのストレージへのアクセスが必要なアプリケーション、バッチやログ処理などのデータの一時的なストレージ、および高速キャッシュとスクラッチファイルに役立ちます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Control Tower、ログ保持のカスタマイズが可能に]]></title>
-        <id>7420c708232e9456a51213d91dabcf70bcbe9902</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/"/>
-        <updated>2022-08-30T03:34:22.000Z</updated>
-        <summary type="html"><![CDATA[AWS Control Tower で、AWS Control Tower CloudTrail ログを保存する Amazon Simple Storage Service (Amazon S3) バケットの保持ポリシーをカスタマイズできるようになりました。AWS Control Tower は、ユーザー、ロール、AWS サービス等が行ったアクションを記録するときに AWS CloudTrail を使用します。これらのログは Amazon S3 バケットに保存されますが、このバケットはコアロギングアカウントに作成されます。Amazon S3 CloudTrail バケットには、ログを削除するまでの日数を指定する保持ポリシーがあります。ユーザーがログの保持ポリシーをカスタマイズしなかった場合、デフォルトの設定は、標準のアカウントログであれば 1 年、アクセスログであれば 10 年となります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon MemoryDB for Redis、HIPAA 適格に]]></title>
-        <id>d746be97a91d2048f542b5212ed0cb96a6d849af</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/"/>
-        <updated>2022-08-30T03:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon MemoryDB for Redis は、HIPAA (Health Insurance Portability and Accountability Act、医療保険の携行性と責任に関する法律) 適格のサービスとなりました。保護対象保健情報 (PHI) の保存、処理、アクセスに、MemoryDB をお使いいただけるようになり、ヘルスケアおよびライフサイエンス用アプリケーションの安全性を強化できるようになりました。MemoryDB は、低レイテンシー、高スループット、高耐久性をあらゆる規模で実現する、Redis との互換性をもつフルマネージドのインメモリデータベースです。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Site-to-Site VPN 接続ログが、Amazon CloudWatch を使って取得できるように]]></title>
-        <id>2b6a9739f3751c534fd7c4383b208f6915b235b4</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/"/>
-        <updated>2022-08-30T03:31:56.000Z</updated>
-        <summary type="html"><![CDATA[本日より、AWS Site-to-Site VPN で、VPN 接続ログを CloudWatch にパブリッシュできるようになりました。これにより VPN セットアップの可視性が高まり、VPN 接続の問題にすばやく対応し、解決することが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Chime SDK、C++ のシグナリングクライアントをサポート]]></title>
-        <id>72b12a089eee32ea1cc6eae4b7a69f3fe9060c51</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/"/>
-        <updated>2022-08-30T03:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Chime SDK が、C++ によるオープンソースのシグナリングクライアント実装の接続に対応しました。Amazon Chime SDK を使用すれば、デベロッパーは、インテリジェントなリアルタイムの音声、映像、画面共有を、ウェブおよびモバイルアプリケーションに追加できます。WebRTC はビデオ会議アプリケーション用の共通ライブラリです。Amazon Chime SDK は、WebRTC ベースのメディアクライアントを JavaScript、iOS、Android で提供します。ただしお客様の中には、ご自身のカスタムの WebRTC ライブラリを使って、サーバーサイドを Amazon Chime SDK に接続したいと考える方もいます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のモダンCSS  ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc005-modern_css</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc005-modern_css?utm_source=feed"/>
-        <updated>2022-08-30T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「2022年のモダンCSS（鹿野 壮） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のモダンCSS  ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc005-modern_css</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc005-modern_css?utm_source=feed"/>
-        <updated>2022-08-30T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「2022年のモダンCSS（鹿野 壮） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年のモダンCSS  ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/08/tfc005-modern_css</id>
-        <link href="https://gihyo.jp/article/2022/08/tfc005-modern_css?utm_source=feed"/>
-        <updated>2022-08-30T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「2022年のモダンCSS（鹿野 壮） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第5回　サーバを冷やす]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-05</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-05?utm_source=feed"/>
-        <updated>2022-08-30T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、日進月歩で進むサーバの高集積化と熱問題の今を取り上げます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第5回　サーバを冷やす]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-05</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-05?utm_source=feed"/>
-        <updated>2022-08-30T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、日進月歩で進むサーバの高集積化と熱問題の今を取り上げます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第5回　サーバを冷やす]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-05</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-05?utm_source=feed"/>
-        <updated>2022-08-30T00:12:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、日進月歩で進むサーバの高集積化と熱問題の今を取り上げます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
         </author>
     </entry>
     <entry>

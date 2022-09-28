@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "e40297c9e51969eeb290d8c2268eddb16ac92302",
+          "author": "aws@amazon.com",
+          "description": "AWS Outposts ラックのダイレクト VPC ルーティングにより、Outposts ラック上の Amazon EC2 インスタンスの VPC プライベート IP アドレスを直接使用してお客様のオンプレミスネットワークと通信できるようになりました。この新しいダイレクト VPC ルーティングモードは、お客様のオンプレミスネットワークから提供された別の IP アドレスプールを Outposts ラックが使用する CoIP (お客様所有の IP) ルーティングモードの代わりとしてご利用いただけます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/direct-vpc-routing-aws-outposts-rack/",
+          "publishedOn": "2022-09-28T10:33:57.000Z",
+          "wordCount": 355,
+          "title": "AWS Outposts ラックのダイレクト VPC ルーティングが利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "0c6ab7f8150177bf5c0fb326ada9ac2f9067edfc",
           "author": "aws@amazon.com",
           "description": "Amazon FSx for Windows File Server は Windows Server に構築されたフルマネージド型ファイルストレージを提供するサービスです。今回、ファイルシステムのアクティビティの可視性を向上させる追加のパフォーマンスメトリクスと、パフォーマンスのインサイトとレコメンデーションを表示する拡張モニタリングダッシュボードが提供されるようになりました。 新しいメトリクスとダッシュボードを使用すると、ファイルシステムを適切なサイズに調整し、パフォーマンスとコストを最適化できます。",
@@ -1434,56 +1444,6 @@
           "wordCount": 314,
           "title": "Smithy インターフェイス定義言語 (IDL) 2.0、一般提供を開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "88245cec5a7bdaa3e5a0f9aafc18ecf8b23f5ad4",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon EC2 C6gd インスタンスが南米 (サンパウロ) リージョンで提供を開始しました。C6gd インスタンスは、ハイパフォーマンスコンピューティング (HPC)、バッチ処理、広告配信、動画エンコーディング、ゲーム、科学的モデリング、分散分析、CPU ベースの機械学習推論などのコンピューティング集約型ワークロードに最適です。これらのインスタンスで提供されるローカル SSD ストレージは、高速で低レイテンシーのストレージへのアクセスが必要なアプリケーション、バッチやログ処理などのデータの一時的なストレージ、および高速キャッシュとスクラッチファイルに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/",
-          "publishedOn": "2022-08-30T03:35:11.000Z",
-          "wordCount": 390,
-          "title": "AWS Graviton2 ベースの Amazon EC2 C6gd インスタンス、南米 (サンパウロ) リージョンで提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7420c708232e9456a51213d91dabcf70bcbe9902",
-          "author": "aws@amazon.com",
-          "description": "AWS Control Tower で、AWS Control Tower CloudTrail ログを保存する Amazon Simple Storage Service (Amazon S3) バケットの保持ポリシーをカスタマイズできるようになりました。AWS Control Tower は、ユーザー、ロール、AWS サービス等が行ったアクションを記録するときに AWS CloudTrail を使用します。これらのログは Amazon S3 バケットに保存されますが、このバケットはコアロギングアカウントに作成されます。Amazon S3 CloudTrail バケットには、ログを削除するまでの日数を指定する保持ポリシーがあります。ユーザーがログの保持ポリシーをカスタマイズしなかった場合、デフォルトの設定は、標準のアカウントログであれば 1 年、アクセスログであれば 10 年となります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/",
-          "publishedOn": "2022-08-30T03:34:22.000Z",
-          "wordCount": 348,
-          "title": "AWS Control Tower、ログ保持のカスタマイズが可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d746be97a91d2048f542b5212ed0cb96a6d849af",
-          "author": "aws@amazon.com",
-          "description": "Amazon MemoryDB for Redis は、HIPAA (Health Insurance Portability and Accountability Act、医療保険の携行性と責任に関する法律) 適格のサービスとなりました。保護対象保健情報 (PHI) の保存、処理、アクセスに、MemoryDB をお使いいただけるようになり、ヘルスケアおよびライフサイエンス用アプリケーションの安全性を強化できるようになりました。MemoryDB は、低レイテンシー、高スループット、高耐久性をあらゆる規模で実現する、Redis との互換性をもつフルマネージドのインメモリデータベースです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/",
-          "publishedOn": "2022-08-30T03:33:16.000Z",
-          "wordCount": 307,
-          "title": "Amazon MemoryDB for Redis、HIPAA 適格に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2b6a9739f3751c534fd7c4383b208f6915b235b4",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Site-to-Site VPN で、VPN 接続ログを CloudWatch にパブリッシュできるようになりました。これにより VPN セットアップの可視性が高まり、VPN 接続の問題にすばやく対応し、解決することが可能になります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/",
-          "publishedOn": "2022-08-30T03:31:56.000Z",
-          "wordCount": 322,
-          "title": "AWS Site-to-Site VPN 接続ログが、Amazon CloudWatch を使って取得できるように",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "72b12a089eee32ea1cc6eae4b7a69f3fe9060c51",
-          "author": "aws@amazon.com",
-          "description": "Amazon Chime SDK が、C++ によるオープンソースのシグナリングクライアント実装の接続に対応しました。Amazon Chime SDK を使用すれば、デベロッパーは、インテリジェントなリアルタイムの音声、映像、画面共有を、ウェブおよびモバイルアプリケーションに追加できます。WebRTC はビデオ会議アプリケーション用の共通ライブラリです。Amazon Chime SDK は、WebRTC ベースのメディアクライアントを JavaScript、iOS、Android で提供します。ただしお客様の中には、ご自身のカスタムの WebRTC ライブラリを使って、サーバーサイドを Amazon Chime SDK に接続したいと考える方もいます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/",
-          "publishedOn": "2022-08-30T03:31:06.000Z",
-          "wordCount": 341,
-          "title": "Amazon Chime SDK、C++ のシグナリングクライアントをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2753,36 +2713,6 @@
           "wordCount": 276,
           "title": "これまでとこれからのGo",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1936-go_2.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220830",
-          "author": null,
-          "description": "現在、Debianプロジェクトはこの問題の一般的な解決（General Resolution）をはかるため、8月18日から9月3日かけて、ノンフリー（non-free）のファームウェアの扱いに関して議論を重ねており、最終的な決定へのプロセスを進行中だ。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220830?utm_source=feed",
-          "publishedOn": "2022-08-30T04:54:00.000Z",
-          "wordCount": 154,
-          "title": "Debianプロジェクト、ノンフリーファームウェアへの対応変更を審議中",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc005-modern_css",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「2022年のモダンCSS（鹿野 壮） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc005-modern_css?utm_source=feed",
-          "publishedOn": "2022-08-30T02:25:00.000Z",
-          "wordCount": 251,
-          "title": "2022年のモダンCSS  ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1937_techfeed_modern_css.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-05",
-          "author": null,
-          "description": "今回は、日進月歩で進むサーバの高集積化と熱問題の今を取り上げます。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-05?utm_source=feed",
-          "publishedOn": "2022-08-30T00:12:00.000Z",
-          "wordCount": 181,
-          "title": "第5回　サーバを冷やす",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/05/ifr-5-01.png"
         }
       ]
     },
@@ -3619,36 +3549,6 @@
           "publishedOn": "2022-08-30T10:40:00.000Z",
           "wordCount": null,
           "title": "これまでとこれからのGo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220830",
-          "author": null,
-          "description": "現在、Debianプロジェクトはこの問題の一般的な解決（General Resolution）をはかるため、8月18日から9月3日かけて、ノンフリー（non-free）のファームウェアの扱いに関して議論を重ねており、最終的な決定へのプロセスを進行中だ。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220830?utm_source=feed",
-          "publishedOn": "2022-08-30T04:54:00.000Z",
-          "wordCount": 154,
-          "title": "Debianプロジェクト、ノンフリーファームウェアへの対応変更を審議中",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc005-modern_css",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「2022年のモダンCSS（鹿野 壮） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc005-modern_css?utm_source=feed",
-          "publishedOn": "2022-08-30T02:25:00.000Z",
-          "wordCount": 251,
-          "title": "2022年のモダンCSS  ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1937_techfeed_modern_css.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-05",
-          "author": null,
-          "description": "今回は、日進月歩で進むサーバの高集積化と熱問題の今を取り上げます。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-05?utm_source=feed",
-          "publishedOn": "2022-08-30T00:12:00.000Z",
-          "wordCount": null,
-          "title": "第5回　サーバを冷やす",
           "imageUrl": null
         }
       ]
@@ -4487,36 +4387,6 @@
           "wordCount": null,
           "title": "これまでとこれからのGo",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/daily-linux-220830",
-          "author": null,
-          "description": "現在、Debianプロジェクトはこの問題の一般的な解決（General Resolution）をはかるため、8月18日から9月3日かけて、ノンフリー（non-free）のファームウェアの扱いに関して議論を重ねており、最終的な決定へのプロセスを進行中だ。",
-          "link": "https://gihyo.jp/article/2022/08/daily-linux-220830?utm_source=feed",
-          "publishedOn": "2022-08-30T04:54:00.000Z",
-          "wordCount": null,
-          "title": "Debianプロジェクト、ノンフリーファームウェアへの対応変更を審議中",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/tfc005-modern_css",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「2022年のモダンCSS（鹿野 壮） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/08/tfc005-modern_css?utm_source=feed",
-          "publishedOn": "2022-08-30T02:25:00.000Z",
-          "wordCount": 251,
-          "title": "2022年のモダンCSS  ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1937_techfeed_modern_css.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-05",
-          "author": null,
-          "description": "今回は、日進月歩で進むサーバの高集積化と熱問題の今を取り上げます。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-05?utm_source=feed",
-          "publishedOn": "2022-08-30T00:12:00.000Z",
-          "wordCount": 181,
-          "title": "第5回　サーバを冷やす",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/05/ifr-5-01.png"
         }
       ]
     },
@@ -4836,46 +4706,6 @@
           "wordCount": 423,
           "title": "FY2022 会社概況",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/business_briefing_fy2022_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_08_30/121238",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220830_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_08_30/121238\" data-wpel-link=\"internal\" target=\"_self\">週刊Railsウォッチ: RubyKaigi 2022タイムテーブル公開、viewport-extraほか（20220830後編）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_08_30/121238",
-          "publishedOn": "2022-08-30T09:33:36.000Z",
-          "wordCount": 1043,
-          "title": "週刊Railsウォッチ: RubyKaigi 2022タイムテーブル公開、viewport-extraほか（20220830後編）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/railswatch_20220830_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/swiftui_techracho_feed_reader_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>はじめに WWDC2019で発表以来すでに4年目となりますが、みなさんはSwiftUIを弄ってみたり導入してみたりした経験はありますでしょうか? 私は発表以来様子見をしておりました。というのも発表当初は、当時の最新OSであるiOS13でしか使うことができず、サポートバージョンの範囲の狭さから、数年はプロジェクトで導入は難しいだろうなと決め込んでいました。また、2年ほど前から社内でクロスプラットフォーム開発の波がきており、Flutterでの開発が盛んになる一方、Swiftを使ってネイティブで開発することがあまりなくなってしまいました。結果的にSwiftUIを触るモチベーションがあまり湧きませんでした。 しかし、既に [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927\" data-wpel-link=\"internal\" target=\"_self\">SwiftUIの勉強にTechRacho Feed Readerを作ってみた</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/yoshi-k/2022_08_30/120927",
-          "publishedOn": "2022-08-30T08:30:34.000Z",
-          "wordCount": 1193,
-          "title": "SwiftUIの勉強にTechRacho Feed Readerを作ってみた",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/swiftui_techracho_feed_reader_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/kazz/2022_08_30/121187",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_explaining_to_proc_symbol_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>こんにちは。kazzです。 以下のような実装を見かけたり、実際に使っているという方が多いのではないでしょうか。 %w[a b c].map(&#38;:upcase) #=&#62; ['A', 'B', 'C'] 本日は、この実装がなぜ動くのかの秘密に迫りたいと思います。 メソッドにブロックを渡す ブロック引数 rubyの任意のメソッドはブロックを受け取ることができ、yield でメソッドに与えられたブロックを実行します。 def double yield * 2 end # do-end をブロック引数に指定する double do 1 + 2 + 3 + 4 + 5 + 6 end # =&#62; 42 #  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/kazz/2022_08_30/121187\" data-wpel-link=\"internal\" target=\"_self\">Ruby: map(&:upcase) の &:upcase って何</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/kazz/2022_08_30/121187",
-          "publishedOn": "2022-08-30T08:30:31.000Z",
-          "wordCount": 710,
-          "title": "Ruby: map(&#038;:upcase) の &#038;:upcase って何",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_explaining_to_proc_symbol_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/sugimura/2022_08_30/120881",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/edix2022_pamphlet-key-768x461.jpg\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>弊社が開発したデジタル教科書ビューア「超教科書」の製品紹介パンフレットを制作いたしました。 2019年度に制作した「超教科書」パンフレットの2022年度更新版になります。 2019年度版はこちら デザインのポイント 新パンフレットではデザインを一新しました。 前回のデザイン制作時はまだ超教科書サービスが本格的な開始をする前だったため、サービスサイトやサービスのイメージカラーといったものが具体的にはありませんでした。 2021年度より「超教科書クラウド」サイトがサービスを開始したため、新パンフレットではそのサイトのブルーをテーマカラーに、明るい色みやイラストをアクセントとして取り入れています。 小中学校がメインのタ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/sugimura/2022_08_30/120881\" data-wpel-link=\"internal\" target=\"_self\">【デザイン実績紹介】「超教科書」パンフレット 2022年版を制作しました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/sugimura/2022_08_30/120881",
-          "publishedOn": "2022-08-30T08:30:04.000Z",
-          "wordCount": 390,
-          "title": "【デザイン実績紹介】「超教科書」パンフレット 2022年版を制作しました",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/edix2022_pamphlet-key.jpg"
         }
       ]
     },
@@ -4884,6 +4714,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/cloudflare_workersjavascriptwasmworkerdnanoserviceshomogeneous_deployment.html",
+          "author": null,
+          "description": "Cloudflareは、同社のCDNエッジでJavaScript/WebAssemblyを実行するサービス「Cloudflare Workers」のコアランタイム部分を「workerd」（読み方はワーカーディー：worker- dee）とし...",
+          "link": "https://www.publickey1.jp/blog/22/cloudflare_workersjavascriptwasmworkerdnanoserviceshomogeneous_deployment.html",
+          "publishedOn": "2022-09-28T17:18:02.000Z",
+          "wordCount": 1391,
+          "title": "Cloudflare WorkersのJavaScript/WASMランタイム「workerd」がオープンソースで公開。NanoservicesやHomogeneous deploymentなど新技術を実装",
+          "imageUrl": "https://www.publickey1.jp/2022/hd6eUopk.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundationcncf.html",
+          "author": null,
+          "description": "Istioの開発チームとCloud Native Computing Foundation（CNCF）は、IstioがCNCFのインキュベーションプロジェクトとして正式に採択されたことを発表しました。 Welcome @IstioMesh ...",
+          "link": "https://www.publickey1.jp/blog/22/istiocloud_native_computing_foundationcncf.html",
+          "publishedOn": "2022-09-28T16:36:30.000Z",
+          "wordCount": 1241,
+          "title": "Istio、Cloud Native Computing Foundationの正式なプロジェクトとして採択されたと発表。これでクラウドネイティブの基盤ソフトウェアはほぼ全てCNCF傘下に",
+          "imageUrl": "https://www.publickey1.jp/2022/Fdu1JMzXoAABaNj.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/sre_2022_1.html",
           "author": null,
@@ -5491,6 +5341,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=283994",
+          "author": "Rhiannon Williams",
+          "description": "「ゲームは有害」との懸念には十分なエビデンスがないにもかかわらず、保健当局や政府の政策に影響を与えてきた。ゲームメーカーから提供されたプレイ時間データに基づく調査は、新しい手がかりを得るのに役立つかもしれない。",
+          "link": "https://www.technologyreview.jp/s/283994/we-may-never-fully-know-how-video-games-affect-our-well-being/",
+          "publishedOn": "2022-09-28T21:55:01.000Z",
+          "wordCount": 1362,
+          "title": "ゲームのやりすぎは悪か？ オックスフォード大調査の意外な結果",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/20201504/GettyImages-184796942-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/09/28/287008/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/29/287008/",
+          "publishedOn": "2022-09-28T21:22:31.000Z",
+          "wordCount": 646,
+          "title": "九大、超伝導量子コンのエラーの原因となる新種のノイズを観測",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/09/28/287005/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/29/287005/",
+          "publishedOn": "2022-09-28T21:15:58.000Z",
+          "wordCount": 645,
+          "title": "東芝、透過型Cu2O太陽電池の発電効率の世界記録を更新",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=286730",
           "author": "MIT Technology Review Audio Studio",
