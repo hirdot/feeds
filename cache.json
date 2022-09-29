@@ -6,6 +6,126 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "f034c44ba3274cc32304385764e51c83d6829184",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR Studio は、R、Python、Scala、PySpark で記述されたビッグデータおよび分析アプリケーションを、データサイエンティストやデータエンジニアが簡単に開発、視覚化、デバッグできるようにした統合開発環境 (IDE) です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-emr-studio-available-china-regions/",
+          "publishedOn": "2022-09-29T17:03:52.000Z",
+          "wordCount": 340,
+          "title": "Amazon EMR Studio がアマゾン ウェブ サービス中国リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7182acd5d9d8753bf45ffea8808d7dfbfc270017",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise は、アセットレベルでのアセット測定単位の定義をサポートするようになりました。これにより、お客様は異なる単位で測定値を報告するマシンに、単一のアセットモデルを使用できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-sitewise-supports-definition-asset-measurement-units-asset-level/",
+          "publishedOn": "2022-09-29T17:03:04.000Z",
+          "wordCount": 299,
+          "title": "AWS IoT SiteWise がアセットレベルでのアセット測定単位の定義のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1e9091a536500d389bcd55d8ceeafbedd75e4be6",
+          "author": "aws@amazon.com",
+          "description": "AWS Elastic Disaster Recovery (AWS DRS) がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-elastic-disaster-recovery-available-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-09-29T17:02:15.000Z",
+          "wordCount": 360,
+          "title": "AWS Elastic Disaster Recovery が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6a62e71b84296a0a9719dc3b3cd058e4fb013078",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS DataSync Discovery のパブリックプレビューを発表します。DataSync Discovery を使用すると、オンプレミスのストレージパフォーマンスと使用状況が可視化され、AWS へのデータ移行の簡素化および加速に役立つ、自動レコメンデーションを受け取ります。AWS DataSync のこの新機能により、自動化されたデータ収集と分析を通じてオンプレミスのストレージの使用状況をより把握し、移行するデータをすばやく特定し、Amazon FSx for NetApp ONTAP、Amazon FSx for Windows File Server、Amazon Elastic File System (EFS) など、データに推奨される AWS ストレージサービスを検討できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/preview-aws-datasync-discovery/",
+          "publishedOn": "2022-09-29T17:01:26.000Z",
+          "wordCount": 346,
+          "title": "AWS DataSync Discovery のプレビューを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4a7d199b4d09755973e2a09c76bce5071ebc45fc",
+          "author": "aws@amazon.com",
+          "description": "Amazon Comprehend をご利用のお客様は、新しくリリースされた同期 API を使用して、テキストドキュメントからエンティティに関連したセンチメントをリアルタイムで抽出できるようになりました。Targeted Sentiment 同期 API により、お客様はバッチ処理を待たずに、ブランドや製品などの特定の関心のあるエンティティに関連した詳細なセンチメントを検出できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-comprehend-supports-synchronous-processing-targeted-sentiment/",
+          "publishedOn": "2022-09-29T16:48:30.000Z",
+          "wordCount": 303,
+          "title": "AWS Comprehend が、的を絞ったセンチメントの同期処理のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "694f54cb5875937fb79967e2ec4fe87366e0c192",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch Evidently に、AWS AppConfig を利用した、AWS Lambda 向けの Client Side Evaluations (CSE) のサポートが追加されます。Evidently は、お客様が自社のアプリケーションコードに実験やローンチを簡単に導入できるようにする、アプリケーションパフォーマンスモニタリング (APM) 機能です。Evidently CSE は、AppConfig の拡張機能を利用して、アプリケーションデベロッパーが Lambda 関数内から 1 桁台のミリ秒単位で機能評価を実施することを可能にします。AWS Systems Manager の一機能である AWS AppConfig は、機能フラグを作成、検証、デプロイし、アプリケーションの動作をより安全で迅速に更新します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-cloudwatch-evidently-client-side-evaluations-aws-lambda-aws-appconfig/",
+          "publishedOn": "2022-09-29T16:01:04.000Z",
+          "wordCount": 343,
+          "title": "Amazon CloudWatch Evidently に AWS Lambda 向けの Client Side Evaluations (CSE) のサポートが追加 (AWS AppConfig を利用)",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5d27d08519ebcd7bda5216befc6800550858a26a",
+          "author": "aws@amazon.com",
+          "description": "AWS Outposts ラックがカザフスタンとセルビアで出荷可能となり、データセンターおよびオンプレミス環境に設置できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/",
+          "publishedOn": "2022-09-29T15:47:05.000Z",
+          "wordCount": 305,
+          "title": "カザフスタンとセルビアで AWS Outposts ラックが利用可能になったことを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "176ad7bfc853371bdf1471305bf8fe21a021a883",
+          "author": "aws@amazon.com",
+          "description": "Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。お客様のフィードバックをもとに、基盤となる機械学習モデルを継続的に改善することで、さらに高い精度を実現します。本日、DetectDocumentText API 経由で利用できるテキスト抽出機能の品質を強化したことを発表いたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-textract-updates-text-extraction-feature/",
+          "publishedOn": "2022-09-29T15:46:15.000Z",
+          "wordCount": 312,
+          "title": "Amazon Textract がテキスト抽出機能のアップデートを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d3db00fe4630057da4831483106ec981deccf2a9",
+          "author": "aws@amazon.com",
+          "description": "Amazon EBS Snapshots では、デフォルトで Snapshots Archive 階層に同時にアーカイブできるスナップショットの数を 5 から 25 に引き上げました。このデフォルト制限の引き上げにより、スナップショットを Snapshot Archive 階層に大規模に移動しやすくなりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-ebs-snapshots-increases-limit-in-progress-snapshot-archive-25-region/",
+          "publishedOn": "2022-09-29T15:02:04.000Z",
+          "wordCount": 337,
+          "title": "Amazon EBS Snapshots、進行中の EBS スナップショットアーカイブに対するアカウントごとのデフォルト制限を 1 リージョンあたり 25 に引き上げ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a4894e751a95aad922115e22357585b3304017c1",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation では、Amazon EventBridge のイベント通知が利用できるリージョンを AWS アジアパシフィック (ジャカルタ) にまで拡大しました。これらのイベント通知を使用して、疎結合のイベント駆動型アプリケーションを構築およびスケールできます。CloudFormation スタック、またはスタック内のリソースが作成、更新、または削除された時点でアクションをリアルタイムでトリガーできます。使い捨てのカスタムコードを記述したり、新しいソフトウェアを開発したりする必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/",
+          "publishedOn": "2022-09-29T15:01:15.000Z",
+          "wordCount": 333,
+          "title": "AWS CloudFormation イベント通知が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "da949bdb2a0a44a1d0c334005538f548aee8f6f6",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は、DNS リソースレコードセットに対するアクセス許可を導入しました。これにより、Route 53 のパブリックまたはプライベートなホストゾーン内にある個々の DNS レコード、または DNS レコードのグループに対して、AWS Identity and Access Management (IAM) の作成、編集、削除ポリシーを定義できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/",
+          "publishedOn": "2022-09-29T14:33:03.000Z",
+          "wordCount": 311,
+          "title": "Amazon Route 53 が DNS リソースレコードセットに対するアクセス許可をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "4a116df0ee3a47e357944dbce6158266edf53bf5",
+          "author": "aws@amazon.com",
+          "description": "AWS Health Dashboard において、Service Health イベントを現地の時間および日付で表示できるようになりました。AWS Health Dashboard では、一か所で関連する情報を適切なタイミングで入手でき、進行中のイベントへの対処や計画中のアクティビティの準備に役立ちます。また、アカウントやサービスについての情報の把握にも役立ちます。この機能は、好きなタイムゾーンを選択することによって、メッセージに表示されるタイムスタンプや AWS Dashboard に表示される Service Health イベントのメタデータをローカライズしたいお客様を対象としています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-health-dashboard-displays-localized-dates-times-service-health-events/",
+          "publishedOn": "2022-09-29T14:32:15.000Z",
+          "wordCount": 308,
+          "title": "AWS Health Dashboard で Service Health イベントの日付と時刻のローカライズ表示が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "a6b668fd0b4ccc7ed1a0c91a5ec68524f49cbf6d",
           "author": "aws@amazon.com",
           "description": "臨場感あふれるオーディオと高ダイナミックレンジ (HDR) 動画のエクスペリエンスを提供している場合、AWS Elemental MediaLive を使用してご自分のチャンネルで、ドルビーアトモスとドルビービジョンをエンコードできます。",
@@ -1868,16 +1988,6 @@
           "wordCount": 3620,
           "title": "町工場のリーダー的存在「浜野製作所」の動きからヒントを探る –混沌とした時代、ものづくりはどう変わっていくのか（前編）",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/td_220819_b_0.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45283",
-          "author": "tadokoroyusuke",
-          "description": "沖縄が本土復帰50周年を迎えた2022年。沖縄本島中部の沖縄市で商店街を活用した新たな取り組みが始まった。商店街とコミュニティを一体化させたプロジェクト『コザスタートアップ商店街』である。一番街という商店街の地域資源を生 […]",
-          "link": "https://data.wingarc.com/localdxlab-47-okinawa-45283?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-47-okinawa",
-          "publishedOn": "2022-08-31T01:30:38.000Z",
-          "wordCount": 3676,
-          "title": "３年で沖縄コザの商店街をスタートアップの「ゆりがご」へ 豊里健一郎氏の３年間と次の10年に見据えること",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/td_220816_a_0.jpg"
         }
       ]
     },
@@ -2733,46 +2843,6 @@
           "wordCount": null,
           "title": "Fitbitから新スマートウォッチ「Sense 2」と「Versa 4」発表",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0729",
-          "author": null,
-          "description": "Microsoftが提供するクロスプラットフォームな開発フレームワークである「.NET」のUbuntu向けパッケージが公式リポジトリからも提供されることになりました。今回はこれを用いてC#でWindows向けのプログラムを作ってみましょう。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0729?utm_source=feed",
-          "publishedOn": "2022-08-31T00:26:00.000Z",
-          "wordCount": null,
-          "title": "第729回　Ubuntuリポジトリに取り込まれたパッケージ版.NETで、UbuntuでもC#プログラミングを始めよう！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/kubernetes-cloudnative-topics-01",
-          "author": null,
-          "description": "KubernetesやCloudNative関連の注目している技術や実際に利用しているプロダクトについて紹介していきます。第1回目は、2022年初の新春企画で取り上げたeBPF関連のプロダクトでもあるTetragonについて紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/kubernetes-cloudnative-topics-01?utm_source=feed",
-          "publishedOn": "2022-08-31T00:15:00.000Z",
-          "wordCount": null,
-          "title": "Cilium Projectから公開！ eBPFを用いてセキュリティの可観測性をもたらすTetragon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-06",
-          "author": null,
-          "description": "今回は、普段あまり触れることがない「HPC（High Performance Computing）」の今を解説します。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-06?utm_source=feed",
-          "publishedOn": "2022-08-31T00:14:00.000Z",
-          "wordCount": null,
-          "title": "第6回　HPCの見える化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0043",
-          "author": null,
-          "description": "「風が吹けば桶屋が儲かる」は江戸時代から伝わる言い回しで、一見、何の関係も無さそうなところにまで影響が及ぶ事例や、そのために使われる無理なこじつけを批判するような場面で使います。最近、これに類したトラブルを経験したので紹介してみましょう。",
-          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0043?utm_source=feed",
-          "publishedOn": "2022-08-31T00:13:00.000Z",
-          "wordCount": null,
-          "title": "第43回　風が吹けば桶屋が儲かる？",
-          "imageUrl": null
         }
       ]
     },
@@ -3610,46 +3680,6 @@
           "wordCount": 218,
           "title": "Fitbitから新スマートウォッチ「Sense 2」と「Versa 4」発表",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0729",
-          "author": null,
-          "description": "Microsoftが提供するクロスプラットフォームな開発フレームワークである「.NET」のUbuntu向けパッケージが公式リポジトリからも提供されることになりました。今回はこれを用いてC#でWindows向けのプログラムを作ってみましょう。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0729?utm_source=feed",
-          "publishedOn": "2022-08-31T00:26:00.000Z",
-          "wordCount": 973,
-          "title": "第729回　Ubuntuリポジトリに取り込まれたパッケージ版.NETで、UbuntuでもC#プログラミングを始めよう！",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1902_ubuntu-recipe.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/kubernetes-cloudnative-topics-01",
-          "author": null,
-          "description": "KubernetesやCloudNative関連の注目している技術や実際に利用しているプロダクトについて紹介していきます。第1回目は、2022年初の新春企画で取り上げたeBPF関連のプロダクトでもあるTetragonについて紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/kubernetes-cloudnative-topics-01?utm_source=feed",
-          "publishedOn": "2022-08-31T00:15:00.000Z",
-          "wordCount": 414,
-          "title": "Cilium Projectから公開！ eBPFを用いてセキュリティの可観測性をもたらすTetragon",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/kubernetes-cloudnative-topics-01/image3.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-06",
-          "author": null,
-          "description": "今回は、普段あまり触れることがない「HPC（High Performance Computing）」の今を解説します。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-06?utm_source=feed",
-          "publishedOn": "2022-08-31T00:14:00.000Z",
-          "wordCount": 182,
-          "title": "第6回　HPCの見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/06/ifr-6-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0043",
-          "author": null,
-          "description": "「風が吹けば桶屋が儲かる」は江戸時代から伝わる言い回しで、一見、何の関係も無さそうなところにまで影響が及ぶ事例や、そのために使われる無理なこじつけを批判するような場面で使います。最近、これに類したトラブルを経験したので紹介してみましょう。",
-          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0043?utm_source=feed",
-          "publishedOn": "2022-08-31T00:13:00.000Z",
-          "wordCount": 401,
-          "title": "第43回　風が吹けば桶屋が儲かる？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
         }
       ]
     },
@@ -4487,46 +4517,6 @@
           "wordCount": null,
           "title": "Fitbitから新スマートウォッチ「Sense 2」と「Versa 4」発表",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0729",
-          "author": null,
-          "description": "Microsoftが提供するクロスプラットフォームな開発フレームワークである「.NET」のUbuntu向けパッケージが公式リポジトリからも提供されることになりました。今回はこれを用いてC#でWindows向けのプログラムを作ってみましょう。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0729?utm_source=feed",
-          "publishedOn": "2022-08-31T00:26:00.000Z",
-          "wordCount": 973,
-          "title": "第729回　Ubuntuリポジトリに取り込まれたパッケージ版.NETで、UbuntuでもC#プログラミングを始めよう！",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1902_ubuntu-recipe.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/kubernetes-cloudnative-topics-01",
-          "author": null,
-          "description": "KubernetesやCloudNative関連の注目している技術や実際に利用しているプロダクトについて紹介していきます。第1回目は、2022年初の新春企画で取り上げたeBPF関連のプロダクトでもあるTetragonについて紹介します。",
-          "link": "https://gihyo.jp/article/2022/08/kubernetes-cloudnative-topics-01?utm_source=feed",
-          "publishedOn": "2022-08-31T00:15:00.000Z",
-          "wordCount": null,
-          "title": "Cilium Projectから公開！ eBPFを用いてセキュリティの可観測性をもたらすTetragon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-06",
-          "author": null,
-          "description": "今回は、普段あまり触れることがない「HPC（High Performance Computing）」の今を解説します。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-06?utm_source=feed",
-          "publishedOn": "2022-08-31T00:14:00.000Z",
-          "wordCount": 182,
-          "title": "第6回　HPCの見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/06/ifr-6-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0043",
-          "author": null,
-          "description": "「風が吹けば桶屋が儲かる」は江戸時代から伝わる言い回しで、一見、何の関係も無さそうなところにまで影響が及ぶ事例や、そのために使われる無理なこじつけを批判するような場面で使います。最近、これに類したトラブルを経験したので紹介してみましょう。",
-          "link": "https://gihyo.jp/article/2022/08/ganshiki-soushi2-0043?utm_source=feed",
-          "publishedOn": "2022-08-31T00:13:00.000Z",
-          "wordCount": 401,
-          "title": "第43回　風が吹けば桶屋が儲かる？",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1900_zgan_new.png"
         }
       ]
     },
@@ -4552,18 +4542,7 @@
       "title": "小川 伸一郎｜「マネジメントしたくない」から一転、CTOというキャリアを選択した小川氏が語る、i-plugで実現したい未来とは？ | 国内唯一のCTO/VPoE育成・転職支援サービス「OCTOPASS（オクトパス）」",
       "feedUrl": "https://octopass.jp/feed/",
       "siteUrl": "https://octopass.jp",
-      "articles": [
-        {
-          "id": "https://octopass.jp/?p=4664",
-          "author": "OCTOPASS",
-          "description": "株式会社i-plugについて 当社は、「つながりで世界をワクワクさせる　次世代を担う若い人材の可能性を拡げる仕組みをつくる」をミッションに掲げ、学生と企業をつなげる新卒ダイレクトリクルーティングサービス「OfferBox […]",
-          "link": "https://octopass.jp/4664/",
-          "publishedOn": "2022-08-31T02:00:00.000Z",
-          "wordCount": 298,
-          "title": "「マネジメントしたくない」から一転、CTOというキャリアを選択した小川氏が語る、i-plugで実現したい未来とは？",
-          "imageUrl": "https://octopass.jp/cms/wp-content/uploads/2022/08/image6.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ruby on Rails",
@@ -4856,16 +4835,6 @@
           "wordCount": 809,
           "title": "Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/piichan1031/2022_08_31/121345",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/business_briefing_fy2022_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>採用方針、リモートワーク状況と今後の扱いについて BPS渡辺です。最後に会社の概況や採用事情について記事にしたのが2年前ということで、アプデします。前回書いた内容の範囲では、変化らしい変化はありません。一応ざっと要約します。 コロナ禍でも採用継続中です。募集職種や役割やチームについては後述します。 コロナ以降もリモートワークは継続できます。皆ハッピーになる合理的な選択をしてください。 現在出社率は1割。会社の近くに住んでいる人が毎日来てくれて、週2の人が数名いて、殆どフルリモートです。 出社もフルリモートも余程の理由がないかぎりは選択自由です。入社直後からリモートも事例が増えてきました。 2020年度の記事： W [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/piichan1031/2022_08_31/121345\" data-wpel-link=\"internal\" target=\"_self\">FY2022 会社概況</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/piichan1031/2022_08_31/121345",
-          "publishedOn": "2022-08-31T08:30:33.000Z",
-          "wordCount": 423,
-          "title": "FY2022 会社概況",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/business_briefing_fy2022_eyecatch-min.png"
         }
       ]
     },
@@ -4874,6 +4843,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_cloud_functionscloud_runstartup_cpu_boost.html",
+          "author": null,
+          "description": "Google Cloudは、Cloud FunctionsやCloud Runにおけるコールドスタートで時間がかかる起動時間を短縮する「startup CPU boost」を発表しました。 Cloud RunやCloud Functions...",
+          "link": "https://www.publickey1.jp/blog/22/google_cloud_functionscloud_runstartup_cpu_boost.html",
+          "publishedOn": "2022-09-29T17:00:50.000Z",
+          "wordCount": 1257,
+          "title": "Google Cloud FunctionsやCloud Runのコールドスタートを高速化する「startup CPU boost」登場",
+          "imageUrl": "https://www.publickey1.jp/2022/startupcpuboost_pv01.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/amazon_s3efsamazon_file_cachedenoit_202220228.html",
+          "author": null,
+          "description": "Publickeyでは毎月初に前月の人気記事を紹介しているはずだったのですが、なぜか8月の人気記事を9月に紹介し忘れていました（読者からご指摘いただきました、ありがとうございます）。 まるで夏休みの宿題をすっかり忘れてしまったような感じで、...",
+          "link": "https://www.publickey1.jp/blog/22/amazon_s3efsamazon_file_cachedenoit_202220228.html",
+          "publishedOn": "2022-09-29T16:59:43.000Z",
+          "wordCount": 1270,
+          "title": "Amazon S3やEFSを爆速にする「Amazon File Cache」／Denoが大幅な方針変更を発表／無料で読めるITまんが 2022年版ほか、2022年8月の人気記事",
+          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/cloudflare_workersjavascriptwasmworkerdnanoserviceshomogeneous_deployment.html",
           "author": null,
@@ -5491,6 +5480,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=286837",
+          "author": "Hana Kiros",
+          "description": "ユーチューブは、短編動画であるユーチューブショーツの広告収入を、クリエイターに分配すると発表した。しかし、広告収入のうち、どの程度をクリエイターの分け前にするのかは明かしていない。",
+          "link": "https://www.technologyreview.jp/s/286837/youtube-wants-to-lure-creators-away-from-tiktok-with-cash-but-it-wont-say-how-much/",
+          "publishedOn": "2022-09-29T21:31:25.000Z",
+          "wordCount": 1325,
+          "title": "YouTube、TikTok対抗「ショート」でクリエイターは稼げるか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/26181505/YoutubeCashCreators.gif"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/09/29/287080/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/30/287080/",
+          "publishedOn": "2022-09-29T21:17:38.000Z",
+          "wordCount": 677,
+          "title": "「日本の夏」の睡眠の質を調査、健康被害は熱中症に匹敵",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/09/29/287081/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/09/30/287081/",
+          "publishedOn": "2022-09-29T20:59:38.000Z",
+          "wordCount": 675,
+          "title": "阪大など、脳内のオキシトシンを高感度に検出できる蛍光センサー",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=283994",
           "author": "Rhiannon Williams",
@@ -6420,16 +6439,6 @@
           "wordCount": 1219,
           "title": "脱炭素だけではない、 気候変動対策に 「適応」も必要な理由",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/17183524/GettyImages-1337537281-top-1271x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/27/284415/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/08/31/284415/",
-          "publishedOn": "2022-08-31T03:39:39.000Z",
-          "wordCount": 695,
-          "title": "実験ノートをAIで自動解析、材料研究をデジタル化＝早大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
