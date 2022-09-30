@@ -1534,36 +1534,6 @@
           "wordCount": 296,
           "title": "AWS IoT SiteWise が異なる階層の一意でないアセット名のサポートを開始",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "5d98311dd944a2d82f6370e28a3c73c5fd98c542",
-          "author": "aws@amazon.com",
-          "description": "Amazon Location Service がサービスに固有の条件キーのサポートを開始し、デベロッパーは個別の追跡デバイスとジオフェンスのアクセス制御ルールを設定できるようになりました。これにより、セキュリティが一層強化され、不正なアクセスと意図しないアクセスを防いでデバイスとジオフェンスを管理します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/",
-          "publishedOn": "2022-08-31T20:31:16.000Z",
-          "wordCount": 328,
-          "title": "Amazon Location Service でジオフェンスと追跡デバイスのより精緻なアクセス制御のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "ec877f0c8996bddc723c91573bc45ee36d089930",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker 自動モデルチューニングでは、モデルをチューニングするために起動する各トレーニングジョブのスタートアップ時間を平均で 20 分の 1 (2.5 分から 8 秒) に短縮できるようになりました。多くのハイパーパラメータの評価を行うシナリオでは、トレーニングインスタンスを再利用すると、50 個のシーケンシャルの評価ごとに累積で 2 時間節約できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/",
-          "publishedOn": "2022-08-31T20:17:04.000Z",
-          "wordCount": 320,
-          "title": "Amazon SageMaker 自動モデルチューニングが SageMaker Training インスタンスの再利用によりスタートアップのオーバーヘッドを 20 分の 1 に削減",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "393a76423851b29e0f39d42b7f640e1aa6fe81e3",
-          "author": "aws@amazon.com",
-          "description": "本日より、Amazon Relational Database Service (Amazon RDS) for Oracle では、別々の AWS リージョンまたは特定のリージョンの別々のアベイラビリティゾーンでデプロイされた、Oracle Data Guard Switchover および (読み取り専用でマウントされた) リードレプリカインスタンス用の自動バックアップがサポートされるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/",
-          "publishedOn": "2022-08-31T20:16:15.000Z",
-          "wordCount": 357,
-          "title": "Amazon RDS for Oracle がマネージド型 Oracle Data Guard Switchover およびリードレプリカの自動バックアップのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1572,6 +1542,16 @@
       "feedUrl": "https://blog.agile.esm.co.jp/feed",
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
+        {
+          "id": "https://blog.agile.esm.co.jp/entry/kaigionrails-2022-esminc-speaker",
+          "author": null,
+          "description": "2022年10月21日(金) から22日(土) の2日間にわたって開催される Kaigi on Rails 2022 に、永和システムマネジメントから @fugakkbn (Day 2) が登壇します。 kaigionrails.org ここでは、講演概要と登壇者コメントを紹介します。 10月22日(土) 12:05-12:35 @fugakkbn 『入社数ヶ月の newbie が稼働7年超のRailsプロジェクトに\"型\"を導入して見えた世界』 私は数ヶ月前に異業種からWEBエンジニアにキャリアチェンジしたばかりの、いわゆる newbie です。 にも関わらず、サービスインから7年以上稼働して…",
+          "link": "https://blog.agile.esm.co.jp/entry/kaigionrails-2022-esminc-speaker",
+          "publishedOn": "2022-09-30T08:25:49.000Z",
+          "wordCount": 507,
+          "title": "Kaigi on Rails 2022 に永和システムマネジメントから @fugakkbn が登壇します",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/koic/20220930/20220930150246.png"
+        },
         {
           "id": "https://blog.agile.esm.co.jp/entry/rubocop-redis",
           "author": null,
@@ -4746,6 +4726,16 @@
       "feedUrl": "https://techracho.bpsinc.jp/feed/atom",
       "siteUrl": "https://techracho.bpsinc.jp",
       "articles": [
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_stimulus_keyboard_shortcuts_eyecatch2-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Adding keyboard shortcuts and hotkeys to StimulusJS &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2022/07/11 原著者: Matt Swanson サイト: Boring Rails 日本語タイトルは内容に即したものにしました。 Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳） 本記事は、Boring Railsの新シーズンコンテンツ「Hotwire Summer」の一部です。 キーボードシ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219",
+          "publishedOn": "2022-09-30T08:30:36.000Z",
+          "wordCount": 594,
+          "title": "Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_stimulus_keyboard_shortcuts_eyecatch2.png"
+        },
         {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_29/120667",
           "author": null,

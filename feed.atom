@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-30T08:05:21.289Z</updated>
+    <updated>2022-09-30T09:07:27.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219"/>
+        <updated>2022-09-30T08:30:36.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_stimulus_keyboard_shortcuts_eyecatch2-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Adding keyboard shortcuts and hotkeys to StimulusJS &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2022/07/11 原著者: Matt Swanson サイト: Boring Rails 日本語タイトルは内容に即したものにしました。 Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳） 本記事は、Boring Railsの新シーズンコンテンツ「Hotwire Summer」の一部です。 キーボードシ [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219" data-wpel-link="internal" target="_self">Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaigi on Rails 2022 に永和システムマネジメントから @fugakkbn が登壇します]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/kaigionrails-2022-esminc-speaker</id>
+        <link href="https://blog.agile.esm.co.jp/entry/kaigionrails-2022-esminc-speaker"/>
+        <updated>2022-09-30T08:25:49.000Z</updated>
+        <summary type="html"><![CDATA[2022年10月21日(金) から22日(土) の2日間にわたって開催される Kaigi on Rails 2022 に、永和システムマネジメントから @fugakkbn (Day 2) が登壇します。 kaigionrails.org ここでは、講演概要と登壇者コメントを紹介します。 10月22日(土) 12:05-12:35 @fugakkbn 『入社数ヶ月の newbie が稼働7年超のRailsプロジェクトに"型"を導入して見えた世界』 私は数ヶ月前に異業種からWEBエンジニアにキャリアチェンジしたばかりの、いわゆる newbie です。 にも関わらず、サービスインから7年以上稼働して…]]></summary>
+        <author>
+            <name>ESM アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fedora、kTLS実装によるGnuTLSの高速化をFedora 38で実現へ]]></title>
         <id>https://gihyo.jp/article/2022/09/daily-linux-220930</id>
@@ -7716,36 +7737,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
 購読キャンペーン実施中]]></summary>
         <author>
             <name>Madeline Ostrander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Location Service でジオフェンスと追跡デバイスのより精緻なアクセス制御のサポートを開始]]></title>
-        <id>5d98311dd944a2d82f6370e28a3c73c5fd98c542</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/"/>
-        <updated>2022-08-31T20:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Location Service がサービスに固有の条件キーのサポートを開始し、デベロッパーは個別の追跡デバイスとジオフェンスのアクセス制御ルールを設定できるようになりました。これにより、セキュリティが一層強化され、不正なアクセスと意図しないアクセスを防いでデバイスとジオフェンスを管理します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon SageMaker 自動モデルチューニングが SageMaker Training インスタンスの再利用によりスタートアップのオーバーヘッドを 20 分の 1 に削減]]></title>
-        <id>ec877f0c8996bddc723c91573bc45ee36d089930</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/"/>
-        <updated>2022-08-31T20:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon SageMaker 自動モデルチューニングでは、モデルをチューニングするために起動する各トレーニングジョブのスタートアップ時間を平均で 20 分の 1 (2.5 分から 8 秒) に短縮できるようになりました。多くのハイパーパラメータの評価を行うシナリオでは、トレーニングインスタンスを再利用すると、50 個のシーケンシャルの評価ごとに累積で 2 時間節約できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon RDS for Oracle がマネージド型 Oracle Data Guard Switchover およびリードレプリカの自動バックアップのサポートを開始]]></title>
-        <id>393a76423851b29e0f39d42b7f640e1aa6fe81e3</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/"/>
-        <updated>2022-08-31T20:16:15.000Z</updated>
-        <summary type="html"><![CDATA[本日より、Amazon Relational Database Service (Amazon RDS) for Oracle では、別々の AWS リージョンまたは特定のリージョンの別々のアベイラビリティゾーンでデプロイされた、Oracle Data Guard Switchover および (読み取り専用でマウントされた) リードレプリカインスタンス用の自動バックアップがサポートされるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
