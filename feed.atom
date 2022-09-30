@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-29T22:01:16.969Z</updated>
+    <updated>2022-09-30T00:05:02.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Kendra が Dropbox コネクタをリリース]]></title>
+        <id>6fe3c83c060809f5e20e8e3b9c4827921eba9e6d</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-kendra-releases-dropbox-connector/"/>
+        <updated>2022-09-29T23:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kendra は機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を顧客や従業員に必要に応じて提供できるようにします。本日より、AWS のユーザーは Amazon Kendra Dropbox コネクタを使用して、Dropbox データソースからのドキュメントのインデックス作成と検索を行うことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 Is4gen および Im4gn のインスタンスがアジアパシフィック (東京) リージョンで利用可能に]]></title>
+        <id>3c6287cd26b5cc0834dff2d18688660803bd8876</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/"/>
+        <updated>2022-09-29T23:17:14.000Z</updated>
+        <summary type="html"><![CDATA[本日より、最新世代のストレージ最適化インスタンスである Amazon EC2 Is4gen および Im4gn のインスタンスがアジアパシフィック (東京) リージョンで利用できるようになりました。Is4gen および Im4gn のインスタンスは AWS Nitro System に構築されており、AWS Graviton2 プロセッサを搭載しています。これらは AWS によってカスタム設計された新しい AWS Nitro SSD を備えた最大 30 TB のストレージを備えており、SSD から継続的に読み取りと書き込みを行う SQL/NoSQL データベース、検索エンジン、分散ファイルシステム、データ分析などの I/O 集約型ワークロードのストレージパフォーマンスを最大化します。AWS Nitro SSD は、第 3 世代のストレージ最適化インスタンスと比較して、Im4gn および Is4gen インスタンスで最大 60% 低いレイテンシーと最大 75% 低いレイテンシー変動を実現します。これらのインスタンスは、中規模から大規模のデータセットを備えており、高いコンピューティングパフォーマンスと高いネットワークスループットを利用できるリレーショナルデータベース (MySQL、MariaDB、PostgreSQL など) や NoSQL データベース (KeyDB、ScyllaDB、Cassandra) など、I/O 集約型ワークロードで 1 秒あたり処理されるトランザクション (TPS) の数を最大化します。また、検索エンジンや、ローカルストレージのデータセットに対して、非常に高速なアクセスを必要とするデータ分析ワークロードにも最適です。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cost Categories がルールの遡及適用のサポートを開始]]></title>
+        <id>d61b280daa6558f2b5d64b6b0929c21b28d7b506</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cost-categories-support-retroactive-rules-application/"/>
+        <updated>2022-09-29T23:16:25.000Z</updated>
+        <summary type="html"><![CDATA[AWS Cost Categories では、コストカテゴリルールの遡及適用のサポートを開始しました。これまでは、コストカテゴリの作成中、当月の初めからルールが適用されていました。同様に、コストカテゴリのルールの編集中、当月の初めから変更が適用されていました。今回のリリースにより、コストカテゴリの作成中、過去 12 か月の任意の月からコストカテゴリのルールを適用できるようになりました。同様に、コストカテゴリの編集中、過去 12 か月の任意の月からコストカテゴリルールを適用できるようになりました。これらの変更は、AWS Cost Explorer にも反映されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文章要約AI「Elyzaダイジェスト」に解説記事やインタビュー、『桃太郎』を要約させてみたら……？]]></title>
+        <id>https://data.wingarc.com/?p=43504</id>
+        <link href="https://data.wingarc.com/elyza-digest-43504?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=elyza-digest"/>
+        <updated>2022-09-29T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月にデモサイトが公開された東大松尾研発の文章要約AI「Elyzaダイジェスト」。’‘どんな文章でもAIが3行に要約してくれる”というキャッチーさと無料・ユーザー登録不要という手軽さから […]]]></summary>
+        <author>
+            <name>BunkiMIyata</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube、TikTok対抗「ショート」でクリエイターは稼げるか？]]></title>
         <id>https://www.technologyreview.jp/?p=286837</id>
