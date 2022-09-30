@@ -1573,6 +1573,16 @@
       "siteUrl": "https://blog.agile.esm.co.jp/",
       "articles": [
         {
+          "id": "https://blog.agile.esm.co.jp/entry/rubocop-redis",
+          "author": null,
+          "description": "ソフトウェアエンジニアの 9sako6 です。 Ruby でソフトウェアを開発する際、パフォーマンス低下を引き起こすような良くない Redis のクエリが入り込まないよう RuboCop に見張ってもらうようにした話をします。 パフォーマンス低下の実例 私が開発に参加している Web サービスでは、Redis の不適切な使い方がボトルネックとなっていくつかのページのレイテンシーが高まっていました。 主に悪さをしていたのは KEYS クエリです。 KEYS クエリの平均処理時間は約 430 ms でした。これが Web ページのレイテンシーに含まれるのはかなり痛いです。 公式ドキュメント (ht…",
+          "link": "https://blog.agile.esm.co.jp/entry/rubocop-redis",
+          "publishedOn": "2022-09-30T03:20:12.000Z",
+          "wordCount": 536,
+          "title": "Redis のパフォーマンス問題を RuboCop で検知",
+          "imageUrl": "https://ogimage.blog.st-hatena.com/10328537792369761158/4207112889923038648/1664508012"
+        },
+        {
           "id": "https://blog.agile.esm.co.jp/entry/rails-oss-patch-online-meetup-20220928",
           "author": null,
           "description": "2022年9月の Rails / OSS パッチ会を 9月28日(水)に Discord でオンライン開催します。 この会をひとことでいうと、日頃のお仕事で使っている Rails をはじめとする OSS について、upstream にパッチを送る会です。 会には Ruby と Rails のコミッターである顧問の a_matsuda もいますので、例えば Rails に送るパッチのネタがあるけれど、パッチを送るに適しているかの判断やパッチを送る流れが悩ましいときなど a_matsuda に相談して足がかりにするなどできます。 開催時間は 17:00-19:00 となりますがご都合のあう方はぜひ…",
@@ -2063,6 +2073,16 @@
           "wordCount": 716,
           "title": "WSLにおけるsystemdサポート、“linux-xilinx-zynqmp”カーネル、Ubuntu 22.10（kinetic）のBeta",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/09/esperanto-technologies-2022",
+          "author": null,
+          "description": "約2年半ぶりに注目のチップとAIスパコンを開発するCerebras Systems社を訪問し、現在とこれからの同社の展開について取材しました。",
+          "link": "https://gihyo.jp/article/2022/09/esperanto-technologies-2022?utm_source=feed",
+          "publishedOn": "2022-09-30T00:23:00.000Z",
+          "wordCount": 380,
+          "title": "RISC-Vの進化を牽引するEsperantoの挑戦。シンプルなアイデアと実装の困難さ――David Ditzelへのインタビュー",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1968_esperanto.png"
         },
         {
           "id": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022",
@@ -2912,6 +2932,16 @@
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
         },
         {
+          "id": "https://gihyo.jp/article/2022/09/esperanto-technologies-2022",
+          "author": null,
+          "description": "約2年半ぶりに注目のチップとAIスパコンを開発するCerebras Systems社を訪問し、現在とこれからの同社の展開について取材しました。",
+          "link": "https://gihyo.jp/article/2022/09/esperanto-technologies-2022?utm_source=feed",
+          "publishedOn": "2022-09-30T00:23:00.000Z",
+          "wordCount": 380,
+          "title": "RISC-Vの進化を牽引するEsperantoの挑戦。シンプルなアイデアと実装の困難さ――David Ditzelへのインタビュー",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1968_esperanto.png"
+        },
+        {
           "id": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022",
           "author": null,
           "description": "2022年10月21日（金）、22日（土）にオンラインで開催される技術カンファレンス「Kaigi on Rails 2022」のタイムテーブルが公開された。",
@@ -3757,6 +3787,16 @@
           "wordCount": 716,
           "title": "WSLにおけるsystemdサポート、“linux-xilinx-zynqmp”カーネル、Ubuntu 22.10（kinetic）のBeta",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/09/esperanto-technologies-2022",
+          "author": null,
+          "description": "約2年半ぶりに注目のチップとAIスパコンを開発するCerebras Systems社を訪問し、現在とこれからの同社の展開について取材しました。",
+          "link": "https://gihyo.jp/article/2022/09/esperanto-technologies-2022?utm_source=feed",
+          "publishedOn": "2022-09-30T00:23:00.000Z",
+          "wordCount": null,
+          "title": "RISC-Vの進化を牽引するEsperantoの挑戦。シンプルなアイデアと実装の困難さ――David Ditzelへのインタビュー",
+          "imageUrl": null
         },
         {
           "id": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022",
@@ -5372,16 +5412,6 @@
           "wordCount": 1325,
           "title": "マイクロソフト、Windows Serverの仮想コア対応などライセンス規約の更新を発表。クラウドや仮想環境などとのシームレスな運用が容易に",
           "imageUrl": "https://www.publickey1.jp/2022/kJWfVb-s.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html",
-          "author": null,
-          "description": "Linuxの主要なディストリビューションの1つであるUbuntuを開発するCanonicalは、AWSが主導するオープンソースの検索エンジン「OpenSearch」のプロジェクトへの参加を表明しました。  Great open source...",
-          "link": "https://www.publickey1.jp/blog/22/awselasticsearchopensearchcanonical.html",
-          "publishedOn": "2022-08-31T15:40:42.000Z",
-          "wordCount": 1283,
-          "title": "AWSが主導するElasticsearchのフォーク「OpenSearch」にCanonicalが参加へ",
-          "imageUrl": "https://www.publickey1.jp/2022/FbF51zPUUAAX_53.jpg"
         }
       ]
     },
@@ -5550,6 +5580,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=287050",
+          "author": "Rhiannon Williams",
+          "description": "ハーバード大学などの研究チームが、適応学習アルゴリズムを用いて食事中の炭水化物量を計算し、インスリンを自動注入するデバイスを開発した。患者の負担を減らすと同時に、従来手法より血糖値を下げられることから、患者の生活の質を高めるのに役立ちそうだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/287050/a-bionic-pancreas-could-solve-one-of-the-biggest-challenges-of-diabetes/",
+          "publishedOn": "2022-09-30T03:40:03.000Z",
+          "wordCount": 1190,
+          "title": "アルゴリズムでインスリン量を自動調整、ハーバード発の人工膵臓",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/29063504/insulin-bionic-1400x787.jpg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=286837",
           "author": "Hana Kiros",
