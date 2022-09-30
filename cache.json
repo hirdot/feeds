@@ -6,6 +6,266 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a4eeaa32c7d832122f9a5fc422baf3468842ba0f",
+          "author": "aws@amazon.com",
+          "description": "AWS Compute Optimizer は、新たに 37 の EC2 インスタンスタイプのコストとパフォーマンスの最適化に関する推奨事項の提供を開始しました。今回対応したインスタンスタイプには、ベアメタルインスタンス (m6g.metal) やコンピューティング最適化インスタンス (c7g.2xlarge、hpc6a.48xlarge) などがあります。さらに、AWS Compute Optimizer は「Available Mbytes」「Available Kbytes」「Available Bytes」メトリクスを分析して、EC2 Windows インスタンス向けのより高精度な EC2 インスタンスの推奨事項を提供できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/",
+          "publishedOn": "2022-09-30T21:46:12.000Z",
+          "wordCount": 356,
+          "title": "AWS Compute Optimizer が新たに 37 の EC2 インスタンスタイプに対応したほか Windows インスタンス向けメモリメトリクスのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "720aa1cd4f5e0369ee1aa45b6e86d924c370e348",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudShell が南米 (サンパウロ)、カナダ (中部)、欧州 (ロンドン) で一般利用可能になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/",
+          "publishedOn": "2022-09-30T21:40:13.000Z",
+          "wordCount": 321,
+          "title": "AWS CloudShell が南米 (サンパウロ)、カナダ (中部)、欧州 (ロンドン) で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "14e5fb2ecfdc182da63556f07fd195ada36ff9b8",
+          "author": "aws@amazon.com",
+          "description": "AWS Cloud Control API が AWS PrivateLink をサポートするようになり、ユーザーは仮想プライベートネットワークのプライベートな Virtual Private Cloud (VPC) エンドポイントから AWS Cloud Control API を利用できるようになりました。Amazon VPC のプライベートな IP アドレス経由で Cloud Control API の共通のアプリケーションプログラミングインターフェイス (API) を使用して、一貫した方法でクラウドインフラストラクチャを管理し、最新の AWS の機能をより速く利用できるようになりました。AWS Cloud Control API を使用するのに、パブリック IP、ファイアウォールルール、インターネットゲートウェイを使う必要はありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/",
+          "publishedOn": "2022-09-30T21:39:25.000Z",
+          "wordCount": 417,
+          "title": "AWS Cloud Control API が AWS PrivateLink のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9f082ab22a1b557ac3a3a3e851f8b961ada8d3c7",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Device Management セキュアトンネリングが複数の同時 TCP 接続をサポートしました。これにより、リモートデバイスの高度なトラブルシューティングに新たなユースケースを提供できるようになりました。セキュアトンネリングを使用すると、SSH、VNC、または RDP を用いてリモートデバイスとの双方向コミュニケーションを確立できます。今回、複数の同時 TCP 接続が可能となり、アセット (画像、JavaScript、CSS など) に対して通常は複数の接続を行う HTTP ベースのアプリケーションにアクセスするトンネルを確立できます。例えば、デバイス上で実行されているウェブアプリケーションに遠隔でアクセスして、リアルタイムのテレメトリ取得、またはウェブベース GUI での管理タスクの実行ができるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-device-management-secure-tunneling-tcp-connections/",
+          "publishedOn": "2022-09-30T21:38:37.000Z",
+          "wordCount": 323,
+          "title": "AWS IoT Device Management セキュアトンネリングが同時 TCP 接続のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "b897cea914fd5a7c71149b2ca2420a47e31c85f4",
+          "author": "aws@amazon.com",
+          "description": "AWS X-Ray では、パブリックプレビューで、AWS Distro for OpenTelemetry (ADOT) を介した PHP アプリケーションのエンドツーエンドのリクエストのトレースをサポートするようになりました。ADOT は AWS がサポートする OpenTelemetry プロジェクトの安全なディストリビューションです。今回のリリースにより、OpenTelemetry PHP SDK を使用して X-Ray のトレースのために PHP アプリケーションを装備できるようになりました。X-Ray によって、CloudWatch コンソールでサービスマップとトレース分析ツールを使用して、分散した PHP アプリケーションを視覚化してデバッグできるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-x-ray-support-tracing-php-applications-opentelemetry-public-preview/",
+          "publishedOn": "2022-09-30T21:37:49.000Z",
+          "wordCount": 358,
+          "title": "AWS X-Ray がパブリックプレビューで OpenTelemetry を介した PHP アプリケーションのトレースのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "81e6489321a3acf196890de604c1ace97c4a4f4a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Location Service では、デベロッパーが一意の識別子を使用して既知の地理的位置を取得できるようになりました。例えば、オートコンプリート機能を使用してエンドユーザーが検索を完了できるようにする場合、デベロッパーはエンドユーザーが選択した一意の識別子を使用して将来のクエリの位置を取得できます。この一意の識別子を使用して、開発者は一貫した検索エクスペリエンスを作成し、検索結果をフィルタリングし、関連する検索結果をマップに表示できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/unique-place-ids-amazon-location-service/",
+          "publishedOn": "2022-09-30T21:37:00.000Z",
+          "wordCount": 339,
+          "title": "Amazon Location Service の一意のプレイス ID を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9987871c74e72e492497698138e516dc104e506a",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas がデータ探索の向上のため、数学関数および演算子のサポートを開始しました。これにより、データに新たな機能を定義できます。SageMaker Canvas はポイントアンドクリック式のビジュアルサービスです。そのため、ビジネスアナリストは、機械学習を使用した経験がなくても、またコードを一行も書かなくても、正確な ML 予測を自分で生成することができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-mathematical-functions-operators-richer-data-exploration/",
+          "publishedOn": "2022-09-30T21:36:12.000Z",
+          "wordCount": 305,
+          "title": "Amazon SageMaker Canvas がデータ探索の向上のために数学関数および演算子をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "895157a68ba614acf2b0b29d3b97d76d7a3fa196",
+          "author": "aws@amazon.com",
+          "description": "AWS Snow ファミリーでは、Snowball Edge と Snowcone のすべてのジョブを対象に Snow Amazon Linux 2 (AL2) Amazon マシンイメージ (AMI) の提供を開始しました。今回のリリースにより、お客様は、Snow AL2 AMI を使用して Snow デバイスでエッジワークロードを実行できるようになります。Snow AL2 AMI は AWS Snow によって管理および提供されるため、お客様は Snow デバイス用の AMI を自分で作成しなくて済みます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-snow-linux-2-ami-snow-family-jobs/",
+          "publishedOn": "2022-09-30T21:35:21.000Z",
+          "wordCount": 406,
+          "title": "Snow ファミリーのすべてのジョブを対象に Snow Amazon Linux 2 (AL2) Amazon マシンイメージ (AMI) の提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7fe8f53e39966bb92237319b33fd59ff0ac1d129",
+          "author": "aws@amazon.com",
+          "description": "Amazon WorkSpaces では、Ubuntu Desktop 22.04 LTS のサポートを開始しました。Ubuntu は人気のある Linux ディストリビューションで、Canonical から提供されています。Ubuntu は Amazon Workspaces でサポートする初のサードパーティー Linux オペレーティングシステムです。今回のリリースにより、Amazon WorkSpaces のお客様は、エンドユーザーの固有のニーズに応じて、Amazon Linux、Microsoft Windows、Ubuntu デスクトップの中から柔軟に選択できるようになります。お客様は、デベロッパー、データサイエンティスト、エンジニアを対象に高性能でクラウドベースの開発デスクトップとして、または技術者以外のユーザーを対象に汎用のデスクトップとして、Ubuntu WorkSpaces を簡単にプロビジョニングし、スケールできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-introduces-ubuntu-desktop-amazon-workspaces/",
+          "publishedOn": "2022-09-30T21:34:33.000Z",
+          "wordCount": 376,
+          "title": "AWS、Amazon WorkSpaces に Ubuntu Desktop を導入",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ead805fdd14eee8a350e112580f3c0705465a8fe",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect に、キューのリアルタイムのパフォーマンスを時系列グラフで表示および比較できるダッシュボードが追加されました。サービスレベル、キューに追加された問い合わせ、平均対応時間などの主要なメトリクスを確認し、キューのパフォーマンスを追跡および改善できます。例えば、現在の週のサービスレベルが前の週を下回っていることがわかった場合、これが問い合わせ件数または平均対応時間の増加と関連しているかどうかを判断し、対処方法を特定して導入できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-provides-queue-dashboard/",
+          "publishedOn": "2022-09-30T21:33:44.000Z",
+          "wordCount": 284,
+          "title": "Amazon Connect にキューダッシュボードを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "507070dff24c13a27113d301b5adaa529a0634d7",
+          "author": "aws@amazon.com",
+          "description": "AWS のユーザーは AWS Copilot の最新バージョン v1.22 をダウンロードして使用できるようになりました。AWS Copilot はコンテナ化されたアプリケーションのコマンドラインインターフェイス (CLI) です。AWS Copilot は共通のアプリケーションアーキテクチャとインフラストラクチャパターン、使いやすい運用ワークフロー、継続的なデリバリーパイプラインのセットアップを提供することで、コンテナ化されたアプリケーションを AWS で簡単に構築、デプロイ、運用できるようにします。今回のリリースは、Copilot ユーザーが IAM アクセス許可の境界を活用して組織のセキュリティ要件とサービス管理ポリシーに準拠し、オペレーションとイベントの順序が重要な場合にイベント駆動型のサービスを構築し、パブリック HTTPS ウェブサービスにおいて低レイテンシーのコンテンツ配信を実現するのに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/",
+          "publishedOn": "2022-09-30T21:32:55.000Z",
+          "wordCount": 353,
+          "title": "コンテナ化されたアプリの CLI である AWS Copilot が IAM アクセス許可の境界などを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "d980bf0e680371b9ee1d78e21c59fa7940e070b1",
+          "author": "aws@amazon.com",
+          "description": "AWS App Runner では、node.js ベースのウェブアプリケーションと API をビルドし、実行するための Node.js v16 マネージドランタイムを追加しました。App Runner では、ソースコードまたはコンテナイメージからアプリケーションを直接 AWS クラウドにデプロイできます。App Runner はソースタイプを問わずサービスの開始、実行、スケーリング、ロードバランシングを行います。App Runner には、プラットフォーム別の便利なマネージドランタイムが用意されています。これらの各ランタイムでは、ソースコードからコンテナイメージをビルドし、イメージに言語ランタイムの依存関係を追加します。App Runner ではマネージドランタイムを使用してアプリケーションをビルドおよびデプロイするため、お客様が自分で Dockerfile を開発および管理する負担が軽減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/",
+          "publishedOn": "2022-09-30T21:32:07.000Z",
+          "wordCount": 327,
+          "title": "AWS App Runner で Node.js 16 マネージドランタイムをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "da472fcf9858e326b436f432f88605da3c209aa2",
+          "author": "aws@amazon.com",
+          "description": "Amazon Corretto 19 の一般提供を開始しました。このバージョンは最新の OpenJDK 機能リリースをサポートしており、Linux、Windows、および macOS でご利用いただけます。Corretto 19 はダウンロードページからダウンロードできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-corretto-19-available/",
+          "publishedOn": "2022-09-30T21:31:17.000Z",
+          "wordCount": 340,
+          "title": "Amazon Corretto 19 の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "89705f30c647c769514c236764c180714cec0c64",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas の一般提供を AWS アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、オーストラリア (シドニー) の各リージョンで開始することを発表いたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-available-mumbai-seoul-singapore-sydney-regions/",
+          "publishedOn": "2022-09-30T15:24:19.000Z",
+          "wordCount": 331,
+          "title": "アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、アジアパシフィック (シンガポール)、オーストラリア (シドニー) の各リージョンで Amazon SageMaker Canvas の提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "177acacfc24930544ccf481f22bdd757acb9a727",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 Replication Time Control (S3 RTC) のサービスレベルアグリーメント (SLA) に裏付けられた予測可能なレプリケーション時間を AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンでもご利用いただけるようになりました。S3 RTC は、お客様がデータレプリケーションのコンプライアンスまたはビジネス要件を満たすのに役立ち、Amazon CloudWatch メトリクスでレプリケーションプロセスの可視性を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-s3-replication-time-control-predictable-replication-beijing-ningxia-regions/",
+          "publishedOn": "2022-09-30T15:22:30.000Z",
+          "wordCount": 387,
+          "title": "予測可能なレプリケーション時間を提供する Amazon S3 Replication Time Control を AWS 中国 (北京) リージョンと AWS 中国 (寧夏) リージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7fb922e0b6bac3c32236ba52912a0d52312d05a7",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT FleetWise は、車両のデータをほぼリアルタイムで収集、変換してクラウドへ転送できる自動車会社向けのサービスです。このたび、その一般提供が開始されました。自動車会社は、クラウドに保存されたデータを活用し、車両フリートの状態を広範囲にわたって分析できます。そこから得られたインサイトを活用し、潜在的なメンテナンス上の問題の特定、車内のインフォテインメントシステムの強化、分析や機械学習 (ML) を行うことで、自動運転や先進運転支援システム (ADAS) のすばやい改善が可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-fleetwise-now-generally-available/",
+          "publishedOn": "2022-09-30T15:21:42.000Z",
+          "wordCount": 315,
+          "title": "AWS IoT FleetWise の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c606de9550021601fbde8ed98ff83c24eedf8cc0",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Certificate Manager プライベート認証機関の名称を AWS Private Certificate Authority (AWS Private CA) に変更いたしました。この変更により、AWS Certificate Manager (ACM) と AWS Private CA を区別しやすくなります。ACM と AWS Private CA では、インターネット、クラウド、プライベートネットワークでリソースを識別し、ネットワーク通信を保護するために使用されるデジタル証明書を作成および管理する過程で果たす役割が異なります。ACM では証明書のライフサイクルを管理し、Elastic Load Balancing、Amazon CloudFront、Amazon API Gateway などの AWS のサービスに対する更新を作成、保存、デプロイ、管理します。AWS Private CA では、さまざまなシナリオに合わせてカスタマイズ可能なプライベート証明書を作成できます。ACM、Amazon Managed Streaming for Apache Kafka (MSK)、IAM Roles Anywhere、Amazon Elastic Kubernetes Service (EKS) などの AWS のサービスでは、Private CA から提供されるプライベート証明書を利用できます。また、モノのインターネット (IoT) デバイスや、エンタープライズのユーザー、システム、サービス向けのプライベート証明書も作成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-certificate-manager-private-certificate-authority-now-aws-private-ca/",
+          "publishedOn": "2022-09-30T15:20:17.000Z",
+          "wordCount": 357,
+          "title": "AWS Certificate Manager プライベート認証機関の名称を AWS Private Certificate Authority に変更",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e50ffc994d78750e7d4bbb4b5d51224fa1e86141",
+          "author": "aws@amazon.com",
+          "description": "Amazon MSK Serverless は、HIPAA (Health Insurance Portability and Accountability Act、医療保険の携行性と責任に関する法律) に適合したサービスになりました。これにより、Amazon MSK Serverless によって管理される Apache Kafka を使用して保護された医療情報 (PHI) の保存、処理、アクセスを行ったり、ヘルスケアおよびライフサイエンス用アプリケーションの安全性を強化したりできます。MSK Serverless は Amazon MSK のクラスタータイプであり、クラスター容量の管理やスケーリングをすることなく、Apache Kafka を簡単に実行できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-msk-serverless-hipaa-eligible/",
+          "publishedOn": "2022-09-30T15:19:27.000Z",
+          "wordCount": 326,
+          "title": "Amazon MSK Serverless、HIPAA に適合",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1560616f3fc434015d2e69a15600ce3ca1f54d88",
+          "author": "aws@amazon.com",
+          "description": "このたび、一般的な予算シナリオでシンプルな 1-Click ワークフローを使用して予算を作成できるようになりました。また、さまざまな種類の予算の作成方法を学べるステップバイステップのチュートリアルも提供が開始されました。AWS Budgets は、コストや使用量が設定したしきい値を越えたとき (または越えることが予想されるとき)、もしくはリザーブドインスタンスや Savings Plans の使用率/カバレッジ率がしきい値を下回ったときにアラートを送信することで、予測される支出に基づいた追跡を可能にするサービスです。1-Click テンプレートとチュートリアルは、AWS でのコスト管理のために設定可能な予算に関するガイダンスを、新規および既存ユーザーに提供する目的で開発されました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-budgets-1-click-templates-tutorials/",
+          "publishedOn": "2022-09-30T15:18:39.000Z",
+          "wordCount": 338,
+          "title": "AWS Budgets の 1-Click テンプレートとチュートリアルが提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8d401070413faec515563c0253d8a4dea0dd1be4",
+          "author": "aws@amazon.com",
+          "description": "Amazon EMR のバリエーションである Amazon EMR Serverless が、アジアパシフィック (ムンバイ、ソウル、シンガポール、シドニー)、カナダ (中部)、欧州 (フランクフルト、ロンドン、パリ、ストックホルム)、南米 (サンパウロ)、米国西部 (北カリフォルニア)、米国東部 (オハイオ) の各リージョンでご利用いただけるようになりました。従来の対応リージョンは、米国東部 (バージニア北部)、米国西部 (オレゴン)、アジアパシフィック (東京)、欧州 (アイルランド) のみでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-emr-serverless-available-additional-aws-regions/",
+          "publishedOn": "2022-09-30T15:17:15.000Z",
+          "wordCount": 324,
+          "title": "Amazon EMR Serverless が新たに 12 の AWS リージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3869dc016293b1f9a818567aefebe7a3dc21e86d",
+          "author": "aws@amazon.com",
+          "description": "Amazon Textract は、あらゆるドキュメントまたは画像からテキスト、手書き文字、およびデータを自動的に抽出する機械学習サービスです。本日、AWS Service Quotas との統合の強化により、Amazon Textract でセルフサービスのクォータ管理をサポートし、新しいセルフサービス Amazon Textract クォータ計算ツールをリリースすることを発表いたします。また、一部の AWS リージョンで 1 秒あたりのトランザクション (TPS) スループットのデフォルトのクォータが引き上げられます。今回の新しい機能と機能強化の詳細については、以下をご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/",
+          "publishedOn": "2022-09-30T15:16:26.000Z",
+          "wordCount": 386,
+          "title": "Amazon Textract、セルフサービスのクォータ管理、一部の AWS リージョンを対象としたデフォルトのクォータの引き上げを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "30a1e51496b7b5f0db045f93479fb5f8625d2c6c",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon Aurora データベースクラスターを Amazon Aurora MySQL 互換エディション 2 (MySQL 5.7 互換) から Aurora MySQL 互換エディション 3 (MySQL 8.0 互換) にインプレースアップグレードできます。データベースをバックアップして新しいバージョンに復元する代わりに、Amazon RDS マネジメントコンソールで数回のクリック操作を行うだけでアップグレードできます。また、AWS SDK または CLI を使用することも可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/",
+          "publishedOn": "2022-09-30T10:35:31.000Z",
+          "wordCount": 371,
+          "title": "Amazon Aurora が MySQL 5.7 から 8.0 へのインプレースアップグレードをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2f64a88968a66b1c47bb854e201c0fcba037427d",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon SageMaker Autopilot に、AutoGluon を利用してモデルのアンサンブルをサポートする、新しいトレーニングモードが追加されたことを発表します。中大規模のデータセット (< 100MB) の場合、アンサンブルトレーニングモードでは、高精度の機械学習 (ML) モデルを迅速に構築します。これは、250 回のトライアルを行う現在のハイパーパラメーター最適化 (HPO) トレーニングモードよりも最大 8 倍高速です。Amazon SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的に構築、トレーニング、およびチューニングします。現在の HPO モードは、ハイパーパラメーター値の組み合わせを使用して、単一モデルの精度を最大限に向上させます。ただし、単一のモデルがデータの複雑な特性を捉えることができない場合は、さまざまなモデルからの予測を組み合わせる (またはアンサンブルする) ことで、モデル全体の精度を大幅に向上させることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-experiments-faster-ensemble-training-mode-powered-autogluon/",
+          "publishedOn": "2022-09-30T10:34:43.000Z",
+          "wordCount": 372,
+          "title": "AutoGluon を利用した新しい「アンサンブル」トレーニングモードで Amazon SageMaker Autopilot の実験が最大 8 倍高速に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ca8e4d47327210df6a95b8f06d3022a1d25d7bde",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Data Wrangler は機械学習 (ML) の初めての完全統合開発環境 (IDE) である Amazon SageMaker Studio で、ML のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。SageMaker Data Wrangler を使用すると、データの準備と特徴量エンジニアリングのプロセスを簡素化して、データの選択、クレンジング、調査、可視化など、データ準備のワークフローの各ステップを単一のビジュアルインターフェイスから実行できます。Amazon Simple Storage Service (Amazon S3)、Amazon Redshift、Snowflake、Amazon Athena でサポートされている 26 個の Federated Query データソースなど、幅広い種類のデータソースからデータをインポートできます。本日より、Athena データソースからデータをインポートするユーザーは S3 クエリの出力先とデータ保持期間を設定し、Athena が中間データを保存する場所と期間を管理できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-data-wrangle-launches-advanced-settings-amazon-athena-data-sources/",
+          "publishedOn": "2022-09-30T10:33:55.000Z",
+          "wordCount": 368,
+          "title": "Amazon SageMaker Data Wrangler が Amazon Athena データソースの新しい詳細設定を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a309c1853e9b1fc153c643bbe4fb1b2605263a2e",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru が新たに、欧州 (ロンドン)、欧州 (パリ)、アジアパシフィック (ムンバイ)、アジアパシフィック (ソウル)、米国西部 (北カリフォルニア)、南米 (サンパウロ)、カナダ (中部) の各リージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-devops-guru-available-seven-additional-regions/",
+          "publishedOn": "2022-09-30T10:33:07.000Z",
+          "wordCount": 340,
+          "title": "Amazon DevOps Guru が新たに 7 つのリージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "af03f370ea69bda45c257a750202cf8835a3126d",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 on Outposts がバージョニングをサポートするようになりました。これにより、バケットに保存されているすべてのオブジェクトの各バージョンをローカルで保存、取得、復元することが容易になります。オブジェクトをバージョニングすることにより、意図せぬユーザー操作からもアプリケーションの障害からも簡単に回復できます。S3 on Outposts バケットのバージョニングを有効にすると、オブジェクトのすべてのバリアントが同じバケットに保存され、VersionId で区別されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-s3-outposts-supports-object-versioning/",
+          "publishedOn": "2022-09-30T10:32:20.000Z",
+          "wordCount": 320,
+          "title": "Amazon S3 on Outposts がオブジェクトのバージョニングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "6fe3c83c060809f5e20e8e3b9c4827921eba9e6d",
           "author": "aws@amazon.com",
           "description": "Amazon Kendra は機械学習を利用したインテリジェント検索サービスで、組織が関連性の高い情報を顧客や従業員に必要に応じて提供できるようにします。本日より、AWS のユーザーは Amazon Kendra Dropbox コネクタを使用して、Dropbox データソースからのドキュメントのインデックス作成と検索を行うことができます。",
@@ -1504,36 +1764,6 @@
           "wordCount": 349,
           "title": "AWS Application Migration Service がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3efdf9dd70c6f7f0cf2e405740c5f8d0368f215e",
-          "author": "aws@amazon.com",
-          "description": "Amazon Forecast で仮定の分析をシームレスに実行し、需要予測に関するビジネスシナリオの潜在的な影響を数値化できるようになりました。Amazon Forecast は機械学習 (ML) アルゴリズムを使用して精度の高い時系列予測を行うフルマネージドサービスです。仮定の分析による仮想シナリオのシミュレーションは、起こりうる結果を把握することで、計画の前提の負荷テストを行うための強力なビジネスツールです。収益や収益性についてのビジネスの意思決定の影響を評価したり、市場の傾向に関連するリスクを数値化したり、ロジスティクスと労働力の変化に対応して顧客の需要に応える方法を評価したりすることは一般的な手法です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-forecast-what-if-analyses/",
-          "publishedOn": "2022-09-01T00:17:53.000Z",
-          "wordCount": 300,
-          "title": "Amazon Forecast が仮定の分析のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "029d5e15d52a477ea5822370fdbaf529773f09b3",
-          "author": "aws@amazon.com",
-          "description": "Amazon Polly はテキストをリアルな音声に変換するサービスです。本日、Polly の中国標準語の女性のテキスト読み上げ (TTS) 音声である「Zhiyu」のニューラルバージョンの一般提供を開始しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-polly-neural-tts-support-mandarin-chinese/",
-          "publishedOn": "2022-09-01T00:17:05.000Z",
-          "wordCount": 308,
-          "title": "Amazon Polly で中国標準語のニューラルテキスト読み上げのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b4dc3a0d3cf6d019a69f3cb991a198bdb91cee71",
-          "author": "aws@amazon.com",
-          "description": "AWS IoT SiteWise では、異なる階層下での一意でないアセット名がサポートされるようになり、アセット名が再利用しやすくなりました。この新機能によって、同じ AWS アカウントおよび AWS IoT SiteWise のインストールで複数の階層ツリーにアセット階層を作成する企業のスケーリングが簡素化されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/",
-          "publishedOn": "2022-09-01T00:16:15.000Z",
-          "wordCount": 296,
-          "title": "AWS IoT SiteWise が異なる階層の一意でないアセット名のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1988,36 +2218,6 @@
           "wordCount": 2872,
           "title": "越境者たちよ！ヒトはより自由になることで成長できる！【書評】新時代を生き抜く越境思考",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/06/2d338c4ad7fc1d6a3e52eee4fe634479.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45708",
-          "author": "石川麻里",
-          "description": "佐賀県は九州地方の北西部に位置し、北部は玄界灘、南部は有明海に面した地域です。 玄界灘の沖合を暖流の対馬海流が流れるため、気候は温暖で、筑紫平野を中心に稲作、有明海では、のりの養殖が盛ん、また、有田焼、唐津焼などの焼き物 […]",
-          "link": "https://data.wingarc.com/local-dx-lab-saga-45708?utm_source=rss&utm_medium=rss&utm_campaign=local-dx-lab-saga",
-          "publishedOn": "2022-09-01T01:00:55.000Z",
-          "wordCount": 3671,
-          "title": "佐賀県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/dxlab_saga_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45368",
-          "author": "tadokoroyusuke",
-          "description": "町工場から夢を実現する、という実現。 面白い人たちが集まって夢を語り合い、次のステップが出来ていく。 Garage Sumidaは創出の拠点。そして、さらなる未来がすでに始まっている。 壮絶な経営危機を乗り越え、営業活動 […]",
-          "link": "https://data.wingarc.com/hananoseisakusho-02-45368?utm_source=rss&utm_medium=rss&utm_campaign=hananoseisakusho-02",
-          "publishedOn": "2022-09-01T01:00:20.000Z",
-          "wordCount": 3567,
-          "title": "町工場は受託製造から市場創出拠点へと新たな動きを始めている –混沌とした時代、ものづくりはどう変わっていくのか（後編）",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/td_220819_a_0.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45385",
-          "author": "tadokoroyusuke",
-          "description": "中小企業の町工場にもダイナミックケーパビリティ（企業変革力）が求められている。その事例として今回ピックアップしたのが、浜野製作所である。社長がたった一人でどん底だった時期もありながら、ここ20年ほどで驚異的な躍進を遂げ、 […]",
-          "link": "https://data.wingarc.com/hananoseisakusho-01-45385?utm_source=rss&utm_medium=rss&utm_campaign=hananoseisakusho-01",
-          "publishedOn": "2022-09-01T01:00:17.000Z",
-          "wordCount": 3620,
-          "title": "町工場のリーダー的存在「浜野製作所」の動きからヒントを探る –混沌とした時代、ものづくりはどう変わっていくのか（前編）",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/td_220819_b_0.jpg"
         }
       ]
     },
@@ -2863,46 +3063,6 @@
           "wordCount": 183,
           "title": "第8回　ラック収容率の乖離",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/08/ifr-8-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc006-css_tech",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「クリエイティブ系のウェブサイト制作で役立つCSS技法（池田 泰延） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc006-css_tech?utm_source=feed",
-          "publishedOn": "2022-09-01T00:22:00.000Z",
-          "wordCount": null,
-          "title": "クリエイティブ系のウェブサイト制作で役立つCSS技法 ～TechFeed Conference 2022講演より",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-07",
-          "author": null,
-          "description": "今回は、わたしたちが生活している「IT社会」をひとつなぎのシステムとしてとらえた場合、その中でどのようなコトが起こっているか見える化してみました。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-07?utm_source=feed",
-          "publishedOn": "2022-09-01T00:18:00.000Z",
-          "wordCount": null,
-          "title": "第7回　IT社会の見える化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/ossdb-various-news0085",
-          "author": null,
-          "description": "本連載では、いろいろなという意味を込めて「取り取り」という言葉で表させるように、いろいろな種類のオープンソースデータベースの各月の出来事をお伝えいたします。",
-          "link": "https://gihyo.jp/article/2022/09/ossdb-various-news0085?utm_source=feed",
-          "publishedOn": "2022-09-01T00:15:00.000Z",
-          "wordCount": null,
-          "title": "第85回　【祝】連載8年目突入、MySQL Shell for VS Codeの機能紹介、Postgres Vision Tokyo 2022がまもなく開催",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220901",
-          "author": null,
-          "description": "2021年からGoogle傘下となったFitbitから、新しいスマートウォッチが発表されました。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220901?utm_source=feed",
-          "publishedOn": "2022-09-01T00:14:00.000Z",
-          "wordCount": null,
-          "title": "Fitbitから新スマートウォッチ「Sense 2」と「Versa 4」発表",
-          "imageUrl": null
         }
       ]
     },
@@ -3730,46 +3890,6 @@
           "wordCount": 183,
           "title": "第8回　ラック収容率の乖離",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/08/ifr-8-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc006-css_tech",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「クリエイティブ系のウェブサイト制作で役立つCSS技法（池田 泰延） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc006-css_tech?utm_source=feed",
-          "publishedOn": "2022-09-01T00:22:00.000Z",
-          "wordCount": 215,
-          "title": "クリエイティブ系のウェブサイト制作で役立つCSS技法 ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1938_techfeed_csstech.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-07",
-          "author": null,
-          "description": "今回は、わたしたちが生活している「IT社会」をひとつなぎのシステムとしてとらえた場合、その中でどのようなコトが起こっているか見える化してみました。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-07?utm_source=feed",
-          "publishedOn": "2022-09-01T00:18:00.000Z",
-          "wordCount": 177,
-          "title": "第7回　IT社会の見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/07/ifr-7-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/ossdb-various-news0085",
-          "author": null,
-          "description": "本連載では、いろいろなという意味を込めて「取り取り」という言葉で表させるように、いろいろな種類のオープンソースデータベースの各月の出来事をお伝えいたします。",
-          "link": "https://gihyo.jp/article/2022/09/ossdb-various-news0085?utm_source=feed",
-          "publishedOn": "2022-09-01T00:15:00.000Z",
-          "wordCount": 449,
-          "title": "第85回　【祝】連載8年目突入、MySQL Shell for VS Codeの機能紹介、Postgres Vision Tokyo 2022がまもなく開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1899_ossdb_vn_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220901",
-          "author": null,
-          "description": "2021年からGoogle傘下となったFitbitから、新しいスマートウォッチが発表されました。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220901?utm_source=feed",
-          "publishedOn": "2022-09-01T00:14:00.000Z",
-          "wordCount": 218,
-          "title": "Fitbitから新スマートウォッチ「Sense 2」と「Versa 4」発表",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -4597,46 +4717,6 @@
           "wordCount": null,
           "title": "第8回　ラック収容率の乖離",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc006-css_tech",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「クリエイティブ系のウェブサイト制作で役立つCSS技法（池田 泰延） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc006-css_tech?utm_source=feed",
-          "publishedOn": "2022-09-01T00:22:00.000Z",
-          "wordCount": 215,
-          "title": "クリエイティブ系のウェブサイト制作で役立つCSS技法 ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1938_techfeed_csstech.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-07",
-          "author": null,
-          "description": "今回は、わたしたちが生活している「IT社会」をひとつなぎのシステムとしてとらえた場合、その中でどのようなコトが起こっているか見える化してみました。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-07?utm_source=feed",
-          "publishedOn": "2022-09-01T00:18:00.000Z",
-          "wordCount": 177,
-          "title": "第7回　IT社会の見える化",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/07/ifr-7-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/ossdb-various-news0085",
-          "author": null,
-          "description": "本連載では、いろいろなという意味を込めて「取り取り」という言葉で表させるように、いろいろな種類のオープンソースデータベースの各月の出来事をお伝えいたします。",
-          "link": "https://gihyo.jp/article/2022/09/ossdb-various-news0085?utm_source=feed",
-          "publishedOn": "2022-09-01T00:15:00.000Z",
-          "wordCount": 449,
-          "title": "第85回　【祝】連載8年目突入、MySQL Shell for VS Codeの機能紹介、Postgres Vision Tokyo 2022がまもなく開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1899_ossdb_vn_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220901",
-          "author": null,
-          "description": "2021年からGoogle傘下となったFitbitから、新しいスマートウォッチが発表されました。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220901?utm_source=feed",
-          "publishedOn": "2022-09-01T00:14:00.000Z",
-          "wordCount": null,
-          "title": "Fitbitから新スマートウォッチ「Sense 2」と「Versa 4」発表",
-          "imageUrl": null
         }
       ]
     },
@@ -4945,26 +5025,6 @@
           "wordCount": 643,
           "title": "Rubyの（グローバル）VMロックをトレースする（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/ruby_gvl_tracing_gem_eyecatch2-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_01/121134",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_migrating_byebug_to_debug_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: From byebug to ruby/debug 原文公開日: 2022/08/10 原著者: Stan Lo Ruby: byebugからruby/debugへの移行ガイド（翻訳） 新しいデバッガに乗り換えてデバッグプロセスを変更するのがつい億劫になることもあるでしょう。本記事によって、皆さんがruby/debugに親しんでスムーズに移行する助けになることを願っています。 以下、debugはruby/debugを指します。 免責事項 著者はdebugと比べてbyebugの経験があまりありません。不正確な情報や古い情報がありましたらぜひお知らせください [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_01/121134\" data-wpel-link=\"internal\" target=\"_self\">Ruby: byebugからruby/debugへの移行ガイド（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_01/121134",
-          "publishedOn": "2022-09-01T08:30:38.000Z",
-          "wordCount": 915,
-          "title": "Ruby: byebugからruby/debugへの移行ガイド（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_migrating_byebug_to_debug_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_01/115955",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: shakapacker/v6_upgrade.md at master · shakacode/shakapacker 原文更新日: 2022/09/01（5a08400） ライセンス: MIT 2022/03/10: 初版公開 2022/05/26: 原文に合わせて更新 2022/09/01: 原文に合わせて更新 表記は「Webpacker」「webpack」「Shakapacker」で統一しました。 以下の記事もどうぞ。 Rails: Webpacker（Shakapacker）とjsbundling-railsの比較（翻訳） Rails:  [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_01/115955\" data-wpel-link=\"internal\" target=\"_self\">Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_01/115955",
-          "publishedOn": "2022-09-01T08:25:26.000Z",
-          "wordCount": 809,
-          "title": "Rails: Webpacker v5からShakapacker v6へのアップグレードガイド（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/02/rails_upgrade_webpackerv5_to_shakapackerv6_eyecatch-min.png"
         }
       ]
     },
@@ -6539,16 +6599,6 @@
           "wordCount": 1196,
           "title": "中国猛暑でEVオーナーが悲鳴、電力不足でスタンドに長蛇の列",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/27051513/GettyImages-1292252309-crop-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/08/31/284658/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/01/284658/",
-          "publishedOn": "2022-08-31T22:59:58.000Z",
-          "wordCount": 686,
-          "title": "初期宇宙における「宇宙再電離」の非一様性の原因解明＝東大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }
