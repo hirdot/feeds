@@ -685,6 +685,25 @@ The post Railsの技: StimulusJSで使えるキーボードショートカット
           </section>
         </section>
       </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://rubyonrails.org/">Ruby on Rails</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 442)</span>ERB in YAML keys, performance boosts, a new option for QueryLogs!
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://rubyonrails.org/2022/9/30/this-week-in-rails-erb-in-yaml-keys-performance-boosts-a-new-option-for-querylogs-2b63a564" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>こんにちは。I’m Emmanuel, and I’ve got some updates for you! Avoid double type cast when serialising attributes ActiveModel::Attribute#value already casts model attributes when persisting models, however some model attribute types try to cast a given value before serialising it. This this means casting is done twice in most cases. This PR fixes that, giving us some performance boost. Add ability to set the tags_format for QueryLogs ActiveRecord::QueryLogs gets a new tags_format option. This makes it possible to specify if we want to use the default :legacy formatter or :sqlcommenter. Facilitate use of any regular ERB in database.yml DummyCompiler has been replaced with ERB::Compiler. True to what dummy compilers do, it’d blow up when one tried to use ERB in a YAML key. This PR makes it possible to use ERB in YAML keys. While at it, we also deprecated config.active_record.suppress_multiple_database_warning. Rails.error.report now marks errors as reported Rails.error.report now marks errors as reported to avoid reporting them twice. This PR also enables catching and reporting errors outside of the execution context. We saw 23 contributors in the last seven days. That’s it. Until next week!</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
     </ul>
   </section>
   <section class="daily-content">

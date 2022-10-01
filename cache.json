@@ -4800,6 +4800,16 @@
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
         {
+          "id": "https://rubyonrails.org/2022/9/30/this-week-in-rails-erb-in-yaml-keys-performance-boosts-a-new-option-for-querylogs-2b63a564",
+          "author": null,
+          "description": "こんにちは。I’m Emmanuel, and I’ve got some updates for you! Avoid double type cast when serialising attributes ActiveModel::Attribute#value already casts model attributes when persisting models, however some model attribute types try to cast a given value before serialising it. This this means casting is done twice in most cases. This PR fixes that, giving us some performance boost. Add ability to set the tags_format for QueryLogs ActiveRecord::QueryLogs gets a new tags_format option. This makes it possible to specify if we want to use the default :legacy formatter or :sqlcommenter. Facilitate use of any regular ERB in database.yml DummyCompiler has been replaced with ERB::Compiler. True to what dummy compilers do, it’d blow up when one tried to use ERB in a YAML key. This PR makes it possible to use ERB in YAML keys. While at it, we also deprecated config.active_record.suppress_multiple_database_warning. Rails.error.report now marks errors as reported Rails.error.report now marks errors as reported to avoid reporting them twice. This PR also enables catching and reporting errors outside of the execution context. We saw 23 contributors in the last seven days. That’s it. Until next week!",
+          "link": "https://rubyonrails.org/2022/9/30/this-week-in-rails-erb-in-yaml-keys-performance-boosts-a-new-option-for-querylogs-2b63a564",
+          "publishedOn": "2022-09-30T00:00:00.000Z",
+          "wordCount": 442,
+          "title": "ERB in YAML keys, performance boosts, a new option for QueryLogs!",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
+        {
           "id": "https://rubyonrails.org/2022/9/23/this-week-in-rails-improved-assert_redirected_to-improved-error-messages-and-more-787f42d0",
           "author": null,
           "description": "Hi, this is Greg, bringing you the latest changes in the Rails framework.",
