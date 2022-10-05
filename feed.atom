@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T03:29:52.272Z</updated>
+    <updated>2022-10-05T04:15:26.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -7431,66 +7431,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <updated>2022-09-05T21:11:58.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Connect でキャパシティプランニングのための週ごとの営業日の設定機能をリリース]]></title>
-        <id>66e7fbf006ccbac30cb32ac1d2a7354d3f6a085a</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/"/>
-        <updated>2022-09-05T16:11:38.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Connect では、キャパシティプランニングの目的で、コンタクトセンターをどの曜日に営業するかを選択し、管理できるようになりました。この新機能は、Amazon Connect 予測、キャパシティ計画、スケジューリング (プレビュー) に追加され、これにより、コンタクトの量と平均処理時間を予測し、最適な人員レベルを判断し、エージェントのスケジュールを立て、適切な時間に適切なエージェントを配置することが可能になります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CloudFront でオリジンアクセスコントロール (OAC) をリリース]]></title>
-        <id>8a4e3f09b392b29aecd9680b507d4b6422a552a2</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/"/>
-        <updated>2022-09-05T16:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Amazon CloudFront では、オリジンアクセスコントロールの提供を開始します。これは、指定の CloudFront ディストリビューションにのみ S3 バケットへのアクセスを許可することによって、CloudFront ユーザーが S3 オリジンを簡単に保護できるようにする新機能です。S3 バケットへの CloudFront のリクエストで AWS Signature Version 4 (SigV4) を有効にして、CloudFront がリクエストに署名するタイミングと場合を設定できるようになりました。また、CloudFront を介してアップロードとダウンロードを実行する際、SSE-KMS を使用できるようになりました。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter 3.3がリリース。パフォーマンスの改善、テキスト周りの改善、iOS向け高速な描画レイヤ「Impeller」を試験的実装]]></title>
-        <id>https://www.publickey1.jp/blog/22/flutter_33iosimpeller.html</id>
-        <link href="https://www.publickey1.jp/blog/22/flutter_33iosimpeller.html"/>
-        <updated>2022-09-05T15:48:08.000Z</updated>
-        <summary type="html"><![CDATA[GoogleはDart言語によるマルチプラットフォーム対応のフレームワーク「Flutter」の最新版となる「Flutter 3.3」の正式リリースを発表しました。 Flutterは今年の5月にmacOSとLinuxアプリの開発が正式版となっ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denoのライアン・ダール氏「親愛なるオラクル殿、どうかJavaScriptの商標を手放して」と呼びかけ]]></title>
-        <id>https://www.publickey1.jp/blog/22/denojavascript.html</id>
-        <link href="https://www.publickey1.jp/blog/22/denojavascript.html"/>
-        <updated>2022-09-05T15:44:55.000Z</updated>
-        <summary type="html"><![CDATA[主要なJavaScriptランタイムであるNode.jsの作者であり、現在もDenoの開発を進めているライアン・ダール氏は、自身のブログで「Dear Oracle, Please Release the JavaScript Tradema...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 X2idn および X2iedn インスタンス、アジアパシフィック (ジャカルタ) リージョンで一般提供開始]]></title>
-        <id>832fa77004606c58acb4486c3123391843b284e6</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/"/>
-        <updated>2022-09-05T15:40:38.000Z</updated>
-        <summary type="html"><![CDATA[本日より、メモリを最適化した Amazon EC2 X2idn および X2iedn インスタンスの一般提供が、アジアパシフィック (ジャカルタ) リージョンで開始されました。X2idn および X2iedn インスタンスは、第 3 世代 Intel Xeon Scalable Processor (Ice Lake) を搭載し、メモリを大量に使用するワークロード向けに設計されており、パフォーマンス、料金パフォーマンス、メモリの GiB あたりコストが前世代の X1 インスタンスに比べ向上しています。メモリと vCPU の比率は X2idn で 16:1、X2iedn では 32:1 です。したがってこれらのインスタンスは、インメモリデータベースや分析、ビッグデータ処理エンジン、Electronic Design Automation (EDA) などのワークロードに最適です。X2idn および X2iedn は、同等の X1 インスタンスよりも最大 45% 多くの SAPS を提供し、anyDB での Business Suite on HANA、SAP S/4HANA、Data Mart Solutions on HANA、Business Warehouse on HANA、SAP BW/4HANA、SAP NetWeaver ワークロードの実行について、SAP 認定を受けています。認定データは、Certified and Supported SAP HANA Hardware Directory (認定およびサポートされている SAP HANA ハードウェアディレクトリ) でご確認いただけます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IQ を使用した料金の前払いまたはスケジュール払いが可能に]]></title>
-        <id>2f4ed7c69386214529c7139e27f86b22ce579edf</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/"/>
-        <updated>2022-09-05T15:34:38.000Z</updated>
-        <summary type="html"><![CDATA[AWS IQ で、エキスパートへの報酬に前払いまたはスケジュール払いを利用できるようになりました。スケジュール払いの場合、提案で事前に取り決めたスケジュールに従ってエキスパートに料金を支払います。前払いの場合、提案の承諾後に、前払いで業務の料金を支払います。マイルストーン払いの場合、従量制料金を利用できます。顧客として、提案内の支払い方法をご確認ください。また、エキスパートと相談して自分のプロジェクトのニーズに合った方法を選べます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
         </author>
     </entry>
     <entry>
