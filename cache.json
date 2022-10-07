@@ -6,6 +6,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "7f253cebb31ed442b45264ba7bb7b87cac9fadf4",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS Systems Manager に、タスクを制御するための CloudWatch アラームが追加されたことを発表します。CloudWatch アラームが作動した場合に、Systems Manager サービスがタスクやアクションを停止できるようになりました。これにより、リソースの使用率からアプリケーションパフォーマンスに至るまで、CloudWatch でサポートされているさまざまなモニタリングメトリクスを使用してタスクを制御することが可能になります。特定の CloudWatch アラームがタスク中に作動した場合、Automation はタスクを停止し、RunCommand はコマンドをキャンセルし、State Manager と Maintenance Windows はディスパッチをスキップします。この機能は、Systems Manager の Automation、Run Command、State Manager、Maintenance Windows といった各サービスでのタスクのセットアップ時に、CloudWatch アラームを追加するだけで簡単に使用開始できます。セットアップ完了後は、設定したアラームをタスクの詳細ページで確認できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/",
+          "publishedOn": "2022-10-07T21:46:25.000Z",
+          "wordCount": 330,
+          "title": "AWS Systems Manager にタスク制御のための CloudWatch アラーム機能が追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "35e823d5b2b0efdae3a93faafc4e2329eb25c0a1",
+          "author": "aws@amazon.com",
+          "description": "AWS サポートは、パフォーマンスの最適化、コストの削減、迅速なイノベーションを支援するため、ツール、テクノロジー、人材、プログラムを複合的に提供し続けます。本日より、新しい AWS サポートプランコンソールエクスペリエンスを使用して、現在のサポートプランとそのプランに含まれる機能の確認や、他の AWS サポートプランとの比較が、さらに簡単にできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-updated-support-plans-console-new-iam-controls/",
+          "publishedOn": "2022-10-07T21:31:14.000Z",
+          "wordCount": 311,
+          "title": "AWS が、新しい IAM コントロールを使用できる更新されたサポートプランコンソールを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1d1bc823d9bc084dfa51681d5cf4e5d74e0f2cc6",
+          "author": "aws@amazon.com",
+          "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) の提供をアジアパシフィック (ジャカルタ) AWS リージョンで開始しました。Apache Kafka および Kafka Connect 向けのフルマネージドサービスである Amazon MSK は、Apache Kafka をデータストアとして使用するアプリケーションの構築と実行を容易にします。Amazon MSK は Apache Kafka と完全に互換性があり、既存の Apache Kafka ワークロードを Amazon MSK に確実にすばやく移行することや、新しい Apache Kafka ワークロードを一から構築することができます。Amazon MSK を使用すると、クラスターの管理に費やす時間を短縮できるので、革新的なアプリケーションの構築に、より多くの時間を費やすことができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-managed-streaming-apache-kafka-amazon-msk-available-asia-pacific-jakarta-aws-region/",
+          "publishedOn": "2022-10-07T21:02:52.000Z",
+          "wordCount": 338,
+          "title": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアジアパシフィック (ジャカルタ) AWS リージョンでの提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ea01b37277dc04e75694a35d27211e1669518a90",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect のフローデザイナー UI が更新され、パーソナライズおよび自動化されたエンドユーザーエクスペリエンスをより簡単で迅速に構築できるようになりました。今回のリリースにより、利用可能なブロックを簡単にフィルタリングし、フローを構築するのに必要なものをすばやく見つけたり、色分けした線でブロック間を接続したり、追加のブロックのメタデータ (Play Prompt ブロックのフルテキストプロンプトなど) を一目で確認できるよう表示したり、その他いろいろなことができるようになりました。さらに、改善されたフロー言語により、Amazon Connect インスタンスでフローのインポートとエクスポートが可能になり、UI と API 間で互換性のある構築および編集が簡単にできるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/",
+          "publishedOn": "2022-10-07T21:02:04.000Z",
+          "wordCount": 316,
+          "title": "Amazon Connect が更新されたフロー UI と改善されたフロー言語をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9ffcf90abc0ef0bbbf2ddbc726c2f257d92d9825",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru for RDS が、新たに欧州 (ロンドン、パリ)、アジアパシフィック (ムンバイ、ソウル)、米国西部 (北カリフォルニア)、南米 (サンパウロ)、カナダ (中部) の各リージョンでご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/",
+          "publishedOn": "2022-10-07T21:01:14.000Z",
+          "wordCount": 383,
+          "title": "Amazon DevOps Guru for RDS が新たに 7 つのリージョンで提供開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8cb7355bebb624cc646cff9e1d26d90c5042a4bb",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch Container Insights で、Amazon Elastic Container Service (ECS) 用のライフサイクルイベントの提供が開始されました。Container Insights を使用すると、ECS で実行しているコンテナ化されたアプリケーションをモニタリング、分離、診断できます。このたびライフサイクルイベントが追加されたことで、メトリクス、ログ、イベントを 1 つの画面で簡単に関連付けられるようになり、オペレーションをより包括的に把握できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-cloudwatch-container-insights-lifecycle-events-amazon-ecs/",
+          "publishedOn": "2022-10-07T20:47:04.000Z",
+          "wordCount": 350,
+          "title": "Amazon CloudWatch Container Insights で Amazon ECS 用ライフサイクルイベントの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1103a9f1a8e11593eae8cb2ef266010cc730943c",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker のモデルトレーニングで、SageMaker のトレーニングマネージド型ウォームプールのサポートを開始しました。機械学習 (ML) モデルトレーニングのハードウェアインスタンスを、ジョブ完了後の指定された期間、ウォーム状態に保つ選択ができるようになりました。この機能を利用すると、同じウォーム状態のインスタンスでモデルトレーニングの反復実験や連続したジョブを大規模に実行して、ジョブの起動レイテンシを最大 8 分の 1 に短縮できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/reduce-ml-model-training-job-startup-time-8x-sagemaker-training-managed-warm-pools/",
+          "publishedOn": "2022-10-07T20:46:15.000Z",
+          "wordCount": 320,
+          "title": "SageMaker のトレーニングマネージド型ウォームプールを使用して機械学習モデルのトレーニングジョブの起動時間を最大 8 分の 1 に短縮",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "03a5b4b43757ada35fceb3d0a65c1c2a2db86e5c",
           "author": "aws@amazon.com",
           "description": "Amazon WorkSpaces Core は、新たなフルマネージド仮想デスクトップインフラストラクチャ (VDI) サービスです。AWS のセキュリティ、グローバルな信頼性、コスト効率と、既存の VDI 管理ソリューションを兼ね備えています。WorkSpaces Core を使用すると、容量計画またはインフラストラクチャの更新が不要になり、VDI 環境のプロビジョン、デプロイ、および管理が簡素化されます。WorkSpaces Core では、オンプレミスの VDI ソリューションを AWS に移行、またはオンプレミスリソースおよび WorkSpaces Core インフラストラクチャにまたがるハイブリッド環境でのデプロイができます。エンドユーザーを混乱させたり、IT 部門のスタッフを再トレーニングしたりすることなく、ユーザーベース全体を単一のコンソールから管理できます。",
@@ -1998,16 +2068,6 @@
           "wordCount": 2915,
           "title": "2022年9月29日開催無料セミナー 合計1,000ページ以上の白書を90分で解説！ DX／業務改革／事業に活かす 「白書の読み方／捉え方」勉強会",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/10/03_datatimes-seminar-3.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45536",
-          "author": "tadokoroyusuke",
-          "description": "DXの取り組みによって、わずか2年の間に年間延べ5,760時間削減、利益率9％から30％まで改善した株式会社ハマヤ。最近は中小企業のDXの成功事例として、メディアに取り上げられることも増えている。成果はもちろんだが、 […]",
-          "link": "https://data.wingarc.com/localdxlab-26-kyoto-45536?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-26-kyoto",
-          "publishedOn": "2022-09-08T01:00:22.000Z",
-          "wordCount": 3725,
-          "title": "わずか2年で業務時間5,760時間削減／利益率27%増 「ゼロ」からDXを実現した京都老舗企業のDXの「本質」",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/08/066eb97d8e8ec454a4f2ecaf9322dd35.jpg"
         }
       ]
     },
@@ -2823,66 +2883,6 @@
           "wordCount": 162,
           "title": "第13回　PCI Express 5.0",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/13/ifr-13-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/mruby_kaigi",
-          "author": null,
-          "description": "福岡県は 2022年10月15日（土）、県内の産学官が連携して開発したRubyベースの組込み分野向けプログラミング言語「mruby」公開10周年を記念し、オンラインイベント「Fukuoka mruby Kaigi」を開催する。",
-          "link": "https://gihyo.jp/article/2022/09/mruby_kaigi?utm_source=feed",
-          "publishedOn": "2022-09-08T07:57:00.000Z",
-          "wordCount": 156,
-          "title": "mruby公開10周年記念「Fukuoka mruby Kaigi」が10/15開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1943_mruby_kaigi.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/monthly-python-2209",
-          "author": null,
-          "description": "寺田 学です。9月の「Python Monthly Topics」は、Python 3.5で導入され、多くの場面で活用されている型ヒント（Type Hints）について、より良い型ヒントの書き方を紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/monthly-python-2209?utm_source=feed",
-          "publishedOn": "2022-09-08T00:40:00.000Z",
-          "wordCount": null,
-          "title": "Python最新バージョン対応！より良い型ヒントの書き方",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc008-lmp",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「LMPを用いたアプリの翻訳フロー改善（ションロー） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc008-lmp?utm_source=feed",
-          "publishedOn": "2022-09-08T00:35:00.000Z",
-          "wordCount": null,
-          "title": "LMPを用いたアプリの翻訳フロー改善 ～TechFeed Conference 2022講演より",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220908",
-          "author": null,
-          "description": "8月26日、Googleはアプリ開発者がリッチなマルチデバイス エクスペリエンスを構築できるSDK「Cross device SDK for Android」のプレビュー版をリリースしました。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220908?utm_source=feed",
-          "publishedOn": "2022-09-08T00:17:00.000Z",
-          "wordCount": 224,
-          "title": "Google、アプリ間で体験共有ができる「Cross device SDK for Android」プレビュー版をリリース",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-12",
-          "author": null,
-          "description": "今回は、データセンターの中長期的な変化について分析していきましょう。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-12?utm_source=feed",
-          "publishedOn": "2022-09-08T00:15:00.000Z",
-          "wordCount": 148,
-          "title": "第12回　マイクロデータセンター",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/12/ifr-12-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/pyconjp22-ticket",
-          "author": null,
-          "description": "Pythonに関する年次カンファレンス「PyCon JP 2022」が、2022年10月14日（金）～16日（日）、東京、TOC有明コンベンションホールでオンサイト、オンラインのハイブリッド形式で開催される。そのカンファレンス参加チケットの販売が開始された。",
-          "link": "https://gihyo.jp/article/2022/09/pyconjp22-ticket?utm_source=feed",
-          "publishedOn": "2022-09-07T23:48:00.000Z",
-          "wordCount": null,
-          "title": "10/14～16開催「PyCon JP 2022」チケット販売が開始",
-          "imageUrl": null
         }
       ]
     },
@@ -3679,66 +3679,6 @@
           "publishedOn": "2022-09-09T00:31:00.000Z",
           "wordCount": null,
           "title": "第13回　PCI Express 5.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/mruby_kaigi",
-          "author": null,
-          "description": "福岡県は 2022年10月15日（土）、県内の産学官が連携して開発したRubyベースの組込み分野向けプログラミング言語「mruby」公開10周年を記念し、オンラインイベント「Fukuoka mruby Kaigi」を開催する。",
-          "link": "https://gihyo.jp/article/2022/09/mruby_kaigi?utm_source=feed",
-          "publishedOn": "2022-09-08T07:57:00.000Z",
-          "wordCount": 156,
-          "title": "mruby公開10周年記念「Fukuoka mruby Kaigi」が10/15開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1943_mruby_kaigi.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/monthly-python-2209",
-          "author": null,
-          "description": "寺田 学です。9月の「Python Monthly Topics」は、Python 3.5で導入され、多くの場面で活用されている型ヒント（Type Hints）について、より良い型ヒントの書き方を紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/monthly-python-2209?utm_source=feed",
-          "publishedOn": "2022-09-08T00:40:00.000Z",
-          "wordCount": null,
-          "title": "Python最新バージョン対応！より良い型ヒントの書き方",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc008-lmp",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「LMPを用いたアプリの翻訳フロー改善（ションロー） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc008-lmp?utm_source=feed",
-          "publishedOn": "2022-09-08T00:35:00.000Z",
-          "wordCount": null,
-          "title": "LMPを用いたアプリの翻訳フロー改善 ～TechFeed Conference 2022講演より",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220908",
-          "author": null,
-          "description": "8月26日、Googleはアプリ開発者がリッチなマルチデバイス エクスペリエンスを構築できるSDK「Cross device SDK for Android」のプレビュー版をリリースしました。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220908?utm_source=feed",
-          "publishedOn": "2022-09-08T00:17:00.000Z",
-          "wordCount": null,
-          "title": "Google、アプリ間で体験共有ができる「Cross device SDK for Android」プレビュー版をリリース",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-12",
-          "author": null,
-          "description": "今回は、データセンターの中長期的な変化について分析していきましょう。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-12?utm_source=feed",
-          "publishedOn": "2022-09-08T00:15:00.000Z",
-          "wordCount": null,
-          "title": "第12回　マイクロデータセンター",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/pyconjp22-ticket",
-          "author": null,
-          "description": "Pythonに関する年次カンファレンス「PyCon JP 2022」が、2022年10月14日（金）～16日（日）、東京、TOC有明コンベンションホールでオンサイト、オンラインのハイブリッド形式で開催される。そのカンファレンス参加チケットの販売が開始された。",
-          "link": "https://gihyo.jp/article/2022/09/pyconjp22-ticket?utm_source=feed",
-          "publishedOn": "2022-09-07T23:48:00.000Z",
-          "wordCount": null,
-          "title": "10/14～16開催「PyCon JP 2022」チケット販売が開始",
           "imageUrl": null
         }
       ]
@@ -4537,66 +4477,6 @@
           "wordCount": 162,
           "title": "第13回　PCI Express 5.0",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/13/ifr-13-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/mruby_kaigi",
-          "author": null,
-          "description": "福岡県は 2022年10月15日（土）、県内の産学官が連携して開発したRubyベースの組込み分野向けプログラミング言語「mruby」公開10周年を記念し、オンラインイベント「Fukuoka mruby Kaigi」を開催する。",
-          "link": "https://gihyo.jp/article/2022/09/mruby_kaigi?utm_source=feed",
-          "publishedOn": "2022-09-08T07:57:00.000Z",
-          "wordCount": 156,
-          "title": "mruby公開10周年記念「Fukuoka mruby Kaigi」が10/15開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1943_mruby_kaigi.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/monthly-python-2209",
-          "author": null,
-          "description": "寺田 学です。9月の「Python Monthly Topics」は、Python 3.5で導入され、多くの場面で活用されている型ヒント（Type Hints）について、より良い型ヒントの書き方を紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/monthly-python-2209?utm_source=feed",
-          "publishedOn": "2022-09-08T00:40:00.000Z",
-          "wordCount": 914,
-          "title": "Python最新バージョン対応！より良い型ヒントの書き方",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1894_python-monthly.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc008-lmp",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「LMPを用いたアプリの翻訳フロー改善（ションロー） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc008-lmp?utm_source=feed",
-          "publishedOn": "2022-09-08T00:35:00.000Z",
-          "wordCount": 200,
-          "title": "LMPを用いたアプリの翻訳フロー改善 ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1941_techfeed_lmp.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220908",
-          "author": null,
-          "description": "8月26日、Googleはアプリ開発者がリッチなマルチデバイス エクスペリエンスを構築できるSDK「Cross device SDK for Android」のプレビュー版をリリースしました。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220908?utm_source=feed",
-          "publishedOn": "2022-09-08T00:17:00.000Z",
-          "wordCount": null,
-          "title": "Google、アプリ間で体験共有ができる「Cross device SDK for Android」プレビュー版をリリース",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-12",
-          "author": null,
-          "description": "今回は、データセンターの中長期的な変化について分析していきましょう。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-12?utm_source=feed",
-          "publishedOn": "2022-09-08T00:15:00.000Z",
-          "wordCount": 148,
-          "title": "第12回　マイクロデータセンター",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/12/ifr-12-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/pyconjp22-ticket",
-          "author": null,
-          "description": "Pythonに関する年次カンファレンス「PyCon JP 2022」が、2022年10月14日（金）～16日（日）、東京、TOC有明コンベンションホールでオンサイト、オンラインのハイブリッド形式で開催される。そのカンファレンス参加チケットの販売が開始された。",
-          "link": "https://gihyo.jp/article/2022/09/pyconjp22-ticket?utm_source=feed",
-          "publishedOn": "2022-09-07T23:48:00.000Z",
-          "wordCount": null,
-          "title": "10/14～16開催「PyCon JP 2022」チケット販売が開始",
-          "imageUrl": null
         }
       ]
     },
@@ -4905,16 +4785,6 @@
           "wordCount": 669,
           "title": "Railsの技: StimulusJSのコントローラを&#8221;self-destructing&#8221;にする（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_self_destructing_stimulus_controller_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_lifecycle_of_response_eyecatch2-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Inside Rails: The Lifecycle of a Response 原文公開日: 2020/05/05 著者: Godfrey Chan サイト: Skylight 日本語タイトルは内容に即したものにしました。 本記事は以下の続編です。 Rails: リクエストのライフサイクルとRackを理解する（翻訳） 参考 以下のサイトで、Railsのリクエストの全ライフサイクルをビジュアル表示で追うことができます。本記事と合わせて参照することで理解が進むと思います。 サイト: Rails Trace rails-trace.chriszetter. [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719\" data-wpel-link=\"internal\" target=\"_self\">Rails: レスポンスのライフサイクルとETagを理解する（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719",
-          "publishedOn": "2022-09-08T08:30:17.000Z",
-          "wordCount": 906,
-          "title": "Rails: レスポンスのライフサイクルとETagを理解する（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_lifecycle_of_response_eyecatch2-min.png"
         }
       ]
     },
@@ -6379,46 +6249,6 @@
           "wordCount": 1225,
           "title": "軍事起業家が売り込む「絶対安全」なスマホは実現可能か？",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/19191517/Melting-Phone-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/06/285303/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/08/285303/",
-          "publishedOn": "2022-09-08T00:27:30.000Z",
-          "wordCount": 687,
-          "title": "量子コンに最適な量子演算シーケンスを体系的に特定する新手法",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/07/285349/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/08/285349/",
-          "publishedOn": "2022-09-08T00:01:54.000Z",
-          "wordCount": 682,
-          "title": "EVの電費向上につながる高精度量子センサー、東工大など開発",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/06/285299/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/08/285299/",
-          "publishedOn": "2022-09-07T23:01:27.000Z",
-          "wordCount": 684,
-          "title": "宇宙プラズマ衝撃波を実験室で再現、宇宙線の謎解明へ＝阪大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/07/285369/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/08/285369/",
-          "publishedOn": "2022-09-07T22:48:12.000Z",
-          "wordCount": 682,
-          "title": "「人工気象室」で気候変動に強い農作物を開発へ＝農研機構",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     }

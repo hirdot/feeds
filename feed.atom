@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T10:02:14.091Z</updated>
+    <updated>2022-10-07T22:01:16.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Systems Manager にタスク制御のための CloudWatch アラーム機能が追加]]></title>
+        <id>7f253cebb31ed442b45264ba7bb7b87cac9fadf4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/"/>
+        <updated>2022-10-07T21:46:25.000Z</updated>
+        <summary type="html"><![CDATA[本日、AWS Systems Manager に、タスクを制御するための CloudWatch アラームが追加されたことを発表します。CloudWatch アラームが作動した場合に、Systems Manager サービスがタスクやアクションを停止できるようになりました。これにより、リソースの使用率からアプリケーションパフォーマンスに至るまで、CloudWatch でサポートされているさまざまなモニタリングメトリクスを使用してタスクを制御することが可能になります。特定の CloudWatch アラームがタスク中に作動した場合、Automation はタスクを停止し、RunCommand はコマンドをキャンセルし、State Manager と Maintenance Windows はディスパッチをスキップします。この機能は、Systems Manager の Automation、Run Command、State Manager、Maintenance Windows といった各サービスでのタスクのセットアップ時に、CloudWatch アラームを追加するだけで簡単に使用開始できます。セットアップ完了後は、設定したアラームをタスクの詳細ページで確認できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が、新しい IAM コントロールを使用できる更新されたサポートプランコンソールを発表]]></title>
+        <id>35e823d5b2b0efdae3a93faafc4e2329eb25c0a1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-updated-support-plans-console-new-iam-controls/"/>
+        <updated>2022-10-07T21:31:14.000Z</updated>
+        <summary type="html"><![CDATA[AWS サポートは、パフォーマンスの最適化、コストの削減、迅速なイノベーションを支援するため、ツール、テクノロジー、人材、プログラムを複合的に提供し続けます。本日より、新しい AWS サポートプランコンソールエクスペリエンスを使用して、現在のサポートプランとそのプランに含まれる機能の確認や、他の AWS サポートプランとの比較が、さらに簡単にできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) のアジアパシフィック (ジャカルタ) AWS リージョンでの提供開始]]></title>
+        <id>1d1bc823d9bc084dfa51681d5cf4e5d74e0f2cc6</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-managed-streaming-apache-kafka-amazon-msk-available-asia-pacific-jakarta-aws-region/"/>
+        <updated>2022-10-07T21:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Managed Streaming for Apache Kafka (Amazon MSK) の提供をアジアパシフィック (ジャカルタ) AWS リージョンで開始しました。Apache Kafka および Kafka Connect 向けのフルマネージドサービスである Amazon MSK は、Apache Kafka をデータストアとして使用するアプリケーションの構築と実行を容易にします。Amazon MSK は Apache Kafka と完全に互換性があり、既存の Apache Kafka ワークロードを Amazon MSK に確実にすばやく移行することや、新しい Apache Kafka ワークロードを一から構築することができます。Amazon MSK を使用すると、クラスターの管理に費やす時間を短縮できるので、革新的なアプリケーションの構築に、より多くの時間を費やすことができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect が更新されたフロー UI と改善されたフロー言語をリリース]]></title>
+        <id>ea01b37277dc04e75694a35d27211e1669518a90</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/"/>
+        <updated>2022-10-07T21:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect のフローデザイナー UI が更新され、パーソナライズおよび自動化されたエンドユーザーエクスペリエンスをより簡単で迅速に構築できるようになりました。今回のリリースにより、利用可能なブロックを簡単にフィルタリングし、フローを構築するのに必要なものをすばやく見つけたり、色分けした線でブロック間を接続したり、追加のブロックのメタデータ (Play Prompt ブロックのフルテキストプロンプトなど) を一目で確認できるよう表示したり、その他いろいろなことができるようになりました。さらに、改善されたフロー言語により、Amazon Connect インスタンスでフローのインポートとエクスポートが可能になり、UI と API 間で互換性のある構築および編集が簡単にできるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon DevOps Guru for RDS が新たに 7 つのリージョンで提供開始]]></title>
+        <id>9ffcf90abc0ef0bbbf2ddbc726c2f257d92d9825</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/"/>
+        <updated>2022-10-07T21:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon DevOps Guru for RDS が、新たに欧州 (ロンドン、パリ)、アジアパシフィック (ムンバイ、ソウル)、米国西部 (北カリフォルニア)、南米 (サンパウロ)、カナダ (中部) の各リージョンでご利用いただけるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon CloudWatch Container Insights で Amazon ECS 用ライフサイクルイベントの提供を開始]]></title>
+        <id>8cb7355bebb624cc646cff9e1d26d90c5042a4bb</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-cloudwatch-container-insights-lifecycle-events-amazon-ecs/"/>
+        <updated>2022-10-07T20:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon CloudWatch Container Insights で、Amazon Elastic Container Service (ECS) 用のライフサイクルイベントの提供が開始されました。Container Insights を使用すると、ECS で実行しているコンテナ化されたアプリケーションをモニタリング、分離、診断できます。このたびライフサイクルイベントが追加されたことで、メトリクス、ログ、イベントを 1 つの画面で簡単に関連付けられるようになり、オペレーションをより包括的に把握できるようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SageMaker のトレーニングマネージド型ウォームプールを使用して機械学習モデルのトレーニングジョブの起動時間を最大 8 分の 1 に短縮]]></title>
+        <id>1103a9f1a8e11593eae8cb2ef266010cc730943c</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/reduce-ml-model-training-job-startup-time-8x-sagemaker-training-managed-warm-pools/"/>
+        <updated>2022-10-07T20:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker のモデルトレーニングで、SageMaker のトレーニングマネージド型ウォームプールのサポートを開始しました。機械学習 (ML) モデルトレーニングのハードウェアインスタンスを、ジョブ完了後の指定された期間、ウォーム状態に保つ選択ができるようになりました。この機能を利用すると、同じウォーム状態のインスタンスでモデルトレーニングの反復実験や連続したジョブを大規模に実行して、ジョブの起動レイテンシを最大 8 分の 1 に短縮できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Railsの技: HotwireとRailsで使える新しいCSSトリック（翻訳）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_10_07/121395</id>
@@ -7177,243 +7247,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
         <summary type="html"><![CDATA[マイクロソフトは現在開発中のアプリケーションフレームワーク「.NET 7」に、Dockerコンテナの生成機能を搭載する予定であることを明らかにしました。 これまで.NETアプリケーションをDockerコンテナ化するには、Dockerコンテナ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: レスポンスのライフサイクルとETagを理解する（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719"/>
-        <updated>2022-09-08T08:30:17.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/08/rails_lifecycle_of_response_eyecatch2-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Inside Rails: The Lifecycle of a Response 原文公開日: 2020/05/05 著者: Godfrey Chan サイト: Skylight 日本語タイトルは内容に即したものにしました。 本記事は以下の続編です。 Rails: リクエストのライフサイクルとRackを理解する（翻訳） 参考 以下のサイトで、Railsのリクエストの全ライフサイクルをビジュアル表示で追うことができます。本記事と合わせて参照することで理解が進むと思います。 サイト: Rails Trace rails-trace.chriszetter. [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_08/120719" data-wpel-link="internal" target="_self">Rails: レスポンスのライフサイクルとETagを理解する（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mruby公開10周年記念「Fukuoka mruby Kaigi」が10/15開催]]></title>
-        <id>https://gihyo.jp/article/2022/09/mruby_kaigi</id>
-        <link href="https://gihyo.jp/article/2022/09/mruby_kaigi?utm_source=feed"/>
-        <updated>2022-09-08T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[福岡県は 2022年10月15日（土）、県内の産学官が連携して開発したRubyベースの組込み分野向けプログラミング言語「mruby」公開10周年を記念し、オンラインイベント「Fukuoka mruby Kaigi」を開催する。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mruby公開10周年記念「Fukuoka mruby Kaigi」が10/15開催]]></title>
-        <id>https://gihyo.jp/article/2022/09/mruby_kaigi</id>
-        <link href="https://gihyo.jp/article/2022/09/mruby_kaigi?utm_source=feed"/>
-        <updated>2022-09-08T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[福岡県は 2022年10月15日（土）、県内の産学官が連携して開発したRubyベースの組込み分野向けプログラミング言語「mruby」公開10周年を記念し、オンラインイベント「Fukuoka mruby Kaigi」を開催する。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mruby公開10周年記念「Fukuoka mruby Kaigi」が10/15開催]]></title>
-        <id>https://gihyo.jp/article/2022/09/mruby_kaigi</id>
-        <link href="https://gihyo.jp/article/2022/09/mruby_kaigi?utm_source=feed"/>
-        <updated>2022-09-08T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[福岡県は 2022年10月15日（土）、県内の産学官が連携して開発したRubyベースの組込み分野向けプログラミング言語「mruby」公開10周年を記念し、オンラインイベント「Fukuoka mruby Kaigi」を開催する。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[わずか2年で業務時間5,760時間削減／利益率27%増 「ゼロ」からDXを実現した京都老舗企業のDXの「本質」]]></title>
-        <id>https://data.wingarc.com/?p=45536</id>
-        <link href="https://data.wingarc.com/localdxlab-26-kyoto-45536?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=localdxlab-26-kyoto"/>
-        <updated>2022-09-08T01:00:22.000Z</updated>
-        <summary type="html"><![CDATA[DXの取り組みによって、わずか2年の間に年間延べ5,760時間削減、利益率9％から30％まで改善した株式会社ハマヤ。最近は中小企業のDXの成功事例として、メディアに取り上げられることも増えている。成果はもちろんだが、 […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python最新バージョン対応！より良い型ヒントの書き方]]></title>
-        <id>https://gihyo.jp/article/2022/09/monthly-python-2209</id>
-        <link href="https://gihyo.jp/article/2022/09/monthly-python-2209?utm_source=feed"/>
-        <updated>2022-09-08T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[寺田 学です。9月の「Python Monthly Topics」は、Python 3.5で導入され、多くの場面で活用されている型ヒント（Type Hints）について、より良い型ヒントの書き方を紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python最新バージョン対応！より良い型ヒントの書き方]]></title>
-        <id>https://gihyo.jp/article/2022/09/monthly-python-2209</id>
-        <link href="https://gihyo.jp/article/2022/09/monthly-python-2209?utm_source=feed"/>
-        <updated>2022-09-08T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[寺田 学です。9月の「Python Monthly Topics」は、Python 3.5で導入され、多くの場面で活用されている型ヒント（Type Hints）について、より良い型ヒントの書き方を紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python最新バージョン対応！より良い型ヒントの書き方]]></title>
-        <id>https://gihyo.jp/article/2022/09/monthly-python-2209</id>
-        <link href="https://gihyo.jp/article/2022/09/monthly-python-2209?utm_source=feed"/>
-        <updated>2022-09-08T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[寺田 学です。9月の「Python Monthly Topics」は、Python 3.5で導入され、多くの場面で活用されている型ヒント（Type Hints）について、より良い型ヒントの書き方を紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LMPを用いたアプリの翻訳フロー改善 ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/09/tfc008-lmp</id>
-        <link href="https://gihyo.jp/article/2022/09/tfc008-lmp?utm_source=feed"/>
-        <updated>2022-09-08T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「LMPを用いたアプリの翻訳フロー改善（ションロー） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LMPを用いたアプリの翻訳フロー改善 ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/09/tfc008-lmp</id>
-        <link href="https://gihyo.jp/article/2022/09/tfc008-lmp?utm_source=feed"/>
-        <updated>2022-09-08T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「LMPを用いたアプリの翻訳フロー改善（ションロー） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LMPを用いたアプリの翻訳フロー改善 ～TechFeed Conference 2022講演より]]></title>
-        <id>https://gihyo.jp/article/2022/09/tfc008-lmp</id>
-        <link href="https://gihyo.jp/article/2022/09/tfc008-lmp?utm_source=feed"/>
-        <updated>2022-09-08T00:35:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「LMPを用いたアプリの翻訳フロー改善（ションロー） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子コンに最適な量子演算シーケンスを体系的に特定する新手法]]></title>
-        <id>https://www.technologyreview.jp/n/2022/09/06/285303/</id>
-        <link href="https://www.technologyreview.jp/n/2022/09/08/285303/"/>
-        <updated>2022-09-08T00:27:30.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、アプリ間で体験共有ができる「Cross device SDK for Android」プレビュー版をリリース]]></title>
-        <id>https://gihyo.jp/article/2022/09/android-weekly-topics-220908</id>
-        <link href="https://gihyo.jp/article/2022/09/android-weekly-topics-220908?utm_source=feed"/>
-        <updated>2022-09-08T00:17:00.000Z</updated>
-        <summary type="html"><![CDATA[8月26日、Googleはアプリ開発者がリッチなマルチデバイス エクスペリエンスを構築できるSDK「Cross device SDK for Android」のプレビュー版をリリースしました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、アプリ間で体験共有ができる「Cross device SDK for Android」プレビュー版をリリース]]></title>
-        <id>https://gihyo.jp/article/2022/09/android-weekly-topics-220908</id>
-        <link href="https://gihyo.jp/article/2022/09/android-weekly-topics-220908?utm_source=feed"/>
-        <updated>2022-09-08T00:17:00.000Z</updated>
-        <summary type="html"><![CDATA[8月26日、Googleはアプリ開発者がリッチなマルチデバイス エクスペリエンスを構築できるSDK「Cross device SDK for Android」のプレビュー版をリリースしました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、アプリ間で体験共有ができる「Cross device SDK for Android」プレビュー版をリリース]]></title>
-        <id>https://gihyo.jp/article/2022/09/android-weekly-topics-220908</id>
-        <link href="https://gihyo.jp/article/2022/09/android-weekly-topics-220908?utm_source=feed"/>
-        <updated>2022-09-08T00:17:00.000Z</updated>
-        <summary type="html"><![CDATA[8月26日、Googleはアプリ開発者がリッチなマルチデバイス エクスペリエンスを構築できるSDK「Cross device SDK for Android」のプレビュー版をリリースしました。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第12回　マイクロデータセンター]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-12</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-12?utm_source=feed"/>
-        <updated>2022-09-08T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、データセンターの中長期的な変化について分析していきましょう。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第12回　マイクロデータセンター]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-12</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-12?utm_source=feed"/>
-        <updated>2022-09-08T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、データセンターの中長期的な変化について分析していきましょう。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第12回　マイクロデータセンター]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-12</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-12?utm_source=feed"/>
-        <updated>2022-09-08T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は、データセンターの中長期的な変化について分析していきましょう。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVの電費向上につながる高精度量子センサー、東工大など開発]]></title>
-        <id>https://www.technologyreview.jp/n/2022/09/07/285349/</id>
-        <link href="https://www.technologyreview.jp/n/2022/09/08/285349/"/>
-        <updated>2022-09-08T00:01:54.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/14～16開催「PyCon JP 2022」チケット販売が開始]]></title>
-        <id>https://gihyo.jp/article/2022/09/pyconjp22-ticket</id>
-        <link href="https://gihyo.jp/article/2022/09/pyconjp22-ticket?utm_source=feed"/>
-        <updated>2022-09-07T23:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Pythonに関する年次カンファレンス「PyCon JP 2022」が、2022年10月14日（金）～16日（日）、東京、TOC有明コンベンションホールでオンサイト、オンラインのハイブリッド形式で開催される。そのカンファレンス参加チケットの販売が開始された。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/14～16開催「PyCon JP 2022」チケット販売が開始]]></title>
-        <id>https://gihyo.jp/article/2022/09/pyconjp22-ticket</id>
-        <link href="https://gihyo.jp/article/2022/09/pyconjp22-ticket?utm_source=feed"/>
-        <updated>2022-09-07T23:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Pythonに関する年次カンファレンス「PyCon JP 2022」が、2022年10月14日（金）～16日（日）、東京、TOC有明コンベンションホールでオンサイト、オンラインのハイブリッド形式で開催される。そのカンファレンス参加チケットの販売が開始された。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/14～16開催「PyCon JP 2022」チケット販売が開始]]></title>
-        <id>https://gihyo.jp/article/2022/09/pyconjp22-ticket</id>
-        <link href="https://gihyo.jp/article/2022/09/pyconjp22-ticket?utm_source=feed"/>
-        <updated>2022-09-07T23:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Pythonに関する年次カンファレンス「PyCon JP 2022」が、2022年10月14日（金）～16日（日）、東京、TOC有明コンベンションホールでオンサイト、オンラインのハイブリッド形式で開催される。そのカンファレンス参加チケットの販売が開始された。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙プラズマ衝撃波を実験室で再現、宇宙線の謎解明へ＝阪大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/09/06/285299/</id>
-        <link href="https://www.technologyreview.jp/n/2022/09/08/285299/"/>
-        <updated>2022-09-07T23:01:27.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「人工気象室」で気候変動に強い農作物を開発へ＝農研機構]]></title>
-        <id>https://www.technologyreview.jp/n/2022/09/07/285369/</id>
-        <link href="https://www.technologyreview.jp/n/2022/09/08/285369/"/>
-        <updated>2022-09-07T22:48:12.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
         </author>
     </entry>
     <entry>
