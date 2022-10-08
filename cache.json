@@ -1594,56 +1594,6 @@
           "wordCount": 357,
           "title": "VMware Cloud on AWS と Amazon FSx for NetApp ONTAP との統合を発表",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c81b4971405015cb4b7b51ba487f272e49640291",
-          "author": "aws@amazon.com",
-          "description": "Amazon Personalize のフィルタ機能が拡張され、上限が増えて、各フィルタが考慮するインタラクションの数を制御できるようになりました。Amazon Personalize のフィルタは、ユーザーがすでに購入した製品や視聴済みの動画、あるいは、最近のインタラクションですでに利用したその他デジタルコンテンツを削除することで、レコメンデーションの精度を高めます。レコメンデーションを繰り返し表示することはユーザーのストレスになりかねず、ユーザーエンゲージメントの低下や収益機会の損失につながる可能性があります。このたび、Amazon Personalize に、フィルタが考慮するインタラクションの数を増やせる機能が追加されました。これにより、とりわけユーザーが大量のインタラクションを行うユースケースで、過去のアクティビティを取得する精度が向上します。今後は、フィルタを使って、イベントタイプごとにユーザーあたり最大 100 のインタラクションを考慮できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/",
-          "publishedOn": "2022-09-08T17:34:29.000Z",
-          "wordCount": 296,
-          "title": "Amazon Personalize、フィルタが考慮するイベントの数を増やし、より関連性の高いレコメンデーションを表示",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "095265dd00bbbb13f019336088a1315a11cb3375",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight で、データセット管理用の新しいユーザーインターフェイスがリリースされます。これまでデータセット管理は限られたスペースのポップアップダイアログモーダルで行われていて、すべての機能が小さな 1 つのモーダルに表示されていました。新しいデータセット管理のユーザーインターフェイスでは、既存のポップアップダイアログモーダルがフルページに変わり、概要、リフレッシュ、権限、使用量など、データセットのカテゴリの詳細がより明確に示されます。また、この更新に基づいて今後も機能拡張と新機能追加が行われる予定です。詳細については、こちらをご覧ください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/",
-          "publishedOn": "2022-09-08T17:33:41.000Z",
-          "wordCount": 296,
-          "title": "Amazon QuickSight がデータセット管理用の新しいユーザーインターフェイスをリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8f98c828e6693187ce5142ea6a4af51941a94b07",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight ではユーザーがサービスにサインインする方法が変わり、既存の AWS アプリケーションのサインインの様式と同じような見た目と使い方になります。QuickSight のサインインは次の 3 ステップになります。1) 最初のページで QuickSight アカウント名を入力する。2) 次のページでユーザーネームを入力する。3) 3 ページ目はサインインの設定 (ネイティブ QuickSight、Active Directory ユーザー、AWS ルートユーザー、IAM ユーザー) によって異なる。シングルサインオン (SSO) を使用しているユーザーの手順は、変更ありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/",
-          "publishedOn": "2022-09-08T17:32:51.000Z",
-          "wordCount": 300,
-          "title": "新しい Amazon QuickSight のサインイン方法が利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a98192d59ef75ad4303b1722f007cc0297aad1eb",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for Oracle が、M6i と R6i インスタンスを新しいリージョンでサポートするようになりました。Amazon RDS for Oracle での M6i と R6i インスタンスのサポートは 2022 年 4 月にすでに始まっています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/",
-          "publishedOn": "2022-09-08T17:32:04.000Z",
-          "wordCount": 368,
-          "title": "Amazon RDS for Oracle が M6i と R6i インスタンスのサポートを新しいリージョンで開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9a7f3d93238ae736e3b4948a7c73fb91d3830ba6",
-          "author": "aws@amazon.com",
-          "description": "AWS は、Amazon Route 53 Resolver エンドポイントのサービスレベルアグリーメント (SLA) を公開しました。この SLA により本サービスの可用性が保証されます。AWS は、毎月の支払請求サイクルの中で、月間稼働率 99.99% 以上で Amazon Route 53 Multi-AZ Resolver エンドポイントを提供できるよう、商取引上相応の努力を払うものとします (「サービスコミットメント」)。Amazon Route 53 Resolver エンドポイントがこのサービスコミットメントを満たさなかった場合、ユーザーは、Amazon Route 53 Resolver エンドポイントサービスレベルアグリーメントに規定されている通り、サービスクレジットの受領資格を得られます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/announces-amazon-route-resolver-endpoints-service-level-agreement-updates-hosted-zones/",
-          "publishedOn": "2022-09-08T17:31:15.000Z",
-          "wordCount": 337,
-          "title": "Amazon Route 53 Resolver エンドポイント、99.99% のサービスレベルアグリーメントを発表。また、Route 53 のホストゾーンのサービスレベルアグリーメントを更新",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
