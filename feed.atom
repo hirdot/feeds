@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-09T10:01:18.637Z</updated>
+    <updated>2022-10-09T22:01:10.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
@@ -6996,16 +6996,6 @@ ID と認証: 各プレイヤーに一意の ID を作成し、プレイヤー�
 購読キャンペーン実施中]]></summary>
         <author>
             <name>Patrick Howell O'Neill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rack 3 and Rails 7.0.4, 6.1.7, and 6.0.6 releases, ActionDispatch::Cookies, etc]]></title>
-        <id>https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56</id>
-        <link href="https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56"/>
-        <updated>2022-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[👋🏾… This is Emmanuel. I’ve got some Rails updates for you. Rack 3.0 has shipped A major version of Rack has shipped, and as expected, there are breaking changes but with lots of improvements and an upgrade guide. There’s also a changelog of the beta versions and release candidates leading up to the release. Rails 7.0.4, 6.1.7, and 6.0.6 have been released These are mostly bugfixes with various enhancements, compatibility fixes, and performance improvements. Fix bug in connection handler methods using all pools active_connections?, clear_active_connections!, clear_reloadable_connections!, clear_all_connections!, and flush_idle_connections! now operate on all pools by default. Previously they would default to using the current_role or :writing role unless specified. Add :locals to ActionView rendering instrumentation Action View render instrumentation now reports :locals. ActiveSupport::Notifications will now capture :locals in addition to :identifier and :layout. Add ability to run only before/around/after callbacks in run_callbacks This PR makes it possible to use run_callbacks without the need to run all callbacks. You can now choose specific callbacks to run. ActionDispatch::Cookies JSON deserializer discards Marshal dumps If an application reads a Marshall dump, JSON::ParserError is raised without clearing cookies when the cookies serializer is set to JSON. This PR fixes that. 35 people contributed to Rails in the last 8 days. That’s it. Допобачення!]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
         </author>
     </entry>
     <entry>

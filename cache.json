@@ -4318,16 +4318,6 @@
           "wordCount": 381,
           "title": "Handling reconnects in Action Cable, no more Coffeescript and a new guide.",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56",
-          "author": null,
-          "description": "👋🏾… This is Emmanuel. I’ve got some Rails updates for you. Rack 3.0 has shipped A major version of Rack has shipped, and as expected, there are breaking changes but with lots of improvements and an upgrade guide. There’s also a changelog of the beta versions and release candidates leading up to the release. Rails 7.0.4, 6.1.7, and 6.0.6 have been released These are mostly bugfixes with various enhancements, compatibility fixes, and performance improvements. Fix bug in connection handler methods using all pools active_connections?, clear_active_connections!, clear_reloadable_connections!, clear_all_connections!, and flush_idle_connections! now operate on all pools by default. Previously they would default to using the current_role or :writing role unless specified. Add :locals to ActionView rendering instrumentation Action View render instrumentation now reports :locals. ActiveSupport::Notifications will now capture :locals in addition to :identifier and :layout. Add ability to run only before/around/after callbacks in run_callbacks This PR makes it possible to use run_callbacks without the need to run all callbacks. You can now choose specific callbacks to run. ActionDispatch::Cookies JSON deserializer discards Marshal dumps If an application reads a Marshall dump, JSON::ParserError is raised without clearing cookies when the cookies serializer is set to JSON. This PR fixes that. 35 people contributed to Rails in the last 8 days. That’s it. Допобачення!",
-          "link": "https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56",
-          "publishedOn": "2022-09-10T00:00:00.000Z",
-          "wordCount": 490,
-          "title": "Rack 3 and Rails 7.0.4, 6.1.7, and 6.0.6 releases, ActionDispatch::Cookies, etc",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
     },

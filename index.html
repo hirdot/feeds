@@ -9387,25 +9387,6 @@ The post Rails 7.0.4、6.1.7、6.0.6がリリースされました first appeare
           </section>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://rubyonrails.org/">Ruby on Rails</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 490)</span>Rack 3 and Rails 7.0.4, 6.1.7, and 6.0.6 releases, ActionDispatch::Cookies, etc
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://rubyonrails.org/2022/9/10/this-week-in-rails-rack-3-and-rails-7-0-4-6-1-7-and-6-0-6-releases-actiondispatch-cookies-etc-67ee6b56" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>👋🏾… This is Emmanuel. I’ve got some Rails updates for you. Rack 3.0 has shipped A major version of Rack has shipped, and as expected, there are breaking changes but with lots of improvements and an upgrade guide. There’s also a changelog of the beta versions and release candidates leading up to the release. Rails 7.0.4, 6.1.7, and 6.0.6 have been released These are mostly bugfixes with various enhancements, compatibility fixes, and performance improvements. Fix bug in connection handler methods using all pools active_connections?, clear_active_connections!, clear_reloadable_connections!, clear_all_connections!, and flush_idle_connections! now operate on all pools by default. Previously they would default to using the current_role or :writing role unless specified. Add :locals to ActionView rendering instrumentation Action View render instrumentation now reports :locals. ActiveSupport::Notifications will now capture :locals in addition to :identifier and :layout. Add ability to run only before/around/after callbacks in run_callbacks This PR makes it possible to use run_callbacks without the need to run all callbacks. You can now choose specific callbacks to run. ActionDispatch::Cookies JSON deserializer discards Marshal dumps If an application reads a Marshall dump, JSON::ParserError is raised without clearing cookies when the cookies serializer is set to JSON. This PR fixes that. 35 people contributed to Rails in the last 8 days. That’s it. Допобачення!</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
