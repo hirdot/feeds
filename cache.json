@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "8478afae59a55e6968bd3774bab44a5ac367788b",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MySQL が、MySQL マイナーバージョン 5.7.39 のサポートを開始しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数の修正、パフォーマンスの改善、新機能を活用するために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/",
+          "publishedOn": "2022-10-10T02:46:13.000Z",
+          "wordCount": 324,
+          "title": "Amazon RDS for MySQL が新しいマイナーバージョン 5.7.39 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7d00890b2acac1a4c6e790f4905f5e48f178d71a",
+          "author": "aws@amazon.com",
+          "description": "AWS は AWS Cloud Map サービスレベルアグリーメント (SLA) の月間稼働率を 99.99% に更新しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/",
+          "publishedOn": "2022-10-10T02:33:46.000Z",
+          "wordCount": 315,
+          "title": "AWS Cloud Map がサービスレベルアグリーメントを更新",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1671eabbcedbf1e01d365f262597d39ac47b82d1",
+          "author": "aws@amazon.com",
+          "description": "AWS Service Catalog では、AWS Service Catalog コンソールを介して AWS リソースをプロビジョニングするユーザーの使いやすさが改善されました。今回の変更により、プロビジョニングワークフローにおいてエラーをハンドリングしやすくなり、負荷が軽減されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/",
+          "publishedOn": "2022-10-10T02:32:58.000Z",
+          "wordCount": 313,
+          "title": "AWS Service Catalog コンソールの使いやすさを改善",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1b5da0e917a05b242e5cca3bb850f38cac06f016",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。Amazon SageMaker Autopilot は、完全な制御性と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的にトレーニングおよび調整します。Data Wrangler を使用すると、統一された、データ準備とモデルトレーニングのエクスペリエンスを、Amazon SageMaker Autopilot で数回のクリックするだけで実現できます。この統合は、欠損値補完、序数エンコーダー/ワンホットエンコーダーといった Data Wrangler の特徴変換を、ML 推論用の Autopilot モデルへ組み込み、再利用するために拡張されました。Data Wrangler でデータを準備し、Autopilot を呼び出してモデルをトレーニングすると、トレーニング済みのモデルを Data Wrangler のすべての特徴変換と共に SageMaker シリアル推論パイプラインとしてデプロイできるようになりました。これにより、推論時に Data Wrangler の特徴変換を再利用した生データの自動前処理ができるようになります。現在この機能は、結合、グループ化、連結、時系列変換を使用しない Data Wrangler フローでのみサポートされています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/",
+          "publishedOn": "2022-10-10T02:32:10.000Z",
+          "wordCount": 359,
+          "title": "Amazon SageMaker Autopilot での推論モデルデプロイ時に Amazon SageMaker Data Wrangler の特徴変換が含まれるように",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6092c55bc404c79a3b6105e81f551ae25d3ef370",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.6.10 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/",
+          "publishedOn": "2022-10-10T02:31:20.000Z",
+          "wordCount": 319,
+          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.10 のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "7f253cebb31ed442b45264ba7bb7b87cac9fadf4",
           "author": "aws@amazon.com",
           "description": "本日、AWS Systems Manager に、タスクを制御するための CloudWatch アラームが追加されたことを発表します。CloudWatch アラームが作動した場合に、Systems Manager サービスがタスクやアクションを停止できるようになりました。これにより、リソースの使用率からアプリケーションパフォーマンスに至るまで、CloudWatch でサポートされているさまざまなモニタリングメトリクスを使用してタスクを制御することが可能になります。特定の CloudWatch アラームがタスク中に作動した場合、Automation はタスクを停止し、RunCommand はコマンドをキャンセルし、State Manager と Maintenance Windows はディスパッチをスキップします。この機能は、Systems Manager の Automation、Run Command、State Manager、Maintenance Windows といった各サービスでのタスクのセットアップ時に、CloudWatch アラームを追加するだけで簡単に使用開始できます。セットアップ完了後は、設定したアラームをタスクの詳細ページで確認できます。",

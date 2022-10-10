@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-10T02:53:54.012Z</updated>
+    <updated>2022-10-10T03:47:13.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MySQL が新しいマイナーバージョン 5.7.39 のサポートを開始]]></title>
+        <id>8478afae59a55e6968bd3774bab44a5ac367788b</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/"/>
+        <updated>2022-10-10T02:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MySQL が、MySQL マイナーバージョン 5.7.39 のサポートを開始しました。以前のバージョンの MySQL における既知のセキュリティの脆弱性を修正し、MySQL のコミュニティによって追加された多数の修正、パフォーマンスの改善、新機能を活用するために、最新のマイナーバージョンにアップグレードすることをお勧めいたします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud Map がサービスレベルアグリーメントを更新]]></title>
+        <id>7d00890b2acac1a4c6e790f4905f5e48f178d71a</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/"/>
+        <updated>2022-10-10T02:33:46.000Z</updated>
+        <summary type="html"><![CDATA[AWS は AWS Cloud Map サービスレベルアグリーメント (SLA) の月間稼働率を 99.99% に更新しました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Service Catalog コンソールの使いやすさを改善]]></title>
+        <id>1671eabbcedbf1e01d365f262597d39ac47b82d1</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/"/>
+        <updated>2022-10-10T02:32:58.000Z</updated>
+        <summary type="html"><![CDATA[AWS Service Catalog では、AWS Service Catalog コンソールを介して AWS リソースをプロビジョニングするユーザーの使いやすさが改善されました。今回の変更により、プロビジョニングワークフローにおいてエラーをハンドリングしやすくなり、負荷が軽減されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Autopilot での推論モデルデプロイ時に Amazon SageMaker Data Wrangler の特徴変換が含まれるように]]></title>
+        <id>1b5da0e917a05b242e5cca3bb850f38cac06f016</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/"/>
+        <updated>2022-10-10T02:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Data Wrangler は、機械学習 (ML) 用のデータを集約して準備するのにかかる時間を数週間から数分に短縮します。Amazon SageMaker Autopilot は、完全な制御性と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的にトレーニングおよび調整します。Data Wrangler を使用すると、統一された、データ準備とモデルトレーニングのエクスペリエンスを、Amazon SageMaker Autopilot で数回のクリックするだけで実現できます。この統合は、欠損値補完、序数エンコーダー/ワンホットエンコーダーといった Data Wrangler の特徴変換を、ML 推論用の Autopilot モデルへ組み込み、再利用するために拡張されました。Data Wrangler でデータを準備し、Autopilot を呼び出してモデルをトレーニングすると、トレーニング済みのモデルを Data Wrangler のすべての特徴変換と共に SageMaker シリアル推論パイプラインとしてデプロイできるようになりました。これにより、推論時に Data Wrangler の特徴変換を再利用した生データの自動前処理ができるようになります。現在この機能は、結合、グループ化、連結、時系列変換を使用しない Data Wrangler フローでのみサポートされています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon RDS for MariaDB が新しいマイナーバージョン 10.6.10 のサポートを開始]]></title>
+        <id>6092c55bc404c79a3b6105e81f551ae25d3ef370</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/"/>
+        <updated>2022-10-10T02:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.6.10 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めします。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国テック事情：「やりすぎ」コロナ対策アプリで市民に混乱 ほか]]></title>
         <id>https://www.technologyreview.jp/?p=287459</id>
