@@ -6,6 +6,56 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a7bb28a28902317438e974927c569d152bc05f07",
+          "author": "aws@amazon.com",
+          "description": "AWS Security Hub が、AWS GovCloud (米国) で Amazon Simple Notification Service (SNS) を通じてお知らせを発行できるようになりました。これにより、最新の機能リリースやお知らせの情報を入手することができます。AWS Security Hub の新機能に関するお知らせを受け取るには、ご希望のリージョンで AWS Security Hub の SNS トピックをサブスクライブしてください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-security-hub-announcements-notification-topic-aws-govcloud-us/",
+          "publishedOn": "2022-10-11T17:02:10.000Z",
+          "wordCount": 387,
+          "title": "AWS Security Hub が AWS GovCloud (米国) でお知らせ通知トピックの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3ac2823fc475e906870321073e46a796060e1b55",
+          "author": "aws@amazon.com",
+          "description": "Amazon Connect Cases は、組み込み型のケース管理機能を提供し、複数のお客様との会話やフォローアップタスクを必要とするお客様の問題を、コンタクトセンターのエージェントが簡単に作成、コラボレーション、迅速な解決を行えるようにします。カスタムアプリケーションを構築したり、サードパーティー製品と統合したりする必要はありません。Cases を使用すると、エージェントはケースに関連するすべてのアクティビティとお客様の情報を、統一されたタイムラインビューで確認できます。それには複数のエージェントに割り当てて追跡できる個々のタスクも含まれます。また、ケース情報を使用して、セルフサービス IVR やチャットボットインタラクションでお客様の質問に答えることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-connect-cases-generally-available/",
+          "publishedOn": "2022-10-11T17:01:09.000Z",
+          "wordCount": 302,
+          "title": "Amazon Connect Cases の一般提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8c6a375795973d3115531562724fbb1ed494ca94",
+          "author": "aws@amazon.com",
+          "description": "AWS はこのたび、ビジネスアナリストを対象とした新しいハンズオンコースとして、Amazon SageMaker Canvas を活用した Practical Decision Making using No-Code ML on AWS を Coursera で開始します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-practical-decision-making-no-code-ml-amazon-sagemaker-canvas/",
+          "publishedOn": "2022-10-11T16:17:52.000Z",
+          "wordCount": 329,
+          "title": "AWS が Amazon SageMaker Canvas のノーコード ML を使用した実践的な意思決定を学べる新しいコースを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "42e2ea93169a0641ec873d32f43af9c3acd1d6a6",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas で、必要なアクセス許可の管理が簡素化され、時系列予測モデルをさらに迅速に設定できるようになりました。SageMaker Canvas は、ビジネスアナリストが自分で正確な機械学習 (ML) モデルを生成してインサイトと予測を入手できるようにするポイントアンドクリック式の視覚的なサービスです。機械学習の経験やコードの記述はまったく必要ありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quicker-set-up-time-series-forecasting-models/",
+          "publishedOn": "2022-10-11T16:17:04.000Z",
+          "wordCount": 314,
+          "title": "Amazon SageMaker Canvas での時系列予測モデルの設定がさらに迅速に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "2370ff7e30fd1693ae8cedf0736bfbbc25385e9b",
+          "author": "aws@amazon.com",
+          "description": "デフォルトで Instance Metadata Service Version 2 (IMDSv2) が使用されるように、EC2 の Amazon マシンイメージ (AMI) を設定できるようになりました。IMDSv2 は、セッション指向のリクエストを必要とするインスタンスメタデータアクセスへの機能強化で、不正なメタデータアクセスに対する多層防御を追加します。IMDSv2 では、インスタンスメタデータサービスへのセッションの開始とトークンの取得に PUT リクエストが必要です。インスタンスを IMDSv2-only に設定するには、これまではインスタンス起動時に Instance Metadata オプションを設定するか、起動後に ModifyInstanceMetadataOptions API を使ってインスタンスを更新する必要がありました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-machine-images-support-instance-metadata-service-version-2-default/",
+          "publishedOn": "2022-10-11T16:16:14.000Z",
+          "wordCount": 356,
+          "title": "Amazon Machine Images が Instance Metadata Service Version 2 のデフォルトサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "ea757c520bb3746321b90b6bd6ecfebf6cb2f1b4",
           "author": "aws@amazon.com",
           "description": "Amazon File Cache は、オンプレミスを含むさまざまな場所に保存されているファイルデータを処理するための、AWS のスケーラブルなフルマネージド高速キャッシュです。Amazon File Cache は、メディアとエンターテインメント、金融サービス、ヘルスケアとライフサイエンス、マイクロプロセッサの設計、製造、天気予報、エネルギーなどの分野にわたるハイブリッドワークフローやクラウドでのバーストを高速化し、簡素化します。",
@@ -2924,16 +2974,6 @@
           "wordCount": 144,
           "title": "第15回　スマホの後ろ側",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/15/ifr-15-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/development-security-in-dx-era-04",
-          "author": null,
-          "description": "この連載では、開発にセキュリティを組み込むための考え方や手法について、GitLabのブログを再構成してお届けします。今回は、脆弱性管理、そしてインシデントレスポンスの自動化について紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/development-security-in-dx-era-04?utm_source=feed",
-          "publishedOn": "2022-09-12T04:35:00.000Z",
-          "wordCount": 172,
-          "title": "脆弱性管理とインシデント対応を考え直す",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/dx-Security.png"
         }
       ]
     },
@@ -3691,16 +3731,6 @@
           "wordCount": 144,
           "title": "第15回　スマホの後ろ側",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/15/ifr-15-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/development-security-in-dx-era-04",
-          "author": null,
-          "description": "この連載では、開発にセキュリティを組み込むための考え方や手法について、GitLabのブログを再構成してお届けします。今回は、脆弱性管理、そしてインシデントレスポンスの自動化について紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/development-security-in-dx-era-04?utm_source=feed",
-          "publishedOn": "2022-09-12T04:35:00.000Z",
-          "wordCount": 172,
-          "title": "脆弱性管理とインシデント対応を考え直す",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/dx-Security.png"
         }
       ]
     },
@@ -4458,16 +4488,6 @@
           "wordCount": 144,
           "title": "第15回　スマホの後ろ側",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/15/ifr-15-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/development-security-in-dx-era-04",
-          "author": null,
-          "description": "この連載では、開発にセキュリティを組み込むための考え方や手法について、GitLabのブログを再構成してお届けします。今回は、脆弱性管理、そしてインシデントレスポンスの自動化について紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/development-security-in-dx-era-04?utm_source=feed",
-          "publishedOn": "2022-09-12T04:35:00.000Z",
-          "wordCount": null,
-          "title": "脆弱性管理とインシデント対応を考え直す",
-          "imageUrl": null
         }
       ]
     },
@@ -4756,16 +4776,6 @@
           "wordCount": 866,
           "title": "Rails: Webpackをesbuildに移行してJSのビルドを縮小・高速化（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_migrating_from_Webpack_to_esbuild_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_12/121804",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_release_704_617_606_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>Ruby on Rails 7.0.4、6.1.7、6.0.6がリリースされました。ほとんどの変更は7.0.4のみに含まれており、6.1.7と6.0.6の変更はわずかです。 リリース情報: Ruby on Rails — Rails 7.0.4, 6.1.7, and 6.0.6 have been released! Hi everyone! We&#39;ve released Rails 7.0.4 https://t.co/edZE2TEEaH &#8212; Ruby on Rails (@rails) September 9, 2022 英語版Changelogをまとめて見るにはGItHubのリリース [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_12/121804\" data-wpel-link=\"internal\" target=\"_self\">Rails 7.0.4、6.1.7、6.0.6がリリースされました</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_12/121804",
-          "publishedOn": "2022-09-12T08:30:08.000Z",
-          "wordCount": 1355,
-          "title": "Rails 7.0.4、6.1.7、6.0.6がリリースされました",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_release_704_617_606_eyecatch-min.png"
         }
       ]
     },
@@ -4774,6 +4784,56 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_cloudcloud_workstationsgoogle_cloud_next_22.html",
+          "author": null,
+          "description": "Google Cloudは、開催中のイベント「Google Cloud Next '22」において、あらかじめ設定済みのセキュアな開発環境一式をマネージドサービスで提供する「Cloud Workstations」を発表しました。 To he...",
+          "link": "https://www.publickey1.jp/blog/22/google_cloudcloud_workstationsgoogle_cloud_next_22.html",
+          "publishedOn": "2022-10-11T19:31:26.000Z",
+          "wordCount": 1288,
+          "title": "［速報］Google Cloud、「Cloud Workstations」発表。セキュアな開発環境一式をマネージドサービスで提供。Google Cloud Next '22",
+          "imageUrl": "https://www.publickey1.jp/2022/cloudworkstations02.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/bigqueryrdbjsongoogle_cloud_next_22.html",
+          "author": null,
+          "description": "Google Cloudは、開催中のイベント「Google Cloud Next '22」において、大規模データ分析サービスのBigQueryで非構造化データのサポートを発表しました。 BigQueryの非構造化データサポートを発表するGo...",
+          "link": "https://www.publickey1.jp/blog/22/bigqueryrdbjsongoogle_cloud_next_22.html",
+          "publishedOn": "2022-10-11T19:27:58.000Z",
+          "wordCount": 1233,
+          "title": "［速報］BigQueryが非構造化データのサポートを発表。これで構造化データ（RDB）、半構造化データ（JSON）、非構造化データをサポート。Google Cloud Next '22",
+          "imageUrl": "https://www.publickey1.jp/2022/bigquery_unstructured_cn22.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/ai135translation_hubgoogle_cloudgoogle_cloud_next_22.html",
+          "author": null,
+          "description": "Google Cloudは、文書のレイアウトやフォントはそのまま保ちつつ、その内容をAIで135カ国語に翻訳する新サービス「Translation Hub」を発表しました。 The next big thing from #GoogleCl...",
+          "link": "https://www.publickey1.jp/blog/22/ai135translation_hubgoogle_cloudgoogle_cloud_next_22.html",
+          "publishedOn": "2022-10-11T15:30:35.000Z",
+          "wordCount": 1267,
+          "title": "［速報］文書のレイアウトやフォントはそのままAIで135カ国語に翻訳する「Translation Hub」、Google Cloudが発表。Google Cloud Next '22",
+          "imageUrl": "https://www.publickey1.jp/2022/translationhubgcn2204.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_cloudmeanmongodbgoogle_cloud_next_22.html",
+          "author": null,
+          "description": "Google Cloudは開催中のイベント「Google Cloud Next '22」において、MEANスタックを推進する新サービスをMongoDBとの協業で提供すると発表しました。 Now announcing a collaborat...",
+          "link": "https://www.publickey1.jp/blog/22/google_cloudmeanmongodbgoogle_cloud_next_22.html",
+          "publishedOn": "2022-10-11T15:10:56.000Z",
+          "wordCount": 1286,
+          "title": "［速報］Google Cloud、MEANスタックをマネージドサービスで提供する新サービス発表。MongoDBとの協業で。Google Cloud Next '22",
+          "imageUrl": "https://www.publickey1.jp/2022/mean_gcp.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/googleproject_starlinegoogle_cloud_next_22.html",
+          "author": null,
+          "description": "Googleは、昨年（2021年）5月に発表した先進的なオンラインコミュニケーションシステム「Project Starline」のアーリーアクセスプログラムを年内にもパートナー企業とともに開始すると発表しました。 We’re transfo...",
+          "link": "https://www.publickey1.jp/blog/22/googleproject_starlinegoogle_cloud_next_22.html",
+          "publishedOn": "2022-10-11T15:05:15.000Z",
+          "wordCount": 1265,
+          "title": "［速報］Google、リモートの相手が目の前に実在するような「Project Starline」アーリーアクセスを開始、パートナー企業のオフィスに設置。Google Cloud Next '22",
+          "imageUrl": "https://www.publickey1.jp/2022/starline_ea01.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/terraformno-code_provisioning_for_terraform_cloudhashicorphashiconf_global_2022.html",
           "author": null,
@@ -5381,6 +5441,26 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=287370",
+          "author": "Chris Stokel-Walker",
+          "description": "ロシアとドイツを結ぶパイプライン「ノルドストリーム」の破裂によって、欧州はこれから迎える冬に危機感を抱いている。損傷の程度を把握してから修理に取りかかることになるが、前例のない損傷だけにいずれの方法も困難が伴う。",
+          "link": "https://www.technologyreview.jp/s/287370/heres-how-the-nord-stream-gas-pipelines-could-be-fixed/",
+          "publishedOn": "2022-10-11T21:52:43.000Z",
+          "wordCount": 1423,
+          "title": "「前例ない」パイプライン損傷、復旧に立ちはだかるこれだけの壁",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/04003504/AP22269581705207-crop-1400x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=285255",
+          "author": "Bonnie Rochman",
+          "description": "出生前の遺伝子検査が標準的な妊婦健診として普及している米国では、これから産まれてくる子どもの性染色体異常が見つかることが増えてきている。しかし性染色体異常によって、家族と子どもに何が起きるのかを正しく知らせてくれる医師は少なく、不安を与えている。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/285255/what-to-expect-when-youre-expecting-an-extra-x-or-y-chromosome/",
+          "publishedOn": "2022-10-11T21:23:19.000Z",
+          "wordCount": 1235,
+          "title": "「新型出生前診断」普及で 染色体疾患が急増の米国、 親はどう行動すべきか？",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/06111013/SO22_chromosomes2a-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/n/2022/10/11/288010/",
           "author": "MIT Technology Review Japan",
@@ -6208,6 +6288,56 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://mi-6.connpass.com/event/263070/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/19 15:00 ～ 16:00<br />開催場所: (場所未定)<br /><br /><h2>■開催概要</h2>\n<p>近年、少子高齢化、働き手の不足の影響を受け、従来の経験と勘による研究開発から、データを活用して、より効率的に、また人が発見出来なかった素材を研究開発していくことが目指されています。また、デジタルトランスフォーメーション(DX)をどのように研究開発に適応するか？という観点からも、データと統計・データサイエンスを活用した素材の研究開発である、マテリアルズ・インフォマティクス(MI)が注目されています。<br>\n<br>\n一方で、様々な企業様をご支援する中で計算化学についてご質問を受けることがあります。<br>\n<br>\nそこで今回は、弊社技術顧問の統計数理研究所 林 慶浩 先生より、マテリアルズ・インフォマティスで使われる計算化学について「どのような手法があるのか？」「どのような活用方法があるのか？」という視点で広くご紹介致します。<br>\n<br></p>\n<h2>■参加費用</h2>\n<p>無料</p>\n<h2>■コンテンツ</h2>\n<p>はじめに<br>\n登壇者より講演 40分<br>\n質疑応答：20分(残りの時間)<br></p>\n<h2>■講演内容</h2>\n<p>・1.はじめに<br>\n・2.計算化学で何ができるか<br>\n・3.計算化学手法の特徴<br>\n・4.計算化学の活用方法<br>\n・5.おわりに<br>\n※内容は変更となる場合が御座います。予めご了承願います。<br></p>\n<h2>■登壇者</h2>\n<p>大学共同利用機関法人 情報・システム研究機構 統計数理研究所<br>\n林 慶浩 (はやし よしひろ)<br></p>\n<p>東京工業大学大学院理工学研究科博士課程修了（有機・高分子物質専攻）。東京工業大学にてポスドク・特任助教として計算化学を用いた有機化学、高分子科学、触媒化学の研究に従事。現在は、統計数理研究所ものづくりデータ科学研究センターの助教として高分子MIの研究に携わる。MI-6株式会社の技術顧問を兼務。</p>\n<h2>■対象者</h2>\n<p>・「マテリアルズ・インフォマティクス（MI）」に関わる方（研究者、解析者、マネジメント層の方など）<br>\n・マテリアルズ・インフォマティクスにおける計算化学の手法やその概要にご興味のある方<br>\n・計算化学についてその手法や概要について広く理解を進めたい方<br></p>\n<h2>■申込締め切り</h2>\n<p>2022年10月19日（水）14:00<br>\n※申込が多数あった場合は事前に締め切らせていただく可能性がございます<br></p>\n<h2>■問い合わせ先</h2>\n<p>MI-6株式会社 事業開発部 bd@mi-6.co.jp</p>\n<p>※ご登録いただくメールアドレスに、開催前日の参加者の確定を目処に事前案内のメールをお送りします。 迷惑メールの設定や、メールアドレスの記載に誤りによって、ご案内ができないケースがございます。 設定確認と登録アドレスに間違いがないよう、ご協力お願いいたします。<br>\n※同業他社企業のお申し込みはお断りしております。<br></p>",
+          "link": "https://mi-6.connpass.com/event/263070/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-11T20:00:59.000Z",
+          "wordCount": 943,
+          "title": "マテリアルズ・インフォマティクスで活用される計算化学",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c9/92/c99247408d0e82e333403286037d60d4.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/263080/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/20 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/263080/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-11T18:34:15.000Z",
+          "wordCount": 894,
+          "title": "10/20(木)【第1441回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/263079/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/20 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/263079/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-11T18:32:39.000Z",
+          "wordCount": 894,
+          "title": "10/20(木)【第1440回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://connpass.com/event/263078/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/31 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><p>この度、ゼロから始める業務DX入門セミナーを開催します。</p>\n<p>「DXを進めたいがどこから手を付ければ良いかわからない」\n「DXに興味があるが、具体的なイメージが湧かない」\nこのような課題を感じている方向けに、業務DXを成功へ導くステップと事例を解説します。</p>\n<p>競争力が激化している昨今では利益体質の企業モデル構築が重要となっています。その上で、優れたオペレーションは企業の資産となり、逆に非効率的な業務の積み重ねは負債となって何年間も足を引っ張り続けます。\nさらに少子高齢化による労働人口の減少が進んでおり、少ない人員で優れたオペレーションを実現できる体制へと変革が求められています。\n果たして単純にシステムの入れ替えをするだけでDXと言えるのでしょうか？今回は強いオペレーションを構築する為に必要なプロセスについて学べるセミナーです。ぜひご参加ください。</p>\n<h3>コンテンツ</h3>\n<p>1.業務DXとオペレーショナルエクセレンス</p>\n<p>2.DX推進の失敗パターン</p>\n<p>3.業務DX推進の基本となる６ステップ</p>\n<p>4.先進事例からポイントを分析する</p>\n<h3>講師プロフィール</h3>\n<p>与田 明　PLAY株式会社代表取締役</p>\n<p>2017年からRPAテクノロジーズにて、RPAのセールスから導入PoCの支援、客先での開発に従事。 2018年にはアジアクエスト社でRPA事業の立ち上げを行う。2019年4月PLAY株式会社を創業し、プロセスマイニングとRPAを組み合わせた業務改革支援を行っている。</p>\n<h3>こんな方におすすめ</h3>\n<p>・DXに興味がある方</p>\n<p>・社内の業務改革推進を担当している方</p>\n<p>・社内のオペレーションに課題を感じている方</p>\n<h3>開催概要</h3>\n<p>日時：2022年10月31日(月)　14:00～14:45</p>\n<p>場所：オンライン　zoom</p>\n<p>受講料：無料</p>\n<p>主催：プロセスマイニングラボ\n      <a href=\"https://prolab.play-company.jp/\" rel=\"nofollow\">https://prolab.play-company.jp/</a></p>\n<p>問い合わせ先\nメール：info@play-company.jp\n電話：03-6822-3516</p>",
+          "link": "https://connpass.com/event/263078/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-11T17:25:59.000Z",
+          "wordCount": 925,
+          "title": "ゼロから始める業務DX入門セミナー",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/70/0870620b0b7168b67e8093ad6aff01f8.png"
+        },
+        {
+          "id": "https://k-dev.connpass.com/event/263077/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/16 11:00 ～ 13:00<br />開催場所: 東京都渋谷区 桜丘町15-17(ＮＫＧ東京ビル406)<br /><br /><h1>↓↓↓必ず確認してください↓↓↓</h1>\n<h1>↓↓↓必ず確認してください↓↓↓</h1>\n<h1>↓↓↓必ず確認してください↓↓↓</h1>\n<p>参加いただける方は必ずSlackへの参加をお願いします。（よく分からなければ「イベントへの問い合わせ」より連絡ください）\n少人数で行なっているので無断で欠席となると主催が来ない参加者の分の席を確保して待ち続けるという悲しい当日を迎えることになってしまうのでキャンセルの際はコンパス、またはSlackにて必ずご連絡ください。   </p>\n<h1>↑↑↑必ず確認してください↑↑↑</h1>\n<h1>↑↑↑必ず確認してください↑↑↑</h1>\n<h1>↑↑↑必ず確認してください↑↑↑</h1>\n<h2>概要</h2>\n<p>個人開発しているエンジニアや、デザイナーで集まって作業しています。<br>\n会場はコワーキングスペースの会議室で開催します。（電源、WiFiあり）\n基本的には会議室を予約しています。<br>\nただ、人数が少ない場合や予約が取れない場合はコワーキングスペースの普通のスペースで開催します。</p>\n<p>会場名: 渋谷スペース406\n<a href=\"https://www.spacemarket.com/spaces/a2h_forhzfxa9xkf/rooms/6fXCstUxwZy2K5C8/\" rel=\"nofollow\">https://www.spacemarket.com/spaces/a2h_forhzfxa9xkf/rooms/6fXCstUxwZy2K5C8/</a>  </p>\n<p><b>【注意】レンタルスペースを会場として利用してるだけにすぎない為、受付の人にもくもく会の参加者として話しかけないでください。</b><br>\n<b>【注意】レンタルスペースを会場として利用してるだけにすぎない為、受付の人にもくもく会の参加者として話しかけないでください。</b><br>\n<b>【注意】レンタルスペースを会場として利用してるだけにすぎない為、受付の人にもくもく会の参加者として話しかけないでください。</b><br>\n<b>【注意】レンタルスペースを会場として利用してるだけにすぎない為、受付の人にもくもく会の参加者として話しかけないでください。</b>  </p>\n<p>もし入場について分からない場合はSlackにて主催をメンションしてコンタクトをお願いします。  </p>\n<p>最寄駅\n  - 渋谷駅 徒歩3分</p>\n<h3>会の趣旨</h3>\n<p>個人開発していると相談したりモチベを高めあえる仲間が欲しくなったりしませんか<br>\nそんな個人開発者向けの、言語やプラットフォーム問わずとにかく個人開発をしている学生、社会人で集まって作業したり、意見交換をする会です。<br>\nいつかグループ内で何かサービスを作れたりしたら面白いなとか考えていますが、基本的にはもくもく会として開催して行こうと思っています。  </p>\n<p>思いつきでSlack作ったので是非参加ください。（connpassの名前とSlackの名前を一致するように参加登録してください）</p>\n<p><a href=\"https://join.slack.com/t/k-dev-mokumoku/shared_invite/enQtNDkzMzk5MDkwNTY0LTUyNTI2OTM3Y2UwZjc1MjhlOGE3YTNmZTJiMzE0YTA5NDQ0NDUyYzQyM2UwODdmNGEyOTIzMmJhYWE5Y2E4MTI\" rel=\"nofollow\"><img alt=\"Slack\" src=\"https://crouton.tokyo/img/K-devSlack.png\"></a></p>\n<p>※QRをクリックしても招待URLへ飛べます</p>\n<p>今回の会に参加いただく方は必ずSlackへの参加をお願いいたします。\n（connpassの名前とSlackの名前を一致するように参加登録してください）</p>\n<h2>参加費について</h2>\n<p>参加人数次第で変動しますが、大体600円?〜1,000円くらいの間で収まるようにします。</p>\n<h2>主催・副主催について</h2>\n<p>主催:渋谷近くの会社でモバイルアプリ制作をしてます。普段はiOSアプリ・Androidアプリ・PHPでサーバー・UI素材制作・宣伝用サイトの作成（Bootstrap Studio）などの作業を行なっていると思います。</p>\n<p>副主催:プログラム初心者、あんまり参加しないけどたまに来るとSwiftを主催と一緒にやってることが多いと思います。</p>\n<h2>こんな人募集してます</h2>\n<p>1.本業もやってるけど個人でもこんなの作ってますって人（プログラミング初心者歓迎）<br>\n2.学生（高校生〜大学生）だけど趣味でプログラム勉強してますって人<br>\n3.まだ何も作れないけどこんなサービス面白そうじゃないですか？って人<br>\n4.Swift、Kotlin始めたいって人  (主催が最近Kotlin始めた)  </p>\n<h2>参加者の方へお願い</h2>\n<p>参加いただける方は必ずSlackへの参加をお願いします。（よく分からなければ「イベントへの問い合わせ」より連絡ください）</p>",
+          "link": "https://k-dev.connpass.com/event/263077/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-11T17:25:46.000Z",
+          "wordCount": 1031,
+          "title": "個人開発者のもくもく会 Part162 in 渋谷",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7e/9f/7e9f83472791b33233a9b3b7aa61c7a5.png"
+        },
         {
           "id": "https://zeki-chan-lab.connpass.com/event/263074/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
