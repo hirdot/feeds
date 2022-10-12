@@ -2,10 +2,516 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-12T10:02:53.014Z</updated>
+    <updated>2022-10-12T22:01:26.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure DevOpsオンライン Vol.7 ～ テストはExcelから卒業できるのか？]]></title>
+        <id>https://tfsug.connpass.com/event/262960/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://tfsug.connpass.com/event/262960/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T21:06:17.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/05 13:00 ～ 15:00<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1>
+<p>オンラインで実施します。インタラクティブなQ&amp;Aを楽しみたい方はTeamsで、視聴だけの場合YouTubeからご参加ください。</p>
+<p>今回は「テスト関係のドキュメントはExcelから卒業できるのか？」というお題でAzure Test Plansを使った効率化について実際にAzure DevOpsのテスト機能を使っている森さんと、ソフト開発・テスト自動化を支援されている<a href="https://www.codeer.co.jp/" rel="nofollow">Codeer</a>の石川さんをお招きしてAzure DevOps Test Plansは使えるのか？というお話をしようと思います。</p>
+<p>11/5の8時ごろまでには参加用のリンクを送るか、ここに公開します。主催者の都合で変更もしくは延期になる場合、11/5の12時までにはメールおよび、本ページでご連絡いたします。</p>
+<h2>Teams で参加する前に確認してほしいこと</h2>
+<p><a href="https://qiita.com/Okura_/items/27c3d73583cd5d4f11ac" rel="nofollow">メモ: Microsoft Teams会議につながらない/参加できない場合のチェック項目と対策</a></p>
+<p>こちらにまとまっていますので、初めてTeams使うんだけど、という方は確認してみてください。開始前、18:45くらいからいる予定ですので、テストの対応も致します。</p>
+<h2>スケジュール</h2>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="left">タイトル</th>
+<th align="left">録画公開</th>
+<th align="left">登壇者名</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">12:45-13:00</td>
+<td align="left">導通確認などに使ってください</td>
+<td align="left"></td>
+<td align="left">主催者</td>
+</tr>
+<tr>
+<td align="center">13:00-13:20</td>
+<td align="left">Azure DevOps最新動向</td>
+<td align="left"></td>
+<td align="left"><a href="https://twitter.com/kkamegawa/" rel="nofollow">@kkamegawa</a></td>
+</tr>
+<tr>
+<td align="center">13:20-15:00</td>
+<td align="left">Azure Test Plans を使えばExcelから卒業できるか？</td>
+<td align="left">あり</td>
+<td align="left"><a href="https://twitter.com/1115_lilium/" rel="nofollow">@1115_lilium</a>と<a href="https://twitter.com/StoneGuitar777" rel="nofollow">@StoneGuitar777</a>と<a href="https://twitter.com/kkamegawa/" rel="nofollow">@kkamegawa</a></td>
+</tr>
+</tbody>
+</table>
+<h2>セッション内容</h2>
+<h3>セッション1</h3>
+<p><strong>タイトル </strong>: Azure DevOps最新動向  <br>
+<strong>概要</strong>:<br>
+  GitHubの陰に隠れてひっそり状態だったAzure DevOpsですが、Igniteでいろいろ今後の機能強化のロードマップが発表されました。簡単におさらいします。</p>
+<h3>セッション2</h3>
+<p><strong>タイトル </strong>: Azure Test Plans を使えばExcelから卒業できるか？  <br>
+<strong>概要</strong>:<br>
+Azure DevOpsの有料拡張機能の一つであるAzure Test Plansを使ってExcelで管理するテスト仕様書から卒業できるのか？また使うとどんないいことがあるのか、実際に活用されている<a href="https://twitter.com/1115_lilium/" rel="nofollow">@1115_lilium</a>さんと、テストと自動化の会社であるCodeerを経営されている石川さんからお話を伺い、現場での知見をもとにディスカッションしていきます。</p>
+<p><strong>スピーカー紹介</strong>:<br>
+❀.(<em>´▽`</em>)❀.yurié <a href="https://twitter.com/1115_lilium/" rel="nofollow">@1115_lilium</a>
+デジタルマーケティング領域を専門にSoftware Enginnerをやってます（もうすぐDevOps&amp;Agile領域にお引越し予定）。
+<a href="http://メインは.Net" rel="nofollow">メインは.Net</a>, C#, Azureなどなど。どちらかというとBackend Dev。
+最近はScrum Masterもやっていて、Azure DevOpsを使ったチーム開発環境の構築や運用方法、スクラムの進め方をテーマにLTやったりしてます。</p>
+<p>石川 達也 <a href="https://twitter.com/StoneGuitar777" rel="nofollow">@StoneGuitar777</a>
+Test自動化が得意です。Windowsアプリのテスト用ライブラリFriendlyの作者です。MicrosoftMVP(2014～)。Codeerという会社もやってます。社員募集中！</p>
+<h2>参加規約</h2>
+<p><a href="https://dev.azure.com/tfsug/tfsuginfo" rel="nofollow">TFSUGの行動規範</a>を一読願います。</p>
+<p>他者に迷惑をかけていると主催者が判断した場合、強制的に退出していただく場合があります。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10/21(金)【第1443回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK]]></title>
+        <id>https://no-genre-mokumoku.connpass.com/event/263223/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://no-genre-mokumoku.connpass.com/event/263223/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T18:34:00.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/21 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>
+勉強時間を毎日集計！初心者歓迎です！！<br>
+参加者より質問等が出てきた場合は、<br>
+わかる内容については積極的にご回答いただけるとありがたいです<br>
+<br>
+※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
+もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10/21(金)【第1442回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK]]></title>
+        <id>https://no-genre-mokumoku.connpass.com/event/263222/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://no-genre-mokumoku.connpass.com/event/263222/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T18:32:26.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/21 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>
+勉強時間を毎日集計！初心者歓迎です！！<br>
+参加者より質問等が出てきた場合は、<br>
+わかる内容については積極的にご回答いただけるとありがたいです<br>
+<br>
+※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
+もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］分散PostgreSQLをAzure Cosmos DBが提供開始、オープンソースの分散DBエンジン「Citus」を採用。Ignite 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/postgresqlazure_cosmos_dbdbcitusignite_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/postgresqlazure_cosmos_dbdbcitusignite_2022.html"/>
+        <updated>2022-10-12T17:23:57.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは現在開催中のイベント「Microsoft Ignite 2022」で、グローバル規模の分散NoSQLデータベース「Azure Cosmos DB」でPostgreSQLをサポートする「Azure Cosmos DB for ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］マイクロソフト、Power Automateに自然言語の指示でフローを生成する新機能。Ignite 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/power_automateignite_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/power_automateignite_2022.html"/>
+        <updated>2022-10-12T17:01:26.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは現在開催中のイベント「Microsoft Ignite 2022」で、サービス連携機能やRPA機能などを備えたローコード／ノーコード開発ツールのPower Automateに、AIによって自然言語による指示を認識し、フローを...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］マイクロソフト、Webブラウザの複数タブをまとめてリアルタイムにチームで共有できる「Microsoft Edge Workspaces」発表。Ignite 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/webmicrosoft_edge_workspacesignite_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/webmicrosoft_edge_workspacesignite_2022.html"/>
+        <updated>2022-10-12T16:58:42.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは現在開催中のイベント「Microsoft Ignite 2022」で、Microsoft Edgeの複数のタブをチームで簡単に共有でき、誰がどのタブを参照しているかなどがリアルタイムに反映される新機能「Microsoft E...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［速報］マイクロソフト、Azure OpenAI Serviceで「Dall·E 2」の提供を開始、テキストから画像を生成可能。Ignite 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/azure_openai_servicedalle_2ignite_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/azure_openai_servicedalle_2ignite_2022.html"/>
+        <updated>2022-10-12T16:57:25.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは現在開催中のイベント「Microsoft Ignite 2022」で、事前トレーニング済みの大規模AIモデルを提供するAzure OpenAI Serviceの新しいモデルとして「Dall·E 2」の提供を開始すると発表しま...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン] 第32回ゼロから始めるCTF入門勉強会 (初心者歓迎！)]]></title>
+        <id>https://zeroctf.connpass.com/event/262950/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://zeroctf.connpass.com/event/262950/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T16:40:15.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/26 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>この会について</h1>
+<p>セキュリティ分野のハッカーコンテスト「Capture The Flag」(以下、CTF)に参加してみたいけど、
+どこから始めていいかわからない、解き方がわからないといった方向けの勉強会です。
+本勉強会は初心者向け勉強会であり、熟練者の方を対象としておりません。</p>
+<p>実際に手を動かしての問題演習がありますので、参加される場合はPCのご準備をお願い致します。
+また、勉強会で利用する環境は順次Slackに掲載いたしますので、事前の準備をお願い致します。</p>
+<p>当日はYoutube Liveで配信いたしますので、参加者の方は配信URLよりご参加ください。</p>
+<h2>日時</h2>
+<p>2022年10月26日（水）19時30分〜21時00分<br></p>
+<h2>スケジュール</h2>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="left">内容</th>
+<th align="left">詳細</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">19:30- 19:40</td>
+<td align="left">この会について</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">19:40- 20:10</td>
+<td align="left">Stegano入門</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">20:20- 21:00</td>
+<td align="left">Misc入門</td>
+<td align="left">PNGファイルについて</td>
+</tr>
+</tbody>
+</table>
+<h2>対象</h2>
+<p>・これからCTFを勉強したい方<br></p>
+<p>※初心者向けの内容のため、上級者の方は参加しても学べることは少ないかと思いますので、発表して共有したい方以外ご遠慮ください。</p>
+<h2>勉強会で使用するSlack</h2>
+<p>勉強会で利用するSlackへの招待リンクは後日追記いたしますので、ご参加お願いいたします。<br></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【オンライン】10/20(木)5時〜7時：Flutter好きが集まる朝もく会（第289回）]]></title>
+        <id>https://flutter-asamoku.connpass.com/event/263165/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://flutter-asamoku.connpass.com/event/263165/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/20 05:00 ～ 07:00<br />開催場所: オンライン<br /><br /><ul>
+<li>Flutterを使ってアプリ開発したい方向けの朝もく会です</li>
+<li>5時〜6時はご質問タイムで、6時〜7時はもくもくタイムです</li>
+<li>Jamboardを使って、質問内容やもくもく内容を共有しながら進めます</li>
+<li>Zoomで開催しますので、ビデオと音声をオンにして、ご参加下さい</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OWASP Saitama ミーティング #10]]></title>
+        <id>https://owaspsaitama.connpass.com/event/263218/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://owaspsaitama.connpass.com/event/263218/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T14:54:29.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/25 19:00 ～ 21:00<br />開催場所: 埼玉県春日部市南1丁目1-7<br /><br /><h2>ハイブリッド開催を行ないます</h2>
+<p>お待たせしました！ようやくハイブリッド開催が可能となりました。
+今回、現地会場として東部地域振興ふれあい拠点施設（ふれあいキューブ）の4F会議室2を使用します。
+(東武各線春日部駅下車、西口徒歩5分ほどです)</p>
+<p>※会議室内での飲食は可能なようですが、時勢の要請により黙食・ノンアルコールでお願いいたします。またゴミは各自でお持ち帰りください。</p>
+<h2>トークトピック</h2>
+<ul>
+<li>＃1: TBA</li>
+<li>＃2: TBA</li>
+</ul>
+<h2>スケジュール (予定)</h2>
+<ul>
+<li>19:00 開始</li>
+<li>19:10 トーク ＃1 : TBA</li>
+<li>20:00 トーク ＃2 : TBA</li>
+<li>20:40 LT (※あれば)</li>
+<li>20:50 チャプター紹介 / 次回告知</li>
+<li>21:00 終了</li>
+</ul>
+<h2>チャプター協賛</h2>
+<p><a href="https://monolithworks.co.jp/" rel="nofollow"><img alt="Monolith Works Inc." height="100" src="https://owasp.org/www-chapter-saitama/assets/images/monolithworks.png"></a> <a href="https://www.deego.co.jp/" rel="nofollow"><img alt="Deego Co.,Ltd." height="100" src="https://owasp.org/www-chapter-saitama/assets/images/deego.png"></a></p>
+<h2>当イベントについて</h2>
+<ul>
+<li>参加費は無料です</li>
+<li>懇親会は希望者において適宜近所の居酒屋などで行なうため有償となります（費用: 5000円程度/人; スピーカー除く）</li>
+<li>お仕事のご都合等にあわせて自由に参加できるよう入退室自由です</li>
+<li>お飲み物は忘れずにお持ちください（オンライン参加の方）</li>
+</ul>
+<h2>OWASP Saitamaとは</h2>
+<p>サイバーセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) のさいたま支部です。</p>
+<h2>OWASP Saitamaミーティングとは</h2>
+<p>セキュリティ向上に貢献しようという地元有志がさいたま市あるいは春日部市に集まって開く当チャプターの定例勉強会です。セキュリティに携わる幅広い分野の方をスピーカーとしてお呼びして開催します。職種・経験・年齢・性別・国籍などは一切問いません。どなたでもご参加ください。</p>
+<p>※当チャプターではスピーカーが明示的に許可した場合を除き、トークセッションの録音・録画・内容公開は原則禁止とさせていただきます</p>
+<p>イベント開催等のアナウンスはチャプターページで行ないます。またSNSへも配信します。</p>
+<ul>
+<li>OWASP Saitama チャプターページ: <a href="https://owasp.org/www-chapter-saitama/" rel="nofollow">https://owasp.org/www-chapter-saitama/</a></li>
+<li>OWASP Saitama Facebook: <a href="https://www.facebook.com/owaspsaitama/" rel="nofollow">https://www.facebook.com/owaspsaitama/</a></li>
+<li>OWASP Saitama Twitter: <a href="https://twitter.com/OWASP_Saitama" rel="nofollow">https://twitter.com/OWASP_Saitama</a></li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[総関西サイバーセキュリティＬＴ大会（第36回）]]></title>
+        <id>https://sec-kansai.connpass.com/event/263219/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://sec-kansai.connpass.com/event/263219/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T14:43:12.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/14 19:00 ～ 21:00<br />開催場所: 大阪市淀川区西中島5-12-12（エムオーテックス新大阪ビル）<br /><br /><h1><strong> <font color="Red">最後の会はオフライン&amp;オンラインのハイブリッドで実施します。</font></strong></h1>
+<h2><font color="Red">　1.19時スタート</font></h2>
+<h2><font color="Red">　2.オフラインはMOTEXさん、オンラインはZOOM配信</font></h2>
+<h2><font color="red">　3.アンケートでお聞きするメールアドレスにZOOM情報を当日19時までに連絡いたします</font></h2>
+<h3><font color="Red">　　※<a href="http://seckansai.com" rel="nofollow">seckansai.com</a> からのメールを受信できるようお願いいたします</font></h3>
+<h2><font color="red">　4.アンケートでお聞きする参加者名などを正確にご記入いただけない場合は参加できません</font></h2>
+<h1><strong> <font color="Red">会の主旨上、LTが10人に満たない場合は開催いたしません。</font></strong></h1>
+<h3>サイバーセキュリティ人材の裾野を広げる取り組みです。2017年2月から偶数月第2水曜日開催と決めて活動をしております。</h3>
+<p>基調講演で「良質なINPUT」をし、LTで「OUTPUT」を行うことで</p>
+<p>サイバーセキュリティの知見を広げていただければ幸いです。</p>
+<p>日常業務でサイバーセキュリティに携わる方はもちろん、</p>
+<p>平日日中にはサイバーセキュリティのセミナーに行けない方</p>
+<p>（学生の方や、サイバーセキュリティには興味があるが業務上講演などに行けない社会人の方など）、</p>
+<p>土日に開催されるサイバーセキュリティ関連のイベントに行けない方などの参加も広くお待ちしております。</p>
+<p><strong><em>見学し「良質なINPUT」をしたいという方は参加枠にて</em></strong></p>
+<p><strong><em>LTをし、「OUTPUT」をしたいという方はLT枠にて参加登録をお願いいたします。</em></strong></p>
+<p>また会場にお越しいただけない方のためにYouTube配信を開始しました。
+ぜひ<a href="https://www.youtube.com/channel/UC8PWpa5GLBaLG9R8FhBvO5w" rel="nofollow"><u><strong>チャンネル登録</strong></u></a>の上ご覧ください。
+<a href="https://www.youtube.com/channel/UC8PWpa5GLBaLG9R8FhBvO5w" rel="nofollow">https://www.youtube.com/channel/UC8PWpa5GLBaLG9R8FhBvO5w</a></p>
+<p><strong><u>【タイムテーブル】</u></strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">18時45分～</td>
+<td>受付</td>
+</tr>
+<tr>
+<td align="left">19時00分～</td>
+<td>オープニング</td>
+</tr>
+<tr>
+<td align="left">19時10分～</td>
+<td>LT（５分 or 10分） * 16人　（120分）</td>
+</tr>
+<tr>
+<td align="left"></td>
+<td>質疑応答・クロージング</td>
+</tr>
+</tbody>
+</table>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第100回 層とホモロジー代数勉強会]]></title>
+        <id>https://category.connpass.com/event/263217/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://category.connpass.com/event/263217/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/19 22:00 ～ 23:00<br />開催場所: Zoom<br /><br /><h2>概要、参加方法</h2>
+<p>「層とホモロジー代数」（志甫 淳 著）を輪講します。</p>
+<p>第1回は2020年9月16日22:00です。</p>
+<p>興味のある方は以下にアクセスしてください。</p>
+<p><a href="https://join.skype.com/POjBmwDHxlIP" rel="nofollow">https://join.skype.com/POjBmwDHxlIP</a> （圏論セミナー）</p>
+<p>輪講はZoom（顔は出さず）で行います。</p>
+<p>詳しくは上記のSkypeに来てください。</p>
+<p>また、過去の記録などは <a href="https://w.atwiki.jp/sms20120113/pages/75.html" rel="nofollow">https://w.atwiki.jp/sms20120113/pages/75.html</a> からごらんになれます。</p>
+<p>お待ちしています。(^^)</p>
+<h2>今回の範囲</h2>
+<p>p. 220 3.4 注 3.51 から</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT系&誰でも参加OK！もくもく会_朝活_10/19(水)]]></title>
+        <id>https://morimori.connpass.com/event/263216/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://morimori.connpass.com/event/263216/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T13:48:48.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/19 07:00 ～ 08:00<br />開催場所: オンライン<br /><br /><p>一人じゃどうにも捗らない、、」という方向けの、<br>
+ジャンル問わずどなたでも参加できる朝活会です。</p>
+<p>資格の勉強をしてもよし、ポートフォリオを作ってもよし、<br>
+積読の解消のため読書の時間にしてよし。</p>
+<p>日頃なかなか進められないことに着手する時間としてお使いください！<br>
+遅れて参加も、途中退室も自由です！
+やっぱり参加できなかった、という場合も
+特にご連絡は必要ありません。</p>
+<p><br></p>
+<h2>■開催概要<br></h2>
+<p>日時：2022/10/19(水) 07:00〜08:00</p>
+<p>場所：discordでオンライン開催</p>
+<p>接続方法：discordのURLをお伝えします<br>
+　　</p>
+<h2>■タイムスケジュール<br></h2>
+<p>07:00<br>
+通話をつなぎます。<br>
+本日の取り組み予定を報告ください。<br>
+(カメラオフでも、チャットへの投稿という形でも大丈夫です。)<br></p>
+<p>例)UXの本を読みます！等</p>
+<p>その後主催者はBGMを流しますが、<br>
+気になるようなら音声OFFでOK<br>
+以降は各自もくもくしてください！<br></p>
+<p>※雑談用のスペースもあります！作業しながら話したいとき、チャットしたいときはお気軽に移動くださいー</p>
+<p><br></p>
+<p>08:00<br></p>
+<p>どこまで進んだかを簡単に報告(投稿)ください、終了！<br></p>
+<p>もし主催者(デザイナー)に質問があればお気軽にどうぞ！
+下記でお答えできる範囲で答えます！</p>
+<p>・デザインに関することなんでも<br>
+・illustrator、photoshop、xdなどの使い方など<br>
+・コーディングに関しては実務経験がないので詳しくお答えできなくてすみません、、！</p>
+<p>取り組み例)<br>
+・アプリ開発、プログラミング、コーディング<br>
+・WEBデザイン、アプリデザイン、イラスト制作<br>
+・資格などの勉強、就活のためのポートフォリオ作り<br>
+・ストレッチや瞑想を挟む人も<br></p>
+<h2>■追記<br></h2>
+<p>・基本は主催者が勉強をさぼらないためにイベント化しております。
+参加ハードルの低い、ゆるくて気張らない会を目指しています。</p>
+<p>・何回か来ている方で、discordに直接いらっしゃる方もいます 入ったらコンパス上の表記より人数多いことも多々あります また、同じサーバで自由な時間にもくもくしてってもらっても構いません〜！</p>
+<p>・毎日開催、をベースにしておりますが、主催が一人という都合上、用事で実現できない日や、 体調上開催できなくなった場合はコンパスもしくはdiscordのお知らせチャンネルでご連絡するようにします。 そちらを参照ください。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンライン CAE(工学数値シミュレーション)自習室(もくもく会)2022.10.20]]></title>
+        <id>https://cae-beginner.connpass.com/event/263211/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://cae-beginner.connpass.com/event/263211/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T13:30:57.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/20 20:00 ～ 22:10<br />開催場所: (場所未定)<br /><br /><h1>概要</h1>
+<p>(注)未申込でも、途中入退室自由です。お気軽にご参加下さい。</p>
+<p>(注)主催者本人が残業で途中からの入室となることもあります。（zoomには入室可能にしてあります。）</p>
+<p>勉強したいけどやる気出ない、気がそれる。</p>
+<p>そういう時は時間を決めて、皆で集まれば最低でも少しはやる。。。はず</p>
+<p>そういうわけで、皆で集まって勉強するスペースを基本定例で開きます。</p>
+<p></p>
+<p>発表・発言の義務は無く、初心者大歓迎です。</p>
+<p>良ければ、お気軽にご参加ください。</p>
+
+<h1>zoom会議室について</h1>
+<p>zoom会議室は時間が来れば、主催者が開室しなくても、入室できるように設定しています。</p>
+<p>残業の都合で、主催者が開始時刻に間に合わないことがありますので、その場合は入室の上、主催者抜きで先にもくもく作業を進めて下さい。</p>
+<p>Zoomミーティング情報</p>
+<p>  URL: <a href="https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09" rel="nofollow">https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09</a></p>
+<p>  ミーティングID: 842 8433 5986 </p>
+<p> パスコード：830162 </p>
+
+<h1>参加申込</h1>
+<p>イベントに登録願います。</p>
+<p>開催日時になりましたら、下記アドレスから入室願います。</p>
+
+<p><a href="https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+" rel="nofollow"></a><a href="https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09</a>" rel="nofollow">https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09</a></p>
+<p>上記のサイトをクリックすればZoomの待合室にログインします。</p>
+<p>ID入力で入室される方向け：</p>
+<p>ミーティングID：842 8433 5986</p>
+<p>パスコード: 830162</p>
+
+<p>お願い:</p>
+<ul>
+<li>自分が喋らないときはマイクをミュートにしてください</li>
+<li>Zoomでの参加名にはconnpassでの表示名を含めてください。</li>
+</ul>
+
+<p>例</p>
+<p>connpassでの表示名がhogehogeの場合</p>
+<p>　　〇　　hogehoge</p>
+<p>　　〇　　苗字(hogehoge)</p>
+<p>　　〇　　ほげほげ (ひらがなや漢字も大丈夫です)</p>
+<p>　　x　　苗字</p>
+<p></p>
+<p>上記以外の場合、セキュリティの観点からZoomへのミーティングルーム入室を許可できない場合がございます。</p><p>
+</p><p>名前の変更はZoomアプリからしか出来ないようです。</p>
+<p>お手数ですがご協力ください。</p>
+
+<h1>進め方</h1>
+Zoomの音声通話とチャット（と必要に応じて画面共有）を使って進めます
+カメラやSlackは使用しません
+
+<h1>Zoomでの参加方法について</h1>
+以下のサイトを参考にしてください。
+<a href="https://zoomy.info/manuals/sanka/" rel="nofollow">https://zoomy.info/manuals/sanka/</a>
+
+Zoomについての概要は以下です。
+<a href="https://zoom.us/j/223146490" rel="nofollow">https://zoom.us/j/223146490</a>
+
+<h1>進捗書き込み・雑談・呟き用スライド</h1>
+<p>　後述にもありますが、その日のやること・やったこと、雑談メモなどを書き溜めていっています。書き込みは任意です。書き込む方は、こちらからアクセス願います。</p>
+<p>  <a href="https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp=sharing" rel="nofollow">https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp=sharing</a></p>
+
+<h1>内容</h1>
+もくもく会の内容は以下を予定しております。（約2時間30分)
+時間は目安です。伸びたりする事も有ると思いますが、途中入退出はご自由にどうぞ。
+
+<table>
+<tbody><tr> <th>時間</th> <th>内容</th> </tr>
+<tr> <th>10分</th> <th>やること宣言（希望者のみ/チャット・共有ファイルへの書き込みも可）</th> </tr>
+<tr> <th>60分</th> <th>お勉強タイム/質問/技術雑談</th> </tr>
+<tr> <th>10分</th> <th>進捗報告・相互コメント（希望者のみ）</th> </tr>
+<tr> <th>60分</th> <th>お勉強タイム/質問/技術雑談</th> </tr>
+<tr> <th>10分</th> <th>進捗報告・相互コメント</th> </tr>
+</tbody></table>
+
+<ul>
+<li>やること宣言</li>
+<p>なんでもよいです。</p>
+<p>今日やることを述べて下さい。希望者のみでOKです。共有ファイルへ書き込むだけでもOK。</p>
+<p>　「まずはOpenFOAMのインストールをやります」</p>
+<p>　「専門書読みます」</p>
+<p>　「ANSYS Student版を触ってみます」</p>
+<p>　「C++, PythonとかでHello World!出してみます」</p>
+<p>　「CAEには体力が必要なのでジョギングしてきます」</p>
+<p>　「ごはん食べてきます」</p>
+<p>　「イエローケーキ作ってみます」</p>
+<p></p>
+<p>初めての方・自己紹介／挨拶したい方はこの場でどうぞ。少なくとも、zeta_plusplusが挨拶に応じます。</p>
+
+<li>お勉強タイム/質問/技術雑談</li>
+<p>発表したことをやります。</p>
+<p>生存確認のためチャットで呟いてくれて構いません。</p>
+<p>誰かが相手してくれるかもしれません。</p>
+<p>　「cdってなに・・・」</p>
+<p>　「そもそも1DCAEってイメージしづらい」</p>
+<p>　「ようやく解析の流れが分かった！」</p>
+<p>　「味噌汁が美味しい」</p>
+
+<p>質問: 参加者からCAEに関する質問を受け付けます。 どのような質問、疑問でも結構で、資料などは無くても大丈夫です。 勉強・相談会よりラフな感じでサクッと質問して頂いて良いのでお気軽にどうぞ。（答えられるとは限りませんがご了承下さい。）</p>
+
+<li>進捗報告・相互コメント</li>
+<p>出来たところまでを報告してください。</p>
+<p>良かったところ、悪かったところなど言ってくれたらいいです。</p>
+<p>良い情報は本サークルのWebサイトのwikiに集約しましょう。</p>
+<p>Wikiの記入は以下の本サークルのサイト内にあるものを使用できます。 </p>
+<a href="http://160.16.70.137/redmine/" rel="nofollow">CAE初心者サークル</a>
+<p>　「このサイトをみましたが、さっぱりです」</p>
+<p>　「この本の〇ページに良いのが載ってました」</p>
+<p>　「お味噌汁が美味しかったです」</p>
+<p>　「イエローケーキが美味しそうです」</p>
+<p>それに対して、他の人がコメントします。コメントしないこともあります。</p>
+<p>　「それはこの本を見ればいいよ」</p>
+<p>　「このサイトがいいよ」</p>
+<p>　「今度の勉強会で良ければ教えてください」</p>
+<p>　「食べちゃいけないです。次は濃縮ですね。」</p>
+
+</ul>
+
+<h1>注意事項</h1>
+<p>基本的に自学自習を促進し合う場です。</p>
+<p>一人でも開場・開催します。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10/12(水) 【第41回】DDLオンラインもくもく勉強会]]></title>
         <id>https://ddl.connpass.com/event/263199/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -2796,6 +3302,16 @@ Webサイトのデザイン、書籍執筆や講師業などで経験を積ん�
 <a href="https://twitter.com/hashtag/kindswift" rel="nofollow">#kindswift</a></p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL Cluster 7.4]]></title>
+        <id>https://dev.mysql.com/downloads/cluster/7.4.html</id>
+        <link href="https://dev.mysql.com/downloads/cluster/7.4.html"/>
+        <updated>2022-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MySQL Cluster 7.4 (7.4.38 GA, published on Wednesday, 12 Oct 2022)]]></summary>
+        <author>
+            <name>MySQL - New Product Releases</name>
         </author>
     </entry>
     <entry>
@@ -10735,227 +11251,6 @@ Get Property Value History by Entity クエリと Get Property Value History by 
         <summary type="html"><![CDATA[オープンソースのPython用深層学習用フレームワーク「PyTorch」の開発や普及を促進する団体「PyTorch Foundation」の設立を、Meta（旧Facebook）が発表しました。 PyTorchはこれまでMetaが主導するオ...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: Webpackをesbuildに移行してJSのビルドを縮小・高速化（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_13/121781</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_13/121781"/>
-        <updated>2022-09-13T08:30:42.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_migrating_from_Webpack_to_esbuild_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: How I migrated a Rails app from Webpack to esbuild and got smaller and faster JS builds &#124; Arkency Blog 原文公開日: 2022/08/29 原著者: Jakub Kosiński サイト: Arkency 原文の章立ての一部を訳文で変更しています。 Rails: Webpackをesbuildに移行してJSのビルドを縮小・高速化（翻訳） 先週、私はJavaScriptコードが30万行を超えるかなり大規模なプロジェクトで、Webpack 4をesbuil [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_13/121781" data-wpel-link="internal" target="_self">Rails: Webpackをesbuildに移行してJSのビルドを縮小・高速化（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分だけのロック画面で、オンリーワンのiPhoneを――iOS 16リリース。開発者向けSDKも準備]]></title>
-        <id>https://gihyo.jp/article/2022/09/ios16-release</id>
-        <link href="https://gihyo.jp/article/2022/09/ios16-release?utm_source=feed"/>
-        <updated>2022-09-13T05:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleは2022年9月13日、同社のスマートフォン向けOSの最新版「iOS 16」をリリースした。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分だけのロック画面で、オンリーワンのiPhoneを――iOS 16リリース。開発者向けSDKも準備]]></title>
-        <id>https://gihyo.jp/article/2022/09/ios16-release</id>
-        <link href="https://gihyo.jp/article/2022/09/ios16-release?utm_source=feed"/>
-        <updated>2022-09-13T05:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleは2022年9月13日、同社のスマートフォン向けOSの最新版「iOS 16」をリリースした。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自分だけのロック画面で、オンリーワンのiPhoneを――iOS 16リリース。開発者向けSDKも準備]]></title>
-        <id>https://gihyo.jp/article/2022/09/ios16-release</id>
-        <link href="https://gihyo.jp/article/2022/09/ios16-release?utm_source=feed"/>
-        <updated>2022-09-13T05:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleは2022年9月13日、同社のスマートフォン向けOSの最新版「iOS 16」をリリースした。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian “Buster”と“Bullseye”がそれぞれアップデート]]></title>
-        <id>https://gihyo.jp/article/2022/09/daily-linux-220913</id>
-        <link href="https://gihyo.jp/article/2022/09/daily-linux-220913?utm_source=feed"/>
-        <updated>2022-09-13T05:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Debianプロジェクトは9月10日、「Debian 10 ”Buster”」の13回目のアップデートとなる「Debian 10.13」と、「Debian 11 ”Bullseye”」の5回目のアップデートとなる「Debian 11.5」を同時に公開した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian “Buster”と“Bullseye”がそれぞれアップデート]]></title>
-        <id>https://gihyo.jp/article/2022/09/daily-linux-220913</id>
-        <link href="https://gihyo.jp/article/2022/09/daily-linux-220913?utm_source=feed"/>
-        <updated>2022-09-13T05:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Debianプロジェクトは9月10日、「Debian 10 ”Buster”」の13回目のアップデートとなる「Debian 10.13」と、「Debian 11 ”Bullseye”」の5回目のアップデートとなる「Debian 11.5」を同時に公開した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian “Buster”と“Bullseye”がそれぞれアップデート]]></title>
-        <id>https://gihyo.jp/article/2022/09/daily-linux-220913</id>
-        <link href="https://gihyo.jp/article/2022/09/daily-linux-220913?utm_source=feed"/>
-        <updated>2022-09-13T05:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Debianプロジェクトは9月10日、「Debian 10 ”Buster”」の13回目のアップデートとなる「Debian 10.13」と、「Debian 11 ”Bullseye”」の5回目のアップデートとなる「Debian 11.5」を同時に公開した。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS上で分散インメモリDB「MySQL HeatWave」、オラクルが提供開始。Amazon AuroraとRedshiftの競合に]]></title>
-        <id>https://www.publickey1.jp/blog/22/awsdbmysql_heatwaveamazon_auroraredshift.html</id>
-        <link href="https://www.publickey1.jp/blog/22/awsdbmysql_heatwaveamazon_auroraredshift.html"/>
-        <updated>2022-09-13T04:48:41.000Z</updated>
-        <summary type="html"><![CDATA[オラクルは、AWS上でMySQLベースの分散インメモリデータベース「MySQL HeatWave」をマネージドサービスとして提供を開始したと発表しました（日本オラクルのプレスリリース）。 [Press Release] Oracle Ann...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RStudioが生産性を高める［前編］ 〜コマンドパレットによる検索の効率化]]></title>
-        <id>https://gihyo.jp/article/2022/09/increase-productivity-of-r-01</id>
-        <link href="https://gihyo.jp/article/2022/09/increase-productivity-of-r-01?utm_source=feed"/>
-        <updated>2022-09-13T02:58:00.000Z</updated>
-        <summary type="html"><![CDATA[「Rが生産性を高める」の執筆者が本誌には書ききれなかったデータ分析の効率化に関する話題を連載にします。Rにフォーカスするわけではありませんが、Rユーザーにとって分析が効率化する連載を目指します。本稿では、多数の機能を検索して絞り込み、実行するコマンドパレットを起点に、生産性を高める方法を2回に分けて紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RStudioが生産性を高める［前編］ 〜コマンドパレットによる検索の効率化]]></title>
-        <id>https://gihyo.jp/article/2022/09/increase-productivity-of-r-01</id>
-        <link href="https://gihyo.jp/article/2022/09/increase-productivity-of-r-01?utm_source=feed"/>
-        <updated>2022-09-13T02:58:00.000Z</updated>
-        <summary type="html"><![CDATA[「Rが生産性を高める」の執筆者が本誌には書ききれなかったデータ分析の効率化に関する話題を連載にします。Rにフォーカスするわけではありませんが、Rユーザーにとって分析が効率化する連載を目指します。本稿では、多数の機能を検索して絞り込み、実行するコマンドパレットを起点に、生産性を高める方法を2回に分けて紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RStudioが生産性を高める［前編］ 〜コマンドパレットによる検索の効率化]]></title>
-        <id>https://gihyo.jp/article/2022/09/increase-productivity-of-r-01</id>
-        <link href="https://gihyo.jp/article/2022/09/increase-productivity-of-r-01?utm_source=feed"/>
-        <updated>2022-09-13T02:58:00.000Z</updated>
-        <summary type="html"><![CDATA[「Rが生産性を高める」の執筆者が本誌には書ききれなかったデータ分析の効率化に関する話題を連載にします。Rにフォーカスするわけではありませんが、Rユーザーにとって分析が効率化する連載を目指します。本稿では、多数の機能を検索して絞り込み、実行するコマンドパレットを起点に、生産性を高める方法を2回に分けて紹介します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#01　EuroPython 2022 Day 1注目セッションと渡航や現地のあれこれ]]></title>
-        <id>https://gihyo.jp/article/2022/09/europython2022-01</id>
-        <link href="https://gihyo.jp/article/2022/09/europython2022-01?utm_source=feed"/>
-        <updated>2022-09-13T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[EuroPythonは、ヨーロッパ地域で開催されるPythonに関するカンファレンスです。アイルランドで開催されたEuroPython 2022に参加して発表などをしてきたので、現地の様子をこのレポートで伝えたいと思います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#01　EuroPython 2022 Day 1注目セッションと渡航や現地のあれこれ]]></title>
-        <id>https://gihyo.jp/article/2022/09/europython2022-01</id>
-        <link href="https://gihyo.jp/article/2022/09/europython2022-01?utm_source=feed"/>
-        <updated>2022-09-13T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[EuroPythonは、ヨーロッパ地域で開催されるPythonに関するカンファレンスです。アイルランドで開催されたEuroPython 2022に参加して発表などをしてきたので、現地の様子をこのレポートで伝えたいと思います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#01　EuroPython 2022 Day 1注目セッションと渡航や現地のあれこれ]]></title>
-        <id>https://gihyo.jp/article/2022/09/europython2022-01</id>
-        <link href="https://gihyo.jp/article/2022/09/europython2022-01?utm_source=feed"/>
-        <updated>2022-09-13T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[EuroPythonは、ヨーロッパ地域で開催されるPythonに関するカンファレンスです。アイルランドで開催されたEuroPython 2022に参加して発表などをしてきたので、現地の様子をこのレポートで伝えたいと思います。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人の夢に着目してコラボレートを支援。 今こそ、高まる人と人とのつながりが 社会課題を解決するイノベーションを起こす]]></title>
-        <id>https://data.wingarc.com/?p=46085</id>
-        <link href="https://data.wingarc.com/all_about_waccel-46085?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all_about_waccel"/>
-        <updated>2022-09-13T01:00:41.000Z</updated>
-        <summary type="html"><![CDATA[「eスポーツ×英会話」が専門学校の授業に オンラインのサッカーゲームをしながら、生徒たちが海外の学生やプロゲーマーと英語で会話をしている。会話の内容は今プレイしているゲームのことだけでなく、好きなサッカーチームや選手、さ […]]]></summary>
-        <author>
-            <name>tadokoroyusuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 ブラウザ操作自動化の基本 ～非同期処理を扱うasync/await関数、自動化の鍵を握るPuppeteerコンポーネント]]></title>
-        <id>https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-02</id>
-        <link href="https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-02?utm_source=feed"/>
-        <updated>2022-09-13T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[第2章では、実際にヘッドレスChromeを自動化するうえで必要となる、最新のJavaScriptの構文やPuppeteerのAPIについて解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 ブラウザ操作自動化の基本 ～非同期処理を扱うasync/await関数、自動化の鍵を握るPuppeteerコンポーネント]]></title>
-        <id>https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-02</id>
-        <link href="https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-02?utm_source=feed"/>
-        <updated>2022-09-13T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[第2章では、実際にヘッドレスChromeを自動化するうえで必要となる、最新のJavaScriptの構文やPuppeteerのAPIについて解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章 ブラウザ操作自動化の基本 ～非同期処理を扱うasync/await関数、自動化の鍵を握るPuppeteerコンポーネント]]></title>
-        <id>https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-02</id>
-        <link href="https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-02?utm_source=feed"/>
-        <updated>2022-09-13T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[第2章では、実際にヘッドレスChromeを自動化するうえで必要となる、最新のJavaScriptの構文やPuppeteerのAPIについて解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第15回　スマホの後ろ側]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-15</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-15?utm_source=feed"/>
-        <updated>2022-09-13T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[スマホの後ろ側には、世界中にあるプログラムが連携しあい、ユーザーへ最適なサービスを提供する大きな基盤へ変化していっている過程とも見てとれます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第15回　スマホの後ろ側]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-15</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-15?utm_source=feed"/>
-        <updated>2022-09-13T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[スマホの後ろ側には、世界中にあるプログラムが連携しあい、ユーザーへ最適なサービスを提供する大きな基盤へ変化していっている過程とも見てとれます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第15回　スマホの後ろ側]]></title>
-        <id>https://gihyo.jp/article/2022/08/internet-forecast-report-15</id>
-        <link href="https://gihyo.jp/article/2022/08/internet-forecast-report-15?utm_source=feed"/>
-        <updated>2022-09-13T00:19:00.000Z</updated>
-        <summary type="html"><![CDATA[スマホの後ろ側には、世界中にあるプログラムが連携しあい、ユーザーへ最適なサービスを提供する大きな基盤へ変化していっている過程とも見てとれます。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熊本県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab]]></title>
-        <id>https://data.wingarc.com/?p=46147</id>
-        <link href="https://data.wingarc.com/local-dx-lab-kumamoto-46147?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=local-dx-lab-kumamoto"/>
-        <updated>2022-09-13T00:05:37.000Z</updated>
-        <summary type="html"><![CDATA[熊本県は、九州本島の中央部に位置し、世界最大級のカルデラを有する阿蘇や、美しい島々からなる天草など、素晴らしい自然にあふれた地域です。 世界有数のカルデラを誇る阿蘇があることから「火の国」と呼ばれており、その大自然の中で […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
     <entry>
