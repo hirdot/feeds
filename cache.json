@@ -1574,56 +1574,6 @@
           "wordCount": 310,
           "title": "Amazon QuickSight Q の作成者が、Q が回答しなかった質問や、回答生成のためにユーザーの曖昧さ回避が必要となる質問の特定ができるように",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d145f6782633e24371dcafe5b07ebe79c79c830f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect がインスタンス作成に関する AWS CloudFormation サポートを開始しました。AWS CloudFormation テンプレートを使用して、他の AWS インフラストラクチャと共に Amazon Connect インスタンスを安全、効率的、繰り返し可能な方法でデプロイできるようになりました。さらに、AWS CloudFormation を使用して、インスタンス内の他のリソース (ユーザー、クイック接続、問い合わせフローなど) と共に Amazon Connect インスタンスをデプロイできます。詳細については、AWS CloudFormation ユーザーガイドの Amazon Connect リソースタイプリファレンスを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-aws-cloudformation-support-instance-creation/",
-          "publishedOn": "2022-09-12T19:01:06.000Z",
-          "wordCount": 321,
-          "title": "Amazon Connect がインスタンス作成に関する AWS CloudFormation サポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "36fbe702fcab4d79713975cfa82dd672441fe6c4",
-          "author": "aws@amazon.com",
-          "description": "Amazon Managed Service for Prometheus では、Alert Manager および Ruler ログの提供を開始しました。このログはパイプラインと構成のアラート設定に関するトラブルシューティングを Amazon CloudWatch Logs で行うのに役立ちます。Amazon Managed Service for Prometheus は、Prometheus 互換のフルマネージドモニタリングサービスであり、大規模環境での運用メトリクスを簡単にモニタリングして、アラームを設定できます。Prometheus は、コンテナ環境向けに最適化された、モニタリングとアラートのための人気のある Cloud Native Computing Foundation オープンソースプロジェクトです。Alert Manager を使用すると、Amazon Simple Notiﬁcation Service (Amazon SNS) を使ってアラームをエンドユーザーにルーティングする前に、アラームのグループ化、ルーティング、重複排除、消音を行うことができます。Ruler を使用すると、レコーディングとアラートのルールを定義でき、そのルールはクエリとして一定の間隔で評価されます。Alert Manager および Ruler ログを使って、Amazon SNS トピックのアクセス許可の不足、アラートマネージャーのルートの設定ミス、実行できないルールなど、パイプラインのアラート設定に関する問題のトラブルシューティングを実行できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/",
-          "publishedOn": "2022-09-12T18:49:47.000Z",
-          "wordCount": 355,
-          "title": "Amazon Managed Service for Prometheus の Alert Manager および Ruler ログが Amazon CloudWatch Logs で利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2222e3ffcdf7405ce083b06d540c9e2fd34ee4df",
-          "author": "aws@amazon.com",
-          "description": "AWS GameKit が Unity ゲームエンジンで利用できるようになりました。ゲームデベロッパーは AWS GameKit を使用して、ゲームのバックエンド機能をゲームエンジンから直接デプロイしてカスタマイズできます。AWS GameKit は 2022 年 3 月 23 日にリリースされ、Unreal Engine をサポートしていますが、本日のリリースで Unity のサポートを開始します。ゲームデベロッパーは、わずか数クリックで Unreal Engine と Unity Engine の両方から、以下のクラウドベースのゲーム機能を Win64、MacOS、Android、または iOS 用ゲームに統合できるようになります: \n  \n \n \nID と認証: 各プレイヤーに一意の ID を作成し、プレイヤーがゲームにサインインできるようにします。プレイヤー ID を確認し、プレイヤーセッションを管理します。\n \n \n成績: プレイヤーが獲得したゲーム関連の報酬を作成し、追跡します。\n \n \nゲームの状態をクラウド保存: プレイヤーのゲーム進行状況の同期コピーを AWS に維持し、セッションをまたいでゲームプレイを再開できるようにします。\n \n \nユーザーゲームプレイデータ: インベントリ、統計、クロスプレイの永続性といった各プレイヤーのゲーム関連のデータを維持します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-gamekit-unity-support/",
-          "publishedOn": "2022-09-12T18:48:57.000Z",
-          "wordCount": 343,
-          "title": "AWS GameKit に Unity サポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "42db4e4e7d87d5fd5c2f09340d55f47b1c9b611f",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (ECS) のサーバーレスコンピューティングエンジンである AWS Fargate が中東 (UAE) リージョンで利用可能になりました。Fargate では、基盤となるインフラストラクチャを管理することなく、コンテナ化されたアプリケーションをデプロイおよび管理できます。Fargate を使用すると、アプリケーションをより簡単にスケールできるようになります。また、設計でアプリケーションを分離させることによりセキュリティを向上させることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/",
-          "publishedOn": "2022-09-12T18:48:08.000Z",
-          "wordCount": 329,
-          "title": "AWS Fargate が中東 (UAE) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3af7767d21897b98002cb064f8836c401f633c9e",
-          "author": "aws@amazon.com",
-          "description": "SageMaker Autopilot は、完全な制御と可視性を維持しながら、データに基づいて最適な機械学習モデルを自動的にトレーニングおよび調整します。本日より、Autopilot 実験を作成して機械学習モデルをトレーニングする際には、機械学習モデルのトレーニングおよび検証に使用されるデータの分割をカスタマイズできるようになります。デフォルトでは、Autopilot は特定のデータセットを 80% と 20% に分割し、それぞれトレーニング用と検証用に確保します。今回のリリースでは、トレーニングデータおよび検証データの分割割合をカスタマイズしたり、あるいはトレーニング用と検証用として 2 つのデータセットを用意したりすることができます。この機能は、 Amazon SageMaker Studio と SageMaker Autopilot API の両方で使用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/",
-          "publishedOn": "2022-09-12T18:47:18.000Z",
-          "wordCount": 331,
-          "title": "Amazon SageMaker Autopilot、カスタムデータの分割オプションの提供と合わせて、AutoML 実験を作成するためのエクスペリエンスを改善",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -4768,6 +4718,16 @@
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20221003_eyecatch-min.png"
         },
         {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2022_10_03/48367",
+          "author": null,
+          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2017/12/rails_before_validate_eyecatch3-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: 原著者の許諾を得て翻訳・公開いたします。 英語記事: The Case Against Exotic Usage of :before_validate Callbacks 原文公開日: 2017/10/29 著者: Karol Galanciak サイト: BookingSync なお、原文のbefore_validateは訳文でbefore_validationに修正しました。 2017/12/12: 初版公開 2022/10/04: 更新 Rails: :before_validationコールバックの逸脱した用法を改善する（翻訳） Active [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_10_03/48367\" data-wpel-link=\"internal\" target=\"_self\">Rails: :before_validationコールバックの逸脱した用法を改善する（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2022_10_03/48367",
+          "publishedOn": "2022-10-03T08:42:39.000Z",
+          "wordCount": 553,
+          "title": "Rails: :before_validationコールバックの逸脱した用法を改善する（翻訳）",
+          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2017/12/rails_before_validate_eyecatch3-min.png"
+        },
+        {
           "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219",
           "author": null,
           "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_stimulus_keyboard_shortcuts_eyecatch2-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Adding keyboard shortcuts and hotkeys to StimulusJS &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2022/07/11 原著者: Matt Swanson サイト: Boring Rails 日本語タイトルは内容に即したものにしました。 Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳） 本記事は、Boring Railsの新シーズンコンテンツ「Hotwire Summer」の一部です。 キーボードシ [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_30/120219\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
@@ -6408,6 +6368,26 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://cyberagent.connpass.com/event/261904/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/28 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h1>概要</h1>\n<p>10月5日〜7日に開催されたDroidKaigi 2022に協賛しているLINEマンガ・マネーフォワード・サイバーエージェントが合同でAndroidアプリ開発に関する勉強会を開催します。<br></p>\n<p><img src=\"https://engineering.linecorp.com/wp-content/uploads/2021/10/Horizontal.jpg\" width=\"140px\"></p>\n<p>※ 本イベントはDroidKaigiとは直接的な関係がありません。有志による主催です。<br></p>\n<p><br>\n<br>\nオンライン開催となりますので、ご興味ある方是非お気軽にご応募下さい。<br></p>\n<ul>\n<li>開催日：2022年10月28日（金）19:00 </li>\n<li>場所：YouTube ライブ配信</li>\n<li>参加費：無料</li>\n</ul>\n<h1>登壇者</h1>\n<h4>LINE Digital Frontier / Sai Choko</h4>\n<p><img src=\"https://avatars.githubusercontent.com/u/29770133?v=4\" width=\"128px\"></p>\n<p>\n<b>GitHub: <a href=\"https://github.com/cuichanghao\" rel=\"nofollow\">https://github.com/cuichanghao</a><br>\nTwitter: <a href=\"https://twitter.com/zhangho\" rel=\"nofollow\">https://twitter.com/zhangho</a></b>\n\n</p><div>フリービット株式会社にてR&amp;D manager(中国)、楽天グループ株式会社にてスマホ部門のPM(中国)、スタートアップ創業などを経験。2006年に日本へ来日し、数年間フリーエンジニアとして活動後、現在LINE Digital Frontier株式会社でAndroid開発をしています。\n</div>\n<p></p>\n\n<h4>Money Forward / Saiki Iijima</h4>\n<p><img src=\"https://avatars.githubusercontent.com/u/5600097?v=4\" width=\"128px\"></p>\n<p>\n<b>GitHub: <a href=\"https://github.com/sasasaiki\" rel=\"nofollow\">https://github.com/sasasaiki</a><br>\nTwitter: <a href=\"https://twitter.com/saikiiiji\" rel=\"nofollow\">https://twitter.com/saikiiiji</a></b>\n\n</p><div> 株式会社マネーフォワード（今）←株式会社リクルート←Yahoo株式会社←株式会社コロプラ\nソーシャルゲーム開発からGo言語でのサーバサイド開発を経てAndroidアプリをメインに開発しています。最近はFlutterを使い始めてホクホク。<br>\n現在はマネーフォワードで個人向け家計簿アプリ『マネーフォワード ME』のモバイルアプリ開発とスクラムマスターをやっています。\n</div>\n<p></p>\n\n<h4>CyberAgent / Shun Sato Tapple, Inc</h4>\n<p><img src=\"https://avatars.githubusercontent.com/u/1389835?v=4\" width=\"128px\"></p>\n<p>\n<b>GitHub：<a href=\"https://github.com/satoshun\" rel=\"nofollow\">https://github.com/satoshun</a><br>\nTwitter：<a href=\"https://twitter.com/stsn_jp\" rel=\"nofollow\">https://twitter.com/stsn_jp</a></b>\n</p><div>タップルのAndroidアプリを開発しています。最近、ジムに行ってます</div>\n<p></p>\n\n<h1>タイムテーブル</h1>\n<p>※ 発表内容が決まり次第、順次更新していきます。</p>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>19:00</td>\n<td>受付開始</td>\n</tr>\n<tr>\n<td>19:15 - 19:30</td>\n<td>イベント趣旨/会社説明</td>\n</tr>\n<tr>\n<td>19:30 - 20:30</td>\n<td>『Google Play Media Experience programの対応』 <br>LINE Digital Frontier / sai.choko<br><br>『Flutter-to-10年もののアプリ 〜Add-to-app検証してみた〜』<br>Money Forward / Saiki Iijima<br><br>『-挙動で学ぶJetpack ComposeのRecomposition』又は 『Androidビルドの高速化』<br>CyberAgent / Shun Sato</td>\n</tr>\n<tr>\n<td>20:25 - 20:45</td>\n<td>質問会</td>\n</tr>\n<tr>\n<td>20:45 - 20:50</td>\n<td>closing</td>\n</tr>\n</tbody>\n</table>\n<p>※ 適宜休憩を取ります。<br>\n※ 当日予告なく時間配分、内容が変更になる可能性がございます。</p>\n<h1>個人情報の取扱いについて</h1>\n<p>LINE Digital Frontier株式会社：<a href=\"https://terms2.line.me/linemanga_ldf_privacy?lang=ja<br>\" rel=\"nofollow\">https://terms2.line.me/linemanga_ldf_privacy?lang=ja<br></a>\n株式会社マネーフォワード：<a href=\"https://corp.moneyforward.com/privacy/<br>\" rel=\"nofollow\">https://corp.moneyforward.com/privacy/<br></a>\n株式会社サイバーエージェント：<a href=\"https://www.cyberagent.co.jp/sustainability/security/privacy/<br>\" rel=\"nofollow\">https://www.cyberagent.co.jp/sustainability/security/privacy/<br></a></p>\n<p>申し込み時にご提供いただいた情報は、イベント受付管理や各種ご案内（サービス・イベント等）に利用させていただきます。</p>",
+          "link": "https://cyberagent.connpass.com/event/261904/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-12T06:28:53.000Z",
+          "wordCount": 1255,
+          "title": "【LINEマンガ/マネーフォワード/CyberAgent】Android Tech Talk #1",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/94/4b94aa3cf0794e5248253ee904c343c8.png"
+        },
+        {
+          "id": "https://lwug.connpass.com/event/263004/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 18:30 ～ 20:00<br />開催場所: 530-0011 大阪府大阪市北区大深町1-1 ヨドバシ梅田タワー 8F<br /><br /><div>\n<p></p><h2 style=\"padding-left: 6px; border-left: 4px solid #04a76e; border-bottom: 2px solid #04a76e;\">LWUG（えるわぐ）とは？</h2><p></p>\n</div>\n<p><br>\nLWUG（正式名称 LINE WORKS USER GROUP）は、組織におけるコミュニケーションや働き方の課題に対して、LINE WORKSを通してどのように解決するか、ユーザーの皆さんどうし活用・運用ノウハウを共有するコミュニティです。<br>\nノウハウの共有により、更なる業務改善や働き方改革につながることを目的としています。<br>\n<br>\n活用・運用におけるユーザー事例発表会、交流会や情報交換会を開催しており、実際にLINE WORKSを使っている方の生の声を聞くことができます。<br>\nLWUG紹介ページ<br>\n<a href=\"https://lwug.connpass.com/\" rel=\"nofollow\">https://lwug.connpass.com/</a><br>\n過去開催イベントレポートはこちら<br>\n<a href=\"https://line.worksmobile.com/jp/blog/event/lwug-in-osaka/\" rel=\"nofollow\">https://line.worksmobile.com/jp/blog/event/lwug-in-osaka/</a>\n<br></p>\n<div>\n<p></p><h2 style=\"padding-left: 6px; border-left: 4px solid #04a76e; border-bottom: 2px solid #04a76e;\">今回のイベント紹介</h2><p></p>\n</div>\n\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">内容</span></p>\n</div>\n<p>業務や組織コミュニケーションの改善のため、LINE WORKSを導入したものの、活用や運用に関してお悩みを抱えてる方いらっしゃいませんか？<br>\n<br></p>\n<blockquote>\n<p>・業務改善につながるもっと良い活用や運用方法はないだろうか<br>\n・なかなか周囲のメンバーが使ってくれない、どうしたら良いだろうか<br>\n・果たして自社の使い方は合っているのだろうか、他の方はどうしているのだろうか<br></p>\n</blockquote>\n<p><br>\nこのようなお悩みを持つLINE WORKS導入・推進担当の方もいらっしゃるかと思います。<br>\n今回はそんなお悩みを持つ方向けに、関西からLINE WORKSを使われている2社様に活用方法や導入〜定着に関する体験談をご紹介いただきます。<br>\n<br></p>\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">交流会につきまして</span></p>\n</div>\n<p>「参加者との交流をしたい」というリクエストにお応えして、交流会もご用意しました。<br>\n情報交換や繋がりづくりができる場になっておりますので、気軽な気持ちでご参加ください。<br>\n<br></p>\n<div>\n<p></p><h2 style=\"padding-left: 6px; border-left: 4px solid #04a76e; border-bottom: 2px solid #04a76e;\">開催概要</h2><p></p>\n</div>\n<p><br></p>\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">開催日時</span></p>\n</div>\n<p>2022年11月2日（水）18:30〜20:00<br>\n※開場・受付 18:00〜18:30<br>\n受付は18:30で終了し、その後は個別対応となる予定です。LWUG事務局<a href=\"mailto:dl_user_community@worksmobile.com\" rel=\"nofollow\">dl_user_community@worksmobile.com</a>までご連絡ください。<br>\n<br></p>\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">開催場所</span></p>\n</div>\n<p>WeWork LINKS UMEDA (ヨドバシ梅田タワー)<br>\n<a href=\"https://weworkjpn.com/location/osaka/links-umeda/\" rel=\"nofollow\">https://weworkjpn.com/location/osaka/links-umeda/</a><br>\n<br></p>\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">タイムテーブル（予定）</span></p>\n</div>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>18:30〜18:40</td>\n<td>イベントご案内</td>\n</tr>\n<tr>\n<td>18:40〜18:50</td>\n<td>LINE WORKS最新ニュース ワークスモバイルジャパン</td>\n</tr>\n<tr>\n<td>18:50〜19:10</td>\n<td>関西ユーザー事例紹介①</td>\n</tr>\n<tr>\n<td>19:10〜19:30</td>\n<td>関西ユーザー事例紹介②</td>\n</tr>\n<tr>\n<td>19:30〜19:50</td>\n<td>交流会</td>\n</tr>\n<tr>\n<td>19:50〜20:00</td>\n<td>最後にお知らせ</td>\n</tr>\n</tbody>\n</table>\n<div>\n<p></p><h2 style=\"padding-left: 6px; border-left: 4px solid #04a76e; border-bottom: 2px solid #04a76e;\">スピーカー・発表内容のご紹介\n</h2><p></p>\n</div>\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">スピーカー1</span></p>\n</div>\n<ul>\n<li>会社名：株式会社ベストバイ<br></li>\n<li>所属部署：経営企画室 室長<br></li>\n<li>氏名：鈴木克典さま<br>\n<img src=\"https://pages.worksmobile.com/rs/227-YJI-053/images/211104_myself_square.jpg\" width=\"30%\"><br></li>\n<li>発表タイトル・内容：Coming Soon<br>\n<br></li>\n</ul>\n<div>\n<p>\n<span style=\"font-size: 150%; color: #04a76e;\">スピーカー2</span></p>\n</div>\n<ul>\n<li>会社名：Coming Soon<br></li>\n<li>所属部署：Coming Soon<br></li>\n<li>氏名：Coming Soon<br></li>\n<li>発表タイトル・内容：Coming Soon<br>\n<br></li>\n</ul>\n<h3><strong>参加方法</strong></h3>\n<p><strong>画面右上の赤いボタンが[ログイン・会員登録]になっている方</strong> <br>\nconnpassに会員登録ができていない場合には、ボタンを押して会員登録をお願いします。<br>\n<a href=\"https://help.connpass.com/basic/register\" rel=\"nofollow\" title=\"会員登録の注意\">会員登録の注意</a> <br>\n※ユーザー名は本名でなくても構いません。\n<strong>画面右上の赤いボタンが[このイベントに申し込む]になっている方</strong> <br>\nそのまま、イベントにお申し込みください。\n<strong>受付完了後の参加情報について</strong><br>\n開始日2営業日前のお昼頃、開始日当日の朝、合計2回、connpassからのメールでもお伝えいたします。<br> </p>\n<h3><strong>注意事項</strong></h3>\n<ul>\n<li>WeWorkにゲストとして入場するにあたり、氏名・電話番号・メールアドレスが必要になります。必ずご記入ください。<br></li>\n<li>1社3名までご参加可能です。複数名でご参加予定の場合、必ず1名ずつでのお申し込みをお願いいたします。<br></li>\n<li>お名刺を1人1枚お持ちください。受付の参加者確認で必要になります。<br></li>\n<li>席に限りがあるので、参加が難しくなりましたらキャンセルの対応をお願いいたします。<br></li>\n<li>申し込みは11月1日の20時で締め切らせていただきます。</li>\n<li>メールが届かない場合には、connpassからのメールを受け取れる設定かどうかご確認ください。<br>\n<a href=\"http://help.connpass.com/basic/setting_user/\" rel=\"nofollow\" title=\"connpassの登録アドレス確認方法\">登録アドレスの確認方法</a> <br></li>\n<li>個人情報の取扱いについてご参照いただき、ご同意頂いたうえで、お申し込みください。<br>\n<a href=\"https://line.worksmobile.com/jp/app/privacy/\" rel=\"nofollow\">LINE WORKSプライバシーポリシー</a><br></li>\n<li>本イベントの様子は、写真を撮り、レポートとしてブログで紹介させていただきます。撮影の際は確認させていただいますのでご安心ください。<br></li>\n<li>途中入退出にはスタッフの付き添いが必要です。お声がけください。</li>\n<li>お困りの場合には、下記メールアドレスまでご連絡をください。<br>\nLWUG事務局　<a href=\"mailto:dl_user_community@worksmobile.com\" rel=\"nofollow\">dl_user_community@worksmobile.com</a><br></li>\n</ul>",
+          "link": "https://lwug.connpass.com/event/263004/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-12T06:19:29.000Z",
+          "wordCount": 1237,
+          "title": "LWUG関西！LINE WORKS導入・活用のユーザー事例紹介",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3b/c9/3bc91bef84f99c3034bc396d274a8bf1.png"
+        },
         {
           "id": "https://flutter-asamoku.connpass.com/event/263164/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
