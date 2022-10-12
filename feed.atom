@@ -2,10 +2,498 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-12T00:04:21.992Z</updated>
+    <updated>2022-10-12T01:30:08.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ESM アジャイル事業部が購入している書籍たち (2022 秋)]]></title>
+        <id>https://blog.agile.esm.co.jp/entry/esm-bookshelf-of-the-year-2022</id>
+        <link href="https://blog.agile.esm.co.jp/entry/esm-bookshelf-of-the-year-2022"/>
+        <updated>2022-10-12T01:28:58.000Z</updated>
+        <summary type="html"><![CDATA[読書の秋ですね。書棚を見ればその人がわかるといいますが、永和システムマネジメント アジャイル事業部でも運用している書籍購入支援制度で購入されている書籍をリストアップします。 この制度自体が運用し始めて長くなってきているため、直近の一年くらいに絞った内容です。メンバーたちがどのような書籍を購入しているか、読書の秋の参考にどうぞ。 Ruby JavaScript / TypeScript Rust Web データベース クラウド ソフトウェア設計 Linux 運用 その他 最も購入されていた書籍 (ESM Bookshelf of the Year 2022) Ruby @kakutani フェロ…]]></summary>
+        <author>
+            <name>ESM アジャイル事業部 開発者ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shibuya.lisp lispteatime #09]]></title>
+        <id>https://lisp.connpass.com/event/263120/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://lisp.connpass.com/event/263120/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T01:18:16.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/30 14:30 ～ 18:00<br />開催場所: (場所未定)<br /><br /><h2>概要</h2>
+<p>lispteatimeはShibuya.lispによるLispお茶会イベントです。お茶を飲みながら (なくてもよいです) 企画を楽しんだりLispの会話をするイベントです。これまでlispmeetupとして毎月発表の場を用意していましたが、昨今の時世の変化を鑑みて発表以外のこと（ハンズオン、ライブコーディングなど）もやってみようという試みです。</p>
+<p>当面lispmeetupと交互に（つまり隔月で）開催していく予定です。</p>
+<h2>今月のテーマ</h2>
+<p>今月のテーマは<strong>もくもく会</strong>です。Lispの処理系をインストールして触ってみるもよし、Lisp本読むもよし、なにか作るもよしです。</p>
+<p><strong>今月から企画パートの前にLisp初心者向け(というていですが初心者以外も歓迎です)質問タイムを設けています。「xxってどう使うの？」「yyってみんなどうしてる？」などなどを懇親会とは別に訊く時間としてご利用ください。もしなさそうなら省略して企画パートへ移行します。</strong></p>
+<h2>Zoomのリンクについて</h2>
+<p>当日にShibuya.lispのSlack、あるいはconnpass経由でメールで告知されます。</p>
+<h1>Position paper（自己紹介スライド）について</h1>
+<p>冒頭での自己紹介の際に画面に映すスライドの記入をお願いします。
+<a href="https://docs.google.com/presentation/d/1yJXYbhXSP3N8-QPPd1jNbTVtrtPdbXh34_dDzkaRfkI/edit?usp=sharing" rel="nofollow">今回のポジションペーパーはこちら</a>です。Google Docsのスライドなので、自由に編集することができます。</p>
+<p><a href="https://docs.google.com/presentation/d/1izbcmr1G2I3kTHhziUSfo5leUyi5phgA36JPG--gcgg/edit?usp=sharing" rel="nofollow">前回のポジションペーパーはこんな感じでした</a>。</p>
+<h1>Shibuya.lispのSlackについて</h1>
+<p>Shibuya.lispのSlackがあります。<a href="https://join.slack.com/t/shibuya-lisp/shared_invite/zt-a5skvfkm-Hx3YbwuS7d1hqU_Ebs1h3g" rel="nofollow">こちらのリンクから参加登録できます。</a> Lisp関係の話題や発表の相談などもこちらでも受け付けます。</p>
+<h2>会場とタイムテーブル</h2>
+<p>今回の会場はオンラインになります。インターネットの世界で楽しくやりましょう。</p>
+<p>タイムテーブルは以下の通りです。</p>
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14:00</td>
+<td>zoom部屋開場 Doors Open</td>
+</tr>
+<tr>
+<td>14:30 〜 14:40</td>
+<td>諸注意 Opening</td>
+</tr>
+<tr>
+<td>14:40 〜 15:30</td>
+<td>Lispに関して質問ターイム (なければ省略)</td>
+</tr>
+<tr>
+<td>15:30 〜 17:30</td>
+<td>企画パート Event Part</td>
+</tr>
+<tr>
+<td>17:00 〜 17:50</td>
+<td>お茶会 Tea Time</td>
+</tr>
+<tr>
+<td>17:50 〜 18:00</td>
+<td>閉会 Closing</td>
+</tr>
+</tbody>
+</table>
+<h2>lispteatimeについてのアンケート</h2>
+<p>lispteatimeに参加いただきありがとうございます。次回以降の参考にしますので<a href="https://docs.google.com/forms/d/e/1FAIpQLSfAevOnrfgxu4CpOfus9-r2GCLn_O20HbsxVAgSEMmQWqX--w/viewform?usp=sf_link" rel="nofollow">こちらのアンケート</a>に協力いただけると幸いです。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DESIGN HOOKS #2 / Notionでも実現できる！フックのあるサイトデザイン]]></title>
+        <id>https://smartbank.connpass.com/event/261873/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://smartbank.connpass.com/event/261873/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T01:07:17.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/25 19:00 ～ 20:30<br />開催場所: オンライン<br /><br /><h2>お知らせ</h2>
+<h2>イベント概要</h2>
+<p>イベントのテーマは「<strong>フックのあるデザイン</strong>」</p>
+<p>ときには納期に追われたり、無理難題が降ってきたり…そんな中でも日々工夫を惜しまず、ユーザーの心に残る「<strong>フックのあるデザイン</strong>」を意識して新たなデザインを生み出しているデザイナーたち。DESIGN HOOKSは、そんなデザイナーたちによる工夫や、こだわりのポイント、社内でのプロジェクトの進め方などの知見を共有する会です。</p>
+<p>第2回目は「Notionでも実現できる！フックのあるサイトデザイン」</p>
+<p>少人数で短期間でアウトプットを出さなければならない事が多いスタートアップ。そんな中で多くのデザイナーが活用しているツールのひとつがNotionです。ドキュメンテーションツールとしてチーム内の情報共有に使われるだけでなく、Webサイトの構築にも活用されています。</p>
+<p>大型の資金調達で話題となったGaudiyとスマートバンクの2社でも、コーポレートサイトや資金調達サイトをNotionで構築しています。単に時短のためだけでなく、Notionを活用することによってどのように「フックのあるデザイン」を実現しているかを、2社のデザイナーに伺います。</p>
+<p>またスペシャルゲストとして、Notionの西さんにお越しいただき
+中の人にNotion活用方法を質問できるQ&amp;Aタイムを設けます。</p>
+<p>イベントはZoomでのオンライン開催予定です。</p>
+<p>なお、一部を編集した形で後日動画配信 or 音声配信を予定しております。</p>
+<p><strong>配信時は申込者に向けてご連絡いたしますので、当日時間の都合がつきにくい方もお気軽にお申し込みください</strong>。</p>
+<h2>開催日時</h2>
+<p>10月25日(火) 19:00 - 20:30</p>
+<h2>タイムスケジュール</h2>
+<p>座談会形式で、スピーカーの皆様に以下のような質問にご回答頂きます。</p>
+<p>19:00 ~ 19:10　登壇者の自己紹介</p>
+<p>19:10 ~ 19:30　Q1. 手掛けた「Notionを使ったコミュニケーションデザイン」を紹介してください</p>
+<p>19:30 ~ 19:40　Q2. 「作るに至った経緯や背景」を教えてください</p>
+<p>19:40 ~ 19:50　Q3. 「製作者ならではの細部のこだわり」があれば教えてください</p>
+<p>19:50 ~ 20:00　Q4. 「他のデザイナーにも共有しておきたい学び」があれば教えてください</p>
+<p>20:00 ~ 20:10　Notion公式 デザインに関する初公開動画 &amp; 告知</p>
+<p>20:10 ~ 20:40　Notion西さんへの質問 &amp; フリートークタイム</p>
+<h2>スピーカー</h2>
+<h3>株式会社スマートバンク / takejune / <a href="https://twitter.com/takejune" rel="nofollow">@takejune</a></h3>
+<p><img src="https://lh3.googleusercontent.com/pw/AL9nZEVE41BQ_fVfQ0ORyIFmv0lvlou30Z4i2sE81p6Xczmq6BTjxjR2lSmwzAukWrTwyC-mEHiQ7lDHzFsTj3nHeeGdKkTncisxcODTpGYFfwcv-XoNFslLIHLZ2RR8rih1MCJ0LJ7jrvwMWh6lRK33fhsF=w1990-h2032-no?authuser=0" width="150"></p>
+<p>6月生まれのUIデザイナー、起業家。「B/43」を運営するスマートバンク社ではCXOとして、主にデザインとプロダクトマネジメントを担当している。VOYAGE GROUP (現CARTA HOLDINGS / 東証プライム)、ライブドア社(現LINE）でサービスデザイン・プロダクトマネジメントを担当後、Fablic社を共同創業し日本初のフリマアプリ「フリル」を生み出した。</p>
+<h3>株式会社Gaudiy / 椎橋 寅次郎 / <a href="https://twitter.com/jirosh1998" rel="nofollow">@jirosh1998</a></h3>
+<p><img src="https://lh3.googleusercontent.com/pw/AL9nZEVgUGbBSdTrwCnz_tlkUlmNv2LWqhxjLQSIas2isy6oGfUzgcslMEQR1JjlhQC2QOpEJOqMz3-GZYgMVj0noVCX3biB3UGl00Zgg1eZzmXkY-ndPX9x5yRxKCnSwPgvjwx1mQUrZK97CVn6xlFKiH5-=s640-no?authuser=0" width="150"></p>
+<p>Gaudiy Incのプロダクトデザイナー。
+2018年にGaudiyにエンジニアインターンとして入社。その後、Fanlink α版のデザインを担当したことをきっかけにデザイナーに。約3年ほど1人デザイナーとして、FanlinkやDID（分散型ID基盤）などの複数のプロダクト開発や様々なクリエイティブを担当。芸人ラジオをよく聞きます。</p>
+<h3>Notion Labs, Inc. / 西 勝清  / <a href="https://twitter.com/katsu2488" rel="nofollow">@katsu2488</a></h3>
+<p><img src="https://lh3.googleusercontent.com/pw/AL9nZEVLED2SF4B3xHHLxSXb_HjGwAm00F7QHSKiYCyHogDoj9W8LXzrpH_jfweQAJ3WeOxYm-KV2N1CdV1NSaVwJvcQCXtzx5nmrshlnBmUMefuBateiLutvPnKESsDFn1NT4Pd7PNucDYfceqks-UwUvDX=s512-no?authuser=0" width="150"></p>
+<p>2020年9月よりNotion日本1号社員として、営業・マーケティング活動を始めビジネスオペレーション全般を担当。ドキュメント管理、プロジェクトマネジメント、チームWikiをオールインワンで行え、かつ柔軟性の高いツールで、チームがより高い生産性を実現することをサポートしている。大学卒業後、シスコシステムズへ入社。セールス部門で多数の大手企業のグローバル展開プロジェクトに貢献、社長室戦略チームで事業企画や戦略策定を経験。2012年 LinkedIn Japanに立ち上げメンバーとして入社後、人事向け法人営業部門を統括。2019年 WeWork Japanに入社し、営業シニアディレクターとして戦略と組織を構築、事業拡大を牽引。オランダ・エラスムス大学ロッテルダム経営大学院 MBA。</p>
+<h2>モデレーター</h2>
+<h3>SmartBank / 春山 有由希 / <a href="https://twitter.com/yuki930" rel="nofollow">@yuki930</a></h3>
+<p><img src="https://lh3.googleusercontent.com/pw/AM-JKLWKEcg10dvapIEQaL3YmExIW29cwSmB6KvrbaDeeOadQqRKOxDvlGBgLL6M6dTCOCslaquzJoIMwhayOiY679iyeubAjjxZlBFboyT8dNoDDZ_9Ui6o0jOpLuChzxQ9yVKltBodzRSi37xjjhdnnLPG=s488-no?authuser=0" width="150"></p>
+<p>プロダクトデザイナー。SIerでのプログラマを経て、制作会社でデザイナーに。
+Webサイトのデザイン、書籍執筆や講師業などで経験を積んだのち、株式会社Fablicで フリマアプリ フリル（現ラクマ）のAndroid / WebのUIデザインを担当。その後、楽天株式会社でデザインチームマネージャーを経て、現在は株式会社スマートバンクでデザイナーをしています。</p>
+<h2>こんな方におすすめ</h2>
+<ul>
+<li>フックのあるデザインで事業を成長させたいと思っているプロダクトデザイナー</li>
+<li>広告代理店やデザインスタジオなどでクリエイティブデザイン領域に携わっているアートディレクター</li>
+<li>事業会社で長期的にブランドを育てていくことに興味のあるコミュニケーションデザイナー</li>
+</ul>
+<h2>参加方法</h2>
+<ul>
+<li>Zoomにてオンライン配信で開催します（URLは抽選結果と同時にご送付いたします）<ul>
+<li>18:55にオープン、19:00 イベント開始の予定です</li>
+<li>参加者の方には事前に視聴URLをお送りいたします。</li>
+</ul>
+</li>
+<li>10月25日10:00までにconnpassよりお申し込みをお願いします</li>
+</ul>
+<h2>その他</h2>
+<ul>
+<li>後日、動画配信 or 音声配信を予定しております。配信時は申込者に向けてご連絡いたしますので、当日時間の都合がつきにくい方もお気軽にお申し込みください。</li>
+<li>内容に関するブログ・ツイッター等での発信はオフレコ部分を除き積極的にお願いします</li>
+<li>当日は、#フックのあるデザイン で随時ツイートします。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第734回　UbuntuでSBOM（ソフトウェア部品表）を作る方法]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0734</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0734?utm_source=feed"/>
+        <updated>2022-10-12T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[「SBOM」という概念があります。これはあるソフトウェアを構築する上で利用しているライブラリの一覧をまとめたものです。また、システムにインストールされているソフトウェア一覧を示す場合もあります。今回は手元のUbuntuにインストールされているソフトウェア一覧を簡易的にまとめる方法を紹介しましょう。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第734回　UbuntuでSBOM（ソフトウェア部品表）を作る方法]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0734</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0734?utm_source=feed"/>
+        <updated>2022-10-12T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[「SBOM」という概念があります。これはあるソフトウェアを構築する上で利用しているライブラリの一覧をまとめたものです。また、システムにインストールされているソフトウェア一覧を示す場合もあります。今回は手元のUbuntuにインストールされているソフトウェア一覧を簡易的にまとめる方法を紹介しましょう。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第734回　UbuntuでSBOM（ソフトウェア部品表）を作る方法]]></title>
+        <id>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0734</id>
+        <link href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0734?utm_source=feed"/>
+        <updated>2022-10-12T01:02:00.000Z</updated>
+        <summary type="html"><![CDATA[「SBOM」という概念があります。これはあるソフトウェアを構築する上で利用しているライブラリの一覧をまとめたものです。また、システムにインストールされているソフトウェア一覧を示す場合もあります。今回は手元のUbuntuにインストールされているソフトウェア一覧を簡易的にまとめる方法を紹介しましょう。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[coqtokyo 第32回Ssreflect勉強会]]></title>
+        <id>https://readcoqart.connpass.com/event/263119/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://readcoqart.connpass.com/event/263119/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T01:01:24.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/25 19:00 ～ 20:50<br />開催場所: オンライン<br /><br /><p>2020年の名古屋大学での講義資料を読みます。 <a href="https://www.math.nagoya-u.ac.jp/~garrigue/lecture/2020_AW/index.html" rel="nofollow">https://www.math.nagoya-u.ac.jp/~garrigue/lecture/2020_AW/index.html</a> ページ毎にその場で当てられた人が音読します。</p>
+<p>第14回の演習問題: 証明のAdmittedを埋める。</p>
+<h1>開催場所</h1>
+<p>google meetによるオンライン開催です。 URLは参加者と発表者に公開されます。</p>
+<p>参加できないなど困ったときは、＠tmiya_ @khibino @eldesh @yoshihiro503にお問い合わせください。</p>
+<h1>タイムテーブル</h1>
+<div class="codehilite"><pre><span></span><code><span class="mi">19</span><span class="o">:</span><span class="mi">00</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">20</span><span class="o">:</span><span class="mi">30</span><span class="w"> </span><span class="n">ssreflectの講義資料を読む</span><span class="w"></span>
+<span class="mi">5</span><span class="err">分休憩</span><span class="w"></span>
+<span class="mi">20</span><span class="o">:</span><span class="mi">35</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mi">20</span><span class="o">:</span><span class="mi">50</span><span class="w"> </span><span class="err">自由発表</span><span class="w"></span>
+</code></pre></div>
+
+<h1>持ち物</h1>
+<p>Coqを動かせるPCなどの端末</p>
+<h1>参考情報</h1>
+<p>gistのコードをjscoqで動かす coqban というもあります <a href="https://proof-ninja.github.io/coqban/?gisturl=https%3A%2F%2Fgist.github.com%2Fyoshihiro503%2F7163cfa52557cc0a6be39fdf899e19f6" rel="nofollow">https://proof-ninja.github.io/coqban/?gisturl=https%3A%2F%2Fgist.github.com%2Fyoshihiro503%2F7163cfa52557cc0a6be39fdf899e19f6</a></p>
+<h1>Slack</h1>
+<p>気軽に質問や雑談を出来るように、<a href="http://coqtokyo.slack.com" rel="nofollow">coqtokyo.slack.com</a> を試験運用しています。 ＠tmiya_ @khibino @eldesh @yoshihiro503 のうちのだれかに頼んで登録してもらってください。( slack でアカウントとして利用するためのメールアドレスをお知らせください )</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国61万もの文化財データを地図アプリで一覧化。 異例の金融系SE出身研究者が挑むデータ統合とその未来とは]]></title>
+        <id>https://data.wingarc.com/?p=46973</id>
+        <link href="https://data.wingarc.com/localdxlab-29-nara-46973?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=localdxlab-29-nara"/>
+        <updated>2022-10-12T01:00:20.000Z</updated>
+        <summary type="html"><![CDATA[独立行政法人国立文化財機構奈良文化財研究所（以下、奈良文化財研究所）では、かねてから全国各地に点在する文化財の発掘調査報告書プロジェクト「全国遺跡報告総覧」を推進してきた。ただ、データの収集プロセスが複雑化しており、適切 […]]]></summary>
+        <author>
+            <name>tadokoroyusuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2］Ruby biz Grand prix 2021で受賞した企業の声]]></title>
+        <id>https://gihyo.jp/article/2022/10/rubybiz2022-02</id>
+        <link href="https://gihyo.jp/article/2022/10/rubybiz2022-02?utm_source=feed"/>
+        <updated>2022-10-12T00:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Rubyを活用し、新たなサービスの創出やビジネスを展開している個人や企業、団体を表彰する「Ruby biz Grand prix 2022」が、2022年11月9日（水）に島根県松江市内で開催されます。今回は、昨年の受賞者の声を紹介します。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2］Ruby biz Grand prix 2021で受賞した企業の声]]></title>
+        <id>https://gihyo.jp/article/2022/10/rubybiz2022-02</id>
+        <link href="https://gihyo.jp/article/2022/10/rubybiz2022-02?utm_source=feed"/>
+        <updated>2022-10-12T00:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Rubyを活用し、新たなサービスの創出やビジネスを展開している個人や企業、団体を表彰する「Ruby biz Grand prix 2022」が、2022年11月9日（水）に島根県松江市内で開催されます。今回は、昨年の受賞者の声を紹介します。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［2］Ruby biz Grand prix 2021で受賞した企業の声]]></title>
+        <id>https://gihyo.jp/article/2022/10/rubybiz2022-02</id>
+        <link href="https://gihyo.jp/article/2022/10/rubybiz2022-02?utm_source=feed"/>
+        <updated>2022-10-12T00:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Rubyを活用し、新たなサービスの創出やビジネスを展開している個人や企業、団体を表彰する「Ruby biz Grand prix 2022」が、2022年11月9日（水）に島根県松江市内で開催されます。今回は、昨年の受賞者の声を紹介します。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kaonavi Tech Talk #10 〜チーム開発の裏側〜]]></title>
+        <id>https://kaonavi.connpass.com/event/263037/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://kaonavi.connpass.com/event/263037/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T00:21:27.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/27 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h2>イベント概要</h2>
+<p>皆さんのチームはうまく機能していますか？どのような課題をお持ちでしょうか？そこに成長はありますか？
+同じチームが2つとないのと同様に、最適なチーム開発のやり方もチームごとに異なります。
+カオナビでも、それぞれのチームが試行錯誤を続けながら、より良いやり方を模索して改善を繰り返しています。</p>
+<p>今回のkaonavi Tech Talkは、チーム開発の裏側というテーマで発表します。
+ふりかえり現場の潜入レポートや、スクラムマスターが考えていること、若手エンジニアが得た学びなど、
+様々な立場やチームでの取り組みをお話しますので、少しでも皆さんの現場に持ち帰れる内容があると嬉しいです。
+ぜひご参加ください！</p>
+<h2>👀　kaonavi Tech Talkとは？</h2>
+<p>「“はたらく”にテクノロジーを実装し、個の力から社会の仕様を変える」というパーパスを掲げるカオナビによるオンラインイベントです！   </p>
+<p>HRTechのリーディングカンパニーであるカオナビの開発組織は、学習する組織として絶え間なく変化を続けてきました。<br>
+組織・チーム・プロセス・エンジニアリングなど多くの領域に対してTry&amp;Errorを繰り返すことで学びを重ね、開発組織もサービスもカイゼンを行ってきました。 </p>
+<p>そうした学びは社内の勉強会や交流会で共有されてきましたが</p>
+<ul>
+<li>カオナビの開発組織の文化・人を多くの方に知っていただきたい</li>
+<li>社内外で学びを循環させ、コラボレーションを実現する場を創出したい</li>
+</ul>
+<p>といった想いから、kaonavi Tech Talkは生まれました。</p>
+<p>カオナビの開発最前線で活躍するメンバーがスピーカーを務め、日々の開発で得た学びを発信して参ります！<br>
+ぜひカジュアルにご参加いただければと思います。  </p>
+<h2>📝　参加方法のご案内</h2>
+<p>当日はYouTube Liveにて配信予定です。<br>
+配信URLは後日こちらのページにて参加者の方のみ閲覧できます。</p>
+<h2>📆　タイムスケジュール</h2>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="left">カテゴリ</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">19:00-19:05</td>
+<td align="left"></td>
+<td align="left">オープニング</td>
+</tr>
+<tr>
+<td align="center">19:05-19:20</td>
+<td align="left">発表</td>
+<td align="left">ふりかえり現場に潜入！チームビルディングの秘訣に迫る（志甫谷）</td>
+</tr>
+<tr>
+<td align="center">19:20-19:25</td>
+<td align="left">発表</td>
+<td align="left">エンジニア二年生が後悔したチーム開発を経験してきたお話（玉山）</td>
+</tr>
+<tr>
+<td align="center">19:25-19:40</td>
+<td align="left">発表</td>
+<td align="left">スクラムを追求しなかったスクラムマスターの話（小幡）</td>
+</tr>
+<tr>
+<td align="center">19:40-19:55</td>
+<td align="left">発表</td>
+<td align="left">スクラムチームの立ち上げでスクラムマスターがこっそりやってたこと（朝人）</td>
+</tr>
+<tr>
+<td align="center">19:55-20:00</td>
+<td align="left"></td>
+<td align="left">クロージング</td>
+</tr>
+</tbody>
+</table>
+<h2>🎤　スピーカー紹介</h2>
+<h3>志甫谷 匠</h3>
+<p>2012年4月に株式会社ドワンゴに新卒入社、エンジニアとして社内課金システムのバックエンド開発・運用・保守を経験。
+2018年6月に株式会社IDCフロンティアに入社、自社クラウドシステムの利用料金算出を行うシステムの運用・保守や、新卒エンジニアチーム開発研修のPMなども経験。
+2021年10月に株式会社カオナビに入社、ディレクター職に転身し、業務を通じてプロジェクトマネジメントやチームビルディングを経験中。現在は権限管理機能の改善チームに所属。</p>
+<p>Twitter: <a href="https://twitter.com/takumish14ya30" rel="nofollow">@takumish14ya30</a>  </p>
+<h3>玉山 理央</h3>
+<p>千葉県出身。船橋情報ビジネス専門学校卒業、2020年カオナビ新卒入社。
+一年の研修を経て、サーバーサイドエンジニアとして開発中。現在フロントエンドも勉強中。
+スクラムチームの中で開発から新規メンバーフォローアップまで担当。</p>
+<h3>小幡 琢磨</h3>
+<p>過去に大手SIerで大規模開発をし、Web系の開発会社で丸投げを味わい、中規模SIerでなんでも屋を経験しています。
+2019年5月にカオナビ入社し、2年ほどスマホアプリ開発の立ち上げから開発まで担当していました。
+現在はクリエイティブマップの担当チームでスクラムマスターの立場をやりつつ開発も担当しています。</p>
+<h3>髙橋 朝人</h3>
+<p>2022年4月にカオナビに入社。
+三色のとらチームでスクラムマスターしてます。ちょっとプロダクトオーナーもしてます。
+アジャイル開発やチームファシリテーションに興味あり！温泉行きたいです。</p>
+<p>Twitter: <a href="https://twitter.com/at_946" rel="nofollow">@at_946</a>  </p>
+<h2>🙌　ご興味ある方はこちらもどうぞ</h2>
+<p><a href="https://www.kaonavi.jp/" rel="nofollow">サービスのご案内</a><br>
+<a href="https://corp.kaonavi.jp/recruit/" rel="nofollow">採用ページ</a><br>
+<a href="https://corp.kaonavi.jp/recruit/recruitment/" rel="nofollow">エンジニア採用ページ</a><br>
+<a href="https://vivivi.kaonavi.jp/tags/engineer/" rel="nofollow">エンジニアインタビュー</a></p>
+<h2>💡　注意事項</h2>
+<ul>
+<li>当日の内容およびスケジュールは予告なく変更される場合があります。</li>
+<li>他の参加者の方の妨げになるような行為は禁止、運営側の判断でご退出をお願いする場合があります。</li>
+<li>当イベントはオンライン開催につき、通信状況によって音声や映像の乱れがある場合がございます。</li>
+<li>ブログやSNS等で当イベントに関する発信を行う際は、公序良俗に反する内容のないよう、ご協力をお願いします。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近のWeb3Dひとめぐり～TechFeed Conference 2022講演より]]></title>
+        <id>https://gihyo.jp/article/2022/10/tfc0016-web3d</id>
+        <link href="https://gihyo.jp/article/2022/10/tfc0016-web3d?utm_source=feed"/>
+        <updated>2022-10-12T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「最近のWeb3Dひとめぐり（emadurandal） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近のWeb3Dひとめぐり～TechFeed Conference 2022講演より]]></title>
+        <id>https://gihyo.jp/article/2022/10/tfc0016-web3d</id>
+        <link href="https://gihyo.jp/article/2022/10/tfc0016-web3d?utm_source=feed"/>
+        <updated>2022-10-12T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「最近のWeb3Dひとめぐり（emadurandal） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近のWeb3Dひとめぐり～TechFeed Conference 2022講演より]]></title>
+        <id>https://gihyo.jp/article/2022/10/tfc0016-web3d</id>
+        <link href="https://gihyo.jp/article/2022/10/tfc0016-web3d?utm_source=feed"/>
+        <updated>2022-10-12T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「最近のWeb3Dひとめぐり（emadurandal） — TechFeed Conference 2022講演より」を転載したものです。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PingCAP Education：TiDBでのロック競合のトラブルシューティング]]></title>
+        <id>https://tug.connpass.com/event/263111/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://tug.connpass.com/event/263111/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T00:05:10.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/28 14:00 ～ 15:00<br />開催場所: Online<br /><br /><h3>日時:</h3>
+<p>2022年10月28日(金) 14:00-15:00</p>
+<h3>講演者:</h3>
+<p>本多 康夫</p>
+<h3>参加費:</h3>
+<p>無料</p>
+<h3>対象者:</h3>
+<p>DBA、SRE、アプリケーション開発者</p>
+<h3>ウェビナーの内容:</h3>
+<p>PingCAPでは、オンラインによる無料トレーニング<a href="https://learn.pingcap.com/learner/course?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">PingCAP Education</a>を提供しています。NewSQLの基礎から<a href="https://docs.pingcap.com/ja/tidb/stable?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">TiDB</a>のアーキテクチャ、システム管理、設計コンセプト、ベストプラクティスなど、今日から使える実践的なコンテンツを紹介します。</p>
+<p>このセッションでは、TiDBでのロック競合のトラブルシューティングについて、TiDBで利用可能な2つのロックモード、TiDBでのロック情報を確認するビュー、そして実際にTiDBの環境でロック待ち、またはデッドロックが発生した際の確認方法を説明します。</p>
+<p>TiDBの内部動作に興味をお持ちでしたり、TiDBのアーキテクチャを生かしたよりよいアプリケーション開発に興味がある方は、ぜひ本ウェビナーに参加ください。</p>
+<p>Q&amp;Aのセッションもございますので、ご応募を心よりお待ちしております。</p>
+<h3>アジェンダ:</h3>
+<ul>
+<li>TiDBの悲観的ロックと楽観的ロックの違い</li>
+<li>TiDBのロック情報を確認するためのビュー</li>
+<li>TiDBでのロック待ち、デッドロックを確認する方法</li>
+</ul>
+<p>※セッション内容は予告なく変更となる場合がございますのであらかじめご了承ください。</p>
+<h3>参考情報：</h3>
+<ul>
+<li>
+<p><a href="https://pingcap.co.jp/project/customer-story-capcom/?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">カプコンが柔軟にスケールするマネージドDBとしてTiDB Cloudを選んだ理由</a></p>
+</li>
+<li>
+<p><a href="https://pingcap.co.jp/project/customer-story-istyle/?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">長年@cosmeを支えてきたデータベースを刷新 NewSQLであるTiDB Cloudへの移行を決断した背景</a></p>
+</li>
+<li>
+<p><a href="https://pingcap.co.jp/project/customer-story-ctw/?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">「1秒以内」で勝負は決まる。 ゲーム広告プラットフォームでの HTAPの適用</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=WOLuiV8SHfk&amp;list=PL9kgs341MpSTtzjqZuGZEpYaHY7UezgiB&amp;index=2" rel="nofollow">クラウドネイティブなデータベースTiDBの魅力(さくらインターネット様)</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=vwbgZ1vc6_M&amp;list=PL9kgs341MpSTtzjqZuGZEpYaHY7UezgiB&amp;index=1." rel="nofollow">TiDBではじめるNewSQL 既存MySQL環境からの移行検証(DMM.com様)</a>  </p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=0cMfTex8iZc&amp;list=PL9kgs341MpSTtzjqZuGZEpYaHY7UezgiB&amp;index=4" rel="nofollow">クラウドネイティブなDBを使ってみよう！（CyberAgent様）</a></p>
+</li>
+<li>
+<p><a href="https://pingcap.co.jp/project/usecase-u-next/?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">数週間でオンプレミスMySQLの拡張が必須だったU-NEXTがNewSQLを採用した理由</a></p>
+</li>
+</ul>
+<h3>お問い合わせ:</h3>
+<p>Email：pingcapjp@pingcap.com</p>
+<p>Tel: 03-6822-8749</p>
+<h3>会社概要：</h3>
+<p><a href="https://pingcap.co.jp/?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">PingCAP</a> 株式会社は、オープンソースのクラウドネイティブな分散データベースソリューション「<a href="https://docs.pingcap.com/ja/tidb/stable?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">TiDB</a>（タイデービー）」を提供するグローバル企業の日本法人です。金融、eコマース、決済、オンラインビデオ、ゲーム、ロジスティクス、メディア、製造、旅行など、世界の多様な業界の1,500社以上の企業に採用されています。お客様が煩雑なデータベースの運用から脱却し、TiDBまたは<a href="https://docs.pingcap.com/ja/tidbcloud/?utm_source=event_site&amp;utm_medium=event&amp;utm_campaign=webinar_tofu&amp;utm_content=connpass" rel="nofollow">TiDB Cloud</a>を利用することで、自社のビジネスに集中できるよう支援します。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熊谷さんのやさしいSwift勉強会 #171 #YUMEMI.grow]]></title>
+        <id>https://yumemi.connpass.com/event/263018/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://yumemi.connpass.com/event/263018/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-12T00:00:53.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/19 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1>
+<p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p>
+<p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p>
+<h1>YUMEMI.grow とは</h1>
+<p>株式会社ゆめみが開催する勉強会の総称です。
+最新の技術や業務で得た知見・ベストプラクティスなどの情報共有、
+エンジニア同士の交流を目的としています。</p>
+<h1>進め方</h1>
+<p>Apple の Swift 公式解説書 The Swift Programming Language の流れに沿いながら、Swift 言語の基礎的なところを広く深く、時間をかけて眺めていきます。</p>
+<p>単に読書するだけでなく、ときにみんなと自由に話したりしながら Swift に親しみ、その素養を高めて自身で考える力を養うきっかけにしてもらうのを目的としています。</p>
+<h1>タイムスケジュール</h1>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>内容</th>
+<th>担当</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:00 - 適宜</td>
+<td>開場・準備・談笑タイム</td>
+<td></td>
+</tr>
+<tr>
+<td>- 14:00</td>
+<td>熊谷さんのやさしい Swift 勉強会</td>
+<td>@es_kumagai</td>
+</tr>
+</tbody>
+</table>
+<p>基本的には 13:00 から 14:00 までが勉強会の時間になります。</p>
+<p>※ 途中入退室自由</p>
+<h1>近ごろの話題</h1>
+<p>最近は <a href="https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html#" rel="nofollow">Language Guide &gt; The Basics</a> の Optionals 辺りを読み進めていっています。</p>
+<h1>オリエンテーション</h1>
+<p>勉強会の様子についてもう少し詳しく知りたい方は、こちらの <a href="https://drive.google.com/file/d/1okmp-0d--2aM2-r1N1IFx-VbZBvb02kz/view?usp=sharing" rel="nofollow">オリエンテーション</a> 資料に会の趣旨などを記していますので、こちらも合わせてご覧ください。</p>
+<h1>これまでの動画</h1>
+<p>まだ更新中ですが、これまでの開催録画は YouTube からご覧いただけます！</p>
+<p><a href="https://www.youtube.com/playlist?list=PL3Utf2i5RcCxpuECdfLlXJnF_TsTUVIf6" rel="nofollow">https://www.youtube.com/playlist?list=PL3Utf2i5RcCxpuECdfLlXJnF_TsTUVIf6</a></p>
+<h1>参加する際の留意点</h1>
+<p>勉強会の内容は、後日に映像として YouTube を通して一般公開される予定です。</p>
+<p>姿は映像に含まれませんが、声は基本的に含まれますので、差し障りのある場合は話すのを控えるようにお気をつけください。ライブ配信ではありませんので収録されると都合の良くない話題をうっかり話してしまった場合は後でカットできますので、萎縮せず会話にも参加してもらえたら嬉しいです。</p>
+<h1>ハッシュタグ</h1>
+<p>ハッシュタグは下記になります。<br>
+気になったことなどどんどんつぶやいてください。</p>
+<p><a href="https://twitter.com/hashtag/yumemi_grow" rel="nofollow">#yumemi_grow</a>
+<a href="https://twitter.com/hashtag/kindswift" rel="nofollow">#kindswift</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[若手もくもく会 - メタバースの中でメタバースを勉強しよう！ in Mozilla Hubs]]></title>
         <id>https://wildstartup.connpass.com/event/263109/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
