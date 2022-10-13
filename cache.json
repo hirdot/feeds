@@ -6,6 +6,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "e5f034411ba48dda3ab6decfed5f40f1616c274c",
+          "author": "aws@amazon.com",
+          "description": "Amazon Virtual Private Cloud (VPC) では、1) ネットワークアドレスの使用状況、2) ピア接続されたネットワークアドレスの使用状況、という 2 つの新しいネットワーキングメトリクスを導入しました。これらの新しいメトリクスにより、ネットワーク管理者は Service Quotas を積極的に管理しながら、VPC アーキテクチャの拡張を計画できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/",
+          "publishedOn": "2022-10-13T19:08:10.000Z",
+          "wordCount": 376,
+          "title": "Amazon Virtual Private Cloud (VPC) が 2 つの新しい CloudWatch メトリクスをサポート。ネットワークアドレスの使用状況の測定および追跡が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8b394633c46dbe017aebeb40d5a759c9c3ab1b07",
+          "author": "aws@amazon.com",
+          "description": "IAM Access Analyzer ポリシーの検証は、安全で機能的なポリシーの作成に役立ちます。このたび、ポリシー検証がロール信頼ポリシーにまで拡張されました。これにより、ロールを引き受けることができるユーザーを定義するポリシーの作成、および検証が容易になります。ロール信頼ポリシーの新しい IAM コンソールでは、ロール信頼ポリシーに利用可能なアクション一覧など、ポリシーの各要素が追加されています。また、コンテキスト固有のドキュメントが用意されています。ポリシーを作成する際に、IAM Access Analyzer のポリシー検証がポリシーの問題をリアルタイムで評価するため、安全なポリシーの作成が容易になります。これには、ID プロバイダの形式検証など、ロール信頼ポリシー固有の新たなポリシーチェックが含まれます。IAM Access Analyzer では、ポリシーを保存する前に、ロール信頼ポリシーで許可された外部のアクセスに関する結果のプレビューを生成します。これにより、フェデレーテッドアイデンティティプロバイダーに付与されたアクセスなど、外部のアクセスを確認できます。また、ポリシーを作成する際に、意図したアクセスのみが許可されるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/iam-access-analyzer-author-validate-role-trust-policies/",
+          "publishedOn": "2022-10-13T19:02:10.000Z",
+          "wordCount": 298,
+          "title": "IAM Access Analyzer で、ロール信頼ポリシーの作成および検証が容易に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "dd0961fc874ea569665f19e0b4c86f69a8feef16",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise は、アセットおよびアセットモデルのクォータ制限を引き上げました。これにより、さらに大規模で複雑な機器の表現に対応し、リソースの一括操作を実行できるようになります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-iot-sitewise-quota-limit-assests-asset-models/",
+          "publishedOn": "2022-10-13T18:56:10.000Z",
+          "wordCount": 322,
+          "title": "AWS IoT SiteWise がアセットおよびアセットモデルのクォータ制限を引き上げ",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "e4d3641c8dc8ba8d0918dd555b262d9a82968ed5",
+          "author": "aws@amazon.com",
+          "description": "Amazon S3 Object Lambda は、S3 GET リクエストに加えて、S3 HEAD および LIST API リクエストに対する独自コードの追加をサポートしました。S3 Object Lambda では、S3 GET リクエストによって返されるデータを変更し、行のフィルタリング、画像の動的なサイズ変更、機密データの編集などを行うことができます。さらに今回からは、S3 Object Lambda を使用することで、S3 LIST リクエストの出力を変更してバケット内にあるすべてのオブジェクトのカスタムビューを作成したり、S3 HEAD リクエストの出力を変更してオブジェクト名やサイズといったオブジェクトのメタデータを変更したりできます。このアップデートにより、S3 Object Lambda では AWS Lambda 関数を使用して、S3 GET、HEAD、LIST リクエストの出力を自動的に処理します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-s3-object-lambda-code-modify-results-s3-head-list-api-requests/",
+          "publishedOn": "2022-10-13T18:49:10.000Z",
+          "wordCount": 423,
+          "title": "Amazon S3 Object Lambda が、独自コードによる S3 HEAD および LIST API リクエストの結果変更をサポート開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0481aceb13275433bfa270b56f767ebae42a9ead",
+          "author": "aws@amazon.com",
+          "description": "AWS Local Zones がデリーと台北で利用可能になりました。AWS Local Zones を使用して、10 ミリ秒未満のレイテンシーまたはローカルデータ処理を必要とするアプリケーションを提供できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/general-availability-aws-local-zones-delhi-taipei/",
+          "publishedOn": "2022-10-13T17:32:10.000Z",
+          "wordCount": 337,
+          "title": "デリーと台北での AWS Local Zones の一般提供の発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "434af49a2edeb29075b39f62ab3671f9a1f401cb",
+          "author": "aws@amazon.com",
+          "description": "AWS Identity and Access Management (IAM) Access Analyzer ポリシー生成のサポートが拡張されました。この拡張により、140 を超えるサービスで使用されるアクションを特定し、開発者が AWS CloudTrail アクセスアクティビティに基づいてきめ細かいポリシーを作成することができるようになりました。新たに追加されたものには、AWS CloudFormation、Amazon DynamoDB、Amazon Simple Queue Service などのサービスによるアクションが含まれます。ポリシーをリクエストすると、AWS CloudTrail ログの分析を通じて使用されるアクションが特定され、IAM Access Analyzer が動作して、ポリシーを生成します。例えば、AWS CloudFormation を使用してリソースをセットアップする開発者は、リソース作成のための CloudFormation アクセス許可を付与する必要があります。ポリシー生成を使用してきめ細かいポリシーを作成し、特定のテンプレートのデプロイに必要なものだけに CloudFormation ロールのアクセス許可を付与するよう制限できます。生成されたポリシーに基づいて、ワークロードの実行に必要なアクセス許可のみを簡単に付与できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/iam-access-analyzer-cloudtrail-history-identify-actions-140-aws-services-fine-grained-policies/",
+          "publishedOn": "2022-10-13T17:26:10.000Z",
+          "wordCount": 336,
+          "title": "IAM Access Analyzer により、AWS CloudTrail の履歴を確認して 140 の AWS サービスで使用されるアクションを特定し、きめ細かいポリシーを生成することが可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "3a13d4397c27df45fc076c07eab317f4830c5ec2",
+          "author": "aws@amazon.com",
+          "description": "Amazon Translate は、高速で高品質かつカスタマイズ可能な言語翻訳を手ごろな料金で提供するニューラル機械翻訳サービスです。本日、オランダ語、韓国語、メキシコスペイン語のフォーマル度のカスタマイズサポートを追加します。また、非同期バッチ翻訳のサポートも追加します。これで、コミュニケーションのニーズに合わせて、翻訳された出力のフォーマル度をカスタマイズできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-translate-formality-customization-support-dutch-korean-mexican-spanish/",
+          "publishedOn": "2022-10-13T17:20:10.000Z",
+          "wordCount": 307,
+          "title": "Amazon Translate にオランダ語、韓国語、およびメキシコスペイン語のフォーマル度のカスタマイズサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "2be49f26b89a022c53d741068a027716717c22db",
           "author": "aws@amazon.com",
           "description": "Amazon Nimble Studio で、Windows Server 2022 を実行する Amazon マシンイメージ (AMI) が利用できるようになりました。これは、既存の AMI と同じくプリインストールソフトウェアを含み、AWS Marketplace で提供されます。Nimble Studio では、スタジオ固有のワークフローのベースラインとなる AMI をさらにカスタマイズできます。Microsoft Windows Server 2022 を使用すると、最新の Windows 機能をスタジオで利用できるようになります。また、Epic Games の Unreal Engine や Adobe Creative Cloud といったコンテンツ作成ソフトウェアに対応しています。機能や改善点の詳細なリストについては、こちらの Windows Server 2022 に関する Microsoft 公式ドキュメントから入手できます。今回の Windows Server 2022 AMI へのサポートは、既にサポートしている Windows Server 2019 AMI および Linux AMI に追加でサポートが開始されるものです。",
@@ -1504,26 +1574,6 @@
           "wordCount": 344,
           "title": "浜松市と AWS、デジタル・スマートシティ浜松の実現に向け連携",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "04554a628c9b5bf6e3a640111c572623e75b51b9",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect で、Amazon Connect インスタンスのキューを検索できる新しい API が利用できるようになりました。この新しい API では、プログラムを使用して名前、説明、タグでキューを自由自在に検索できます。例えば、この API を使用して説明内に「優先度」を含むすべてのキューを検索できるようになりました。この新しい API の詳細については、API ドキュメントを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-launches-api-search-queues-name-description-tags/",
-          "publishedOn": "2022-09-14T09:31:13.000Z",
-          "wordCount": 304,
-          "title": "Amazon Connect が名前、説明、タグでキューを検索できる API をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "76f4d2d6dec9b782f86755f63aefe2f9d9ec5728",
-          "author": "aws@amazon.com",
-          "description": "Amazon Connect で、Amazon Connect インスタンスのルーティングプロファイルを検索できる新しい API が利用できるようになりました。この新しい API では、プログラムを使用して名前、説明、タグでルーティングプロファイルを自由自在に検索できます。例えば、この API を使用して説明内に「セールス」を含むすべてのルーティングプロファイルを検索できるようになりました。この新しい API の詳細については、API ドキュメントを参照してください。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/",
-          "publishedOn": "2022-09-14T08:46:13.000Z",
-          "wordCount": 302,
-          "title": "Amazon Connect が名前、説明、タグでルーティングプロファイルを検索できるAPI をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1948,16 +1998,6 @@
           "wordCount": 3631,
           "title": "大分県の地域DX・デジタル化支援一覧 47都道府県47色のDXの在り方を訪ねるLocalDXLab",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/dxlab_oita_top.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45852",
-          "author": "tadokoroyusuke",
-          "description": "全国の農業を効率化して「稼げる事業へ」 ３Ｋで表現されがちな日本の地域農業。そんな農業の分野でもデータを活用して、経営視点から強みを可視化し、産地や農業者と共に、収益性と生産性の向上による「稼げる農業」実現にむけた挑戦を […]",
-          "link": "https://data.wingarc.com/localdxlab-45-miyazaki-45852?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-45-miyazaki",
-          "publishedOn": "2022-09-14T01:00:00.000Z",
-          "wordCount": 3788,
-          "title": "「稼げない」未来からの脱却。10年農業経営「データ」と向き合うことで見えてきた、10年後の「農業のあるべき姿」とは",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/77af094e79d1c74242f6f8b1d494a00d.jpg"
         }
       ]
     },
@@ -2854,66 +2894,6 @@
           "wordCount": null,
           "title": "eBPFとWASMに思いを馳せる2022 ～TechFeed Conference 2022講演より",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/unicode15",
-          "author": null,
-          "description": "Unicode Consortiumは9月13日、Unicode標準のバージョン 15.0が利用可能になったことを発表した。",
-          "link": "https://gihyo.jp/article/2022/09/unicode15?utm_source=feed",
-          "publishedOn": "2022-09-14T04:51:00.000Z",
-          "wordCount": 146,
-          "title": "Unicodeバージョン 15.0リリース ―CJKの表意文字など4,489文字が追加",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/09/unicode15/001.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/daily-linux-220914",
-          "author": null,
-          "description": "Fedoraプロジェクトは9月13日（米国時間）、2022年10月末に正式リリース予定の「Fedora Linux 37」のベータ版を公開した。",
-          "link": "https://gihyo.jp/article/2022/09/daily-linux-220914?utm_source=feed",
-          "publishedOn": "2022-09-14T02:53:00.000Z",
-          "wordCount": 185,
-          "title": "Fedora Linux 37 Betaが公開、デスクトップ環境にGNOME 43 Betaを実装",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1949_fedora_37.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0731",
-          "author": null,
-          "description": "今回は、Ubuntuのリポジトリにあるドキュメントビューアーの中で最強の機能を誇るOkularを紹介します。またUbuntuデフォルトの「ドキュメントビューアー」についても紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0731?utm_source=feed",
-          "publishedOn": "2022-09-14T00:57:00.000Z",
-          "wordCount": null,
-          "title": "第731回　Ubuntuのドキュメントビューアーとして最適なOkularを使用する",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-03",
-          "author": null,
-          "description": "第3章では、最も一般的なユースケースとして、Puppeteerを使ったE2E（end to end）テストの実現方法を解説します。",
-          "link": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-03?utm_source=feed",
-          "publishedOn": "2022-09-14T00:38:00.000Z",
-          "wordCount": null,
-          "title": "第3章 E2Eテストの実装 ～非同期処理のテスト、パフォーマンス計測、カバレッジ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-16",
-          "author": null,
-          "description": "1990年代からCO2などの温室効果ガス削減の本格的な取り組みが我が国で始まり、すでに30年が経過しました。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-16?utm_source=feed",
-          "publishedOn": "2022-09-14T00:37:00.000Z",
-          "wordCount": null,
-          "title": "第16回　CO<sub>2</sub>削減のホント",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/pytorch_foundation",
-          "author": null,
-          "description": "9月12日（米国時間）、米Meta（Facebook）のAIチームが開発を主導してきたオープンソースの機械学習（AI）基盤であるPyTorchが、Linux Foundationの最上位プロジェクト「PyTorch Foundation」として移管されることが発表された。",
-          "link": "https://gihyo.jp/article/2022/09/pytorch_foundation?utm_source=feed",
-          "publishedOn": "2022-09-13T23:46:00.000Z",
-          "wordCount": 182,
-          "title": "機械学習フレームワークPyTorch、Linux Foundationの傘下プロジェクトに",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1947_pytorch.png"
         }
       ]
     },
@@ -3611,66 +3591,6 @@
           "wordCount": null,
           "title": "eBPFとWASMに思いを馳せる2022 ～TechFeed Conference 2022講演より",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/unicode15",
-          "author": null,
-          "description": "Unicode Consortiumは9月13日、Unicode標準のバージョン 15.0が利用可能になったことを発表した。",
-          "link": "https://gihyo.jp/article/2022/09/unicode15?utm_source=feed",
-          "publishedOn": "2022-09-14T04:51:00.000Z",
-          "wordCount": null,
-          "title": "Unicodeバージョン 15.0リリース ―CJKの表意文字など4,489文字が追加",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/daily-linux-220914",
-          "author": null,
-          "description": "Fedoraプロジェクトは9月13日（米国時間）、2022年10月末に正式リリース予定の「Fedora Linux 37」のベータ版を公開した。",
-          "link": "https://gihyo.jp/article/2022/09/daily-linux-220914?utm_source=feed",
-          "publishedOn": "2022-09-14T02:53:00.000Z",
-          "wordCount": 185,
-          "title": "Fedora Linux 37 Betaが公開、デスクトップ環境にGNOME 43 Betaを実装",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1949_fedora_37.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0731",
-          "author": null,
-          "description": "今回は、Ubuntuのリポジトリにあるドキュメントビューアーの中で最強の機能を誇るOkularを紹介します。またUbuntuデフォルトの「ドキュメントビューアー」についても紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0731?utm_source=feed",
-          "publishedOn": "2022-09-14T00:57:00.000Z",
-          "wordCount": null,
-          "title": "第731回　Ubuntuのドキュメントビューアーとして最適なOkularを使用する",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-03",
-          "author": null,
-          "description": "第3章では、最も一般的なユースケースとして、Puppeteerを使ったE2E（end to end）テストの実現方法を解説します。",
-          "link": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-03?utm_source=feed",
-          "publishedOn": "2022-09-14T00:38:00.000Z",
-          "wordCount": 1102,
-          "title": "第3章 E2Eテストの実装 ～非同期処理のテスト、パフォーマンス計測、カバレッジ",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/puppeteer.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-16",
-          "author": null,
-          "description": "1990年代からCO2などの温室効果ガス削減の本格的な取り組みが我が国で始まり、すでに30年が経過しました。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-16?utm_source=feed",
-          "publishedOn": "2022-09-14T00:37:00.000Z",
-          "wordCount": 146,
-          "title": "第16回　CO<sub>2</sub>削減のホント",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/16/ifr-16-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/pytorch_foundation",
-          "author": null,
-          "description": "9月12日（米国時間）、米Meta（Facebook）のAIチームが開発を主導してきたオープンソースの機械学習（AI）基盤であるPyTorchが、Linux Foundationの最上位プロジェクト「PyTorch Foundation」として移管されることが発表された。",
-          "link": "https://gihyo.jp/article/2022/09/pytorch_foundation?utm_source=feed",
-          "publishedOn": "2022-09-13T23:46:00.000Z",
-          "wordCount": 182,
-          "title": "機械学習フレームワークPyTorch、Linux Foundationの傘下プロジェクトに",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1947_pytorch.png"
         }
       ]
     },
@@ -4368,66 +4288,6 @@
           "wordCount": 233,
           "title": "eBPFとWASMに思いを馳せる2022 ～TechFeed Conference 2022講演より",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1948_techfeed_ebpf.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/unicode15",
-          "author": null,
-          "description": "Unicode Consortiumは9月13日、Unicode標準のバージョン 15.0が利用可能になったことを発表した。",
-          "link": "https://gihyo.jp/article/2022/09/unicode15?utm_source=feed",
-          "publishedOn": "2022-09-14T04:51:00.000Z",
-          "wordCount": 146,
-          "title": "Unicodeバージョン 15.0リリース ―CJKの表意文字など4,489文字が追加",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/09/unicode15/001.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/daily-linux-220914",
-          "author": null,
-          "description": "Fedoraプロジェクトは9月13日（米国時間）、2022年10月末に正式リリース予定の「Fedora Linux 37」のベータ版を公開した。",
-          "link": "https://gihyo.jp/article/2022/09/daily-linux-220914?utm_source=feed",
-          "publishedOn": "2022-09-14T02:53:00.000Z",
-          "wordCount": null,
-          "title": "Fedora Linux 37 Betaが公開、デスクトップ環境にGNOME 43 Betaを実装",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0731",
-          "author": null,
-          "description": "今回は、Ubuntuのリポジトリにあるドキュメントビューアーの中で最強の機能を誇るOkularを紹介します。またUbuntuデフォルトの「ドキュメントビューアー」についても紹介します。",
-          "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0731?utm_source=feed",
-          "publishedOn": "2022-09-14T00:57:00.000Z",
-          "wordCount": 257,
-          "title": "第731回　Ubuntuのドキュメントビューアーとして最適なOkularを使用する",
-          "imageUrl": "https://gihyo.jp/assets/images/admin/serial/01/ubuntu-recipe/0731/10.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-03",
-          "author": null,
-          "description": "第3章では、最も一般的なユースケースとして、Puppeteerを使ったE2E（end to end）テストの実現方法を解説します。",
-          "link": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-03?utm_source=feed",
-          "publishedOn": "2022-09-14T00:38:00.000Z",
-          "wordCount": 1102,
-          "title": "第3章 E2Eテストの実装 ～非同期処理のテスト、パフォーマンス計測、カバレッジ",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/puppeteer.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/08/internet-forecast-report-16",
-          "author": null,
-          "description": "1990年代からCO2などの温室効果ガス削減の本格的な取り組みが我が国で始まり、すでに30年が経過しました。",
-          "link": "https://gihyo.jp/article/2022/08/internet-forecast-report-16?utm_source=feed",
-          "publishedOn": "2022-09-14T00:37:00.000Z",
-          "wordCount": 146,
-          "title": "第16回　CO<sub>2</sub>削減のホント",
-          "imageUrl": "https://gihyo.jp/assets/images/article/2022/08/internet-forecast-report/16/ifr-16-1.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/pytorch_foundation",
-          "author": null,
-          "description": "9月12日（米国時間）、米Meta（Facebook）のAIチームが開発を主導してきたオープンソースの機械学習（AI）基盤であるPyTorchが、Linux Foundationの最上位プロジェクト「PyTorch Foundation」として移管されることが発表された。",
-          "link": "https://gihyo.jp/article/2022/09/pytorch_foundation?utm_source=feed",
-          "publishedOn": "2022-09-13T23:46:00.000Z",
-          "wordCount": 182,
-          "title": "機械学習フレームワークPyTorch、Linux Foundationの傘下プロジェクトに",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1947_pytorch.png"
         }
       ]
     },
@@ -4727,26 +4587,6 @@
           "wordCount": 541,
           "title": "Rails 7: リレーションの結果が空になる計算でクエリ送信を回避する（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails7_avoid_queries_on_contradicory_relation_eyecatch2-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_jsbundling-rails_readme_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: https://github.com/rails/jsbundling-rails 原文更新日: 2022/03/30（5e6758f） ライセンス: MIT jsbundling-rails README（翻訳） jsbundling-rails gemは、esbuild、rollup.js、webpackのいずれかを用いてJavaScriptコードをバンドルし、Railsのアセットパイプラインで配信します。このgemが提供するのは、新しいRailsアプリケーションで上述の好みのバンドラーを利用できるインストーラと、バンドルした出力ファイルをG [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881\" data-wpel-link=\"internal\" target=\"_self\">jsbundling-rails README（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/121881",
-          "publishedOn": "2022-09-14T08:37:35.000Z",
-          "wordCount": 499,
-          "title": "jsbundling-rails README（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_jsbundling-rails_readme_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_validation_db_lecel_check_constraints_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Rails validations: database level check constraints &#124; Boring Rails: Skip the bullshit and ship fast 原文公開日: 2022/01/18 原著者: Matt Swanson サイト: Boring Rails Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳） Active Recordモデルのバリデーションの背後にデータベースレベルの制約を配置する手法は、Railsの定番の技のひとつです。 バリデーションはスキップされてしまうことも [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978\" data-wpel-link=\"internal\" target=\"_self\">Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_14/119978",
-          "publishedOn": "2022-09-14T08:30:23.000Z",
-          "wordCount": 540,
-          "title": "Railsの技: バリデーションにDBレベルのCHECK制約を使う（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/07/rails_validation_db_lecel_check_constraints_eyecatch-min.png"
         }
       ]
     },
@@ -4755,6 +4595,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/22/azure_elastic_saniscsisanstorage_area_network.html",
+          "author": null,
+          "description": "マイクロソフトはMicrosoft Azure上でSAN（Storage Area Network）をマネージドサービスで提供する新サービス「Azure Elastic SAN」のプレビューリリースを発表しました。 オンプレミスでは、ミッシ...",
+          "link": "https://www.publickey1.jp/blog/22/azure_elastic_saniscsisanstorage_area_network.html",
+          "publishedOn": "2022-10-13T16:59:27.000Z",
+          "wordCount": 1204,
+          "title": "マイクロソフト、「Azure Elastic SAN」プレビューリリース。iSCSIでアクセス可能なSAN（Storage Area Network）をマネージドサービスで提供",
+          "imageUrl": "https://www.publickey1.jp/2022/azureelasticsanpv01.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/postgresqlazure_cosmos_dbdbcitusignite_2022.html",
           "author": null,
@@ -5392,6 +5242,36 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=287853",
+          "author": "Tammy Xu",
+          "description": "グーグルの新しい技術「オーディオLM（AudioLM）」は、人間が準備したテキストやラベル付けをした訓練データなしに、これまで以上に自然なオーディオを生成する。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/287853/googles-new-ai-can-hear-a-snippet-of-song-and-then-keep-on-playing/",
+          "publishedOn": "2022-10-13T21:32:19.000Z",
+          "wordCount": 1182,
+          "title": "グーグル、短い「音」から続きを生成するオーディオAI",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/07182004/ai-audio-v2-1400x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=287638",
+          "author": "Will Douglas Heaven",
+          "description": "米国の一部で自動運転のロボタクシーの導入が実現したものの、試験段階を超えて普及する兆しは見えない。新世代の無人運転自動車スタートアップはAIを全面的に採用することで、突破口を見い出そうとしている。\r\n\r\n \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/287638/this-startups-ai-is-smart-enough-to-drive-different-types-of-vehicles/",
+          "publishedOn": "2022-10-13T21:15:53.000Z",
+          "wordCount": 1181,
+          "title": "自動運転業界に世代交代、 AI採用の「AV2.0」は 3Dマップ不要で走る",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/07101004/Wayve-Generalisation-width-2888px-1400x787.jpg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/?p=288069",
+          "author": "Tanya Basu",
+          "description": "フェイスブックが「メタ」に社名を変更してから1年。メタはメタバースの普及に必死だ。高級VRゴーグルの発売、アバターへの「足」の追加などの新展開が発表された。",
+          "link": "https://www.technologyreview.jp/s/288069/meta-is-desperately-trying-to-make-the-metaverse-happen/",
+          "publishedOn": "2022-10-13T21:05:16.000Z",
+          "wordCount": 1378,
+          "title": "メタのメタバース「足」追加で普及なるか？ 20万円超ヘッドセットも",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/12075504/3DReview_Screenshot_V001-1400x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=287282",
           "author": "MIT Technology Review Audio Studio",
@@ -6161,46 +6041,6 @@
           "wordCount": 1184,
           "title": "化石燃料を追い求めてきた 米エネ省の研究部門が担う 脱炭素の新しいミッション",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/02181508/Petra-Nova-2-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/13/285769/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/14/285769/",
-          "publishedOn": "2022-09-14T06:12:14.000Z",
-          "wordCount": 669,
-          "title": "可視光でCO2をギ酸へ変換、希少金属不要の光触媒＝東工大など",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/13/285764/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/14/285764/",
-          "publishedOn": "2022-09-14T05:46:31.000Z",
-          "wordCount": 673,
-          "title": "東北大などがクォーク間の斥力を測定、「核力」の理解へ一歩",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=285809",
-          "author": "MIT Technology Review Audio Studio",
-          "description": "今週のオーディオ・ムック（β）では、気候変動「適応」策とは何か？ なぜ重要なのか？ その基本的な知識を解説するとともに、具体的な取り組みを紹介する。",
-          "link": "https://www.technologyreview.jp/s/285809/audiomookfighting-climate-change-not-just-decarbonization/",
-          "publishedOn": "2022-09-14T05:42:05.000Z",
-          "wordCount": 1540,
-          "title": "聴くMITTR：脱炭素だけではない、気候変動との戦い",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/05/11125910/AudioMook2-1.png"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/14/285854/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/14/285854/",
-          "publishedOn": "2022-09-14T05:21:28.000Z",
-          "wordCount": 667,
-          "title": "化学産業に3兆ドルの設備投資が必要、温暖化回避で",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     },
@@ -6209,6 +6049,106 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/263315/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/22 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/263315/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T18:33:59.000Z",
+          "wordCount": 894,
+          "title": "10/22(土)【第1445回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/263314/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/22 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/263314/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T18:32:26.000Z",
+          "wordCount": 894,
+          "title": "10/22(土)【第1444回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://flutter-asamoku.connpass.com/event/263168/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/21 05:00 ～ 07:00<br />開催場所: オンライン<br /><br /><ul>\n<li>Flutterを使ってアプリ開発したい方向けの朝もく会です</li>\n<li>5時〜6時はご質問タイムで、6時〜7時はもくもくタイムです</li>\n<li>Jamboardを使って、質問内容やもくもく内容を共有しながら進めます</li>\n<li>Zoomで開催しますので、ビデオと音声をオンにして、ご参加下さい</li>\n</ul>",
+          "link": "https://flutter-asamoku.connpass.com/event/263168/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T15:00:54.000Z",
+          "wordCount": 893,
+          "title": "【オンライン】10/21(金)5時〜7時：Flutter好きが集まる朝もく会（第290回）",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/5a/5d5afa47e2a51ccf85cf59f5a533d21f.png"
+        },
+        {
+          "id": "https://jawsug-niigata.connpass.com/event/263311/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/20 21:00 ～ 22:00<br />開催場所: オンライン<br /><br /><p>毎週木曜夜に少人数で集まって、短い時間にサクッとインプットできる時間を設けました。\nAWSに関することを当日ネタを探して情報収集します。\n短い時間でインプットして、会終了後にアウトプットしましょう。</p>\n<h2>こんなことをやる時間</h2>\n<p>当日、始まってからやること決めます。</p>\n<ul>\n<li>AWSに関する記事や動画を見ながら、参加者同士でお話して、理解を深める。</li>\n<li>AWSに関する記事などを見つけて、実際にやってみながら、理解を深める。</li>\n<li>AWSに関するものであればOK。内容は参加者次第。</li>\n</ul>\n<p>過去の開催内容もご参考ください。</p>\n<ul>\n<li><a href=\"https://scrapbox.io/jawsug-niigata/JAWS_UG_Niigata_プチキャッチアップ_2022_履歴\" rel=\"nofollow\">2022年開催内容</a></li>\n<li><a href=\"https://scrapbox.io/jawsug-niigata/JAWS_UG_Niigata_プチキャッチアップ_2021_履歴\" rel=\"nofollow\">2021年開催内容</a></li>\n<li><a href=\"https://scrapbox.io/jawsug-niigata/JAWS_UG_Niigata_プチキャッチアップ_2020_履歴\" rel=\"nofollow\">2020年開催内容</a></li>\n</ul>\n<h2>こんな方にオススメ</h2>\n<ul>\n<li>AWSの学習にあまり時間がかけられない方</li>\n<li>AWSを触っている仲間と一緒に学習したい方</li>\n<li>オンラインの勉強会が増えすぎてまとまらないから、一旦インプット情報を整理してアウトプットしたい方</li>\n<li>何もしないより少しの時間でいいから何かした方がマシだと思っている方</li>\n</ul>\n<h2>方針</h2>\n<ul>\n<li>当日、始まってからやること決めます。<ul>\n<li>AWSに関する気になるネタ、話題、記事等があれば、ぜひ紹介してください。</li>\n</ul>\n</li>\n<li>事前の発表資料作成はしません。<ul>\n<li>LT程度の資料準備はOKです。最近調べてみたサービスを資料にまとめていただいて発表OKです。</li>\n</ul>\n</li>\n<li>参加者はカメラON/OFF自由。画面共有してもらっても構いません。</li>\n<li>開催時間は短め。短期集中型で。</li>\n<li>参加者も少人数で。</li>\n</ul>\n<h2>タイムテーブル（予定）</h2>\n<table>\n<thead>\n<tr>\n<th align=\"center\">時間</th>\n<th align=\"left\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">20:50-21:00</td>\n<td align=\"left\">入室可。各自オンラインで入室ください。</td>\n</tr>\n<tr>\n<td align=\"center\">21:00-22:00</td>\n<td align=\"left\">何かネタを決めて、一緒にインプット<br>気になるサービス・知りたいサービスある方は、最初にお話しいただいて、みんなで議論していきましょう</td>\n</tr>\n<tr>\n<td align=\"center\">22:00-</td>\n<td align=\"left\">終了予定時刻。終了後は、各自やったこと・得られたこと等をTwitterなどで発表（Twitterにハッシュタグ付でつぶやいてください）</td>\n</tr>\n</tbody>\n</table>\n<h2>会場</h2>\n<p>オンライン</p>\n<ul>\n<li>Zoomを予定しています。</li>\n<li>ミーティングURLは、このページの「参加者への情報」（参加者と発表者のみに公開）へ記載いたします。\n    また開催30分前までにconnpassのメール通知でもご連絡いたします。</li>\n<li>JAWS-UG新潟のSlackチャンネルにも、当日のミーティングURLを共有しています。\n    ぜひJAWS-UG新潟のSlackチャンネルに参加ください。</li>\n</ul>\n<h2>ご注意事項</h2>\n<ul>\n<li>参加される方は、ご自宅等からご参加ください。</li>\n<li>予定の変更があってキャンセルされる方は早めにキャンセル処理をお願いします。</li>\n<li>キャンセル待ちから参加確定された方は他会場の申込を必ずキャンセルをお願いいたします。</li>\n<li>主催側も試行錯誤で運営します。様々な不手際等あるかと思います。あらかじめご了承ください。</li>\n</ul>\n<h2>参加のルール/マナー</h2>\n<p>イベントに参加される方は、JAWS-UGの定める以下のルール/マナーに則って行動することをお願いしております。</p>\n<ul>\n<li>コミュニティを通じて世界中の仲間と繋がりましょう。関係者の人種、性別、性的指向、身体的特徴、見た目、政治、宗教（または無宗教）などに係る表現は、いかなる場合も適切ではありません。</li>\n<li>あなたのクリエイティブで前向きな発言がイベントをより楽しくします。発表者や質問者に対して疑問や意見がある場合は批判や罵り・嘲りではなく提案と課題解決の態度でポジティブな発言を心がけましょう。</li>\n<li>全てのイベントは有志のボランティアにより非営利目的にて運営され、いつでもあなたの手助けを必要としています。お気付きの点があればぜひご協力をお願いいたします。</li>\n<li>私たちはコミュニティへの貢献を通じて社会からの信頼を得ることがより良いビジネスに繋がり、より自分らしい働き方を見つける手段になると信じています。</li>\n<li>JAWS-UGはNo sell, No Jobです。イベントの趣旨と関係のない宣伝行為・採用活動・ネットワーキングのみを目的としたご参加はご遠慮ください。</li>\n</ul>\n<p><a href=\"https://jaws-ug.jp/for-participant/\" rel=\"nofollow\">https://jaws-ug.jp/for-participant/</a></p>",
+          "link": "https://jawsug-niigata.connpass.com/event/263311/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T14:33:03.000Z",
+          "wordCount": 1030,
+          "title": "JAWS-UG 新潟 プチキャッチアップ 2022 #42",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a5/26/a526c0bfafa34117fb99272a3601d834.png"
+        },
+        {
+          "id": "https://k8s-novice-jp.connpass.com/event/262918/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/15 19:00 ～ 20:30<br />開催場所: Youtube<br /><br /><h2><strong>Kubernetes Novice Tokyoとは?</strong></h2>\n<ul>\n<li>Kubernetesに関連するテーマのLTを通して、Kubernetes初学者の方に対してアウトプットの機会を提供します。</li>\n<li>ゲストスピーカーとしてKubernetesのエキスパートをお呼びして、テーマに関連したセッションをお願いしています。</li>\n</ul>\n<h2>想定する参加者</h2>\n<ul>\n<li>「Kubernetes初心者」の中で、下記のような思いを持つ人を主なターゲットとしています。<ul>\n<li>Kubenetesに関連するLTを行ってみたい</li>\n<li>Kubenetesに関して、アウトプットの練習をしてみたい</li>\n<li>Kubernetesについてわからないことが多いが、勉強会やMeetupに参加する中で理解を深めていきたい</li>\n</ul>\n</li>\n</ul>\n<h2>トークテーマ</h2>\n<p>今回のテーマは<strong>「フリーテーマ」</strong>です。<br>\nご自身で学習した・調べた内容に関して、LT (5~10分) をお願い致します。<br></p>\n<p>また、LT内容のサンプルとして発表内容案を以下に記載しておりますので、ご自由に参照ください。</p>\n<p><a href=\"https://docs.google.com/spreadsheets/d/1HNvp28SAsOP5Fe7repReNF7yzPNK6g7sHloB4TF_PPM/edit?usp=sharing\" rel=\"nofollow\">発表内容案</a>\n(内容は随時アップデートいたします)</p>\n<p><br>\n登壇を希望される方はconnpassページでの参加申込の上、下記のフォームから申込をお願い致します。<br>\n(connpassページでの参加申込のみでは、申込完了とはなりませんのでご注意下さい。)<br></p>\n<p><a href=\"https://forms.gle/CpcPwcgTHqBMbmQC8\" rel=\"nofollow\">Kubernetes Novice Tokyo - 応募フォーム</a>\n<br></p>\n<h3>登壇内容</h3>\n<h4>LT1: TBD</h4>\n<h4>LT2: TBD</h4>\n<h4>LT3: TBD</h4>\n<h4>Session: TBD</h4>\n<h2><strong>行動規範 (Code of Conduct) について</strong></h2>\n<p><a href=\"https://k8sjp.github.io/code-of-conduct/\" rel=\"nofollow\">Kubernetes Meetup Tokyo 行動規範 (Code of Conduct)</a> と同様です。</p>\n<p>本Meetupの目標を達成するため、参加者の全員が、行動規範に同意していただくことが必要です。参加者全員にとって安全な環境を維持するため、皆さん一人一人にご協力をお願いします。</p>\n<h3><strong>タイムスケジュールについて</strong></h3>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n<th>スピーカー</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>18:55-19:00</td>\n<td>配信開始</td>\n<td>-</td>\n</tr>\n<tr>\n<td>19:00-19:05</td>\n<td>Opening</td>\n<td>-</td>\n</tr>\n<tr>\n<td>19:05-19:15</td>\n<td>LT1: TBD</td>\n<td>-</td>\n</tr>\n<tr>\n<td>19:15-19:25</td>\n<td>LT2: TBD</td>\n<td>-</td>\n</tr>\n<tr>\n<td>19:25-19:35</td>\n<td>LT3: TBD</td>\n<td>-</td>\n</tr>\n<tr>\n<td>19:35-19:40</td>\n<td>休憩　</td>\n<td>-</td>\n</tr>\n<tr>\n<td>19:40-20:00</td>\n<td>Session:TBD</td>\n<td>-</td>\n</tr>\n<tr>\n<td>20:00-20:05</td>\n<td>Q&amp;A</td>\n<td>-</td>\n</tr>\n<tr>\n<td>20:05-20:10</td>\n<td>Ending</td>\n<td>-</td>\n</tr>\n</tbody>\n</table>\n<h2>参加枠</h2>\n<h3>オンライン配信参加枠</h3>\n<p>オンライン配信枠です。登録いただいた皆様には中継用のURLをお送りさせていただきます。</p>\n<h3>LT枠</h3>\n<p>10minの初心者LT枠です。<br>\nセッションの応募は下記の応募フォームからお願い致します。</p>\n<h3>初心者向けセッション枠</h3>\n<p>15min ~ 20minの初心者向けセッション枠です。<br>\nセッションの応募は下記の応募フォームからお願い致します。</p>\n<h3>応募フォーム</h3>\n<p><a href=\"https://forms.gle/CpcPwcgTHqBMbmQC8\" rel=\"nofollow\">Kubernetes Novice Tokyo - 応募フォーム</a></p>\n<h2>参加費</h2>\n<p>無料</p>\n<h2>質問</h2>\n<p>当日の質問はSlidoで受け付けています<br></p>\n<p>URL: <a href=\"https://app.sli.do/event/31Mheci8vNdJ6QtveqEZpG\" rel=\"nofollow\">https://app.sli.do/event/31Mheci8vNdJ6QtveqEZpG</a></p>\n<h2>中継</h2>\n<p>YouTube Live での配信を予定しています<br>\n<a href=\"https://www.youtube.com/channel/UC4EPkXFGaMA_BZ0N6unnQIA\" rel=\"nofollow\">Kubernetes Novice Tokyo - YouTube</a></p>\n<p>配信URL: TBD</p>",
+          "link": "https://k8s-novice-jp.connpass.com/event/262918/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T14:23:37.000Z",
+          "wordCount": 1278,
+          "title": "Kubernetes Novice Tokyo #22",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/17/25/172569ddc77662a5750384a637e64874.png"
+        },
+        {
+          "id": "https://yuruora.connpass.com/event/263310/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/15 08:00 ～ 10:00<br />開催場所: オンライン<br /><br /><p>OCIを触ってみましょう！！<br>\n特にマニュアル等用意していないのでグダグダして終わる可能性があります<br>\n<br>\n<br>\nドタキャンや途中入退出は自由です。無言で抜けても問題ないので気軽にやりましょう<br>\n入門者向けの会ですので、質問等はどんどんしてください<br>\n答えられる人がいるかは謎です<br>\n<br></p>\n<table>\n<thead>\n<tr>\n<th align=\"center\">日付</th>\n<th align=\"center\">進捗</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">10/15</td>\n<td align=\"center\">OCI登録、何をやるのか決める</td>\n</tr>\n</tbody>\n</table>\n<p><br>\n<br>\n<br></p>",
+          "link": "https://yuruora.connpass.com/event/263310/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T14:15:54.000Z",
+          "wordCount": 912,
+          "title": "OCIを触ってみる会1",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fd/a8/fda88265c919d56336f35797c4f928ff.png"
+        },
+        {
+          "id": "https://wakaran-reading.connpass.com/event/263308/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/20 21:00 ～ 22:00<br />開催場所: オンライン<br /><br /><h1>目的</h1>\n<ul>\n<li>技術書、論文を読むことでやった感を醸し出し、人生の満足度を高める（主目的）</li>\n<li>技術書、論文に慣れる</li>\n<li>今回からの参加でもOKです</li>\n</ul>\n<h1>やること</h1>\n<ul>\n<li>Knowledge Graphのサーベイ論文を読みます。<ul>\n<li><a href=\"https://arxiv.org/abs/2002.00388\" rel=\"nofollow\">A Survey on Knowledge Graphs: Representation, Acquisition and Applications</a></li>\n<li>今回はp.12 の C. Relation Extraction 以降を読んでいきます。</li>\n</ul>\n</li>\n</ul>\n<h1>やらないこと</h1>\n<ul>\n<li>完璧に正しい理解をしようとしない<ul>\n<li>細かい箇所の理解が合っているかなどはあんまり追求しません</li>\n</ul>\n</li>\n<li>時間をかけてじっくり読みすぎない</li>\n<li>数式の証明を深追いしない</li>\n</ul>\n<h1>その他</h1>\n<ul>\n<li>途中での質問も歓迎です<ul>\n<li>でもあんまり深追いせずに先に進んじゃうかもですが……</li>\n</ul>\n</li>\n<li>聞いてるだけでも大丈夫です</li>\n</ul>\n<h1>開催日時</h1>\n<p>毎週木曜日　21:00 ~ 22:00（予定）</p>\n<h1>会場</h1>\n<p>Google meetを使用する予定です。</p>\n<p>URLは当日conpassのメッセージ機能で通知します。\nまた、参加者への情報欄にも記載しておきます。</p>\n<h1>当日までの準備</h1>\n<p>特にありません。<br>\n事前に資料を読んでおくと良いかもです。  </p>\n<h1>費用</h1>\n<p>なし</p>\n<h1>定員</h1>\n<p>特にありません</p>",
+          "link": "https://wakaran-reading.connpass.com/event/263308/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T13:21:26.000Z",
+          "wordCount": 1005,
+          "title": "なんもわからん人の論文読み会（Knowledge Graphのサーベイ）#15",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
+        {
+          "id": "https://connpass.com/event/263307/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/27 20:00 ～ 22:00<br />開催場所: オンライン(Discord)<br /><br /><p>『並行プログラミング入門』(<a href=\"https://www.oreilly.co.jp/books/9784873119595/\" rel=\"nofollow\">https://www.oreilly.co.jp/books/9784873119595/</a>) の読書会です。</p>\n<h2>どこから読むの？</h2>\n<p>次回: p. 172の最後の方から</p>\n<h2>勉強会の進め方(詳細版)</h2>\n<p><a href=\"https://docs.google.com/presentation/d/1r54zmoTSlAsCl8SUgHjiq1ZBefYo19-NBBisy6DiO74\" rel=\"nofollow\">https://docs.google.com/presentation/d/1r54zmoTSlAsCl8SUgHjiq1ZBefYo19-NBBisy6DiO74</a></p>\n<h2>勉強会進め方(簡易版)</h2>\n<ul>\n<li>本文を交代で音読する</li>\n<li>ソースコードは写経して実行する</li>\n<li>疑問があったり、試したいことがあったらいくらでも試す</li>\n<li>でも、わからんものはわからんので無理しない(疑問をみつけてラッキー！ というスタンス)</li>\n<li>メモ用Scrap → <a href=\"https://zenn.dev/mohira/scraps/1769a9c338e58f/\" rel=\"nofollow\">『並行プログラミング入門』をやっていく会</a></li>\n<li>音読、写経、議論、疑問調べなどがあるのでペースは非常に遅い！(というより、参加者の能力やモチベーションに応じた適正なペースに収束していきます) </li>\n</ul>\n<h2>書籍購入用リンク</h2>\n<ul>\n<li>PDF版とepub版がほしいなら(しかも2割引！) → <a href=\"https://www.oreilly.co.jp/books/9784873119595/\" rel=\"nofollow\">O'Reilly Japan - 並行プログラミング入門</a></li>\n<li>Amazon → <a href=\"https://www.amazon.co.jp/dp/4873119596\" rel=\"nofollow\">並行プログラミング入門 ―Rust、C、アセンブリによる実装からのアプローチ | 高野 祐輝</a></li>\n</ul>",
+          "link": "https://connpass.com/event/263307/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T13:17:56.000Z",
+          "wordCount": 992,
+          "title": "『並行プログラミング入門』読書会 #26",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
+        {
+          "id": "https://devguil.connpass.com/event/263305/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/12 13:30 ～ 16:30<br />開催場所: (場所未定)<br /><br /><p>詳細は後ほどご案内させて頂きます。\n場所は新宿を予定しております。</p>",
+          "link": "https://devguil.connpass.com/event/263305/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T12:33:57.000Z",
+          "wordCount": 891,
+          "title": "もくもく会@新宿11/12(土)",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
+        {
+          "id": "https://pelemay.connpass.com/event/263304/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/10 20:10 ～ 21:40<br />開催場所: Zoom<br /><br /><p>Nxのバックエンドについて研究開発する勉強会です。\n<a href=\"https://github.com/elixir-nx/nx\" rel=\"nofollow\">Nx</a>については既に知っていてプログラミングしたことがあるものとします。</p>\n<p>今回はLT回です．</p>\n<ol>\n<li>オープニング</li>\n<li>LTその1</li>\n<li>LTその2</li>\n<li>LTその3</li>\n<li>ディスカッション</li>\n</ol>\n<p>1-4は録画します．</p>",
+          "link": "https://pelemay.connpass.com/event/263304/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T12:12:30.000Z",
+          "wordCount": 916,
+          "title": "Nxバックエンド勉強会#7",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/36/7b3684167a62f90e6c88d825170357b2.png"
+        },
         {
           "id": "https://geekhouse-okinawa.connpass.com/event/263277/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
