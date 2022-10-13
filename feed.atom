@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T08:02:28.419Z</updated>
+    <updated>2022-10-13T09:04:37.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【先着20名限定】ITキャリア講座&交流会＠秋葉原]]></title>
+        <id>https://connpass.com/event/263275/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://connpass.com/event/263275/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-13T08:51:17.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/16 14:00 ～ 18:00<br />開催場所: (場所未定)<br /><br /><p>ITキャリアアップ説明会×IT人材の交流会を開催いたします♪</p>
+<p>お得情報 20名限定、講座が終了するまでの間にIT界隈サークル（完全無料）に参加された方は参加費が半額になります！ 
+IT界隈サークルへの参加は <a href="http://it-kaiwai.com" rel="nofollow">it-kaiwai.com</a> のページ下部にあります。 
+参加のお申し込みはこちらから</p>
+<p>講座概要 前回も満員御礼をいただきました！ 今月もＩＴ人材のキャリア講座と交流会を実施いたします！</p>
+<p>今回のテーマは 「未経験から5年以内に本業で月収80万円、年収1000万円を稼ぐキャリアとその方法」 についてです♪ 
+IT業界で働いている方、IT業界に興味がある方は誰でも参加可能ご参加いただけます！</p>
+<p>詳細 
+■対象者■ 
+現IT人材(SE、営業、事務職など)または　IT人材になることに興味がある方</p>
+<p>■日時■ 
+10/16（日）14:00~18:00 -講義「ITエンジニア本業で年収1000万円を稼ぐ方法論」
+14:00~16:00 -IT人材交流会
+16:00~18:00</p>
+<p>■場所■ 
+秋葉原八木ビル３０４（東京都千代田区神田和泉町1丁目8-2）</p>
+<p>■参加費■ 
+・5,000円（講義＋交流会、非会員価格） 　
+-講義のみ参加の場合は3,000円（非会員価格） 　
+-交流会のみ参加の場合は4,000円（非会員価格） 
+（IT界隈サークルメンバーはそれぞれ半額でご参加可能です！）
+※講座の途中でもIT界隈サークル（完全無料）に加入したら後からキャッシュバックいたします♪</p>
+<p>■持ち物■ 
+・講義にご参加される方：ノートとペンなどをお持ちください。 
+・交流会にご参加される方：特に持ち物はございません。</p>
+<p>■その他■ 
+交流会では軽食とソフトドリンクを用意しています。
+ ＊席は移動を含め自由ですが状況やご希望に応じ主催者側で対応いたします。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聴くMITTR：フェイスブックは安全と信頼を取り戻せるか]]></title>
+        <id>https://www.technologyreview.jp/?p=287282</id>
+        <link href="https://www.technologyreview.jp/s/287282/audiomookcan-facebook-regain-a-place-of-trust/"/>
+        <updated>2022-10-13T08:32:15.000Z</updated>
+        <summary type="html"><![CDATA[今週のオーディオ・ムック（β）では、フェイスブック元社員や専門家の主張から、SNSを安全で信頼できる場所にする方法について考える。]]></summary>
+        <author>
+            <name>MIT Technology Review Audio Studio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CodeBuildからECSへexecute-commandする]]></title>
+        <id>https://techracho.bpsinc.jp/yamasita-taisuke/2022_10_13/122544</id>
+        <link href="https://techracho.bpsinc.jp/yamasita-taisuke/2022_10_13/122544"/>
+        <updated>2022-10-13T08:30:58.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/10/aws_execute-command_corebuild_ecs_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>構成 CodeBuildからVPC内のリソースにアクセスするためには以下のような構成をとる場合が多いと思います。 プライベートサブネットを作成して、インターネット接続のためにNAT gatewayを配置: この他にVPC外のCodeBuildからexecute-commandを経由してVPC内リソースにアクセスする方法もあります。 ECSのコンテナを立てる時間があるので、build時間が1～2分長くなりますが、Nat gatewayは0.062USD/hourくらいかかるので料金の節約になります。 設定例 ここでは例として、VPC内で./bin/rails db:migrateをexecute-commandを利 [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/yamasita-taisuke/2022_10_13/122544" data-wpel-link="internal" target="_self">AWS CodeBuildからECSへexecute-commandする</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詳解3次元点群処理もくもく会 第1回]]></title>
+        <id>https://fu-pc.connpass.com/event/263272/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://fu-pc.connpass.com/event/263272/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-13T08:09:55.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/19 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><p>詳解3次元点群処理を読んだりもくもくとOpen3Dで遊んだりする会です。初回は点群入門としてイントロを読む感じかなと思います。（参加用のzoomリンクは参加者への情報欄でご確認ください。）</p>
+<p>「詳解3次元点群処理」を手元にご準備の上、ご参加ください。
+<a href="http://www.amazon.co.jp/dp/406529343X" rel="nofollow">www.amazon.co.jp/dp/406529343X</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モデリングツールとモデリングの可能性を考える]]></title>
         <id>https://modeling-how-to-learn.connpass.com/event/261858/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
