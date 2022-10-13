@@ -1534,16 +1534,6 @@
           "wordCount": 359,
           "title": "AWS Trusted Advisor に、Amazon EC2 での Microsoft Windows Server のサポート終了に対するチェックを追加",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "bb9ac00b10908f4d38fbceefde6932240a7256a3",
-          "author": "aws@amazon.com",
-          "description": "EBS ごみ箱がアジアパシフィック (ジャカルタ) リージョンで利用可能になりました。EBS スナップショットと EBS-Backed AMI のごみ箱を使用して、誤って削除してしまったものを復元し、ビジネス継続性のニーズを満たすことができます。これまでは、スナップショットを誤って削除すると、前の時点からスナップショットにロールバックする必要があり、目標復旧時点が増加していました。また、間違って登録解除した AMI を復元することはできませんでした。ごみ箱を使用すると、保持期間を指定でき、その保持期間が終了する前であれば、削除したスナップショットや登録解除した AMI を復元できます。復元されたスナップショットまたは AMI では、削除前に持っていたタグ、アクセス許可、暗号化ステータスなどの属性が保持されます。ごみ箱から復元されなかったスナップショットや AMI は、保持期間が終了すると完全に削除されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/08/ebs-recycle-bin-asia-pacific-jakarta-region/",
-          "publishedOn": "2022-09-13T16:31:15.000Z",
-          "wordCount": 306,
-          "title": "EBS ごみ箱がアジアパシフィック (ジャカルタ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -6229,6 +6219,16 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://connpass.com/event/263154/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 18:30 ～ 22:00<br />開催場所: 東京都渋谷区渋谷2-22-7 渋谷新生ビル803号室<br /><br /><h2>re:Invent2022 Standby 事前勉強会 イベント紹介</h2>\n<p>AWS re:Invent 2022 に参加予定の方、行けないけど興味ある方が集まって re:Invent に向けたLTでの情報シェアと、懇親会での情報交換を目的とした勉強会です。</p>\n<p>re:Invent2022は、11月27日(日) ～ 12月2日(金) まで、ラスベガスで開催されます。会場は広いですし、盛りだくさんすぎて初参加の方やラスベガスに慣れてない方は事前準備で大変だと思います。</p>\n<p>・re:Invent 2022 初参加者向け、現地の情報や交通機関、お食事情報のHow To ご案内<br>\n・どのセッション予約すれば良いのか？事前セッション予約の見極め方<br>\n・基調講演で突発的に発表された新サービスの個別セッション即予約して 新製品 ゲット！なサバイバルガイド<br>\n・Pub Crawl って何？Tatonka Challenge って何？re:Play って行ったほうが良いの？<br>\n・帰国後の出張報告書、なるべくサクっと作るにはどうする？<br>\n・金曜日、時間が取れたらどこに行く？シルクドソレイユ？グランドキャニオン？ヘリ夜景？<br>\n・LT終わった後は QA大会と懇親会<br></p>\n<p>と、言うようなLT発表を想定してます。LT参加の皆さま、これまでのAWS re:Inventの経験、英語・旅行の注意点等色々な視点で発表していただけると幸いです</p>\n<p>LT大会の後は懇親会で、出発前から知り合いになっておきましょう！</p>\n<h2>日時</h2>\n<p>2022年11月02日(火) 18:30開場、19:00Start ～22:00 懇親会終了, 完全撤収</p>\n<h2>場所</h2>\n<p>渋谷新生ビル803号室 ”ふれあい会議室” (JR渋谷駅 徒歩6分)<br>\n〒150-0002 東京都渋谷区渋谷2-22-7 渋谷新生ビル803号室\n<br>\n地図URL <a href=\"https://goo.gl/maps/YPQGVsKMnYq5Nq8s7\" rel=\"nofollow\">https://goo.gl/maps/YPQGVsKMnYq5Nq8s7</a></p>\n<h2>参加費</h2>\n<p>無料</p>\n<h2>仮タイムテーブル（内容・演目は変更になる可能性があります）</h2>\n<p>※登壇者さま情報、順不同です。登壇順は調整するかもしれません。</p>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n<th>登壇者</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>19:00-19:05</td>\n<td>オープニング</td>\n<td>　</td>\n</tr>\n<tr>\n<td>19:05-19:45</td>\n<td>基調講演 re:Cap</td>\n<td>@HarunobuKameda</td>\n</tr>\n<tr>\n<td>19:45-19:55</td>\n<td>LT #1(タイトル未定)</td>\n<td>LT申込募集中</td>\n</tr>\n<tr>\n<td>19:55-20:05</td>\n<td>LT #2(タイトル未定)</td>\n<td>LT申込募集中</td>\n</tr>\n<tr>\n<td>20:05-20:15</td>\n<td>休憩と時間調整</td>\n<td></td>\n</tr>\n<tr>\n<td>20:15-20:25</td>\n<td>LT #3(タイトル未定)</td>\n<td>LT申込募集中</td>\n</tr>\n<tr>\n<td>20:25-20:35</td>\n<td>LT #4(タイトル未定)</td>\n<td>LT申込募集中</td>\n</tr>\n<tr>\n<td>20:35-20:45</td>\n<td>LT #5(タイトル未定)</td>\n<td>LT申込募集中</td>\n</tr>\n<tr>\n<td>20:45-20:55</td>\n<td>LT #6「2022年、ベガスはどうなっているのか」</td>\n<td>@shinichiro_kawano</td>\n</tr>\n<tr>\n<td>20:55-21:00</td>\n<td>クロージング</td>\n<td></td>\n</tr>\n<tr>\n<td>21:00-22:00</td>\n<td>懇親会 (ソフトドリンク)</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>\n※勉強会の趣旨と異なるLTテーマでのLTお申込は、ご登壇をご遠慮いただく事があります。予めご了承下さい。\n</p>\n\n<h2>スケジュール<p></p></h2>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>18:30-19:00</td>\n<td>受付</td>\n</tr>\n<tr>\n<td>19:00-20:05</td>\n<td>基調講演、LT大会 [1] - [2]</td>\n</tr>\n<tr>\n<td>20:05-20:15</td>\n<td>休憩と時間調整</td>\n</tr>\n<tr>\n<td>20:15-21:00</td>\n<td>LT大会 [3] - [6]</td>\n</tr>\n<tr>\n<td>21:00-22:00</td>\n<td>懇親会 (ソフトドリンク)</td>\n</tr>\n<tr>\n<td>22:00</td>\n<td>完全撤収</td>\n</tr>\n</tbody>\n</table>\n<h2>対象とする方</h2>\n<p>re:Invent 2022 に興味がある方</p>\n<h2>注意事項など</h2>\n<p>■新型コロナウイルスへの対応について<br>\n当日発熱、せきやのどの痛みがあるなど、体調不良の症状がある方は参加をご遠慮ください。<br>\n会場入口での消毒などご協力をお願いいたします。<br>\n会場内ではマスクをご着用ください。懇親会の際も飲食時以外はマスク着用をお願いしたします。<br>\n<br>\n* リクルーティング、勧誘、採用活動、人の話を聞かないなど、目的に沿わない行為につきまして、主催者が相応しくないと判断した場合は退出頂きます。参加者全員が気持ちよく過ごすことが出来るよう、ご協力をお願い致します。</p>\n<h2>LT登壇者の方へ</h2>\n<p>re:Invent 2022 に興味のある方への事前情報共有を目的としています。登壇する方は、発表資料を公開頂けると幸いです。</p>",
+          "link": "https://connpass.com/event/263154/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T05:05:16.000Z",
+          "wordCount": 1335,
+          "title": "re:Invent 2022 Standby 事前勉強会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2e/ca/2eca400be0f1f9eb3112708a482beca3.png"
+        },
         {
           "id": "https://connpass.com/event/263240/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
