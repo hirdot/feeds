@@ -6,6 +6,16 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "2be49f26b89a022c53d741068a027716717c22db",
+          "author": "aws@amazon.com",
+          "description": "Amazon Nimble Studio で、Windows Server 2022 を実行する Amazon マシンイメージ (AMI) が利用できるようになりました。これは、既存の AMI と同じくプリインストールソフトウェアを含み、AWS Marketplace で提供されます。Nimble Studio では、スタジオ固有のワークフローのベースラインとなる AMI をさらにカスタマイズできます。Microsoft Windows Server 2022 を使用すると、最新の Windows 機能をスタジオで利用できるようになります。また、Epic Games の Unreal Engine や Adobe Creative Cloud といったコンテンツ作成ソフトウェアに対応しています。機能や改善点の詳細なリストについては、こちらの Windows Server 2022 に関する Microsoft 公式ドキュメントから入手できます。今回の Windows Server 2022 AMI へのサポートは、既にサポートしている Windows Server 2019 AMI および Linux AMI に追加でサポートが開始されるものです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/",
+          "publishedOn": "2022-10-13T00:53:10.000Z",
+          "wordCount": 351,
+          "title": "Amazon Nimble Studio が Windows Server 2022 用ベースイメージの提供開始を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "74beffec1f6f15bb12d8165bd083d248f0f87532",
           "author": "aws@amazon.com",
           "description": "Amazon Connect は、Wisdom、Tasks、Customer プロファイルのサードパーティ統合のメトリクスを Amazon CloudWatch に発行するようになり、運用メトリクスが監視しやすくなりました。これらの統合により、Amazon Connect のお客様は、Zendesk、Salesforce、ServiceNow などのサードパーティ SaaS アプリケーションからデータ (購入履歴、ナレッジコンテンツなど) を取り込み、タスク作成を自動化できます。 Zendesk などのサードパーティアプリケーションから Wisdom により取り込んだドキュメントの数やサイズなど、運用および使用率のメトリクスを収集、表示、分析できるようになりました。この機能は、CloudWatch からデータアクセスするためのコーディングが不要ですぐに利用できます。",
@@ -1620,6 +1630,16 @@
       "siteUrl": "https://data.wingarc.com",
       "articles": [
         {
+          "id": "https://data.wingarc.com/?p=47015",
+          "author": "tadokoroyusuke",
+          "description": "日本の企業全体でDXの役割が注目を浴びるきっかけとなったことの1つに、2018年9月に経済産業省から発表された「DXレポート：ITシステム『2025年の崖』克服とDXの本格的な展開」（略称：DXレポート）がある。DXレポ […]",
+          "link": "https://data.wingarc.com/localdxlab-28-hyogo-47015?utm_source=rss&utm_medium=rss&utm_campaign=localdxlab-28-hyogo",
+          "publishedOn": "2022-10-13T01:00:08.000Z",
+          "wordCount": 1413,
+          "title": "神戸市「DXお助け隊／DXきっかけづくりお助け隊」から見る 裾野を広げ、ハードルを下げる、多様なDXのススメ",
+          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/10/05fd9bb50897c7b89fa13959a0deddc9-1.jpg"
+        },
+        {
           "id": "https://data.wingarc.com/?p=46973",
           "author": "tadokoroyusuke",
           "description": "独立行政法人国立文化財機構奈良文化財研究所（以下、奈良文化財研究所）では、かねてから全国各地に点在する文化財の発掘調査報告書プロジェクト「全国遺跡報告総覧」を推進してきた。ただ、データの収集プロセスが複雑化しており、適切 […]",
@@ -2165,6 +2185,26 @@
       "feedUrl": "https://gihyo.jp/admin/feed/rss2",
       "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/10/rubykaigi2022-3",
+          "author": null,
+          "description": "9月8日〜10日、三重県総合文化センターにて「RubyKaigi 2022」が開催されました。最終日である3日目の最後のセッションとしての基調講演にAlan Wu氏が登壇しました。発表は「Stories from developing YJIT」と題して、前半で初期のYJITの設計について、後半ではYJITに取り込んだ最適化手法の大きく2部で構成されていました。かなり難しいセッションであったため、少し解説を交えながらレポートします。",
+          "link": "https://gihyo.jp/article/2022/10/rubykaigi2022-3?utm_source=feed",
+          "publishedOn": "2022-10-13T01:02:00.000Z",
+          "wordCount": null,
+          "title": "Alan Wu氏「YJITはRubyプロセス実行から終了まで全体のパフォーマンス向上を目指す」 ～RubyKaigi 2022 3日目キーノート",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/10/android-weekly-topics-221013",
+          "author": null,
+          "description": "10月6日、Googleは新しいスマートフォン「Pixel 7シリーズ」を発表しました。",
+          "link": "https://gihyo.jp/article/2022/10/android-weekly-topics-221013?utm_source=feed",
+          "publishedOn": "2022-10-13T00:12:00.000Z",
+          "wordCount": null,
+          "title": "やっぱり写真はこれ。Google Pixel 7シリーズ正式発表",
+          "imageUrl": null
+        },
         {
           "id": "https://gihyo.jp/article/2022/10/rubykaigi2022-2",
           "author": null,
@@ -2903,6 +2943,26 @@
       "siteUrl": "https://gihyo.jp",
       "articles": [
         {
+          "id": "https://gihyo.jp/article/2022/10/rubykaigi2022-3",
+          "author": null,
+          "description": "9月8日〜10日、三重県総合文化センターにて「RubyKaigi 2022」が開催されました。最終日である3日目の最後のセッションとしての基調講演にAlan Wu氏が登壇しました。発表は「Stories from developing YJIT」と題して、前半で初期のYJITの設計について、後半ではYJITに取り込んだ最適化手法の大きく2部で構成されていました。かなり難しいセッションであったため、少し解説を交えながらレポートします。",
+          "link": "https://gihyo.jp/article/2022/10/rubykaigi2022-3?utm_source=feed",
+          "publishedOn": "2022-10-13T01:02:00.000Z",
+          "wordCount": 285,
+          "title": "Alan Wu氏「YJITはRubyプロセス実行から終了まで全体のパフォーマンス向上を目指す」 ～RubyKaigi 2022 3日目キーノート",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/10/rubykaigi2022-3/imgs/0_title.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/10/android-weekly-topics-221013",
+          "author": null,
+          "description": "10月6日、Googleは新しいスマートフォン「Pixel 7シリーズ」を発表しました。",
+          "link": "https://gihyo.jp/article/2022/10/android-weekly-topics-221013?utm_source=feed",
+          "publishedOn": "2022-10-13T00:12:00.000Z",
+          "wordCount": 219,
+          "title": "やっぱり写真はこれ。Google Pixel 7シリーズ正式発表",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
+        {
           "id": "https://gihyo.jp/article/2022/10/rubykaigi2022-2",
           "author": null,
           "description": "2022年9月8日から10日までRubyKaigi 2022が開催されました。2日目の基調講演では、Rubyの作者であるまつもとゆきひろさんが登壇し、「Contribute to Ruby」というタイトルで発表しました。この講演では、Rubyの価値とRubyに関わる人々に期待するコントリビューションについて話しました。",
@@ -3639,6 +3699,26 @@
       "feedUrl": "https://gihyo.jp/lifestyle/feed/rss2",
       "siteUrl": "https://gihyo.jp",
       "articles": [
+        {
+          "id": "https://gihyo.jp/article/2022/10/rubykaigi2022-3",
+          "author": null,
+          "description": "9月8日〜10日、三重県総合文化センターにて「RubyKaigi 2022」が開催されました。最終日である3日目の最後のセッションとしての基調講演にAlan Wu氏が登壇しました。発表は「Stories from developing YJIT」と題して、前半で初期のYJITの設計について、後半ではYJITに取り込んだ最適化手法の大きく2部で構成されていました。かなり難しいセッションであったため、少し解説を交えながらレポートします。",
+          "link": "https://gihyo.jp/article/2022/10/rubykaigi2022-3?utm_source=feed",
+          "publishedOn": "2022-10-13T01:02:00.000Z",
+          "wordCount": 285,
+          "title": "Alan Wu氏「YJITはRubyプロセス実行から終了まで全体のパフォーマンス向上を目指す」 ～RubyKaigi 2022 3日目キーノート",
+          "imageUrl": "https://gihyo.jp/assets/images/article/2022/10/rubykaigi2022-3/imgs/0_title.jpg"
+        },
+        {
+          "id": "https://gihyo.jp/article/2022/10/android-weekly-topics-221013",
+          "author": null,
+          "description": "10月6日、Googleは新しいスマートフォン「Pixel 7シリーズ」を発表しました。",
+          "link": "https://gihyo.jp/article/2022/10/android-weekly-topics-221013?utm_source=feed",
+          "publishedOn": "2022-10-13T00:12:00.000Z",
+          "wordCount": 219,
+          "title": "やっぱり写真はこれ。Google Pixel 7シリーズ正式発表",
+          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
+        },
         {
           "id": "https://gihyo.jp/article/2022/10/rubykaigi2022-2",
           "author": null,
@@ -6179,6 +6259,56 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://mockmock.connpass.com/event/263233/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/16 13:00 ～ 15:00<br />開催場所: Slack<br /><br /><p><span style=\"color: #FF0000; font-weight: bold; font-size: 120%;\">コアタイム（13:00 - 15:00）に参加できなくてもOK！詳しくは↓を読んでね</span></p>\n<h1>mockmock.devとは？</h1>\n<ul>\n<li>毎週日曜日にSlackで開催されるオンラインもくもく会です。</li>\n<li>チャットにログインして、やることを宣言して、あとはもくもく作業するだけ。</li>\n<li>最後にやったことを成果発表しておしまいです。</li>\n</ul>\n<h1>目的</h1>\n<ul>\n<li>なかなか続かない、モチベーションが上がらない作業が進められるようにすること</li>\n<li>作業を通じて他の参加者とゆるくコミュニケーションできるようにすること</li>\n</ul>\n<h1>参加条件</h1>\n<ul>\n<li>もくもく集中して作業したい方なら誰でも参加できます。</li>\n<li>作業テーマは何でも構いません。（プログラミングでも、デザインでも、読書でも）</li>\n</ul>\n<h1>参加する方法</h1>\n<p><strong>事前に以下のページからmockmock.devのSlackに登録しておいてください。</strong><br>\n<a href=\"https://mockmock-slackin.herokuapp.com/\" rel=\"nofollow\">https://mockmock-slackin.herokuapp.com/</a></p>\n<h2>コアタイムに参加できる方</h2>\n<p>開始時間（13:00になったら）Slackにログインしてください。※ 遅れて参加ももちろんOKです！</p>\n<h2>コアタイムに参加できない方</h2>\n<p>コアタイムに参加できなくても、もくもく作業してくださって構いません！</p>\n<ul>\n<li>自己紹介</li>\n<li>やること宣言</li>\n<li>やったこと成果発表</li>\n</ul>\n<p>を自由にSlackに投稿してください。他のメンバーが何か反応してくれるかも？</p>",
+          "link": "https://mockmock.connpass.com/event/263233/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T01:06:10.000Z",
+          "wordCount": 951,
+          "title": "mockmock.dev #388",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c3/b5/c3b5d7ad9601a6ae23a68244dbb15e9b.png"
+        },
+        {
+          "id": "https://gmo.connpass.com/event/263157/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/10 19:00 ～ 21:00<br />開催場所: 東京都渋谷区道玄坂1-2-3　渋谷フクラス<br /><br /><h1><strong>sunabar コミュニティイベント#20<br>野村総合研究所 城田 真琴氏と探る<br>「業界を変えるエンベデッド・ファイナンス」</strong></h1>\n<p>GMOあおぞらネット銀行は、11月10日(木)19：00より、sunabar コミュニティイベント#20【野村総合研究所 城田 真琴氏と探る「業界を変えるエンベデッド・ファイナンス」】と題したリアルイベントを開催いたします。<br></p>\n<h2>参加方法</h2>\n<p>本ページよりお申し込みください。<br>\nイベント当日は渋谷フクラス8Fの受付にてconnpassの受付票のご提示をお願いいたします。<br>\n会場：渋谷フクラス（JR渋谷駅南改札西口より徒歩約1分）<br>\nアクセス：<a href=\"https://www.gmo.jp/company-profile/access-map/fukuras/\" rel=\"nofollow\">https://www.gmo.jp/company-profile/access-map/fukuras/</a></p>\n<p><br>※オンライン配信は行いませんので、あらかじめご了承ください。</p>\n<h2>イベント概要</h2>\n<p>書籍「エンベデッド・ファイナンスの衝撃」（東洋経済新報社）の著者でもある、株式会社野村総合研究所(以下、NRI)の城田 真琴氏をゲストに迎え、エンベデッド・ファイナンス（組込型金融）を徹底深掘り！<br></p>\n<p><strong>【すべての企業に訪れた、新しいビジネスチャンスに迫る！】</strong><br>\nIT・EC・サービスなどの非金融企業が、自社サービスで金融サービスを提供することが可能となるエンベデッド・ファイナンス。国内外で大きな業界変動が起きています。<br>\n本イベントでしか聞くことのできない、エンベデッド・ファイナンスやFinTechの最新の潮流、金融サービスがもたらすビジネス成功へのシナリオ、そして今後の見通しなどを、NRIの城田氏と共にビジネスとテクノロジーの両翼から深掘りします。<br>\n事業企画に携わる方や、サービス開発に関わるエンジニアの方にも、学びや気づきに繋がる内容です。<br>\nまた会場では、参加者同士のネットワーキングを予定しています。（お土産をご用意しております。）<br></p>\n<h2>こんな方におすすめ</h2>\n<p>・金融サービスを活用したビジネスにご興味のある方<br>\n・FinTechサービスを提供されている、もしくは現在ご検討中の方<br>\n・銀行や金融関連のオープンAPIにご興味があるエンジニアの方<br></p>\n<h2>タイムスケジュール</h2>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>コンテンツ・セッション</th>\n<th>スピーカー</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>18:30</td>\n<td>開場（最終受付19:30）</td>\n<td></td>\n</tr>\n<tr>\n<td>19:00-</td>\n<td><strong>野村総合研究所 城田 真琴氏と探る「業界を変えるエンベデッド・ファイナンス」</strong><br>１：業界変動を起こすエンベデッド・ファイナンス<br>２：エンベデッド・ファイナンス成功へのシナリオ/今後の見通し<br>３：NRI城田真琴氏が当社「かんたん組込型金融サービス」にズバリ切り込む！</td>\n<td>城田 真琴（野村総合研究所 DX基盤事業本部 プリンシパル・アナリスト）<br>小野沢 宏晋（当社 執行役員 企画・事業開発グループ長）<br>岩田 充弘（当社 組込型金融プロダクトチーム長）</td>\n</tr>\n<tr>\n<td>20:00-</td>\n<td>質疑応答</td>\n<td></td>\n</tr>\n<tr>\n<td>20:15-</td>\n<td>交流会</td>\n<td></td>\n</tr>\n<tr>\n<td>21:00</td>\n<td>クローズ</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<p>※当日予告なく時間配分・内容が変更になる可能性がございます。</p>\n<h2>登壇者紹介</h2>\n<h3>城田 真琴 氏（株式会社野村総合研究所 DX基盤事業本部 プリンシパル・アナリスト）<br></h3>\n<p><img alt=\"城田 真琴 氏\" src=\"https://s3.techplay.jp/tp-images/event/321f89b779bf3424ff39ad1e3a4573c53c7f6045.jpg\" title=\"城田 真琴 氏\"></p>\n<blockquote>\n2001年、野村総合研究所にキャリア入社後、IT基盤技術戦略室長などを経て現職。<br>\nITアナリストとして先端技術・先端ITビジネスの動向調査/分析を担当。著書に『エンベデッド・ファイナンスの衝撃』のほか、『クラウドの衝撃』『ビッグデータの衝撃』『FinTechの衝撃』『デス・バイ・アマゾン』などがある。<br>\n総務省「スマート・クラウド研究会」技術WG委員、経済産業省「IT融合フォーラム」パーソナルデータWG委員などを歴任。\n</blockquote>\n<p><br></p>\n<h3>小野沢 宏晋（GMOあおぞらネット銀行株式会社 執行役員　企画・事業開発グループ長）<br></h3>\n<p><img alt=\"小野沢 宏晋\" src=\"https://s3.techplay.jp/tp-images/event/ea6b0db6300106ad6787abccfb713ab9357b2277.jpg\" title=\"小野沢 宏晋\"></p>\n<blockquote>\n外資系ITベンダーで金融機関様担当として、営業や、サービスのご提供に従事。 「ITを提供する立場」から、 「ITを使って事業を行う立場」へ転身 2019年夏より、“テクノロジーバンク”を謳う GMOあおぞらネット銀行にJoinして挑戦中</blockquote>\n<p><br></p>\n<h3>岩田 充弘（GMOあおぞらネット銀行株式会社 組込型金融プロダクトチーム長）<br></h3>\n<p><img alt=\"岩田 充弘\" src=\"https://s3.techplay.jp/tp-images/event/85e3461a74f2c794c631c88647b9277aaa2ac08c.jpg\" title=\"岩田 充弘\"></p>\n<blockquote>\n日本アイ・ビー・エム（株）入社後、メガバンクのお客様を中心に、主にアーキテクトの立場から、複数のシステム統合・再構築プロジェクトをテクニカルにサポート。2018年10月にGMOあおぞらネット銀行に入社後はシステム戦略立案を経て、現在は、API、かんたん組込型金融サービスの プロダクトオーナーとして、戦略立案、プロダクト企画・開発に携わっている。\n</blockquote>\n\n<h2>参加いただく方へのお願い</h2>\n<p>※新型コロナウイルス感染防止の観点より、下記事項にご了承いただける方のみご参加いただけます。<br>\n　・マスクをご着用のうえ、ご来場をお願いいたします。<br> \n　・ご入場前に検温と手指の消毒へのご協力お願い致します<br>\n　・37.5℃以上の発熱がある方のご入場はお断り致しますので、あらかじめご了承ください。<br></p>\n<h2>注意事項</h2>\n<p>・お申込みは先着順となります。予めご了承ください。<br>\n・当社の判断において申込をキャンセルさせて頂く場合がございます。ご了承ください。<br>\n・当日予告なく時間配分・内容が変更になる可能性がございます。予めご了承ください。<br></p>\n<h2>個人情報の取り扱いについて</h2>\n<p>当社（GMOあおぞらネット銀行株式会社）の個人情報保護ポリシーに基づき適切に取り扱います。<br>\n個人情報保護ポリシー：<a href=\"https://gmo-aozora.com/policy/privacy-policy.html\" rel=\"nofollow\">https://gmo-aozora.com/policy/privacy-policy.html</a></p>",
+          "link": "https://gmo.connpass.com/event/263157/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T00:50:07.000Z",
+          "wordCount": 1113,
+          "title": "【参加無料】野村総合研究所 城田 真琴氏と探る「業界を変えるエンベデッド・ファイナンス」",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/1d/2f/1d2f6b01ecfe0772afef7b2ece46adf5.png"
+        },
+        {
+          "id": "https://frontend-fanclub.connpass.com/event/263210/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/30 15:00 ～ 16:00<br />開催場所: オンライン<br /><br /><h1>概要</h1>\n<p>自宅でのんびりコーヒーでも飲みながら皆で集まって雑談する会です。<br>\nフロントエンドの話やその他雑談、相談などなど…<br>\n途中参加・途中退席も可です。<br>\nどなたでもお気軽にご参加ください。</p>\n<h2>README</h2>\n<p>オンラインボイスチャットサービス <a href=\"https://discord.com/\" rel=\"nofollow\">Discord</a>を利用しますので、各自PCをご用意ください。  </p>\n<p>Discord の利用にあたっては、事前にアカウントを作成して頂く必要があります。<br>\nアカウントをお待ちでない方は <a href=\"https://discord.com/\" rel=\"nofollow\">こちら</a>にアクセス頂き、右上の「ログイン」ボタンから新規アカウント登録を行ってください。</p>\n<p>SlackにてDiscordの招待リンクをご案内しますので、<br>\n当日までに以下の招待リンクから、Slackのワークスペースに参加下さい。\n<a href=\"https://join.slack.com/t/frontendfanclub/shared_invite/zt-1frzsgmi8-xksgDgBCPURFjooJBtdY_g\" rel=\"nofollow\">https://join.slack.com/t/frontendfanclub/shared_invite/zt-1frzsgmi8-xksgDgBCPURFjooJBtdY_g</a></p>\n<h2>当日の連絡</h2>\n<p>当日のコミュニケーションを円滑に行うことができるよう、参加者の方には事前にSlackへの参加をお願いします。</p>\n<p>まだ参加されてない方は <a href=\"https://join.slack.com/t/frontendfanclub/shared_invite/zt-1frzsgmi8-xksgDgBCPURFjooJBtdY_g\" rel=\"nofollow\">こちら</a>からどうぞ！</p>\n<p><strong>また、Discordの招待URL自体も当日、Slackの#generalチャンネルで共有しますのでご了承ください。</strong></p>\n<p>その他お困りごとはSlackか、Twitterにて <a href=\"https://twitter.com/fuqda90\" rel=\"nofollow\">@fuqda</a> までご連絡下さい</p>\n<h2>アンチハラスメントポリシー</h2>\n<p>Frontend Fanclubではアンチハラスメントポリシーを策定しています。\nイベント参加の前にご一読ください。</p>\n<p><a href=\"https://gist.github.com/Shigeyuki-fukuda/95020751d69bd360e16ab7b8ec3ebd51\" rel=\"nofollow\">Frontend Fanclub アンチハラスメントポリシー</a></p>",
+          "link": "https://frontend-fanclub.connpass.com/event/263210/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T00:30:58.000Z",
+          "wordCount": 957,
+          "title": "フロントエンド雑談会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e1/ec/e1ec25935b5b70d5ee32fde461259d31.png"
+        },
+        {
+          "id": "https://rpacommunity.connpass.com/event/263117/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/19 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><hr>\n<p><img src=\"http://comucal.co.jp/wp-content/uploads/2021/09/CMC-202210-connpass01.jpg\" width=\"700\">\n<br></p>\n<hr>\n<h2><span style=\"font-size: 110%;\">イベント概要</span></h2>\n<p><span style=\"font-size: 100%;\">\nテーマは「業務棚卸とマニュアル作成」です。<br>\n・マニュアル制作の肝となる業務の棚卸し手法<br>\n・活きたマニュアル”を運用していくためのポイント<br>\nなどについて学びます。<br><br>\n</span>\n<span style=\"font-size: 110%;\">\n2022年10月19日（水） 19:30開始<br>\nオンライン／Zoomミーティング形式<br>\n</span></p>\n<hr>\n<p><span style=\"font-size: 110%;\">\n<strong>\n知識集約型ビジネスプロセスマネジメントシステム<span style=\"color: red;\"><a href=\"https://kaizenfarm.jp/\" rel=\"nofollow\">KAIZEN FARM（カイゼンファーム）</a></span>で多くの実績を持つ株式会社 シイエム・シイの<span style=\"color: red;\">プロフェッショナルなメンバー</span>から解説していただきます！<br>\n</strong>\n</span>\n<a href=\"https://kaizenfarm.jp/\" rel=\"nofollow\"><img src=\"http://comucal.co.jp/wp-content/uploads/2021/09/CMC-KAIZENFARM01.png\" width=\"400\"></a>\n<br>\n</p>\n<hr>\n<h2><span style=\"color: red; font-size: 120%;\">こんな人におすすめ！</span></h2>\n<ul>\n<li><span style=\"font-size: 120%;\"><strong>業務の可視化・棚卸に興味がある。</strong></span></li>\n<li><span style=\"font-size: 120%;\"><strong>業務のマニュアル化に興味がある。</strong></span></li>\n<li><span style=\"font-size: 120%;\"><strong>業務改善を推進したい。</strong></span></li>\n<li><span style=\"font-size: 120%;\"><strong>業務改善の推進で悩みがある。</strong></span></li>\n<li><span style=\"font-size: 120%;\"><strong>業務改善に繋がる情報が欲しい。</strong></span></li>\n<li><span style=\"font-size: 120%;\"><strong>業務改善を推進しているユーザー同士で繋がりたい。</strong></span></li>\n</ul>\n<hr>\n<p><span style=\"font-size: 120%;\">\n<strong>\n参加用URLは申し込み後<span style=\"font-size: 130%;\">「参加者への情報」</span>箇所に表示されます。<br>\n</strong>\n</span>\n<img src=\"http://comucal.co.jp/wp-content/uploads/2021/07/connpass-url.jpg\" width=\"350\">\n<br></p>\n<hr>\n<p><span style=\"color: red; font-size: 130%;\">\n<strong> 匿名の質問フォームは<a href=\"https://www.menti.com/al4zjw4bhduw\" rel=\"nofollow\">こちら</a><br>\n イベント中に取り上げます。何でもご質問ください！</strong><br>\n</span></p>\n<hr>\n<h2>タイムテーブル</h2>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"left\">内容（タイトル）</th>\n<th align=\"left\">登壇者</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">19:15</td>\n<td align=\"left\">Zoom開放</td>\n<td align=\"left\">イベント開始まで、ITネタで交流タイム</td>\n</tr>\n<tr>\n<td align=\"left\">19:30</td>\n<td align=\"left\">イベント開始</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\"></td>\n<td align=\"left\">オープニング：RPACommunity最新情報</td>\n<td align=\"left\">運営</td>\n</tr>\n<tr>\n<td align=\"left\"></td>\n<td align=\"left\">業務の棚卸しとマニュアル化<br>解説＆実演</td>\n<td align=\"left\">株式会社シイエム・シイ<br>竹内あゆ美さん</td>\n</tr>\n<tr>\n<td align=\"left\"></td>\n<td align=\"left\">「活きたマニュアル」<br>運用ポイント</td>\n<td align=\"left\">株式会社シイエム・シイ<br>竹内あゆ美さん</td>\n</tr>\n<tr>\n<td align=\"left\"></td>\n<td align=\"left\">QAタイム</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\"></td>\n<td align=\"left\">クロージング</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">21:00</td>\n<td align=\"left\">撤収</td>\n<td align=\"left\"></td>\n</tr>\n</tbody>\n</table>\n<hr>\n<div style=\"background-color: #e6e6fa; border: 1px solid #ccc;\">\n<span style=\"font-size: 200%; color: blue;\">\n<strong> Speaker<br></strong>\n</span>\n</div>\n<hr>\n<p><span style=\"font-size: 130%;\">\n<strong>株式会社シイエム・シイ<br>\n経営企画部 <a href=\"https://twitter.com/bamboo_gaga\" rel=\"nofollow\">竹内あゆ美</a></strong><br>\n</span>\n<img src=\"http://comucal.co.jp/wp-content/uploads/2021/09/シイエム・シイ-竹内さん.png\" width=\"230\"><br></p>\n<blockquote>\n<p>業務標準化に特化した新事業“KAIZEN FARM”立ち上げメンバー。KAIZEN FARM事業を通じて自治体や企業を対象とした、業務見える化伴走支援・業務分析・RPA(Bizrobo)連携支援・業務改善関連セミナー講師など、業務改革を軸としたあらゆる支援を実施しています。<br>\n趣味：旅、好きな食べ物：マックのポテト、特技：英語、腕立て伏せ</p>\n</blockquote>\n<hr>\n<h3>RPACommunityについて<br></h3>\n<p><span style=\"color: red; font-size: 130%;\">\n<strong>ITを活用した業務の自動化・効率化の推進に取り組む仲間同士で情報や悩みを共有しながら楽しく学び、各々が目指す業務改善・働き方改革の実現に繋げる事を目的にしているのがRPACommunityです。</strong><br>\n</span>\n<span style=\"font-size: 120%;\">\nすでに取り組んでいる方、これから学ぼうとしている方、ちょっと興味がある方、どんな方でも大歓迎です。<br>\n<br>\nITネタ・自動化ネタ・RPAネタ、悩みや、言いたい事を、狭くはRPAですが広くは自動化、業務改善、働き方改革に繋がるテーマでセミナーやライトニングトーク（LT※）を楽しむコミュニティです！</span><br>\n<br>\n<span style=\"font-size: 130%;\">\n※ LTとは「Lightning Talk(s)」の頭文字を取ったもので5分間程度の短い時間で行われる発表を連続して続けていく形式のプレゼンテーション。<br></span></p>\n<hr>\n<p><span style=\"font-size: 160%;\">\n<strong>参加メリット</strong><br>\n</span>\n<span style=\"color: red; font-size: 130%;\">\nユーザー主体だからこそ、つまらない営業トークも宣伝トークもありません。IT活用や業務自動化に関する情報を得ながら、参加者同士で楽しく情報交換・交流し合えるコミュニティを目指しています。<br>\n</span></p>\n<hr>\n<p><span style=\"font-size: 160%;\">\n<strong>過去イベントや様々なITツールやITテーマの動画を公開しています！</strong><br>\n<strong><a href=\"https://www.youtube.com/channel/UCm8GV22BVkw6RmeriT7VJUA\" rel=\"nofollow\">RPACommunity YouTubeチャンネル</a></strong><br>\n</span>\n<img alt=\"\" src=\"http://comucal.co.jp/wp-content/uploads/2021/09/RPACommunity-YouTube-1.png\" width=\"600\"> </p>\n<hr>\n<p><span style=\"font-size: 160%;\">\n<strong>開催情報等を最速で公開するFBグループもあります！</strong><br>\n</span>\n<span style=\"color: Blue; font-size: 130%;\">\n<strong><a href=\"https://www.facebook.com/groups/129896620983650/\" rel=\"nofollow\">RPACommunity FBグループ</a> </strong><br>\n</span>\n<span style=\"font-size: 160%;\">\n<strong>メンバー交流用のSlackもあります！</strong><br>\n</span>\n<span style=\"color: Blue; font-size: 130%;\">\n<strong><a href=\"https://t.co/QsSmU4Je5y?amp=1\" rel=\"nofollow\">RPACommunity Slack</a> </strong><br>\n</span>\n<span style=\"font-size: 150%;\">\n<strong>是非ご参加下さい！</strong><br>\n</span></p>\n<hr>\n<p><span style=\"font-size: 150%;\">\n<strong>参加費　無料</strong><br>\n</span></p>\n<hr>\n<h2>協力・パートナー</h2>\n<hr>\n<p><span style=\"font-size: 130%;\">\n<strong>\n技術・情報提供／<a href=\"https://www.cmc.co.jp/\" rel=\"nofollow\">株式会社 シイエム・シイ</a><br>\n</strong>\n</span>\n<img src=\"http://comucal.co.jp/wp-content/uploads/2021/09/シイエム・シイ.png\" width=\"300\"><br></p>\n<hr>\n<p><span style=\"font-size: 130%;\">\n<strong>\n運営協力パートナー／<a href=\"https://comucal.co.jp/\" rel=\"nofollow\">株式会社コミュカル</a><br>\n</strong>\n</span>\n<img src=\"http://comucal.co.jp/wp-content/uploads/2021/09/COMUCAL-LOGO-TYPE.png\" width=\"350\"><br></p>\n<hr>\n<h3>RPACommunity 主催 <a href=\"https://twitter.com/CharaDenMitz\" rel=\"nofollow\">Mitz</a> ＆ <a href=\"https://twitter.com/_Ayy_h_18\" rel=\"nofollow\">あやや</a></h3>\n<p><img src=\"http://comucal.co.jp/wp-content/uploads/2021/08/MitzAyy.jpg\" width=\"250\"><br></p>\n<h2>諸注意</h2>\n<ul>\n<li>イベント内容は一部変更になる可能性がございます。</li>\n<li>イベント当日の様子は後日何らかの媒体にて公開させていただくことがございます。</li>\n<li>お申込後運営都合によりご参加をキャンセルさせて頂く場合がございます。予めご了承頂けますようお願いいたします。</li>\n<li>当イベントでは全ての参加者がこのイベントを楽しめるよう、RPACommunity運営グループ管理のもと開催しています。そのため、以下のような行動を取られた方は運営側判断により退室いただく場合がございます。また次回以降の参加をお断りしますのでご了承下さい。過去に以下のような行動を取られた方からのお申込についてもお断りさせていただく場合がございます。\n<br>\n　■他の参加者や登壇者に対しての迷惑行為と見られる言動や行動<br>\n　■人材紹介、転職、マルチ商法、宗教など、本イベントとは関係のない勧誘<br></li>\n</ul>\n<h2>アンチハラスメントポリシー</h2>\n<p><span style=\"font-size: 130%;\">\n<strong><a href=\"http://comucal.co.jp/wp-content/uploads/2021/09/RPACommunity-アンチハラスメントポリシー-2022.5.23.pdf\" rel=\"nofollow\">RPACommunity アンチハラスメントポリシー</a><br>\nこちら必ずお読みください。</strong>\n</span></p>",
+          "link": "https://rpacommunity.connpass.com/event/263117/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-13T00:19:14.000Z",
+          "wordCount": 1345,
+          "title": "【特別企画】『活きたマニュアル』作成・整備のコツ～業務の棚卸しを実演します～",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4c/78/4c785915bd0447c8e842342620c236ec.png"
+        },
+        {
+          "id": "https://kagoshima-dotnet.connpass.com/event/263230/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/20 19:30 ～ 21:00<br />開催場所: 鹿児島県鹿児島市住吉町13-1ハーバーフロントビル2F/3F<br /><br /><h1><a href=\"http://かごんま.NET\" rel=\"nofollow\">かごんま.NET</a> 2022.09 デリゲートとかラムダ式とか...</h1>\n<p><a href=\"http://今月のかごんま.NET\" rel=\"nofollow\">今月のかごんま.NET</a> はデリゲートとラムダ式です。.NET Framework 誕生から使えるデリゲート。.NET Framework 3.5 で導入されたラムダ式。よく似ていますが、違いはあるのでしょうか? 今一度復習しましょう。</p>\n<p>今回は<a href=\"https://haru-ni.net/\" rel=\"nofollow\">アプリファクトリーはるni株式会社</a>様のご協力で会場をお借りしております。いつもと場所が異なりますのでご注意ください。詳しい場所などは後日お知らせします。</p>\n<p><strong>参加者の皆様は必ずマスクをつけてください。</strong>また、最近のコロナウィルスの感染状況を受け、イベントが延期になる可能性もあります。延期の場合、connpass のメール経由でお知らせしますので、メールを確認いただくようお願いいたします。</p>\n<h2>スケジュール</h2>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>発表内容</th>\n<th>発表者</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>19:30 -</td>\n<td>開場</td>\n<td></td>\n</tr>\n<tr>\n<td>19:40 - 19:45</td>\n<td>ご説明</td>\n<td>政倉 智</td>\n</tr>\n<tr>\n<td>19:45 - 20:15</td>\n<td>デリゲートとラムダ式とその先に</td>\n<td>政倉 智</td>\n</tr>\n<tr>\n<td>20:15 - 21:00</td>\n<td>なにか発表したいという方がいらっしゃったらぜひ!</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h2>お知らせ</h2>\n<ul>\n<li>必ずマスクを着用してください。</li>\n<li>会場には駐車場がございません。公共の交通機関か、付近の有料駐車場をご利用ください。</li>\n<li>会場での食事や飲酒はできません。</li>\n</ul>",
+          "link": "https://kagoshima-dotnet.connpass.com/event/263230/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-12T23:54:22.000Z",
+          "wordCount": 1014,
+          "title": "かごんま.NET 2022.10 デリゲートとかラムダ式とか...",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
         {
           "id": "https://salesforcesaturday-kayabacho.connpass.com/event/263229/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
