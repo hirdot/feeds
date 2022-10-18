@@ -22,6 +22,393 @@
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1201)</span>ElixirImp#27：「LTしてくれた方々への感謝祭」という名の忘年会
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://fukuokaex.connpass.com/event/263809/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/12/21 19:30 ～ 21:00
+開催場所: フルリモート（ご自宅やオフィス等、各自の拠点）
+
+「ElixirImp」とは？
+「ElixirImp」は、「Elixir実装の芽をみんなで愛でる」コミュニティです
+ElixirImpのLT（Lightning Talk）会は、様々な「Elixir実装の芽」…つまり、みなさんがElixirで作ったもの（個人、仕事、もくもく会、技術書典などを問わず）を持ち寄り、みんなで一緒に愛でる会です
+
+下記のようなスライド主体のLT会もあれば、VSCodeやQiitaコラムを一緒に眺めてハックする回もあります
+
+閉会後の「リモート呑み会」では、Zoom上にて「Elixirのこういう話を聞きたい」や「Elixir／Phoenixのお仕事情報を聞きたい」をアルケミスト（Elixir経験者）に聞いたり、本会では聞けなかった突っ込んだ話、現場のリアルなんかを、登壇者や参加者とワイワイする時間帯もあります（その後の三次会があるときは、下図のようにVRプラットフォーム内で一緒に遊んだりもします）
+
+参加にあたってのご準備
+【最重要】カンパイスタートの会なので、お酒 or ソフトドリンク、お菓子 or ご飯をご用意してください
+イベント申込後、本ページ上部に出てくる「参加者への情報」欄をご覧いただき、事前参加準備をお願いします
+事前にElixir／PhoenixをインストールしたPCをお持ちいただくと、発表内容をその場で試したりできるかも
+Zoom接続さえできれば、本人でも、SnapCameraでも、2Dアバター／3D（VR）アバターでも、お好きな姿・形（18禁はお断り）でご参加OKの、「対面」と「アバター」が混在する「未来指向の技術コミュニティ」でもあります
+タイムテーブル
+時間
+発表者
+内容
+
+
+
+
+19:30-19:40
+ FLICK
+会の趣旨説明、録画のご案内、カンパイ挨拶＋Zoom記念撮影
+
+
+19:40-19:55
+ piacere
+ElixirImpでLTいただいた方々への感謝＋α
+
+
+19:55-20:25
+（LTしてくれた皆さま）
+LTいただいた方々から感想の一言を
+
+
+20:25-20:50
+（LTしてくれた皆さま）
+パネルディスカッション
+
+
+20:50-21:00
+（告知したい方）
+Elixirイベントの告知タイム
+
+
+21:10-22:00
+（懇親したい方）
+リモート呑み会（適宜、流れ解散です）
+
+
+
+Webやエッジコンピューティング、IoTの開発で実践的に使えるElixir
+一般的に「関数型言語」と言えば、言語の習得が難しく、組織として選定しづらいイメージがありますが、Elixirは、言語仕様や構文がシンプルかつ簡単なので、「育成や習得の容易性」を切り捨てること無く、関数型のメリットも享受できます
+「Elixirならでは」のメリットは、以下の通りです
+習得がカンタンで、ムダな記述も無いため、プログラミング経験が無い入門者・初級者に、実は向いている
+データや処理を、上から下、左から右の自然な流れで書ける「パイプ」が直感的でイイッ
+JSONパースが得意なので、Google APIやBacklog API等、様々なWeb APIとの連携にとても強い
+マルチコアCPUを簡単にフル活用できる
+データ変換とバイナリデータ検索に特化しているので、ファイルヘッダ解析やIoT／ドローン制御にも向いている
+長期間の安定運用を実現してきた「Erlang VM」の元で動作する
+変数の形や値で「パターンマッチ」できて、さらに関数の引数でも可能な数少ない言語（快感すら感じる）
+さらに、関数型としてのメリットも、上乗せされます
+状態が無いことで、同じ入力を何度行っても同じ出力しか返さないので、意図しない挙動にならない
+変数がイミュータブル（作成後にその状態が不変）なので、マルチスレッドや並行処理で競合しない
+プログラム構造が小さな関数群で構成され、シンプルに保たれるため、変更容易性が向上する
+少ないコードで、凝縮度の高い高度な処理が書ける
+リスト設計に慣れていくと、他言語で数百行かかる複雑な処理も、数行のコードで組むことが可能になる
+できあがったコードは、オブジェクト指向言語の1/100の量になることもあり、見た目も100倍エレガント
+オブジェクト指向言語経験者の移行は大変（関数型全般に言える）だが、移行後は、何倍も生産性が高まる
+実際に、Elixirがどの位カンタンに習得できるかと言うと、たった3つの関数を覚えるだけ、30分～1時間もあれば、Web＋DB／Web＋API／Webグラフ表示まで実現できてしまいます
+通常の関数型言語と一線を画す、このElixir／Phoenixのパワーを直接体感してみたい方は、「ExcelでElixirマスター」シリーズをご覧ください
+Elixirコミュニティに初めて接する方は下記がオススメです
+Elixirコミュニティ の歩き方 －国内オンライン編－
+https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian
+
+日本には28箇所のElixirコミュニティがあります
+
+日程からイベントを探すならElixirイベントカレンダー📆
+ Elixirイベントカレンダー 
+https://elixir-jp-calendar.fly.dev/</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1239)</span>ElixirImp#26：「Elixir生誕10周年」を締めくくる大LT会（お仕事系もOK）
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://fukuokaex.connpass.com/event/263738/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/16 19:30 ～ 21:00
+開催場所: フルリモート（ご自宅やオフィス等、各自の拠点）
+
+「ElixirImp」とは？
+「ElixirImp」は、「Elixir実装の芽をみんなで愛でる」コミュニティです
+ElixirImpのLT（Lightning Talk）会は、様々な「Elixir実装の芽」…つまり、みなさんがElixirで作ったもの（個人、仕事、もくもく会、技術書典などを問わず）を持ち寄り、みんなで一緒に愛でる会です
+
+下記のようなスライド主体のLT会もあれば、VSCodeやQiitaコラムを一緒に眺めてハックする回もあります
+
+閉会後の「リモート呑み会」では、Zoom上にて「Elixirのこういう話を聞きたい」や「Elixir／Phoenixのお仕事情報を聞きたい」をアルケミスト（Elixir経験者）に聞いたり、本会では聞けなかった突っ込んだ話、現場のリアルなんかを、登壇者や参加者とワイワイする時間帯もあります（その後の三次会があるときは、下図のようにVRプラットフォーム内で一緒に遊んだりもします）
+
+参加にあたってのご準備
+【最重要】カンパイスタートの会なので、お酒 or ソフトドリンク、お菓子 or ご飯をご用意してください
+イベント申込後、本ページ上部に出てくる「参加者への情報」欄をご覧いただき、事前参加準備をお願いします
+事前にElixir／PhoenixをインストールしたPCをお持ちいただくと、発表内容をその場で試したりできるかも
+Zoom接続さえできれば、本人でも、SnapCameraでも、2Dアバター／3D（VR）アバターでも、お好きな姿・形（18禁はお断り）でご参加OKの、「対面」と「アバター」が混在する「未来指向の技術コミュニティ」でもあります
+タイムテーブル
+時間
+発表者
+内容
+
+
+
+
+19:30-19:40
+ FLICK
+会の趣旨説明、録画のご案内、カンパイ挨拶＋Zoom記念撮影
+
+
+19:40-19:50
+（募集中）
+（募集中）
+
+
+19:50-20:00
+（募集中）
+（募集中）
+
+
+20:00-20:10
+（募集中）
+（募集中）
+
+
+20:10-20:20
+（募集中）
+（募集中）
+
+
+20:20-20:30
+（募集中）
+（募集中）
+
+
+20:30-20:40
+（募集中）
+（募集中）
+
+
+20:40-20:50
+（募集中）
+（募集中）
+
+
+20:50-21:00
+（募集中）
+（募集中）
+
+
+21:00-21:10
+（告知したい方）
+Elixirイベントの告知タイム
+
+
+21:10-22:00
+（懇親したい方）
+リモート呑み会（適宜、流れ解散です）
+
+
+
+Webやエッジコンピューティング、IoTの開発で実践的に使えるElixir
+一般的に「関数型言語」と言えば、言語の習得が難しく、組織として選定しづらいイメージがありますが、Elixirは、言語仕様や構文がシンプルかつ簡単なので、「育成や習得の容易性」を切り捨てること無く、関数型のメリットも享受できます
+「Elixirならでは」のメリットは、以下の通りです
+習得がカンタンで、ムダな記述も無いため、プログラミング経験が無い入門者・初級者に、実は向いている
+データや処理を、上から下、左から右の自然な流れで書ける「パイプ」が直感的でイイッ
+JSONパースが得意なので、Google APIやBacklog API等、様々なWeb APIとの連携にとても強い
+マルチコアCPUを簡単にフル活用できる
+データ変換とバイナリデータ検索に特化しているので、ファイルヘッダ解析やIoT／ドローン制御にも向いている
+長期間の安定運用を実現してきた「Erlang VM」の元で動作する
+変数の形や値で「パターンマッチ」できて、さらに関数の引数でも可能な数少ない言語（快感すら感じる）
+さらに、関数型としてのメリットも、上乗せされます
+状態が無いことで、同じ入力を何度行っても同じ出力しか返さないので、意図しない挙動にならない
+変数がイミュータブル（作成後にその状態が不変）なので、マルチスレッドや並行処理で競合しない
+プログラム構造が小さな関数群で構成され、シンプルに保たれるため、変更容易性が向上する
+少ないコードで、凝縮度の高い高度な処理が書ける
+リスト設計に慣れていくと、他言語で数百行かかる複雑な処理も、数行のコードで組むことが可能になる
+できあがったコードは、オブジェクト指向言語の1/100の量になることもあり、見た目も100倍エレガント
+オブジェクト指向言語経験者の移行は大変（関数型全般に言える）だが、移行後は、何倍も生産性が高まる
+実際に、Elixirがどの位カンタンに習得できるかと言うと、たった3つの関数を覚えるだけ、30分～1時間もあれば、Web＋DB／Web＋API／Webグラフ表示まで実現できてしまいます
+通常の関数型言語と一線を画す、このElixir／Phoenixのパワーを直接体感してみたい方は、「ExcelでElixirマスター」シリーズをご覧ください
+Elixirコミュニティに初めて接する方は下記がオススメです
+Elixirコミュニティ の歩き方 －国内オンライン編－
+https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian
+
+日本には28箇所のElixirコミュニティがあります
+
+日程からイベントを探すならElixirイベントカレンダー📆
+ Elixirイベントカレンダー 
+https://elixir-jp-calendar.fly.dev/</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 1019)</span>～はじめてのUiPath Studio 入門ハンズオン～
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://focus-s.connpass.com/event/263807/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/12/27 10:00 ～ 17:00
+開催場所: オンライン
+
+
+UiPath Studioの基本的な操作やワークフローの作成方法をハンズオン形式で学ぶことができます。
+
+
+
+※注意事項※
+
+＜受講の準備＞
+お客様にて下記のご準備をお願いいたします。
+
+・Zoomのインストール
+
+・UiPath Studio community editionのインストール
+
+
+
+＜定期開催スケジュール＞
+
+
+
+
+開催日
+時間
+開催場所
+定員
+
+
+
+
+2022年11月8日(火)
+10:00～17:00
+オンライン
+5名
+
+
+2022年11月29日(火)
+10:00～17:00
+オンライン
+5名
+
+
+2022年12月13日(火)
+10:00～17:00
+オンライン
+5名
+
+
+2022年12月27日(火)
+10:00～17:00
+オンライン
+5名
+
+
+
+
+
+
+
+
+
+UiPathの導入をご検討中の方から、導入後の活用にお悩みの方まで、
+
+個人情報の取り扱いについて
+
+お申し込みの際は、必ず以下の詳細をご確認ください。
+個人情報の取り扱いに関する同意書
+
+
+
+ご入力いただいた内容により、担当部門にて対応させていただく必要があると判断した場合、お客さまの情報を、当社内担当部門に提供することがあります。
+
+あらかじめご了承ください。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 1019)</span>～はじめてのUiPath Studio 入門ハンズオン～
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://focus-s.connpass.com/event/263806/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/12/13 10:00 ～ 17:00
+開催場所: オンライン
+
+
+UiPath Studioの基本的な操作やワークフローの作成方法をハンズオン形式で学ぶことができます。
+
+
+
+※注意事項※
+
+＜受講の準備＞
+お客様にて下記のご準備をお願いいたします。
+
+・Zoomのインストール
+
+・UiPath Studio community editionのインストール
+
+
+
+＜定期開催スケジュール＞
+
+
+
+
+開催日
+時間
+開催場所
+定員
+
+
+
+
+2022年11月8日(火)
+10:00～17:00
+オンライン
+5名
+
+
+2022年11月29日(火)
+10:00～17:00
+オンライン
+5名
+
+
+2022年12月13日(火)
+10:00～17:00
+オンライン
+5名
+
+
+2022年12月27日(火)
+10:00～17:00
+オンライン
+5名
+
+
+
+
+
+
+
+
+
+UiPathの導入をご検討中の方から、導入後の活用にお悩みの方まで、
+
+個人情報の取り扱いについて
+
+お申し込みの際は、必ず以下の詳細をご確認ください。
+個人情報の取り扱いに関する同意書
+
+
+
+ご入力いただいた内容により、担当部門にて対応させていただく必要があると判断した場合、お客さまの情報を、当社内担当部門に提供することがあります。
+
+あらかじめご了承ください。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
                   <span class="article-reading-time">(<time>3 min</time> : 962)</span>[初心者向け] IoTセキュリティハンズオンセミナー
                 </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://iot-security-center.connpass.com/event/263267/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
@@ -2432,6 +2819,69 @@ LT4
 当日に、管理者がイベントにそぐわない方だと判断した場合、その方へ理由をお伝えし、ご退席をお願いさせて頂きます。主な理由として、場を乱す行為や、何かしらの犯罪行為もしくはそれに繋がる行為をした場合となります。
 ご参加いただいた方にもう一度見返すことができるように録画をいたします。
 発表者が秘匿してほしい旨の言及があったことは公開情報に載せないようお願いいたします。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 382)</span>Amazon AppStream 2.0 が Graphical User Interface (GUI) を使用した Linux イメージの作成のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon AppStream 2.0 では、Linux Image Assistant ツールの Graphical User Interface (GUI) サポートを追加しました。今回のリリースにより、Windows AppStream 2.0 イメージを作成するのと同様の簡単な方法で、Linux AppStream 2.0 イメージを作成できるようになりました。新しいツールには全プロセスにわたる詳細な図解ガイダンスがあり、Linux AppStream 2.0 イメージ作成の複雑さを大幅に軽減できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 335)</span>AWS が AWS SAM サーバーレスコネクタをリリース
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>サーバーレスアプリケーションのデベロッパーは、AWS サーバーレスアプリケーションモデル (AWS SAM) で利用できる新しい AWS::Serverless::Connector リソースを使用して、アプリケーションのインフラストラクチャのリソースへの適切なレベルのアクセス許可を簡単に付与できるようになりました。AWS::Serverless::Connector リソースを使用して、デベロッパーはデータとイベントが 2 つのリソース間をどのようにフローする必要があるか、および必要なアクセスの種類を記述します。AWS SAM はコネクタリソースでデベロッパーが定義したやり取りを推し進めるために、専用の AWS Identity and Access Management (AWS IAM) ポリシーを作成します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>AWS Global Accelerator が新しいエッジロケーションを立ち上げ
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Global Accelerator では、ホーチミン市 (ベトナム) とカンザスシティ (米国) の 2 つの新しい AWS エッジロケーションを介するトラフィックのサポートを開始しました。これらの 2 つのエッジロケーションが加わって、Global Accelerator は世界中で 104 の POP (Point Of Presence) で利用でき、21 の AWS リージョンでアプリケーションエンドポイントをサポートするようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://techracho.bpsinc.jp">TechRacho</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1191)</span>週刊Railsウォッチ: Rails向けLanguage Server “refreshing”開発中、JetBrains Fleetほか（20221018前編）
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://techracho.bpsinc.jp/hachi8833/2022_10_18/122766" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>こんにちは、hachi8833です。今週はKaigi on Rails 2022ですね。 告知は諸々についてたくさんしているつもりなんだけど、それでも「知らなかった」という人を観測するので、やりすぎってくらいに告知をしたいと思います。 Kaigi on Railsは今週金曜日です！参加申し込みは以下から！！参加は無料です！！！https://t.co/pLZCJC5e3q — 大倉雅史（OKURA Masafumi） (@okuramasafumi) October 17, 2022 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにど […]
+The post 週刊Railsウォッチ: Rails向けLanguage Server “refreshing”開発中、JetBrains Fleetほか（20221018前編） first appeared on TechRacho.</span>
                   </div>
                 </a>
               </details>
@@ -25656,18 +26106,6 @@ The post 週刊Railsウォッチ:  Ruby 3.2.0 Preview 2とRack 3.0リリース�
                 <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/09/19/286241/" target='_blank'>
                   <div class="article-summary-box-inner">
                     <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1303)</span>パキスタンを襲った壊滅的な大洪水、気候変動で雨量5割増しか
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/s/286100/fingerprints-of-climate-change-are-clear-in-pakistans-devastating-floods/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>8月の降雨量がここ50年で最多となったパキスタンは、洪水により多大な被害を受けた。地球温暖化がこの洪水にどの程度関与しているかは明らかではないが、ワールド・ウェザー・アトリビューションの分析では被害が増した可能性が指摘されている。</span>
                   </div>
                 </a>
               </details>

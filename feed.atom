@@ -2,10 +2,456 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T09:07:47.451Z</updated>
+    <updated>2022-10-18T10:03:20.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ElixirImp#27：「LTしてくれた方々への感謝祭」という名の忘年会]]></title>
+        <id>https://fukuokaex.connpass.com/event/263809/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://fukuokaex.connpass.com/event/263809/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-18T09:49:36.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/21 19:30 ～ 21:00<br />開催場所: フルリモート（ご自宅やオフィス等、各自の拠点）<br /><br /><h1><strong><u>「ElixirImp」とは？</u></strong></h1>
+<p>「ElixirImp」は、「Elixir実装の芽をみんなで愛でる」コミュニティです</p>
+<p>ElixirImpのLT（Lightning Talk）会は、様々な「Elixir実装の芽」…つまり、みなさんがElixirで作ったもの（個人、仕事、もくもく会、技術書典などを問わず）を持ち寄り、みんなで一緒に愛でる会です</p>
+<p><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/e8dfe664-8ccf-bec5-251c-2577a8f1cb75.png"></p>
+<p>下記のようなスライド主体のLT会もあれば、VSCodeやQiitaコラムを一緒に眺めてハックする回もあります</p>
+<p><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/4eada361-472d-a544-7700-a986e4e0d66e.png"></p>
+<p>閉会後の「リモート呑み会」では、Zoom上にて「Elixirのこういう話を聞きたい」や「Elixir／Phoenixのお仕事情報を聞きたい」をアルケミスト（Elixir経験者）に聞いたり、本会では聞けなかった突っ込んだ話、現場のリアルなんかを、登壇者や参加者とワイワイする時間帯もあります（その後の三次会があるときは、下図のようにVRプラットフォーム内で一緒に遊んだりもします）</p>
+<p><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c8afb831-8155-31be-12b6-9894c8c0d604.png"></p>
+<h1><strong><u>参加にあたってのご準備</u></strong></h1>
+<ul>
+<li><strong><font color="red">【最重要】カンパイスタートの会なので、お酒 or ソフトドリンク、お菓子 or ご飯をご用意してください</font></strong></li>
+<li>イベント申込後、本ページ上部に出てくる「参加者への情報」欄をご覧いただき、事前参加準備をお願いします</li>
+<li>事前にElixir／PhoenixをインストールしたPCをお持ちいただくと、発表内容をその場で試したりできるかも</li>
+<li><strong><font color="blue">Zoom接続さえできれば、本人でも、SnapCameraでも、2Dアバター／3D（VR）アバターでも、お好きな姿・形（18禁はお断り）でご参加OKの、「対面」と「アバター」が混在する「未来指向の技術コミュニティ」でもあります</font></strong></li>
+</ul>
+<h1><b>タイムテーブル</b></h1>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="left">発表者</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">19:30-19:40</td>
+<td align="left"><img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/54/28/54287c9ba4bf6de47aa0a00dac677a09.png" width="23"> <a href="https://connpass.com/user/TewiEwi_no96" rel="nofollow">FLICK</a></td>
+<td align="left">会の趣旨説明、録画のご案内、カンパイ挨拶＋Zoom記念撮影</td>
+</tr>
+<tr>
+<td align="left">19:40-19:55</td>
+<td align="left"><img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/ba/ce/bace7026f19157637bec36d5e47ece9e.png" width="23"> <a href="https://connpass.com/user/piacere" rel="nofollow">piacere</a></td>
+<td align="left">ElixirImpでLTいただいた方々への感謝＋α</td>
+</tr>
+<tr>
+<td align="left">19:55-20:25</td>
+<td align="left">（LTしてくれた皆さま）</td>
+<td align="left">LTいただいた方々から感想の一言を</td>
+</tr>
+<tr>
+<td align="left">20:25-20:50</td>
+<td align="left">（LTしてくれた皆さま）</td>
+<td align="left">パネルディスカッション</td>
+</tr>
+<tr>
+<td align="left">20:50-21:00</td>
+<td align="left">（告知したい方）</td>
+<td align="left">Elixirイベントの告知タイム</td>
+</tr>
+<tr>
+<td align="left">21:10-22:00</td>
+<td align="left">（懇親したい方）</td>
+<td align="left">リモート呑み会（適宜、流れ解散です）</td>
+</tr>
+</tbody>
+</table>
+<h1><u><b>Webやエッジコンピューティング、IoTの開発で実践的に使えるElixir</b></u></h1>
+<p>一般的に「関数型言語」と言えば、言語の習得が難しく、組織として選定しづらいイメージがありますが、Elixirは、言語仕様や構文がシンプルかつ簡単なので、「育成や習得の容易性」を切り捨てること無く、関数型のメリットも享受できます</p>
+<p>「Elixirならでは」のメリットは、以下の通りです</p>
+<ul>
+<li>習得がカンタンで、ムダな記述も無いため、プログラミング経験が無い入門者・初級者に、実は向いている</li>
+<li>データや処理を、上から下、左から右の自然な流れで書ける「パイプ」が直感的でイイッ</li>
+<li>JSONパースが得意なので、Google APIやBacklog API等、様々なWeb APIとの連携にとても強い</li>
+<li>マルチコアCPUを簡単にフル活用できる</li>
+<li>データ変換とバイナリデータ検索に特化しているので、ファイルヘッダ解析やIoT／ドローン制御にも向いている</li>
+<li>長期間の安定運用を実現してきた「Erlang VM」の元で動作する</li>
+<li>変数の形や値で「パターンマッチ」できて、さらに関数の引数でも可能な数少ない言語（快感すら感じる）</li>
+</ul>
+<p>さらに、関数型としてのメリットも、上乗せされます</p>
+<ul>
+<li>状態が無いことで、同じ入力を何度行っても同じ出力しか返さないので、意図しない挙動にならない</li>
+<li>変数がイミュータブル（作成後にその状態が不変）なので、マルチスレッドや並行処理で競合しない</li>
+<li>プログラム構造が小さな関数群で構成され、シンプルに保たれるため、変更容易性が向上する</li>
+<li>少ないコードで、凝縮度の高い高度な処理が書ける</li>
+<li>リスト設計に慣れていくと、他言語で数百行かかる複雑な処理も、数行のコードで組むことが可能になる</li>
+<li>できあがったコードは、オブジェクト指向言語の1/100の量になることもあり、見た目も100倍エレガント</li>
+<li>オブジェクト指向言語経験者の移行は大変（関数型全般に言える）だが、移行後は、何倍も生産性が高まる</li>
+</ul>
+<p>実際に、Elixirがどの位カンタンに習得できるかと言うと、たった3つの関数を覚えるだけ、30分～1時間もあれば、Web＋DB／Web＋API／Webグラフ表示まで実現できてしまいます</p>
+<p>通常の関数型言語と一線を画す、このElixir／Phoenixのパワーを直接体感してみたい方は、<a href="https://qiita.com/piacere/items/6714e1440e3f25fb46a1" rel="nofollow">「ExcelでElixirマスター」シリーズ</a>をご覧ください</p>
+<h1><u><b>Elixirコミュニティに初めて接する方は下記がオススメです</b></u></h1>
+<p><strong>Elixirコミュニティ の歩き方 －国内オンライン編－</strong><br>
+<a href="https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian" rel="nofollow">https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian</a></p>
+<p><a href="https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian" rel="nofollow"><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/f891b7ad-d2c4-3303-915b-f831069e28a4.png"></a></p>
+<p><strong>日本には28箇所のElixirコミュニティがあります</strong><br>
+<img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/7fdc5db7-dfad-9d10-28f8-1e0b8830a587.png"></p>
+<h2>日程からイベントを探すならElixirイベントカレンダー📆</h2>
+<p><strong> Elixirイベントカレンダー </strong><br>
+<a href="https://elixir-jp-calendar.fly.dev/" rel="nofollow">https://elixir-jp-calendar.fly.dev/</a></p>
+<p><a href="https://elixir-jp-calendar.fly.dev/" rel="nofollow"><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/109744/985acaa4-50c9-da42-ae32-50fbf9119e61.png"></a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElixirImp#26：「Elixir生誕10周年」を締めくくる大LT会（お仕事系もOK）]]></title>
+        <id>https://fukuokaex.connpass.com/event/263738/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://fukuokaex.connpass.com/event/263738/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-18T09:40:47.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/16 19:30 ～ 21:00<br />開催場所: フルリモート（ご自宅やオフィス等、各自の拠点）<br /><br /><h1><strong><u>「ElixirImp」とは？</u></strong></h1>
+<p>「ElixirImp」は、「Elixir実装の芽をみんなで愛でる」コミュニティです</p>
+<p>ElixirImpのLT（Lightning Talk）会は、様々な「Elixir実装の芽」…つまり、みなさんがElixirで作ったもの（個人、仕事、もくもく会、技術書典などを問わず）を持ち寄り、みんなで一緒に愛でる会です</p>
+<p><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/e8dfe664-8ccf-bec5-251c-2577a8f1cb75.png"></p>
+<p>下記のようなスライド主体のLT会もあれば、VSCodeやQiitaコラムを一緒に眺めてハックする回もあります</p>
+<p><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/4eada361-472d-a544-7700-a986e4e0d66e.png"></p>
+<p>閉会後の「リモート呑み会」では、Zoom上にて「Elixirのこういう話を聞きたい」や「Elixir／Phoenixのお仕事情報を聞きたい」をアルケミスト（Elixir経験者）に聞いたり、本会では聞けなかった突っ込んだ話、現場のリアルなんかを、登壇者や参加者とワイワイする時間帯もあります（その後の三次会があるときは、下図のようにVRプラットフォーム内で一緒に遊んだりもします）</p>
+<p><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c8afb831-8155-31be-12b6-9894c8c0d604.png"></p>
+<h1><strong><u>参加にあたってのご準備</u></strong></h1>
+<ul>
+<li><strong><font color="red">【最重要】カンパイスタートの会なので、お酒 or ソフトドリンク、お菓子 or ご飯をご用意してください</font></strong></li>
+<li>イベント申込後、本ページ上部に出てくる「参加者への情報」欄をご覧いただき、事前参加準備をお願いします</li>
+<li>事前にElixir／PhoenixをインストールしたPCをお持ちいただくと、発表内容をその場で試したりできるかも</li>
+<li><strong><font color="blue">Zoom接続さえできれば、本人でも、SnapCameraでも、2Dアバター／3D（VR）アバターでも、お好きな姿・形（18禁はお断り）でご参加OKの、「対面」と「アバター」が混在する「未来指向の技術コミュニティ」でもあります</font></strong></li>
+</ul>
+<h1><b>タイムテーブル</b></h1>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="left">発表者</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">19:30-19:40</td>
+<td align="left"><img src="https://connpass-tokyo.s3.amazonaws.com/thumbs/54/28/54287c9ba4bf6de47aa0a00dac677a09.png" width="23"> FLICK</td>
+<td align="left">会の趣旨説明、録画のご案内、カンパイ挨拶＋Zoom記念撮影</td>
+</tr>
+<tr>
+<td align="left">19:40-19:50</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">19:50-20:00</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">20:00-20:10</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">20:10-20:20</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">20:20-20:30</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">20:30-20:40</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">20:40-20:50</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">20:50-21:00</td>
+<td align="left">（募集中）</td>
+<td align="left">（募集中）</td>
+</tr>
+<tr>
+<td align="left">21:00-21:10</td>
+<td align="left">（告知したい方）</td>
+<td align="left">Elixirイベントの告知タイム</td>
+</tr>
+<tr>
+<td align="left">21:10-22:00</td>
+<td align="left">（懇親したい方）</td>
+<td align="left">リモート呑み会（適宜、流れ解散です）</td>
+</tr>
+</tbody>
+</table>
+<h1><u><b>Webやエッジコンピューティング、IoTの開発で実践的に使えるElixir</b></u></h1>
+<p>一般的に「関数型言語」と言えば、言語の習得が難しく、組織として選定しづらいイメージがありますが、Elixirは、言語仕様や構文がシンプルかつ簡単なので、「育成や習得の容易性」を切り捨てること無く、関数型のメリットも享受できます</p>
+<p>「Elixirならでは」のメリットは、以下の通りです</p>
+<ul>
+<li>習得がカンタンで、ムダな記述も無いため、プログラミング経験が無い入門者・初級者に、実は向いている</li>
+<li>データや処理を、上から下、左から右の自然な流れで書ける「パイプ」が直感的でイイッ</li>
+<li>JSONパースが得意なので、Google APIやBacklog API等、様々なWeb APIとの連携にとても強い</li>
+<li>マルチコアCPUを簡単にフル活用できる</li>
+<li>データ変換とバイナリデータ検索に特化しているので、ファイルヘッダ解析やIoT／ドローン制御にも向いている</li>
+<li>長期間の安定運用を実現してきた「Erlang VM」の元で動作する</li>
+<li>変数の形や値で「パターンマッチ」できて、さらに関数の引数でも可能な数少ない言語（快感すら感じる）</li>
+</ul>
+<p>さらに、関数型としてのメリットも、上乗せされます</p>
+<ul>
+<li>状態が無いことで、同じ入力を何度行っても同じ出力しか返さないので、意図しない挙動にならない</li>
+<li>変数がイミュータブル（作成後にその状態が不変）なので、マルチスレッドや並行処理で競合しない</li>
+<li>プログラム構造が小さな関数群で構成され、シンプルに保たれるため、変更容易性が向上する</li>
+<li>少ないコードで、凝縮度の高い高度な処理が書ける</li>
+<li>リスト設計に慣れていくと、他言語で数百行かかる複雑な処理も、数行のコードで組むことが可能になる</li>
+<li>できあがったコードは、オブジェクト指向言語の1/100の量になることもあり、見た目も100倍エレガント</li>
+<li>オブジェクト指向言語経験者の移行は大変（関数型全般に言える）だが、移行後は、何倍も生産性が高まる</li>
+</ul>
+<p>実際に、Elixirがどの位カンタンに習得できるかと言うと、たった3つの関数を覚えるだけ、30分～1時間もあれば、Web＋DB／Web＋API／Webグラフ表示まで実現できてしまいます</p>
+<p>通常の関数型言語と一線を画す、このElixir／Phoenixのパワーを直接体感してみたい方は、<a href="https://qiita.com/piacere/items/6714e1440e3f25fb46a1" rel="nofollow">「ExcelでElixirマスター」シリーズ</a>をご覧ください</p>
+<h1><u><b>Elixirコミュニティに初めて接する方は下記がオススメです</b></u></h1>
+<p><strong>Elixirコミュニティ の歩き方 －国内オンライン編－</strong><br>
+<a href="https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian" rel="nofollow">https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian</a></p>
+<p><a href="https://speakerdeck.com/elijo/elixirkomiyunitei-falsebu-kifang-guo-nei-onrainbian" rel="nofollow"><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/f891b7ad-d2c4-3303-915b-f831069e28a4.png"></a></p>
+<p><strong>日本には28箇所のElixirコミュニティがあります</strong><br>
+<img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/7fdc5db7-dfad-9d10-28f8-1e0b8830a587.png"></p>
+<h2>日程からイベントを探すならElixirイベントカレンダー📆</h2>
+<p><strong> Elixirイベントカレンダー </strong><br>
+<a href="https://elixir-jp-calendar.fly.dev/" rel="nofollow">https://elixir-jp-calendar.fly.dev/</a></p>
+<p><a href="https://elixir-jp-calendar.fly.dev/" rel="nofollow"><img alt="image.png" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/109744/985acaa4-50c9-da42-ae32-50fbf9119e61.png"></a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon AppStream 2.0 が Graphical User Interface (GUI) を使用した Linux イメージの作成のサポートを開始]]></title>
+        <id>dbc792be85ae4be5ee968e145c3e0ec3ed274b34</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/"/>
+        <updated>2022-10-18T09:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon AppStream 2.0 では、Linux Image Assistant ツールの Graphical User Interface (GUI) サポートを追加しました。今回のリリースにより、Windows AppStream 2.0 イメージを作成するのと同様の簡単な方法で、Linux AppStream 2.0 イメージを作成できるようになりました。新しいツールには全プロセスにわたる詳細な図解ガイダンスがあり、Linux AppStream 2.0 イメージ作成の複雑さを大幅に軽減できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS が AWS SAM サーバーレスコネクタをリリース]]></title>
+        <id>57ca6a6e9551cc99e70ce89687d93a19b73eb9ec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/"/>
+        <updated>2022-10-18T09:32:18.000Z</updated>
+        <summary type="html"><![CDATA[サーバーレスアプリケーションのデベロッパーは、AWS サーバーレスアプリケーションモデル (AWS SAM) で利用できる新しい AWS::Serverless::Connector リソースを使用して、アプリケーションのインフラストラクチャのリソースへの適切なレベルのアクセス許可を簡単に付与できるようになりました。AWS::Serverless::Connector リソースを使用して、デベロッパーはデータとイベントが 2 つのリソース間をどのようにフローする必要があるか、および必要なアクセスの種類を記述します。AWS SAM はコネクタリソースでデベロッパーが定義したやり取りを推し進めるために、専用の AWS Identity and Access Management (AWS IAM) ポリシーを作成します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Global Accelerator が新しいエッジロケーションを立ち上げ]]></title>
+        <id>7837016ff3ce082c7036f6142dcef34986fd86d9</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/"/>
+        <updated>2022-10-18T09:31:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS Global Accelerator では、ホーチミン市 (ベトナム) とカンザスシティ (米国) の 2 つの新しい AWS エッジロケーションを介するトラフィックのサポートを開始しました。これらの 2 つのエッジロケーションが加わって、Global Accelerator は世界中で 104 の POP (Point Of Presence) で利用でき、21 の AWS リージョンでアプリケーションエンドポイントをサポートするようになりました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊Railsウォッチ: Rails向けLanguage Server &#8220;refreshing&#8221;開発中、JetBrains Fleetほか（20221018前編）]]></title>
+        <id>https://techracho.bpsinc.jp/hachi8833/2022_10_18/122766</id>
+        <link href="https://techracho.bpsinc.jp/hachi8833/2022_10_18/122766"/>
+        <updated>2022-10-18T09:21:08.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/10/railswatch_20221018_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。今週はKaigi on Rails 2022ですね。 告知は諸々についてたくさんしているつもりなんだけど、それでも「知らなかった」という人を観測するので、やりすぎってくらいに告知をしたいと思います。 Kaigi on Railsは今週金曜日です！参加申し込みは以下から！！参加は無料です！！！https://t.co/pLZCJC5e3q &#8212; 大倉雅史（OKURA Masafumi） (@okuramasafumi) October 17, 2022 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにど [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_10_18/122766" data-wpel-link="internal" target="_self">週刊Railsウォッチ: Rails向けLanguage Server “refreshing”開発中、JetBrains Fleetほか（20221018前編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[～はじめてのUiPath Studio 入門ハンズオン～]]></title>
+        <id>https://focus-s.connpass.com/event/263807/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://focus-s.connpass.com/event/263807/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-18T09:20:35.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/27 10:00 ～ 17:00<br />開催場所: オンライン<br /><br /><p><img alt="タイトル" src="https://s3.techplay.jp/tp-images/event/4f141c4144a3c51d506103d37ddbf5113076ee7c.png">
+UiPath Studioの基本的な操作やワークフローの作成方法をハンズオン形式で学ぶことができます。<br>
+汎用的な操作を通じてRPAを理解していただくことで、実導入への足掛かりとして貢献いたします。</p>
+<p><img alt="こんなお客様におすすめ" src="https://s3.techplay.jp/tp-images/event/df573c073b7fce5ba180bdb5d85f32bb633775dc.png"></p>
+<p><br>
+<img alt="実施概要" src="https://s3.techplay.jp/tp-images/event/351b2551bc5079141397ef04c25a65531fdf3f88.png"></p>
+<p>※注意事項※<br>
+・関東以外へ訪問する場合は、別途出張料金を頂きます。　<br>
+・本研修の録音、録画、教材の無断複製、転載は禁止となります。<br>
+・オンライン受講の場合は、お客様ご自身で受講環境のご準備が必要となります。<br>
+　詳しくは「受講の準備」をご覧ください。<br>
+・本研修は法人を対象にしております。<br>
+<br></p>
+<p><strong><em>＜受講の準備＞</em></strong></p>
+<p>お客様にて下記のご準備をお願いいたします。<br>
+・WindowsOSの入ったPC<br>
+・インターネット環境<br>
+・ヘッドセットやマイク機能付きのイヤホン<br></p>
+<p>・<strong>Zoomのインストール</strong><br>
+　本研修はZoomで行います。事前にインストールをお願いいたします。<br>
+　※参加用URLはお申込み後にお知らせいたします。<br></p>
+<p>・<strong>UiPath Studio community editionのインストール</strong><br>
+　UiPathの開発ツール（無料版）です。事前にインストールをお願いいたします。<br>
+※その他の詳細は、後日メールでお送りさせていただきます。<br></p>
+<p><br></p>
+<h3>＜定期開催スケジュール＞<br></h3>
+<table>
+<thead>
+<tr>
+<th>開催日</th>
+<th>時間</th>
+<th>開催場所</th>
+<th>定員</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2022年11月8日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+<tr>
+<td>2022年11月29日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+<tr>
+<td>2022年12月13日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+<tr>
+<td>2022年12月27日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+</tbody>
+</table>
+<h6></h6>
+<p><br>
+<img alt="6名以上の場合は" src="https://s3.techplay.jp/tp-images/event/23bacca92711c6da1a102c92a7697e9c51dd2142.png"></p>
+<p><br>
+<br>
+<img alt="ロゴとアソシエイト" src="https://s3.techplay.jp/tp-images/event/4eb42847cfbf37b207174dec3e3490a94206d243.png"></p>
+<p>UiPathの導入をご検討中の方から、導入後の活用にお悩みの方まで、<br>
+お客様に合わせてUiPathの学習をサポートいたします。</p>
+<p><br></p>
+<h3>個人情報の取り扱いについて<br></h3>
+<p>お申し込みの際は、必ず以下の詳細をご確認ください。<br>
+<a href="https://bberc.focus-s.com/privacypolicy/" rel="nofollow">個人情報の取り扱いに関する同意書</a><br></p>
+<p><br>
+申込時のアンケートにご入力いただいた個人情報は、お問い合わせへの対応及び当社商品・サービスのご紹介のために利用させていただきます。<br></p>
+<p>ご入力いただいた内容により、担当部門にて対応させていただく必要があると判断した場合、お客さまの情報を、当社内担当部門に提供することがあります。<br></p>
+<p>あらかじめご了承ください。<br></p>
+<p><br>
+<br>
+<br></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[～はじめてのUiPath Studio 入門ハンズオン～]]></title>
+        <id>https://focus-s.connpass.com/event/263806/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://focus-s.connpass.com/event/263806/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-18T09:20:03.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/13 10:00 ～ 17:00<br />開催場所: オンライン<br /><br /><p><img alt="タイトル" src="https://s3.techplay.jp/tp-images/event/4f141c4144a3c51d506103d37ddbf5113076ee7c.png">
+UiPath Studioの基本的な操作やワークフローの作成方法をハンズオン形式で学ぶことができます。<br>
+汎用的な操作を通じてRPAを理解していただくことで、実導入への足掛かりとして貢献いたします。</p>
+<p><img alt="こんなお客様におすすめ" src="https://s3.techplay.jp/tp-images/event/df573c073b7fce5ba180bdb5d85f32bb633775dc.png"></p>
+<p><br>
+<img alt="実施概要" src="https://s3.techplay.jp/tp-images/event/351b2551bc5079141397ef04c25a65531fdf3f88.png"></p>
+<p>※注意事項※<br>
+・関東以外へ訪問する場合は、別途出張料金を頂きます。　<br>
+・本研修の録音、録画、教材の無断複製、転載は禁止となります。<br>
+・オンライン受講の場合は、お客様ご自身で受講環境のご準備が必要となります。<br>
+　詳しくは「受講の準備」をご覧ください。<br>
+・本研修は法人を対象にしております。<br>
+<br></p>
+<p><strong><em>＜受講の準備＞</em></strong></p>
+<p>お客様にて下記のご準備をお願いいたします。<br>
+・WindowsOSの入ったPC<br>
+・インターネット環境<br>
+・ヘッドセットやマイク機能付きのイヤホン<br></p>
+<p>・<strong>Zoomのインストール</strong><br>
+　本研修はZoomで行います。事前にインストールをお願いいたします。<br>
+　※参加用URLはお申込み後にお知らせいたします。<br></p>
+<p>・<strong>UiPath Studio community editionのインストール</strong><br>
+　UiPathの開発ツール（無料版）です。事前にインストールをお願いいたします。<br>
+※その他の詳細は、後日メールでお送りさせていただきます。<br></p>
+<p><br></p>
+<h3>＜定期開催スケジュール＞<br></h3>
+<table>
+<thead>
+<tr>
+<th>開催日</th>
+<th>時間</th>
+<th>開催場所</th>
+<th>定員</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2022年11月8日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+<tr>
+<td>2022年11月29日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+<tr>
+<td>2022年12月13日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+<tr>
+<td>2022年12月27日(火)</td>
+<td>10:00～17:00</td>
+<td>オンライン</td>
+<td>5名</td>
+</tr>
+</tbody>
+</table>
+<h6></h6>
+<p><br>
+<img alt="6名以上の場合は" src="https://s3.techplay.jp/tp-images/event/23bacca92711c6da1a102c92a7697e9c51dd2142.png"></p>
+<p><br>
+<br>
+<img alt="ロゴとアソシエイト" src="https://s3.techplay.jp/tp-images/event/4eb42847cfbf37b207174dec3e3490a94206d243.png"></p>
+<p>UiPathの導入をご検討中の方から、導入後の活用にお悩みの方まで、<br>
+お客様に合わせてUiPathの学習をサポートいたします。</p>
+<p><br></p>
+<h3>個人情報の取り扱いについて<br></h3>
+<p>お申し込みの際は、必ず以下の詳細をご確認ください。<br>
+<a href="https://bberc.focus-s.com/privacypolicy/" rel="nofollow">個人情報の取り扱いに関する同意書</a><br></p>
+<p><br>
+申込時のアンケートにご入力いただいた個人情報は、お問い合わせへの対応及び当社商品・サービスのご紹介のために利用させていただきます。<br></p>
+<p>ご入力いただいた内容により、担当部門にて対応させていただく必要があると判断した場合、お客さまの情報を、当社内担当部門に提供することがあります。<br></p>
+<p>あらかじめご了承ください。<br></p>
+<p><br>
+<br>
+<br></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[初心者向け] IoTセキュリティハンズオンセミナー]]></title>
         <id>https://iot-security-center.connpass.com/event/263267/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -24417,16 +24863,6 @@ Get Property Value History by Entity クエリと Get Property Value History by 
         <updated>2022-09-18T22:52:42.000Z</updated>
         <author>
             <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パキスタンを襲った壊滅的な大洪水、気候変動で雨量5割増しか]]></title>
-        <id>https://www.technologyreview.jp/?p=286100</id>
-        <link href="https://www.technologyreview.jp/s/286100/fingerprints-of-climate-change-are-clear-in-pakistans-devastating-floods/"/>
-        <updated>2022-09-18T21:55:28.000Z</updated>
-        <summary type="html"><![CDATA[8月の降雨量がここ50年で最多となったパキスタンは、洪水により多大な被害を受けた。地球温暖化がこの洪水にどの程度関与しているかは明らかではないが、ワールド・ウェザー・アトリビューションの分析では被害が増した可能性が指摘されている。]]></summary>
-        <author>
-            <name>James Temple</name>
         </author>
     </entry>
     <entry>
