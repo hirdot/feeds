@@ -6,6 +6,76 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "008f6809500ab21897d4cf2d247b8574bc05ef2f",
+          "author": "aws@amazon.com",
+          "description": "AWS Cloud Map が中東 (UAE) AWS リージョンで利用可能になりました。AWS Cloud Map は、クラウドリソース検出サービスです。AWS Cloud Map では、Amazon Elastic Container Services (Amazon ECS) タスク、Amazon Elastic Compute Cloud (Amazon EC2) インスタンス、Amazon DynamoDB テーブル、その他のクラウドリソースなどのアプリケーションリソースのカスタム名を定義できます。その後、このカスタム名を使用することによって、AWS SDK と認証済み API クエリを使用し、アプリケーションからクラウドリソースの場所とメタデータを見つけることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-cloud-map-available-middle-east-uae-aws-region/",
+          "publishedOn": "2022-10-21T20:49:56.000Z",
+          "wordCount": 323,
+          "title": "AWS Cloud Map が中東 (UAE) AWS リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "284132774f6e99f76ac816cb0792aca39ea21541",
+          "author": "aws@amazon.com",
+          "description": "オープンソースコミュニティによる PostgreSQL データベースの更新の発表を受けて、Amazon Aurora PostgreSQL 互換エディションが更新され、PostgreSQL 14.4 がサポートされました。PostgreSQL 14.4 では、CREATE INDEX CONCURRENTLY または REINDEX CONCURRENTLY コマンドを使用した場合にサイレントなデータ破損を起こす可能性がある問題が修正されています。アップグレードの頻度とアップグレードプロセスの計画方法を決定するには、Aurora バージョンポリシーをご覧ください。この問題の修正は、Aurora PostgreSQL 14.3 に含まれています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-aurora-postgresql-14-4-version/",
+          "publishedOn": "2022-10-21T20:48:10.000Z",
+          "wordCount": 327,
+          "title": "Amazon Aurora が、PostgreSQL 14.4 をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5491c12c0ff954bff5c87309246999e724d5122f",
+          "author": "aws@amazon.com",
+          "description": "AWS Lambda では、Amazon MSK、セルフマネージド Kafka、Amazon MQ for Apache ActiveMQ、および Amazon MQ for RabbitMQ のコンテンツフィルタリングオプションのサポートが開始されました。イベントパターンのコンテンツフィルタリングを使用すると、複雑な規則を記述して、Lambda 関数の呼び出しにより有意義なイベントのみが処理されるようにできます。これにより、お客様の Lambda 関数へのトラフィックを減らし、コードを簡素化し、全体的なコストを削減することができます。フィルタリングは、SQS、DynamoDB、および Kinesis を Lambda のイベントソースとして既に利用可能でした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/",
+          "publishedOn": "2022-10-21T20:46:14.000Z",
+          "wordCount": 340,
+          "title": "AWS Lambda が Amazon MSK、セルフマネージド Kafka、Amazon MQ for Apache ActiveMQ、および Amazon MQ for RabbitMQ をイベントソースとしたイベントフィルタリングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7d13740908c91d9d74cc70046ff1ed864e3527b5",
+          "author": "aws@amazon.com",
+          "description": "AWS Gateway Load Balancer のフロー処理動作を定義する新オプションがリリースされました。このオプションを利用すると、ターゲットが失敗または登録解除となった場合に、既存のフローを正常なターゲットに再分散できます。これにより、ターゲットが異常になったときのフェイルオーバーの時間を減らせるうえ、メンテナンス期間中に落ち着いてアプライアンスを修正またはアップグレードすることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/",
+          "publishedOn": "2022-10-21T20:17:17.000Z",
+          "wordCount": 303,
+          "title": "AWS Gateway Load Balancer にターゲットが失敗または登録解除となった場合にフローを再分散する新しいオプションが登場",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5f6420fa649992d6cbcf5083408014dd05c9ca00",
+          "author": "aws@amazon.com",
+          "description": "Amazon EC2 Auto Scaling では、アジアパシフィック (ジャカルタ) リージョンでの予測スケーリングのサポートが開始されました。予測スケーリングでは、将来の需要に備え、Auto Scaling グループを積極的にスケールアウトすることができます。この機能により、容量を過剰にプロビジョニングする必要がなくなり、アプリケーションの応答性を確保しながら EC2 のコストを削減できます。サポートされているすべての AWS パブリックリージョンと AWS GovCloud リージョンのリストを表示するには、ここをクリックしてください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-10-21T19:47:01.000Z",
+          "wordCount": 318,
+          "title": "Amazon EC2 Auto Scaling がアジアパシフィック (ジャカルタ) リージョンで予測スケーリングのサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "35a1daa3497710d5b05f7c562ad30312e8079834",
+          "author": "aws@amazon.com",
+          "description": "ホストの自動フェイルオーバーを備える SAP HANA システムが AWS でデプロイできるようになりました。 ホストの自動フェイルオーバーとは、SAP HANA の全自動ホスト障害復旧ソリューションです。これにより、スタンバイモードのホストを SAP HANA システムに 1 つ以上追加できます。ホストの自動フェイルオーバーを使用すると、SAP HANA はホスト障害 (EC2 インスタンス、OS レベル、または SAP HANA) を自動で検出し、スタンバイホストへの自動フェイルオーバーをトリガーします。結果として、数分で自動的にホストを復旧すること可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/improve-availability-sap-hana-systems-aws-host-auto-failover/",
+          "publishedOn": "2022-10-21T19:46:12.000Z",
+          "wordCount": 380,
+          "title": "「ホストの自動フェイルオーバー」対応により AWS での SAP HANA システムの可用性が向上",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c38514669601bc6ab5b21b16fcd9664bb8fc5ce9",
+          "author": "aws@amazon.com",
+          "description": "AWS Glue は、広く使用されているオープンソースのバージョン管理システムである Git との統合が可能になりました。AWS Glue は、再利用可能なジョブを使用して、どんな規模のデータセットに対してに抽出、変換、ロード (ETL) タスクを実行できるサーバーレスデータ統合サービスです。この機能により、お客様は GitHub と AWS CodeCommit を使用して AWS Glue ジョブの変更履歴を管理し、既存の DevOps プラクティスを適用してそれらのジョブをデプロイできます。これまでは、コードバージョン管理システムを使用して独自の統合をセットアップし、開発環境から運用環境にジョブを移行するためのツールを構築する必要がありました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-glue-git-integration/",
+          "publishedOn": "2022-10-21T19:33:52.000Z",
+          "wordCount": 327,
+          "title": "AWS Glue で Git との統合が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "c968725f9211efd90645917b68273666f59c35c6",
           "author": "aws@amazon.com",
           "description": "本日より、Cost Explorer をお使いのお客様は、コンソールの新しいインターフェイスでコストと使用量を可視化できるようになります。新しい概要ウィジェットでは、月単位の合計コストと平均コストを一目で確認できます。また、テーブルビューに導入された新しい検索機能を使用すると、特定の支出と使用量の情報を参照することもできます。Cost Explorer の使いやすいインターフェイスでは、AWS のコストと使用量の経時的変化を可視化し、理解しやすい状態で管理できます。大まかにデータを分析したり (例: すべてのアカウントの合計コストと使用量)、コストと使用量のデータを詳細に分析して傾向、コスト要因、異常を特定したりできます。",
@@ -3024,86 +3094,6 @@
           "wordCount": 392,
           "title": "CUEによるスキーマやバリデーションのポータビリティ",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1936-go_2.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/daily-linux-220922",
-          "author": null,
-          "description": "The GNOME Foundationは9月21日、かねてからのスケジュール通りにGNOME 43 ”Guadalajara”の正式リリースを公開した。",
-          "link": "https://gihyo.jp/article/2022/09/daily-linux-220922?utm_source=feed",
-          "publishedOn": "2022-09-22T07:30:00.000Z",
-          "wordCount": null,
-          "title": "GNOME 43 ”Guadalajara”がリリース、主要コンポーネントの多くがGTK4に移植",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/windows11-upudate-2022",
-          "author": null,
-          "description": "Microsoftは2022年9月21日、同社のOSの最新版Windows 11初となる大型アップデート「Windows 11 2022 Update」をリリース)した。",
-          "link": "https://gihyo.jp/article/2022/09/windows11-upudate-2022?utm_source=feed",
-          "publishedOn": "2022-09-22T06:12:00.000Z",
-          "wordCount": 193,
-          "title": "Windows 11初となる大型アップデート――Windows 11 2022 Updateリリース",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1958_win11.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/phpcon2022-information",
-          "author": null,
-          "description": "プログラミング言語PHPのイベント「PHPカンファレンス2022」が明後日9月24日、25日の2日間にわたって開催される。",
-          "link": "https://gihyo.jp/article/2022/09/phpcon2022-information?utm_source=feed",
-          "publishedOn": "2022-09-22T04:39:00.000Z",
-          "wordCount": 148,
-          "title": "プログラミング言語PHPのイベント「PHPカンファレンス2022」が今週末9月24日、25日にハイブリッド開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1956_phpcon2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc011-container_build",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「コンテナビルド最新事情 2022版（inductor） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc011-container_build?utm_source=feed",
-          "publishedOn": "2022-09-22T04:08:00.000Z",
-          "wordCount": 203,
-          "title": "コンテナビルド最新事情 2022版 ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1955_techfeed-container_buld.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/cerebras-systems-wafer-scale-engine",
-          "author": null,
-          "description": "約2年半ぶりに注目のチップとAIスパコンを開発するCerebras Systems社を訪問し、現在とこれからの同社の展開について取材しました。",
-          "link": "https://gihyo.jp/article/2022/09/cerebras-systems-wafer-scale-engine?utm_source=feed",
-          "publishedOn": "2022-09-22T00:23:00.000Z",
-          "wordCount": 346,
-          "title": "Cerebras Systems社訪問レポート――Wafer Scale Engineのその先へ、史上最大のチップを作るだけで終わらない彼らの挑戦",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1954_Cerebras.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/rust-monthly-topics-01",
-          "author": null,
-          "description": "本稿では、Rust Survey 2021の結果を眺めて、世界でRustがどのように使われているか、使っている人はどうやってコードを書いているのかなどを紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/rust-monthly-topics-01?utm_source=feed",
-          "publishedOn": "2022-09-22T00:22:00.000Z",
-          "wordCount": 284,
-          "title": "データでわかるRustの開発者達 〜Rust Survey 2021の深堀",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/rust-monthly-topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/illustrator-itpassport-06",
-          "author": null,
-          "description": "本連載は、イラストレーターイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第6回目は過去問題を演習し、感じたことなどを書いています。",
-          "link": "https://gihyo.jp/article/2022/09/illustrator-itpassport-06?utm_source=feed",
-          "publishedOn": "2022-09-22T00:21:00.000Z",
-          "wordCount": 174,
-          "title": "第6回　イシクラ過去問題を解いてみる ～解いてみてわかったこと～",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1911_illustrator-itpassport.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220922",
-          "author": null,
-          "description": "10月6日（日本時間で10月7日23時）に開催されるMade by Googleで、Google初のスマートウォッチ「Pixel Watch」が発表されます。筆者しかり、期待して待っている方も多いはずです。今回は、Pixel Watchの今わかっていることをまとめておきます。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220922?utm_source=feed",
-          "publishedOn": "2022-09-22T00:20:00.000Z",
-          "wordCount": 192,
-          "title": "期待のGoogle Pixel Watch、今わかっていること",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3811,86 +3801,6 @@
           "wordCount": 392,
           "title": "CUEによるスキーマやバリデーションのポータビリティ",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1936-go_2.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/daily-linux-220922",
-          "author": null,
-          "description": "The GNOME Foundationは9月21日、かねてからのスケジュール通りにGNOME 43 ”Guadalajara”の正式リリースを公開した。",
-          "link": "https://gihyo.jp/article/2022/09/daily-linux-220922?utm_source=feed",
-          "publishedOn": "2022-09-22T07:30:00.000Z",
-          "wordCount": 207,
-          "title": "GNOME 43 ”Guadalajara”がリリース、主要コンポーネントの多くがGTK4に移植",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/windows11-upudate-2022",
-          "author": null,
-          "description": "Microsoftは2022年9月21日、同社のOSの最新版Windows 11初となる大型アップデート「Windows 11 2022 Update」をリリース)した。",
-          "link": "https://gihyo.jp/article/2022/09/windows11-upudate-2022?utm_source=feed",
-          "publishedOn": "2022-09-22T06:12:00.000Z",
-          "wordCount": 193,
-          "title": "Windows 11初となる大型アップデート――Windows 11 2022 Updateリリース",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1958_win11.jpg"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/phpcon2022-information",
-          "author": null,
-          "description": "プログラミング言語PHPのイベント「PHPカンファレンス2022」が明後日9月24日、25日の2日間にわたって開催される。",
-          "link": "https://gihyo.jp/article/2022/09/phpcon2022-information?utm_source=feed",
-          "publishedOn": "2022-09-22T04:39:00.000Z",
-          "wordCount": 148,
-          "title": "プログラミング言語PHPのイベント「PHPカンファレンス2022」が今週末9月24日、25日にハイブリッド開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1956_phpcon2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc011-container_build",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「コンテナビルド最新事情 2022版（inductor） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc011-container_build?utm_source=feed",
-          "publishedOn": "2022-09-22T04:08:00.000Z",
-          "wordCount": null,
-          "title": "コンテナビルド最新事情 2022版 ～TechFeed Conference 2022講演より",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/cerebras-systems-wafer-scale-engine",
-          "author": null,
-          "description": "約2年半ぶりに注目のチップとAIスパコンを開発するCerebras Systems社を訪問し、現在とこれからの同社の展開について取材しました。",
-          "link": "https://gihyo.jp/article/2022/09/cerebras-systems-wafer-scale-engine?utm_source=feed",
-          "publishedOn": "2022-09-22T00:23:00.000Z",
-          "wordCount": null,
-          "title": "Cerebras Systems社訪問レポート――Wafer Scale Engineのその先へ、史上最大のチップを作るだけで終わらない彼らの挑戦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/rust-monthly-topics-01",
-          "author": null,
-          "description": "本稿では、Rust Survey 2021の結果を眺めて、世界でRustがどのように使われているか、使っている人はどうやってコードを書いているのかなどを紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/rust-monthly-topics-01?utm_source=feed",
-          "publishedOn": "2022-09-22T00:22:00.000Z",
-          "wordCount": null,
-          "title": "データでわかるRustの開発者達 〜Rust Survey 2021の深堀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/illustrator-itpassport-06",
-          "author": null,
-          "description": "本連載は、イラストレーターイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第6回目は過去問題を演習し、感じたことなどを書いています。",
-          "link": "https://gihyo.jp/article/2022/09/illustrator-itpassport-06?utm_source=feed",
-          "publishedOn": "2022-09-22T00:21:00.000Z",
-          "wordCount": null,
-          "title": "第6回　イシクラ過去問題を解いてみる ～解いてみてわかったこと～",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220922",
-          "author": null,
-          "description": "10月6日（日本時間で10月7日23時）に開催されるMade by Googleで、Google初のスマートウォッチ「Pixel Watch」が発表されます。筆者しかり、期待して待っている方も多いはずです。今回は、Pixel Watchの今わかっていることをまとめておきます。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220922?utm_source=feed",
-          "publishedOn": "2022-09-22T00:20:00.000Z",
-          "wordCount": null,
-          "title": "期待のGoogle Pixel Watch、今わかっていること",
-          "imageUrl": null
         }
       ]
     },
@@ -4598,86 +4508,6 @@
           "wordCount": 392,
           "title": "CUEによるスキーマやバリデーションのポータビリティ",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1936-go_2.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/daily-linux-220922",
-          "author": null,
-          "description": "The GNOME Foundationは9月21日、かねてからのスケジュール通りにGNOME 43 ”Guadalajara”の正式リリースを公開した。",
-          "link": "https://gihyo.jp/article/2022/09/daily-linux-220922?utm_source=feed",
-          "publishedOn": "2022-09-22T07:30:00.000Z",
-          "wordCount": 207,
-          "title": "GNOME 43 ”Guadalajara”がリリース、主要コンポーネントの多くがGTK4に移植",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1897_linux_daily_new.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/windows11-upudate-2022",
-          "author": null,
-          "description": "Microsoftは2022年9月21日、同社のOSの最新版Windows 11初となる大型アップデート「Windows 11 2022 Update」をリリース)した。",
-          "link": "https://gihyo.jp/article/2022/09/windows11-upudate-2022?utm_source=feed",
-          "publishedOn": "2022-09-22T06:12:00.000Z",
-          "wordCount": null,
-          "title": "Windows 11初となる大型アップデート――Windows 11 2022 Updateリリース",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/phpcon2022-information",
-          "author": null,
-          "description": "プログラミング言語PHPのイベント「PHPカンファレンス2022」が明後日9月24日、25日の2日間にわたって開催される。",
-          "link": "https://gihyo.jp/article/2022/09/phpcon2022-information?utm_source=feed",
-          "publishedOn": "2022-09-22T04:39:00.000Z",
-          "wordCount": 148,
-          "title": "プログラミング言語PHPのイベント「PHPカンファレンス2022」が今週末9月24日、25日にハイブリッド開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1956_phpcon2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc011-container_build",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「コンテナビルド最新事情 2022版（inductor） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc011-container_build?utm_source=feed",
-          "publishedOn": "2022-09-22T04:08:00.000Z",
-          "wordCount": 203,
-          "title": "コンテナビルド最新事情 2022版 ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1955_techfeed-container_buld.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/cerebras-systems-wafer-scale-engine",
-          "author": null,
-          "description": "約2年半ぶりに注目のチップとAIスパコンを開発するCerebras Systems社を訪問し、現在とこれからの同社の展開について取材しました。",
-          "link": "https://gihyo.jp/article/2022/09/cerebras-systems-wafer-scale-engine?utm_source=feed",
-          "publishedOn": "2022-09-22T00:23:00.000Z",
-          "wordCount": 346,
-          "title": "Cerebras Systems社訪問レポート――Wafer Scale Engineのその先へ、史上最大のチップを作るだけで終わらない彼らの挑戦",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1954_Cerebras.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/rust-monthly-topics-01",
-          "author": null,
-          "description": "本稿では、Rust Survey 2021の結果を眺めて、世界でRustがどのように使われているか、使っている人はどうやってコードを書いているのかなどを紹介します。",
-          "link": "https://gihyo.jp/article/2022/09/rust-monthly-topics-01?utm_source=feed",
-          "publishedOn": "2022-09-22T00:22:00.000Z",
-          "wordCount": null,
-          "title": "データでわかるRustの開発者達 〜Rust Survey 2021の深堀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/illustrator-itpassport-06",
-          "author": null,
-          "description": "本連載は、イラストレーターイシクラがITパスポートの取得を目指して、独学で勉強する様子を紹介するものです。第6回目は過去問題を演習し、感じたことなどを書いています。",
-          "link": "https://gihyo.jp/article/2022/09/illustrator-itpassport-06?utm_source=feed",
-          "publishedOn": "2022-09-22T00:21:00.000Z",
-          "wordCount": null,
-          "title": "第6回　イシクラ過去問題を解いてみる ～解いてみてわかったこと～",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220922",
-          "author": null,
-          "description": "10月6日（日本時間で10月7日23時）に開催されるMade by Googleで、Google初のスマートウォッチ「Pixel Watch」が発表されます。筆者しかり、期待して待っている方も多いはずです。今回は、Pixel Watchの今わかっていることをまとめておきます。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220922?utm_source=feed",
-          "publishedOn": "2022-09-22T00:20:00.000Z",
-          "wordCount": 192,
-          "title": "期待のGoogle Pixel Watch、今わかっていること",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -4987,16 +4817,6 @@
           "wordCount": 1398,
           "title": "週刊Railsウォッチ: Rack 3アップグレードガイド、Stimpack gemほか（20220926前編）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20220926_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_22/121969",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_cssbundling-rails_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 MITライセンスに基づいて翻訳・公開いたします。 英語記事: https://github.com/rails/cssbundling-rails 原文更新日: 2022/04/30（f4977d5） ライセンス: MIT cssbundling-rails README（翻訳） cssbundling-rails gemは、Tailwind CSS、Bootstrap、Bulma、PostCSS、またはDart Sassを用いてCSSをバンドルおよび処理した後、Railsのアセットパイプライン経由で配信します。このgemは、新しいRailsアプリケーションで上述の好みのバンドラーを利用できるインストーラと [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_22/121969\" data-wpel-link=\"internal\" target=\"_self\">cssbundling-rails README（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_22/121969",
-          "publishedOn": "2022-09-22T08:30:33.000Z",
-          "wordCount": 509,
-          "title": "cssbundling-rails README（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_cssbundling-rails_eyecatch-min.png"
         }
       ]
     },
@@ -6331,16 +6151,6 @@
           "wordCount": 1295,
           "title": "ハチの巣作りにヒント、ドローンが建物をチームで3Dプリント",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/09/22001503/drones-image-two-1400x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/?p=283937",
-          "author": "Tate Ryan-Mosley",
-          "description": "「まったく違う自分になりたい」。そんな女性たちの需要を叶える顔フィルターがインスタグラムでは大人気だ。不健全だという声や美の基準を固定化するといった批判もあるが、多くのクリエイターたちがフィルターの制作に取り組んでいる。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
-          "link": "https://www.technologyreview.jp/s/283937/the-fight-for-instagram-face/",
-          "publishedOn": "2022-09-22T08:11:40.000Z",
-          "wordCount": 1185,
-          "title": "みんなの大好きな「インスタ顔」はこうして作られる",
-          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/19182012/SO22-back-Mosley-filters_thumb-1400x787.png"
         }
       ]
     },
@@ -6349,6 +6159,106 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/264138/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/30 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/264138/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T18:34:02.000Z",
+          "wordCount": 894,
+          "title": "10/30(日)【第1461回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/264137/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/30 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/264137/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T18:32:28.000Z",
+          "wordCount": 894,
+          "title": "10/30(日)【第1460回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://qnn.connpass.com/event/264135/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/31 13:00 ～ 13:30<br />開催場所: オンライン<br /><br /><p>ウェビナーはdiscordでおこない、資料はdiscordで配布します。\n<a href=\"https://discord.gg/ZxF8dAFzxc\" rel=\"nofollow\">https://discord.gg/ZxF8dAFzxc</a></p>",
+          "link": "https://qnn.connpass.com/event/264135/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T15:36:16.000Z",
+          "wordCount": 898,
+          "title": "インデックストラッキング、ETFを量子計算",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/aa/3eaa4f27aae61f01f0ecbfa9cc76208f.png"
+        },
+        {
+          "id": "https://connpass.com/event/264095/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/23 05:30 ～ 07:00<br />開催場所: オンライン<br /><br /><p><del>二度寝をしないため</del> 朝の時間を有効活用するために始めました。\n途中入退室はもちろん自由です。</p>\n<p>アプリ開発をメインにやっていきます。言語等の縛りはとくにありません。\n僕はDRF+NEXT.jsかFlutterをメインにやっていく予定です。</p>\n<p>このような会の開催に慣れていないので至らぬ点が多々あるかと思いますが、\nよろしければご参加ください</p>",
+          "link": "https://connpass.com/event/264095/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T14:27:08.000Z",
+          "wordCount": 883,
+          "title": "アプリ開発もくもく会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/13/4c/134c52910eb69891323f8b9fed019a89.png"
+        },
+        {
+          "id": "https://tech-residence.connpass.com/event/264129/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/03 10:00 ～ 12:00<br />開催場所: 東京都世田谷区玉川２丁目２６ー１５<br /><br />",
+          "link": "https://tech-residence.connpass.com/event/264129/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T13:54:32.000Z",
+          "wordCount": 888,
+          "title": "ISUCON本ゆる輪読会#9",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/b5/3d/b53d6b611dbed56ce8e4d6eb5ebef8ec.png"
+        },
+        {
+          "id": "https://sebasic.connpass.com/event/264128/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/26 20:00 ～ 21:30<br />開催場所: 東京都豊島区南池袋2-24-5 加藤ビル<br /><br /><h1>実際に手を動かしたい方は、ぜひお越しください！！</h1>\n<p>夜にハンズオンで手を動かしたい、何かしらの学びを得たいエンジニアからのお声に応えてのワークショップを開催いたします！オンラインではできないことをしっかりやって、力にしていきましょう♪♪\n<br></p>\n<p>文系・情報系どちらも初心から勉強できる、全員参加型のITの「ハンズオン実践」です。</p>\n<p>IT業界の勉強を何から始めたらいいかわからない、技術の知識を深めたいが何からしたらいいかわからない、\n<br>という方々を対象のLinuxのシェルスクリプトの講座です。お気軽にご参加ください(#^.^#)\n<br></p>\n<ul>\n<li>IT業界の勉強を何から始めたらいいかわからない</li>\n<li>Linuxに興味があるが利用したことはない、\nという方々を対象に、Linux環境でシェルスクリプトの作成の仕方、コマンドの勉強会です。すでにLinux環境をお持ちのかたは並行してハンズオン形式でご参加いただけます。</li>\n</ul>\n<p>開発・構築・運用・保守、ソフトウェアのアプリやWeb,ハードウェアの組み込みやロボット,ネットワークインフラやセキュリティのいずれの分野であっても、Linuxは勉強しておいて損はない言語です。<strong>すべての入り口たりえます！</strong></p>\n<h1>補足</h1>\n<ul>\n<li>PCをご持参ください。資料を見ながら学習するのに必要です！！</li>\n<li>今後Linuxを含むIT業界を学んでいくための基盤になる内容になっていますので、必要な予備知識は特にありません。 </li>\n<li>IT初心者の業界への入り口としてのIT勉強会となっております。</li>\n</ul>\n<p>なお、VirtualBoxを活用してCentOSをベースにした内容になっていますので、実務経験経験が少しでもある方やLinuxサーバを立てた後本格的に学びたい方にはお勧めしません。</p>\n<h1>こんな方にお勧めです</h1>\n<ul>\n<li>新卒や転職で文系から移ってきた初心者</li>\n<li>IT業界に「入社～1年前後」いるが、未だ業界や勉強の仕方に悩まれている方</li>\n<li>社会人の方のみならず、学生さんの参加も歓迎です！</li>\n</ul>\n<h1>対象者</h1>\n<ul>\n<li>Linuxに興味があるけどさわった経験のない方</li>\n<li>Wi-Fi接続可能なノートパソコンをお持ちの方</li>\n</ul>\n<h1>日時と場所</h1>\n<ul>\n<li>時間：早朝または午前　</li>\n<li>場所：ジョナサン 池袋駅南口店</li>\n<li>基本的に朝で開講いたしますので、ご希望の方はお問い合わせいただければ夜のマンツーマンも可能です。</li>\n</ul>\n<h1>注意事項</h1>\n<ul>\n<li>途中参加や途中退出は事前にお申し出ください。</li>\n<li>また、無断欠席や当日欠席の回数が多い方は他イベントも含めて参加をご遠慮していただく場合がございます。</li>\n</ul>\n<h1>当日の流れ</h1>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5分〜</td>\n<td>受付開始・講師紹介</td>\n</tr>\n<tr>\n<td>15分</td>\n<td>座学(LinuxやIt業界について)</td>\n</tr>\n<tr>\n<td>55分</td>\n<td>ハンズオン開始</td>\n</tr>\n<tr>\n<td>15分</td>\n<td>質疑応答&amp;懇親会・まとめ</td>\n</tr>\n</tbody>\n</table>\n<p>※ 当日予告なく時間配分・内容が変更になる可能性がございます。</p>\n<h1>必要な物</h1>\n<ul>\n<li>当日の参加費</li>\n<li>ノートパソコン</li>\n<li>携帯電話（当日の緊急連絡用に。）</li>\n</ul>\n<h1>この勉強会で身につくもの</h1>\n<ul>\n<li>IT業界の勉強をどのように始めたらよいのかがわかる</li>\n<li>Linuxを通して、プログラミングやインフラのバックグラウンドの勉強の仕方がわかる</li>\n<li>プログラミング言語に関わらず、土台となる入り口がわかる</li>\n</ul>\n<h1>その他</h1>\n<ul>\n<li>無線アクセス環境はこちらで用意します。</li>\n<li>各参加者利用可能な電源がありますので、PCやスマホの充電などにご利用ください。</li>\n<li>あくまで、初心者向けのLinux講座なので、高度な技術を学びたい方、技術経験や経歴が高い方にはおすすめしません。</li>\n<li>全体で定員になり次第締め切りといたします！！</li>\n<li>欠席される場合は、24時間前までにお願いいたします。全体で毎回10名近く参加されますので、当日欠席などで他参加者への迷惑と判断した場合は、グループから外れていただくこともありますのでご了承ください。</li>\n</ul>",
+          "link": "https://sebasic.connpass.com/event/264128/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T13:03:21.000Z",
+          "wordCount": 1003,
+          "title": "SEベーシック～インフラ初心者プログラミング～",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2d/c0/2dc0d79829ca781af9902a53fc1e1265.png"
+        },
+        {
+          "id": "https://sebasic.connpass.com/event/264127/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/24 20:30 ～ 22:00<br />開催場所: 東京都豊島区南池袋2-24-5 加藤ビル<br /><br /><h1>実際に手を動かしたい方は、ぜひお越しください！！</h1>\n<p>夜にハンズオンで手を動かしたい、何かしらの学びを得たいエンジニアからのお声に応えてのワークショップを開催いたします！オンラインではできないことをしっかりやって、力にしていきましょう♪♪\n<br></p>\n<p>文系・情報系どちらも初心から勉強できる、全員参加型のITの「ハンズオン実践」です。</p>\n<p>IT業界の勉強を何から始めたらいいかわからない、技術の知識を深めたいが何からしたらいいかわからない、\n<br>という方々を対象のLinuxのシェルスクリプトの講座です。お気軽にご参加ください(#^.^#)\n<br></p>\n<ul>\n<li>IT業界の勉強を何から始めたらいいかわからない</li>\n<li>Linuxに興味があるが利用したことはない、\nという方々を対象に、Linux環境でシェルスクリプトの作成の仕方、コマンドの勉強会です。すでにLinux環境をお持ちのかたは並行してハンズオン形式でご参加いただけます。</li>\n</ul>\n<p>開発・構築・運用・保守、ソフトウェアのアプリやWeb,ハードウェアの組み込みやロボット,ネットワークインフラやセキュリティのいずれの分野であっても、Linuxは勉強しておいて損はない言語です。<strong>すべての入り口たりえます！</strong></p>\n<h1>補足</h1>\n<ul>\n<li>PCをご持参ください。資料を見ながら学習するのに必要です！！</li>\n<li>今後Linuxを含むIT業界を学んでいくための基盤になる内容になっていますので、必要な予備知識は特にありません。 </li>\n<li>IT初心者の業界への入り口としてのIT勉強会となっております。</li>\n</ul>\n<p>なお、VirtualBoxを活用してCentOSをベースにした内容になっていますので、実務経験経験が少しでもある方やLinuxサーバを立てた後本格的に学びたい方にはお勧めしません。</p>\n<h1>こんな方にお勧めです</h1>\n<ul>\n<li>新卒や転職で文系から移ってきた初心者</li>\n<li>IT業界に「入社～1年前後」いるが、未だ業界や勉強の仕方に悩まれている方</li>\n<li>社会人の方のみならず、学生さんの参加も歓迎です！</li>\n</ul>\n<h1>対象者</h1>\n<ul>\n<li>Linuxに興味があるけどさわった経験のない方</li>\n<li>Wi-Fi接続可能なノートパソコンをお持ちの方</li>\n</ul>\n<h1>日時と場所</h1>\n<ul>\n<li>時間：早朝または夜　</li>\n<li>場所：池袋</li>\n<li>基本的に朝で開講いたしますので、ご希望の方はお問い合わせいただければ夜のマンツーマン等も可能です。</li>\n</ul>\n<h1>注意事項</h1>\n<ul>\n<li>途中参加や途中退出は事前にお申し出ください。</li>\n<li>また、無断欠席や当日欠席の回数が多い方は他イベントも含めて参加をご遠慮していただく場合がございます。</li>\n</ul>\n<h1>当日の流れ</h1>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>5分〜</td>\n<td>受付開始・講師紹介</td>\n</tr>\n<tr>\n<td>15分</td>\n<td>座学(LinuxやIt業界について)</td>\n</tr>\n<tr>\n<td>55分</td>\n<td>ハンズオン開始</td>\n</tr>\n<tr>\n<td>15分</td>\n<td>質疑応答&amp;懇親会・まとめ</td>\n</tr>\n</tbody>\n</table>\n<p>※ 当日予告なく時間配分・内容が変更になる可能性がございます。</p>\n<h1>必要な物</h1>\n<ul>\n<li>当日の参加費</li>\n<li>ノートパソコン</li>\n<li>携帯電話（当日の緊急連絡用に。）</li>\n</ul>\n<h1>この勉強会で身につくもの</h1>\n<ul>\n<li>IT業界の勉強をどのように始めたらよいのかがわかる</li>\n<li>Linuxを通して、プログラミングやインフラのバックグラウンドの勉強の仕方がわかる</li>\n<li>プログラミング言語に関わらず、土台となる入り口がわかる</li>\n</ul>\n<h1>その他</h1>\n<ul>\n<li>無線アクセス環境はこちらで用意します。</li>\n<li>各参加者利用可能な電源がありますので、PCやスマホの充電などにご利用ください。</li>\n<li>あくまで、初心者向けのLinux講座なので、高度な技術を学びたい方、技術経験や経歴が高い方にはおすすめしません。</li>\n<li>全体で定員になり次第締め切りといたします！！</li>\n<li>欠席される場合は、24時間前までにお願いいたします。全体で毎回10名近く参加されますので、当日欠席などで他参加者への迷惑と判断した場合は、グループから外れていただくこともありますのでご了承ください。</li>\n</ul>",
+          "link": "https://sebasic.connpass.com/event/264127/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T13:00:55.000Z",
+          "wordCount": 1000,
+          "title": "SEベーシック～初心者Linux構築編～",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/80/52/8052a0e5ebab9b381e509abdfe619293.png"
+        },
+        {
+          "id": "https://yuruora.connpass.com/event/264121/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/29 10:00 ～ 12:00<br />開催場所: オンライン<br /><br /><p>Jenkins本の「［改訂第3版］Jenkins実践入門 ――ビルド・テスト・デプロイを自動化する技術」(WEB＋DB PRESSプラスシリーズ)の読書会です！！<br>\n参加者で順番に読んでいきましょう<br>\n本は各々でご購入しておいてください<br>\nJenkins全然わからない人から詳しい人まで誰でも大歓迎です<br>\n<br>\nドタキャンや途中入退出は自由です。無言で抜けても問題ないので気軽にやりましょう<br>\n入門者向けの会ですので、質問等はどんどんしてください<br>\n答えられる人がいるかは謎です<br>\n<br></p>\n<table>\n<thead>\n<tr>\n<th align=\"center\">日付</th>\n<th align=\"center\">進捗</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">10/29</td>\n<td align=\"center\">P.1～</td>\n</tr>\n</tbody>\n</table>",
+          "link": "https://yuruora.connpass.com/event/264121/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T11:25:52.000Z",
+          "wordCount": 922,
+          "title": "「［改訂第3版］Jenkins実践入門 ――ビルド・テスト・デプロイを自動化する技術」読書会1",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cb/95/cb95ae8aabfc8ec4d5a66ee58a9cb4c8.png"
+        },
+        {
+          "id": "https://youth-engineer-mokumoku.connpass.com/event/263354/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/29 13:30 ～ 19:00<br />開催場所: オンライン開催<br /><br /><h1><strong>今回はリモート開催となります</strong></h1>\n<p><font size=\"4\">リモート会では Slack 上でのコミニュケーションに加えて、オフライン会のように Zoom 等を利用して自己紹介や成果発表を実施します(任意参加です)。詳細は Slack でご案内いたします。</font></p>\n<p>もくもく会にご参加の方は、下記の Slack 招待リンクからワークスペースにジョインしてください。</p>\n<h1>概要</h1>\n<p>(若手？)エンジニアのためのもくもく会です。 各々やりたいことを黙々やりましょう。  </p>\n<h1>どんなもくもく会？</h1>\n<p>参加者同士の交流歓迎なもくもく会です(もくもくタイム中も交流OK!)。\n(若手？)の基準は特に設けてません。</p>\n<p>参加者の方々は以下のような活動をされていることが多いです。</p>\n<ul>\n<li>Rails, Laravel, Django, SpringBoot等のバックエンドのフレームワークの学習</li>\n<li>JavaScript, Ruby, Python, Java, Kotlin等のプログラミング言語の学習</li>\n<li>Vue.js, React, jQuery等のフロントエンドのライブラリの学習</li>\n<li>AWS, GCP等のクラウドサービスの学習</li>\n<li>エンジニアへの転職を目指しポートフォリオを製作</li>\n<li>ハッカソン等に向けたチーム活動</li>\n<li>LT登壇に向けた登壇資料の作成</li>\n<li>ブログ記事の執筆</li>\n<li>電子工作、基板設計、IoT</li>\n<li>競技プログラミングの学習</li>\n<li>資格の勉強</li>\n</ul>\n<h1>Slack</h1>\n<p>もくもく会に参加される方は、以下のリンクから Slack ワークスペースへの参加をお願いします:</p>\n<p><a href=\"https://join.slack.com/t/tech95/shared_invite/enQtNDk0NjEwMjQ3OTQyLThlZWM2YzQ2ZTc5OTQ5NDE5ZjdhODQzODhjYTZjMzI1MDFmNDUzMTQ3N2RjMmQ2YmE5ZTY1ODllZThiYzVhMDg\" rel=\"nofollow\">招待リンク</a></p>\n<p>Slackのチャンネル #wakate-mokumoku で自己紹介と今日やる事の書き込みをお願いします！</p>\n<h1>もくもく会 is 何？</h1>\n<p>一つの場所に集まって、各自（個人でも、グループでも）がやりたいことをやる会です。</p>\n<p>参加者同士で、技術的な相談や技術談義等しても全然問題ありません。</p>\n<h1>対象者</h1>\n<p>もくもく作業したい方であれば、誰でも問題ありません</p>\n<p>個人サービス、プロダクトの開発を進めたい</p>\n<p>新しい言語やフレームワークの勉強をしたい</p>\n<p>プログラミングを身に着けたい</p>\n<p>どんな方でもお気軽にお越しください。</p>\n<h1>持ち物</h1>\n<p>PC</p>\n<p>その他、もくもくできる書籍、道具など</p>\n<h1>参加費</h1>\n<p>無料です。</p>\n<h1>スケジュール</h1>\n<table>\n<thead>\n<tr>\n<th align=\"center\">内容</th>\n<th align=\"center\">時間</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">集合※1</td>\n<td align=\"center\">13:20 〜 13:30</td>\n</tr>\n<tr>\n<td align=\"center\">自己紹介・やること紹介</td>\n<td align=\"center\">13:30 〜 13:40</td>\n</tr>\n<tr>\n<td align=\"center\">もくもく</td>\n<td align=\"center\">13:40 〜 18:20</td>\n</tr>\n<tr>\n<td align=\"center\">成果発表など</td>\n<td align=\"center\">18:20 〜 18:30</td>\n</tr>\n<tr>\n<td align=\"center\">雑談会・LT(登壇者いれば)</td>\n<td align=\"center\">18:30 〜 19:00</td>\n</tr>\n<tr>\n<td align=\"center\">終了</td>\n<td align=\"center\">19:00</td>\n</tr>\n</tbody>\n</table>\n<p>※ 途中退場は自由です。</p>\n<p>※1: 13:20頃に Slack の #wakate-mokumoku に Zoom の招待リンクを貼ります。Zoom での自己紹介・やること紹介にぜひご参加ください(ビデオのオン/オフは任意です)。Zoom には参加せずテキスト(Slack)で自己紹介・やること紹介をすることも可能です。</p>\n<p>その他\n質問等があったら、イベントページ最下部のフィードか、\n開催者のツイッターに気軽にご連絡ください。(ツイッターの方が反応がいいです。)  <a href=\"https://twitter.com/mascii_k\" rel=\"nofollow\">https://twitter.com/mascii_k</a></p>\n<h1>イベント行動規範</h1>\n<p>(若手？)エンジニアもくもく会は「安心してもくもくできる」環境を大切にしています。\nこれからも、より安心してもくもくできる会であり続けるため、イベント行動規範を定めました。\nもくもく会に参加される際は、以下の行動規範に準拠されるよう、お願いします。</p>\n<h2>もくもく会の趣旨と反することはしない</h2>\n<p>もくもく会の目的を理解し、目的にそぐわない行動はしないよう努めてください。</p>\n<h2>ハラスメントはしない</h2>\n<p>ハラスメントには、ジェンダー・アイデンティティーと性表現、性的指向、障がい、ニューロ・ダイバーシティ、外見、身体の大きさ、民族、国籍、人種、年齢、宗教、その他の保護対象事項、また公共の場での不適切画像、意図的な脅迫、ストーカー、追い掛け行為、写真や動画撮影による嫌がらせ行為、及び、講演やイベントの断続的な妨害、侮辱的な言動、不適切な身体的接触、不愉快な視線などによってマイノリティなどの社会的弱者の支配を促す言動が含まれますが、これに限定されるものではありません。\nハラスメント行為を止めるように言われた参加者は、直ちに従ってください。</p>\n<h2>器物の損壊をしない、危険な物を持ち込まない</h2>\n<p>イベント会場の内装や付属の調度品などを故意に壊したり、各会場で使用が禁止されている物を使用したりしないでください。</p>\n<h2>連絡先</h2>\n<p>イベント行動規範に違反している行為を発見した場合は、運営スタッフまでご連絡ください。ご連絡は運営スタッフの twitter DM でも受け付けています。</p>\n<ul>\n<li><a href=\"https://twitter.com/mascii_k\" rel=\"nofollow\">https://twitter.com/mascii_k</a></li>\n<li><a href=\"https://twitter.com/t0yohei\" rel=\"nofollow\">https://twitter.com/t0yohei</a></li>\n<li><a href=\"https://twitter.com/wrongwrong16337\" rel=\"nofollow\">https://twitter.com/wrongwrong16337</a></li>\n</ul>\n<p>今後も安心してもくもくできる会であり続けられるよう、皆様のご理解とご協力をよろしくお願いいたします。</p>",
+          "link": "https://youth-engineer-mokumoku.connpass.com/event/263354/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T11:00:03.000Z",
+          "wordCount": 1218,
+          "title": "(若手？)エンジニアもくもく会 vol.55 @Slack",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/45/e745cd70a011986207410cfa5dc185d7.png"
+        },
+        {
+          "id": "https://voicy.connpass.com/event/264114/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/15 19:00 ～ 21:00<br />開催場所: 日本、〒150-0036 東京都渋谷区南平台町２−１７ A-PLACE渋谷南平台 3階 株式会社Voicy<br /><br /><h2>Bar Voicy でカジュアルに話しませんか？【採用イベント】</h2>\n<p>「Voicyってどんな会社？」「実際どんな人たちが働いているの？」</p>\n<p>事業やプロダクト、働くメンバーやミッション・ビジョンなど。<br>\n現在〜将来関わらず、転職先候補としてVoicyが少しでも気になるあなたに、<br>\n私たちについてもっと知って欲しい。</p>\n<p>そんな思いから、渋谷道玄坂の端の方にある Voicyオフィスにて<br>\nオフライン採用交流イベント「Bar Voicy」を開催します！</p>\n<p>お酒を飲みながら、ぜひカジュアルにお話ししませんか？</p>\n<h2>＼ 当てはまる方はぜひ遊びにきてください！ ／</h2>\n<ul>\n<li>Voicyに興味がある、Voicyの中の人と会ってみたい</li>\n<li>音声Techって盛り上がってる感じするけど、実際どうなの？</li>\n<li>プラットフォームビジネスやクリエイターエコノミーを詳しく知りたい</li>\n<li>Voicyでの職務内容や働き方をもっと詳しくイメージしたい</li>\n<li>カジュアルに情報交換したい</li>\n</ul>\n<h2>※注意事項※ 以下3点を必ずご一読の上ご参加ください。</h2>\n<p>①本イベントは「採用イベント」です。<br>\n転職意欲の高低に関わらず、広くVoicyを知っていただきたいという目的から、参加回数以外の参加要件は設けておりませんが、当日のコンテンツは採用文脈のものになります。パーソナリティー審査やファンミートアップなどの目的でお越しいただいても対応できかねますため、予めご了承ください。（ファンイベント等はメディアチームで適宜企画をしておりますので、そちらをご確認ください！）</p>\n<p>②「初参加の方」を対象としたイベントです。<br>\n多くの方に弊社の内側を知っていただきたいため、恐縮ながら過去に本イベントへご参加された方の再参加はお断りしております。<br>\nただし、弊社社員からの紹介であれば2回目以降もご参加いただけます。</p>\n<p>③最終受付は「19：45」となります。<br>\nビルセキュリティ及びコンテンツの都合上、19：45以降の途中参加はできませんので、当日の入場時刻にご注意ください。</p>\n<p>以上、ご理解のほどよろしくお願い申し上げます。</p>\n<h2>Time Table</h2>\n<ul>\n<li>19:00〜19:40　フリー歓談タイム</li>\n<li>19:40〜19:55　会社説明</li>\n<li>19:55〜20:30　事業部別座談会</li>\n<li>20:30〜　　　　中締め</li>\n<li>21:00　　　　　完全閉場</li>\n</ul>\n<h2>About Voicy</h2>\n<p>「声で、未来を変える。」</p>\n<p>米国Apple Podcastや中国Ximalaya、韓国Spoon等の事例から、日本でも今後大きな成長が見込まれると言われてきた音声市場でしたが、2021年のClubhouse旋風を皮切りに、TwitterのSpaceロンチやSpotifyのPodcast系企業多数買収、AppleやAmazonがPortfolioで注力に挙げるなど、2022年世界的な注目業界の一つになっています。</p>\n<p>そんな音声市場における、日本ファーストペンギンであるVoicyは、ただメディアやプラットフォームを提供するだけでなく、将来的には音声体験で生活をシームレスにリデザインすることで、より豊かな社会を創ることを目指しています。</p>\n<p>IoTの時代に入り、インターフェイスはARを始めとした、生活を止めずに情報を得れるシームレスな形への進化が始まっていますが、そんな時代で弊社は最もシームレスと言える耳に着目しました。\n音声は生活の全てで活用シーンがあります。ライフフィットメディアを提供することで、生活の様々なシーンで適切な音声体験（VUX）を提供できる社会を、文化から創りたいと思っています。</p>\n<p>▼ Voicyを深く知りたい方へ<br>\n<a href=\"https://recruit.voicy.jp\" rel=\"nofollow\">https://recruit.voicy.jp</a></p>",
+          "link": "https://voicy.connpass.com/event/264114/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-21T10:40:52.000Z",
+          "wordCount": 1008,
+          "title": "【オフライン開催】Bar Voicy #2",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/d3/c6/d3c68651ef5a3f98e20dba873ddbddaa.png"
+        },
         {
           "id": "https://spice-hr.connpass.com/event/264099/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
