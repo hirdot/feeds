@@ -2,10 +2,471 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T02:42:41.701Z</updated>
+    <updated>2022-10-21T03:31:03.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JAWS-UG初心者支部#50 ContainerをCICD PileLineでDeploy!!]]></title>
+        <id>https://jawsug-bgnr.connpass.com/event/263555/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://jawsug-bgnr.connpass.com/event/263555/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-21T03:17:42.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/06 12:30 ～ 17:30<br />開催場所: オンライン<br /><br /><h1>イベント概要</h1>
+<p>11/06（日）1300-1700
+日時：2022年 11月 06日（日）13:00 - 17:00 開始<br>
+場所：オンライン<br>
+内容：<a href="https://jaws-ug.doorkeeper.jp/events/141627" rel="nofollow">JAWS DAYS 2022 ハンズオン～コンテナサービスをCI/CDパイプラインでデプロイしよう～</a>で実施したハンズオンの再演フルVersionです。
+<br></p>
+<h2>資料</h2>
+<p><a href="https://shigeru-oda.github.io/jawsdays2022-container-handson/docs/#0" rel="nofollow">ハンズオン資料</a><br>
+基本はこちらですが、JAWS DAYS 2022での反省点などはUpdate予定です。</p>
+<h2>タイムテーブル　（内容・演目は変更になる可能性があります）</h2>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>内容</th>
+<th>登壇者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:30-13:00</td>
+<td>開場</td>
+<td></td>
+</tr>
+<tr>
+<td>13:00-15:00</td>
+<td>ハンズオン前半・休憩</td>
+<td>初心者支部・千葉支部メンバー</td>
+</tr>
+<tr>
+<td>15:00-17:00</td>
+<td>ハンズオン後半・削除</td>
+<td>初心者支部・千葉支部メンバー</td>
+</tr>
+<tr>
+<td>17:00-17:30</td>
+<td>雑談タイム＆終わっていない方は続きをサポート</td>
+<td>初心者支部・千葉支部メンバー</td>
+</tr>
+</tbody>
+</table>
+<p>※ ハンズオンの進行状況によって多少前後する可能性があります</p>
+<h2>備考</h2>
+<p>JAWS DAYS 2022では実施しなかった後半のみ参加する人でも対応可能になるように準備・対応予定です。<br>
+もし準備・対応出来ない場合には別途ご連絡致します。<br></p>
+<h2>事前に準備いただくこと</h2>
+<ul>
+<li>PC (ブラウザはChrome、もしくは Firefoxをインストールしておいてください)</li>
+<li>AWS アカウント</li>
+<li>AWSにAdministorator 権限の IAMユーザーでログインできていること</li>
+<li>AWSアカウント 及び IAMユーザー作成手順は<a href="https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-1st-Step_LP.html" rel="nofollow">こちら</a></li>
+</ul>
+<h2>参加方法</h2>
+<p>Zoom によるオンライン会議形式による開催を予定しています。<br>
+視聴方法は、開催日に申し込みされた方へURLなどご案内します。</p>
+<p><br></p>
+<h1>JAWS-UG 初心者支部とは</h1>
+<h2>JAWS-UG 初心者支部とは？</h2>
+<p>AWSをこれから活用したい人や一緒に勉強する仲間が欲しい人を主なターゲットとしています。 AWSへの理解を深めていただくお手伝いをすることはもちろんのこと、みなさまがより楽しく学び、よりステップアップしていくためには不可欠となる、初心者支部の卒業→JAWSの他支部へと巣立つためのお手伝いをします。</p>
+<ul>
+<li><a href="https://jaws-ug.jp/act/" rel="nofollow">勉強会グループ一覧</a></li>
+<li><a href="https://jaws-ug.jp/calendar/" rel="nofollow">開催予定のイベント</a></li>
+</ul>
+<h2>JAWS-UG初心者支部運営 参加メンバー紹介</h2>
+<h3>大石一騎</h3>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/oishi_300.jpeg"></p>
+<blockquote>
+<ul>
+<li>中小SIer インフラエンジニア</li>
+<li>AWSに魅せられて日々勉強中。。</li>
+</ul>
+</blockquote>
+<h3>尾谷 紘平</h3>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/otani_300.jpg"></p>
+<blockquote>
+<ul>
+<li>JAWS FESTA 2019 SAPPORO カメラマン</li>
+<li>JAWS DAYS 2020 スタッフ</li>
+<li>JAWS SONIC 2020 運営</li>
+<li>JAWS DAYS 2021 運営</li>
+<li>2021 APN AWS Top Engineers</li>
+<li>JAWS PANKRATION 2021 運営</li>
+<li>AWS Community Builder メンバー</li>
+</ul>
+</blockquote>
+<h4>八木 大輔</h4>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/yagi_300.jpg"></p>
+<blockquote>
+<ul>
+<li>インフラエンジニア</li>
+<li>初心者支部きっての初心者</li>
+<li>特技：英語</li>
+</ul>
+</blockquote>
+<h4>織田繁 （株式会社ＮＳＤ <a href="https://twitter.com/OutputSeq" rel="nofollow">@OutputSeq</a>）</h4>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/oda_300.png"></p>
+<blockquote>
+<ul>
+<li>JAWS-UG 初心者支部運営(2020/01-)</li>
+<li>JAWS SONIC 2020運営(2020/07-2020/10)</li>
+<li>JAWS DAYS 2021運営(2020/10-2021/04)</li>
+<li>JAWS-UG事務局 広報(2021/04-)</li>
+<li>JAWS JAWS PANKRATION 2021運営(2021/06-2022/01)</li>
+</ul>
+</blockquote>
+<h4>武田可帆里 （株式会社トラストバンク　<a href="https://twitter.com/taketakekaho" rel="nofollow">@taketakekaho</a>）</h4>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/takeda_300.png"></p>
+<blockquote>
+<ul>
+<li>プロダクトマネージャー兼エンジニア。
+Samurai2019 / AWS Community Builderメンバー</li>
+</ul>
+</blockquote>
+<h4>太田亮(<a href="https://twitter.com/ryootaota0801" rel="nofollow">@ryootaota0801</a>）</h4>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/ota_300.png"></p>
+<blockquote>
+<ul>
+<li>メーカー系SIer SE → ユーザ企業で24h365dシステム開発・運用 → メーカー系SIer SE</li>
+<li>好きなAWSサービス：CloudWatch / CodePipeline</li>
+<li>初めてのJAWSUG参加はre:Invent2018の現地NW-JAWS</li>
+</ul>
+</blockquote>
+<h4>山本淳博</h4>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/yamamoto_300.png"></p>
+<blockquote>
+<ul>
+<li>SIer 監視業務→運用系サービス構築</li>
+</ul>
+</blockquote>
+<h4>上地申吾 (アノテーション株式会社 @uechi405)</h4>
+<p><img alt="img" src="https://d3pivyjogqfrq3.cloudfront.net/Photo/manage/uechi_300.png"></p>
+<blockquote>
+<ul>
+<li>テクニカルサポートエンジニア</li>
+<li>メインフレーム運用監視 → メインフレーム運用保守 → オープン系運用保守</li>
+<li>おじさん初心者を増やしたい！！</li>
+</ul>
+</blockquote>
+<h1>参加者交流のためのSNS</h1>
+<p>交流の場や情報交換する場として是非Facebookグループにご参加ください<br>
+またTwitterのフォローもお願いします</p>
+<ul>
+<li><a href="https://www.facebook.com/groups/1568052690139353" rel="nofollow">初心者支部FaceBook</a></li>
+<li><a href="https://twitter.com/jawsug_bgnr" rel="nofollow">初心者支部Twitter</a></li>
+<li><a href="http://jawsug-bgnr.blogspot.jp/" rel="nofollow">初心者支部ブログ</a></li>
+</ul>
+<h1>注意事項など</h1>
+<ul>
+<li><a href="https://jawsug-bgnr.connpass.com/" rel="nofollow">プライバシーポリシー</a>をご確認ください。</li>
+<li>リクルーティング、勧誘、採用活動、人の話を聞かないなど、目的に沿わない行為につきまして、主催者が相応しくないと判断した場合は退出頂き、初心者支部を含む他のJAWS-UGの勉強会やイベントへのご参加を禁止する場合があります。参加者全員が気持ちよく過ごすことが出来るよう、ご協力をお願い致します。<br></li>
+</ul>
+<hr>
+<p>【編集履歴】<br>
+2022/10/16 作成&amp;公開<br></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAWS-UG千葉支部オンライン#16 コンテナをCI/CDパイプラインでデプロイ！]]></title>
+        <id>https://jawsug-chiba.connpass.com/event/263646/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://jawsug-chiba.connpass.com/event/263646/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-21T03:17:17.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/06 12:30 ～ 17:30<br />開催場所: オンライン<br /><br /><h1>JAWS-UG千葉 / JAWS-UG 初心者支部合同でお送りするオンラインハンズオン！ <br>AWSコンテナサービスとCI/CDサービスを実際に触ってみるハンズオンで一緒にコンテナをはじめてみませんか？</h1>
+<p>今回は、JAWS-UG千葉支部 と JAWS-UG 初心者支部が合同でお送りするAWS 初めての方向けの勉強会イベントです。</p>
+<div class="codehilite"><pre><span></span><code>日時：2022年 11月 06日（日）13:00 - 17:00 開催
+場所：オンライン
+内容：JAWS DAYS 2022 ハンズオン～コンテナサービスをCI/CDパイプラインでデプロイしよう～で実施したハンズオンの再演フルVersionです。
+</code></pre></div>
+
+<p>※
+JAWS DAYS 2022では実施しなかった後半のみ参加する人でも対応可能になるように準備・対応予定です。
+もし準備・対応出来ない場合には別途ご連絡致します。</p>
+<h3>対象サービス</h3>
+<ul>
+<li>AWS Fargate</li>
+<li>Amazon ECR</li>
+<li>AWS CodeCommit</li>
+<li>AWS CodeBuild</li>
+<li>AWS CodeDeploy</li>
+<li>AWS CodePipeline</li>
+</ul>
+<h3>対象とする方</h3>
+<ul>
+<li>AWSのコンテナサービスを触ったことがない方</li>
+<li>コンテナは知っているけど、実際に触ったことがない方</li>
+<li>Codeシリーズを触ったことがない方</li>
+</ul>
+<p>今回も運営で画面共有をしながら、みなさんと一緒に分かりやすいようにハンズオンを進めていきます。
+ハンズオンの資料は画面キャプチャなどもついていますので、初めての方も安心してご参加ください。</p>
+<h3>事前に準備いただくこと</h3>
+<ul>
+<li>PC (ブラウザはChrome、もしくは Firefoxをインストールしておいてください)</li>
+<li>AWS アカウント</li>
+<li>AWSにAdministorator 権限の IAMユーザーでログインできていること</li>
+<li>AWSアカウント 及び IAMユーザー作成手順は<a href="https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-1st-Step_LP.html" rel="nofollow">こちら</a></li>
+</ul>
+<h3>参加方法</h3>
+<p>Zoom によるオンライン会議形式による開催を予定しています。<br>
+視聴方法は、開催日に申し込みされた方へURLなどご案内します。</p>
+<h3>タイムテーブル</h3>
+<table>
+<thead>
+<tr>
+<th align="left">時刻</th>
+<th align="left">内容</th>
+<th align="left">発表者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">12:30〜13:00</td>
+<td align="left">開場</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">13:00〜17:00</td>
+<td align="left">ハンズオン前半・休憩</td>
+<td align="left">JAWS-UG 千葉支部/初心者支部</td>
+</tr>
+<tr>
+<td align="left">15:00〜17:10</td>
+<td align="left">ハンズオン後半・お掃除</td>
+<td align="left">JAWS-UG 千葉支部/初心者支部</td>
+</tr>
+<tr>
+<td align="left">17:00〜17:30</td>
+<td align="left">雑談タイム＆終わっていない方は続きをサポート</td>
+<td align="left">---</td>
+</tr>
+</tbody>
+</table>
+<p><strong>※ ハンズオンの進行状況によって多少前後する可能性があります</strong></p>
+<h3>運営メンバーからのお願い</h3>
+<p>・セッション内容のSNS拡散はWelcomeです。但しNGの箇所については発表者に従ってください。</p>
+<p>・JAWS-UGイベントへの参加者は必ず以下のルール、マナーをご確認ください。</p>
+<p><a href="https://jaws-ug.jp/for-participant/" rel="nofollow">JAWS-UGに参加するルールとマナー</a></p>
+<h2>JAWS-UG 初心者支部とは</h2>
+<p>JAWS-UG 初心者支部の詳細は、下記のJAWS-UG 初心者支部サイトをご覧ください。<br>
+<a href="https://jawsug-bgnr.connpass.com/" rel="nofollow">https://jawsug-bgnr.connpass.com/</a></p>
+<h2>JAWS-UG 千葉支部とは</h2>
+<p>JAWS-UG 千葉支部は、千葉在住、千葉にゆかりにある方、千葉が好きという方のためのAWSユーザグループです。</p>
+<p>千葉というロケーションは比較的東京にアクセスが近い影響で、千葉県内で開催される勉強会は多くありません。しかしながら、北東部、房総など東京へのアクセスが難しい地域もあるため、勉強会に参加したいけれど、参加できないという仲間が多くいるのではないかと考えています。</p>
+<p>JAWS-UG千葉支部では、東京にアクセスが難しい地域、運営メンバーの地元地域(船橋、千葉、松戸、我孫子、柏など)でAWSに興味がある方、AWSを学びたい方が集まり情報交換を出来る場にしたいと考えています。</p>
+<h3>オンライン と JAWS-UG 千葉支部 について</h3>
+<p>同じ千葉県民で、千葉開催とはいえ、柏で開催した場合、勝浦の方が参加することは難しいと思います。</p>
+<p>ただ、同じ千葉に暮らす者として、たくさんの方に参加頂き、たくさんの方にAWSの知見を持ち帰って頂き、たくさんの方にアウトプットして欲しいです。</p>
+<p>オンライン開催について、JAWS-UG千葉支部は地理的な問題を解決する1つの機会と考えています。希望する開催テーマ、参加してみての感想など、皆さんのコメントを貰えると嬉しいです。</p>
+<h2>JAWS-UG 千葉支部 運営メンバー(50音順)</h2>
+<h3>榎本 ジョン 航介</h3>
+<p><img src="https://d2181ohzp8l3zw.cloudfront.net/enomoto_chiba.jpeg" width="300"></p>
+<p>AWS Community Builders<br>
+都内の住宅設備メーカーに所属。IBMでインフラエンジニアとしてWeb基盤構築や運用保守を経験。その後SESで金融機関のWeb基盤運用担当、スタートアップでのスクラムマスター、カスタマーサクセス担当を経て、現職の住宅設備メーカーへクラウドエンジニアとして参画。現在はデジタル(IT)部門のプロダクトオーナー兼ガヤ芸人として、新規事業の企画や開発に携わりつつ、社内でAWSやアジャイル開発の楽しさを広める活動をしています。ミドルネームのジョンは社内でのニックネームです。
+IBMでの新人時代にお世話になった千葉で、千葉の皆様とともにAWSの楽しさを分かち合いたい！</p>
+<h3>北原 雅人</h3>
+<p><img alt="kitahara" src="https://d2181ohzp8l3zw.cloudfront.net/kitahara.png"></p>
+<p>2020/2021APN AWS Top Engineers<br>
+フォージビジョン株式会社所属。地方自治体のシステム構築、メールSaaSの技術担当、ヘルプデスクチームのリーダーを経て、AWSの魅力に惹かれる。AWSエンジニアとして多くの顧客の事業価値を最大化、社会貢献してきたいと考えています。人と人のつながりを大事に、コミュニティの楽しさを教えてくれたJAWS-UG千葉支部と千葉のみなさんに恩返ししたい！</p>
+<h3>山口 正徳</h3>
+<p><img src="https://d2181ohzp8l3zw.cloudfront.net/img_jawsdays-yamaguchi-interview_02.0936c2bddd3e89202df6add8d6ed0775b421d033.png" width="300"></p>
+<p>フォージビジョン株式会社所属。JAWS DAYS 2021 実行委員長、JAWS-UG千葉支部運営。AWS Community Hero、AWS Samurai 2020であり、APN Ambassador。AWS APAC Community Award 2022受賞。<a href="https://twitter.com/hashtag/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E7%95%8C%E3%81%AE%E4%B8%89%E5%86%A0%E7%8E%8B" rel="nofollow">#コミュニティ界の三冠王 </a> と呼ばれる。<br>
+JAWS DAYS 2014の参加をきっかけにAWSに興味を持ち、2016年から本格的にAWSを使い始める。JAWS-UGには2018年から参加。JAWS DAYSのスタッフ参加、JAWS SONIC 2020の配信をリードした実績からJAWS DAYS 2021 実行委員長を務める。アウトプットとコミュニティ活動の実績を評価されAWS Community Heroに認定される。<br>仕事ではAWS事業の立ち上げ、事業および技術面の双方で牽引し、仲間とともに楽しみながらAWSを活用してお客様の事業活動を支えている。<br>
+千葉みなさんとAWSを楽しく学びたいと思います！千葉を元気に！</p>
+<p><a href="https://aws.amazon.com/jp/developer/community/heroes/masanori-yamaguchi/" rel="nofollow">https://aws.amazon.com/jp/developer/community/heroes/masanori-yamaguchi/</a>
+<a href="https://aws.amazon.com/jp/builders-flash/202103/jawsdays-yamaguchi-interview/" rel="nofollow">https://aws.amazon.com/jp/builders-flash/202103/jawsdays-yamaguchi-interview/</a></p>
+<h3>和田 健一郎</h3>
+<p><img src="https://d2181ohzp8l3zw.cloudfront.net/wada_chiba.jpeg" width="300"></p>
+<p>2021 APN AWS Top Top Engineers / 「基礎から学ぶ サーバーレス開発」執筆者の一人<br>
+アイレット株式会社所属。中堅Slerでアプリケーションエンジニアを経て、2016年9月から現職。
+AWSは前職時に東京リージョン来る前に北米リージョンにEC2のインスタンス立てたのが最初。
+現在は社内の業務システム改修をしつつ、AWS Lambdaのアップデートを追っかけ、検証する日々を過ごしてます。
+JAWS-UG千葉を通して、千葉の皆さんにAWSの良さを届けたいと思っています</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[秋のDojo祭り[11/7-18] データサイエンティストになってみた！]]></title>
+        <id>https://ibm-developer.connpass.com/event/263919/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://ibm-developer.connpass.com/event/263919/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-21T03:13:26.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/09 13:00 ～ 13:45<br />開催場所: オンライン<br /><br /><h1>概要</h1>
+<p>本Dojoでは、AIの予測モデルについて一緒に勉強していきます。</p>
+<p>AIの予測モデルに興味はあるけど、なんだか敷居が高いと感じられたことはないでしょうか。</p>
+<p>当セッションでは、AutoAIとSPSSというものつかって、プログラムレスで不良品予測のモデルを作成するところを、ライブデモでお見せいたします。
+※当日は、Qiitaのページに沿って、ライブデモを実施いたします。
+AutoAI→<a href="https://qiita.com/Asuka_Saito/items/17ba627abd81d421a8b7" rel="nofollow">https://qiita.com/Asuka_Saito/items/17ba627abd81d421a8b7</a>
+SPSS→<a href="https://qiita.com/Asuka_Saito/items/6f74dc885f6e54ca0caa" rel="nofollow">https://qiita.com/Asuka_Saito/items/6f74dc885f6e54ca0caa</a></p>
+<p>入門的な内容ですので、データ分析に興味のある方、ぜひお気軽にご参加ください！あなたも今日からデータサイエンティストになれるかもしれません！？</p>
+<h1>タイムテーブル</h1>
+<p>オンライン・イベント参加のURL:  [参加者への情報] 欄に後日公開いたします。</p>
+<p>12:55 以降に上記の参加用 URL にアクセスし、開始をお待ちください。
+社員の方も同様です。</p>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">12:55-13:00</td>
+<td align="left">オンライン接続</td>
+</tr>
+<tr>
+<td align="center">13:00-13:40</td>
+<td align="left">説明・デモ</td>
+</tr>
+<tr>
+<td align="center">13:40-13:45</td>
+<td align="left">QA・クロージング</td>
+</tr>
+</tbody>
+</table>
+<p>※ タイムテーブルは変更になる可能性があります。予めご了承下さい</p>
+<p>終了後は、アンケート入力とQ&amp;Aサポートの申し込みをよろしくお願いいたします。</p>
+<h1>動画講師・当日のご案内</h1>
+<h3>濱野 伊平次</h3>
+<blockquote>
+<p>日本アイ・ビー・エム株式会社<br>
+テクノロジー事業本部<br>
+カスタマーサクセスマネージャー</p>
+</blockquote>
+<h3>濱田 敬弘</h3>
+<blockquote>
+<p>日本アイ・ビー・エム株式会社<br>
+テクノロジー事業本部<br>
+カスタマーサクセスマネージャー</p>
+</blockquote>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmartHR Engineer Online Meetup]]></title>
+        <id>https://smarthr.connpass.com/event/264074/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://smarthr.connpass.com/event/264074/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-21T03:05:34.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/08 19:00 ～ 20:00<br />開催場所: オンライン（URLはお申込み後当ページトップに表示されます）<br /><br /><h2>SmartHR Engineer Online Meetup を開催します！</h2>
+<p>「Online Meetup」は参加者とSmartHRの社員がオンラインで、気軽に質問・交流をしていただけるイベントです。</p>
+<ul>
+<li>ちょっとSmartHR気になってた！</li>
+<li>オンラインだし、ちょっと聞いてみてもいいよ！</li>
+<li>働く環境のリアルを聞きたい！</li>
+<li>開発環境や体制を知りたい！</li>
+</ul>
+<p>という<br></p>
+<ul>
+<li>バックエンドエンジニア</li>
+<li>フロントエンドエンジニア</li>
+</ul>
+<p>のみなさま！<br></p>
+<p>一度エンジニアとzoomでざっくばらんにお話してみませんか？<br>
+実際に働く環境やエンジニアから見たリアルを赤裸々にお話ししちゃいます！</p>
+<p>例えば<br>
+「入社時に Rails / React での開発経験がない方のオンボーディングどうしているか？」<br>
+「開発チームのクロスファンクショナル化の現状を知りたい！」<br>
+など気になることをピンポイントでご質問もOKです！<br></p>
+<p>※当イベント参加後、選考への応募は必須ではありません。『今すぐ転職は考えていないけれど一度話を聞いてみたい！』方も歓迎です。<br>
+※小規模なMeetupイベントとしていますので、自由に質問する時間を多くとっています。<br>
+※当イベントは複数媒体で募集しています。<br>
+※connpassに登録されている方以外のご参加もありますのでご了承ください。<br></p>
+<h2>開催概要</h2>
+<h3>日時</h3>
+<ul>
+<li>11/8（火）19:00〜
+※万が一ですが、応募者多数になった場合は抽選します！<br>
+※参加登録時のアンケートで日程をお選びください。<br>
+※早退・遅刻等全く問題ありません！お気軽にご参加ください！</li>
+</ul>
+<h3>タイムスケジュール例</h3>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">19:00 - 19:15</td>
+<td align="left">自己紹介</td>
+</tr>
+<tr>
+<td align="left">19:15 - 19:30</td>
+<td align="left">事業/福利厚生/制度</td>
+</tr>
+<tr>
+<td align="left">19:30 - 19:45</td>
+<td align="left">開発環境/開発体制</td>
+</tr>
+<tr>
+<td align="left">19:45 - 20:00</td>
+<td align="left">Q&amp;A</td>
+</tr>
+</tbody>
+</table>
+<h3>Meetup担当者</h3>
+<p>『SmartHR』 プロダクトエンジニア by @mkmn</p>
+<h3>資料</h3>
+<ul>
+<li><a href="https://hello-world.smarthr.co.jp/" rel="nofollow">Engineer Recruit Page</a></li>
+<li><a href="https://tech.smarthr.jp/" rel="nofollow">Tech Blog</a></li>
+<li><a href="https://tech.smarthr.jp/entry/2021/06/10/115518" rel="nofollow">156億円でなにするの？ エンジニアリーダーたちに聞いてみた</a></li>
+<li><a href="https://tech.smarthr.jp/entry/2020/12/13/103301" rel="nofollow">社内でRails勉強会を開催した話</a></li>
+<li><a href="https://tech.smarthr.jp/entry/2020/06/08/114108" rel="nofollow">「プロダクト間共通の React コンポーネントライブラリ」がどうなったか、という話</a></li>
+</ul>
+<h2>開催方法</h2>
+<ul>
+<li>オンライン</li>
+<li>zoomで開催する予定です！</li>
+</ul>
+<h3>アクセス方法</h3>
+<ul>
+<li>お申し込みいただいた方にメッセージします！</li>
+</ul>
+<h2>今回は参加できない😔という方へ</h2>
+<p>随時開催する予定です！<br>
+下記に登録いただくか、connpassのフォローをよろしくお願いいたします！<br>
+<a href="https://open.talentio.com/1/c/smarthr/requisitions/detail/13762" rel="nofollow">SmartHR Online Casual Visit</a></p>
+<h2>行動規範</h2>
+<p>本MeetupはSmartHRやその他開発トピックスに関する情報交換や交流を行うための場所です。
+そのため、参加者に対して以下のようなハラスメント行為は許容しません。</p>
+<ul>
+<li>言葉による性別、性的指向、障害の有無、外見、身体の大きさ、人種、宗教に関する攻撃的なコメント</li>
+<li>公的空間での性的な映像表現</li>
+<li>意図的な威力行為、ストーキング、つきまとい</li>
+<li>写真撮影や録音によるいやがらせ</li>
+<li>トークやその他の会議イベントに対して繰り返して中断しようとする行為</li>
+<li>望まれない性的な注意を引きつける行為</li>
+</ul>
+<p>ハラスメント行為に遭った、目撃した場合には、スタッフの誰かに連絡していただくようお願いします。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ターゲット層からの認知度UPで採用成功！ エンジニア採用におけるペルソナ設計と採用ブランディング]]></title>
+        <id>https://talentbook.connpass.com/event/264037/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://talentbook.connpass.com/event/264037/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-21T03:02:03.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/09 14:00 ～ 15:00<br />開催場所: オンライン<br /><br /><p>エンジニアの採用は年々難しくなっています。</p>
+<p>コロナ禍により企業活動にデジタル化が必須となったことで、業種に関係なく多くの企業がエンジニア採用を始めました。その結果、エンジニアの需要が急速に伸びましたが、人材の総数に変化はなく売り手市場となっているのが現状です。</p>
+<p>そうした状況下で、応募獲得や選考から離脱されてしまうといったお悩みの声が企業の採用担当から多く上がっています。解決のために多くの企業が給与など待遇面での改善を強いられていますが、既存社員や給与体系の都合から取り組めていません。</p>
+<p>そのため、待遇面での変化だけでなく、市場に適した採用要件の見直しやペルソナ設計、働く場所として認知や、魅力づけにつながる採用ブランディングが必要になっています。</p>
+<p>今回、キャリア転職サイト『type』を運営している株式会社キャリアデザインセンターと広報・PR支援サービス「talentbook」を運営する株式会社PR Tableがセミナーを共同開催。</p>
+<p>エンジニア採用における一歩目の「ペルソナ設計」から、魅力付けや認知度につながる採用ブランディングの実践方法についてお話し致します。</p>
+<p>■注意事項
+・当日のセミナーの録音、撮影はご遠慮ください
+・営業目的や、個人の方はご遠慮いただいております
+・本セミナーに入力いただいた個人情報は株式会社キャリアデザインセンターにも提供され、同社の規定(<a href="https://cdc.type.jp/privacy/" rel="nofollow">https://cdc.type.jp/privacy/</a>) に基づいて管理されます。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EC Tech Meetup vol.1 〜最近のトレンド〜]]></title>
         <id>https://blastengine.connpass.com/event/264072/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -33685,16 +34146,6 @@ Get Property Value History by Entity クエリと Get Property Value History by 
         <link href="https://www.publickey1.jp/blog/22/cloudflarenginxrusthttppingoracdncpu31.html"/>
         <updated>2022-09-21T17:36:55.000Z</updated>
         <summary type="html"><![CDATA[CDNプロバイダのCloudflareは、同社のグローバルなCDNの基盤として長らく利用してきたNGINXに代えて、同社自身がRust製のHTTPプロキシである「Pingora」を開発し利用していることを明らかにしました。 Pingoraは...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S3互換の「Cloudflare R2」が正式サービスに。データ転送料無料、10GBまで無料の分散型オブジェクトストレージ]]></title>
-        <id>https://www.publickey1.jp/blog/22/s3cloudflare_r210gb.html</id>
-        <link href="https://www.publickey1.jp/blog/22/s3cloudflare_r210gb.html"/>
-        <updated>2022-09-21T15:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflareは、Amazon S3互換のオブジェクトストレージ「Cloudflare R2」を正式なサービスとして提供開始しました。これまではベータ版として公開されていました。 Cloud providers taught us t...]]></summary>
         <author>
             <name>Publickey</name>
         </author>
