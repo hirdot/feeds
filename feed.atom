@@ -2,10 +2,321 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-24T05:29:30.912Z</updated>
+    <updated>2022-10-24T06:26:10.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MoT TechTalk #14 タクシーアプリ『GO』の施策検証、因果推論が解決します]]></title>
+        <id>https://jtx.connpass.com/event/263378/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://jtx.connpass.com/event/263378/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-24T06:01:28.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/14 19:00 ～ 19:50<br />開催場所: オンライン<br /><br /><h2>イベント概要</h2>
+<p>タクシーアプリ『GO』の事業成長を支えるために、AI技術開発部分析グループのデータアナリストがどのようにビジネス課題を分析に落とし込み、データから「なぜそうなるか？」を分析して、ビジネスの意思決定を加速させているかについて語っていきます。</p>
+<p>今回のMoT TechTalk #14では、次のトピックをお話しします。</p>
+<ul>
+<li>傾向スコアを用いたタクシーアプリ『GO』利用影響の分析</li>
+<li>CausalForestを利用したタクシーアプリ『GO』のCATE推定</li>
+</ul>
+<p>タクシーアプリ『GO』では、ユーザがアプリを利用していつ、どこからどこへタクシーを利用したというアプリ利用状況だけではなく、タクシーの車載器経由で取得した位置情報や、ユーザとタクシーをマッチング処理を行ったサーバーデータなど、日々膨大なデータを収集しています。分析グループではそれらのデータを利用して、ビジネス上の意思決定をサポートする分析や、統計的因果推論のフレームワークを利用した効果測定、ユーザのインサイトを深く知るための探索的データ解析や可視化、機械学習を用いた解析などを行っています。</p>
+<p>現実世界の位置情報に応じたサービスを提供するアプリならではの複雑なデータ生成過程を経て得られたデータに対し、適切な因果推論などの分析技術をキャッチアップしながら現場に活用する分析グループの実態をお伝えします。</p>
+<p>イベントの最後でアンケートに答えていただいた方の中から、抽選で10名様にタクシーアプリ『GO』で利用できる¥2,000クーポンをお配りいたします。詳細は後述のキャンペーン注意事項を御覧ください。</p>
+<h2>株式会社Mobility Technologies（MoT）とは</h2>
+<p>Mobility Technologiesは「移動で人を幸せに。」をミッションに、日本のモビリティ産業をアップデートする様々なITサービスの提供を行っています。</p>
+<ul>
+<li>タクシーアプリ『GO』 <a href="https://go.mo-t.com/" rel="nofollow">https://go.mo-t.com/</a></li>
+<li>タクシーアプリ『JapanTaxi』 <a href="https://japantaxi.jp/" rel="nofollow">https://japantaxi.jp/</a></li>
+<li>法人向けサービス『GO BUSINESS』 <a href="https://go.mo-t.com/business/" rel="nofollow">https://go.mo-t.com/business/</a></li>
+<li>タクシーデリバリーアプリ『GO Dine』 <a href="https://go-dine.jp/" rel="nofollow">https://go-dine.jp/</a></li>
+<li>交通事故削減支援サービス『DRIVE CHART』 <a href="https://drive-chart.com/" rel="nofollow">https://drive-chart.com/</a></li>
+</ul>
+<h2>参加対象</h2>
+<ul>
+<li>MoTを知りたいデータアナリスト</li>
+<li>モビリティに興味があるデータアナリスト</li>
+<li>事業会社のデータ分析に興味のある方</li>
+<li>因果推論に興味のある方</li>
+<li>効果検証のやり方に興味のある方</li>
+</ul>
+<h2>当日のタイムテーブル</h2>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>コンテンツ</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>19:00-19:05</td>
+<td>オープニング</td>
+</tr>
+<tr>
+<td>19:05-19:45</td>
+<td>・分析グループの紹介（島田）<br> ・傾向スコアを用いた『GO』利用影響の分析（佐竹）<br>・CausalForestを利用した『GO』アプリのCATE推定（秋月）</td>
+</tr>
+<tr>
+<td>19:45-19:50</td>
+<td>クロージング</td>
+</tr>
+</tbody>
+</table>
+<h2>アジェンダ</h2>
+<h3>分析グループの紹介（島田）</h3>
+<p>「データ分析」と一言で言っても、会社ごとに求められるロールやスキルが異なると思います。まずはMobility Technologiesでデータ分析を担当する「分析グループ」がどのような組織か紹介します。</p>
+<h3>傾向スコアを用いたタクシーアプリ『GO』利用影響の分析（佐竹）</h3>
+<ul>
+<li>タクシーアプリ『GO』において因果推論を用いる際のビジネス課題の紹介</li>
+<li>具体事例とどのような手法を用いて因果効果を推定したか</li>
+<li>分析結果と、結果がどのように意思決定に影響するのか</li>
+</ul>
+<h3>CausalForestを利用したタクシーアプリ『GO』のCATE推定（秋月）</h3>
+<ul>
+<li>アプリ上の施策をCausalForestで効果検証した事例</li>
+<li>ビジネス意思決定においてCATEを求めた理由</li>
+<li>実際に分析をした際の経験談</li>
+</ul>
+<h2>プロフィール</h2>
+<h4>島田 哲朗</h4>
+<p><strong>データアナリスト</strong></p>
+<p>2012年よりAccentureで通信・金融・アパレル・小売クライアントのセールスマーケティング部門でデータ分析をサポートしたのち、2017年から株式会社トレタにて飲食店の予約データ分析に従事。2019年からDeNAのオートモーティブ事業本部でタクシーアプリ『MOV』の分析を担当し、2020年に事業統合によりMobility Technologiesに転籍後、タクシーアプリ『GO』の分析グループマネージャー。ユーザ分析・デジタルマーケティングをメインに組織の意志決定を進化させるため、機械学習、計算統計学、ベイズ統計学、統計的因果推論に関心を持つ。</p>
+<h4>佐竹 功次</h4>
+<p><strong>データアナリスト</strong></p>
+<p>メーカー、受託分析会社にて、クライアントのデータ分析に基づく意思決定支援に従事。2022年にMobility Technologiesに中途入社し、タクシーアプリ『GO』のユーザー分析、施策効果の検証などの業務を担当。ビジネスの意思決定支援のための機械学習の活用や統計的因果推論への関心が高い。</p>
+<h4>秋月 達樹</h4>
+<p><strong>データアナリスト</strong></p>
+<p>工場勤務から海外駐在を経験したのち、SIerと広告事業においてデータ分析や機械学習エンジニアリングを担当。2021年4月にMobility Technologiesに中途入社し、タクシーアプリ『GO』のユーザー、乗務員に関する分析や施策効果の検証、経営上の意思決定に関与する分析業務を担当。組織・個人の抱える課題や仮説をデータによって定量化する手法に関心をもつ。入社してから触れた因果推論が楽しい。その他にもベイズ統計、時空間統計、データ可視化にも関心があり、アンテナを広く持っていきたい。</p>
+<h4>【司会】高堂 和芽（<a href="https://twitter.com/sandgirl_14" rel="nofollow">@sandgirl_14</a>）</h4>
+<p><strong>広報</strong></p>
+<p>不動産ベンチャーにて財務経理・法人営業に従事後、2018年よりモバイルオーダーサービスを手がけるShowcase Gigの広報担当に。MoTへは今年5月に入社し、組織/採用広報を中心にコーポレートコミュニケーション全般を担当。最近ではVoicyを活用した「声の社内報」を社内で立ち上げ＆運営。MoT TechTalkは今回が初参加。</p>
+<h2>会場</h2>
+<p>オンライン(YouTube Live)で開催いたします。URLは参加登録後表示されます。</p>
+<p>※後日アーカイブ公開を予定しています。</p>
+<h2>イベント注意事項</h2>
+<p>・技術交流が目的の勉強会のため、知識の共有および参加者同士の交流を目的としない参加はお断りしております。参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。</p>
+<p>・参加枠が大幅に埋まらない場合には開催を延期または中止する場合がございます。</p>
+<p>・個人情報取扱いについて<a href="https://mo-t.com/privacy" rel="nofollow">プライバシーポリシー</a>に定める利用目的に必要な範囲で利用し、当社が責任をもって厳格に管理いたします。内容をご確認の上、ご同意いただきお申込み下さい。</p>
+<p>その他、ご不明点などございましたら、遠慮なくご連絡いただけますと幸いです。</p>
+<h2>キャンペーン注意事項</h2>
+<ul>
+<li>クーポンの利用期限は2023/3/31になります。</li>
+<li>対象者：イベントの最後に実施するアンケートに回答された方</li>
+<li>ご応募はおひとり1回までとさせていただきます</li>
+<li>クーポンのご利用方法や制限事項についてはQ&amp;Aの「<a href="https://mo-t.force.com/go/s/?language=ja" rel="nofollow">クーポンについて</a>」もご参照ください</li>
+<li>当選発表は、イベント参加時に抽選希望者のみにご登録いただくメールアドレス宛へのクーポンコードのご連絡をもって代えさせていただきます</li>
+<li>主催者の判断により本キャンペーンを中止する場合がございます</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/18開催 学生向け】Cybozu デザイナー就活生向け相談会]]></title>
+        <id>https://cybozu.connpass.com/event/263756/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://cybozu.connpass.com/event/263756/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-24T05:57:41.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/18 18:00 ～ 19:45<br />開催場所: オンライン<br /><br /><h1>デザイナー就活におけるポートフォリオと面接のコツを伝授！</h1>
+<p>デザイナー就活で役立つポートフォリオの作り方と面接のコツをサイボウズのデザイナー・マネージャーが伝授します！
+後半は就活生の皆さんの質問に回答・アドバイスしていきます。</p>
+<h2>こんな人におすすめ！</h2>
+<ul>
+<li>UX/UIデザイナーを目指している学生</li>
+<li>就活用のポートフォリオを作ろうと思っている</li>
+<li>ポートフォリオを使った面接のコツを知りたい</li>
+</ul>
+<h2>Cybozu Design&amp;Researchの活動がわかる場所</h2>
+<p><a href="https://cybozu.co.jp/company/job/recruitment/designgroup/" rel="nofollow" title="Cybozu Design&amp;Reserchウェブサイト">Cybozu Design&amp;Researchウェブサイト</a> </p>
+<p><a href="https://note.com/cybozu_design" rel="nofollow" title="Cybozu Design&amp;Research公式noteアカウント">Cybozu Design&amp;Research公式noteアカウント</a></p>
+<p><a href="https://note.com/cybozu_design/m/mc12622f890cf" rel="nofollow" title="Cybozu Design&amp;Research公式noteマガジン">Cybozu Design&amp;Research公式noteマガジン</a></p>
+<p><a href="https://www.facebook.com/cybozuuxcafe/" rel="nofollow" title="Cybozu Design&amp;Research Facebookページ">Cybozu Design&amp;Research Facebookページ</a></p>
+<h1>オンライン視聴方法</h1>
+<p>Zoomウェビナーで開催します。当日ZoomのURLをこのconnpassページに掲載します（参加者・発表者だけが閲覧できます）</p>
+<h2>ご準備いただくもの</h2>
+<ul>
+<li>PC・スマートフォン・タブレットなど視聴できるデバイス</li>
+<li>ネットワーク環境</li>
+<li>Zoomアプリケーション（<a href="https://zoom.us/download" rel="nofollow" title="Zoomダウンロードページ">ダウンロードページ</a>）</li>
+</ul>
+<p>※事前にZoomアプリケーションをお使いのデバイスにインストールをお願いします。（PCの場合ブラウザから参加ができますが、アプリをインストールしておくと便利です）</p>
+<h1>タイムスケジュール</h1>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">17:50-18:00</td>
+<td align="left">Zoomオープン</td>
+</tr>
+<tr>
+<td align="left">18:00-18:15</td>
+<td align="left">オープニングトーク・自己紹介</td>
+</tr>
+<tr>
+<td align="left">18:15-18:30</td>
+<td align="left">ポートフォリオのコツ講義（Tobi）</td>
+</tr>
+<tr>
+<td align="left">18:30-18:40</td>
+<td align="left">質問タイム</td>
+</tr>
+<tr>
+<td align="left">18:40-18:55</td>
+<td align="left">面接のコツ講義（柴田）</td>
+</tr>
+<tr>
+<td align="left">18:55-19:05</td>
+<td align="left">質問タイム</td>
+</tr>
+<tr>
+<td align="left">19:05-19:10</td>
+<td align="left">休憩</td>
+</tr>
+<tr>
+<td align="left">19:10-19:40</td>
+<td align="left">就活質問会</td>
+</tr>
+<tr>
+<td align="left">19:40-19:45</td>
+<td align="left">エンディングトーク</td>
+</tr>
+</tbody>
+</table>
+<p>※調整する場合があります。</p>
+<h1>登壇者情報</h1>
+<h2>柴田 哲史（<a href="https://twitter.com/satosh923" rel="nofollow" title="柴田 哲史のTwitterアカウント">@satosh923</a>）</h2>
+<p>マネージャー・UXリサーチャー。1995年よりマイクロソフト社にてワードのユーザビリティ改善業務を担当。米国へのビジネス留学を経て、2004年にITコンサルティング会社を米国に設立しました。2015年よりサイボウズ社に所属し、複業として、被災地の災害ボランティアセンターのIT支援をしています。</p>
+<h2>Tobi（<a href="https://twitter.com/0b1tk" rel="nofollow" title="TobiのTwitterアカウント">@0b1tk</a>）</h2>
+<p>2021年10月入社の新卒デザイナー。アイルランドのダブリン大学卒業後、現在はkintoneのデザインシステム開発やデザイナー新卒採用支援に携わっています。</p>
+<h2>Sota（<a href="https://twitter.com/tsumuzi_6" rel="nofollow" title="SotaのTwitterアカウント">@tsumuzi_6</a>）</h2>
+<p>2022年4月入社の新卒デザイナー。現在はサイボウズOfficeのデザインや社外向け情報発信、新卒採用支援に携わっています。</p>
+<h1>その他注意点</h1>
+<ul>
+<li>当日の内容およびスケジュールは予告なく変更される場合があります。</li>
+<li>本イベントの開催終了後、イベント改善のためにアンケートを実施いたします</li>
+<li>運営、スピーカー含めてフルリモートでの開催、なおかつオンライン開催なので、音声や映像が一時的に不安定になる可能性もあります。</li>
+<li>配信トラブル時のアナウンスはconnpassのフィード・メッセージで行います</li>
+<li>参加者の皆さんやスピーカーが良い時間を過ごせるようにイベントを作っています。 SNSやブログ等で当イベントについて発信する際は、ハラスメントのないよう、皆さんのご協力をお願いいたします！​</li>
+<li>イベントレポートを各種SNSに掲載するため、イベント中に写真撮影・スクリーンショットをいたします。撮影・掲載NGの方は当日スタッフにお声掛けください。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リュウグウは500万年前に近地球軌道へ移動、「はやぶさ2」分析]]></title>
+        <id>https://www.technologyreview.jp/n/2022/10/23/288947/</id>
+        <link href="https://www.technologyreview.jp/n/2022/10/24/288947/"/>
+        <updated>2022-10-24T05:55:23.000Z</updated>
+        <author>
+            <name>MIT Technology Review Japan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンライン研修３年目の事実　～環境作りと伸びる学習者特性～【オンラインセミナー】]]></title>
+        <id>https://mamezou.connpass.com/event/264302/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mamezou.connpass.com/event/264302/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-24T05:48:11.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/31 18:30 ～ 20:00<br />開催場所: オンライン<br /><br /><p>【What's　豆蔵？】</p>
+<p>豆蔵の代表的な3つの事業領域は、「エンタープライズ領域」「AI・データサイエンス領域」「組込み領域」。</p>
+<p>それぞれの領域において、情報化やIoTシステムの最適化を提供しています。</p>
+<h2>課題発見から企画・デザイン・開発・運用を含む、システム／ソフトウェアのスタイル変革まで幅広く提供できる先進のITコンサルティングファームです。</h2>
+<p>【What's　豆寄席？】</p>
+<p>豆寄席は、豆蔵が毎月社員向けに行なっている技術イベントです。</p>
+<p>是非この場を皆さんとの交流の場として活用したい！そんな声をもとにオープンな場として提供する事に致しました。</p>
+<p>豆寄席では、豆蔵の技術的知見、開発スタイル、開発の楽しさ等を皆さんと一緒にお話しさせていただく予定です。</p>
+<p>皆様との交流も兼ねておりますので、技術好きな方は気兼ねなくお越しください(^^♪</p>
+<p>イベント詳細<br>
+・日時：2022年10月31日（月）18時30分～20時00分（入場は18時25分より可能）</p>
+<hr>
+<p>【タイムスケジュール】<br>
+  18時30分～20時00分　オンライン研修３年目の事実　～環境作りと伸びる学習者特性～　※質疑応答含む</p>
+<blockquote>
+<p>新型コロナウイルス感染症の影響により、2020年初春から企業で実施される研修はオンライン開催を余儀なくされました。当初は、対面集合で実施していた研修を、なんとかオンラインで実施するのが精一杯であったのが、今現在ではオンラインでの研修実施にも慣れてきて、そのメリットやデメリット、教育効果も見えてきました。今回は、オンライン研修３年間の変遷をたどりながら、オンライン研修に関し様々な視点から時間の許す限りお話をしたいと思います。</p>
+</blockquote>
+<hr>
+<ul>
+<li>
+<p>講師：株式会社豆蔵　シニアコンサルタント　山岡敏夫</p>
+<blockquote>
+<p>2001年、東芝CAEシステムズ株式会社(現 東芝インフォメーションシステムズ株式会社)入社。オープン系技術も用いたPDM/PLMシステムの開発に従事。2006年、株式会社豆蔵に入社。技術研修の企画、提案、講師、教材開発など、教育関連を担当する。実務だけでなく、より良い学び、学習支援を実現するために熊本大学大学院 社会文化科学研究科 にて教授システム学を履修。</p>
+</blockquote>
+</li>
+<li>
+<p>参加対象：誰でも  </p>
+</li>
+<li>参加費：無料  </li>
+<li>会場　：Zoomで行います。 申込後に閲覧が可能となる、参加者情報欄にURLを記載しております。  </li>
+</ul>
+<hr>
+<p>※オンラインセミナー並びに二次会では、豆蔵社による写真や動画撮影が行われる予定です。会場内のお客さまが映り込む場合があります。それらは、豆蔵社によるイベント終了後の広告物、取材メディアによるWEBなどに露出／掲載される場合がありますので、撮影NGの方は事前にご連絡ください。</p>
+<p>弊社について、詳しく知りたい方はコチラ <a href="https://wwwrecruit.mamezou.com/" rel="nofollow">https://wwwrecruit.mamezou.com/</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スターリンク衛星をGPSに イーロン・マスク協力拒否も 独自研究で実現]]></title>
+        <id>https://www.technologyreview.jp/?p=288863</id>
+        <link href="https://www.technologyreview.jp/s/288863/starlink-signals-can-be-reverse-engineered-to-work-like-gps-whether-spacex-likes-it-or-not/"/>
+        <updated>2022-10-24T05:38:14.000Z</updated>
+        <summary type="html"><![CDATA[スペースXの通信衛星であるスターリンク衛星群をGPSの代わりに使う研究が発表された。イーロン・マスクCEOが協力を拒否したにもかかわらず、研究者が独自に信号を解析した結果、測位に使えるようにしたという。 		
+
+こちらは会員限定の記事です。
+メールアドレスの登録で続きを読めます。
+
+
+会員登録して読む
+
+ログインして読む
+
+
+
+有料会員にはメリットがいっぱい！
+
+
+毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
+
+オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
+重要テーマが押さえられる。
+
+各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
+
+
+
+有料プランの詳細を見る
+
+
+
+
+
+
+
+
+こちらは有料会員限定の記事です。
+有料会員になると制限なしにご利用いただけます。
+
+
+有料会員にはメリットがいっぱい！
+
+
+毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
+
+オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
+重要テーマが押さえられる。
+
+各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
+
+
+
+有料プランの詳細を見る]]></summary>
+        <author>
+            <name>Mark Harris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解説：ダイエットで減った体重はどこに行くのか？]]></title>
         <id>https://www.technologyreview.jp/?p=288777</id>
