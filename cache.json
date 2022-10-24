@@ -6,6 +6,46 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "5ee1c273d561fffc9d225ea572728dda1bfdc8f3",
+          "author": "aws@amazon.com",
+          "description": "本日より、Amazon マシンイメージ (AMI) のサービスクォータを追加しました。サービスクォータコンソールページの EC2 セクションにこれらの新しい 3 つの新しいクォータが表示されるようになりました。最初のクォータは AWS アカウント内の AMI の総数、2 つめのクォータは AWS アカウント内のパグリック AMI の総数、3 つめのクォータは各 AMI に対して持つことのできる共有の数です。これらのクォータはデフォルトで AWS アカウントに追加され、アクションは必要ありません。各クォータは AWS リージョンごとの AWS アカウントごとに設定されています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ec2-service-quotas-amazon-machine-images-amis/",
+          "publishedOn": "2022-10-24T17:17:16.000Z",
+          "wordCount": 338,
+          "title": "Amazon EC2 が Amazon マシンイメージ (AMI) のサービスクォータを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9b29239885ea1d9f2def78c899c0b0de87ee9014",
+          "author": "aws@amazon.com",
+          "description": "本日より、すべての新しい AWS Directory Service for Microsoft AD (AWS Managed Microsoft AD) ディレクトリが Windows Server 2019 で実行できるようになりました。既存のディレクトリを持つユーザーは、数回のクリックだけで、または API を使ってプログラムから更新できます。この機能により、営業時間中のピーク時を避けるなどして、都合のよいときに既存のディレクトリの更新を実施できます。また、2023 年 3 月に AWS はあらゆる AWS Managed Microsoft AD ディレクトリから Windows Server 2019 への自動の更新を開始します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-managed-microsoft-ad-available-windows-server-2019/",
+          "publishedOn": "2022-10-24T17:16:25.000Z",
+          "wordCount": 342,
+          "title": "AWS Managed Microsoft AD が Windows Server 2019 で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "deae7c6621dd42e1510c76f7fb64c031440204f2",
+          "author": "aws@amazon.com",
+          "description": "AWS Launch Wizard は、SAP S/4HANA、BW/4HANA、NetWeaver on HANA ソリューションに加え、SAP Solution Manager 7.2 のデプロイに対応しました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-launch-wizard-now-automates-deployment-sap-solution-manager/",
+          "publishedOn": "2022-10-24T17:02:15.000Z",
+          "wordCount": 337,
+          "title": "AWS Launch Wizard が SAP Solution Manager のデプロイを自動化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7be41f4b534ad919067a4ed5643ddb93560af521",
+          "author": "aws@amazon.com",
+          "description": "EMR Serverless で、ネイティブの Apache Spark UI と Hive Tez UI を使用してジョブのモニタリングとデバックを行えるようになりました。Apache Spark UI と Hive Tez UI は、実行中および完了したジョブに関する詳細情報をビジュアルインターフェイスで表示します。ジョブ固有のメトリクス、および各ジョブのイベントタイムライン、ステージ、タスク、エグゼキュターに関する情報をさらに詳しく確認可能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/monitor-amazon-emr-serverless-jobs-real-time-native-spark-hiv-tez-ui/",
+          "publishedOn": "2022-10-24T17:01:26.000Z",
+          "wordCount": 355,
+          "title": "Amazon EMR Serverless ジョブがネイティブの Spark UI と Hive Tez UI によりリアルタイムでモニタリング可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "008f6809500ab21897d4cf2d247b8574bc05ef2f",
           "author": "aws@amazon.com",
           "description": "AWS Cloud Map が中東 (UAE) AWS リージョンで利用可能になりました。AWS Cloud Map は、クラウドリソース検出サービスです。AWS Cloud Map では、Amazon Elastic Container Services (Amazon ECS) タスク、Amazon Elastic Compute Cloud (Amazon EC2) インスタンス、Amazon DynamoDB テーブル、その他のクラウドリソースなどのアプリケーションリソースのカスタム名を定義できます。その後、このカスタム名を使用することによって、AWS SDK と認証済み API クエリを使用し、アプリケーションからクラウドリソースの場所とメタデータを見つけることができます。",
@@ -4636,6 +4676,46 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/mysqlpr_1.html",
+          "author": null,
+          "description": "MySQLは代表的なオープンソースのデータベースとして、WordPressのような比較的小規模なアプリケーションから業務システムのバックエンドまで、非常に幅広い分野で使われている非常に成功したソフトウェアの1つといえます。 オープンソースの...",
+          "link": "https://www.publickey1.jp/blog/22/mysqlpr_1.html",
+          "publishedOn": "2022-10-24T16:52:36.000Z",
+          "wordCount": 1222,
+          "title": "MySQLの商用テクニカルサポートはどんな風に役立つのか？「バージョンアップに失敗、助けてください」「パフォーマンスが遅いです」など［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/mysql_support06.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/googlefirebase_hostingnextjsangular_universalwebfirebase_summit_2022.html",
+          "author": null,
+          "description": "Googleは10月18日に米ニューヨークでモバイル向けのバックエンドサービスであるFirebaseにフォーカスしたイベント「Firebase Summit 2022」を開催しました。 このイベントでGoogleは、これまで静的なWebサイ...",
+          "link": "https://www.publickey1.jp/blog/22/googlefirebase_hostingnextjsangular_universalwebfirebase_summit_2022.html",
+          "publishedOn": "2022-10-24T16:40:24.000Z",
+          "wordCount": 1223,
+          "title": "Googleの「Firebase Hosting」がNext.jsとAngular Universalによる動的Webサイトもサポート、コマンド一発でデプロイ。Firebase Summit 2022",
+          "imageUrl": "https://www.publickey1.jp/2022/firebasehosting_ssr01.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/googlenosqlfirestore1firebase_summit_2022.html",
+          "author": null,
+          "description": "Googleは10月18日に米ニューヨークでモバイル向けのバックエンドサービスであるFirebaseにフォーカスしたイベント「Firebase Summit 2022」を開催しました。 GoogleはこのFirebase Summitで、F...",
+          "link": "https://www.publickey1.jp/blog/22/googlenosqlfirestore1firebase_summit_2022.html",
+          "publishedOn": "2022-10-24T16:35:39.000Z",
+          "wordCount": 1212,
+          "title": "Googleのモバイル向けNoSQL「Firestore」が秒間1万回の書き込み制限を撤廃、事実上無制限のスケーラビリティを提供。Firebase Summit 2022",
+          "imageUrl": "https://www.publickey1.jp/2022/firebase_salablebaas.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/nosqlfirestorecounttime_to_livefirebase_summit_2022.html",
+          "author": null,
+          "description": "Googleは10月18日に米ニューヨークでモバイル向けのバックエンドサービスであるFirebaseにフォーカスしたイベント「Firebase Summit 2022」を開催し、モバイル向けのNoSQLデータベースFirebaseの新機能と...",
+          "link": "https://www.publickey1.jp/blog/22/nosqlfirestorecounttime_to_livefirebase_summit_2022.html",
+          "publishedOn": "2022-10-24T16:34:36.000Z",
+          "wordCount": 1219,
+          "title": "モバイル向けNoSQL「Firestore」で件数を数える「count()関数」、期限付きデータ「Time To Live」など新機能。Firebase Summit 2022",
+          "imageUrl": "https://www.publickey1.jp/2022/firestore_count_ttl02.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/google_cloudjavaeclipse_temuringoogleeclipse_adoptium.html",
           "author": null,
           "description": "Eclipse FoundationのAdoptiumワーキンググループは、Googleが同ワーキンググループに参加したことを発表しました。 Google has joined the Eclipse #Adoptium Working G...",
@@ -5342,6 +5422,16 @@
       "feedUrl": "https://www.technologyreview.jp/feed/",
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
+        {
+          "id": "https://www.technologyreview.jp/?p=288725",
+          "author": "James Temple",
+          "description": "ビル・ゲイツらが創設した投資ファンド「ブレークスルー・エナジー」は、従来からの脱炭素技術に加え、自然災害対策などの「適応」分野への投資を拡大する。",
+          "link": "https://www.technologyreview.jp/s/288725/bill-gates-energy-venture-fund-is-expanding-into-climate-adaptation-and-later-stage-investments/",
+          "publishedOn": "2022-10-24T21:56:54.000Z",
+          "wordCount": 1341,
+          "title": "ビル・ゲイツの気候ファンド、「適応」にも投資拡大へ",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/20075504/9EB9AE7B-0FF0-4C1F-B51D-A95738F74384-1181x787.jpeg"
+        },
         {
           "id": "https://www.technologyreview.jp/?p=288683",
           "author": "Anmol Irfan",
@@ -6051,16 +6141,6 @@
           "wordCount": 1327,
           "title": "高齢者に運動なぜ必要？ 筋肉が脳を健康に保つ仕組み",
           "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/08/22182004/SO22_explained_brainexercise-1398x787.jpeg"
-        },
-        {
-          "id": "https://www.technologyreview.jp/n/2022/09/25/286752/",
-          "author": "MIT Technology Review Japan",
-          "description": "",
-          "link": "https://www.technologyreview.jp/n/2022/09/25/286752/",
-          "publishedOn": "2022-09-25T08:18:48.000Z",
-          "wordCount": 699,
-          "title": "「はやぶさ2」チーム、リュウグウの進化をシミュレーション再現",
-          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
         }
       ]
     },
@@ -6069,6 +6149,106 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/264367/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/264367/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T18:34:02.000Z",
+          "wordCount": 894,
+          "title": "11/2(水)【第1467回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/264366/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/264366/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T18:32:28.000Z",
+          "wordCount": 894,
+          "title": "11/2(水)【第1466回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://wakayama-rb.connpass.com/event/264364/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/30 13:00 ～ 18:00<br />開催場所: 〒640-8226 和歌山県和歌山市小人町6(正和情報サービス)<br /><br /><h4>募集内容</h4>\n<p>Rubyを勉強したい方、Rubyを楽しみたい方を募集しています。mrubyボードの自作も行っていますので、RubyとIoTに興味のある方も是非お越しください。最近ではLoRa無線ボードやRaspberryPiも触ったりしています。</p>\n<h4>イベント内容</h4>\n<p>イベントの内容的には、みんなで集まってRubyやRails、またはmrubyについて、もくもくと勉強するものです。wakayamarb.orgサーバにユーザを作りまして、Railsの実践勉強もできたりします。\n　勉強していてわからないことがあれば、周りのメンバーに気軽に聞いて、お互いに理解しあいましょう。\n　まだ、運営も不慣れなので、みんなで助け合って進めてもらえたら嬉しいです。</p>\n<h4>共同開催</h4>\n<p><a href=\"https://wakayama-dezimoku.connpass.com/event/264365/\" rel=\"nofollow\">和歌山デジもく会(和歌山デジタル工作もくもく会)</a>との共同開催になります。<br></p>\n<h4>スケジュール</h4>\n<table>\n<thead>\n<tr>\n<th>時　間</th>\n<th>内　　容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>13:00～13:15</td>\n<td>1分の自己紹介タイム。　自分のやりたいことや聞きたいことがあれば、みんなに伝えてください。</td>\n</tr>\n<tr>\n<td>13:15～13:30</td>\n<td>最近の活動報告「Fukuoka mruby Kaigi 2022」の内容紹介</td>\n</tr>\n<tr>\n<td>13:30～17:45</td>\n<td>もくもく勉強会、およびNASA事前ワークショップ開始。</td>\n</tr>\n<tr>\n<td>17:45～17:55</td>\n<td>1分成果報告</td>\n</tr>\n<tr>\n<td>17:55～18:00</td>\n<td>後片付けして帰りましょう。</td>\n</tr>\n</tbody>\n</table>\n<h4>こんなことは教えられそうです・・・</h4>\n<ul>\n<li>rubyの基礎</li>\n<li>mrubyについて</li>\n<li>ソフトウェアの知識全般</li>\n</ul>",
+          "link": "https://wakayama-rb.connpass.com/event/264364/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T18:26:28.000Z",
+          "wordCount": 974,
+          "title": "もくもくRuby勉強会@和歌山 #106",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/25/13/2513d164c247ae97b712fede7960d378.png"
+        },
+        {
+          "id": "https://wakayama-dezimoku.connpass.com/event/264365/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/30 13:00 ～ 18:00<br />開催場所: 〒640-8226 和歌山県和歌山市小人町6(正和情報サービス)<br /><br /><h4>募集内容</h4>\n<p>マイコンなどを使ったデジタル工作を勉強したい方、楽しみたい方を募集しています。いろいろな基板の自作も行っています。IoTなどに興味のある方も是非お越しください。</p>\n<h4>イベント内容</h4>\n<p>イベントの内容的には、みんなで集まって、もくもくと勉強するものです。勉強していてわからないことがあれば、周りのメンバーに気軽に聞いて、お互いに理解しあいましょう。</p>\n<p>まだ、運営も不慣れなので、みんなで助け合って進めてもらえたら嬉しいです。</p>\n<h4>共同開催</h4>\n<p><a href=\"https://wakayama-rb.connpass.com/event/264364/\" rel=\"nofollow\">Ruby勉強会@和歌山との共同開催</a>です。この機会にRuby言語にも触れてみてください。<br></p>\n<h4>スケジュール</h4>\n<table>\n<thead>\n<tr>\n<th>時　間</th>\n<th>内　　容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>13:00～13:15</td>\n<td>1分の自己紹介タイム。　自分のやりたいことや聞きたいことがあれば、みんなに伝えてください。</td>\n</tr>\n<tr>\n<td>13:15～13:30</td>\n<td>最近の活動報告「Fukuoka mruby Kaigi 2022」の内容紹介</td>\n</tr>\n<tr>\n<td>13:30～17:45</td>\n<td>もくもく勉強会、およびNASA事前ワークショップ開始。</td>\n</tr>\n<tr>\n<td>17:45～17:55</td>\n<td>1分成果報告</td>\n</tr>\n<tr>\n<td>17:55～18:00</td>\n<td>後片付けして帰りましょう。</td>\n</tr>\n</tbody>\n</table>",
+          "link": "https://wakayama-dezimoku.connpass.com/event/264365/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T18:25:35.000Z",
+          "wordCount": 969,
+          "title": "和歌山デジもく会 #53　(和歌山デジタル工作もくもく会)",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8f/4c/8f4c8ec3225c5e2b99b353ab9345102f.png"
+        },
+        {
+          "id": "https://zeki-chan-lab.connpass.com/event/264361/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/27 21:30 ～ 23:00<br />開催場所: オンライン<br /><br /><h1>最近のトレンドサーバレスを体験しよう</h1>\n<h2>何が学べるの？</h2>\n<p>このハンズオンではAWS環境で最近のトレンドである<br>\n・サーバレス<br>\n・IaC（Infrastructure as Code）<br>\n・統合開発環境(IDE)  </p>\n<p>を体験することが可能です！  </p>\n<h2>やること</h2>\n<p>AWS CloudFormationを使用した基盤の自動構築<br>\nCloud9を使用したECRリポジトリ作成<br>\nECS Fargateを使用したサーバレスwebサービスの構築　\nを行います。</p>\n<h2>私でもできるかな？</h2>\n<p>今回のハンズオンは最低限のAWSやインフラの知識がある方向けに作成しております<br>\n自身が無い方はハンズオンLabの「AWS資格対策!EC2でWEBサーバを作るハンズオン」もおすすめです(^_-)-☆  </p>\n<h5>具体的な対象者</h5>\n<p>IT経験1年以上<br>\nLinuxコマンドが普通に打てる<br>\n手順書をみて作業を実施することができる<br>\n一般的なVPC～EC2を一人で作成することができる  </p>\n<p>上記の様な方を想定しています。  </p>\n<h2>こんな方におすすめ</h2>\n<ul>\n<li>EC2などの構築はできるけど次のステップは何を勉強したらいいのかが分からない方  </li>\n<li>ECSサービスを体験してみたい方  </li>\n<li>インフラエンジニアの友人が欲しい方<br>\nにおすすめです。</li>\n</ul>\n<h1>得られるモノは3つ</h1>\n<ul>\n<li>IaCをなんとなく理解する</li>\n<li>統合開発環境を体験できる</li>\n<li>サーバレスが何なのかをなんとなく理解できる。</li>\n</ul>\n<h1>こんな感じで進めます</h1>\n<p>合計90分を予定しています。</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"center\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">10分</td>\n<td align=\"center\">自己紹介と参加者さんとのコミュニケーション</td>\n</tr>\n<tr>\n<td align=\"left\">10分</td>\n<td align=\"center\">やる気を上げるIT市場の気になる話</td>\n</tr>\n<tr>\n<td align=\"left\">65分</td>\n<td align=\"center\">ハンズオン</td>\n</tr>\n<tr>\n<td align=\"left\">5分</td>\n<td align=\"center\">質疑応答ができるLine@のご紹介</td>\n</tr>\n<tr>\n<td align=\"left\">計90分</td>\n<td align=\"center\">+α 終わりに</td>\n</tr>\n</tbody>\n</table>\n<h3>会場 と参加費用</h3>\n<ul>\n<li>Google Meet</li>\n</ul>\n<p><strong>参加申し込みをすると本ページにて「参加者への情報」が確認できるようになります。</strong><br>\n<strong>そちらにGoogle Meetの参加URLを記述させていただいております。</strong> <br>\n<strong>繋がりを大事にしますのでカメラとマイクはオンでお願いします。</strong>    </p>\n<ul>\n<li>参加費：AWS利用料　概算300円くらい</li>\n</ul>\n<h1>当日ご準備頂くもの</h1>\n<ul>\n<li>\n<p>PC(ウェブブラウザが使えるモノ)  </p>\n</li>\n<li>\n<p>AWSアカウント(事前登録必要) ※お持ちでない方について\nAWS登録方法<br>\nhttps://engineers-house.tokyo/aws-firststep  </p>\n</li>\n<li>\n<p>ハンズオンに必要な設定ファイル各種<br>\n以下よりダウンロードが可能です。<br>\n<a href=\"https://github.com/Hoshi-Wataru/compass-ecs-handson\" rel=\"nofollow\">https://github.com/Hoshi-Wataru/compass-ecs-handson</a>  </p>\n</li>\n</ul>\n<p>ハンズオン当日のAWSアカウント作成サポートは行いませんので事前に登録をお願いします</p>\n<h1>主催者</h1>\n<p>【名前】  </p>\n<ul>\n<li>ワタル  </li>\n</ul>\n<p>【年齢】</p>\n<ul>\n<li>27歳  </li>\n</ul>\n<p>【現在】<br>\nIT業界7年目のインフラエンジニアです。  </p>\n<ul>\n<li>\n<p>肩書<br>\nシステムエンジニア/投資家  </p>\n</li>\n<li>\n<p>経歴<br>\n監視オペレーター業務<br>\nLinuxサーバとWindowsサーバで運用されているシステムの運用保守<br>\nAWSアーキテクチャ  </p>\n</li>\n<li>\n<p>ハンズオンをやっている理由<br>\nこのコミュニティを盛り上げたい一心でやっております。  </p>\n</li>\n</ul>\n<h1>参加者特典</h1>\n<p><em>ハンズオン資料<br>\n</em> ハンズオンLabコミュニティへのご招待  </p>\n<h1>補足</h1>\n<ul>\n<li>\n<p>IT未経験等の方はハンズオンLabにて開催している<br>\n・AWS資格対策!EC2でWEBサーバを作るハンズオン<br>\n・【LinuC1対策】Virtual Box×CentOS環境構築ハンズオン<br>\nの参加をおすすめいたします。  </p>\n</li>\n<li>\n<p>余った時間に懇親会が御座いますので同じ目標をもった仲間も探せます。</p>\n</li>\n<li>\n<p>当日00:00時点で参加者が0名の場合は中止します。</p>\n</li>\n</ul>\n<h1>運営メンバー募集中</h1>\n<p>今後、会場を借りてのイベント企画を打つため\n関東近辺でコミュニケーションが取れる運営メンバー募集中です。</p>\n<p>詳しくは、お声掛けくださいー。</p>\n<h1>禁止事項</h1>\n<ul>\n<li>マウント発言等の人を見下す言動</li>\n<li>誹謗中傷や荒らし行為、威圧的な言動等</li>\n<li>営業活動、マルチ勧誘、プログラミングスクールの勧誘等</li>\n<li><strong>当日の無断キャンセル<br>\n（他の参加希望の方にご迷惑が掛かるため、2回以上行った場合は次回以降の参加をお断りする場合がございます。）</strong></li>\n<li>etc</li>\n</ul>\n<p>相手を不快にさせる行為は厳禁です。<br>\nまた、本ハンズオンは有料級のハンズオンを無料で提供しています。<br>\n受け身ではなく積極的に関わる姿勢で参加いただければと思っております。  </p>\n<p>AWS AWSSAA AWSECS サーバレス IaC ハンズオン</p>",
+          "link": "https://zeki-chan-lab.connpass.com/event/264361/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T15:20:07.000Z",
+          "wordCount": 1242,
+          "title": "AWSでサーバレスを体験しよう！ ECSFargateハンズオン",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/10/f9/10f92b8e46bba48b3663b84f45542dd5.png"
+        },
+        {
+          "id": "https://zeki-chan-lab.connpass.com/event/264360/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/30 07:30 ～ 09:00<br />開催場所: オンライン<br /><br /><h1>朝活で一日をスタートしよう</h1>\n<p>もくもくの内容はなんだもおっけーです。\n読書、プログラミング、試験勉強、副業など自分が集中して勉強したいことをもくもくしてください</p>\n<h1>こんな感じで進めます</h1>\n<p>合計90分を予定しています。</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"center\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">10分(07:40)</td>\n<td align=\"center\">自己紹介</td>\n</tr>\n<tr>\n<td align=\"left\">50分 (08:30)</td>\n<td align=\"center\">自己学習</td>\n</tr>\n<tr>\n<td align=\"left\">30分 (09:00)</td>\n<td align=\"center\">成果発表&amp;雑談会</td>\n</tr>\n<tr>\n<td align=\"left\">計90分</td>\n<td align=\"center\">+α 終わりに</td>\n</tr>\n</tbody>\n</table>\n<h1>メリット</h1>\n<ul>\n<li>一日の生産性が上がる。  </li>\n<li>新しいエンジニアとの人脈が作れる  </li>\n<li>アウトプットの練習ができる。  </li>\n<li>課題の解決ができる。  </li>\n</ul>\n<h1>概要</h1>\n<p>途中参加・途中退出問題なし<br>\n顔出し自由  </p>\n<h5>具体的な対象者</h5>\n<ul>\n<li>IT業界の興味がある方  </li>\n<li>現在エンジニアの方  </li>\n<li>エンジニアの人脈を求めている方  </li>\n</ul>\n<h3>会場 と参加費用</h3>\n<ul>\n<li>Google Meet（無料）</li>\n</ul>\n<p><strong>参加申し込みをすると本ページにて「参加者への情報」が確認できるようになります。</strong><br>\n<strong>そちらにGoogle Meetの参加URLを記述させていただいております。</strong>   </p>\n<h1>当日ご準備頂くもの</h1>\n<ul>\n<li>PC(ウェブブラウザが使えるモノ)  </li>\n</ul>\n<h1>主催者</h1>\n<p>【名前】  </p>\n<ul>\n<li>ワタル  </li>\n</ul>\n<p>【年齢】</p>\n<ul>\n<li>27歳  </li>\n</ul>\n<p>【現在】<br>\nIT業界7年目のインフラエンジニアです。  </p>\n<ul>\n<li>\n<p>肩書<br>\nシステムエンジニア/投資家  </p>\n</li>\n<li>\n<p>経歴<br>\n監視オペレーター業務<br>\nLinuxサーバとWindowsサーバで運用されているシステムの運用保守<br>\nAWSアーキテクチャ  </p>\n</li>\n<li>\n<p>もくもく会をやっている理由<br>\nこのコミュニティを盛り上げたい一心でやっております。  </p>\n</li>\n</ul>\n<h1>運営メンバー募集中</h1>\n<p>今後、会場を借りてのイベント企画を打つため\n関東近辺でコミュニケーションが取れる運営メンバー募集中です。</p>\n<p>詳しくは、お声掛けくださいー。</p>\n<h1>禁止事項</h1>\n<ul>\n<li>マウント発言等の人を見下す言動</li>\n<li>誹謗中傷や荒らし行為、威圧的な言動等</li>\n<li>営業活動、マルチ勧誘、プログラミングスクールの勧誘等</li>\n<li><strong>当日の無断キャンセル<br>\n（他の参加希望の方にご迷惑が掛かるため、2回以上行った場合は次回以降の参加をお断りする場合がございます。）</strong></li>\n<li>etc</li>\n</ul>",
+          "link": "https://zeki-chan-lab.connpass.com/event/264360/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T15:18:36.000Z",
+          "wordCount": 1105,
+          "title": "【もくもく会】朝活もくもく会で一日をスタートしよう",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8c/96/8c9681cf85b13023d76956910f6b98d4.png"
+        },
+        {
+          "id": "https://zeki-chan-lab.connpass.com/event/264359/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/29 07:30 ～ 09:00<br />開催場所: オンライン<br /><br /><h1>朝活で一日をスタートしよう</h1>\n<p>もくもくの内容はなんだもおっけーです。\n読書、プログラミング、試験勉強、副業など自分が集中して勉強したいことをもくもくしてください</p>\n<h1>こんな感じで進めます</h1>\n<p>合計90分を予定しています。</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"center\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">10分(07:40)</td>\n<td align=\"center\">自己紹介</td>\n</tr>\n<tr>\n<td align=\"left\">50分 (08:30)</td>\n<td align=\"center\">自己学習</td>\n</tr>\n<tr>\n<td align=\"left\">30分 (09:00)</td>\n<td align=\"center\">成果発表&amp;雑談会</td>\n</tr>\n<tr>\n<td align=\"left\">計90分</td>\n<td align=\"center\">+α 終わりに</td>\n</tr>\n</tbody>\n</table>\n<h1>メリット</h1>\n<ul>\n<li>一日の生産性が上がる。  </li>\n<li>新しいエンジニアとの人脈が作れる  </li>\n<li>アウトプットの練習ができる。  </li>\n<li>課題の解決ができる。  </li>\n</ul>\n<h1>概要</h1>\n<p>途中参加・途中退出問題なし<br>\n顔出し自由  </p>\n<h5>具体的な対象者</h5>\n<ul>\n<li>IT業界の興味がある方  </li>\n<li>現在エンジニアの方  </li>\n<li>エンジニアの人脈を求めている方  </li>\n</ul>\n<h3>会場 と参加費用</h3>\n<ul>\n<li>Google Meet（無料）</li>\n</ul>\n<p><strong>参加申し込みをすると本ページにて「参加者への情報」が確認できるようになります。</strong><br>\n<strong>そちらにGoogle Meetの参加URLを記述させていただいております。</strong>   </p>\n<h1>当日ご準備頂くもの</h1>\n<ul>\n<li>PC(ウェブブラウザが使えるモノ)  </li>\n</ul>\n<h1>主催者</h1>\n<p>【名前】  </p>\n<ul>\n<li>ワタル  </li>\n</ul>\n<p>【年齢】</p>\n<ul>\n<li>27歳  </li>\n</ul>\n<p>【現在】<br>\nIT業界7年目のインフラエンジニアです。  </p>\n<ul>\n<li>\n<p>肩書<br>\nシステムエンジニア/投資家  </p>\n</li>\n<li>\n<p>経歴<br>\n監視オペレーター業務<br>\nLinuxサーバとWindowsサーバで運用されているシステムの運用保守<br>\nAWSアーキテクチャ  </p>\n</li>\n<li>\n<p>もくもく会をやっている理由<br>\nこのコミュニティを盛り上げたい一心でやっております。  </p>\n</li>\n</ul>\n<h1>運営メンバー募集中</h1>\n<p>今後、会場を借りてのイベント企画を打つため\n関東近辺でコミュニケーションが取れる運営メンバー募集中です。</p>\n<p>詳しくは、お声掛けくださいー。</p>\n<h1>禁止事項</h1>\n<ul>\n<li>マウント発言等の人を見下す言動</li>\n<li>誹謗中傷や荒らし行為、威圧的な言動等</li>\n<li>営業活動、マルチ勧誘、プログラミングスクールの勧誘等</li>\n<li><strong>当日の無断キャンセル<br>\n（他の参加希望の方にご迷惑が掛かるため、2回以上行った場合は次回以降の参加をお断りする場合がございます。）</strong></li>\n<li>etc</li>\n</ul>",
+          "link": "https://zeki-chan-lab.connpass.com/event/264359/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T15:18:07.000Z",
+          "wordCount": 1110,
+          "title": "【もくもく会】朝活もくもく会で一日をスタートしよう 土曜日",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8c/96/8c9681cf85b13023d76956910f6b98d4.png"
+        },
+        {
+          "id": "https://minna-systems.connpass.com/event/264353/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/27 19:00 ～ 21:00<br />開催場所: 東京都墨田区緑3-1-14 外山ハイツ502<br /><br /><h1>イベント概要</h1>\n<p>初開催！みんなシステムズが主催するもくもく会です。</p>\n<p>オンライン、オフラインどちらでも好きな方法で参加できます。</p>\n<p>オフラインの方は弊社の事務所に直接お越しください。<br>\nオンラインの方にはGoogle Meetのリンクをお送りいたします。<br>\n初心者も大歓迎です！！</p>\n<p>以下のような悩みを抱えている方、一緒に勉強しましょう！</p>\n<ul>\n<li>プログラミングの勉強を始めたばかりだけど勉強の進め方が分からない</li>\n<li>詰まった時に聞ける人がいて欲しい！</li>\n<li>業務でPHPやLaravelを使っているが、そこまで使いこなせていないので勉強したい</li>\n<li>勉強仲間が欲しい！</li>\n<li>成長したい！</li>\n<li>など</li>\n</ul>\n<p>HTMLやCSSはもちろんのこと、PHP・Laravelであればフォローも可能です！</p>\n<p>基本的にはもくもくして、質問があれば気軽に聞ける場にしていきたいと思います。</p>\n<h1>タイムスケジュール</h1>\n<p>19:00 - 挨拶・作業の準備、今日やることの宣言</p>\n<p>19:15 -  もくもくタイム（1時間30分）</p>\n<p>20:45 - 作業終了、今日やった内容を報告して終了</p>",
+          "link": "https://minna-systems.connpass.com/event/264353/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T15:05:06.000Z",
+          "wordCount": 964,
+          "title": "【墨田区】みんシスもくもく会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9c/e6/9ce690e3b863563a59e59d11bc274914.png"
+        },
+        {
+          "id": "https://dsw.connpass.com/event/264276/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/12/15 12:30 ～ 2022/12/16 12:00<br />開催場所: 東京都千代田区神田駿河台1-8-14<br /><br /><p><a href=\"https://sites.google.com/site/jssstdsw/\" rel=\"nofollow\">ディペンダブルシステムワークショップ (DSW)</a> は、ディペンダビリティに関する理論や実装を研究している学生・研究者・技術者が一堂に会し、所属組織を超えた交流を通してディペンダビリティ研究を促進・振興し、もって情報システム、ひいては社会システムのディペンダビリティ向上に貢献することを目指すワークショップです。おおよそ年1回の開催を重ね、今回の DSW 2022 で 20 回目となります。</p>\n<p>今回のDSWは<a href=\"https://dsw.connpass.com/event/224133/\" rel=\"nofollow\">前回</a>とは異なり、現地およびオンラインのハイブリッド開催といたしました。詳細につきましては <a href=\"https://sites.google.com/site/jssstdsw/dsw2022\" rel=\"nofollow\">DSW 2022 のウェブサイト</a> をご覧下さい。</p>\n<p>発表・参加を希望される方は、以下の「参加枠」、「参加形態」および「参加申込み期限」をご確認頂き、connpass 上でお申込みください。 皆様奮ってご発表・ご参加下さい。</p>\n<h1>招待講演</h1>\n<ul>\n<li>木下 佳樹 氏 (神奈川大学)<ul>\n<li>「開放系の総合信頼性：その概念と標準化」</li>\n</ul>\n</li>\n<li>蓮尾 一郎 氏 (国立情報学研究所)<ul>\n<li>「ソフトウェア理論研究のシステムディペンダビリティ応用： 圏論的基礎理論から自動運転安全性証明まで」</li>\n</ul>\n</li>\n</ul>\n<h1>参加枠について</h1>\n<h2>一般 (日本ソフトウェア科学会会員)</h2>\n<ul>\n<li>参加費: 現地 8000円　オンライン 1000円<ul>\n<li><a href=\"https://www.jssst.or.jp/\" rel=\"nofollow\">日本ソフトウェア科学会</a>の会員の方はこちらの参加枠でお申込み下さい</li>\n<li>参加申込み時に会員番号を必ずご入力下さい</li>\n</ul>\n</li>\n</ul>\n<h2>一般 (非会員)</h2>\n<ul>\n<li>参加費: 現地 10000円　オンライン 2000円<ul>\n<li>日本ソフトウェア科学会の会員でない方は、こちらの参加枠でお申込み下さい</li>\n</ul>\n</li>\n</ul>\n<h2>学生</h2>\n<ul>\n<li>参加費無料<ul>\n<li>学生の方はこちらの参加枠でお申し込み下さい</li>\n</ul>\n</li>\n</ul>\n<h1>参加形態</h1>\n<h2>論文発表参加</h2>\n<p>研究論文を投稿し、その内容についてオンライン登壇発表を行います。論文のページ数の制限は特になく、ショートペーパーでもフルペーパーでも歓迎します。査読はありませんが、研究会の主査・幹事が特に優れていると判断した論文は、ワークショップ終了後に「コンピュータソフトウェア」誌の DSW 2022 推薦論文としての投稿が可能となる予定です。推薦論文は研究会幹事による迅速な査読プロセスを特長とします。発表形態は <a href=\"https://zoom.us/\" rel=\"nofollow\">Zoom</a> を用いたスライド発表で、発表時間は質疑を含めて 30 分の予定です。お申込みの際は、論文のタイトルと著者についての情報をご記入下さい。</p>\n<h2>インタラクティブ発表参加</h2>\n<p>発表者と参加者がインタラクティブに議論する場を提供します。発表者ごとにブースを用意しますので、スライド、ポスター、デモなど自由に準備して下さい。発表時間は 1 時間の予定です。<strong>（今年度はインタラクティブ発表については現地のみで実施し、オンラインでの中継は実施いたしませんので、ご注意ください）</strong></p>\n<h2>参加のみ（発表なし）</h2>\n<p>参加のみで発表はされない場合は、こちらの参加枠でお申込み下さい。</p>\n<p>※ 発表の申込があれば受理してご発表いただくことを原則と致しますが、テーマに沿わないものはお断りする場合がございます。また、申込み件数が多数に及ぶ場合は発表をお断りせざるを得ない場合もあることをあらかじめご了承下さい。</p>\n<h1>参加申込み期限</h1>\n<h2>論文発表参加申込み締切</h2>\n<p><strong>2022 年 12 月 2 日 (金)</strong> </p>\n<p>(論文本体の提出は <strong>2022 年 12 月 9 日(金)</strong> \n までにお願い致します。提出方法は <a href=\"https://sites.google.com/site/jssstdsw/dsw2022\" rel=\"nofollow\">DSW 2022 のウェブサイト</a> をご参照下さい。)</p>\n<h2>インタラクティブ発表参加申込み締切</h2>\n<p><strong>2022 年 12 月 2 日 (金)</strong> </p>\n<h2>参加のみ (発表なし) 申込み締切</h2>\n<p><strong>2022 年 12 月 9 日 (金)</strong></p>",
+          "link": "https://dsw.connpass.com/event/264276/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T15:00:55.000Z",
+          "wordCount": 1475,
+          "title": "第20回 ディペンダブルシステムワークショップ (DSW 2022)",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
+        {
+          "id": "https://hikariba.connpass.com/event/264357/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/06 12:00 ～ 21:00<br />開催場所: 山口県光市浅江1-4-14 アイオイビル3F<br /><br /><p>【積読（つんどく）】とは、本を購入した後「いつかは読もう」と思ったまま、まだ読まれずに放置してある（積んでおく）状態や、そのような状態の本のことをいいます。</p>\n<p>デザイナーやシステムエンジニアなど、クリエイティブ産業に従事される方にとっては、技術書というさまざまなバイブル本と巡り会う機会が多い一方で、ニッチな書籍が多い分、「絶版」となり後に手にすることができないこともしばしば。そこで、書籍との一期一会の機会に手にすることが多く積まれた状態の書籍が多くなりがちです。\n読書週間のいま、改めてこれらの書籍を一度ちょっとだけでも読みつつ、コワーキングスペースでの出会いと交流を楽しむティータイムはいかがですか。</p>\n<p>思い切って読書をしはじめるとついつい長くなってしまう…ということも考慮して、通常ドロップイン2時間500円(税込)のところを、本イベント参加者の方はイベント参加費として500円(税込)で、1周年記念の拡大版として、最大9時間（21時まで）ご利用いただけます。\nまた、「続きをもうちょっと読みたい！」という気持ちが出てくることも考えて、参加された方の特典として、次回ご利用いただける500円分のドロップイン無料チケットをプレゼントいたします。</p>\n<p>イベント詳細はコワーキングスペース HiKARiBAのイベントページ<a href=\"https://hikariba.jp/event/tsundoku2022fall\" rel=\"nofollow\">「積読クエスト 2022 秋 in HiKARiBA」</a>のページをご参照ください。</p>\n<h3>開催概要</h3>\n<ul>\n<li><em>開催日時</em>　2022年11月6日(日) 12:00～21:00 ※途中参加・退出自由</li>\n<li><em>場所</em>　コワーキングスペース HiKARiBA （山口県光市浅江1-4-14 アイオイビル3F）</li>\n<li><em>参加費</em>　500円(税込) ※月額会員の方は契約の範囲内で参加可</li>\n<li><em>参加資格</em>　普段積んでいて読めていない書籍をお持ちの方</li>\n<li><em>携行品</em>　「積読本」 １冊以上（ヒカリバ内の書籍を読まれる方は持参されなくても構いません）</li>\n<li><em>参加特典</em>　次回ご利用いただける500円分のドロップイン無料チケット</li>\n<li><em>参加申込</em>　以下ホームページ、またはヒカリバまでお問い合わせください</li>\n<li><em>詳細URL</em>　<a href=\"https://hikariba.jp/event/tsundoku2022fall\" rel=\"nofollow\">https://hikariba.jp/event/tsundoku2022fall</a></li>\n<li><em>問合せ先</em>　<a href=\"https://hikariba.jp/\" rel=\"nofollow\">コワーキングスペース HiKARiBA</a></li>\n<li><em>交流イベント</em>　途中、16時～17時に参加者交流タイムを実施します</li>\n<li><em>その他</em>　1周年企画として、読む本にちなんだコスプレか、読む本にあわせた面白Tシャツやアクセサリーなどのワンポイントを仕込み参加された方に粗品を進呈いたします</li>\n</ul>",
+          "link": "https://hikariba.connpass.com/event/264357/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-24T14:39:23.000Z",
+          "wordCount": 1001,
+          "title": "【読書週間企画】積読クエスト 2022 秋 in HiKARiBA",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/51/cf/51cf17eed3514b84631bc0f984576dd6.png"
+        },
         {
           "id": "https://feaber.connpass.com/event/264330/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
