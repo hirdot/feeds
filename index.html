@@ -13,291 +13,647 @@
 
 <body>
   <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2022-10-25">2022-10-25</time></h2>
+    <h2 class="daily-heading"><time datatime="2022-10-26">2022-10-26</time></h2>
     <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 303)</span>AWS IAM アイデンティティセンターのデフォルトのクォータ値の引き上げを発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS IAM アイデンティティセンター (AWS Single Sign-On の後継サービス) でデフォルトのクォータ値が引き上げられたため、環境のスケーリングが容易なりました。クォータの引き上げにより、アイデンティティセンターのインスタンスで最大 2,000 のアクセス許可セットを作成して割り当てることができます。また、AWS アクセスポータル経由でアクセスできる最大 3,000 のアプリケーションとアカウント (両者の合計) に、最大 100,000 のユーザーと 100,000 のグループを割り当てることもできます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon SageMaker Data Wrangler を使用して大規模にデータ準備を行うための変換の再適合
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日、Amazon SageMaker Data Wrangler で変換の再適合 (Refit) がサポートされるようになったことを発表します。XgBoost などのアルゴリズムでデータを使用できるようにするために、データサイエンティストはワンホットエンコーディングなどの変換方法を使用して、数値以外の値を数値に変換する必要があります。ワンホットエンコーディングのような変換はデータ依存であるため、これらの変換は適合変換と呼ばれることがよくあります。データが時間とともに変化し続けるため、これらの変換はデータの変化を考慮して更新または再適合させる必要があります。さらに、サンプルデータセットで作業するときは、サンプルデータセットとより大きなデータセットの間での変化を考慮して変換を更新する必要があります。ワンホットエンコーディングなどの変換を使用する場合、データ準備パイプラインで追跡やキャプチャを行うときに必要な追加情報が生成されます。この情報が省略されたり、正しく追跡されなかったりすると、データ準備プロセスでエラーが発生する可能性があります。変換の再適合がサポートされていなかったため、多くのデータサイエンティストにとって、変換を適合させた後のバージョンを使用するタイミングや、新しいデータに変換を再適合させるタイミングを簡単に指定する方法がありませんでした。また、データサイエンティストにとって、新しいデータセットで再適合させるときに、更新したバージョンの変換パイプラインを生成することも簡単ではありませんでした。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon Detective を使用して関連する Amazon GuardDuty の検出結果をグループ化し調査時間を短縮する
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、Amazon Detective は関連する GuardDuty の検出結果を自動的にグループ化するようになったため、セキュリティアナリストは、トリアージの時間を短縮し、より包括的なセキュリティ調査を作成できます。Detective は機械学習 (ML) を使用して、関連する GuardDuty の検出結果をグループ化します。単独では無視された可能性のある検出結果をまとめることで、攻撃のライフサイクルを明らかにできます。これにより、セキュリティアナリストは高度な脅威をより簡単に特定できます。Detective の [概要] ページには、関連する GuardDuty の検出結果のグループが重大度、影響を受けるすべての AWS アカウント、リソースとともに表示されます。さらに、Detective は、セキュリティと脅威の検出に広く採用されている MITRE ATT&amp;CK フレームワークから、検出結果の進化を戦術、技術、手順 (TTP) にマッピングします。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>FreeRTOS 長期サポート (LTS) の新しいバージョンをリリース
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日、FreeRTOS 長期サポート (LTS) の 2 番目のリリースである FreeRTOS 202210.00 LTS を発表します。このリリースには、AWS IoT Fleet Provisioning や Cellular LTE-M Interface などの新しいライブラリが含まれており、デバイスのプロビジョニングとセルラー接続が容易になります。また、モジュール性と堅牢性が向上した coreMQTT および FreeRTOS-Plus-TCP のライブラリも含まれています。この FreeRTOS LTS バージョンに含まれるすべてのライブラリ (ライブラリの一覧はこちらの記事に掲載) には、2024 年 10 月までセキュリティと重大なバグの修正が提供されます。新しく LTS がリリースされても、既存の FreeRTOS コードベースを引き続き維持し、FreeRTOS バージョンのアップグレードに起因して起こり得るいかなる中断も回避できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 412)</span>Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール)、カナダ (中部)、AWS GovCloud (米国東部) リージョンで使用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、3TiB (u-3tb1.56xlarge) のメモリの Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール) とカナダ (中部) で利用可能になりました。また、6TiB (u-6tb1.56xlarge、u-6tb1.112xlarge) のメモリの High Memory インスタンスがカナダ (中部) で、12TiB (u-12tb1.112xlarge) のメモリの High Memory インスタンスが AWS GovCloud (米国東部) が利用可能になりました。オンデマンドおよび Savings Plan の購入オプションでこれらの新しい High Memory インスタンスの使用を開始できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 339)</span>AWS Glue クローラーは既存の AWS Glue データカタログテーブルでの増分 Amazon S3 クローリングをサポート
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Glue には、Amazon S3 イベント通知に基づくクローラーが含まれています。これは、Amazon S3 のイベントに基づくデータのスキャンのみを行うことにより、データセットの検出をより簡単にする機能です。Glue クローラーによりデータスキーマが抽出され、AWS Glue データカタログに自動的に入力され、メタデータはここで最新に保たれます。S3 イベントに基づいてデータセットをクローリングすると、新しく取り込まれたデータを任意の分析および機械学習ツールですぐに利用することができるので、インサイトを取得するための時間が削減されます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 375)</span>Amazon RDS for SQL Server がマイナーバージョン 2014 SP3 CU4、2016 SP3 GDR、2017 CU 30、および 2019 CU16 をサポート
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が行われました。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Editionにおいて、SQL Server 2014、2016、2017、2019の新マイナーバージョンに対応するようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 340)</span>AWS SAM CLI パイプラインが Open ID Connect Protocol のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Serverless Application Model (SAM) コマンドラインインターフェイス (CLI) は、SAM CLI パイプラインにおける Open ID Connect (OIDC) サポートの一般提供を開始しました。AWS SAM CLI はサーバーレスアプリケーションの構築、テスト、パッケージ化、デプロイを簡単にするデベロッパーツールです。SAM パイプラインは Jenkins、GitLab、GitHub Actions、Atlassian Bitbucket Pipelines、AWS CodePipeline を使用して、サーバーレスアプリケーションの継続的インテグレーションおよびデプロイ (CI/CD) パイプラインを簡単に作成できるようにします。SAM パイプラインには、すべてのサポート対象システムの一連のデフォルトのパイプラインテンプレートが事前にパッケージ化されており、複数のアカウントおよび複数のリージョンでの安全なデプロイに関する AWS のベストプラクティスが紹介されています。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>RStudio on Amazon SageMaker が新たなデベロッパー生産性機能とセキュリティ機能を搭載
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>RStudio on Amazon SageMaker が RStudio Workbench バージョン 2022.02.2-485.pro2 に対応し、デベロッパー生産性機能とセキュリティ機能が向上しました。これらの新機能には、高性能化した R のヘルプシステム、R パイプバインドプレースホルダーの向上したエディタサポート、そして RStudioServerPro と RSession アプリケーション間の通信を保護する完全なエンドツーエンド暗号化などがあります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 301)</span>AWS Transfer Family が部分的にアップロードされたファイルのアップロード後の処理のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Transfer Family では、マネージド型ワークフローを使用した、部分的にアップロードされたファイルのアップロード後の処理のサポートを開始しました。これにより、完全なアップロードファイルと不完全なアップロードファイルの両方に対して、ファイル処理手順の定義と実行をより詳細に制御できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 360)</span>Amazon Athena がクエリエンジンをアップグレード
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Athena の SQL クエリエンジンがアップグレードされ、Trino オープンソースプロジェクトの最新機能に対応しました。Athena エンジンバージョン 3 の特徴としては、50 を超える新しい SQL 機能、30 の新機能、そして 90 以上のクエリパフォーマンス向上などが挙げられます。今回のアップグレードにより、Athena は、Trino と Presto のプロジェクトの流通性を高めるようなオープンソースソフトウェア管理に対する継続的インテグレーションアプローチも導入しています。それにより、お客様は Athena エンジン内で統合、調整されたコミュニティの改良点により早くアクセスできるようになります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 298)</span>Amazon Lex がヒンディー語とオランダ語のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Lex がヒンディー語とオランダ語のサポートを開始しました。Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、構築した会話型エクスペリエンスをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>Amazon RDS が既存の RDS または Aurora データベースと EC2 コンピューティングインスタンス間の自動接続設定のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、既存のAmazon Relational Database Service (Amazon RDS) または Amazon Aurora データベースと Amazon Elastic Compute Cloud (Amazon EC2) コンピューティングインスタンスの間で自動で接続の設定ができるようになりました。 Amazon RDS コンソールから、RDS または Aurora データベースと EC2 インスタンス間の接続を設定するためのアクションを選択できます。Amazon RDS では、関連するネットワーク設定が自動でセットアップされ、EC2 インスタンスと RDS データベース間の安全な接続が実現されます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.technologyreview.jp">MITテクノロジーレビュー</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 677)</span>ゆっくりした動きで発電するウェアラブル発電機＝理研など
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/289110/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1189)</span>米国が電池材料でも脱中国へ、産業育成に28億ドル投資
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/s/288803/billions-in-funding-could-kick-start-the-us-battery-materials-industry/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>米政府は、電気自動車向けバッテリーの材料の生産に携わる企業を支援するため、28億ドルの助成金を拠出する。現在、電池製造のサプライチェーンの上流の多くが中国にあるため、電池の材料を国内で製造・調達できるようにする。 		
-
-こちらは会員限定の記事です。
-メールアドレスの登録で続きを読めます。
-
-
-会員登録して読む
-
-ログインして読む
-
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る
-
-
-
-
-
-
-
-
-こちらは有料会員限定の記事です。
-有料会員になると制限なしにご利用いただけます。
-
-
-有料会員にはメリットがいっぱい！
-
-
-毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
-
-オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
-重要テーマが押さえられる。
-
-各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
-
-
-
-有料プランの詳細を見る</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 679)</span>アインシュタインの100年越しの宿題、相対論的電場を直接実証
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/289102/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 678)</span>理研など、心筋の脂肪酸代謝を近赤外光で画像化
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/288874/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>2 min</time> : 679)</span>波がプラズマの熱を運ぶ過程を初観測＝核融合研など
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/25/289012/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>No content preview</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://connpass.com/explore/">connpass 新着イベント</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>5 min</time> : 1469)</span>Serverless Meetup Japan Virtual #24
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://serverless.connpass.com/event/263830/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/01/18 20:00 ～ 22:00
+開催場所: オンライン
+
+
+配信のURLは当日昼をめどにイベントページへの掲載・メールでのご連絡をさしあげる予定です。連絡がない場合は、本イベントページに掲載されている Serverless Community(JP) YouTubeチャンネルで当日配信を開始しますので、チャンネルページを開いてお待ちください。
+最新情報は、下記より発信いたします。ご確認の程よろしくおねがいいたします。
+connpassのイベントページ、およびconnpass経由のメール
+Twitterアカウント @serverlessjp およびハッシュタグ #serverlessjp
+はじめに(重要事項)
+Meetupイベントのスピーカーを公募しています
+Serverless Community(JP)では以下のようなセッションを話してもらえる人を通年で募集しています。
+サーバーレス・アーキテクチャのビジネス上の知見
+サーバーレス・アーキテクチャの設計上の知見
+サーバーレスを実践して得られた技術的な知見
+サーバーレス・エコシステム向けのツールチェインや製品紹介(OSSやクラウド製品)
+その他サーバーレスに関して「役立つ」「情熱的な」アイデアやストーリー
+→ 応募ページ https://forms.gle/Wx2srv9ooh9qNQji8
+Serverless Meetupとそのスコープについて
+Serverless Meetup は全世界の150箇所以上で運営されているServerless Architectureやその周辺技術のITコミュニティであり、その数は今も増え続けています。日本では「東京」「大阪」「札幌」「福岡」で定期的に開催されています。
+どのMeetupグループも毎月のようにアプリ開発者／プラットフォーマー／フレームワークメンテナーなどが知見を共有し合っています。
+Agenda
+ひさしぶりの開催になります。AWS re:Invent 2022 のサーバーレスアップデートをすばやくキャッチアップできる2時間になってます
+いつもと同様にコミュニティメンバーも入って各アップデートの詳細についていろいろ聞いたり感想言ったりします
+Meet the Expert!!
+Timeline
+Title
+Speaker (敬称略)
+
+
+
+
+20:00-22:00
+TBA
+TBA
+
+
+
+※タイムテーブルは予告なく変更になることがあります
+Big Thanks to our Sponsors
+Serverless Community(JP)では持続的なコミュニティの活動を支援してくれるかたを募集中です。
+Speakers
+TBA
+絶賛募集中
+Kensuke Shimokawa (アマゾンウェブサービスジャパン)
+
+Serverless Specialist Solutions Architect として AWS Japanに勤務。
+Serverlessの大好きな特徴は、ビジネスロジックに集中できるところ。
+ビジネスオーナーにとってインフラの管理やサービスの冗長化などは、ビジネスのタイプに関わらず必ず必要になってくる事柄です。
+でもどのサービス、どのビジネスにでも必要ということは、逆にビジネスの色はそこには乗って来ないということ。
+フルマネージドなサービスを使って関数までそぎ落とされたロジックレベルの管理だけでオリジナルのサービスを構築できるというServerlessの特徴は技術者だけでなく、ビジネスに多大な影響を与えています。
+このようなServerlessの嬉しい特徴をデベロッパーやビジネスオーナーと一緒に体験し、面白いビジネスの実現を支えるために日々活動しています。
+Organizer &amp; Co-Chairs
+吉田真吾 (サイダス / セクションナイン)
+
+CYDAS CTO / セクションナインCEO
+クラウドネイティブなシステム構築・運用のかたわら、ServerlessConf TokyoやServerless Meetup Japan(Tokyo/Osaka/Sapporo/Fukuoka)の運営、また各種記事執筆を通じて、日本におけるサーバーレスの普及を促進。
+Michael H.Oshita @ijin (クラウドソース、セクションナインなど)
+
+数社で技術支援などをおこなっている。
+ServerlessDays Tokyo / Fukuoka 2019が開催されました。
+ServerlessDays Tokyo 2019 の詳細
+https://tokyo.serverlessdays.io
+カンファレンス参加者：310名
+https://yoshidashingo.hatenablog.com/entry/2019/10/26/191417
+ServerlessDays Fukuoka 2019 の詳細
+https://fukuoka.serverlessdays.io/
+カンファレンス参加者：125名
+https://blog.seike460.com/2019/12/17/ServerlessDaysFukuoka2019/
+Serverless Community(JP) にジョインしよう！
+コミュニティメンバー募集
+サーバーレスの活用について情報交換ができるグループを作りました。サーバーレスアーキテクチャを活用する知見などの情報交換にご活用ください。
+Serverless Community(JP) facebook
+Serverless Community(JP) slack
+アンチハラスメントポリシーについて
+当コミュニティではすべての参加者(スピーカー、スタッフ、参加者、その他サポートしてくれるすべての関係者)は以下の規範に同意する必要があります。われわれはかかわるすべての人に安全な環境が提供されるように参加者全員がこれに協力することを期待します。
+アンチハラスメントポリシー(短縮版)
+性別、性の同一性や表現、年齢、性的指向、身体障害、体型、体格、人種、または宗教(または逆に信仰を持たないこと)にかかわらず、誰に対しても嫌がらせのない参加体験を提供することに努めます。参加者への嫌がらせはいかなる行為も容認しません。性的な表現や画像などは、講演、ワークショップ、パーティー、TwitterやFacebookおよびその他すべてのオンラインメディアを含む、あらゆる場において不適切とみなします。これらの規則に違反した参加者は、たとえ有料イベントであっても開催者の裁量で返金することなく、これらの場所から追放され今後の参加の一切を断る可能性があります。
+アンチハラスメントポリシー(完全版)
+「嫌がらせ」には、性別、年齢、性的指向、身体障害、体格、人種、宗教に関する不快な発言や、性的な画像の使用、意図的な脅迫、ストーキング行為、望まない写真撮影や録音・録画、議論の中断を招く不快な発言、不適切な身体的接触、歓迎すべきでない性的関心を引く行為が含まれます。
+嫌がらせ行為を中止するように求められた参加者は、直ちに遵守することが求められます。
+参加者が嫌がらせ行為に関与している場合、主催者は、違反者への警告や(たとえ有料イベントであっても)返金なしでの即時退場など、適切と思われる行動を取ることができます。
+あなたが嫌がらせを受けている、あるいは他の誰かが嫌がらせを受けていたり、その懸念がある場合には、すぐにスタッフに連絡してください。
+スタッフは、参加者が会場のセキュリティまたは警察機関に連絡して護衛を提供したり、またはその他の方法でイベントの開催中に当該参加者の安全が担保されることを支援します。つまりわれわれはあなたの参加を心から歓迎しています。
+われわれは、すべての参加者が勉強会、カンファレンス、ワークショップといったイベントの会場やイベント関連のミートアップにおいてこれらの規則に従うことを期待します。
+個人情報保護について
+勉強会の会場へ入館申請を行うため、参加者の本名やメールアドレスの情報を頂く場合があります。
+そのため、connpassの事前アンケートで頂いた個人情報を以下に定める内容にて取り扱います。
+個人情報の利用目的について
+ご提供いただいた個人情報は、以下に定める目的にのみ利用いたします。
+コミュニティ開催会場の入館申請手続き
+勉強会の申し込み者の入館時のご本人確認
+個人情報の取扱
+取得した個人情報は、connpassでの入力により取得を行います。当サイト上での個人情報の取得にあたっては、提供時における確認などのクリックによって本人の同意を得たものとします。
+当コミュニティでは、次のいずれかに該当する場合を除き、個人情報を第三者に開示・提供いたしません。
+会場入館の目的に沿って会場提供者（社）に入館申請を行う場合
+本人の同意がある場合
+本人の生命の保護などのために必要な場合であって、緊急を要するなど、ご本人の同意を得ることが困難である場合</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>5 min</time> : 1469)</span>React にチャレンジしてみよう！UI 基礎編③【belong try #10】
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://belong.connpass.com/event/264477/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/08 11:30 ～ 12:30
+開催場所: オンライン
+
+□ 概要
+前回に引き続き、 React をチュートリアルから React に置ける UI 基礎を　Belong の非フロントエンドエンジニアと学んでいきます！
+https://beta.reactjs.org/
+□ belong try とは？
+「belong try!」 は Belong メンバーと一緒にテーマに挑戦する参加型イベントです！
+知らないもの、興味があったけどやってない、挫折したものを Belong メンバーと一緒にチャレンジしましょう！
+※注: Belong メンバーが既に実現できるというお題を用意しているわけではありません
+今までの様子：https://www.youtube.com/watch?v&#x3D;9uqp3ijwgds
+◯ イベント内容について
+今回の belong try! は Belong の非フロントエンドエンジニアが React  にチャレンジします。
+□ ご参加の皆様へ
+申込後、このイベントページに参加者用のイベント会場の招待リンクを貼ってますので、そちらにご参加お願いします
+□ 対象者
+こんな方が対象となります
+対象の技術にちょっと興味ある
+ラジオとして聞きたい
+四苦八苦してる様子を楽しみたい
+一緒に四苦八苦したい
+誰かと勉強したい！
+などなど、色々な方が対象になります！
+□ 参加枠
+◯ 後で見る！
+「その時間は忙しいけど気になる！」という方はこちらから。  
+◯ コメント参加
+YoutubeLive 視聴枠です。 
+「ライブ感楽しみたい！」という方はこちらの枠がオススメです。  
+◯ ガヤ参加
+「一緒にわちゃわちゃ感楽しみたい！」 という方はこちらの枠がオススメです。
+□ 今回一緒にわちゃる Belong メンバー紹介
+dach
+
+ポジション : チキン南蛮担当
+好きな技術 : GCP / Golang / Terraform / etc…
+担当サービス : データ分析基盤 / 在庫管理システム / 新規PJ
+趣味 : 料理、筋トレ
+george
+
+ポジション : SRE
+好きな技術 : GCP / Terraform / CircleCI / etc…
+担当サービス : none
+趣味 : ゲーム
+Kenty
+
+ポジション : フロントエンド
+好きな技術 : TypeScript
+担当サービス : にこスマ買取
+趣味 : 麻雀、料理
+□ タイムスケジュール
+時間
+内容
+発表者
+
+
+
+
+11:30
+前説
+@dach
+
+
+11:40
+イベントスタート
+参加者全員
+
+
+12:20
+振り返りトークタイム
+参加者全員
+
+
+12:30
+終了
+
+
+
+
+※ 当日の会場は Youtube / StreamYard を利用します
+□ 会場
+「完全リモート開催」としてます。
+□ 株式会社Belong について
+当社は 「Deliver next value to where we belong 大切な人に誇れる、次なる価値を届けよう。」をミッションに掲げています。
+企業向け・エンドユーザー向けに販売・買取を含めた様々なサービスを展開し、中古スマホ市場のエコシステムを構築しています。
+https://belong.co.jp/
+Belong Engineering について
+https://belonginc.dev 
+https://entrancebook.belonginc.dev</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 1038)</span>デジタルバンクのデザイナーは、どんなキャリアなの？
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://minna-no-ginko-design.connpass.com/event/263243/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/16 19:30 ～ 21:00
+開催場所: オンライン
+
+このイベントについて
+みんなの銀行はスマートフォン完結で利用できる国内初のデジタルバンクです。
+デジタルバンクのデザイナーってどんなキャリアを歩んできたのか気になりませんか？
+みんなの銀行のデザイナーのキャリアを振り返りながらデザイナーとして、これまでのキャリアパス・キャリアチェンジについてみんなの銀行デザイナーとしての業務範囲デザイナーとしての領域を広げていくには、などのテーマで語っていきたいと思います。
+これから先、デザイナーとしてのキャリアを考える上で、少しでも参考になるお話ができればと思います。
+こんな方におすすめ
+将来デザイナーになろうと考えている学生
+今後のキャリアに悩んでいる若手デザイナーの方
+他社のデザイナーと話してみたい方
+みんなの銀行に興味のある方
+開催概要
+【日時】2022年11月16日（水）19:30〜21:00
+【会場】オンライン（oVice）
+【参加費】無料（最大25名程度）
+タイムテーブル
+時間
+内容
+
+
+
+
+19:30-20:10
+イントロ登壇者の自己紹介、個別テーマトーク
+
+
+20:10-20:50​
+キャリアトーク（座談会）登壇者が参加者の方からの質疑を受け付けたり、皆さんで話しましょう。
+
+
+20:50-21:00​
+ラップアップ～クロージング
+
+
+
+登壇者
+田口 勝之
+みんなの銀行 デザイングループ サービスデザイナー。HCD-NET 人間中心設計専門家。
+アプリの体験設計・デザインを担当。東京在住。九州大学芸術工学部を卒業後、出版社、ITベンチャー企業等を経て2020年にみんなの銀行プロジェクトへ参画。趣味は音楽と3DCGとNFT。
+後藤 淳
+みんなの銀行 デザイナー。
+印刷会社やweb制作会社を経て現在はみんなの銀行（iBankマーケティング兼務）で
+プロダクトやコミュニケーション領域でデザイナーとして活動中。好きな食べ物はラーメン。
+中野 岳
+みんなの銀行 プロダクトデザイナー。
+文系大学卒業後、デジタルプロダクトのデザイナーを志望しつつも、印刷会社で紙もののデザイナーとしてキャリアをスタート。その後、紆余曲折を経て福岡のスタートアップ数社でウェブデザイナー・UI/UXデザイナーとして経験を積み、2021年みんなの銀行にジョインしました。副業でベンチャーのUI/UXデザインも担当。趣味はお酒。
+中村 隆俊（モデレーター）
+株式会社みんなの銀行 デザイングループ リーダー。HCD-Net認定 人間中心設計専門家。
+デザインマネージメントおよびディレクションを担当。デジタル領域のプロダクトデザイン（UI/UX）を中心に株式会社エムスリー、株式会社ラクスルを経て、2019年に東京から福岡へ移住。ふくおかフィナンシャルグループ みんなの銀行プロジェクトに参画し現在に至る。趣味はクラフトビール探索。
+注意事項
+お申し込み後、本connpassページにて視聴URLをご確認いただけます（前日にもお申し込みいただいたメールアドレス宛てに視聴URLをご共有いたします）
+コンテンツ視聴は当日のライブ配信中のみ可能です。ご了承ください。
+リクルーティング、勧誘など、採用目的でのイベント参加はお断りしております。
+欠席される場合は、お手数ですがお早めにキャンセル処理をお願い致します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1173)</span>毎週火曜にやってる！プログラミング&amp;ITなんでも勉強部屋（11月第2）
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://hfs.connpass.com/event/264436/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/08 19:00 ～ 22:00
+開催場所: 102-0093　　東京都千代田区平河町1-4-3  (平河町伏見ビル 2F)
+
+#プログラミング勉強部屋 #eLV勉強会 
+★毎週火曜やってます!!   ★オンライン参加も可!!
+※その他の火曜も参加希望の場合はこのリンク からお願いします！
+
+
+プログラミングやネットワーク・etc、学びたいITエンジニア（＆目指す人）の為の無料で利用可能な自習の場です！！
+しかも、それぞれの学習テーマに合せたメンター（先生）が、あなたの質問や相談に応えてくれます！
+どんなイベント？
+
+一人だと、自宅だと、だらけちゃって自分に負けちゃう！やる気はあるのに進まない......心配ありません、人間そんなものです（笑）そこで、以下の環境を用意しております！！
+
+
+
+なんとなく学習モードに切り替わることのできる「場」
+一人ではなく同じような学習テーマをもった「仲間」
+つまずいた時に教えてもらえる「メンター（先生）」
+毎週火曜日開催！
+※会場参加者は下掲の「■新型コロナウイルス感染症対策について」を確認願います！
+
+無言、途中参加、途中退出、ちょっと抜けてまた戻ってくる、などなど自由です。
+
+参加者ってどんなことやっているの？
+
+・プログラミングの勉強
+
+今回のメンターは雪本修一氏です。
+
+所属：
+株式会社LaboLive
+株式会社mnu
+
+Webオープン系
+
+** その他の週のメンター情報はこのリンク からご参照ください！
+
+Time
+内容
+備考
+
+
+
+
+18:00
+勉強部屋OPEN！
+本ページの「参加者への情報」をみていただき準備ねがいます！
+
+
+18:00~19:30
+自習タイム
+途中入場OK！
+
+
+19:30
+勉強部屋正式スタート！
+・諸説明
+・メンター＆コーチの紹介
+・2分で自己紹介＆今日やること発表！
+
+
+
+20:00~20:15
+参加者同士のおしゃべりタイムをやるかも？
+その日の人数や雰囲気で！
+
+
+
+20:15~21:40
+自習タイム
+途中退場OK！
+
+
+21:40~22:00
+LTタイム
+・本日の成果でも、その他でもＯＫ！（希望者のみ）
+※おひとり様3分以内とします
+※できるだけ皆が分かるような＆利するような内容でお願いしまーす！
+
+
+
+※メンターは19:00～20:00予定で入場します。但しメンターも知っている事、そうでない事ございます。詳しくは紹介文をご参照ください。
+
+■参加資格
+無断欠席しない人
+ITエンジニアまたはITエンジニアを目指す人（学生さんも歓迎）
+■学習環境
+Wi-Fi・Cloudの実行環境をお1人様1インスタンスご用意いたします。
+PCやテキストは持参ください。
+■ご注意
+メンターは現役エンジニアですので、仕事の都合等で参加できない可能性があることをご了承願います。その際は参加者同士でフォロー出来ればと思っております。
+また、当企画は料金や参加規程など予告なく変更する可能性があります。
+eLVオフィシャルサイト、またイベント告知サイトなどへの掲載目的として勉強会、交流会風景の撮影を行わせて頂いております。掲載へ不都合が御座います方は、恐れ入りますが運営スタッフまでお申し出下さい。
+■新型コロナウイルス感染症対策について
+１．会場に関する対策について
+
+
+会場は毎日1度以上の消毒を実施しております。
+
+必要時にアラートがあがるCO2濃度測定器の設置をしており換気が適切に行えるようにしております。
+
+人と人との距離を確保します。
+
+
+２．参加者の皆様にお願いしていること
+
+
+入場時に検温にご協力いただいております。
+
+マスク着用と咳エチケットをお願いします。マスクをご持参ください。
+
+他者と密接し大声で話しかけるのはお控えくださるようお願いします。
+
+受付時等、ソーシャルディスタンスの保持にご協力をお願いいたします。
+
+以下に該当する場合は来場をお控え頂きますようお願いします
+
+
+■参加者アンケート（リピート参加者の方もお気付きの点があれば忌憚ないご意見おまちしてます！）
+https://goo.gl/dW6nBu
+
+■ITエンジニアコミュニティeLVとは？
+
+eLVはスキルアップに資する誰でも参加可能なコミュニティです。
+※他のイベントはこちらからチェック下さい。
+https://elv.connpass.com/
+※Co-Creation BAR（ICT関係者の集うBAR）のイベントはこちらからチェック下さい。
+https://elv-ccb.connpass.com/</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>『みてね』のTerraform構成～モノリポジトリとマルチリポジトリ～
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2022/10/mitene-01terraform?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>今回からスタートしたみてね×gihyo.jpスペシャル企画。1回目となる今回は、みてねにおけるTerraformのリポジトリ構成について解説します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>0 min</time> : )</span>U-22プログラミング・コンテスト 2022 一次審査を実施、最終審査に進む16作品が決定
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2022/10/u22procon2022_1st_review?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>U-22プログラミング・コンテスト実行委員会は2022年10月25日、一次審査を実施、審査委員による審査のもと、最終審査に進む16作品を決定した。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>『みてね』のTerraform構成～モノリポジトリとマルチリポジトリ～
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2022/10/mitene-01terraform?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>今回からスタートしたみてね×gihyo.jpスペシャル企画。1回目となる今回は、みてねにおけるTerraformのリポジトリ構成について解説します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>0 min</time> : )</span>U-22プログラミング・コンテスト 2022 一次審査を実施、最終審査に進む16作品が決定
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2022/10/u22procon2022_1st_review?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>U-22プログラミング・コンテスト実行委員会は2022年10月25日、一次審査を実施、審査委員による審査のもと、最終審査に進む16作品を決定した。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>『みてね』のTerraform構成～モノリポジトリとマルチリポジトリ～
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2022/10/mitene-01terraform?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>今回からスタートしたみてね×gihyo.jpスペシャル企画。1回目となる今回は、みてねにおけるTerraformのリポジトリ構成について解説します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>0 min</time> : 136)</span>U-22プログラミング・コンテスト 2022 一次審査を実施、最終審査に進む16作品が決定
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2022/10/u22procon2022_1st_review?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>U-22プログラミング・コンテスト実行委員会は2022年10月25日、一次審査を実施、審査委員による審査のもと、最終審査に進む16作品を決定した。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-10-25">2022-10-25</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://connpass.com/explore/">connpass 新着イベント</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1185)</span>【新潟】STUDIO ハンズオン（DERTA HUB vol.1）
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://ddd-ng.connpass.com/event/264407/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/19 14:00 ～ 16:00
+開催場所: 〒950-0086 新潟県新潟市中央区花園１丁目１−２１ CoCoLo新潟 南館 １階 新潟駅ビル
+
+STUDIO ハンズオンとは？
+日本発のノーコードWeb制作プラットフォーム 「STUDIO（スタジオ）」 のハンズオンイベントが新潟で開催！
+共同編集、レスポンシブ設定、アニメーション、フォームなどの機能がすべてノーコードで実現できる「STUDIO」。
+エンジニア不要でWebサイトを制作できるため、あまりコストをかけられない地方企業でも安価で上質なWebサイトを持つことができます。
+真っ白な状態からWebサイトを作り上げることも可能。また、高品質なテンプレートも豊富で、テンプレートから各機能を自由自在にカスタマイズすることもできるため、完全オリジナルのデザイン制作を簡単に実現できます。
+今回は、そんな「STUDIO」の開発・運営を行っている株式会社STUDIOより講師をお招きし、
+活用方法や事例のレクチャー、実際に使い方を教えていただくワークショップなどを盛り込んだイベントを開催いたします。
+STUDIO初心者ももちろんウェルカム。お気軽にご参加ください。
+イベント概要
+【日時】
+【場所】
+https://www.moyore-niigata.jp/
+【参加費】
+【お持ちいただくもの】
+【募集人数】
+こんな人にオススメ
+Webの知識はないけれど、Webサイトを簡単に作成してみたいと思っている人
+コストをかけずにWebサイトを作成したいと思っている人
+デザインは得意であるが、コーディングに苦手意識がある人
+日本生まれ、日本語対応可能のノーコードツールを使いたいと思っている人 
+スケジュール
+時間
+スケジュール内容（予定）
+
+
+
+
+13:30
+開場・受付
+
+
+14:00
+スタート！
+
+
+
+・開会挨拶
+
+
+
+・イベント内容説明
+
+
+
+・講師紹介
+
+
+14:10
+STUDIOの概要説明
+
+
+14:20
+STUDIOの活用シーンと事例
+
+
+
+投稿機能、フォーム、デザイン性、SEO・metaタグなどについて
+
+
+14:40
+使い方のレクチャー
+
+
+
+ボックスレイアウト、レスポンシブ、アドパネルなどについて
+
+
+15:10
+ワークショップ
+
+
+
+サンプルサイトを作ろう
+
+
+16:10
+終了
+
+
+
+※ 時間は目安です。イベントの状況によって前後します。
+講師紹介
+菅原孝則 / 株式会社STUDIO デザインエンジニア・スクラムマスター
+学生時代からフリーランスとしてデザイン・開発・ディレクションを領域としデジタルサービスの立ち上げや広告クリエイティブの開発を行う。近年はデザイン組織の立ち上げ、コンセプトメイキング、デザインシステム、フロントエンドアーキテクチャなどが主業務とし、2019年09月より株式会社STUDIOにジョイン。 
+
+Twitter  @oligin020 
+全体進行 / ファシリテーター
+須貝 美智子 / 株式会社DERTA 
+注意事項
+実際に手を動かして学ぶイベントとなります。ご自身のPCをお持ちください。
+受付開始は13時30分です。それまではご入場できません。
+会場内は全面禁煙です。
+イベントの様子を、写真や動画で撮影させていただく場合があります。撮影したデータは広報・採用活動のプロモーションなどに使用させていただきます。
+当日の内容はSNSにて掲載される場合がありますのでご了承ください。
+Wi-Fiアリ。
+駐車場は近隣のコインパーキングをご利用ください。
+当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。
+SNS
+SNSでも今後のイベントの開催をしています！情報を確認したい方は、ぜひフォローをお願いいたします。 
+Twitter
+https://twitter.com/niigata_derta</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
@@ -2800,6 +3156,316 @@ Q&amp;A、ディスカッション
       </li>
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 303)</span>AWS IAM アイデンティティセンターのデフォルトのクォータ値の引き上げを発表
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS IAM アイデンティティセンター (AWS Single Sign-On の後継サービス) でデフォルトのクォータ値が引き上げられたため、環境のスケーリングが容易なりました。クォータの引き上げにより、アイデンティティセンターのインスタンスで最大 2,000 のアクセス許可セットを作成して割り当てることができます。また、AWS アクセスポータル経由でアクセスできる最大 3,000 のアプリケーションとアカウント (両者の合計) に、最大 100,000 のユーザーと 100,000 のグループを割り当てることもできます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon SageMaker Data Wrangler を使用して大規模にデータ準備を行うための変換の再適合
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日、Amazon SageMaker Data Wrangler で変換の再適合 (Refit) がサポートされるようになったことを発表します。XgBoost などのアルゴリズムでデータを使用できるようにするために、データサイエンティストはワンホットエンコーディングなどの変換方法を使用して、数値以外の値を数値に変換する必要があります。ワンホットエンコーディングのような変換はデータ依存であるため、これらの変換は適合変換と呼ばれることがよくあります。データが時間とともに変化し続けるため、これらの変換はデータの変化を考慮して更新または再適合させる必要があります。さらに、サンプルデータセットで作業するときは、サンプルデータセットとより大きなデータセットの間での変化を考慮して変換を更新する必要があります。ワンホットエンコーディングなどの変換を使用する場合、データ準備パイプラインで追跡やキャプチャを行うときに必要な追加情報が生成されます。この情報が省略されたり、正しく追跡されなかったりすると、データ準備プロセスでエラーが発生する可能性があります。変換の再適合がサポートされていなかったため、多くのデータサイエンティストにとって、変換を適合させた後のバージョンを使用するタイミングや、新しいデータに変換を再適合させるタイミングを簡単に指定する方法がありませんでした。また、データサイエンティストにとって、新しいデータセットで再適合させるときに、更新したバージョンの変換パイプラインを生成することも簡単ではありませんでした。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon Detective を使用して関連する Amazon GuardDuty の検出結果をグループ化し調査時間を短縮する
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、Amazon Detective は関連する GuardDuty の検出結果を自動的にグループ化するようになったため、セキュリティアナリストは、トリアージの時間を短縮し、より包括的なセキュリティ調査を作成できます。Detective は機械学習 (ML) を使用して、関連する GuardDuty の検出結果をグループ化します。単独では無視された可能性のある検出結果をまとめることで、攻撃のライフサイクルを明らかにできます。これにより、セキュリティアナリストは高度な脅威をより簡単に特定できます。Detective の [概要] ページには、関連する GuardDuty の検出結果のグループが重大度、影響を受けるすべての AWS アカウント、リソースとともに表示されます。さらに、Detective は、セキュリティと脅威の検出に広く採用されている MITRE ATT&amp;CK フレームワークから、検出結果の進化を戦術、技術、手順 (TTP) にマッピングします。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>FreeRTOS 長期サポート (LTS) の新しいバージョンをリリース
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日、FreeRTOS 長期サポート (LTS) の 2 番目のリリースである FreeRTOS 202210.00 LTS を発表します。このリリースには、AWS IoT Fleet Provisioning や Cellular LTE-M Interface などの新しいライブラリが含まれており、デバイスのプロビジョニングとセルラー接続が容易になります。また、モジュール性と堅牢性が向上した coreMQTT および FreeRTOS-Plus-TCP のライブラリも含まれています。この FreeRTOS LTS バージョンに含まれるすべてのライブラリ (ライブラリの一覧はこちらの記事に掲載) には、2024 年 10 月までセキュリティと重大なバグの修正が提供されます。新しく LTS がリリースされても、既存の FreeRTOS コードベースを引き続き維持し、FreeRTOS バージョンのアップグレードに起因して起こり得るいかなる中断も回避できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 412)</span>Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール)、カナダ (中部)、AWS GovCloud (米国東部) リージョンで使用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、3TiB (u-3tb1.56xlarge) のメモリの Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール) とカナダ (中部) で利用可能になりました。また、6TiB (u-6tb1.56xlarge、u-6tb1.112xlarge) のメモリの High Memory インスタンスがカナダ (中部) で、12TiB (u-12tb1.112xlarge) のメモリの High Memory インスタンスが AWS GovCloud (米国東部) が利用可能になりました。オンデマンドおよび Savings Plan の購入オプションでこれらの新しい High Memory インスタンスの使用を開始できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 339)</span>AWS Glue クローラーは既存の AWS Glue データカタログテーブルでの増分 Amazon S3 クローリングをサポート
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Glue には、Amazon S3 イベント通知に基づくクローラーが含まれています。これは、Amazon S3 のイベントに基づくデータのスキャンのみを行うことにより、データセットの検出をより簡単にする機能です。Glue クローラーによりデータスキーマが抽出され、AWS Glue データカタログに自動的に入力され、メタデータはここで最新に保たれます。S3 イベントに基づいてデータセットをクローリングすると、新しく取り込まれたデータを任意の分析および機械学習ツールですぐに利用することができるので、インサイトを取得するための時間が削減されます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 375)</span>Amazon RDS for SQL Server がマイナーバージョン 2014 SP3 CU4、2016 SP3 GDR、2017 CU 30、および 2019 CU16 をサポート
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が行われました。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Editionにおいて、SQL Server 2014、2016、2017、2019の新マイナーバージョンに対応するようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 340)</span>AWS SAM CLI パイプラインが Open ID Connect Protocol のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Serverless Application Model (SAM) コマンドラインインターフェイス (CLI) は、SAM CLI パイプラインにおける Open ID Connect (OIDC) サポートの一般提供を開始しました。AWS SAM CLI はサーバーレスアプリケーションの構築、テスト、パッケージ化、デプロイを簡単にするデベロッパーツールです。SAM パイプラインは Jenkins、GitLab、GitHub Actions、Atlassian Bitbucket Pipelines、AWS CodePipeline を使用して、サーバーレスアプリケーションの継続的インテグレーションおよびデプロイ (CI/CD) パイプラインを簡単に作成できるようにします。SAM パイプラインには、すべてのサポート対象システムの一連のデフォルトのパイプラインテンプレートが事前にパッケージ化されており、複数のアカウントおよび複数のリージョンでの安全なデプロイに関する AWS のベストプラクティスが紹介されています。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>RStudio on Amazon SageMaker が新たなデベロッパー生産性機能とセキュリティ機能を搭載
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>RStudio on Amazon SageMaker が RStudio Workbench バージョン 2022.02.2-485.pro2 に対応し、デベロッパー生産性機能とセキュリティ機能が向上しました。これらの新機能には、高性能化した R のヘルプシステム、R パイプバインドプレースホルダーの向上したエディタサポート、そして RStudioServerPro と RSession アプリケーション間の通信を保護する完全なエンドツーエンド暗号化などがあります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 301)</span>AWS Transfer Family が部分的にアップロードされたファイルのアップロード後の処理のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Transfer Family では、マネージド型ワークフローを使用した、部分的にアップロードされたファイルのアップロード後の処理のサポートを開始しました。これにより、完全なアップロードファイルと不完全なアップロードファイルの両方に対して、ファイル処理手順の定義と実行をより詳細に制御できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 360)</span>Amazon Athena がクエリエンジンをアップグレード
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Athena の SQL クエリエンジンがアップグレードされ、Trino オープンソースプロジェクトの最新機能に対応しました。Athena エンジンバージョン 3 の特徴としては、50 を超える新しい SQL 機能、30 の新機能、そして 90 以上のクエリパフォーマンス向上などが挙げられます。今回のアップグレードにより、Athena は、Trino と Presto のプロジェクトの流通性を高めるようなオープンソースソフトウェア管理に対する継続的インテグレーションアプローチも導入しています。それにより、お客様は Athena エンジン内で統合、調整されたコミュニティの改良点により早くアクセスできるようになります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 298)</span>Amazon Lex がヒンディー語とオランダ語のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Lex がヒンディー語とオランダ語のサポートを開始しました。Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、構築した会話型エクスペリエンスをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>Amazon RDS が既存の RDS または Aurora データベースと EC2 コンピューティングインスタンス間の自動接続設定のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、既存のAmazon Relational Database Service (Amazon RDS) または Amazon Aurora データベースと Amazon Elastic Compute Cloud (Amazon EC2) コンピューティングインスタンスの間で自動で接続の設定ができるようになりました。 Amazon RDS コンソールから、RDS または Aurora データベースと EC2 インスタンス間の接続を設定するためのアクションを選択できます。Amazon RDS では、関連するネットワーク設定が自動でセットアップされ、EC2 インスタンスと RDS データベース間の安全な接続が実現されます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://data.wingarc.com">データで越境者に寄り添うメディア データのじかん</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 985)</span>尼崎のUSB紛失事件から私たちが学べることとは？覚えておきたい再発を防止するために重要な3つの要素
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://data.wingarc.com/lost-usb-memory-incident-44834?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;lost-usb-memory-incident" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>2022年上半期、データセキュリティ関連で大きな話題をさらったニュースといえば、「兵庫県尼崎市のUSB紛失事件」でしょう。全市民の氏名、住所、生年月日や生活保護受給世帯の口座情報が泥酔による荷物紛失という理由で危機にさら […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1078)</span>これがすべて無料とは！登録期限は12月5日まで。 総務省が公開した 2022年最新版「社会人のためのデータサイエンス演習」
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://data.wingarc.com/datatimesdirect20221025-47500?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;datatimesdirect20221025" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>総務省は、2022年10月4日、mooc※1プラットフォームgaccoで、データサイエンス・オンライン講座「社会人のためのデータサイエンス演習」をリニューアルして開講しました。 こちらの講座は、統計リテラシー向上の取組と […]</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.technologyreview.jp">MITテクノロジーレビュー</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>2 min</time> : 677)</span>ゆっくりした動きで発電するウェアラブル発電機＝理研など
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/289110/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1189)</span>米国が電池材料でも脱中国へ、産業育成に28億ドル投資
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/s/288803/billions-in-funding-could-kick-start-the-us-battery-materials-industry/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>米政府は、電気自動車向けバッテリーの材料の生産に携わる企業を支援するため、28億ドルの助成金を拠出する。現在、電池製造のサプライチェーンの上流の多くが中国にあるため、電池の材料を国内で製造・調達できるようにする。 		
+
+こちらは会員限定の記事です。
+メールアドレスの登録で続きを読めます。
+
+
+会員登録して読む
+
+ログインして読む
+
+
+
+有料会員にはメリットがいっぱい！
+
+
+毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
+
+オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
+重要テーマが押さえられる。
+
+各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
+
+
+
+有料プランの詳細を見る
+
+
+
+
+
+
+
+
+こちらは有料会員限定の記事です。
+有料会員になると制限なしにご利用いただけます。
+
+
+有料会員にはメリットがいっぱい！
+
+
+毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。
+
+オリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。
+重要テーマが押さえられる。
+
+各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。
+
+
+
+有料プランの詳細を見る</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>2 min</time> : 679)</span>アインシュタインの100年越しの宿題、相対論的電場を直接実証
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/289102/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>2 min</time> : 678)</span>理研など、心筋の脂肪酸代謝を近赤外光で画像化
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/288874/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>2 min</time> : 679)</span>波がプラズマの熱を運ぶ過程を初観測＝核融合研など
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/25/289012/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.publickey1.jp/">Publickey</a></h3>
           <section class="articles-per-source">
             <article>
@@ -2842,25 +3508,6 @@ Q&amp;A、ディスカッション
                   <div class="article-summary-box-inner">
                     <span>こんにちは、hachi8833です。Kaigi on Rails 2022が盛況のうちに終わりましたね。主催者・運営・スポンサー・参加者の皆さまお疲れさまでした＆ありがとうございます！ まとめありがたい。。。#KaigiOnRails 2022の発表スライドのリスト https://t.co/5eGfHWNM4p — Daichi (@daichi1998928) October 24, 2022 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっ […]
 The post 週刊Railsウォッチ: rodauth-rails gem作者の解説記事、turbo-railsの有料チュートリアルほか（20221025前編） first appeared on TechRacho.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://data.wingarc.com">データで越境者に寄り添うメディア データのじかん</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1078)</span>これがすべて無料とは！登録期限は12月5日まで。 総務省が公開した 2022年最新版「社会人のためのデータサイエンス演習」
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://data.wingarc.com/datatimesdirect20221025-47500?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;datatimesdirect20221025" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>総務省は、2022年10月4日、mooc※1プラットフォームgaccoで、データサイエンス・オンライン講座「社会人のためのデータサイエンス演習」をリニューアルして開講しました。 こちらの講座は、統計リテラシー向上の取組と […]</span>
                   </div>
                 </a>
               </details>
