@@ -6,6 +6,26 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "5200223cbe0ff6ba7dc4ce10075071e9cd115126",
+          "author": "aws@amazon.com",
+          "description": "AWS IAM アイデンティティセンター (AWS Single Sign-On の後継サービス) でデフォルトのクォータ値が引き上げられたため、環境のスケーリングが容易なりました。クォータの引き上げにより、アイデンティティセンターのインスタンスで最大 2,000 のアクセス許可セットを作成して割り当てることができます。また、AWS アクセスポータル経由でアクセスできる最大 3,000 のアプリケーションとアカウント (両者の合計) に、最大 100,000 のユーザーと 100,000 のグループを割り当てることもできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/",
+          "publishedOn": "2022-10-25T23:31:56.000Z",
+          "wordCount": 303,
+          "title": "AWS IAM アイデンティティセンターのデフォルトのクォータ値の引き上げを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c182bdbdbf2b9a5182df258c7de78118525aa1d8",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon SageMaker Data Wrangler で変換の再適合 (Refit) がサポートされるようになったことを発表します。XgBoost などのアルゴリズムでデータを使用できるようにするために、データサイエンティストはワンホットエンコーディングなどの変換方法を使用して、数値以外の値を数値に変換する必要があります。ワンホットエンコーディングのような変換はデータ依存であるため、これらの変換は適合変換と呼ばれることがよくあります。データが時間とともに変化し続けるため、これらの変換はデータの変化を考慮して更新または再適合させる必要があります。さらに、サンプルデータセットで作業するときは、サンプルデータセットとより大きなデータセットの間での変化を考慮して変換を更新する必要があります。ワンホットエンコーディングなどの変換を使用する場合、データ準備パイプラインで追跡やキャプチャを行うときに必要な追加情報が生成されます。この情報が省略されたり、正しく追跡されなかったりすると、データ準備プロセスでエラーが発生する可能性があります。変換の再適合がサポートされていなかったため、多くのデータサイエンティストにとって、変換を適合させた後のバージョンを使用するタイミングや、新しいデータに変換を再適合させるタイミングを簡単に指定する方法がありませんでした。また、データサイエンティストにとって、新しいデータセットで再適合させるときに、更新したバージョンの変換パイプラインを生成することも簡単ではありませんでした。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/",
+          "publishedOn": "2022-10-25T23:31:06.000Z",
+          "wordCount": 314,
+          "title": "Amazon SageMaker Data Wrangler を使用して大規模にデータ準備を行うための変換の再適合",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "74e400940560aa249980d473a57285d10ff97843",
           "author": "aws@amazon.com",
           "description": "本日より、Amazon Detective は関連する GuardDuty の検出結果を自動的にグループ化するようになったため、セキュリティアナリストは、トリアージの時間を短縮し、より包括的なセキュリティ調査を作成できます。Detective は機械学習 (ML) を使用して、関連する GuardDuty の検出結果をグループ化します。単独では無視された可能性のある検出結果をまとめることで、攻撃のライフサイクルを明らかにできます。これにより、セキュリティアナリストは高度な脅威をより簡単に特定できます。Detective の [概要] ページには、関連する GuardDuty の検出結果のグループが重大度、影響を受けるすべての AWS アカウント、リソースとともに表示されます。さらに、Detective は、セキュリティと脅威の検出に広く採用されている MITRE ATT&CK フレームワークから、検出結果の進化を戦術、技術、手順 (TTP) にマッピングします。",
@@ -5243,6 +5263,16 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/n/2022/10/25/289110/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/10/26/289110/",
+          "publishedOn": "2022-10-25T22:59:36.000Z",
+          "wordCount": 677,
+          "title": "ゆっくりした動きで発電するウェアラブル発電機＝理研など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=288803",
           "author": "Casey Crownhart",
           "description": "米政府は、電気自動車向けバッテリーの材料の生産に携わる企業を支援するため、28億ドルの助成金を拠出する。現在、電池製造のサプライチェーンの上流の多くが中国にあるため、電池の材料を国内で製造・調達できるようにする。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
@@ -5949,6 +5979,36 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://kabuto.connpass.com/event/264472/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 20:00 ～ 21:30<br />開催場所: オンライン<br /><br /><h1>はじめに</h1>\n<p>当イベントページをご覧いただき、ありがとうございます。</p>\n<p><strong><span style=\"color: red;\">・顔の見えるセミナーをコンセプトにしております。</span></strong></p>\n<p><strong><span style=\"color: red;\">・WEBカメラでのご参加を必須条件とさせていただきます。（マスク着用可）</span></strong></p>\n<p><strong><span style=\"color: red;\">　※google meetでの背景変更は下記を参考。</span></strong><br>\n　<a href=\"https://support.google.com/meet/answer/10058482?hl=ja&amp;co=GENIE.Platform%3DDesktop\" rel=\"nofollow\">https://support.google.com/meet/answer/10058482?hl=ja&amp;co=GENIE.Platform%3DDesktop</a>\n<br>\n<br>\nまだまだ、勉強の毎日ですがセキュリティスキルは、プログラミングやインフラ構築などとは違って参考書も少なく勉強方法も異なるかと思いますので、なかなか独学では難しいところもあり途中で挫折される方も少なくないかと思います。</p>\n<p>これからの日本のセキュリティを守っていく人材教育に少しでもお役に立てればと思います。</p>\n<p><strong><span style=\"color: red;\">・本セミナーは、教育目的として開催します。</span></strong></p>\n<p><strong><span style=\"color: red;\">・開催者は、いかなる損害についても責任を負いません。</span></strong></p>\n<p><strong><span style=\"color: red;\">・ツールや情報の誤用について、責任を負いません。</span></strong></p>\n<p><strong><span style=\"color: red;\">・書面による許可なしにハッキングを行うことは違法です。</span></strong></p>\n<h1>セミナー概要</h1>\n<p><strong><span style=\"color: blue;\">WEBアプリケーションの脆弱性診断を行うにあたり、</span></strong><br>\n<strong><span style=\"color: blue;\">前提となる最低限の知識（W1-A-001～W1-A-009）を身につけた方と脆弱性の理解（W1-B-001～W1-B-012）、</span></strong><br>\n<strong><span style=\"color: blue;\">基本的な脆弱性の診断手順（W2-A-001～W2-A-012）を理解された方向けのハンズオントレーニングとなります。</span></strong><br>\n<br>\n<strong><span style=\"color: blue;\">今回からテスティング環境を使ってのハンズオンをメインに実践に向けての基礎力（テクニカル系）を身につけていきます。</span></strong><br>\n<strong><span style=\"color: blue;\">前途、記述したスキルを満たした方向けに進めていきます。</span></strong>\n<br><br>\n<strong><span style=\"color: blue;\">カリキュラムコード：W2-A-101</span></strong><br>\n<strong><span style=\"color: blue;\">■30分コース</span></strong><br>\n<strong><span style=\"color: blue;\">　・DVWAを使用したハンズオン</span></strong><br>\n<br>\n<strong><span style=\"color: blue;\">カリキュラムコード：W2-A-102</span></strong><br>\n<strong><span style=\"color: blue;\">■60分コース</span></strong><br>\n<strong><span style=\"color: blue;\">　・DVWAを使用したハンズオン</span></strong><br>\n<br>\n<strong><span style=\"color: blue;\">カリキュラムコード：W2-A-103</span></strong><br>\n<strong><span style=\"color: blue;\">■90分コース</span></strong><br>\n<strong><span style=\"color: blue;\">　・DVWAを使用したハンズオン</span></strong><br>\n<br>\n<strong><span style=\"color: blue;\">対象となる脆弱性メニュー</span></strong><br>\n<strong><span style=\"color: blue;\">※本セミナー当日に全メニューを実施するわけではございません。進行状況によります。（2～3回開催予定です）</span></strong><br>\n<br>\n<strong><span style=\"color: blue;\">・SQL Injection</span></strong><br>\n<strong><span style=\"color: blue;\">・XSS</span></strong><br>\n<strong><span style=\"color: blue;\">・OS Command Injection</span></strong><br>\n<strong><span style=\"color: blue;\">・LFI／RFI</span></strong><br>\n<strong><span style=\"color: blue;\">・File Upload</span></strong><br>\n<strong><span style=\"color: blue;\">・Session ID</span></strong><br>\n<strong><span style=\"color: blue;\">・CSRF</span></strong><br>\n<strong><span style=\"color: blue;\">・Brute Force</span></strong><br></p>\n<h1>セミナーコース一覧</h1>\n<p>当セミナーでは、みなさまのご経験に応じてコースを設けております。<br>\n対象者の基準を下記のとおり、想定しております。　※有料化にともない一部レベル分けを変更しております。\n<br><br>\n<strong><span style=\"color: xred;\">W1．セキュリティスキル習得への一歩を踏み出したい\"新たな\"入門者向け（基本編：W1-A-ooo／向上編：W1-B-ooo）</span></strong></p>\n<p><span style=\"color: xred;\">\n⇧ 脆弱性診断やペネトレーションテストに興味はあるもののWEBアプリケーションの開発経験のない方<br>\n⇧ 脆弱性を理解して、テスティングサイトの構築方法や脆弱性診断ツールの基本的な使い方を知りたい方\n</span></p>\n<p><strong><span style=\"color: red;\">W2．キャリアプランに脆弱性診断を追加したい\"未来の\"初級者向け（基本編：W2-A-ooo／向上編：W2-B-ooo）</span></strong></p>\n<p><span style=\"color: red;\">\n ⇧ HTML、JavaScript、PHP、SQL、Burp Suiteの基礎レベルを理解して、これから診断を始めようとされている方<br>\n ⇧ OWASP TOP10を理解し、テスティングサイトを構築して脆弱性診断ツールを使って診断をやり始めた方\n</span></p>\n<p><strong><span style=\"color: xred;\">W3．さらなる実力を身につけて実務に活かしたい\"攻めの\"中級者向け（基本編：W3-A-ooo／向上編：W3-B-ooo）</span></strong></p>\n<p><span style=\"color: xred;\">\n⇧ テスティングサイト等で、基本的な脆弱性診断の体験をしてエンドポイントやパラメータを理解されている方\n</span></p>\n<p><strong><span style=\"color: xred;\">W4．実践的な脆弱性診断手法を学んで飛躍したい\"試練の\"上級者向け（基本編：W4-A-ooo／向上編：W4-B-ooo）</span></strong></p>\n<p><span style=\"color: xred;\">\n⇧ 一連の脆弱性診断スキルを身につけたものの更にバグバウンティの例から実践的なテクニックを身につけたい方\n</span></p>\n<h1>こんな人にオススメ</h1>\n<p><br>\n<strong>■エンジニア、学生の方々</strong></p>\n<p>・セキュリティに興味があるが、勉強方法がわからないという方</p>\n<p>・Burp SuiteやOWASP ZAPを使い始めた方</p>\n<p>・CTFやバグバウンティ、ペネトレーションテスト、ホワイトハッカーに興味のある方</p>\n<p><br></p>\n<p><strong>■企業担当者、教育機関関係者の方々</strong></p>\n<p>・経営者やセキュリティ担当者で、人材育成をしたいが技術的な部分を基礎から知りたい方</p>\n<p>・Webアプリケーションの診断実施や内製化を検討されている方</p>\n<h1>開催概要</h1>\n<p>形態：　オンライン形式（開催日時までにURLをお送りします）</p>\n<p>※あらかじめダウンロードいただきたいツール等につきましては、別途お知らせいたします。</p>\n<h1>タイムテーブル</h1>\n<table>\n<thead>\n<tr>\n<th align=\"center\">開始</th>\n<th align=\"center\">終了</th>\n<th align=\"left\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">19:55</td>\n<td align=\"center\">20:00</td>\n<td align=\"left\">受付・開場</td>\n</tr>\n<tr>\n<td align=\"center\">20:00</td>\n<td align=\"center\">20:25</td>\n<td align=\"left\">30分コース</td>\n</tr>\n<tr>\n<td align=\"center\">20:30</td>\n<td align=\"center\">20:55</td>\n<td align=\"left\">60分コース</td>\n</tr>\n<tr>\n<td align=\"center\">21:00</td>\n<td align=\"center\">21:25</td>\n<td align=\"left\">90分コース</td>\n</tr>\n<tr>\n<td align=\"center\">21:30</td>\n<td align=\"center\"></td>\n<td align=\"left\">※個別でご質問・ご相談を受け付けます。</td>\n</tr>\n</tbody>\n</table>\n<p>※タイムテーブルは目安です。当日の進行状況によって前後する可能性がございます。</p>\n<h1>領収書発行</h1>\n<p><strong><span style=\"color: red;\">ご希望の方は、電子データで簡易的な領収書の発行となります。</span></strong><br>\n<strong><span style=\"color: red;\">宛名／日付／金額／但し／連絡先（電話番号のみ）</span></strong><br>\n<br></p>\n<h1>登壇者紹介</h1>\n<p>いつの間にか、各大手ベンダーにて炎上プロジェクトの火消し専門のプロジェクトマネージャとして働き続けた結果、疲れ切ってIT業界を離れ、独学で自然農法を学んで無農薬・無肥料でイタリア野菜を栽培していたところに...、日本年金機構の情報漏洩事件の発生でセキュリティの世界に呼び込まれ、気が付けば独学でスキルを身につけてサイバーセキュリティ部署を立ち上げていた『CompTIA Network Security Professional』です。</p>\n<p><strong><span style=\"color: red;\">JaSST'22 Kansaiにて登壇させていただきました。（『よわよわエンジニア』から『つよつよエンジニア』へ ♪ ）</span></strong><br>\n<a href=\"https://www.jasst.jp/symposium/jasst22kansai/report.html\" rel=\"nofollow\">https://www.jasst.jp/symposium/jasst22kansai/report.html</a></p>\n<p>趣味：料理、ロードバイク、サーフィン、ランニング、ヨット、ジャズ、四季報</p>\n<h1>お願い</h1>\n<p>ご参加が難しくなられた場合は、なるべく早めのキャンセルをしていただけますと幸いです。</p>",
+          "link": "https://kabuto.connpass.com/event/264472/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-25T22:25:45.000Z",
+          "wordCount": 1434,
+          "title": "キャリアプランに脆弱性診断を追加したい\"未来の\"初級者向け　#W2-A-101,102,103",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/df/17/df17db49ac82da3dab7f9033d50e9f5f.png"
+        },
+        {
+          "id": "https://infosys-talk.connpass.com/event/264471/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/25 20:30 ～ 23:00<br />開催場所: Zoomを利用します！<br /><br /><p><strong>最近隔月になっておりますが11月も開催致します</strong></p>\n<h2>■今回のトークテーマ</h2>\n<p><strong>▼皆がやってるメンタルケア</strong></p>\n<p><strong>▼モチベーションの維持をどうやってますか？</strong></p>\n<p><strong>テーマは合わせる可能性があります、皆前向きになれるよう進行頑張ります！</strong></p>\n<h2>■これはどんなイベント？</h2>\n<p><strong>昨今情シスのイベントも活性化してきましたがまだまだ</strong></p>\n<p><strong>「いきなりLT会は敷居が高い」</strong></p>\n<p><strong>「自分が入って大丈夫かな？」</strong></p>\n<p><strong>「まずはイベントって雰囲気だけでも見てみたい」</strong></p>\n<p><strong>こんな悩みを持つイベント初心者の情シスさんは多数いると思います。</strong></p>\n<p><strong>そんな方がイベント参加の足がかりにしてもらえるような</strong></p>\n<p><strong>できるだけ敷居の低い会を目指し企画しました。</strong></p>\n<h2>■イベント内容</h2>\n<table>\n<thead>\n<tr>\n<th align=\"left\">Time</th>\n<th align=\"left\">担当</th>\n<th align=\"left\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">20:30-20:40</td>\n<td align=\"left\">いとぅ</td>\n<td align=\"left\">本日の会の説明</td>\n</tr>\n<tr>\n<td align=\"left\">20:40-21:40</td>\n<td align=\"left\">いとぅ＆皆様</td>\n<td align=\"left\">テーマトーク</td>\n</tr>\n<tr>\n<td align=\"left\">21:40-23:00</td>\n<td align=\"left\">皆様</td>\n<td align=\"left\">ブレイクアウトルームでのフリートーク</td>\n</tr>\n</tbody>\n</table>\n<h2>■テーマトーク</h2>\n<p><strong>当日準備した情シスにまつわる色々なテーマを基に投票したり</strong></p>\n<p><strong>チャットの内容を拾いながらテーマに沿ったトークをいとぅの進行で行います。</strong></p>\n<p><strong>語りたい人はマイクをONにしてどんどん会話に参加してください！</strong></p>\n<p><strong>面白そうな投稿を見つけたらいとぅが会話に呼び込みます！</strong></p>\n<p><strong>今回は事前にテーマは公開する予定です</strong></p>\n<p><strong>テーマについても募集しています！いとぅへのDMもしくはコメントで応募下さい！</strong></p>\n<p><strong>※音声参加は控えたい方向けのおやくそくも用意します（下記おやくそく参照）</strong></p>\n<h2>■フリートーク</h2>\n<p><strong>テーマトークで盛り上がった後はブレイクアウトルームを利用して</strong></p>\n<p><strong>少人数に人数分けしてフリートークに移行します</strong></p>\n<p><strong>普段の情シスの悩みを話し合うもよし、先程のテーマを広げるもよし</strong></p>\n<p><strong>初回はシャッフルで、以降は人数に合わせて部屋を作り20分程度ずつのトークを行います。</strong></p>\n<p><strong>大人数だと話しづらい方もこちらのセッションで是非情シス仲間を見つけてください</strong></p>\n<p><strong>今回はいとぅの家庭の事情で時間延長無しで終了予定です！ご了承下さい…</strong></p>\n<h2>■おやくそく</h2>\n<p><strong>・Zoomで開催します。ミーティングURLは後日connpass内で事前にお知らせ致します。</strong></p>\n<p><strong>・ゆるい会ですので入退室は自由です！時間内は自分の時間に合わせて入退してください</strong></p>\n<p><strong>・視聴だけを希望する方は参加時お名前の後ろに@ROMと付けてください（例：いとぅ＠ROM）</strong></p>\n<p><strong>　※その方に対してはテーマトーク時にチャットがあってもいとぅは話題を振らないようにします</strong></p>\n<p><strong>・みんなが主役になれる会を目指しております、色々な立場の方がいる事を尊重しましょう！</strong></p>\n<p><strong>　参加者への嫌がらせ行為や差別・セクハラ・恫喝などの場に不適切な発言者はご退席をお願いすることがございます</strong></p>\n<p><strong>・配信の録画・記録は禁止です！でも多数の方がいますのでプライバシートークは程々に…</strong></p>",
+          "link": "https://infosys-talk.connpass.com/event/264471/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-25T22:01:22.000Z",
+          "wordCount": 984,
+          "title": "今宵はゆるりと情シストークしよう！17回目！",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c0/07/c007ae19bbe6fba6031f103bc140d9ef.png"
+        },
+        {
+          "id": "https://flutter-asamoku.connpass.com/event/264124/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 05:00 ～ 07:00<br />開催場所: オンライン<br /><br /><ul>\n<li>Flutterを使ってアプリ開発したい方向けの朝もく会です</li>\n<li>5時〜6時はご質問タイムで、6時〜7時はもくもくタイムです</li>\n<li>Jamboardを使って、質問内容やもくもく内容を共有しながら進めます</li>\n<li>Zoomで開催しますので、ビデオと音声をオンにして、ご参加下さい</li>\n</ul>",
+          "link": "https://flutter-asamoku.connpass.com/event/264124/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-25T22:00:54.000Z",
+          "wordCount": 893,
+          "title": "【オンライン】11/2(水)5時〜7時：Flutter好きが集まる朝もく会（第295回）",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5d/5a/5d5afa47e2a51ccf85cf59f5a533d21f.png"
+        },
         {
           "id": "https://no-genre-mokumoku.connpass.com/event/264469/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,

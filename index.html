@@ -17,8 +17,183 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 303)</span>AWS IAM アイデンティティセンターのデフォルトのクォータ値の引き上げを発表
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS IAM アイデンティティセンター (AWS Single Sign-On の後継サービス) でデフォルトのクォータ値が引き上げられたため、環境のスケーリングが容易なりました。クォータの引き上げにより、アイデンティティセンターのインスタンスで最大 2,000 のアクセス許可セットを作成して割り当てることができます。また、AWS アクセスポータル経由でアクセスできる最大 3,000 のアプリケーションとアカウント (両者の合計) に、最大 100,000 のユーザーと 100,000 のグループを割り当てることもできます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon SageMaker Data Wrangler を使用して大規模にデータ準備を行うための変換の再適合
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日、Amazon SageMaker Data Wrangler で変換の再適合 (Refit) がサポートされるようになったことを発表します。XgBoost などのアルゴリズムでデータを使用できるようにするために、データサイエンティストはワンホットエンコーディングなどの変換方法を使用して、数値以外の値を数値に変換する必要があります。ワンホットエンコーディングのような変換はデータ依存であるため、これらの変換は適合変換と呼ばれることがよくあります。データが時間とともに変化し続けるため、これらの変換はデータの変化を考慮して更新または再適合させる必要があります。さらに、サンプルデータセットで作業するときは、サンプルデータセットとより大きなデータセットの間での変化を考慮して変換を更新する必要があります。ワンホットエンコーディングなどの変換を使用する場合、データ準備パイプラインで追跡やキャプチャを行うときに必要な追加情報が生成されます。この情報が省略されたり、正しく追跡されなかったりすると、データ準備プロセスでエラーが発生する可能性があります。変換の再適合がサポートされていなかったため、多くのデータサイエンティストにとって、変換を適合させた後のバージョンを使用するタイミングや、新しいデータに変換を再適合させるタイミングを簡単に指定する方法がありませんでした。また、データサイエンティストにとって、新しいデータセットで再適合させるときに、更新したバージョンの変換パイプラインを生成することも簡単ではありませんでした。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon Detective を使用して関連する Amazon GuardDuty の検出結果をグループ化し調査時間を短縮する
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、Amazon Detective は関連する GuardDuty の検出結果を自動的にグループ化するようになったため、セキュリティアナリストは、トリアージの時間を短縮し、より包括的なセキュリティ調査を作成できます。Detective は機械学習 (ML) を使用して、関連する GuardDuty の検出結果をグループ化します。単独では無視された可能性のある検出結果をまとめることで、攻撃のライフサイクルを明らかにできます。これにより、セキュリティアナリストは高度な脅威をより簡単に特定できます。Detective の [概要] ページには、関連する GuardDuty の検出結果のグループが重大度、影響を受けるすべての AWS アカウント、リソースとともに表示されます。さらに、Detective は、セキュリティと脅威の検出に広く採用されている MITRE ATT&amp;CK フレームワークから、検出結果の進化を戦術、技術、手順 (TTP) にマッピングします。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>FreeRTOS 長期サポート (LTS) の新しいバージョンをリリース
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日、FreeRTOS 長期サポート (LTS) の 2 番目のリリースである FreeRTOS 202210.00 LTS を発表します。このリリースには、AWS IoT Fleet Provisioning や Cellular LTE-M Interface などの新しいライブラリが含まれており、デバイスのプロビジョニングとセルラー接続が容易になります。また、モジュール性と堅牢性が向上した coreMQTT および FreeRTOS-Plus-TCP のライブラリも含まれています。この FreeRTOS LTS バージョンに含まれるすべてのライブラリ (ライブラリの一覧はこちらの記事に掲載) には、2024 年 10 月までセキュリティと重大なバグの修正が提供されます。新しく LTS がリリースされても、既存の FreeRTOS コードベースを引き続き維持し、FreeRTOS バージョンのアップグレードに起因して起こり得るいかなる中断も回避できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 412)</span>Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール)、カナダ (中部)、AWS GovCloud (米国東部) リージョンで使用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、3TiB (u-3tb1.56xlarge) のメモリの Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール) とカナダ (中部) で利用可能になりました。また、6TiB (u-6tb1.56xlarge、u-6tb1.112xlarge) のメモリの High Memory インスタンスがカナダ (中部) で、12TiB (u-12tb1.112xlarge) のメモリの High Memory インスタンスが AWS GovCloud (米国東部) が利用可能になりました。オンデマンドおよび Savings Plan の購入オプションでこれらの新しい High Memory インスタンスの使用を開始できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 339)</span>AWS Glue クローラーは既存の AWS Glue データカタログテーブルでの増分 Amazon S3 クローリングをサポート
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Glue には、Amazon S3 イベント通知に基づくクローラーが含まれています。これは、Amazon S3 のイベントに基づくデータのスキャンのみを行うことにより、データセットの検出をより簡単にする機能です。Glue クローラーによりデータスキーマが抽出され、AWS Glue データカタログに自動的に入力され、メタデータはここで最新に保たれます。S3 イベントに基づいてデータセットをクローリングすると、新しく取り込まれたデータを任意の分析および機械学習ツールですぐに利用することができるので、インサイトを取得するための時間が削減されます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 375)</span>Amazon RDS for SQL Server がマイナーバージョン 2014 SP3 CU4、2016 SP3 GDR、2017 CU 30、および 2019 CU16 をサポート
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が行われました。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Editionにおいて、SQL Server 2014、2016、2017、2019の新マイナーバージョンに対応するようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 340)</span>AWS SAM CLI パイプラインが Open ID Connect Protocol のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Serverless Application Model (SAM) コマンドラインインターフェイス (CLI) は、SAM CLI パイプラインにおける Open ID Connect (OIDC) サポートの一般提供を開始しました。AWS SAM CLI はサーバーレスアプリケーションの構築、テスト、パッケージ化、デプロイを簡単にするデベロッパーツールです。SAM パイプラインは Jenkins、GitLab、GitHub Actions、Atlassian Bitbucket Pipelines、AWS CodePipeline を使用して、サーバーレスアプリケーションの継続的インテグレーションおよびデプロイ (CI/CD) パイプラインを簡単に作成できるようにします。SAM パイプラインには、すべてのサポート対象システムの一連のデフォルトのパイプラインテンプレートが事前にパッケージ化されており、複数のアカウントおよび複数のリージョンでの安全なデプロイに関する AWS のベストプラクティスが紹介されています。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>RStudio on Amazon SageMaker が新たなデベロッパー生産性機能とセキュリティ機能を搭載
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>RStudio on Amazon SageMaker が RStudio Workbench バージョン 2022.02.2-485.pro2 に対応し、デベロッパー生産性機能とセキュリティ機能が向上しました。これらの新機能には、高性能化した R のヘルプシステム、R パイプバインドプレースホルダーの向上したエディタサポート、そして RStudioServerPro と RSession アプリケーション間の通信を保護する完全なエンドツーエンド暗号化などがあります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 301)</span>AWS Transfer Family が部分的にアップロードされたファイルのアップロード後の処理のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Transfer Family では、マネージド型ワークフローを使用した、部分的にアップロードされたファイルのアップロード後の処理のサポートを開始しました。これにより、完全なアップロードファイルと不完全なアップロードファイルの両方に対して、ファイル処理手順の定義と実行をより詳細に制御できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 360)</span>Amazon Athena がクエリエンジンをアップグレード
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Athena の SQL クエリエンジンがアップグレードされ、Trino オープンソースプロジェクトの最新機能に対応しました。Athena エンジンバージョン 3 の特徴としては、50 を超える新しい SQL 機能、30 の新機能、そして 90 以上のクエリパフォーマンス向上などが挙げられます。今回のアップグレードにより、Athena は、Trino と Presto のプロジェクトの流通性を高めるようなオープンソースソフトウェア管理に対する継続的インテグレーションアプローチも導入しています。それにより、お客様は Athena エンジン内で統合、調整されたコミュニティの改良点により早くアクセスできるようになります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 298)</span>Amazon Lex がヒンディー語とオランダ語のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Lex がヒンディー語とオランダ語のサポートを開始しました。Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、構築した会話型エクスペリエンスをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>Amazon RDS が既存の RDS または Aurora データベースと EC2 コンピューティングインスタンス間の自動接続設定のサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、既存のAmazon Relational Database Service (Amazon RDS) または Amazon Aurora データベースと Amazon Elastic Compute Cloud (Amazon EC2) コンピューティングインスタンスの間で自動で接続の設定ができるようになりました。 Amazon RDS コンソールから、RDS または Aurora データベースと EC2 インスタンス間の接続を設定するためのアクションを選択できます。Amazon RDS では、関連するネットワーク設定が自動でセットアップされ、EC2 インスタンスと RDS データベース間の安全な接続が実現されます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.technologyreview.jp">MITテクノロジーレビュー</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>2 min</time> : 677)</span>ゆっくりした動きで発電するウェアラブル発電機＝理研など
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.technologyreview.jp/n/2022/10/26/289110/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>No content preview</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
@@ -123,6 +298,231 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://connpass.com/explore/">connpass 新着イベント</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>5 min</time> : 1434)</span>キャリアプランに脆弱性診断を追加したい&quot;未来の&quot;初級者向け　#W2-A-101,102,103
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://kabuto.connpass.com/event/264472/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/02 20:00 ～ 21:30
+開催場所: オンライン
+
+はじめに
+当イベントページをご覧いただき、ありがとうございます。
+・顔の見えるセミナーをコンセプトにしております。
+・WEBカメラでのご参加を必須条件とさせていただきます。（マスク着用可）
+　※google meetでの背景変更は下記を参考。
+https://support.google.com/meet/answer/10058482?hl&#x3D;ja&amp;co&#x3D;GENIE.Platform%3DDesktop
+
+
+まだまだ、勉強の毎日ですがセキュリティスキルは、プログラミングやインフラ構築などとは違って参考書も少なく勉強方法も異なるかと思いますので、なかなか独学では難しいところもあり途中で挫折される方も少なくないかと思います。
+これからの日本のセキュリティを守っていく人材教育に少しでもお役に立てればと思います。
+・本セミナーは、教育目的として開催します。
+・開催者は、いかなる損害についても責任を負いません。
+・ツールや情報の誤用について、責任を負いません。
+・書面による許可なしにハッキングを行うことは違法です。
+セミナー概要
+WEBアプリケーションの脆弱性診断を行うにあたり、
+前提となる最低限の知識（W1-A-001～W1-A-009）を身につけた方と脆弱性の理解（W1-B-001～W1-B-012）、
+基本的な脆弱性の診断手順（W2-A-001～W2-A-012）を理解された方向けのハンズオントレーニングとなります。
+今回からテスティング環境を使ってのハンズオンをメインに実践に向けての基礎力（テクニカル系）を身につけていきます。
+前途、記述したスキルを満たした方向けに進めていきます。
+
+カリキュラムコード：W2-A-101
+■30分コース
+　・DVWAを使用したハンズオン
+カリキュラムコード：W2-A-102
+■60分コース
+　・DVWAを使用したハンズオン
+カリキュラムコード：W2-A-103
+■90分コース
+　・DVWAを使用したハンズオン
+対象となる脆弱性メニュー
+※本セミナー当日に全メニューを実施するわけではございません。進行状況によります。（2～3回開催予定です）
+・SQL Injection
+・XSS
+・OS Command Injection
+・LFI／RFI
+・File Upload
+・Session ID
+・CSRF
+・Brute Force
+
+セミナーコース一覧
+当セミナーでは、みなさまのご経験に応じてコースを設けております。
+
+W1．セキュリティスキル習得への一歩を踏み出したい&quot;新たな&quot;入門者向け（基本編：W1-A-ooo／向上編：W1-B-ooo）
+
+⇧ 脆弱性診断やペネトレーションテストに興味はあるもののWEBアプリケーションの開発経験のない方
+
+W2．キャリアプランに脆弱性診断を追加したい&quot;未来の&quot;初級者向け（基本編：W2-A-ooo／向上編：W2-B-ooo）
+
+ ⇧ HTML、JavaScript、PHP、SQL、Burp Suiteの基礎レベルを理解して、これから診断を始めようとされている方
+
+W3．さらなる実力を身につけて実務に活かしたい&quot;攻めの&quot;中級者向け（基本編：W3-A-ooo／向上編：W3-B-ooo）
+
+⇧ テスティングサイト等で、基本的な脆弱性診断の体験をしてエンドポイントやパラメータを理解されている方
+
+W4．実践的な脆弱性診断手法を学んで飛躍したい&quot;試練の&quot;上級者向け（基本編：W4-A-ooo／向上編：W4-B-ooo）
+
+⇧ 一連の脆弱性診断スキルを身につけたものの更にバグバウンティの例から実践的なテクニックを身につけたい方
+
+こんな人にオススメ
+
+■エンジニア、学生の方々
+・セキュリティに興味があるが、勉強方法がわからないという方
+・Burp SuiteやOWASP ZAPを使い始めた方
+・CTFやバグバウンティ、ペネトレーションテスト、ホワイトハッカーに興味のある方
+
+■企業担当者、教育機関関係者の方々
+・経営者やセキュリティ担当者で、人材育成をしたいが技術的な部分を基礎から知りたい方
+・Webアプリケーションの診断実施や内製化を検討されている方
+開催概要
+形態：　オンライン形式（開催日時までにURLをお送りします）
+※あらかじめダウンロードいただきたいツール等につきましては、別途お知らせいたします。
+タイムテーブル
+開始
+終了
+内容
+
+
+
+
+19:55
+20:00
+受付・開場
+
+
+20:00
+20:25
+30分コース
+
+
+20:30
+20:55
+60分コース
+
+
+21:00
+21:25
+90分コース
+
+
+21:30
+
+※個別でご質問・ご相談を受け付けます。
+
+
+
+※タイムテーブルは目安です。当日の進行状況によって前後する可能性がございます。
+領収書発行
+ご希望の方は、電子データで簡易的な領収書の発行となります。
+宛名／日付／金額／但し／連絡先（電話番号のみ）
+
+登壇者紹介
+いつの間にか、各大手ベンダーにて炎上プロジェクトの火消し専門のプロジェクトマネージャとして働き続けた結果、疲れ切ってIT業界を離れ、独学で自然農法を学んで無農薬・無肥料でイタリア野菜を栽培していたところに...、日本年金機構の情報漏洩事件の発生でセキュリティの世界に呼び込まれ、気が付けば独学でスキルを身につけてサイバーセキュリティ部署を立ち上げていた『CompTIA Network Security Professional』です。
+JaSST&#x27;22 Kansaiにて登壇させていただきました。（『よわよわエンジニア』から『つよつよエンジニア』へ ♪ ）
+https://www.jasst.jp/symposium/jasst22kansai/report.html
+趣味：料理、ロードバイク、サーフィン、ランニング、ヨット、ジャズ、四季報
+お願い
+ご参加が難しくなられた場合は、なるべく早めのキャンセルをしていただけますと幸いです。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 984)</span>今宵はゆるりと情シストークしよう！17回目！
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://infosys-talk.connpass.com/event/264471/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/25 20:30 ～ 23:00
+開催場所: Zoomを利用します！
+
+最近隔月になっておりますが11月も開催致します
+■今回のトークテーマ
+▼皆がやってるメンタルケア
+▼モチベーションの維持をどうやってますか？
+テーマは合わせる可能性があります、皆前向きになれるよう進行頑張ります！
+■これはどんなイベント？
+昨今情シスのイベントも活性化してきましたがまだまだ
+「いきなりLT会は敷居が高い」
+「自分が入って大丈夫かな？」
+「まずはイベントって雰囲気だけでも見てみたい」
+こんな悩みを持つイベント初心者の情シスさんは多数いると思います。
+そんな方がイベント参加の足がかりにしてもらえるような
+できるだけ敷居の低い会を目指し企画しました。
+■イベント内容
+Time
+担当
+内容
+
+
+
+
+20:30-20:40
+いとぅ
+本日の会の説明
+
+
+20:40-21:40
+いとぅ＆皆様
+テーマトーク
+
+
+21:40-23:00
+皆様
+ブレイクアウトルームでのフリートーク
+
+
+
+■テーマトーク
+当日準備した情シスにまつわる色々なテーマを基に投票したり
+チャットの内容を拾いながらテーマに沿ったトークをいとぅの進行で行います。
+語りたい人はマイクをONにしてどんどん会話に参加してください！
+面白そうな投稿を見つけたらいとぅが会話に呼び込みます！
+今回は事前にテーマは公開する予定です
+テーマについても募集しています！いとぅへのDMもしくはコメントで応募下さい！
+※音声参加は控えたい方向けのおやくそくも用意します（下記おやくそく参照）
+■フリートーク
+テーマトークで盛り上がった後はブレイクアウトルームを利用して
+少人数に人数分けしてフリートークに移行します
+普段の情シスの悩みを話し合うもよし、先程のテーマを広げるもよし
+初回はシャッフルで、以降は人数に合わせて部屋を作り20分程度ずつのトークを行います。
+大人数だと話しづらい方もこちらのセッションで是非情シス仲間を見つけてください
+今回はいとぅの家庭の事情で時間延長無しで終了予定です！ご了承下さい…
+■おやくそく
+・Zoomで開催します。ミーティングURLは後日connpass内で事前にお知らせ致します。
+・ゆるい会ですので入退室は自由です！時間内は自分の時間に合わせて入退してください
+・視聴だけを希望する方は参加時お名前の後ろに@ROMと付けてください（例：いとぅ＠ROM）
+　※その方に対してはテーマトーク時にチャットがあってもいとぅは話題を振らないようにします
+・みんなが主役になれる会を目指しております、色々な立場の方がいる事を尊重しましょう！
+　参加者への嫌がらせ行為や差別・セクハラ・恫喝などの場に不適切な発言者はご退席をお願いすることがございます
+・配信の録画・記録は禁止です！でも多数の方がいますのでプライバシートークは程々に…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 893)</span>【オンライン】11/2(水)5時〜7時：Flutter好きが集まる朝もく会（第295回）
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://flutter-asamoku.connpass.com/event/264124/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2022/11/02 05:00 ～ 07:00
+開催場所: オンライン
+
+Flutterを使ってアプリ開発したい方向けの朝もく会です
+5時〜6時はご質問タイムで、6時〜7時はもくもくタイムです
+Jamboardを使って、質問内容やもくもく内容を共有しながら進めます
+Zoomで開催しますので、ビデオと音声をオンにして、ご参加下さい</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
@@ -2391,145 +2791,6 @@ Stack Script, k8s, Terraformを使ってLinodeで負荷試験環境を自動で�
 19:40-20:00
 Q&amp;A、ディスカッション
 参加者</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 314)</span>Amazon Detective を使用して関連する Amazon GuardDuty の検出結果をグループ化し調査時間を短縮する
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、Amazon Detective は関連する GuardDuty の検出結果を自動的にグループ化するようになったため、セキュリティアナリストは、トリアージの時間を短縮し、より包括的なセキュリティ調査を作成できます。Detective は機械学習 (ML) を使用して、関連する GuardDuty の検出結果をグループ化します。単独では無視された可能性のある検出結果をまとめることで、攻撃のライフサイクルを明らかにできます。これにより、セキュリティアナリストは高度な脅威をより簡単に特定できます。Detective の [概要] ページには、関連する GuardDuty の検出結果のグループが重大度、影響を受けるすべての AWS アカウント、リソースとともに表示されます。さらに、Detective は、セキュリティと脅威の検出に広く採用されている MITRE ATT&amp;CK フレームワークから、検出結果の進化を戦術、技術、手順 (TTP) にマッピングします。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 386)</span>FreeRTOS 長期サポート (LTS) の新しいバージョンをリリース
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日、FreeRTOS 長期サポート (LTS) の 2 番目のリリースである FreeRTOS 202210.00 LTS を発表します。このリリースには、AWS IoT Fleet Provisioning や Cellular LTE-M Interface などの新しいライブラリが含まれており、デバイスのプロビジョニングとセルラー接続が容易になります。また、モジュール性と堅牢性が向上した coreMQTT および FreeRTOS-Plus-TCP のライブラリも含まれています。この FreeRTOS LTS バージョンに含まれるすべてのライブラリ (ライブラリの一覧はこちらの記事に掲載) には、2024 年 10 月までセキュリティと重大なバグの修正が提供されます。新しく LTS がリリースされても、既存の FreeRTOS コードベースを引き続き維持し、FreeRTOS バージョンのアップグレードに起因して起こり得るいかなる中断も回避できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 412)</span>Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール)、カナダ (中部)、AWS GovCloud (米国東部) リージョンで使用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、3TiB (u-3tb1.56xlarge) のメモリの Amazon EC2 High Memory インスタンスがアジアパシフィック (シンガポール) とカナダ (中部) で利用可能になりました。また、6TiB (u-6tb1.56xlarge、u-6tb1.112xlarge) のメモリの High Memory インスタンスがカナダ (中部) で、12TiB (u-12tb1.112xlarge) のメモリの High Memory インスタンスが AWS GovCloud (米国東部) が利用可能になりました。オンデマンドおよび Savings Plan の購入オプションでこれらの新しい High Memory インスタンスの使用を開始できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 339)</span>AWS Glue クローラーは既存の AWS Glue データカタログテーブルでの増分 Amazon S3 クローリングをサポート
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Glue には、Amazon S3 イベント通知に基づくクローラーが含まれています。これは、Amazon S3 のイベントに基づくデータのスキャンのみを行うことにより、データセットの検出をより簡単にする機能です。Glue クローラーによりデータスキーマが抽出され、AWS Glue データカタログに自動的に入力され、メタデータはここで最新に保たれます。S3 イベントに基づいてデータセットをクローリングすると、新しく取り込まれたデータを任意の分析および機械学習ツールですぐに利用することができるので、インサイトを取得するための時間が削減されます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 375)</span>Amazon RDS for SQL Server がマイナーバージョン 2014 SP3 CU4、2016 SP3 GDR、2017 CU 30、および 2019 CU16 をサポート
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Microsoft SQL Server の新しいマイナーバージョンが Amazon RDS for SQL Server で利用可能になり、パフォーマンスとセキュリティの修正が行われました。Amazon RDS for SQL Server は Express、Web、Standard、Enterprise Editionにおいて、SQL Server 2014、2016、2017、2019の新マイナーバージョンに対応するようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 340)</span>AWS SAM CLI パイプラインが Open ID Connect Protocol のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Serverless Application Model (SAM) コマンドラインインターフェイス (CLI) は、SAM CLI パイプラインにおける Open ID Connect (OIDC) サポートの一般提供を開始しました。AWS SAM CLI はサーバーレスアプリケーションの構築、テスト、パッケージ化、デプロイを簡単にするデベロッパーツールです。SAM パイプラインは Jenkins、GitLab、GitHub Actions、Atlassian Bitbucket Pipelines、AWS CodePipeline を使用して、サーバーレスアプリケーションの継続的インテグレーションおよびデプロイ (CI/CD) パイプラインを簡単に作成できるようにします。SAM パイプラインには、すべてのサポート対象システムの一連のデフォルトのパイプラインテンプレートが事前にパッケージ化されており、複数のアカウントおよび複数のリージョンでの安全なデプロイに関する AWS のベストプラクティスが紹介されています。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>RStudio on Amazon SageMaker が新たなデベロッパー生産性機能とセキュリティ機能を搭載
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>RStudio on Amazon SageMaker が RStudio Workbench バージョン 2022.02.2-485.pro2 に対応し、デベロッパー生産性機能とセキュリティ機能が向上しました。これらの新機能には、高性能化した R のヘルプシステム、R パイプバインドプレースホルダーの向上したエディタサポート、そして RStudioServerPro と RSession アプリケーション間の通信を保護する完全なエンドツーエンド暗号化などがあります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 301)</span>AWS Transfer Family が部分的にアップロードされたファイルのアップロード後の処理のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Transfer Family では、マネージド型ワークフローを使用した、部分的にアップロードされたファイルのアップロード後の処理のサポートを開始しました。これにより、完全なアップロードファイルと不完全なアップロードファイルの両方に対して、ファイル処理手順の定義と実行をより詳細に制御できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 360)</span>Amazon Athena がクエリエンジンをアップグレード
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Athena の SQL クエリエンジンがアップグレードされ、Trino オープンソースプロジェクトの最新機能に対応しました。Athena エンジンバージョン 3 の特徴としては、50 を超える新しい SQL 機能、30 の新機能、そして 90 以上のクエリパフォーマンス向上などが挙げられます。今回のアップグレードにより、Athena は、Trino と Presto のプロジェクトの流通性を高めるようなオープンソースソフトウェア管理に対する継続的インテグレーションアプローチも導入しています。それにより、お客様は Athena エンジン内で統合、調整されたコミュニティの改良点により早くアクセスできるようになります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 298)</span>Amazon Lex がヒンディー語とオランダ語のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Lex がヒンディー語とオランダ語のサポートを開始しました。Amazon Lex は、音声やテキストを使用した会話型インターフェイスをさまざまなアプリケーションに構築するための AWS のサービスです。Amazon Lex では、音声のテキストへの変換を深層学習により実現する自動音声認識 (ASR) と、テキストの意図を認識するための自然言語理解 (NLU) の機能がご利用いただけます。このサービスにより、非常に魅力的なユーザーエクスペリエンスと、リアルな会話を再現するアプリケーションの構築が可能になります。今回追加された新しい言語により、構築した会話型エクスペリエンスをさらに拡張して、顧客基盤をよりよく理解しながら、そこでのつながりを強化できるようになります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>Amazon RDS が既存の RDS または Aurora データベースと EC2 コンピューティングインスタンス間の自動接続設定のサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、既存のAmazon Relational Database Service (Amazon RDS) または Amazon Aurora データベースと Amazon Elastic Compute Cloud (Amazon EC2) コンピューティングインスタンスの間で自動で接続の設定ができるようになりました。 Amazon RDS コンソールから、RDS または Aurora データベースと EC2 インスタンス間の接続を設定するためのアクションを選択できます。Amazon RDS では、関連するネットワーク設定が自動でセットアップされ、EC2 インスタンスと RDS データベース間の安全な接続が実現されます。</span>
                   </div>
                 </a>
               </details>
