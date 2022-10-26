@@ -1584,106 +1584,6 @@
           "wordCount": 344,
           "title": "AWS IoT TwinMaker が TwinMaker Grafana Plugin の v1.2.0 をリリース",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "de44d2faa09b4845a2eeee0ee0e51a4137d91581",
-          "author": "aws@amazon.com",
-          "description": "AWS Batch では、ジョブレポートの保持期間が 24 時間から 7 日に延長されました。これにより、最長で 7 日前に完了した AWS Batch ジョブの詳細をクエリできるようになりました。保持期間が延びたことにより、1 日後にジョブが消えてしまう心配がなくなりました。ジョブを送信してから数日後にクエリを実行して、1 週間を通して送信したジョブをより詳しく把握できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/",
-          "publishedOn": "2022-09-26T20:19:45.000Z",
-          "wordCount": 323,
-          "title": "AWS Batch がジョブレポートの保持期間を 24 時間から 7 日に延長",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e206f77477a07d1bc4133f32f400fffc7a845643",
-          "author": "aws@amazon.com",
-          "description": "FreeRTOS 延長メンテナンスプラン (EMP) の登録受け付けを開始しました。FreeRTOS とは、マイクロコントローラ向けのリアルタイムオペレーティングシステムです。FreeRTOS EMP のサブスクリプションに登録すると、組み込みデベロッパーは、選択した FreeRTOS 長期サポート (LTS) バージョンの重大なバグ修正とセキュリティパッチの提供を、最初のサポート期間の満了後最大 10 年間、受けられます。サブスクリプション期間中、デベロッパーは FreeRTOS ライブラリの今後のパッチに関する通知を受け取るため、製品のメンテナンスアクティビティを順序立てて計画可能です。FreeRTOS EMP は、デベロッパーがマイクロコントローラーベースのデバイスを何年にもわたって保護し、オペレーティングシステムのアップグレードコストを節約し、デバイスへのパッチ適用に関連するリスクを軽減するのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/freertos-extended-maintenance-plan-registration-open/",
-          "publishedOn": "2022-09-26T20:18:57.000Z",
-          "wordCount": 295,
-          "title": "FreeRTOS 延長メンテナンスプランの登録受け付けを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "52c1d3eec127d9fa3ff326fcf9ae8ec7b9bad1a8",
-          "author": "aws@amazon.com",
-          "description": "このたび、Amazon Relational Database Service (Amazon RDS) for Oracle に、M5d/R5d インスタンス向けの一時テーブルスペース用インスタンスストアおよびデータベーススマートフラッシュキャッシュのサポートが追加されました。M5d/R5d インスタンスは、スクラッチスペース、一時ファイル、キャッシュなどの一時的なストレージを必要とするものを含め、高速で低レイテンシーのローカルストレージにアクセスする必要のあるアプリケーションに最適です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/",
-          "publishedOn": "2022-09-26T20:18:09.000Z",
-          "wordCount": 381,
-          "title": "Amazon RDS for Oracle に、M5d/R5d インスタンス向けの一時テーブルスペース用インスタンスストアおよびデータベーススマートフラッシュキャッシュのサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d1cd974e0b6c84c16fdd4cbfcc6e2c749d4e3bd4",
-          "author": "aws@amazon.com",
-          "description": "タグの使用によって、AWS PrivateLink を利用する VPC エンドポイントサービスの追跡と管理の方法が改良されました。AWS PrivateLink はフルマネージド型のプライベート接続ソリューションで、ユーザーがネットワークトラフィックを非公開にしたまま、AWS でホストされているサービスに安全かつスケーラブルな方法でアクセスできるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-privatelink-announces-enhanced-tagging-capability-service-owners/",
-          "publishedOn": "2022-09-26T20:17:18.000Z",
-          "wordCount": 304,
-          "title": "AWS PrivateLink からサービス所有者向けに強化されたタグ付け機能のリリースが発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c70acc4c40e4d29bbac34cc6ea6426bf9b1b7569",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic Container Service (Amazon ECS) では、スケールインイベントでクラスターオートスケーリングをより速くできるよう、Amazon ECS 容量プロバイダーを改善しました。Amazon ECS では、余剰キャパシティーのスケールインをより速く行えるようになり、インフラストラクチャの使用率の向上とコンピューティングコストの削減をサポートするようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/",
-          "publishedOn": "2022-09-26T20:16:26.000Z",
-          "wordCount": 355,
-          "title": "Amazon ECS でスケールインイベントのクラスターオートスケーリングがより高速に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c92632166d69876dae87e6175fdab896e25d25ee",
-          "author": "aws@amazon.com",
-          "description": "Amazon AppFlow は、数回クリックするだけで AWS のサービスと Software-as-a-Service (SaaS) アプリケーション間のデータ転送を安全に実行できるフルマネージド型統合サービスです。このたび、Salesforce でのレコード削除に対応しました。お客様は、Amazon AppFlow フローを実行して送信先の Salesforce インスタンスの対象レコードを削除できるようになりました。 この新機能により、挿入、更新、アップサートといった書き込みメソッドを既にサポートしている Amazon AppFlow のSalesforce 用コネクタが強化されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/appflow-now-supports-deleting-records-salesforce/",
-          "publishedOn": "2022-09-26T20:04:39.000Z",
-          "wordCount": 316,
-          "title": "Amazon AppFlow が Salesforce でのレコード削除に対応",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3d73db1925f5b6c8aaeefd83292a5719a123ac48",
-          "author": "aws@amazon.com",
-          "description": "このたび、アマゾン ウェブ サービス (AWS) は AWS インシデント検出と対応の一般提供を開始しました。AWS エンタープライズサポートのお客様が選択したワークロードに対して、積極的なモニタリングおよびインシデント管理を行います。AWS インシデント検出と対応は、オペレーションを改善し、ワークロードの回復力を高め、重大なインシデントからの復旧を促進するように設計されています。本サービスでは実績あるオペレーション機能、強化されたモニタリング機能、インシデント管理機能が活用されます。これらの機能は AWS チームによって社内で、AWS Managed Services (AMS) において外部で使用されているものです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-enterprise-support-aws-incident-detection-response/",
-          "publishedOn": "2022-09-26T20:03:50.000Z",
-          "wordCount": 328,
-          "title": "AWS エンタープライズサポートが AWS インシデント検出と対応をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9f597da6bb93aee4a8e5dfeb0622ed71cba59193",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MariaDB が MariaDB のマイナーバージョン 10.5.17、10.4.26、10.3.36 のサポートを開始しました。以前のバージョンの MariaDB における既知のセキュリティの脆弱性を修正し、MariaDB のコミュニティによって追加された多数のバグ修正、パフォーマンスの改善、新機能の利点を受けるために、最新のマイナーバージョンにアップグレードすることをお勧めします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/",
-          "publishedOn": "2022-09-26T20:03:00.000Z",
-          "wordCount": 319,
-          "title": "Amazon RDS for MariaDB が新しいマイナーバージョン 10.5.17、10.4.26、10.3.36 をサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "e2eec1595502d73d7e3d2df3a2a197e407dba60c",
-          "author": "aws@amazon.com",
-          "description": "Outposts ラックのローカルゲートウェイ (LGW) にインバウンドルートを作成することにより、受信トラフィックが Outposts で実行されているエンタープライズワークロードに到達する前に、そのトラフィックを Amazon EC2 インスタンスにアタッチされた Elastic Network Interface (ENI) にリダイレクトできるようになりました。この EC2 インスタンスで仮想ネットワークアプライアンスのソフトウェアを実行して、ネットワークトラフィックを別の EC2 インスタンスにリダイレクトする前に、そのトラフィックを検査、変更、フィルタリングできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/local-gateway-ingress-routing-aws-outposts-rack-now-available/",
-          "publishedOn": "2022-09-26T20:02:11.000Z",
-          "wordCount": 324,
-          "title": "AWS Outposts ラックのローカルゲートウェイでイングレスルーティングが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d9375cb3e67dd276b83612848e37c5453299dac6",
-          "author": "aws@amazon.com",
-          "description": "今回は、AWS IoT Device Defender ML Detect に新たに追加された 2 つの拡張機能であるカスタムメトリクスとディメンションのサポートをご紹介します。まず、ML Detect によるカスタムメトリクスのモニタリングが新たにサポートされました。これにより、フリートに固有の運用上の健全性パラメータを評価できるようになりました。Rules Detect を使用して静的アラームを手動で設定するだけでなく、カスタムメトリクスに対して予想されるフリートの動作を機械学習で自動的に学習させることができるようになりました。また、ML Detect ではディメンションフィルターが新たにサポートされ、ML セキュリティプロファイルのメトリクスをより正確に評価するための属性を定義できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-defender-ml-detect-custom-metrics-dimensions-support/",
-          "publishedOn": "2022-09-26T20:01:20.000Z",
-          "wordCount": 331,
-          "title": "AWS IoT Device Defender ML Detect のカスタムメトリクスとディメンションのサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -6039,6 +5939,66 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://xdtrail.connpass.com/event/263802/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/15 20:00 ～ 2022/11/16 21:20<br />開催場所: オンライン<br /><br /><p><a href=\"https://xdtrail.com/\" rel=\"nofollow\">Adobe XD Trail</a> がお届けする「みんなで Adobe XD Trail 2022」は、Adobe XD に興味がある全ての人に役立つ情報をお伝えする番組です！今年最後の配信は【コミュ力の高いデザイン（デザイナーのメッセージが伝わるデザイン）】をテーマに、2夜連続でMAXセッション講師が特別ゲストとして登場するスペシャル番組です。もちろん、まだ XD を使ったことのない人から、日々使いこなしている人まで楽しめるいつものセクションもありますのでお楽しみに。</p>\n<p><br></p>\n<p>今回は特別に、MAXストアで販売されていた2022年の新作クッションをプレゼントとして用意しています。番組中に質問を投稿していただいた方の中から抽選の予定ですので、ぜひ積極的に番組にご参加ください。</p>\n<p><img alt=\"プレゼントのクッションの画像\" src=\"https://xdtrail.com/wp-content/uploads/2022/10/store-cushions.jpg\"></p>\n<p>（※プレゼント商品は予告なく変更する場合があります）</p>\n<p><br></p>\n<p>■ ライブ配信URLは、登録いただいた方に事前にお伝えします。</p>\n<p>■ 番組を後から見直したい人のために、後日、Adobe XD Trail サイトの<a href=\"https://xdtrail.com/events/\" rel=\"nofollow\">イベント一覧</a>にアーカイブを公開する予定です。</p>\n<p><br></p>\n<h2>みんトレ Autumn Special の内容</h2>\n<h3>Day 1 (11/15)- モーションを使って感情に訴える</h3>\n<p>初日のゲストは、今年のMAXで「<a href=\"https://xdtrail.com/events/using-xd-and-after-effects-to-create-designs-with-texture/\" rel=\"nofollow\">Adobe XDとAfter Effectsで実現！手触り感のあるデザイン制作</a>」というセッションを担当した池田泰延さんです。長年に渡りモーションデザインに取り組んできた池田さんに、「動き」がコミュニケーション力の向上にどのように関わるのかを伺います。</p>\n<p>XD 初心者向けおよび上級者向けのコーナーでは、XD のデザインに Lottie アニメーションを組み込む方法を取り上げます。</p>\n<table>\n<thead>\n<tr>\n<th>#</th>\n<th align=\"left\">トピック</th>\n<th align=\"left\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td align=\"left\">はじめの一歩</td>\n<td align=\"left\">XDの特徴的な機能の使い方や使いどころを紹介します。今回は動画とLottieアニメーションの扱い方です。</td>\n</tr>\n<tr>\n<td>2</td>\n<td align=\"left\">本日のゲスト</td>\n<td align=\"left\">池田泰延さんをゲストに迎えた動きのあるデザインによる表現力アップのお話です。また AE を使った基本的なアニメーションの作成方法もご紹介いただきます。</td>\n</tr>\n<tr>\n<td>3</td>\n<td align=\"left\">達人への道</td>\n<td align=\"left\">自分ではなかなか気づけない XD の使い方を紹介します。今回の達人は湯口りささんです。</td>\n</tr>\n</tbody>\n</table>\n<p>※内容は予告なく変更する場合があります</p>\n<h4>出演者</h4>\n<p>【MC】<br>\n轟 啓介（アドビ）</p>\n<p>【XD 初級者】<br>\n透子</p>\n<p>【ゲスト】<br>\n池田 泰延（ICS）</p>\n<p>【達人】<br>\n湯口 りさ</p>\n<p><br></p>\n<h3>Day 2 (11/16)- リモート環境でもコミュ力の高いデザインをつくる</h3>\n<p>2日目のゲストは、今年のMAXで「<a href=\"https://xdtrail.com/events/using-adobe-xd-to-collaborate-in-the-new-normal-era/\" rel=\"nofollow\">Adobe XD で実現するニューノーマル時代のチームクリエイティブ</a>」というセッションを担当した野澤未帆さんです。リモートワークの状況下でデザインに取り組んでいる野澤さんに、実際の案件で作成した XD ファイルを参照しながら、デザインをどのようにチーム内で共有しているかを伺います。</p>\n<p>XD 初心者向けおよび上級者向けのコーナーでは、XD のアニメーション機能を使いこなすヒントを取り上げます。</p>\n<table>\n<thead>\n<tr>\n<th>#</th>\n<th align=\"left\">トピック</th>\n<th align=\"left\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td align=\"left\">はじめの一歩</td>\n<td align=\"left\">XDの特徴的な機能の使い方や使いどころを紹介します。今回は「自動アニメーション」です。</td>\n</tr>\n<tr>\n<td>2</td>\n<td align=\"left\">本日のゲスト</td>\n<td align=\"left\">野澤未帆さんをゲストに、リモート環境での XD を使った効率的及び効果的なデザインの話、および動きのデザインにこだわる理由を伺います。</td>\n</tr>\n<tr>\n<td>3</td>\n<td align=\"left\">達人への道</td>\n<td align=\"left\">自分ではなかなか気づけない XD の使い方を紹介します。今回の達人は佐々木雄平さんです。</td>\n</tr>\n</tbody>\n</table>\n<p>※内容は予告なく変更する場合があります</p>\n<h4>出演者</h4>\n<p>【MC】<br>\n轟 啓介（アドビ）</p>\n<p>【XD 初級者】<br>\n透子</p>\n<p>【ゲスト】<br>\n野澤 未帆（博報堂プロダクツ）</p>\n<p>【達人】<br>\n佐々木 雄平</p>\n<p><br></p>\n<h2>【みんなで Adobe XD Trail 2022】の楽しみ方</h2>\n<p><img alt=\"みんなで XD Trail の楽しみ方\" src=\"https://xdtrail.com/wp-content/uploads/2022/04/mintore-concept.png\"></p>\n<ol>\n<li>\n<p><strong>初心者と一緒にはじめてみる</strong><br>\n初心者代表の生徒役が、実際に Adobe XDを使って XD の特徴的な機能に取り組みます。まだ使ったことがない人でも、見ているだけで使い方を学べます。質問はその場で Q&amp;A パネルに。</p>\n</li>\n<li>\n<p><strong>効率的なデザイン制作手順を学ぶ</strong><br>\nゲストが登場して、デザイン作業の効率的な進め方を紹介します。いつもの仕事に役立つヒントが見つかるかもしれません。ゲストへの質問も受け付けます。</p>\n</li>\n<li>\n<p><strong>達人の技を見て刺激を受ける</strong><br>\nXD を使いこなしている上級者から、普通に使っているだけでは気づかない XD の便利な使い方を学びましょう。XD の世界がもっと広がるかもしれません。</p>\n</li>\n<li>\n<p><strong>最新情報や関連情報を入手</strong><br>\nアドビの製品担当者が、最新のアップデート情報や関連するニュースをお伝えします。</p>\n</li>\n</ol>",
+          "link": "https://xdtrail.connpass.com/event/263802/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-26T08:25:28.000Z",
+          "wordCount": 1395,
+          "title": "みんなで Adobe XD Trail 2022 晩秋SP 11/15-16 コミュ力の高いデザイン",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4b/af/4baf446089e37c7f47d0949d3fcc9940.png"
+        },
+        {
+          "id": "https://drupal-meetup-haneda.connpass.com/event/264534/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/24 21:00 ～ 22:00<br />開催場所: オンライン<br /><br /><h1>概要</h1>\n<p>Drupal Meetup 羽田は、オープンソースCMS（コンテンツ管理システム）であるDrupalに興味がある人達を中心としたグループです。</p>\n<p>さらにDrupal（ドルーパル）普及を目的とした交流の場所です。Drupal（ドルーパル）は、CX（カスタマーエクスペリエンス）・DX（デジタルエクスペリエンス）のプラットフォームとして、多くのグローバル企業や機関に採用されています。API志向のアーキテクチャで、IOTやAI（人工知能）といったシステムとの連携事例も出てきています。またAngularやREACT等のJavaScriptフレームワークを使ってスマホアプリを開発し、バックエンドのプラットフォームとして、Drupal（ドルーパル）を利用する事も可能です。</p>\n<p>Drupal（ドルーパル）技術者の方、デジタルマーケティング運用担当の方、また、Drupal（ドルーパル）にご興味がある方のご参加をお待ちしております。</p>\n<p>Drupal 技術動向に関する発表や意見交換を行います。</p>\n<p>技術動向は知りたいけれど、技術者でないという方、Drupalに興味がある方、是非気軽にご参加ください。</p>\n<h1>オンライン開催</h1>\n<p>新型コロナウィルスの関係で、オンラインでの開催となります。</p>\n<p>■オンライン開催概要</p>\n<p>配信プラットフォームに zoom利用をします。</p>\n<p>※参加者様にはお申込み画面よりもzoomURLが表記されますが、\n　別途、zoomURLをお送りいたします。</p>\n<p>・当日18:00迄にお送り致します。</p>\n<p>・21時過ぎても随時お送りいたします。</p>\n<h1>プログラム</h1>\n<table>\n<thead>\n<tr>\n<th align=\"left\">タイムテーブル</th>\n<th align=\"left\">タイトル</th>\n<th align=\"left\">登壇者</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">21:00～21:05</td>\n<td align=\"left\">開催の挨拶</td>\n<td align=\"left\">ジェネロ　萬田美緒</td>\n</tr>\n<tr>\n<td align=\"left\">21:05～21:25</td>\n<td align=\"left\">Drupal界隈 最近の動向</td>\n<td align=\"left\">イッセイ　直江健介</td>\n</tr>\n<tr>\n<td align=\"left\">21:30～21:50</td>\n<td align=\"left\">調整中</td>\n<td align=\"left\">調整中</td>\n</tr>\n<tr>\n<td align=\"left\">21:55～22:00</td>\n<td align=\"left\">閉会の挨拶</td>\n<td align=\"left\">ジェネロ　萬田美緒</td>\n</tr>\n</tbody>\n</table>\n<p>※プログラムは予告なく変更する場合があります。</p>\n<p>※プログラムは決まり次第、順次掲載します。</p>\n<h1>Drupalとは？</h1>\n<p>Drupalは、オープンソースCMS（コンテンツ管理システム）で、数多くの企業や政府、自治体等に採用されています。</p>\n<p>Drupal9ではより一層使いやすくなり、ユーザーは、Drupalの充実した技術的なアーキテクチャを今までになく簡単に活用できるようになります。</p>\n<p><a href=\"https://www.drupal.org/\" rel=\"nofollow\">https://www.drupal.org/</a></p>\n<h1>後援</h1>\n<p><a href=\"https://genero.jp/\" rel=\"nofollow\">ジェネロ株式会社</a></p>\n<h1>関連情報</h1>\n<p>◆その他の場所で開催されているDrupal Meetup</p>\n<p>名古屋・豊田でMeetupが開催されています。</p>\n<p>→ <a href=\"https://drupal-meetup-toyota.connpass.com/\" rel=\"nofollow\">Drupal Meetup 豊田</a></p>\n<p>大阪・梅田でMeetupが開催されています。</p>\n<p>→ <a href=\"https://drupal-meetup-umeda.connpass.com/\" rel=\"nofollow\">Drupal Meetup 梅田</a></p>\n<p>◆Drupal Meetup Tokyo</p>\n<p>→ <a href=\"https://drupal-tokyo.connpass.com/event/\" rel=\"nofollow\">Drupal Meetup Tokyo  </a></p>\n<p>◆WordPressの勉強会</p>\n<p>→ <a href=\"https://www.meetup.com/ja-JP/Tokyo-WordPress-Meetup/?fbclid=IwAR0WaFJgNiqxE8yO425PqnqULwUhPuq712EM_LiNDFsRdxRvXPFTFDfkJXw\" rel=\"nofollow\">Tokyo WordPress Meetup</a></p>\n<h1>諸注意</h1>\n<p>・プログラム内容は予告なく変更する可能性があります。</p>\n<p>・開催中の事故・天災・その他の事象によってもたらされたすべての不利益に関して、当勉強会、および会場提供者はその責任を負いかねます。</p>\n<p>・本イベントは全ての参加者が楽しんでいただくことを主旨としております。そのため、以下のような行動を取られた方は、退室していただく場合がございます。また次回以降の参加もお断りさせていただく場合がございますので了承下さい。過去に以下のような行動を取られた方からのお申込についてもお断りさせていただく場合がございます。</p>\n<p>1）イベントの妨害と見られる言動</p>\n<p>2）講師および参加者に対して一方的な批判また攻撃的な言動</p>\n<p>3）人材紹介、転職、マルチ商法、宗教など、本勉強会とは関係のない勧誘</p>",
+          "link": "https://drupal-meetup-haneda.connpass.com/event/264534/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-26T08:24:26.000Z",
+          "wordCount": 1096,
+          "title": "Drupal Meetup 羽田 #46【オンライン開催】",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/3a/7b3a8f6f5c6c097ce4a304ec3fb67bf5.png"
+        },
+        {
+          "id": "https://ncmb.connpass.com/event/264537/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/12/05 14:00 ～ 16:00<br />開催場所: Zoom<br /><br /><h1><span style=\"color: red;\">【注意】<br>本セミナーのセッション１は</span><a href=\"https://ncmb.connpass.com/event/257748/\" rel=\"nofollow\">9/28に開催のセミナー</a><span style=\"color: red;\">および</span><a href=\"https://ncmb.connpass.com/event/261877/\" rel=\"nofollow\">10/26に開催のセミナー</a><span style=\"color: red;\">と同じ内容となりますのでご注意ください！ただし、セッション２の体験会部分は内容を変更（クラウドデータベースデモ→Androidプッシュ通知デモ）して実施する予定（仮）です。当日までに内容を確定いたしますので、イベント説明欄をよくご確認の上ご参加ください。</span></h1>\n<h2><strong>モバイルアプリ開発のいろはを学ぶ</strong><br>～モバイルアプリに関する基礎知識講座とライブコーディングでアプリ開発体験～</h2>\n<p>あらゆる業態においてDXが進むなかで、時代の流れに応じモバイルアプリの開発需要は高まり続けています。本セミナーでは、今後モバイルアプリ案件を取り扱う方に向けた基礎知識（いろは）をお伝えいたします。</p>\n<p>本セミナーは2部構成（2セッション）になっております。セッション１ではモバイルアプリの市場特性、技術要素、開発手法を学んでいただけます。セッション２では弊社提供サービス ニフクラ mobile backend （無料から利用可能）を使ったモバイルアプリ開発のデモとして、クラウド連携ライブコーディングと体験会を実施いたします。</p>\n<p>直近でモバイルアプリの案件をお持ちの方は勿論、モバイル分野にご興味のある方のご参加もお待ちしております。</p>\n<h3>各セッション内容</h3>\n<p>2セッションを予定しています。お好きなセッションのみ参加でもOKです。</p>\n<h4>１．「【入門】モバイルアプリ開発とは？～よくある困りごとや開発パターンをご紹介～」</h4>\n<p>モバイルアプリ市場の入門知識から、実際に開発する際の開発手法（ネイティブ／ハイブリッド等）の選択基準まで幅広く解説します。</p>\n<ul>\n<li>登壇者：富士通クラウドテクノロジーズ株式会社　前野 粒子</li>\n</ul>\n<h4>２．「モバイル向けクラウド「mobile backend」っていったい何？～クラウド連携のライブコーディングと体験会～」</h4>\n<p>具体的な案件をお持ちの方や、より実践的な技術知見をお求めの方へ、実サービスでデモ実演します。\n<span style=\"color: red;\">※</span><a href=\"https://ncmb.connpass.com/event/257748/\" rel=\"nofollow\">9/28に開催のセミナー</a><span style=\"color: red;\">および</span><a href=\"https://ncmb.connpass.com/event/261877/\" rel=\"nofollow\">10/26に開催のセミナー</a><span style=\"color: red;\">の内容とは異なり、<strong>プッシュ通知体験 for Android（仮）</strong>にて実施する方向で準備中です。確定し次第順次更新いたします。</span></p>\n<ul>\n<li>登壇者：富士通クラウドテクノロジーズ株式会社　池田 夏藻</li>\n</ul>\n<h3>タイムテーブル</h3>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"left\">内容</th>\n<th align=\"left\">備考</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">13:45</td>\n<td align=\"left\">開場@zoom</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">14:00～14:30</td>\n<td align=\"left\">セッション１</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">14:30～14:40</td>\n<td align=\"left\">セッション１：QA</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">14:40～14:45</td>\n<td align=\"left\">休憩（5分）</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">14:45～15:45</td>\n<td align=\"left\">セッション２</td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">15:45～16:00</td>\n<td align=\"left\">セッション２、および全体：QA</td>\n<td align=\"left\"></td>\n</tr>\n</tbody>\n</table>\n<h3>このような方にオススメ</h3>\n<ul>\n<li>モバイルアプリ開発について知りたい方</li>\n<li>モバイルアプリ開発を希望している方</li>\n<li>モバイルアプリ開発を依頼したい方</li>\n<li>mobile backend の利用がはじめての方</li>\n<li>mobile backend を体験してみたい方</li>\n<li>mobile backend に興味のある方</li>\n<li><span style=\"color: red;\">アプリにプッシュ通知を実装してみたい方</span></li>\n</ul>\n<p>など</p>\n<h3>当日ご準備いただくもの</h3>\n<ul>\n<li>パソコン　【必須】</li>\n<li>オンライン開催のためZoomに接続できる環境（クライアントアプリorブラウザ）をご用意ください</li>\n<li>ブラウザ（Google Chromeなど） ※セッション２に参加される方は動作確認に使用しますのでご用意ください</li>\n<li><span style=\"color: red;\"><strong>Android のスマートフォン【必須】</strong></span>※セッション２に参加される方は動作確認端末としてご用意ください</li>\n<li><span style=\"color: red;\">セッション2にて行うプッシュ通知のデモはiOS/Androidとも対象として説明しますが、動作確認体験は仕組み上Android端末のみとなりますのでご了承ください。</span></li>\n</ul>\n<h3>当日の参加方法</h3>\n<p>Zoomによるオンライン開催を予定しております。本セミナーにお申込み後、本ページに「参加者への情報」欄が閲覧可能となります。Zoomの参加リンクなど詳細については「参加者への情報」欄に記載しておりますので、ご参照ください。</p>\n<h3>注意事項</h3>\n<ul>\n<li>キャンセルされる場合は、セミナーページよりキャンセル手続きをお願いします</li>\n<li>本セミナー内容と関係のないテクニカル的なご質問にはお答えできかねますのであらかじめご了承ください</li>\n</ul>",
+          "link": "https://ncmb.connpass.com/event/264537/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-26T08:12:34.000Z",
+          "wordCount": 1114,
+          "title": "アプリ開発のいろはを学ぶ",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7e/ed/7eedc472751a92a941c3d08747ac115d.png"
+        },
+        {
+          "id": "https://gib.connpass.com/event/264363/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/12 11:30 ～ 13:00<br />開催場所: 東京都新宿区大久保1-15-18みゆきビル203<br /><br /><h1>この会について</h1>\n<p>モチベーションが維持できない……<br>\n書籍の難易度的に独力では突破できない……<br>\n興味を持って書籍を買ったものの、きっかけを掴めず積んだまま……<br>\n独学での継続的なITの勉強はやってみると、結構しんどかったりします。<br>\n<br>\nこの会はエンジニア同士で集まり、わからない点を教えあいながら、<br>\n時に雑談しつつ肩の力を抜いて行う勉強会です。<br>\n<br>\n参考書籍の分野がご専門の方も、初学者の方も、非エンジニアの方も、<br>\nお気軽にご参加いただければと思います。<br>\n<br>\n<font color=\"red\"><b>なお一日で終わらせる予定はありません。</b></font><br>\n<font color=\"blue\"><b>また、今回からの参加でも問題ありません。</b></font></p>\n<p>以下、公式書籍紹介より抜粋。</p>\n<div class=\"codehilite\"><pre><span></span><code>DockerとKubernetesの基本が，たった1日で？！\n\n本書は，次世代のアプリケーションアーキテクチャとして注目されている「マイクロサービス」の技術基盤となるコンテナ技術「Docker」とコンテナオーケストレーション技術「Kubernetes」を取り上げ，Dockerの基本的な利用法，DockerfileやComposeの設計，コンテナのデータ永続化やCI/CD，Kubernetesによる複数コンテナの自動管理までを，一気に学習します。この1冊を読めば，DockerとKubernetesの基礎知識と開発のイメージが，たった1日で掴めます！ さらに，サンプルファイルを使って実際にコンテナを操作し，アプリの開発・デプロイを体験することで，1週間ほどでより実践的なテクニックが身に付きます。\n</code></pre></div>\n\n<h1>感染症対策について</h1>\n<p><font color=\"red\" size=\"3\"><b>勉強会中は感染症対策のため、常にマスクの着用をお願いします。</b></font><br>\nまた、会場にはアルコール消毒液を用意するので入場時にご利用をお願いします。<br>\n以下の条件に当てはまる方は参加をご遠慮いただくことがございます。<br>\nあらかじめご了承ください。<br></p>\n<ul>\n<li>発熱、咳、倦怠感などの症状がある方</li>\n<li>濃厚接触者と判定され、待機期間にある方</li>\n<li>その他、体調がすぐれない方</li>\n</ul>\n<h1>タイムテーブル</h1>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>11:30~</td>\n<td>開場</td>\n</tr>\n<tr>\n<td>11:40~</td>\n<td>自己紹介、雑談</td>\n</tr>\n<tr>\n<td>11:45~</td>\n<td>第4章　Dockerfileでイメージを作成しよう</td>\n</tr>\n<tr>\n<td>~12:50</td>\n<td>質疑応答</td>\n</tr>\n<tr>\n<td>13:00</td>\n<td>閉場</td>\n</tr>\n</tbody>\n</table>\n<h1>開催スケジュール</h1>\n<p>隔週で開催予定です。<br>\n勉強会の進行や感染者数状況などを踏まえ、スケジュールを変更する場合があります。<br>\nご了承ください。<br></p>\n<table>\n<thead>\n<tr>\n<th>日付</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>11/12(土) 11:15~</td>\n<td>第4章　Dockerfileでイメージを作成しよう</td>\n</tr>\n<tr>\n<td>11/26(土) 11:15~</td>\n<td>前回の続きから</td>\n</tr>\n</tbody>\n</table>\n<h4>GIB-Tokyo-Engineer-community</h4>\n<p>資料共有などはこちらのSlackを通して行います。<br>\n勉強会の前に事前にご登録いただけると助かります。<br>\n<br>\nこの勉強会では「<b>study_meetup</b>」というチャンネルを使用します。<br>\n勉強会についての質問はこちらからお願いします。<br>\n<a href=\"https://join.slack.com/t/gibtokyoengin-bez1649/shared_invite/zt-g17x1gbp-yw15YQQZ_PThEv9~y5Lcqg\" rel=\"nofollow\">https://join.slack.com/t/gibtokyoengin-bez1649/shared_invite/zt-g17x1gbp-yw15YQQZ_PThEv9~y5Lcqg</a></p>\n<p>上記で気づかないこともあるので、その場合は直接メールください。 <br>\n宮本  <br>\nmiyamotok0105@gmail.com</p>\n<h4>人工知能系の勉強会(Facebookグループ)</h4>\n<p>人工知能やデータサイエンスに関する情報を毎日発信中。<br>\nお気軽にご参加ください！<br>\nLink :<a href=\"https://www.facebook.com/groups/1515619948454253/\" rel=\"nofollow\">人工知能系の勉強会</a></p>\n<h1>参考書籍</h1>\n<h3><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2\" rel=\"nofollow\">たった1日で基本が身に付くDocker/Kubernetes超入門<br></a></h3><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2\" rel=\"nofollow\">\n</a><p><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2\" rel=\"nofollow\"><img src=\"https://gihyo.jp/assets/images/cover/2020/thumb/TH160_9784297114282.jpg\" width=\"200\"></a><br></p>\n<div class=\"codehilite\"><pre><span></span><code>DockerとKubernetesの基本が，たった1日で？！\n\n本書は，次世代のアプリケーションアーキテクチャとして注目されている「マイクロサービス」の技術基盤となるコンテナ技術「Docker」とコンテナオーケストレーション技術「Kubernetes」を取り上げ，Dockerの基本的な利用法，DockerfileやComposeの設計，コンテナのデータ永続化やCI/CD，Kubernetesによる複数コンテナの自動管理までを，一気に学習します。この1冊を読めば，DockerとKubernetesの基礎知識と開発のイメージが，たった1日で掴めます！ さらに，サンプルファイルを使って実際にコンテナを操作し，アプリの開発・デプロイを体験することで，1週間ほどでより実践的なテクニックが身に付きます。\n(技術評論社 書籍紹介より抜粋)\n</code></pre></div>\n\n<p>サンプルソース</p>\n<p><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2/support#supportDownload\" rel=\"nofollow\">https://gihyo.jp/book/2020/978-4-297-11428-2/support#supportDownload</a></p>",
+          "link": "https://gib.connpass.com/event/264363/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-26T08:00:53.000Z",
+          "wordCount": 1059,
+          "title": "【輪読&実装】たった1日で基本が身に付くDocker/Kubernetes超入門　……を数日で",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/87/ad/87ad0d2d03c96505e1dfd3a2cd123330.png"
+        },
+        {
+          "id": "https://gib.connpass.com/event/264362/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/12 14:00 ～ 15:45<br />開催場所: 東京都新宿区大久保1-15-18みゆきビル203<br /><br /><h1>この会について</h1>\n<p>モチベーションが維持できない……<br>\n書籍の難易度的に独力では突破できない……<br>\n興味を持って書籍を買ったものの、きっかけを掴めず積んだまま……<br>\n独学での継続的なITの勉強はやってみると、結構しんどかったりします。<br>\n<br>\nこの会はエンジニア同士で集まり、わからない点を教えあいながら、<br>\n時に雑談しつつ肩の力を抜いて行う勉強会です。<br>\n<br>\n参考書籍の分野がご専門の方も、初学者の方も、非エンジニアの方も、<br>\nお気軽にご参加いただければと思います。<br></p>\n<p>以下、公式書籍紹介より抜粋。</p>\n<div class=\"codehilite\"><pre><span></span><code>ディープラーニングの発展・応用手法を実装しながら学ぼう\n本書ではディープラーニングの発展・応用手法を実装しながら学習していきます。ディープラーニングの実装パッケージとしてPyTorchを利用します。扱うタスク内容とディープラーニングモデルは次の通りで「ビジネスの現場でディープラーニングを活用するためにも実装経験を積んでおきたいタスク」という観点で選定しました。\n\n本書は第1章から順番に様々なタスクに対するディープラーニングモデルの実装に取り組むことで高度かつ応用的な手法が徐々に身につく構成となっています。各ディープラーニングモデルは執筆時点でState-of-the-Art（最高性能モデル）の土台となっており、実装できるようになればその後の研究・開発に役立つことでしょう。\nディープラーニングの発展・応用手法を楽しく学んでいただければ幸いです。\n\n(マイナビ出版 書籍紹介より抜粋)\n</code></pre></div>\n\n<h1>感染症対策について</h1>\n<p><font color=\"red\" size=\"3\"><b>勉強会中は感染症対策のため、常にマスクの着用をお願いします。</b></font><br>\nまた、会場にはアルコール消毒液を用意するので入場時にご利用をお願いします。<br>\n以下の条件に当てはまる方は参加をご遠慮いただくことがございます。<br>\nあらかじめご了承ください。<br></p>\n<ul>\n<li>発熱、咳、倦怠感などの症状がある方</li>\n<li>濃厚接触者と判定され、待機期間にある方</li>\n<li>その他、体調がすぐれない方</li>\n</ul>\n<h1>タイムテーブル</h1>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>14:00~</td>\n<td>開場</td>\n</tr>\n<tr>\n<td>14:05~</td>\n<td>自己紹介、雑談</td>\n</tr>\n<tr>\n<td>14:10~</td>\n<td>第3章　セマンティックセグメンテーション（PSPNet）</td>\n</tr>\n<tr>\n<td>~15:30</td>\n<td>質疑応答</td>\n</tr>\n<tr>\n<td>15:45</td>\n<td>閉場</td>\n</tr>\n</tbody>\n</table>\n<h1>開催スケジュール</h1>\n<p>隔週で開催予定です。<br>\n勉強会の進行や感染者数状況などを踏まえ、スケジュールを変更する場合があります。<br>\nご了承ください。<br></p>\n<table>\n<thead>\n<tr>\n<th>日付</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>11/12(土) 14:00~</td>\n<td>第3章　セマンティックセグメンテーション（PSPNet）</td>\n</tr>\n<tr>\n<td>11/26(土) 14:00~</td>\n<td>前回の続き<br></td>\n</tr>\n</tbody>\n</table>\n<h4>GIB-Tokyo-Engineer-community</h4>\n<p>資料共有などはこちらのSlackを通して行います。<br>\n勉強会の前に事前にご登録いただけると助かります。<br>\n<br>\nこの勉強会では「<b>study_meetup</b>」というチャンネルを使用します。<br>\n勉強会についての質問はこちらからお願いします。<br>\n<a href=\"https://join.slack.com/t/gibtokyoengin-bez1649/shared_invite/zt-g17x1gbp-yw15YQQZ_PThEv9~y5Lcqg\" rel=\"nofollow\">https://join.slack.com/t/gibtokyoengin-bez1649/shared_invite/zt-g17x1gbp-yw15YQQZ_PThEv9~y5Lcqg</a></p>\n<p>上記で気づかないこともあるので、その場合は直接メールください。 <br>\n宮本  <br>\nmiyamotok0105@gmail.com</p>\n<h4>人工知能系の勉強会(Facebookグループ)</h4>\n<p>人工知能やデータサイエンスに関する情報を毎日発信中。<br>\nお気軽にご参加ください！<br>\nLink :<a href=\"https://www.facebook.com/groups/1515619948454253/\" rel=\"nofollow\">人工知能系の勉強会</a></p>\n<h1>参考書籍</h1>\n<h3><a href=\"https://book.mynavi.jp/ec/products/detail/id=104855\" rel=\"nofollow\">つくりながら学ぶ！<br>PyTorchによる発展ディープラーニング<br></a></h3><a href=\"https://book.mynavi.jp/ec/products/detail/id=104855\" rel=\"nofollow\">\n</a><p><a href=\"https://book.mynavi.jp/ec/products/detail/id=104855\" rel=\"nofollow\"><img src=\"https://book.mynavi.jp/files/topics/104855_ext_06_0.jpg?v=1562849209\"></a><br></p>\n<div class=\"codehilite\"><pre><span></span><code>ディープラーニングの発展・応用手法を実装しながら学ぼう\n本書ではディープラーニングの発展・応用手法を実装しながら学習していきます。ディープラーニングの実装パッケージとしてPyTorchを利用します。扱うタスク内容とディープラーニングモデルは次の通りで「ビジネスの現場でディープラーニングを活用するためにも実装経験を積んでおきたいタスク」という観点で選定しました。\n\n［本書で学習できるタスク］\n転移学習、ファインチューニング：少量の画像データからディープラーニングモデルを構築\n物体検出（SSD）：画像のどこに何が映っているのかを検出\nセマンティックセグメンテーション（PSPNet）：ピクセルレベルで画像内の物体を検出\n姿勢推定（OpenPose）：人物を検出し人体の各部位を同定しリンク\nGAN（DCGAN、Self-Attention GAN）：現実に存在するような画像を生成\n異常検知（AnoGAN、Efficient GAN）：正常画像のみからGANで異常画像を検出\n自然言語処理（Transformer、BERT）：テキストデータの感情分析を実施\n動画分類（3DCNN、ECO）：人物動作の動画データをクラス分類\n\n本書は第1章から順番に様々なタスクに対するディープラーニングモデルの実装に取り組むことで高度かつ応用的な手法が徐々に身につく構成となっています。各ディープラーニングモデルは執筆時点でState-of-the-Art（最高性能モデル）の土台となっており、実装できるようになればその後の研究・開発に役立つことでしょう。\nディープラーニングの発展・応用手法を楽しく学んでいただければ幸いです。\n\n\n実装環境\n・読者のPC（GPU環境不要）、AnacondaとJupyter Notebook、AWSを使用したGPUサーバー\n・AWSの環境：p2.xlargeインスタンス、Deep Learning AMI（Ubuntu）マシンイメージ（OS Ubuntu 16.04|64ビット、NVIDIA K80 GPU、Python 3.6.5、conda 4.5.2、PyTorch 1.0.1）\n\n\n(マイナビ出版 書籍紹介より抜粋)\n</code></pre></div>",
+          "link": "https://gib.connpass.com/event/264362/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-26T08:00:53.000Z",
+          "wordCount": 1135,
+          "title": "【輪読&実装会】PyTorchによる発展ディープラーニング | 新宿 and オンライン",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/bf/9b/bf9b6068ca936c875886c11293d48131.png"
+        },
+        {
+          "id": "https://musictech.connpass.com/event/264358/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/19 15:10 ～ 18:00<br />開催場所: (場所未定)<br /><br /><h1>この会について</h1>\n<p>この勉強会は、音楽好きなエンジニアたちが休日に集まり、<br>\nそれぞれの音楽に関する知見や技術を共有することで<br>\n音楽における創作技術の向上や、情報技術へのより深い理解を目的とした集いです。<br>\n様々な出自の参加者による知見の共有により、音楽に対する新たな視点や知識の獲得ができるかもしれません。<br>\n<br>\n本勉強会は二部構成になっており、<br>\n前半では音楽関連書籍の輪読を、<br>\n後半では音楽関連のLTを行う予定です。<br>\n一部のみの参加、二部からの参加も可能ですのでお気軽にご参加ください。</p>\n<h2>想定している参加者対象者</h2>\n<p>正直に言うと、優しい方ならどなたでも大丈夫です。<br>\n情報技術に関する質問も、できる範囲内でサポートします。<br>\nストイックな感じではなく緩く楽しんでいただければ幸いです。<br></p>\n<ul>\n<li>音楽に興味があるエンジニア</li>\n<li>音楽に関するエンジニアリングに興味がある音楽愛好家</li>\n<li>なんか楽しみたい人</li>\n</ul>\n<h2>第1部 音楽に関する技術書輪読</h2>\n<p><font size=\"3\">今週の参考書籍<br></font>\n<a href=\"https://www.rittor-music.co.jp/product/detail/3120317109/index.php\" rel=\"nofollow\"><b><font size=\"4\">\n回路図で音を読み解く！　ギター・エフェクターとアンプの秘密がわかる本</font></b><br></a>\n技術書の読破や実装は、独学だとモチベーションの消耗や読者の技術的限界のため挫折することがほとんどです。<br>\nそこで輪読会という形式で学んでいくことにより、同好の士との協力や知識共有を通して壁を突破し、<br>\n新たな知見や技術の習得を目指すものです。<br>\n<br>\nイベントの前半を参考書籍一冊を複数回にわたって学んでいく予定です。<br>\n今回は書籍「回路図で音を読み解く！　ギター・エフェクターとアンプの秘密がわかる本」を続きから輪読し、<br>\nエフェクター作成のための知識を習得していきます。</p>\n<div class=\"codehilite\"><pre><span></span><code>目に見えない音と電気の関係は、回路図でわかる！\n日本を代表する第一線の技術者が丁寧に解説\nギターやベースを弾く上で欠かせないエフェクターとアンプ。多数の機材を使いこなしていても、エフェクターやアンプの中で何が行われているか、実は知らないという人が多いのではないでしょうか。本書では、\"フリーザトーン\"の代表として数々の機材を生み出してきた著者が、電気の知識ゼロからでもわかるように、エフェクターとアンプの仕組みを解説。抵抗器、コンデンサ、トランジスタ、オペアンプ、真空管......など、さまざまなパーツの組み合わせにより、音を電気にして、電気を音にする過程がわかります。もっと電気と仲良くなりたいギタリスト、ベーシストにお薦めです。音を扱ったアナログ回路の解説書としても貴重な一冊となっていますので、アナログ回路の設計をしてみたい人の入門書にも最適です。\n(リットーミュージック  書籍紹介より抜粋)\n</code></pre></div>\n\n<h2>第2部 音楽関連LT、Hands onなど</h2>\n<p><b><font size=\"4\">FreeCad入門</font></b><br>\n<br>\n初学者向けにプリント基板設計ツール「FreeCad」の紹介とハンズオンを行います。<br>\n通常エフェクターのケースやモジュラーシンセのパネルを作成するには、<br>\n金属に穴をあける筋力が必要な作業を要します。<br>\nそこで3Dプリンタを使用し試作品の作成をすることを目標にFreeCADの勉強を始めました。<br>\n今回はそのアウトプットとして初学者向けにハンズオンを行います。<br><br>\n<font size=\"3\">発表者: <a href=\"https://twitter.com/NanashinoSeito\" rel=\"nofollow\">NANASHINO Seito</a></font><br>\n一般SE。普段はPythonを書いている。<br>\n音楽が趣味でクラブミュージックが好き<br></p>\n<h1>感染症対策について</h1>\n<p><font color=\"red\" size=\"3\"><b>勉強会中は感染症対策のため、常にマスクの着用をお願いします。</b></font><br>\nまた、会場にはアルコール消毒液を用意するので入場時にご利用をお願いします。<br>\n以下の条件に当てはまる方は参加をご遠慮いただくことがございます。<br>\nあらかじめご了承ください。<br></p>\n<ul>\n<li>発熱、咳、倦怠感などの症状がある方</li>\n<li>濃厚接触者と判定され、待機期間にある方</li>\n<li>その他、体調がすぐれない方</li>\n</ul>\n<h1>タイムテーブル</h1>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>15:00~</td>\n<td>開場</td>\n</tr>\n<tr>\n<td>15:10~</td>\n<td>自己紹介、雑談</td>\n</tr>\n<tr>\n<td>15:20~</td>\n<td>第一部 輪読編　「回路図で音を読み解く！　ギター・エフェクターとアンプの秘密がわかる本」</td>\n</tr>\n<tr>\n<td>16:50~</td>\n<td>休憩</td>\n</tr>\n<tr>\n<td>17:00~</td>\n<td>第二部 ハンズオン編「FreeCAD入門」</td>\n</tr>\n<tr>\n<td>~17:45</td>\n<td>質疑応答</td>\n</tr>\n<tr>\n<td>18:00</td>\n<td>閉場</td>\n</tr>\n</tbody>\n</table>\n<h1>開催スケジュール</h1>\n<p>月1で開催予定です。<br>\n勉強会の進行や感染者数状況などを踏まえ、スケジュールを変更する場合があります。<br>\nご了承ください。<br>\n<br>\n<font color=\"red\">また主催者都合で12月はおやすみです。ご了承ください。</font>\n<br></p>\n<table>\n<thead>\n<tr>\n<th>日付</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1/21(土) 15:10~</td>\n<td>【輪読】回路図で音を読み解く！　ギター・エフェクターとアンプの秘密がわかる本　の続き<br>【ハンズオン】題材未定 担当:Kenji_Fujiwara</td>\n</tr>\n</tbody>\n</table>\n<h1>連絡方法について</h1>\n<h4>【Discord】 Music Hardware Meetup</h4>\n<p>ご連絡やご質問はこちらからお願いします。<br>\nLink：<a href=\"https://discord.gg/4bEEqV8K\" rel=\"nofollow\">https://discord.gg/4bEEqV8K</a></p>\n<h1>参考書籍</h1>\n<h3><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2\" rel=\"nofollow\">回路図で音を読み解く！　ギター・エフェクターとアンプの秘密がわかる本<br></a></h3><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2\" rel=\"nofollow\">\n</a><p><a href=\"https://gihyo.jp/book/2020/978-4-297-11428-2\" rel=\"nofollow\"><img src=\"https://img.ips.co.jp/rm/20/3120317109/3120317109-x1000.jpg\" width=\"200\"></a><br></p>\n<div class=\"codehilite\"><pre><span></span><code>目に見えない音と電気の関係は、回路図でわかる！\n日本を代表する第一線の技術者が丁寧に解説\nギターやベースを弾く上で欠かせないエフェクターとアンプ。多数の機材を使いこなしていても、エフェクターやアンプの中で何が行われているか、実は知らないという人が多いのではないでしょうか。本書では、\"フリーザトーン\"の代表として数々の機材を生み出してきた著者が、電気の知識ゼロからでもわかるように、エフェクターとアンプの仕組みを解説。抵抗器、コンデンサ、トランジスタ、オペアンプ、真空管......など、さまざまなパーツの組み合わせにより、音を電気にして、電気を音にする過程がわかります。もっと電気と仲良くなりたいギタリスト、ベーシストにお薦めです。音を扱ったアナログ回路の解説書としても貴重な一冊となっていますので、アナログ回路の設計をしてみたい人の入門書にも最適です。\n(リットーミュージック  書籍紹介より抜粋)\n</code></pre></div>",
+          "link": "https://musictech.connpass.com/event/264358/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-26T08:00:53.000Z",
+          "wordCount": 1102,
+          "title": "ミュージックハードウェア@新宿 #2 【輪読&KiCadハンズオン】初学者歓迎",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/0f/5f0fe8410bf256bf0536c972a068137d.png"
+        },
         {
           "id": "https://ncmb.connpass.com/event/264536/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
