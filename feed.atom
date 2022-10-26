@@ -2,10 +2,592 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-26T10:01:34.607Z</updated>
+    <updated>2022-10-26T22:01:32.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Parameters and Secrets Lambda Extension を発表]]></title>
+        <id>742c5766584e0f33e4b5fe8f48dbeec41c186051</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-parameters-secrets-lambda-extension/"/>
+        <updated>2022-10-26T21:56:26.000Z</updated>
+        <summary type="html"><![CDATA[AWS は本日、AWS Parameters and Secrets Lambda Extension をリリースしました。これは、AWS Lambda ユーザーが AWS Systems Manager Parameter Store からパラメータを取得し、AWS Secrets Manager からシークレットを取得するための便利な方法です。AWS Lambda のお客様は、この拡張機能を活用すれば、パラメータとシークレットを取得するレイテンシーとコストを削減でき、アプリケーションのパフォーマンスを向上させることができます。これまでお客様は、シークレットとパラメータを取得するためにサービスのコアライブラリ、または Lambda 関数内のサービス SDK 全体を初期化する必要がありました。現在はこの新しい拡張機能を使用するだけで簡単にシークレットとパラメータを取得できます。この軽量で使いやすい拡張機能は、パラメータとシークレットをキャッシュし、Lambda 関数のライフサイクル全体で保持します。この拡張機能は、Lambda 関数を実行しているユーザーのロールと同じアクセス許可を使用して、独立した実行環境の中で動作します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS と macOS の両方をサポートする新しい AWS Amplify Library for Swift を発表]]></title>
+        <id>816198d085a6eea611a37ea14ec300fb145fd4ec</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-amplify-library-swift-support-ios-macos/"/>
+        <updated>2022-10-26T21:50:27.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amplify Library for Swift (以前の Amplify iOS) の一般提供を発表します。 このリリースにより、Swift デベロッパーはクラウドに接続された iOS アプリケーションを簡単に構築できるようになります。2022 年 4 月のデベロッパープレビューのリリース以降、デベロッパーが構造化された同時実行を簡単に実装できるようにする async/await などの慣用的な Swift 機能をサポートするように API を書き直しました。また、この機会に、最も要望の多かった機能の 1 つである macOS サポートのベータ版を導入したいと考えています。watchOS と tvOS のサポートも将来のリリースで提供される予定です。プレビュー段階から変わらず、Amplify Library for Swift は GitHub のオープンソースであり、コミュニティから寄せられたフィードバックに深く感謝しています。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Connect Wisdom の機械学習機能が向上]]></title>
+        <id>5cec43d0b6c8bb2e6d958bb79c78350d7aca28d0</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-connect-wisdom-delivers-improved-machine-learning-capabilities/"/>
+        <updated>2022-10-26T21:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Connect Wisdom は、通話中に問題を絶えず理解し、コンタクトセンターのエージェントに正しいナレッジ記事を提供するように、機械学習機能を向上しました。Wisdom はリアルタイムでコンタクトセンターの通話を分析し、お客様の問題を解決するためにエージェントが必要とする情報を先を見越して提供します。これにより、エージェントの生産性と顧客満足度を向上させることができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS 上の Red Hat Enterprise Linux (RHEL) Workstation が提供開始]]></title>
+        <id>3653e66f676735ed5cdc4f4d15983e5b3780c50f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/red-hat-enterprise-linux-rhel-workstation-aws/"/>
+        <updated>2022-10-26T21:20:26.000Z</updated>
+        <summary type="html"><![CDATA[高速化した GPU インスタンス用 Red Hat Enterprise Linux (RHEL) Workstation が AWS Marketplace で提供開始となることをお知らせします。RHEL Workstation はクラウドベースのリモートデスクトップソリューションであり、エンドユーザーは世界中のどこからでもワークステーションインスタンスにアクセスして、作業をしたり、チームメンバーとコラボレーションしたりすることができます。RHEL Workstation は、より強力なハードウェアで作業する先進的な Linux ユーザー向けに設計されており、アニメーション、コンピュータ支援設計およびエンジニアリング、科学研究、医用画像などの作業に最適です。安定した高性能リモートディスプレイプロコトルである NICE DCV を経由して提供されます。AWS の RHEL Workstation では、高額なワークステーション機器に設備投資することなく、最上位のハードウェア機能を分散型ワークフォースに提供することができます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 13登場、動的なWebサイトの実現を強化。複数ページでの動的データの共有や、ステートを維持した共通ナビゲーションの構築など容易に。Next.js Conf 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/_nextjs_13webnextjs_conf_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/_nextjs_13webnextjs_conf_2022.html"/>
+        <updated>2022-10-26T20:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Reactベースのサーバサイドフレームワークとして知られるNext.jsの開発元のVercelは、日本時間10月25日深夜にイベント「Next.js Conf 2022」を開催。Next.jsの最新バージョンとなる「Next.js 13」を...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon SageMaker Canvas が時系列予測モデル向けにクイックビルドのサポートを発表]]></title>
+        <id>9b13931ef781e52f7e2ae964a7a1e9ec534eb3a4</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models/"/>
+        <updated>2022-10-26T20:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon SageMaker Canvas は、時系列予測モデル向けにクイックビルドのサポートを発表しました。これにより、最高のパフォーマンスを発揮する機械学習 (ML) モデルを選択するためのプロトタイピングと実験がスピーディーに行えるようになります。SageMaker Canvas はポイントアンドクリック型のビジュアルインターフェイスで、ビジネスアナリストはこれを使用することで、機械学習 (ML) を使用した経験がなくても、あるいはコードを一行も書かなくても、正確な ML 予測を自分で生成できます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elastic File System (Amazon EFS) が中東 (UAE) リージョンで提供開始]]></title>
+        <id>c6235ed3cf0c9cb9e31599f6e8f8fa1e2cd0b577</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-elastic-file-system-available-middle-east-uae-region/"/>
+        <updated>2022-10-26T20:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic File System (Amazon EFS) が中東 (UAE) リージョンで提供開始されました。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webpackの後継となる新バンドルツール「Turbopack」が登場。Rust製のネイティブアプリケーションでWebpackの700倍高速に。Next.js Conf 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/webpackturbopackrustwebpack700nextjs_conf_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/webpackturbopackrustwebpack700nextjs_conf_2022.html"/>
+        <updated>2022-10-26T20:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Reactベースのサーバサイドフレームワークとして知られるNext.jsの開発元のVercelは、日本時間10月25日深夜にイベント「Next.js Conf 2022」を開催。Next.jsの最新バージョンとなる「Next.js 13」と...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11/4(金)【第1471回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK]]></title>
+        <id>https://no-genre-mokumoku.connpass.com/event/264587/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://no-genre-mokumoku.connpass.com/event/264587/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T18:34:01.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/04 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>
+勉強時間を毎日集計！初心者歓迎です！！<br>
+参加者より質問等が出てきた場合は、<br>
+わかる内容については積極的にご回答いただけるとありがたいです<br>
+<br>
+※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
+もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11/4(金)【第1470回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK]]></title>
+        <id>https://no-genre-mokumoku.connpass.com/event/264586/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://no-genre-mokumoku.connpass.com/event/264586/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T18:32:27.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/04 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>
+勉強時間を毎日集計！初心者歓迎です！！<br>
+参加者より質問等が出てきた場合は、<br>
+わかる内容については積極的にご回答いただけるとありがたいです<br>
+<br>
+※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
+もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 15 Release Candidate 2 が Amazon RDS データベースプレビュー環境で利用可能に]]></title>
+        <id>bea77a4f1a7aba0a5fd1f80c61ca6d9aedef8c33</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/postgresql-15-candidate-2-amazon-rds-database-preview-environment/"/>
+        <updated>2022-10-26T16:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS for PostgreSQL 15 Release Candidate 2 (RC2) が Amazon RDS データベースプレビュー環境で利用可能になり、Amazon RDS for PostgreSQL でリリース候補の PostgreSQL 15 をテストしていただけるようになりました。PostgreSQL 15 RC2 をデプロイして、データベースのインストール、プロビジョニング、および管理に煩わされることなく、Amazon RDS データベースプレビュー環境での開発およびテストができるようになります。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Snowball Edge Compute Optimized、コンピューティング能力が 2 倍、ストレージが NVMe のフル SSD に]]></title>
+        <id>de3533d2ebf35827c0fcf341f7d44b578ce9693f</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-snowball-edge-compute-optimized-double-compute-capacatiy-ssd-nvme-storage/"/>
+        <updated>2022-10-26T16:35:26.000Z</updated>
+        <summary type="html"><![CDATA[AWS は、コンピューティング、メモリ、ストレージのオプションが拡大した、Snowball Edge Compute Optimized の強化を発表しました。AWS Snowball Edge Compute Optimized デバイスでは、コンピューティング能力が 104 個の vCPU へと倍増、メモリ容量が RAM 416GB へと倍増、そして 28TB の NVMe ストレージはフル SSD になりました。AWS Snowball Edge Compute Optimized は、Amazon EC2、Amazon EBS、Amazon S3、AWS IoT Greengrass、AWS Lambda 関数、AWS IAM などの AWS コンピューティングおよびストレージ機能を厳しいエッジ環境にもたらす、安全で堅牢なデバイスです。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【12/22開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264583/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264583/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/22 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【12/22開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年12月22日（木）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年12月21日（水）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【12/15開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264582/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264582/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/15 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【12/15開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年12月15日（木）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年12月14日（水）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【12/8開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264581/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264581/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/08 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【12/8開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年12月8日（木）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年12月7日（水）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【12/1開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264580/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264580/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/01 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【12/1開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年12月1日（木）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年11月30日（水）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/11開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264579/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264579/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/11 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【11/11開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年11月11日（金）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年11月10日（木）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/24開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264578/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264578/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/24 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【11/24開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年11月24日（木）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年11月23日（水）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/17開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！]]></title>
+        <id>https://mind-event.connpass.com/event/264576/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mind-event.connpass.com/event/264576/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/17 14:00 ～ 14:45<br />開催場所: オンライン<br /><br /><h1>【11/17開催】まだ間に合う！ 分かりづらい電子帳簿保存法を徹底解説！</h1>
+<h2>概要</h2>
+<p>新型コロナウィルスの感染拡大を受け、”脱ハンコ!”の世論が加速し、電子契約・電子署名が注目されました。<br>
+働き方も出社とテレワークを組み合わせたハイブリット型でのワークスタイルが定着しつつあり、今後もこのワークスタイルを多くの企業が継続すると想定されます。<br>
+この流れの中で、電子契約・電子署名は単なるハンコの置き換えから、新たなワークスタイルに合わせた業務全体のデジタル改革・業務効率化の第一歩として位置付ける企業も増加しています。<br>
+本セミナーでは、電子契約・電子署名を始める前に必ず押えておかなければならない関連法令である「電子帳簿保存法（電帳法）」を徹底解説し、本法令に対応した弊社電子取引サービス@signをご紹介します。<br>
+ぜひご参加ください。
+<br></p>
+<h2>このような方にオススメ</h2>
+<p>総務部門、経理部門、資材部門、営業部門をはじめ、契約書、注文書、見積りなどの書類を取り扱う方々で<br>
+以下のような悩みをお持ちの方に最適です。<br></p>
+<ul>
+<li>電子帳簿保存法という名称は聞いたことがあるが、内容はあまり知らない</li>
+<li>電子帳簿保存法に対応するには、何からはじめたら良いのかわからない</li>
+<li>オンラインで電子契約・取引・署名ができるシステムを探している
+<br></li>
+</ul>
+<h2>イベント詳細</h2>
+<ul>
+<li>日時：　　　2022年11月17日（木）　14:00-14:45（13:50　受付開始）</li>
+<li>会場：　　　オンライン（Cisco Webex）</li>
+<li>参加費：　　無料（事前登録制）</li>
+<li>主催：　　　三菱電機インフォメーションネットワーク株式会社</li>
+<li>登録締切：　2022年11月16日（水）　10:00
+<br></li>
+</ul>
+<h2>アジェンダ</h2>
+<h5>電子帳簿保存法の解説</h5>
+<ul>
+<li>電子帳簿保存法とは</li>
+<li>電帳法の区分と対象書類</li>
+<li>スキャナ保存、電子データ保存の各要件について
+<br></li>
+</ul>
+<h5>電子取引サービス @Signのご紹介</h5>
+<ul>
+<li>@Signとは</li>
+<li>@Signで出来ること</li>
+<li>@Signの特長
+<br></li>
+</ul>
+<h2>注意事項</h2>
+<ul>
+<li>企業・団体にご所属でないお客様、および弊社競合製品・サービスを取り扱う企業にご在籍のお客様につきましては、ご参加をお断りする場合がございますのであらかじめご了承ください。</li>
+<li>ご視聴方法は、セミナー開催日前日までに、お申込みいただいた方へ主催よりメールにてご案内いたします。本セミナーはCisco Webexにて配信を行います。視聴方法をご案内するメールに記載のURLからアクセスを行ってください。</li>
+<li>参加登録には、個人情報のお取り扱いに同意いただく必要があります。</li>
+<li>主催者の事前の承諾なしに、コンテンツを自ら又は第三者を通じて転載、複製、出版、放送、公衆送信、改変、翻訳、翻案、頒布、送信可能化、貸与、譲渡、使用許諾、上映その他知的財産権を侵害する一切の行為を禁止いたします。</li>
+<li>キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。</li>
+<li>欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。</li>
+<li>無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第102回 層とホモロジー代数勉強会]]></title>
+        <id>https://category.connpass.com/event/264577/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://category.connpass.com/event/264577/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-26T14:11:37.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/02 22:00 ～ 23:00<br />開催場所: Zoom<br /><br /><h2>概要、参加方法</h2>
+<p>「層とホモロジー代数」（志甫 淳 著）を輪講します。</p>
+<p>第1回は2020年9月16日22:00です。</p>
+<p>興味のある方は以下にアクセスしてください。</p>
+<p><a href="https://join.skype.com/POjBmwDHxlIP" rel="nofollow">https://join.skype.com/POjBmwDHxlIP</a> （圏論セミナー）</p>
+<p>輪講はZoom（顔は出さず）で行います。</p>
+<p>詳しくは上記のSkypeに来てください。</p>
+<p>また、過去の記録などは <a href="https://w.atwiki.jp/sms20120113/pages/75.html" rel="nofollow">https://w.atwiki.jp/sms20120113/pages/75.html</a> からごらんになれます。</p>
+<p>お待ちしています。(^^)</p>
+<h2>今回の範囲</h2>
+<p>p. 224 定義3.52 続き から</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナとインフルエンザの「ツインデミック」到来に備えよ]]></title>
+        <id>https://www.technologyreview.jp/?p=287849</id>
+        <link href="https://www.technologyreview.jp/s/287849/is-a-covid-and-flu-twindemic-on-the-horizon/"/>
+        <updated>2022-10-26T11:33:03.000Z</updated>
+        <summary type="html"><![CDATA[北半球がインフルエンザ・シーズンに突入しようとしている今、新型コロナウイルスの感染者数も再び増加傾向に。「ツインデミック」の到来が懸念される。]]></summary>
+        <author>
+            <name>Jessica Hamzelou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊Railsウォッチ: Ruby 3.2のData.define、RubyPrize 2022最終ノミネート、Puma-dev gemほか（20221026後編）]]></title>
         <id>https://techracho.bpsinc.jp/hachi8833/2022_10_26/123095</id>
@@ -44222,135 +44804,6 @@ YouTube：<a href="https://www.youtube.com/channel/UCTBGifnmj4ir9uyQMInbqeQ" rel
         <summary type="html"><![CDATA[AWS App Runner では、App Runner サービスの作成または更新で、すべての AWS リージョンからの Amazon ECR イメージをサポートするようになりました。デベロッパーは App Runner を使用して、コンテナ化されたウェブアプリケーションと API をクラウドにすばやく大規模かつ簡単にデプロイできるようになります。インフラストラクチャを管理する必要はありません。App Runner を使うと、ソースコードまたはコンテナイメージからアプリケーションを直接 AWS クラウドにデプロイできます。App Runner はソースタイプを問わずサービスの開始、実行、スケーリング、ロードバランシングを行います。]]></summary>
         <author>
             <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊Railsウォッチ: CRuby 3.2にオブジェクトシェイプがマージ、Cloudflare R2ほか（20220927後編）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_27/122132</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_27/122132"/>
-        <updated>2022-09-27T09:45:13.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/09/railswatch_20220927_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>こんにちは、hachi8833です。 週刊Railsウォッチについて 各記事冒頭には🔗でパーマリンクを置いてあります: 社内やTwitterでの議論などにどうぞ 「つっつきボイス」はRailsウォッチ公開前ドラフトを（鍋のように）社内有志でつっついたときの会話の再構成です👄 お気づきの点がありましたら@hachi8833までメンションをいただければ確認・対応いたします🙏 TechRachoではRubyやRailsなどの最新情報記事を平日に公開しています。TechRacho記事をいち早くお読みになりたい方はTwitterにて@techrachoのフォローをお願いします。また、タグやカテゴリごとにRSSフィードを購読 [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_27/122132" data-wpel-link="internal" target="_self">週刊Railsウォッチ: CRuby 3.2にオブジェクトシェイプがマージ、Cloudflare R2ほか（20220927後編）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails: Active Recordのコールバックを避けて「Domain Event」を使おう（翻訳）]]></title>
-        <id>https://techracho.bpsinc.jp/hachi8833/2022_09_27/59155</id>
-        <link href="https://techracho.bpsinc.jp/hachi8833/2022_09_27/59155"/>
-        <updated>2022-09-27T08:52:33.000Z</updated>
-        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2018/08/rails_domain_events_over_callbacks_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: Domain Events over Active Record Callbacks &#124; Arkency Blog 原文公開日: 2016/05/03 著者: Robert Pankowecki サイト: Arkency Blog 参考: Domain Event 参考: ドメイン イベント: 設計と実装 &#124; Microsoft Docs 2018/08/03: 初版公開 2022/09/27: 更新 Rails: Active Recordのコールバックを避けて「Domain Event」を使おう（翻訳） 最近Marcinの書いた [&#8230;]</p>
-<p>The post <a href="https://techracho.bpsinc.jp/hachi8833/2022_09_27/59155" data-wpel-link="internal" target="_self">Rails: Active Recordのコールバックを避けて「Domain Event」を使おう（翻訳）</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
-        <author>
-            <name>TechRacho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ググった結果からも学ぶ、ディープマンドのチャットボット]]></title>
-        <id>https://www.technologyreview.jp/?p=286624</id>
-        <link href="https://www.technologyreview.jp/s/286624/deepminds-new-chatbot-uses-google-searches-plus-humans-to-give-better-answers/"/>
-        <updated>2022-09-27T08:36:00.000Z</updated>
-        <summary type="html"><![CDATA[グーグル傘下のAI企業であるディープマインドは、人間のフィードバックから学習し、主張の裏付けとなる情報をインターネットから検索するように訓練したチャットボットを発表した。]]></summary>
-        <author>
-            <name>Melissa Heikkilä</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀河中心ブラックホール周囲のダストを測定する新手法＝東大など]]></title>
-        <id>https://www.technologyreview.jp/n/2022/09/27/286927/</id>
-        <link href="https://www.technologyreview.jp/n/2022/09/27/286927/"/>
-        <updated>2022-09-27T07:47:31.000Z</updated>
-        <author>
-            <name>MIT Technology Review Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#02　Faster CPythonやGILの除去によるPythonの高速化 ―EuroPython Day 2、Day 3セッションレポート]]></title>
-        <id>https://gihyo.jp/article/2022/09/europython2022-02</id>
-        <link href="https://gihyo.jp/article/2022/09/europython2022-02?utm_source=feed"/>
-        <updated>2022-09-27T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[EuroPythonはヨーロッパ地域で開催されるPythonに関するカンファレンスです。EuroPython 2022レポートの第2回目は、カンファレンス2、3日目の様子を中心にお伝えします。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#02　Faster CPythonやGILの除去によるPythonの高速化 ―EuroPython Day 2、Day 3セッションレポート]]></title>
-        <id>https://gihyo.jp/article/2022/09/europython2022-02</id>
-        <link href="https://gihyo.jp/article/2022/09/europython2022-02?utm_source=feed"/>
-        <updated>2022-09-27T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[EuroPythonはヨーロッパ地域で開催されるPythonに関するカンファレンスです。EuroPython 2022レポートの第2回目は、カンファレンス2、3日目の様子を中心にお伝えします。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#02　Faster CPythonやGILの除去によるPythonの高速化 ―EuroPython Day 2、Day 3セッションレポート]]></title>
-        <id>https://gihyo.jp/article/2022/09/europython2022-02</id>
-        <link href="https://gihyo.jp/article/2022/09/europython2022-02?utm_source=feed"/>
-        <updated>2022-09-27T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[EuroPythonはヨーロッパ地域で開催されるPythonに関するカンファレンスです。EuroPython 2022レポートの第2回目は、カンファレンス2、3日目の様子を中心にお伝えします。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Fargate でコンピューティングとメモリのリソース構成が 4 倍に増加]]></title>
-        <id>418b34fd1a69c6ac8e7ed069c4ff727964a572e5</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/"/>
-        <updated>2022-09-27T02:41:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS Fargate ユーザーは Amazon Elastic Container Service (ECS) タスクと Amazon Elastic Kubernetes Service (EKS) ポッドを構成して、以前と比べて約 4 倍の最大 16 個の vCPU を使用できるようになりました。vCPU は ECS タスクと EKS ポッドにおける主要なコンピューティングリソースです。より大きな vCPU により、機械学習推論、科学技術用モデリング、分散分析などの計算量の多いアプリケーションを Fargate でより簡単に実行できるようになります。さらに、Fargate でメモリを以前の 4 倍にあたる 120 GiB までプロビジョニングできるようになりました。これは、バッチワークロード、抽出、変換、ロード (ETL) ジョブ、ゲノミクス、メディア処理アプリケーションが、Fargate でメモリを大量に消費する処理をより効率的に行うのに役立ちます。また、vCPU とメモリのオプションが広がったことにより、より多くのコンピューティングリソースを必要とし、小さなマイクロサービスに再設計するのが難しいアプリケーションを、サーバーレスコンテナコンピューティングに移行するのがより簡単になることがあります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS IoT TwinMaker が TwinMaker Grafana Plugin の v1.2.0 をリリース]]></title>
-        <id>2290bb969cdb2522fc8cf097cda1432890eff913</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-iot-twinmaker-launches-v-1-2-0-twinmaker-grafana-plugin/"/>
-        <updated>2022-09-27T02:35:57.000Z</updated>
-        <summary type="html"><![CDATA[AWS IoT TwinMaker では、TwinMaker Grafana Plugin を使用したデータパネルのパフォーマンスを向上させる新機能を導入しました。機能の詳細な一覧については、AWS IoT TwinMaker App in Grafana の変更履歴をご覧ください。
- 新バージョンの主な機能をいくつかご紹介します。
- 
- 
- 
-Get Alarms Query で取得するアラームの最大数を定義できるようになりました。Get Alarms Query はペイロードサイズを設定する方法を提供します。
- 
- 
-Get Property Value History by Entity クエリと Get Property Value History by Component Type クエリが propertyName といったテンプレート変数をサポートするようになりました。これにより、デベロッパーは選択したエンティティに基づいて異なるプロパティ/メトリクスを表示する動的な時系列データパネルを作成できます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章　個人のOKRを設定する ～挑戦的な目標を立て、自身が成長できるように仕向ける]]></title>
-        <id>https://gihyo.jp/article/2022/09/okr-operation-guide-02</id>
-        <link href="https://gihyo.jp/article/2022/09/okr-operation-guide-02?utm_source=feed"/>
-        <updated>2022-09-27T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[第2章では、新卒のモバイルアプリ開発者を主人公に設定し、「個人のOKRを設定する」という具体的なシナリオを通じて、OKRの設定の流れを解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章　個人のOKRを設定する ～挑戦的な目標を立て、自身が成長できるように仕向ける]]></title>
-        <id>https://gihyo.jp/article/2022/09/okr-operation-guide-02</id>
-        <link href="https://gihyo.jp/article/2022/09/okr-operation-guide-02?utm_source=feed"/>
-        <updated>2022-09-27T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[第2章では、新卒のモバイルアプリ開発者を主人公に設定し、「個人のOKRを設定する」という具体的なシナリオを通じて、OKRの設定の流れを解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2章　個人のOKRを設定する ～挑戦的な目標を立て、自身が成長できるように仕向ける]]></title>
-        <id>https://gihyo.jp/article/2022/09/okr-operation-guide-02</id>
-        <link href="https://gihyo.jp/article/2022/09/okr-operation-guide-02?utm_source=feed"/>
-        <updated>2022-09-27T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[第2章では、新卒のモバイルアプリ開発者を主人公に設定し、「個人のOKRを設定する」という具体的なシナリオを通じて、OKRの設定の流れを解説します。]]></summary>
-        <author>
-            <name>gihyo.jp</name>
         </author>
     </entry>
     <entry>
