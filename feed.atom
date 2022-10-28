@@ -2,10 +2,624 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T01:29:47.981Z</updated>
+    <updated>2022-10-28T02:49:41.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[事例で学ぶ技術的負債の取り組み方 vol.1  〜アーキテクチャ刷新編〜]]></title>
+        <id>https://sukedachi.connpass.com/event/264745/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://sukedachi.connpass.com/event/264745/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T02:39:35.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/29 19:00 ～ 21:30<br />開催場所: 東京都新宿区西新宿六丁目18番1号 住友不動産新宿セントラルパークタワー14階<br /><br /><h2>イベントについて</h2>
+<p>建設業のDXを推進する株式会社助太刀、製造業のDXを推進するキャディ株式会社、国際物流領域のDXを推進する株式会社Shippioによる合同イベントです。社会的課題に切り込む3社のエンジニアが登壇し、それぞれの観点からプロダクト開発についてお話しさせていただきます。</p>
+<h4>テーマは「技術的負債の取組み方」</h4>
+<p>スタートアップに限らず、プロダクトマーケットフィットを目指し最速で動くサービスをリリースしようと奮闘した結果、振り返った時に<strong>「技術的な負債」</strong>を抱えてしまうことはよく聞く話だと思います。<br>
+１つの例として、モノリシックで拡張性が低くなったアーキテクチャに対する解決策としてのマイクロサービス化がよく挙げられますが、成功例だけでなく失敗談もよく耳にします。</p>
+<p>今回は、同じように技術的負債に直面した3社が、それぞれどのように負債と向き合い取り組んできたのか、成功事例・失敗事例など赤裸々にお伝えいたします！</p>
+<h2>開催概要</h2>
+<ul>
+<li>日程：2022年11月29日(火) 19:00開始（18:30 受付開始）</li>
+<li>開催方法：ハイブリッド開催</li>
+<li>参加費：無料</li>
+<li>申込方法：connpass画面「このイベントに申し込む」よりご登録ください</li>
+</ul>
+<h5>【現地参加の方】</h5>
+<p>会場：株式会社助太刀オフィス（東京都新宿区西新宿6-18-1 住友不動産新宿セントラルパークタワー14階）</p>
+<p>※受付は18:30より開始いたします。<br>
+※新型コロナウイルス感染防止のため、入場時に検温とアルコール消毒をお願いしております。<br>
+※20:30頃からお食事やお飲み物をご用意した懇親会を予定しております。途中退場でも問題ありませんので、ぜひお気軽にご参加くださいませ。</p>
+<h5>【オンライン参加の方】</h5>
+<p>会場：Zoomウェビナー（18:45 入室開始）</p>
+<p>※お申し込みいただいた方へ参加URLをお送りいたします。お時間になりましたらURLよりご参加ください。<br>
+※オンライン参加の方は20:20終了予定となります。</p>
+<h2>タイムテーブル</h2>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="left">内容</th>
+<th align="left">担当</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">18:30</td>
+<td align="left">開場・受付</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">19:00</td>
+<td align="left">オープニングトーク</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">19:05</td>
+<td align="left">LT① トークタイトル「coming soon」</td>
+<td align="left">株式会社助太刀<br>執行役員VPoE 月澤 拓哉</td>
+</tr>
+<tr>
+<td align="left">19:20</td>
+<td align="left">LT② トークタイトル「coming soon」</td>
+<td align="left">キャディ株式会社<br>アプリケーションエンジニア 橋本 侑樹</td>
+</tr>
+<tr>
+<td align="left">19:35</td>
+<td align="left">LT③ トークタイトル「coming soon」</td>
+<td align="left">株式会社Shippio<br>Sr Architect/Engineering Director 大倉 佑介</td>
+</tr>
+<tr>
+<td align="left">19:50</td>
+<td align="left">3社によるパネルディスカッション</td>
+<td align="left">モデレーター：株式会社助太刀<br>執行役員VPoE 月澤 拓哉</td>
+</tr>
+<tr>
+<td align="left">20:20</td>
+<td align="left">一部終了</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">20:30</td>
+<td align="left">懇親会 開始</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">21:30</td>
+<td align="left">イベント終了</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p>※当日の進行により、時間は多少前後する可能性があります。<br>
+※発表順等、タイムテーブルは当日変更となる場合がございます。<br></p>
+<h2>登壇者紹介</h2>
+<h3><strong>月澤 拓哉 | 株式会社助太刀 執行役員VPoE</strong> | <a href="https://twitter.com/tksw_009" rel="nofollow">@tksw_009</a></h3>
+<p>2013年にグリー株式会社に入社し、ソーシャルゲームプラットフォームのバックエンド開発を担当。その後、株式会社ジーニーにて開発部門のマネジメントに従事。2020年に株式会社助太刀にVPoEとして参画。</p>
+<p>採用サイト：<a href="https://suke-dachi.jp/company/recruit.html<br>" rel="nofollow">https://suke-dachi.jp/company/recruit.html<br></a>
+Engineer note：<a href="https://note.com/sukedachi/m/m00c96b3bbac2" rel="nofollow">https://note.com/sukedachi/m/m00c96b3bbac2</a></p>
+<h3><strong>橋本 侑樹 | キャディ株式会社 アプリケーションエンジニア</strong></h3>
+<p>大学院中退後、大手ゲーム会社で基盤サーバー開発を経験。2022年6月にキャディ株式会社に入社し、図面活用クラウド CADDi DRAWER のアプリケーション開発に取り組む。</p>
+<p>採用サイト：<a href="https://recruit.caddi.tech/" rel="nofollow">https://recruit.caddi.tech/</a><br>
+Tech Blog：<a href="https://caddi.tech/" rel="nofollow">https://caddi.tech/</a></p>
+<h3><strong>大倉 佑介 | 株式会社Shippio Sr Architect/Engineering Director</strong></h3>
+<p>複数のWeb事業会社にてエンジニアとして経験を積んだ後、mercariにてB2C新規事業の立ち上げに参画し、TLやEMを務める。その後AWSジャパンにてソリューションアーキテクトとして大手Web企業へ技術支援に従事。2022年2月よりShippioに入社。</p>
+<p>採用サイト：<a href="https://recruit.shippio.io/<br>" rel="nofollow">https://recruit.shippio.io/<br></a>
+Tech Blog：<a href="https://medium.com/shippio" rel="nofollow">https://medium.com/shippio</a></p>
+<h2>こんな方におすすめ</h2>
+<p>・技術的負債に取り組んでいるエンジニアの方<br>
+・プロダクト開発に関わるプロダクトマネージャーの方<br>
+・レガシー産業のDX化に興味のある方<br>
+・スタートアップで働くエンジニアの方</p>
+<h2>個人情報の取り扱いについて</h2>
+<p>主催者が取得した個人情報は、主催者からのご案内に利用させていただく場合がございますが、その他の目的では利用いたしません。イベント申し込みの際には、主催者が定めるプライバシーポリシーを、以下リンクよりご確認ください。<br>
+ <a href="https://suke-dachi.jp/static/privacy_policy_v1.html" rel="nofollow">株式会社助太刀プライバシーポリシー</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毎週火曜にやってる！プログラミング&ITなんでも勉強部屋（11月第3）]]></title>
+        <id>https://hfs.connpass.com/event/264694/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://hfs.connpass.com/event/264694/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T02:15:03.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/15 19:00 ～ 22:00<br />開催場所: 102-0093　　東京都千代田区平河町1-4-3  (平河町伏見ビル 2F)<br /><br /><p><a href="https://twitter.com/search?q=%23%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%8B%89%E5%BC%B7%E9%83%A8%E5%B1%8B%20%20%23eLV%E5%8B%89%E5%BC%B7%E4%BC%9A&amp;src=typed_query" rel="nofollow">#プログラミング勉強部屋 #eLV勉強会</a> </p>
+<h2>★毎週火曜やってます!!   ★オンライン参加も可!!</h2>
+<p>※その他の火曜も参加希望の場合は<a href="https://hfs.connpass.com/" rel="nofollow">このリンク</a> からお願いします！<br><br>
+<img alt="ロゴ画像" src="http://drive.google.com/uc?export=view&amp;id=10brRnPXMqhdPp_vVTUrEy0s4KhqkRamo&amp;authuser"></p>
+<h2>プログラミングやネットワーク・etc、学びたいITエンジニア（＆目指す人）の為の無料で利用可能な自習の場です！！</h2>
+<h2>しかも、それぞれの学習テーマに合せたメンター（先生）が、あなたの質問や相談に応えてくれます！</h2>
+<h2>どんなイベント？<br></h2>
+<p>一人だと、自宅だと、だらけちゃって自分に負けちゃう！やる気はあるのに進まない......心配ありません、人間そんなものです（笑）そこで、以下の環境を用意しております！！<br></p>
+<ul>
+<li>
+<h5>なんとなく学習モードに切り替わることのできる「場」</h5>
+</li>
+<li>
+<h5>一人ではなく同じような学習テーマをもった「仲間」</h5>
+</li>
+<li>
+<h5>つまずいた時に教えてもらえる「メンター（先生）」</h5>
+</li>
+<li>
+<h5>毎週火曜日開催！</h5>
+</li>
+</ul>
+<p>※会場参加者は下掲の「■新型コロナウイルス感染症対策について」を確認願います！<br>
+※参加申込みいただいた方は、お申し込み後、当ページの↑の「参加者への情報」に利用ツール等の情報が表示されますのでご確認ください！<br></p>
+<p>無言、途中参加、途中退出、ちょっと抜けてまた戻ってくる、などなど自由です。<br>
+ゆる〜くやっているので、お気軽にご参加ください。<br>
+<img alt="ロゴ画像" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/90/0a/900a2c66116a26175d86d41bf9d86e71.png"></p>
+<h2>参加者ってどんなことやっているの？<br></h2>
+<p>・プログラミングの勉強<br>
+・ネットワークやCloudの勉強<br>
+・書籍を読む<br>
+・会社の仕事を仕上げる<br>
+・各種資料を作成する<br>
+・ブログなどの記事を書く<br>
+・統計や数学など基礎的な勉強<br>
+・その他なんでも！<br></p>
+<h2>今回のメンターは佐藤弘明氏です。</h2>
+<p><img src="http://drive.google.com/uc?export=view&amp;id=19bIwtwmCA3gQMZXezwZV0ujtUkIh6QQa" width="120"></p>
+<p>株式会社シスコに勤務するかたわら、IT分野における知識を分かりやすく人に伝え、ITリテラシーの高い方を増やしていきたいと考えます。<br></p>
+<p>本業ではホスト系、オープン系、OracleやMSSQL等の他種環境を連携させたエンタープライズシステムの設計開発、保守、運用、ユーザーサポートを経験しています。上記経験から多種環境を扱えるBIツールやETLツールの開発もしています。<br>
+今後起業を志す過程としてLAMP、Webデザイン、Webマーケティング、コピーライティング、iOSアプリ開発、パブリッククラウド利用等を学んでいます。<br></p>
+<p>言語経験：<br>
+.NET(VB,c#)、Excel,Access(VBA)、JAVA、SQL、PL/SQL、C/C++、JavaScript、PHP、Swift<br></p>
+<p>**その他の週のメンター情報は<a href="https://www.elv.tokyo/blank-8" rel="nofollow">このリンク</a> からご参照ください！<br><br></p>
+<table>
+<thead>
+<tr>
+<th align="left">Time</th>
+<th align="left">内容</th>
+<th align="left">備考</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">18:00</td>
+<td align="left">勉強部屋OPEN！</td>
+<td align="left">本ページの「参加者への情報」をみていただき準備ねがいます！</td>
+</tr>
+<tr>
+<td align="left">18:00~19:30</td>
+<td align="left">自習タイム</td>
+<td align="left">途中入場OK！</td>
+</tr>
+<tr>
+<td align="left">19:30</td>
+<td align="left">勉強部屋正式スタート！</td>
+<td align="left">・諸説明<br>・メンター＆コーチの紹介<br>・2分で自己紹介＆今日やること発表！<br>※成果（その他）LTのやる、やらないを宣言してもらいまっす！<br></td>
+</tr>
+<tr>
+<td align="left">20:00~20:15</td>
+<td align="left">参加者同士のおしゃべりタイムをやるかも？</td>
+<td align="left">その日の人数や雰囲気で！<br></td>
+</tr>
+<tr>
+<td align="left">20:15~21:40</td>
+<td align="left">自習タイム</td>
+<td align="left">途中退場OK！</td>
+</tr>
+<tr>
+<td align="left">21:40~22:00</td>
+<td align="left">LTタイム</td>
+<td align="left">・本日の成果でも、その他でもＯＫ！（希望者のみ）<br>※おひとり様5分以内とします。</td>
+</tr>
+</tbody>
+</table>
+<p>※メンターは19:00予定で入場します。但しメンターも知っている事、そうでない事ございます。詳しくは紹介文をご参照ください。<br></p>
+<h2>■参加資格</h2>
+<ul>
+<li>無断欠席しない人</li>
+<li>ITエンジニアまたはITエンジニアを目指す人（学生さんも歓迎）</li>
+</ul>
+<h2>■学習環境</h2>
+<p>Wi-Fi・Cloudの実行環境をお1人様1インスタンスご用意いたします。
+PCやテキストは持参ください。</p>
+<h2>■ご注意</h2>
+<p>メンターは現役エンジニアですので、仕事の都合等で参加できない可能性があることをご了承願います。その際は参加者同士でフォロー出来ればと思っております。
+また、当企画は料金や参加規程など予告なく変更する可能性があります。</p>
+<ul>
+<li>
+<h5>eLVオフィシャルサイト、またイベント告知サイトなどへの掲載目的として勉強会、交流会風景の撮影を行わせて頂いております。掲載へ不都合が御座います方は、恐れ入りますが運営スタッフまでお申し出下さい。</h5>
+</li>
+</ul>
+<h2>■新型コロナウイルス感染症対策について</h2>
+<h5>１．会場に関する対策について<br></h5>
+<ul>
+<li>会場は毎日1度以上の消毒を実施しております。<br></li>
+<li>必要時にアラートがあがるCO2濃度測定器の設置をしており換気が適切に行えるようにしております。<br></li>
+<li>人と人との距離を確保します。<br></li>
+</ul>
+<h5>２．参加者の皆様にお願いしていること<br></h5>
+<ul>
+<li>入場時に検温にご協力いただいております。<br></li>
+<li>マスク着用と咳エチケットをお願いします。マスクをご持参ください。<br></li>
+<li>他者と密接し大声で話しかけるのはお控えくださるようお願いします。<br></li>
+<li>受付時等、ソーシャルディスタンスの保持にご協力をお願いいたします。<br></li>
+<li>以下に該当する場合は来場をお控え頂きますようお願いします<br>
+発熱（平熱比 1 度超過）がある方 / 息苦しさ（呼吸困難） / 強いだるさや、咳・咽頭痛などの症状がある方<br>
+新型コロナウイルス感染症陽性とされた者との濃厚接触がある、同居家族や身近な知人に感染が疑われる方がいる、もしくは感染可能性の症状がある方 <br></li>
+</ul>
+<h2>■参加者アンケート（リピート参加者の方もお気付きの点があれば忌憚ないご意見おまちしてます！）</h2>
+<p><a href="https://goo.gl/dW6nBu" rel="nofollow">https://goo.gl/dW6nBu</a></p>
+<p><span></span></p>
+<h2>■ITエンジニアコミュニティeLVとは？</h2>
+<p><img alt="ロゴ画像" src="http://drive.google.com/uc?export=view&amp;id=1zcegNYutCxC5EAVXNzovo_Fy3dAxVyVJ"></p>
+<p>eLVはスキルアップに資する誰でも参加可能なコミュニティです。</p>
+<p>※他のイベントはこちらからチェック下さい。<br>
+<a href="https://elv.connpass.com/" rel="nofollow">https://elv.connpass.com/</a></p>
+<p>※Co-Creation BAR（ICT関係者の集うBAR）のイベントはこちらからチェック下さい。<br>
+<a href="https://elv-ccb.connpass.com/" rel="nofollow">https://elv-ccb.connpass.com/</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nên mua Robot Ecovacs T5 Hero hay T8 AIVI?]]></title>
+        <id>https://connpass.com/event/264744/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://connpass.com/event/264744/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/10/28 11:00 ～ 2023/08/11 01:00<br />開催場所: (場所未定)<br /><br /><p>Với sự ra đời của hàng loạt các sản phẩm robot hút bụi trên thị trường hiện nay người dùng rất khó để lựa chọn cho mình những sản phẩm phù hợp nhất. Với 2 dòng sản phẩm Robot Ecovacs T5 Hero hay T8 AIVI nhiều người thường băn khoăn nên mua Ecovacs T5 Hero hay T8 AIVI? Câu hỏi này được VnEcovacs trả lời trong bài viết dưới đây!</p>
+
+<p><img src="https://i.imgur.com/IKWZgaq.gif">Tìm hiểu chi tiết: <a href="https://www.scoop.it/topic/vnecovacs/p/4134141149/2022/07/21/so-sanh-ecovacs-t8-aivi-va-ecovacs-t8-max" rel="nofollow"><span style="color: #FF0000;"><strong><span style="font-size: 10pt;">So sánh Ecovacs T8 AIVI và Ecovacs T8 Max</span></strong></span></a></p>
+
+<h2><strong>1. Ecovacs T5 Hero </strong></h2>
+
+<p>Sản phẩm Ecovacs T5 Hero được biết đến với công nghệ điều hướng Smart Navi 3.0 được kết hợp với hệ thống cảm biến toàn diện nhận diện được không gian các chướng ngại vật và chống rơi vỡ. Sản phẩm là phân khúc cao cấp tích hợp 3 chế độ hút là mức bình thường, max và max plus nhờ đó mang tới hiệu quả xử lý các loại bụi bẩn trên mặt sàn.</p>
+
+<p style="text-align: center;"><img src="https://lh5.googleusercontent.com/mFCceFKeTkSYF9_7wyQXrr5tkFFztNo1qiFe_rZoixLk5MvqUyF1AyVbfl-GveAQlb5tyOp3Tg5knaFId6gmHoNj8Pk9byIXDvPKXTBhS4iKKPd4G2rxRsmLJN6UwaJHr_X_MM5VkVV9" style=""></p>
+
+<p style="text-align: center;">Ecovacs T5 Hero là phân khúc cao cấp tích hợp 3 chế độ hút</p>
+
+<p>Robot có ba mức lau sàn để bạn tự chọn phù hợp với các loại chất liệu sàn khác nhau. Tính năng nhận điện thoại thông minh với lực hút mạnh để làm sạch sâu, hút hết các loại bụi bẩn cứng đầu bán trên mặt tham.</p>
+
+<h2><strong>2. T8 AIVI </strong></h2>
+
+<p>Sản phẩm <a href="https://robothutbuilaunha.net/ecovacs-deebot/" rel="nofollow"><span style="color: #FF0000;"><strong>Robot hút bụi Ecovacs</strong></span></a> T8 Aivi của VnEcovacs được thừa hưởng những công nghệ tiên tiến từ T5 Hero là những cải tiến công nghệ cấp. So sánh Ecovacs T5 Hero vs T8 AIVI đó là công nghệ điều hướng TRUE MAPPING Và AIVI. Trong đó bản đồ nhà được xây dựng nhanh chóng, chính xác và được hiện thực hóa dưới dạng 3D trên màn hình điện thoại.</p>
+
+<p>Khả năng nhận diện của robot thông minh hơn nhờ khả năng tự lọc và áp dụng công nghệ AIVI cải tiến nhận dạng mọi vật với tốc độ nhanh hơn 200 % và nhạy hơn. Với những dữ liệu được thu thập sản phẩm sẽ thích nghi với những thay đổi trong môi trường nhà bạn đó làm sạch lưu và hiệu quả. Module máy ảnh với thông tin được truyền tải nhanh chóng để quá trình dọn dẹp được diễn ra một cách dễ dàng.</p>
+
+<p style="text-align: center;"><img src="https://lh6.googleusercontent.com/Qcoti_8uJpEUrSy-cP9wAoQJeCAycVakNpJkORY0TWlmxu3fuIxxThBpwzL-Yu_d4FF9BYLoxEt0E_BgCC_S6bRRQP1i7UncdUvp5DHDNv__pHgHC7VNb1HPHrcGJtzJuFbe6ABI5Ix2" style=""></p>
+
+<p style="text-align: center;">Ecovacs T8 Aivi sở hữu công nghệ thông minh nhận diện vật cản</p>
+
+<p>Ngoài ra hệ thống camera trực tiếp của Robot hút bụi Ecovacs T8 Aivi truyền đến các thành viên trong nhà khi ở xa giúp bạn trông có trẻ nhỏ hoặc thú cưng trong trường hợp cần thiết. Bộ lọc 3 lớp giúp lọc sạch đến 99 % bụi bẩn, khả năng loại bỏ các loại bụi mịn lên tới 6 micron. Đặc biệt phù hợp với những thành phố lớn bị ô nhiễm, bụi bẩn, chất lượng không khí được cải thiện đáng kể.</p>
+
+<p>Công nghệ AI vượt bậc của Robot hút bụi Ecovacs T8 Aivi với hiệu suất cao khiến bạn bất ngờ về khả năng ghi nhớ. Khi sản phẩm bị mắc kẹt bởi các vật dụng trong gia đình như giày, tất, ghế, chân bàn,… T8 AIVI có thể nhận ra các vật phổ biến và tránh đường đồng thời thiết lập đường đi phù hợp. Ngoài ra khi so sánh Ecovacs T8 AIVI và Ecovacs T8 Max bạn cũng nhận thấy những điểm khác biệt. </p>
+
+<h2><strong>Nên mua Ecovacs T5 Hero hay T8 AIVI?</strong></h2>
+
+<p>Nếu đặt lên bàn cân so sánh và đặt ra câu hỏi nên mua Ecovacs T5 Hero hay T8 AIVI, có thể thấy rõ ràng sản phẩm Ecovacs T8 Aivi hiện đại hơn so với T5 Hero. Ecovacs T8 Aivi sở hữu những công nghệ vượt trội và có sự phát triển vượt bậc hơn so với sản phẩm T5 Hero. Nếu gia đình bạn có nhiều tầng và có nhu cầu dùng nhiều hơn một robot thì nên lựa chọn sản phẩm T5 Hero hoặc trường hợp ngân sách bạn muốn tiết kiệm được chi phí thì T5 Hero là quyết định đúng đắn.</p>
+
+<p style="text-align: center;"><img src="https://lh3.googleusercontent.com/aV6jPUGl7ryXcG_hs6OyN0sJPanpc3jelb6L1ha3CtmJsaa2XY22vqfMo16Uuq5xTRLrLIxXh4w0PMyPCtQNS_hdIyB5InWH69rCpV5hTnGCQdoMRZX6WvnQvgfCF9aCtaDZb8LhR4Ae" style=""></p>
+
+<p style="text-align: center;">Ecovacs T8 Aivi sở hữu công nghệ đỉnh hơn Ecovacs T5 Hero</p>
+
+<p>Bạn có thể lựa chọn sản phẩm Ecovacs T8 Aivi nếu muốn có một sản phẩm robot để thực sự có những trải nghiệm công nghệ thú vị. Ecovacs T8 Aivi sẽ là sản phẩm công nghệ hấp dẫn để trải nghiệm với những tính năng quan trọng như lau rung, camera,... Nhờ đó bạn sẽ không phải phân vân xóa hay quét lại bất cứ khu vực nào trong nhà. </p>
+
+<h2><strong>3. Địa chỉ mua robot hút bụi Ecovacs chính hãng</strong></h2>
+
+<p>Trên thị trường hiện nay có rất nhiều điện chỉ cung ứng các sản phẩm robot hút bụi chính hãng trong đó VnEcovacs được nhiều người dùng tin tưởng và lựa chọn . Đây là địa chỉ uy tín, cam kết mang đến cho bạn những sản phẩm chất lượng với mức giá tốt nhất.</p>
+
+<h2>Lời kết </h2>
+
+<p>Nội dung bài viết trên đây đã giúp bạn trả lời câu hỏi nên mua <strong>Ecovacs T5 Hero hay T8 AIVI</strong>? Hãy căn cứ vào nhu cầu sử dụng của gia đình để lựa chọn cho mình những sản phẩm thực sự phù hợp. Nếu bạn vẫn còn đang băn khoăn chưa biết nên lựa chọn sản phẩm nào phù hợp vui lòng liên hệ với <strong><em><a href="https://robothutbuilaunha.net/san-pham/ecovacs-deebot-t8-aivi/" rel="nofollow">https://robothutbuilaunha.net/san-pham/ecovacs-deebot-t8-aivi/</a></em></strong> để được tư vấn và hỗ trợ. </p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン開催]Pythonデータ分析入門第4回]]></title>
+        <id>https://datascience-sendai-lab.connpass.com/event/264735/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://datascience-sendai-lab.connpass.com/event/264735/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:43:13.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/14 13:00 ～ 14:30<br />開催場所: (場所未定)<br /><br /><h1>[オンライン開催]Pythonデータ分析入門第4回</h1>
+<p><strong>※全6回のうちの第4回になります。</strong>  <br>
+<strong>データサイエンス仙台ラボについては、<a href="https://prtimes.jp/main/html/rd/p/000000020.000016468.html" rel="nofollow">こちら</a></strong>  </p>
+<h2>【実施日時】<strong>2023年1月14日 13:00 ~ 14:30 (開始10分前から参加可能です)</strong></h2>
+<h2>【実施場所】オンライン</h2>
+<p><strong>Google Meetを利用しますが、事前共有されたURLから当日ご参加ください。</strong><br>
+<strong>参加者の皆様はボイスのみになりますが、当日はミュートで参加いただきます。</strong><br>
+<strong>質疑につきましてはチャットでお願い致します。</strong>  </p>
+<h2>【対象】</h2>
+<p><strong>どなたでもご参加いただけます！</strong><br>
+<strong>「Pythonに触れてみたい...！」「データ分析をやってみたい...！」という方々をはじめ、</strong><br>
+<strong>現場でプログラミングに悩むヒトにもデータ分析を通して"使える"プログラミングを学べます...！</strong><br>
+<strong>何度か開催される勉強会に継続的に参加していくことで、データ分析を体系的に理解し、</strong><br>
+<strong>そして自身でもビジネスへのデータ活用が可能になることを目指しております。</strong>  </p>
+<h2>【環境】</h2>
+<p><strong>プライベートなPCがある方が望ましいです。Pythonを触れる環境を勉強会の中で学ぶためです</strong><br>
+<strong><a href="https://colab.research.google.com/?hl=ja" rel="nofollow">Google Colaboratory</a>を利用しますので、Googleアカウントをご用意ください</strong></p>
+<h2>【実施概要】</h2>
+<p><strong> 本勉強会は、オンライン開催になっております。</strong><br>
+<strong> ソフトドリンク・アルコール問わず、オンラインだからこそ、飲みながら食べながら カジュアルにご参加ください！！！</strong>    </p>
+<p><strong> ↓↓↓タイムスケジュール↓↓↓ </strong>  </p>
+<p><strong>1部 13:00 ~ 14:30 (90分間)</strong>  </p>
+<p><strong> ↓↓↓概要↓↓↓ </strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 1部</strong><br>
+1. <strong>第3回ふりかえり (<em>Go Over</em>)</strong><br>
+2. <strong>色々なデータに触れてみよう① (<em> Lets view various data 1</em>)</strong><br>
+3. <strong>色々なデータに触れてみよう② (<em>Lets view various data 2 </em>)</strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 2部</strong><br>
+1. <strong>予測してみよう (<em> How to predict something</em>)</strong><br>
+2. <strong>分類してみよう (<em>How to classify something</em>)</strong><br>
+3. <strong>クラスタリングしてみよう (<em>How to clustering something?</em>)</strong><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン開催]Pythonデータ分析入門第3回]]></title>
+        <id>https://datascience-sendai-lab.connpass.com/event/264733/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://datascience-sendai-lab.connpass.com/event/264733/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:39:07.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/07 13:00 ～ 14:30<br />開催場所: (場所未定)<br /><br /><h1>[オンライン開催]Pythonデータ分析入門第3回</h1>
+<p><strong>※全6回のうちの第3回になります。</strong>  <br>
+<strong>データサイエンス仙台ラボについては、<a href="https://prtimes.jp/main/html/rd/p/000000020.000016468.html" rel="nofollow">こちら</a></strong>  </p>
+<h2>【実施日時】<strong>2023年1月7日 13:00 ~ 14:30 (開始10分前から参加可能です)</strong></h2>
+<h2>【実施場所】オンライン</h2>
+<p><strong>Google Meetを利用しますが、事前共有されたURLから当日ご参加ください。</strong><br>
+<strong>参加者の皆様はボイスのみになりますが、当日はミュートで参加いただきます。</strong><br>
+<strong>質疑につきましてはチャットでお願い致します。</strong>  </p>
+<h2>【対象】</h2>
+<p><strong>どなたでもご参加いただけます！</strong><br>
+<strong>「Pythonに触れてみたい...！」「データ分析をやってみたい...！」という方々をはじめ、</strong><br>
+<strong>現場でプログラミングに悩むヒトにもデータ分析を通して"使える"プログラミングを学べます...！</strong><br>
+<strong>何度か開催される勉強会に継続的に参加していくことで、データ分析を体系的に理解し、</strong><br>
+<strong>そして自身でもビジネスへのデータ活用が可能になることを目指しております。</strong>  </p>
+<h2>【環境】</h2>
+<p><strong>プライベートなPCがある方が望ましいです。Pythonを触れる環境を勉強会の中で学ぶためです</strong><br>
+<strong><a href="https://colab.research.google.com/?hl=ja" rel="nofollow">Google Colaboratory</a>を利用しますので、Googleアカウントをご用意ください</strong></p>
+<h2>【実施概要】</h2>
+<p><strong> 本勉強会は、オンライン開催になっております。</strong><br>
+<strong> ソフトドリンク・アルコール問わず、オンラインだからこそ、飲みながら食べながら カジュアルにご参加ください！！！</strong>    </p>
+<p><strong> ↓↓↓タイムスケジュール↓↓↓ </strong>  </p>
+<p><strong>1部 13:00 ~ 14:30 (90分間)</strong>  </p>
+<p><strong> ↓↓↓概要↓↓↓ </strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 1部</strong><br>
+1. <strong>第2回ふりかえり (<em>Go Over</em>)</strong><br>
+2. <strong>データから意思決定できる？① (<em>How make decisions from data 1</em>)</strong><br>
+3. <strong>データから意思決定できる？② (<em>How make decisions from data 2</em>)</strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 2部</strong><br>
+1. <strong>データを要約してみよう① (<em> Lets summarize data 1</em>)</strong><br>
+2. <strong>データを要約してみよう② (<em>Lets summarize data 2 </em>)</strong><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン開催]Pythonデータ分析入門第2回]]></title>
+        <id>https://datascience-sendai-lab.connpass.com/event/264732/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://datascience-sendai-lab.connpass.com/event/264732/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:37:39.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/24 13:00 ～ 14:30<br />開催場所: (場所未定)<br /><br /><h1>[オンライン開催]Pythonデータ分析入門第2回</h1>
+<p><strong>※全6回のうちの第2回になります。</strong>  <br>
+<strong>データサイエンス仙台ラボについては、<a href="https://prtimes.jp/main/html/rd/p/000000020.000016468.html" rel="nofollow">こちら</a></strong>  </p>
+<h2>【実施日時】<strong>2022年12月24日 13:00 ~ 14:30 (開始10分前から参加可能です)</strong></h2>
+<h2>【実施場所】オンライン</h2>
+<p><strong>Google Meetを利用しますが、事前共有されたURLから当日ご参加ください。</strong><br>
+<strong>参加者の皆様はボイスのみになりますが、当日はミュートで参加いただきます。</strong><br>
+<strong>質疑につきましてはチャットでお願い致します。</strong>  </p>
+<h2>【対象】</h2>
+<p><strong>どなたでもご参加いただけます！</strong><br>
+<strong>「Pythonに触れてみたい...！」「データ分析をやってみたい...！」という方々をはじめ、</strong><br>
+<strong>現場でプログラミングに悩むヒトにもデータ分析を通して"使える"プログラミングを学べます...！</strong><br>
+<strong>何度か開催される勉強会に継続的に参加していくことで、データ分析を体系的に理解し、</strong><br>
+<strong>そして自身でもビジネスへのデータ活用が可能になることを目指しております。</strong>  </p>
+<h2>【環境】</h2>
+<p><strong>プライベートなPCがある方が望ましいです。Pythonを触れる環境を勉強会の中で学ぶためです</strong><br>
+<strong><a href="https://colab.research.google.com/?hl=ja" rel="nofollow">Google Colaboratory</a>を利用しますので、Googleアカウントをご用意ください</strong></p>
+<h2>【実施概要】</h2>
+<p><strong> 本勉強会は、オンライン開催になっております。</strong><br>
+<strong> ソフトドリンク・アルコール問わず、オンラインだからこそ、飲みながら食べながら カジュアルにご参加ください！！！</strong>    </p>
+<p><strong> ↓↓↓タイムスケジュール↓↓↓ </strong>  </p>
+<p><strong>1部 13:00 ~ 14:30 (90分間)</strong>  </p>
+<p><strong> ↓↓↓概要↓↓↓ </strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 1部</strong><br>
+1. <strong>第1回ふりかえり (<em>Go Over</em>)</strong><br>
+2. <strong>データの中身を見よう！ (<em>View contents of Data</em>)</strong><br>
+3. <strong>Matplotlibを知ろう！ (<em>Learn Matplotlib</em>)</strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 2部</strong><br>
+1. <strong>Seabornを知ろう！ (<em>Learn Seaborn</em>)</strong><br>
+2. <strong>データの中身を可視化しよう① (<em>Lets visualize 1 </em>)</strong><br>
+3. <strong>データの中身を可視化しよう② (<em>Lets visualize 2</em>)</strong><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン開催]Pythonデータ分析入門第1回]]></title>
+        <id>https://datascience-sendai-lab.connpass.com/event/264729/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://datascience-sendai-lab.connpass.com/event/264729/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:34:47.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/17 13:00 ～ 14:30<br />開催場所: (場所未定)<br /><br /><h1>[オンライン開催]Pythonデータ分析入門第1回</h1>
+<p><strong>※全6回のうちの第1回になります。</strong>  <br>
+<strong>データサイエンス仙台ラボについては、<a href="https://prtimes.jp/main/html/rd/p/000000020.000016468.html" rel="nofollow">こちら</a></strong>  </p>
+<h2>【実施日時】<strong>2022年12月17日 13:00 ~ 14:30 (開始10分前から参加可能です)</strong></h2>
+<h2>【実施場所】オンライン</h2>
+<p><strong>Google Meetを利用しますが、事前共有されたURLから当日ご参加ください。</strong><br>
+<strong>参加者の皆様はボイスのみになりますが、当日はミュートで参加いただきます。</strong><br>
+<strong>質疑につきましてはチャットでお願い致します。</strong>  </p>
+<h2>【対象】</h2>
+<p><strong>どなたでもご参加いただけます！</strong><br>
+<strong>「Pythonに触れてみたい...！」「データ分析をやってみたい...！」という方々をはじめ、</strong><br>
+<strong>現場でプログラミングに悩むヒトにもデータ分析を通して"使える"プログラミングを学べます...！</strong><br>
+<strong>何度か開催される勉強会に継続的に参加していくことで、データ分析を体系的に理解し、</strong><br>
+<strong>そして自身でもビジネスへのデータ活用が可能になることを目指しております。</strong>  </p>
+<h2>【環境】</h2>
+<p><strong>プライベートなPCがある方が望ましいです。Pythonを触れる環境を勉強会の中で学ぶためです</strong><br>
+<strong><a href="https://colab.research.google.com/?hl=ja" rel="nofollow">Google Colaboratory</a>を利用しますので、Googleアカウントをご用意ください</strong></p>
+<h2>【実施概要】</h2>
+<p><strong> 本勉強会は、オンライン開催になっております。</strong><br>
+<strong> ソフトドリンク・アルコール問わず、オンラインだからこそ、飲みながら食べながら カジュアルにご参加ください！！！</strong>    </p>
+<p><strong> ↓↓↓タイムスケジュール↓↓↓ </strong>  </p>
+<p><strong>1部 13:00 ~ 14:30 (90分間)</strong>  </p>
+<p><strong> ↓↓↓概要↓↓↓ </strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 1部</strong><br>
+1. <strong>環境について (<em>Surroundings</em>)</strong><br>
+2. <strong>Google Colaboratoryを立ち上げよう (<em>Start Colab</em>)</strong><br>
+3. <strong>Google Colaboratoryに慣れる (<em>Learn Colab </em>)</strong>  </p>
+<p>=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<br>
+<strong> 2部</strong><br>
+1. <strong>CSVを読み込む (<em>Read CSV File </em>)</strong><br>
+2. <strong>Pandasで加工しよう① (<em>Lets use Pandas 1 </em>)</strong><br>
+3. <strong>Pandasで加工しよう② (<em>Lets use Pandas 2</em>)</strong><br>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データビジネスにおけるdbtの活用事例 〜Ubie、LayerX、10X〜]]></title>
+        <id>https://10x.connpass.com/event/264465/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://10x.connpass.com/event/264465/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:27:39.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/11 19:00 ～ 20:15<br />開催場所: (場所未定)<br /><br /><h1>イベント概要</h1>
+<p><strong>データビジネスにおけるdbtの活用事例 〜Ubie、LayerX、10X〜</strong></p>
+<p>データビジネスに取り組む会社がなぜdbt(data build tool)を採用し、どのように活用しているのかの各社の事例を交えながら紹介していくイベントです。</p>
+<p>▼話すこと
+- 各社のビジネス側の要求に対してのdbtを使った取り組みや工夫
+- データガバナンスに関する課題や高めるための取り組み</p>
+<p>▼話さないこと</p>
+<ul>
+<li>DWH層やマート層等のデータ分析基盤の具体的な作り方</li>
+</ul>
+<h1>申込方法</h1>
+<p>connpass上の申込みボタンからお申し込みください。</p>
+<h1>タイムスケジュール</h1>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>内容</th>
+<th>登壇者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>19:00〜</td>
+<td>オープニング</td>
+<td>-</td>
+</tr>
+<tr>
+<td>19:05〜</td>
+<td>データビジネスにおける実践的dbt活用例</td>
+<td>酒井 直人 &lt; Ubie株式会社&gt;</td>
+</tr>
+<tr>
+<td>19:25〜</td>
+<td>dbtを中心に据えたデータ分析とプロダクト開発</td>
+<td>須藤 欧佑 &lt;株式会社LayerX&gt;</td>
+</tr>
+<tr>
+<td>19:45〜</td>
+<td>ネットスーパーにおける商品在庫データのアプリケーション構築事例</td>
+<td>瀧本晋也 &lt;株式会社10X&gt;</td>
+</tr>
+<tr>
+<td>20:05〜</td>
+<td>クロージング</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h1>詳細内容</h1>
+<h2>データビジネスにおける実践的dbt活用例</h2>
+<h5>登壇者　:　Ubie株式会社　データアナリスト 酒井 直人 <a href="https://twitter.com/jagabass" rel="nofollow"> twitter </a></h5>
+<p>2017年4月に株式会社コロプラに総合職として新卒入社し、CTO直下部門を経てデータサイエンス部門に配属。チームリーダーとしてアプリ分析やマーケティングリサーチ、人事データ基盤の構築に従事。2021年7月にUbie株式会社に入社し、SaaSプロダクトのアナリストを経て製薬事業チームに参加。現在は製薬事業におけるデータ領域のプロダクトオーナーとして、組織設計からデータモデリング・分析まで幅広く担当。</p>
+<h2>dbtを中心に据えたデータ分析とプロダクト開発</h2>
+<h5>登壇者　:　株式会社LayerX　PrivacyTech事業部リードエンジニア 須藤 欧佑 <a href="https://twitter.com/zoom_zoomzo" rel="nofollow"> twitter </a></h5>
+<p>LayerX創業期から、データのプライバシー保護の研究開発をリード。ゼロ知識証明を用いたプライバシー保護プロトコルは日本で初めてWeb3 Foundationからグラントを獲得。CPUセキュリティ機能を応用した秘密計算プロトコルを開発し、学術論文として学会発表。現在は、インフラ・バックエンド・フロントエンドまで幅広く「Anonify」のプロダクト開発およびデータ分析基盤の構築・運用を担当。</p>
+<h2>ネットスーパーにおける商品在庫データのアプリケーション構築事例</h2>
+<h5>登壇者　:　株式会社10X　データプロダクトエンジニア 瀧本晋也 <a href="https://twitter.com/takimo" rel="nofollow"> twitter </a></h5>
+<p>株式会社ミクシィにて音楽系・スマートフォン対応等のプロダクト開発に従事、その後モンスターストライクのインハウス広告運用部隊の立ち上げ、プライベートDMP構築を先導。2021年10月より10Xでアナリティクスエンジニア＆データプロダクトエンジニアを担当。山梨在住。</p>
+<h1>開催方法等</h1>
+<h2>開催方法</h2>
+<p>ZOOMウェビナー（申込み頂いた方に試聴URLをお送りします）</p>
+<h2>参加費</h2>
+<p>無料</p>
+<h1>問い合わせ先</h1>
+<p>本イベントについての問い合わせは、下記の連絡先までお送りください。</p>
+<p><code>event@10x.co.jp</code></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン開催]データサイエンスを学ぶ基礎編第5回]]></title>
+        <id>https://datascience-sendai-lab.connpass.com/event/264726/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://datascience-sendai-lab.connpass.com/event/264726/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:21:47.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/10 13:00 ～ 14:00<br />開催場所: (場所未定)<br /><br /><h1>[オンライン開催]データサイエンスを学ぶ基礎編第5回</h1>
+<p><strong>※全5回のうちの第5回になります。</strong>  <br>
+<strong>データサイエンス仙台ラボについては、<a href="https://prtimes.jp/main/html/rd/p/000000020.000016468.html" rel="nofollow">こちら</a></strong>  </p>
+<h2>【実施日時】<strong>2022年12月10日 13:00 ~ 14:00 (開始10分前から参加可能です)</strong></h2>
+<h2>【実施場所】オンライン</h2>
+<p><strong>Google Meetを利用しますが、事前共有されたURLから当日ご参加ください。</strong><br>
+<strong>参加者の皆様はボイスのみになりますが、当日はミュートで参加いただきます。</strong><br>
+<strong>質疑につきましてはチャットでお願い致します。</strong>  </p>
+<h2>【対象】</h2>
+<p><strong>どなたでもご参加いただけます！</strong><br>
+<strong>「データサイエンスってなに？」といった方でも、今回をはじめ、</strong><br>
+<strong>何度か開催される勉強会に継続的に参加していくことで、データサイエンス分野を体系的に理解し、</strong><br>
+<strong>そして自身でもビジネスへのデータ活用が可能になることを目指しております。</strong>  </p>
+<h2>【実施概要】</h2>
+<div class="codehilite"><pre><span></span><code>※ 本勉強会は、参加費不要となります
+</code></pre></div>
+
+<p><strong> 本勉強会は、オンライン開催になっております。</strong><br>
+<strong> ソフトドリンク・アルコール問わず、オンラインだからこそ、飲みながら食べながら カジュアルにご参加ください！！！</strong>   </p>
+<p><strong> ↓↓↓タイムスケジュール↓↓↓ </strong>  </p>
+<p><strong>1部 13:00 ~ 14:00 (60分間)</strong>  </p>
+<p>※当日最後に 次回以降や, その他コンテンツのご紹介をさせていただきます<br>
+※当日投影する資料等につきましてはご希望する方にのみ共有させていただきます(PDF)</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[オンライン開催]データサイエンスを学ぶ基礎編第4回]]></title>
+        <id>https://datascience-sendai-lab.connpass.com/event/264725/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://datascience-sendai-lab.connpass.com/event/264725/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T01:20:31.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/12/03 13:00 ～ 14:00<br />開催場所: (場所未定)<br /><br /><h1>[オンライン開催]データサイエンスを学ぶ基礎編第4回</h1>
+<p><strong>※全5回のうちの第4回になります。</strong>  <br>
+<strong>データサイエンス仙台ラボについては、<a href="https://prtimes.jp/main/html/rd/p/000000020.000016468.html" rel="nofollow">こちら</a></strong>  </p>
+<h2>【実施日時】<strong>2022年12月3日 13:00 ~ 14:00 (開始10分前から参加可能です)</strong></h2>
+<h2>【実施場所】オンライン</h2>
+<p><strong>Google Meetを利用しますが、事前共有されたURLから当日ご参加ください。</strong><br>
+<strong>参加者の皆様はボイスのみになりますが、当日はミュートで参加いただきます。</strong><br>
+<strong>質疑につきましてはチャットでお願い致します。</strong>  </p>
+<h2>【対象】</h2>
+<p><strong>どなたでもご参加いただけます！</strong><br>
+<strong>「データサイエンスってなに？」といった方でも、今回をはじめ、</strong><br>
+<strong>何度か開催される勉強会に継続的に参加していくことで、データサイエンス分野を体系的に理解し、</strong><br>
+<strong>そして自身でもビジネスへのデータ活用が可能になることを目指しております。</strong>  </p>
+<h2>【実施概要】</h2>
+<div class="codehilite"><pre><span></span><code>※ 本勉強会は、参加費不要となります
+</code></pre></div>
+
+<p><strong> 本勉強会は、オンライン開催になっております。</strong><br>
+<strong> ソフトドリンク・アルコール問わず、オンラインだからこそ、飲みながら食べながら カジュアルにご参加ください！！！</strong>   </p>
+<p><strong> ↓↓↓タイムスケジュール↓↓↓ </strong>  </p>
+<p><strong>1部 13:00 ~ 14:00 (60分間)</strong>  </p>
+<p>※当日最後に 次回以降や, その他コンテンツのご紹介をさせていただきます<br>
+※当日投影する資料等につきましてはご希望する方にのみ共有させていただきます(PDF)</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[オンライン開催]データサイエンスを学ぶ基礎編第1回]]></title>
         <id>https://datascience-sendai-lab.connpass.com/event/264714/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
