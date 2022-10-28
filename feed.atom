@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-28T06:01:28.014Z</updated>
+    <updated>2022-10-28T07:02:11.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【オンライン】量子サイバーセキュリティ最前線：QKDとPQC]]></title>
+        <id>https://quantinuum.connpass.com/event/264001/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://quantinuum.connpass.com/event/264001/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2022-10-28T06:09:21.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2022/11/15 17:00 ～ 18:30<br />開催場所: Zoom<br /><br /><h1>注意事項</h1>
+<ul>
+<li>Zoom での開催を予定しております。詳細は、イベントの1週間前を目処に公開の予定です。</li>
+</ul>
+<h1>この勉強会について</h1>
+<p>量子コンピューティングは、2018 年頃までは学術的な研究が中心でしたが、ここ数年商業運用が本格化、特に、化学・製薬、金融、AI、サイバーセキュリティといった分野での利用が進んでいます。</p>
+<p>今回の勉強会では、量子技術の発展を見据えたサイバーセキュリティのあり方に関して、QKD および PQC 両方の観点から解説できればと考えております。</p>
+<p>QKD(量子鍵配送、量子暗号通信)に関しては、講師として、QKD 技術で世界をリードしている東芝デジタルソリューションズ株式会社から、量子暗号通信事業の立ち上げに深く関われている 村井 信哉 様にご登壇いただき、量子暗号通信の現状と展望についてご紹介いただきます。</p>
+<p>PQC (耐量子計算機暗号)に関しては、クオンティニュアム社から Duncan Jones（Head of Cybersecurity）から、NISTにより標準化の進む耐量子計算機暗号の状況とサポートにむけてどのように準備をしていけば良いかについて、ご紹介します。</p>
+<p>なお、今後も勉強会を開催予定ですので、今回参加できない方も、ぜひ本グループをフォローください。</p>
+<h1>想定参加者</h1>
+<ul>
+<li>今後の量子技術を見据えたサイバーセキュリティに興味のある方</li>
+<li>量子技術の社内ロードマップを策定しないといけない方</li>
+</ul>
+<h1>タイムテーブル（予定）</h1>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>講演者</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17:00 - 17:30</td>
+<td>村井 信哉 （東芝デジタルソリューションズ）</td>
+<td>量子時代の情報通信を守りつづける量子暗号通信</td>
+</tr>
+<tr>
+<td>17:30 - 18:00</td>
+<td>Duncan Jones（Head of Cybersecurity, Quantinuum）</td>
+<td>An introduction to quantum-safe cybersecurity</td>
+</tr>
+<tr>
+<td>18:00 - 18:30</td>
+<td>-</td>
+<td>Q &amp;A</td>
+</tr>
+</tbody>
+</table>
+<h1>講演内容詳細</h1>
+<p>司会：
+春田　篤志（Quantinuum, Senior Enterprise Sales Executive） </p>
+<p>発表者：
+村井 信哉（東芝デジタルソリューションズ、シニアフェロー）</p>
+<p>タイトル：
+量子時代の情報通信を守りつづける量子暗号通信</p>
+<p>概要説明：
+今後大規模な量子計算機が登場すると、現在インターネット等で広く利用されている暗号が簡単に破られ、通信データが漏洩する危険性がある。これに対抗する技術として量子暗号通信が注目を集めている。量子暗号通信は、量子力学の原理を用いて安全に暗号鍵を配送する仕組みが要であり、将来の計算機の進化に対しても安全であることが理論的に証明されている。本講演では、量子暗号通信の原理、社会実装の状況、そして将来の展望について紹介する。</p>
+<p>発表者： Ducan Jones（Quantinuu, Head of Cybersecurity）</p>
+<p>タイトル：An introduction to quantum-safe cybersecurity</p>
+<p>概要説明： 
+量子コンピュータの出現により、現在広く使われている公開鍵暗号（RSA及びECC）は、十分な安全性を提供できなくなることが知られています。このY2Q(Years to Quantum)と呼ばれる量子コンピュータの脅威に対して、どのように備えていくべきか、NISTにより標準化の進むPQC(耐量子計算機暗号)の動向、ならびに情報セキュリティに携わる方が認識しておくこと、どのように準備をしていけば良いかについて紹介します。</p>
+<h1>個人情報の取り扱いについて</h1>
+<p>お客様からご提供いただいた個人情報(名前、メールアドレス、電話番号、その他のお客様個人に関わる情報)について、クオンティニュアム株式会社および東芝デジタルソリューションズ株式会社からの商品やサービスのご案内など各種情報提供などの目的で、利用することがございます。</p>
+<p>お客様からご提示いただきました個人情報は、お客様の同意、または法的な命令により個人情報の開示が求められた場合を除いて、第三者に開示または提供致しません。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NewSQL/分散SQLデータベース よろず勉強会 #1]]></title>
         <id>https://newsql-dist-db.connpass.com/event/264644/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
