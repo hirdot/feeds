@@ -6,6 +6,86 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "256701a629dc901631465a7c8ddef78f944a6896",
+          "author": "aws@amazon.com",
+          "description": "AWS Panorama のお客様は、接続された AWS Panorama アプライアンスを、AWS コンソールから、または AWS Panorama SDK を使用して、リモートで再起動できるようになりました。このリリース前は、アプライアンスの再起動ボタンを物理的に押すことによってしか Panorama アプライアンスを再起動できませんでした。Panorama アプライアンスを複数のサイトにデプロイするお客様は、拠点となる 1 つの場所からアプライアンスを再起動するスケーラブルな方法を必要としています。リモート再起動のおかげで、お客様は物理的に現場にいなくてもアプリケーションやデバイスの問題から簡単に復旧できるようになり、アプリケーションの高い稼働率を維持できます。AWS Panorama のリモート再起動の詳細については、こちらをクリックしてください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/",
+          "publishedOn": "2022-10-28T21:16:27.000Z",
+          "wordCount": 330,
+          "title": "AWS Panorama でリモート再起動が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1e8fbd4c9a7fec96b08ac330e43d6a4521285026",
+          "author": "aws@amazon.com",
+          "description": "デジタルコンテンツを作成、共有、充実させるためのフルマネージド型製品である Amazon WorkDocs は本日、Apple Silicon (M1、M2) との互換性がある WorkDocs Drive の一般提供を発表しました。WorkDocs の Apple Silicon サポートにより、Apple Silicon MacBook を使用しているお客様は、デバイスに WorkDocs ファイルを簡単にインストールして同期できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/amazon-workdocs-support-apple-silicon-macbooks/",
+          "publishedOn": "2022-10-28T21:04:26.000Z",
+          "wordCount": 326,
+          "title": "Amazon WorkDocs が Apple Silicon MacBook のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7d24cff7445f68284f867b92727a523fc5615b41",
+          "author": "aws@amazon.com",
+          "description": "AWS Step Functions は、Express ワークフローの実行を表示およびデバッグするための新しいコンソール機能の提供を開始しました。これにより、実行のトレースや実行に潜む根本原因の特定が容易になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-step-functions-adds-new-execution-observability-features-express-workflows/",
+          "publishedOn": "2022-10-28T20:19:26.000Z",
+          "wordCount": 309,
+          "title": "AWS Step Functions の Express ワークフロー用に追加された新機能によって実行のオブザーバビリティが向上",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "a0f1e5b7a843cb3bb0c3b3590367b9cd41391a2e",
+          "author": "aws@amazon.com",
+          "description": "AWS GovCloud (米国) を利用して、米国政府関連機関や請負業者は特定の規制およびコンプライアンス要件に対処して、機密扱いのワークロードをクラウドに移行できます。AWS Control Tower を AWS GovCloud (米国) リージョンへ拡大することで、AWS Control Tower は GovCloud (米国) リージョンのお客様とそのパートナーに、安全なクラウドソリューションを設計する能力を提供します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-control-tower-available-govcloud-us-regions/",
+          "publishedOn": "2022-10-28T19:20:26.000Z",
+          "wordCount": 335,
+          "title": "AWS Control Tower が AWS GovCloud (米国) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "eee9a34be06ece48ce9dd20d84dda3f4f6eb2290",
+          "author": "aws@amazon.com",
+          "description": "AWS アジアパシフィック (ジャカルタ) リージョンのお客様に、Amazon FSx for Windows をご利用いただけるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-fsx-windows-available-aws-asia-pacific-jakarta-region/",
+          "publishedOn": "2022-10-28T18:22:26.000Z",
+          "wordCount": 312,
+          "title": "Amazon FSx for Windows が AWS アジアパシフィック (ジャカルタ) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "ff2aad402c3c4c2ddd43879af2b7cea7464cf515",
+          "author": "aws@amazon.com",
+          "description": "AWS は本日、MySQL 5.7 および 8.0 の Amazon Aurora MySQL 互換エディションで Amazon S3 へのスナップショットのエクスポートが最大 10 倍の速度になったことをお知らせします。パフォーマンスの向上は、手動スナップショット、自動システムスナップショット、AWS Backup サービスで作成したスナップショットを含む、すべてのタイプのデータベーススナップショットをエクスポートする際に自動的に適用されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/",
+          "publishedOn": "2022-10-28T18:16:27.000Z",
+          "wordCount": 322,
+          "title": "Amazon Aurora MySQL で S3 へのエクスポートがより高速に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "de163c62ad74e054633857e9bdf882f1842df13a",
+          "author": "aws@amazon.com",
+          "description": "Amazon Relational Database Service (RDS) for MySQL、MariaDB、および PostgreSQL は、インスタンスあたり 15 のリードレプリカをサポートし、クロスリージョンリードレプリカは最大で 5 個、読み込みキャパシティーは以前の 3 倍になりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-rds-mysql-mariadb-postgre-sql-support-15-read-replicas-3x-read-capacity/",
+          "publishedOn": "2022-10-28T18:10:27.000Z",
+          "wordCount": 325,
+          "title": "Amazon RDS for MySQL、MariaDB、PostgreSQL が最大 15 のリードレプリカをサポートし、読み込みキャパシティーが 3 倍に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "14447482748c9c6b935cfba3a0489a077d287126",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudFront は、CloudFront のリアルタイムログに 3 つのデータフィールドを追加しました。Origin first-byte latency、Origin last-byte latency、AS 番号 (ASN) です。CloudFront のリアルタイムログには、応答の HTTP ステータスコードやキャッシュの有無など、CloudFront が配信したリクエストに関する詳細な情報が含まれています。3 つの新しいデータフィールドにより、お客様はリアルタイムログを分析したり、ログを使用して作成したダッシュボードで、CloudFront のパフォーマンスに関するより詳細なインサイトを得ることができます。Origin first-byte latency は、オリジンサーバーが最初のバイトを返すまでの応答時間を秒単位で示したものです。Origin last-byte latency は、オリジンサーバーが最後のバイトを返すまでの応答時間を秒単位で示したものです。ASN は、視聴者 IP アドレスを提供するインターネットサービスプロバイダー (ISP) ネットワークなどのネットワークを識別するための固有の番号です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-cloudfront-fields-origin-latency-asn-real-time-logs-granular-insights/",
+          "publishedOn": "2022-10-28T18:04:26.000Z",
+          "wordCount": 315,
+          "title": "Amazon CloudFront、リアルタイムログにオリジンレイテンシーと ASN のフィールドを追加し、より詳細なインサイトを実現",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "58864b3ebceafb3c1a34941e6f097a8f903421a3",
           "author": "aws@amazon.com",
           "description": "AWS Database Migration Service (AWS DMS) は、Amazon EC2 C6i および R6i インスタンスタイプをサポートするようになりました。これらのインスタンスはオールコアターボ周波数 3.5GHz の第 3 世代インテル Xeon スケーラブルプロセッサを搭載し、幅広いワークロードにおいて同等の Gen5 インスタンスと比較して最大 15% 向上したコンピューティングプライスパフォーマンス、およびインテルの Total Memory Encryption (TME) を使用した常時オンのメモリ暗号化を提供します。",
@@ -1554,16 +1634,6 @@
           "wordCount": 308,
           "title": "AWS Health Dashboard で Service Health イベントの日付と時刻のローカライズ表示が可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a6b668fd0b4ccc7ed1a0c91a5ec68524f49cbf6d",
-          "author": "aws@amazon.com",
-          "description": "臨場感あふれるオーディオと高ダイナミックレンジ (HDR) 動画のエクスペリエンスを提供している場合、AWS Elemental MediaLive を使用してご自分のチャンネルで、ドルビーアトモスとドルビービジョンをエンコードできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/",
-          "publishedOn": "2022-09-29T05:46:26.000Z",
-          "wordCount": 316,
-          "title": "AWS Elemental MediaLive がドルビーアトモスおよびドルビービジョンのエンコーディングを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -1908,26 +1978,6 @@
           "wordCount": 1179,
           "title": "文章要約AI「Elyzaダイジェスト」に解説記事やインタビュー、『桃太郎』を要約させてみたら……？",
           "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/DTNJ_peach-1.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45762",
-          "author": "tadokoroyusuke",
-          "description": "現職について ── パナソニックのCIOを引き受けた理由について教えてください。 玉置氏 日本の社会へ貢献したいという想いとCIOという職を確立したいと考えたことが理由です。 アクサ生命では本当にアジャイル変革、働き方変 […]",
-          "link": "https://data.wingarc.com/resume-of-cio-tamaokihajime-02-45762?utm_source=rss&utm_medium=rss&utm_campaign=resume-of-cio-tamaokihajime-02",
-          "publishedOn": "2022-09-29T01:00:44.000Z",
-          "wordCount": 1273,
-          "title": "特集「CIOの履歴書」 CIOのミッションは「変革」にあり（後編） パナソニックホールディングス 玉置肇氏",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/13.jpg"
-        },
-        {
-          "id": "https://data.wingarc.com/?p=45750",
-          "author": "tadokoroyusuke",
-          "description": "CIOに至るまでのキャリアについて ── 学生時代は猿の研究に没頭し、研究者の道を目指していたとお伺いしましたが、研究者以外の道を選択しようと考えられたきっかけを教えてください。 玉置氏 大学時代は猿の研究者になると思っ […]",
-          "link": "https://data.wingarc.com/resume-of-cio-tamaokihajime-01-45750?utm_source=rss&utm_medium=rss&utm_campaign=resume-of-cio-tamaokihajime-01",
-          "publishedOn": "2022-09-29T01:00:42.000Z",
-          "wordCount": 1261,
-          "title": "特集「CIOの履歴書」 CIOのミッションは「変革」にあり（前編） パナソニックホールディングス 玉置肇氏",
-          "imageUrl": "https://data.wingarc.com/wp-content/uploads/2022/09/12.jpg"
         }
       ]
     },
@@ -2754,56 +2804,6 @@
           "wordCount": 380,
           "title": "RISC-Vの進化を牽引するEsperantoの挑戦。シンプルなアイデアと実装の困難さ――David Ditzelへのインタビュー",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1968_esperanto.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022",
-          "author": null,
-          "description": "2022年10月21日（金）、22日（土）にオンラインで開催される技術カンファレンス「Kaigi on Rails 2022」のタイムテーブルが公開された。",
-          "link": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022?utm_source=feed",
-          "publishedOn": "2022-09-29T04:02:00.000Z",
-          "wordCount": 168,
-          "title": "10/21、22オンライン開催「Kaigi on Rails 2022」タイムテーブルを公開",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1966_kaigi_on_rails2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/schema_tokyo2022",
-          "author": null,
-          "description": "Figmaを提供するFigma, Inc.は、デザインシステムをテーマとしたトークセッションイベント「Schema（スキーマ）」を世界3都市（東京、ニューヨーク、 ロンドン）で開催する。",
-          "link": "https://gihyo.jp/article/2022/09/schema_tokyo2022?utm_source=feed",
-          "publishedOn": "2022-09-29T02:38:00.000Z",
-          "wordCount": null,
-          "title": "デザインシステムをテーマとしたイベント「Schema」11/2 東京で開催",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc013-password_less",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「パスワードのない世界に向けて（えーじ） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc013-password_less?utm_source=feed",
-          "publishedOn": "2022-09-29T00:15:00.000Z",
-          "wordCount": 209,
-          "title": "パスワードのない世界に向けて ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1962_techfeed-password_less.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/okr-operation-guide-04",
-          "author": null,
-          "description": "第4章では、第3章に引き続きOKRを導入したチームリーダーを主人公に設定し、「OKRの運用を改善する」という具体的なシナリオを通じて、OKRの運用に求められるマネジメント手法を解説します。",
-          "link": "https://gihyo.jp/article/2022/09/okr-operation-guide-04?utm_source=feed",
-          "publishedOn": "2022-09-29T00:12:00.000Z",
-          "wordCount": 245,
-          "title": "第4章　OKRの運用を改善する ～最適なコミュニケーション手法を確立するためのヒント",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/okr-operation-guide.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220929",
-          "author": null,
-          "description": "10月6日（日本時間で10月7日23時）に開催されるMade by Googleで、Google初のスマートウォッチ「Pixel Watch」が発表されます。筆者しかり、期待して待っている方も多いはずです。今回は、Pixel Watchの今わかっていることをまとめておきます。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220929?utm_source=feed",
-          "publishedOn": "2022-09-29T00:12:00.000Z",
-          "wordCount": 214,
-          "title": "まもなく発売！Pixel 7シリーズの今わかっていること",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -3421,56 +3421,6 @@
           "wordCount": 380,
           "title": "RISC-Vの進化を牽引するEsperantoの挑戦。シンプルなアイデアと実装の困難さ――David Ditzelへのインタビュー",
           "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1968_esperanto.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022",
-          "author": null,
-          "description": "2022年10月21日（金）、22日（土）にオンラインで開催される技術カンファレンス「Kaigi on Rails 2022」のタイムテーブルが公開された。",
-          "link": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022?utm_source=feed",
-          "publishedOn": "2022-09-29T04:02:00.000Z",
-          "wordCount": null,
-          "title": "10/21、22オンライン開催「Kaigi on Rails 2022」タイムテーブルを公開",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/schema_tokyo2022",
-          "author": null,
-          "description": "Figmaを提供するFigma, Inc.は、デザインシステムをテーマとしたトークセッションイベント「Schema（スキーマ）」を世界3都市（東京、ニューヨーク、 ロンドン）で開催する。",
-          "link": "https://gihyo.jp/article/2022/09/schema_tokyo2022?utm_source=feed",
-          "publishedOn": "2022-09-29T02:38:00.000Z",
-          "wordCount": null,
-          "title": "デザインシステムをテーマとしたイベント「Schema」11/2 東京で開催",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc013-password_less",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「パスワードのない世界に向けて（えーじ） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc013-password_less?utm_source=feed",
-          "publishedOn": "2022-09-29T00:15:00.000Z",
-          "wordCount": null,
-          "title": "パスワードのない世界に向けて ～TechFeed Conference 2022講演より",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/okr-operation-guide-04",
-          "author": null,
-          "description": "第4章では、第3章に引き続きOKRを導入したチームリーダーを主人公に設定し、「OKRの運用を改善する」という具体的なシナリオを通じて、OKRの運用に求められるマネジメント手法を解説します。",
-          "link": "https://gihyo.jp/article/2022/09/okr-operation-guide-04?utm_source=feed",
-          "publishedOn": "2022-09-29T00:12:00.000Z",
-          "wordCount": 245,
-          "title": "第4章　OKRの運用を改善する ～最適なコミュニケーション手法を確立するためのヒント",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/okr-operation-guide.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220929",
-          "author": null,
-          "description": "10月6日（日本時間で10月7日23時）に開催されるMade by Googleで、Google初のスマートウォッチ「Pixel Watch」が発表されます。筆者しかり、期待して待っている方も多いはずです。今回は、Pixel Watchの今わかっていることをまとめておきます。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220929?utm_source=feed",
-          "publishedOn": "2022-09-29T00:12:00.000Z",
-          "wordCount": 214,
-          "title": "まもなく発売！Pixel 7シリーズの今わかっていること",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -4088,56 +4038,6 @@
           "wordCount": null,
           "title": "RISC-Vの進化を牽引するEsperantoの挑戦。シンプルなアイデアと実装の困難さ――David Ditzelへのインタビュー",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022",
-          "author": null,
-          "description": "2022年10月21日（金）、22日（土）にオンラインで開催される技術カンファレンス「Kaigi on Rails 2022」のタイムテーブルが公開された。",
-          "link": "https://gihyo.jp/article/2022/09/kaigi_on_rails2022?utm_source=feed",
-          "publishedOn": "2022-09-29T04:02:00.000Z",
-          "wordCount": 168,
-          "title": "10/21、22オンライン開催「Kaigi on Rails 2022」タイムテーブルを公開",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1966_kaigi_on_rails2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/schema_tokyo2022",
-          "author": null,
-          "description": "Figmaを提供するFigma, Inc.は、デザインシステムをテーマとしたトークセッションイベント「Schema（スキーマ）」を世界3都市（東京、ニューヨーク、 ロンドン）で開催する。",
-          "link": "https://gihyo.jp/article/2022/09/schema_tokyo2022?utm_source=feed",
-          "publishedOn": "2022-09-29T02:38:00.000Z",
-          "wordCount": 144,
-          "title": "デザインシステムをテーマとしたイベント「Schema」11/2 東京で開催",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1965_schema_tokyo2022.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/tfc013-password_less",
-          "author": null,
-          "description": "本記事は、2022年5月に開催されたTechFeed Conference 2022のセッション書き起こし記事「パスワードのない世界に向けて（えーじ） — TechFeed Conference 2022講演より」を転載したものです。",
-          "link": "https://gihyo.jp/article/2022/09/tfc013-password_less?utm_source=feed",
-          "publishedOn": "2022-09-29T00:15:00.000Z",
-          "wordCount": 209,
-          "title": "パスワードのない世界に向けて ～TechFeed Conference 2022講演より",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1962_techfeed-password_less.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/okr-operation-guide-04",
-          "author": null,
-          "description": "第4章では、第3章に引き続きOKRを導入したチームリーダーを主人公に設定し、「OKRの運用を改善する」という具体的なシナリオを通じて、OKRの運用に求められるマネジメント手法を解説します。",
-          "link": "https://gihyo.jp/article/2022/09/okr-operation-guide-04?utm_source=feed",
-          "publishedOn": "2022-09-29T00:12:00.000Z",
-          "wordCount": 245,
-          "title": "第4章　OKRの運用を改善する ～最適なコミュニケーション手法を確立するためのヒント",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/okr-operation-guide.png"
-        },
-        {
-          "id": "https://gihyo.jp/article/2022/09/android-weekly-topics-220929",
-          "author": null,
-          "description": "10月6日（日本時間で10月7日23時）に開催されるMade by Googleで、Google初のスマートウォッチ「Pixel Watch」が発表されます。筆者しかり、期待して待っている方も多いはずです。今回は、Pixel Watchの今わかっていることをまとめておきます。",
-          "link": "https://gihyo.jp/article/2022/09/android-weekly-topics-220929?utm_source=feed",
-          "publishedOn": "2022-09-29T00:12:00.000Z",
-          "wordCount": 214,
-          "title": "まもなく発売！Pixel 7シリーズの今わかっていること",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1908_AndroidWeeklyTopics.png"
         }
       ]
     },
@@ -4191,6 +4091,16 @@
       "feedUrl": "https://rubyonrails.org/feed.xml",
       "siteUrl": "https://rubyonrails.org/",
       "articles": [
+        {
+          "id": "https://rubyonrails.org/2022/10/28/this-week-in-rails-more-intuitive-checking-of-form-check-boxes-and-radio-buttons-2c4b3e21",
+          "author": null,
+          "description": "Hi, Wojtek here with this week’s news from the Rails world.",
+          "link": "https://rubyonrails.org/2022/10/28/this-week-in-rails-more-intuitive-checking-of-form-check-boxes-and-radio-buttons-2c4b3e21",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
+          "wordCount": 306,
+          "title": "More intuitive checking of form check boxes and radio buttons",
+          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
+        },
         {
           "id": "https://rubyonrails.org/2022/10/21/this-week-in-rails-activerecord-querymethods-reselect-now-accepts-a-hash-performance-gains-and-a-fix-for-ciphertext_for-5254976c",
           "author": null,
@@ -4457,16 +4367,6 @@
           "wordCount": 594,
           "title": "Railsの技: StimulusJSで使えるキーボードショートカットのライブラリ（翻訳）",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/09/rails_stimulus_keyboard_shortcuts_eyecatch2.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/hachi8833/2022_09_29/120667",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_running_golang_with_rubynext_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: A no-go fantasy: writing Go in Ruby with Ruby Next — Martian Chronicles, Evil Martians’ team blog 原文公開日: 2021/11/09 原著者: Svyatoslav Kryukov、Travis Turner サイト: Evil Martians &#8212; ニューヨークやロシアを中心に拠点を構えるRuby on Rails開発会社です。良質のブログ記事を多数公開し、多くのgemのスポンサーでもあります。 日本語タイトルは内容に即したものにしました。 n [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/hachi8833/2022_09_29/120667\" data-wpel-link=\"internal\" target=\"_self\">RubyファイルにGoコードを書いてRuby Nextで動かす（翻訳）</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/hachi8833/2022_09_29/120667",
-          "publishedOn": "2022-09-29T08:30:46.000Z",
-          "wordCount": 1720,
-          "title": "RubyファイルにGoコードを書いてRuby Nextで動かす（翻訳）",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/08/ruby_running_golang_with_rubynext_eyecatch-min.png"
         }
       ]
     },
@@ -5809,6 +5709,106 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://pelemay.connpass.com/event/264838/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/12/08 20:10 ～ 21:40<br />開催場所: Zoom<br /><br /><p>Nxのバックエンドについて研究開発する勉強会です。\n<a href=\"https://github.com/elixir-nx/nx\" rel=\"nofollow\">Nx</a>については既に知っていてプログラミングしたことがあるものとします。</p>\n<p>今回はElixir10周年記念企画として，NxやNxバックエンドを起点としたElixirの未来について piacere さんと zacky1972 で語ります．</p>\n<ol>\n<li>オープニング</li>\n<li>Elixirの未来トーク</li>\n<li>ディスカッション</li>\n</ol>\n<p>1-2は録画します．</p>",
+          "link": "https://pelemay.connpass.com/event/264838/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T20:57:54.000Z",
+          "wordCount": 912,
+          "title": "Nxバックエンド勉強会#8",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/7b/36/7b3684167a62f90e6c88d825170357b2.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/264836/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/06 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/264836/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T18:34:02.000Z",
+          "wordCount": 894,
+          "title": "11/6(日)【第1475回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/264835/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/06 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/264835/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T18:32:28.000Z",
+          "wordCount": 894,
+          "title": "11/6(日)【第1474回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://oujasan-to-issho.connpass.com/event/264833/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/04 19:00 ～ 23:00<br />開催場所: Teams(Online)<br /><br /><h1>途中参加、途中退出OK！自己紹介なし！気楽なイベントです！<br></h1>\n<h3>予定された企画<br></h3>\n<h5>なし</h5>\n<h5>企画の概要<br></h5>\n<p>なし<br>\n<br></p>\n<h5>企画の主な対象（ Power Apps 初心者向け、開発者向け、など）<br></h5>\n<p>特になし<br>\n<br></p>\n<h5>企画に必要な準備<br></h5>\n<p>なし<br>\n<br></p>\n<table>\n<thead>\n<tr>\n<th align=\"center\">ROOM</th>\n<th align=\"center\">メインパーソン</th>\n<th align=\"center\">タイトル</th>\n<th align=\"center\">注意事項</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">A</td>\n<td align=\"center\">なし</td>\n<td align=\"center\">なし</td>\n<td align=\"center\">なし</td>\n</tr>\n</tbody>\n</table>\n<h2>どんなことをやるの？</h2>\n<p>実際に手を動かして Power Apps を学びたい、触れてみたい方向けのイベントです。<br>\n一般に言うもくもく会形式をベースとして、LTやハンズオン、ライブコーディングなどをやったり、やらなかったりします。<br>\n<br>\nなんとなくイベントの雰囲気を掴みたければ、Twitterタグ #おうじゃさんといっしょ を見てみると少しわかるかもしれません。なにか不安であれば直接聞いていただいてもOKです。\n<br>\n<br>\n詰まっている箇所を相談し合ったり、最近知ったことなどを教え合ったりしましょう。（したくなければしなくてもよし。）<br></p>\n<h2>自分も参加できる？</h2>\n<p>1ミリも Power Apps を知らない方や初心者の方も大歓迎です。お気軽にご参加ください。<br>\n業務担当の方（エンジニアでない方）、社内SEの方、もちろん開発者の方も。どなたでもご参加いただけます。<br></p>\n<p>\"おうじゃ\" がなにかよくわからなくても全然ご参加いただけます。<br></p>\n<h2>参加方法は？</h2>\n<p>無料の Microsoft Teams テナントでイベントを行います。Teams に繋ぐアカウントは個人のアカウントでも組織のアカウントでもどちらでも可能です。<br></p>\n<h4>おうじゃさんといっしょ　イベントに初めて参加される方<br></h4>\n<p>Forms から Teams の参加申請をお願いします。<br>\n<a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NUQ1hBN042SEY2SDExWEpOMTVIUDZDM1M2Wi4u\" rel=\"nofollow\">Teams 参加申請フォーム</a></p>\n<h4>イベント参加リンク<br></h4>\n<p><a href=\"https://teams.microsoft.com/l/channel/19%3aabaaad13308e4333918593bb6eedeeb2%40thread.tacv2/%25E3%2582%25A2%25E3%2583%258A%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%25A0?groupId=24d56029-8ac8-4554-b2a2-26ef943963f8&amp;tenantId=11025df0-5a21-46aa-bcad-f497d0b68b45\" rel=\"nofollow\">Teams リンク</a></p>\n<p>※イベント開始のタイミングで会議が開いていますので、マイクをミュートにしてご参加ください。<br>\n　途中参加の場合はアナウンスチャンネルの投稿をご確認ください。<br>\n<br>\n　申請から Teams 反映まで最大２時間かかります。時間に余裕を持って申請しましょう。<br>\n　トラブル防止の為、事前に Teams に参加できることを確認しましょう。</p>\n<h4>上手くサインアップできない場合の参考情報</h4>\n<p>iPhoneのアプリ版Teamsから新規でサインアップすると電話番号アカウントしか設定できず、\niPhoneのSafariブラウザからMS Teamsサインアップ手順(※職場向けで設定しないとSkypeに飛ばされる)を踏めばいける</p>\n<p>という例がありました！みなさんもお気をつけください。<br>\n<br>\nあるいは、組織のアカウントのログインや権限などが制限されていて参加できないケースもあるようです。<br>\n無理そうでしたら Gmail 等でも参加できるので、そちらも試してみてください。<br>\nただし、フリーメールの中にははじかれるものもありますので、ご注意ください。<br></p>\n<h4>どうしてもうまく参加できない場合は・・・</h4>\n<p>「おうじゃさんといっしょ」 タグをつけて Twitter でヘルプしてください。<br>\nやさしい常連さんや、前田が気がつけばフォローします。</p>\n<h2>タイムスケジュール（目安）</h2>\n<table>\n<thead>\n<tr>\n<th align=\"center\">時間</th>\n<th align=\"center\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">20:00</td>\n<td align=\"center\">はじめの会</td>\n</tr>\n<tr>\n<td align=\"center\">20:05</td>\n<td align=\"center\">各自もくもく</td>\n</tr>\n<tr>\n<td align=\"center\">21:50</td>\n<td align=\"center\">おわりの会</td>\n</tr>\n</tbody>\n</table>\n<p><br></p>\n<h2>企画やってます！</h2>\n<p>以下の企画を募集中です！是非ご参加ください！<br>\nまた、楽しい企画案も合わせて募集中です。なにか面白そうなことを思いついたら教えて下さい！<br></p>\n<h4>新企画募集中！</h4>\n<p>メンバー企画募集中です！<br>\n以下のフォームからご投稿ください！<br>\n<a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NUM0o1QzY4T1VZQUkwWkZDQ0xSNEFQNzIzMy4u\" rel=\"nofollow\">https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NUM0o1QzY4T1VZQUkwWkZDQ0xSNEFQNzIzMy4u</a>\n<br></p>\n<h4>Power Apps のキャッチコピーをつけてみよう！</h4>\n<p>Power Apps を知らない人向けに、宣伝文句を一文程度の長さで考えてみよう！<br>\n例：業務も趣味も、Power Apps で不満を解消しよう！<br>\n　　上司の無茶振りも、Power Apps なら楽勝！？　など！<br>\n<br>\nもらったキャッチコピーはイベントの宣伝ツイートにランダムで乗るよ！<br>\n<br>\n投稿はこちらから！<br>\n<br>\n応募フォーム<br>\n<a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NURVJXT1UzRzlaR01WSFFOSko2UFBROVZJVC4u\" rel=\"nofollow\">https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NURVJXT1UzRzlaR01WSFFOSko2UFBROVZJVC4u</a></p>\n<h4>Power Apps の一言Tips募集！</h4>\n<p>Power Apps のTipsを一文程度の長さで募集！<br>\n例：アプリを作り始めたら、必ずセーブを！<br>\n　　発行しないと、スマホには落ちてこないよ。　など！<br>\n<br>\nもらったキャッチコピーはイベントの宣伝ツイートにランダムで乗るよ！<br>\n<br>\n投稿はこちらから！<br>\n<br>\n応募フォーム<br>\n<a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NURVJXT1UzRzlaR01WSFFOSko2UFBROVZJVC4u\" rel=\"nofollow\">https://forms.office.com/Pages/ResponsePage.aspx?id=RPIs1mWtIEyfz65UQ8OiGo_cJd5lwANBiBpl5f0Qt_NURVJXT1UzRzlaR01WSFFOSko2UFBROVZJVC4u</a></p>\n<h4>初心者が Power Apps でアプリを作れるようになるか！？</h4>\n<p>・実用アプリを作ったことが無いレベルの初心者を募集します。<br>\n・イベント１回分で、ぶっつけでおうじゃと一緒にアプリを作ってみます。（なんでも可！）<br>\n・約一ヶ月後にPower Apps を触ってみた感想をLTしてください。<br>\n<br>\nこの企画のお問い合わせは前田へ直接お願いします！<br></p>\n<h2>おうじゃ ってなんですか？</h2>\n<p>あまり重要なことではありませんが、コミュニティの管理者 = おうじゃ です。よろしくです。やさしくしてください。<br>\nコミュニティに関する質問はTwitterまでお願いします。</p>\n<p>前田 誠 / Twitter<br>\n<a href=\"https://twitter.com/bothernpa\" rel=\"nofollow\">https://twitter.com/bothernpa</a></p>\n<p>ブログ / Power Apps の使い方<br>\n<a href=\"https://zezeze.hateblo.jp/\" rel=\"nofollow\">https://zezeze.hateblo.jp/</a></p>\n<h2>おすすめMS Learn コンテンツ</h2>\n<p>Microsoft Certified: Power Platform App Maker Associate<br>\n<a href=\"https://docs.microsoft.com/ja-jp/learn/certifications/power-platform-app-maker?tab=tab-learning-paths\" rel=\"nofollow\">https://docs.microsoft.com/ja-jp/learn/certifications/power-platform-app-maker?tab=tab-learning-paths</a></p>",
+          "link": "https://oujasan-to-issho.connpass.com/event/264833/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T14:48:12.000Z",
+          "wordCount": 1448,
+          "title": "おうじゃとわいわいもくもくしたりする日 ＃73",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a4/ca/a4ca2763c2106f4e484f466bc4f25980.png"
+        },
+        {
+          "id": "https://dataspider-fan.connpass.com/event/264832/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/29 00:00 ～ 00:01<br />開催場所: (場所未定)<br /><br /><p>DataSpider SDKの学習のため、Bitcoinアダプタを自作した時のメモ資料を公開します。</p>",
+          "link": "https://dataspider-fan.connpass.com/event/264832/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T14:48:11.000Z",
+          "wordCount": 850,
+          "title": "DataSpider SDKのことはじめ - Blockchain連携編 -",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4e/0c/4e0c7d424547f4773661f570e1f3fc4b.png"
+        },
+        {
+          "id": "https://tokaidolug.connpass.com/event/264825/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/12 14:00 ～ 14:50<br />開催場所: 大阪府大阪市住之江区南港北2-1-10<br /><br /><p>東海道らぐ恒例のライトニングトーク大会を、たぶん初めて？のリアル/オンラインのハイブリッドで開催します。セミナーでしゃべるまでもないネタを持ち寄って盛り上がりませんか。皆様のご参加をお待ちしております。</p>\n<p>【発表者募集】 Linux 等のオープンソース、データ、ハード関連 に限らず、KOFの趣旨に合う（かもしれない）発表 であればどんな発表でもOKです。 発表される方は、事前に申し込みを行っていただけるとありがたいです。</p>\n<ul>\n<li>※ 発表は任意です。聞くだけでもOKです。</li>\n<li>※ 大阪南港に来ていただいても、オンライン発表でもOKです。エントリー時にご選択ください。</li>\n<li>※ 今回、時間的に飛び入りは厳しいかもしれませんので、できるかぎり事前エントリーをお願いします。</li>\n</ul>\n<h1>開催概要</h1>\n<ul>\n<li>日時：　2022/11/12(土) 14:00 ～ 14:50</li>\n<li>場所：　南港ATC ITM棟 10F(KOF会場) トラック２/サロン および、Jitsi Meet</li>\n</ul>\n<h1>南港へお越しのみなさまへ</h1>\n<ul>\n<li>コンピュータでない方のウイルスに気をつけていただき、基本的な対策（マスク着用等）を取っていただいた上でお越しください。</li>\n<li>基本的には <strong>会場で発表される方でも、Jitsi Meetにログインいただき、画面共有をオンにしていただく形での参加をお願いします。</strong> 有線/無線LANが動くノートパソコンなどをご持参ください。なおもしネットワークが不調などの理由があり、これが難しい場合は、事前に案内人にご相談ください。</li>\n<li>13:50 頃よりスライド映写のリハーサルをはじめます</li>\n<li>カメラ映像の表示は任意です(カメラONにしていただいても構いません)が、他人を写す際は事前に許可を取っていただければと思います。</li>\n<li>Jitsi MeetのURLは、当日にメール・参加者への情報欄にてお知らせいたします。 <strong> connpass からのメールを受信できることをご確認ください！ </strong></li>\n</ul>\n<h1>Jitsi Meetで参加するみなさまへ</h1>\n<ul>\n<li>今回は時間が短いため、おそくとも 13:50 にはログインが完了できているように、できるだけはやめにご準備ください。</li>\n<li>Webブラウザがあれば、参加することができます</li>\n<li>映像や声出しは任意です。匿名、バ美肉、チャットのみでの参加も歓迎します。</li>\n<li>Jitsi MeetのURLは、当日にメール・参加者への情報欄にてお知らせいたします。 <strong> connpass からのメールを受信できることをご確認ください！ </strong></li>\n</ul>\n<h1>最低限のルールについて</h1>\n<p>東海道らぐでは、行動規範の代わりに、小江戸らぐ由来の最低限のルールを守っていただくよう、お願いしております。</p>\n<blockquote>\n<p>\"メンバがLinuxを通じて楽しむ時間を少しでも長く共有するためのサロンが、小江戸Linuxユーザーズグループ(小江戸らぐ)です。そのために、あえてグループとしてのルールは最小限度とし、誰もが長く楽しむためには、自分はどうすればいいのか考えるというメンバ個人のルールに基づき運営されます。” (小江戸らぐHPより引用)</p>\n</blockquote>",
+          "link": "https://tokaidolug.connpass.com/event/264825/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T12:30:41.000Z",
+          "wordCount": 1138,
+          "title": "東海道らぐのLTのやり方を綺麗さっぱり忘れました大会＠大阪南港",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/6d/48/6d48e159cefa0d45f4245a605e66b23f.png"
+        },
+        {
+          "id": "https://readeffectiveakka.connpass.com/event/264828/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/11 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h2>開催目的</h2>\n<p>オライリー社発行の「<a href=\"https://www.oreilly.co.jp/books/9784873119885/\" rel=\"nofollow\">カオスエンジニアリング――回復力のあるシステムの実践</a> （原著：Chaos Engineering）」の読書会です。\n複雑性が増す分散システムに関わる（或いは今後関わってみたい）人たちが、そのシステムの弱点を発見し自身を持って対処できることを目指し、その手段のひとつとなり得るカオスエンジニアリングについて本書より学ぶことを目的とした勉強会です。</p>\n<h6>オライリー社より</h6>\n<blockquote>\n<p>ソフトウェアをはじめとするあらゆるシステムは、発展するにつれて必然的に複雑性が増していきます。\n本書は、カオスエンジニアリングの基本となる理論と原則を説明し、組織が複雑性を受け入れながら、システムにおける弱点を発見するとともに、自信を持って障害に対処する力をつけるための実践方法を解説します。\nソフトウェアがビジネスの根幹を担う企業であるSlack、Google、Microsoft、LinkedIn、Capital Oneでの事例を紹介し、ゲームデーを中心としたカオスエンジニアリングプログラムの実践、実験の選択や自動化にあたっての課題、継続的ベリフィケーションの設計と実施、さらにはデータベースやセキュリティ分野への応用例などについて説明します。\nNetflixでカオスエンジニアリングチームを立ち上げた先駆者である著者に加え、さまざまな組織のリーダーたちがカオスエンジニアリングについて多角的に解説する本書は、エンジニアのみならず、あらゆる「複雑なシステム」に関わる方々にとって必携の一冊です。</p>\n</blockquote>\n<h2>開催概要</h2>\n<ul>\n<li>「カオスエンジニアリング――回復力のあるシステムの実践」の読書会です</li>\n<li>基本毎週金曜日開催で、1回につき1,2章のペースで進めていきます<ul>\n<li>開催日程は参加者の意向も踏まえ柔軟に決めていきます</li>\n<li>参加者の状況に合わせてペースは調整していきます</li>\n</ul>\n</li>\n<li>各章ごとに発表担当を決め、担当者が書籍の内容を解説し参加者同士でディスカッションします</li>\n<li>開催形式はオンライン、Zoomを使用します<ul>\n<li>録画の予定はありません</li>\n</ul>\n</li>\n</ul>\n<h2>進め方</h2>\n<h3>事前準備</h3>\n<h4>発表者</h4>\n<ul>\n<li>担当箇所を要約して解説するための資料作成</li>\n</ul>\n<p>※  会の終わりに各章の発表者を決めます</p>\n<h4>発表者以外</h4>\n<ul>\n<li>特になし</li>\n</ul>\n<h3>当日</h3>\n<ul>\n<li>発表担当が対象章の要約を解説</li>\n<li>適時、参加者からの質問／補足説明／ディスカッションなどを実施</li>\n<li>19:00開始、21:00終了</li>\n<li>Zoomは10分前までにオープンしますので余裕を持ってお繋ぎください</li>\n</ul>\n<h3>今回のターゲットと発表担当</h3>\n<table>\n<thead>\n<tr>\n<th>ターゲット</th>\n<th>担当</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>#第IV部　ビジネス要因<br>#13章 カオスエンジニアリングの費用対効果</td>\n<td>@negokaz</td>\n</tr>\n<tr>\n<td>#14章 オープンな心、オープンな科学、そしてオープンなカオス</td>\n<td>@negokaz</td>\n</tr>\n</tbody>\n</table>\n<h2>想定参加者</h2>\n<ul>\n<li>カオスエンジニアリングに興味のある方、カオスエンジニアリングで解決できるかもしれない課題と同じ課題感をお持ちの方</li>\n<li>運営者はカオスエンジニアリングの実戦経験がないため初心者向けの読書会になると思います</li>\n<li>分散システム、クラウドの知見があるとより楽しめるかも</li>\n<li>発表者として参加してもよし、ディスカッションのみの参加もよし、話を聞くだけもよし</li>\n<li>途中からの参加もOKです</li>\n</ul>\n<h2>用意していただくもの</h2>\n<ul>\n<li><a href=\"https://www.oreilly.co.jp/books/9784873119885/\" rel=\"nofollow\" title=\"https://www.oreilly.co.jp/books/9784873119885/\">O'Reilly Japan - カオスエンジニアリング</a></li>\n</ul>\n<h2>今後の開催予定</h2>\n<ul>\n<li>読み終わるまで祝日を除く毎週金曜日に開催（たまに休み）する予定です。</li>\n</ul>",
+          "link": "https://readeffectiveakka.connpass.com/event/264828/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T12:28:02.000Z",
+          "wordCount": 1030,
+          "title": "カオスエンジニアリング読書会#10",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f2/bc/f2bcbb536dba8bb826d45225ba36a7f3.png"
+        },
+        {
+          "id": "https://openhardsecurity.connpass.com/event/264827/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/29 17:40 ～ 18:30<br />開催場所: オンライン<br /><br /><h1>AVTOKYO 内イベント！</h1>\n<p>AVTOKYOは毎年開催のコンピューターセキュリティのカンファレンスイベント。今年は DAY1 がオンラインイベントになるよ！\n<a href=\"https://www.avtokyo.org/avtokyo2022/day1-events\" rel=\"nofollow\">https://www.avtokyo.org/avtokyo2022/day1-events</a></p>\n<p>そのイベント内で RaspberryPi に U-boot でブートさせてみるハンズオンをやります。\nAVTOKYO 内の 低レベル勉強会コーナーでのプログラム4です。</p>\n<h1>やること</h1>\n<p>テキスト</p>\n<p>golangで作るTCPIPプロトコル</p>\n<p>https://zenn.dev/satoken/articles/golang-tcpip</p>\n<p>実装</p>\n<p><a href=\"https://github.com/sat0ken/go-tcpip\" rel=\"nofollow\">https://github.com/sat0ken/go-tcpip</a></p>\n<h1>用意するもの</h1>\n<ul>\n<li>PC\n Windows/OSX/Linux 対応  ssh が使えればなんでもOKです。</li>\n</ul>\n<h1>低レベル勉強会コーナー</h1>\n<p>AVTOKYO 内で、以下のように開催します。\n他のプログラムもどうぞご参加ください！</p>\n<ul>\n<li>15:00-15:30 プログラム1 発表 はんだごてキットHack AVTOKYOイベントのために作ったHackのためのはんだごて。はんだごて自体のHackとは？ </li>\n<li>15:40-16:30 プログラム2 ハンズオン RaspberryPi に U-boot でブートさせてみるハンズオン! RaspberryPi が無くてもリモートで利用できるよ!  <a href=\"https://connpass.com/event/264813\" rel=\"nofollow\">https://connpass.com/event/264813</a></li>\n<li>16:40-17:30 プログラム3 発表 DAY2 用のLEDパネルキットを作って遊んでバッジ談義！</li>\n<li>17:40-18:30 プログラム4 ローレベルTCP/IP プログラミング golangでプロトコルスタックを実装してみよう <a href=\"https://connpass.com/event/264827/\" rel=\"nofollow\">https://connpass.com/event/264827/</a></li>\n</ul>\n<h1>低レベル勉強会とは</h1>\n<p>不定期で勉強会を行っています。\nローレベルなお話、レベルの低いお話、いずれもOK! 読書会をやったりハードウェアをやったり、メンバーの好きなことを提案して毎回バラエティに富んだ内容で開催しています。</p>\n<p><a href=\"https://lowleveltokyo.connpass.com/\" rel=\"nofollow\">https://lowleveltokyo.connpass.com/</a></p>",
+          "link": "https://openhardsecurity.connpass.com/event/264827/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T12:24:56.000Z",
+          "wordCount": 1065,
+          "title": "AVTOKYO内イベント！golangでプロトコルスタックを実装してみよう [低レベル勉強会]",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/2a/d4/2ad468e629ee70b0d860b7e37a5c815d.png"
+        },
+        {
+          "id": "https://chatwork.connpass.com/event/263334/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/12/02 18:00 ～ 21:00<br />開催場所: オンライン<br /><br /><div style=\"text-align: center; padding: 1.5em;\">\n  <b style=\"color: #2CB1E7; font-size: 16px;\">DDD Challenge 〜 ソフトウェア設計の能力を競う！実践型コンテスト 〜</b>\n</div>\n\n<p>いかなる種類のソフトウェア開発においても、普遍的なスキルの一つが <b style=\"color: #DA0D20;\">設計能力</b>。</p>\n<p>適切な設計は保守性の高いシステムを実現することにもつながり、開発者を助けるのみならず、事業価値の継続的な向上にも寄与することができるでしょう。</p>\n<p>今回、Chatwork 株式会社ではこの設計能力に着目して、学生エンジニア同士でそれを競い合うコンテストを開催します。根幹となるテーマは<b style=\"color: #DA0D20;\">「ドメイン駆動設計 (DDD: Domain Driven Design)」</b>です。</p>\n<p>ドメイン駆動設計に馴染みの無い方であっても、ぜひ以下の解説記事を参考にしながら、設計にチャレンジいただければ嬉しい限りです：</p>\n<ul>\n<li><strong>参考記事</strong>：<a href=\"https://github.com/j5ik2o/warikan-domain-scala/blob/master/article.md\" rel=\"nofollow\">ドメインのモデル設計を手を動かしながら学ぼう</a></li>\n</ul>\n<p>みなさまのご参加、心よりお待ちしています！</p>\n<hr>\n<p><strong>参加賞 (最終審査) 🎖️</strong></p>\n<ul>\n<li>Chatwork 公式グッズ詰め合わせ 3 点セット</li>\n<li><a href=\"https://store.chatwork.com/items/56328344\" rel=\"nofollow\">ノート PC ケース</a></li>\n<li><a href=\"https://store.chatwork.com/items/56328759\" rel=\"nofollow\">モバイルバッテリー</a></li>\n<li><a href=\"https://store.chatwork.com/items/56321739\" rel=\"nofollow\">タンブラー</a></li>\n</ul>\n<p><strong>最優秀賞 (最終審査) 🏆</strong></p>\n<ul>\n<li>36,000 円相当の 3 種類の景品から、お好きのものを 1 つ (チーム全員にそれぞれ)</li>\n<li>※ 写真はあくまで一例であり、金額の収まる範囲でメーカーや型番は希望可能です</li>\n</ul>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1A3qGtEVDg-BBV0rynspm4nFo6jxPeze0\"></p>\n<p>※ 参加賞 / 最優秀賞の景品引き渡しに際して、学生証を確認させていただく場合がございます</p>\n<hr>\n<p><strong>最終審査タイムテーブル</strong></p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時刻</th>\n<th align=\"left\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">18:00 - 18:15</td>\n<td align=\"left\">オープニングトーク</td>\n</tr>\n<tr>\n<td align=\"left\">18:15 - 18:50</td>\n<td align=\"left\">チーム A 発表 / Q &amp; A</td>\n</tr>\n<tr>\n<td align=\"left\">18:50 - 19:25</td>\n<td align=\"left\">チーム B 発表 / Q &amp; A</td>\n</tr>\n<tr>\n<td align=\"left\">19:25 - 20:00</td>\n<td align=\"left\">チーム C 発表 / Q &amp; A</td>\n</tr>\n<tr>\n<td align=\"left\">20:00 - 20:30</td>\n<td align=\"left\">参考実装解説</td>\n</tr>\n<tr>\n<td align=\"left\">20:30 - 20:45</td>\n<td align=\"left\">最優秀チーム発表</td>\n</tr>\n<tr>\n<td align=\"left\">20:45 - 21:00</td>\n<td align=\"left\">クロージングトーク</td>\n</tr>\n</tbody>\n</table>\n<h2>参加レギュレーション</h2>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1vHawDqnVZVZj1A3YK6HyxybKFKWiB5Bi\"></p>\n<ul>\n<li><strong>一次審査</strong>：<ul>\n<li><b style=\"color: #DA0D20;\">1 チーム 3 名まで</b> の制限のもと、11/18 (金) 23:59 までに <b style=\"color: #DA0D20;\">チーム代表者のみエントリー</b> をお願いします</li>\n<li>エントリーに際して、開発用の GitHub Repository を登録してください<ul>\n<li>※ エントリー時点では Private Repository で構いません</li>\n</ul>\n</li>\n<li><b style=\"color: #DA0D20;\">参加者への情報に記載のお題</b> に沿って、開発用の GitHub Repository で開発を行っていただきます<ul>\n<li>※ 開発に用いるプログラミング言語は任意です</li>\n</ul>\n</li>\n<li><b style=\"color: #DA0D20;\">11/20 (日) 23:59 までの Commit 履歴</b> に対して、11/21 (月) 〜 11/25 (金) の期間で一次審査を行います<ul>\n<li>※ このタイミングで、必ず Public Repository へと変更してください</li>\n<li>※ GitHub Repository が審査期間に閲覧できない場合、審査の対象外となります</li>\n</ul>\n</li>\n<li>エントリーしたチームから、上位 3 チームを最終審査へご招待します<ul>\n<li>※ 11/25 (金) に、最終審査へ招待するチームを発表します</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><strong>最終審査</strong>：<ul>\n<li>12/02 (金) に、1 チームあたり 15 分のプレゼンをしていただきます<ul>\n<li>※ 様式，アピール内容ともに自由です</li>\n</ul>\n</li>\n<li>審査員との Q &amp; A を最大 20 分行います</li>\n<li>プレゼンおよび Q &amp; A の内容に基づいて、最優秀チームを決定します</li>\n</ul>\n</li>\n</ul>\n<h2>日時・場所</h2>\n<ul>\n<li><strong>日時：</strong>2022/12/02 (金) 18:00 〜 21:00</li>\n<li><strong>場所：</strong>オンライン開催 (Zoom Webinar)</li>\n</ul>\n<p>オンラインでの開催となりますので、<b style=\"color: #DA0D20;\">\"参加者への情報\" に記載の URL</b> から、Zoom Webinar へご参加ください。</p>\n<h2>審査員プロフィール</h2>\n<p><img height=\"200\" src=\"https://drive.google.com/uc?export=view&amp;id=1Ythvlv4Wx-mOX1RqS6rbJMUMLLfPjmUq\" width=\"200\"></p>\n<p><strong>加藤 潤一 (a.k.a かとじゅん)</strong></p>\n<ul>\n<li>Twitter: <a href=\"https://twitter.com/j5ik2o\" rel=\"nofollow\">@j5ik2o</a></li>\n</ul>\n<p>Chatwork 株式会社テックリード。10 歳で初めてプログラミングに触れる。</p>\n<p>SIer としてさまざまな現場での業務を経験した後、2011 年より某 D 社、2013 年より大手ソーシャルゲーム企業で、それぞれ Scala やドメイン駆動設計を採用したシステム開発に従事。</p>\n<p>2014 年 7 月より Chatwork に参画。現在は Chatwork 次期アーキテクチャのプランニングや設計、開発に携わる。</p>\n<h2>主催団体</h2>\n<p><img alt=\"Chatwork 株式会社\" src=\"https://drive.google.com/uc?export=view&amp;id=1GOqJKrTam09HHv6J3tkWfjp9kXmgPaff\"></p>\n<p><strong>働くをもっと<span style=\"color: #F03748;\">楽しく</span>、<span style=\"color: #F03748;\">創造的</span>に</strong></p>\n<p><a href=\"https://recruit.chatwork.com/\" rel=\"nofollow\">https://recruit.chatwork.com/</a></p>\n<p>会議、電話、メール、訪問。誰もが当たり前と思っていたコミュニケーションを見直せば、より楽しく創造的な働き方にできる。\n社会が必要としていることを自分の得意分野で実現し、報酬が得られるような働き方をもっと増やしていきたい。\n私たちが目指す世界のビジョン「すべての人に、一歩先の働き方を」実現するために、チャレンジし続けています。</p>\n<h2>留意事項</h2>\n<p>ご参加者の方々が最大限楽しんで頂けるよう、運営サイドで参加にふさわしくないと判断させて頂いた方についてはご退席をお願いすることがございます：</p>\n<ul>\n<li>宗教、ネットワークビジネスなどの勧誘が目的と見られる方</li>\n<li>その他運営サイドで参加が不適切だと判断した方</li>\n</ul>\n<p>個人情報取り扱いについてのご案内：</p>\n<ul>\n<li>参加申込時に収集する個人情報は、本イベントおよびその他 Chatwork 株式会社のご案内のために利用いたします</li>\n<li>プライバシーポリシーの詳細は以下をご確認ください<ul>\n<li><a href=\"https://go.chatwork.com/ja/privacy/\" rel=\"nofollow\">https://go.chatwork.com/ja/privacy/</a></li>\n</ul>\n</li>\n</ul>",
+          "link": "https://chatwork.connpass.com/event/263334/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T12:21:59.000Z",
+          "wordCount": 1621,
+          "title": "【学生限定】DDD Challenge 2022",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/51/52/5152684883d50eb4956fc9545df47fda.png"
+        },
+        {
+          "id": "https://openhardsecurity.connpass.com/event/264813/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/10/29 15:40 ～ 16:30<br />開催場所: オンライン<br /><br /><h1>AVTOKYO 内イベント！</h1>\n<p>AVTOKYOは毎年開催のコンピューターセキュリティのカンファレンスイベント。今年は DAY1 がオンラインイベントになるよ！\n<a href=\"https://www.avtokyo.org/avtokyo2022/day1-events\" rel=\"nofollow\">https://www.avtokyo.org/avtokyo2022/day1-events</a></p>\n<p>そのイベント内で RaspberryPi に U-boot でブートさせてみるハンズオンをやります。\nAVTOKYO 内の 低レベル勉強会コーナーでのプログラム2です。</p>\n<h1>やること</h1>\n<ul>\n<li>オンラインサーバー上に用意した、 RaspberyPi 用の クロス開発環境にログインします。</li>\n<li>ターゲットを RaspberryPi 3 とし、Linux ブートの一連の仕組みを構築します。</li>\n<li>U-boot / vmlinuz / initramfs を作って RaspberryPi 3 でブートします。</li>\n<li>主催者の手元の RaspberryPi に起動イメージを転送してブートを試します。</li>\n<li>自分で RaspberryPi 3 をお持ちの方はそれを使ってもOKです。</li>\n</ul>\n<p>テキストは以下を使います。\n<a href=\"https://qiita.com/nanbuwks/items/a9bf90fcd38af8adb73a\" rel=\"nofollow\">https://qiita.com/nanbuwks/items/a9bf90fcd38af8adb73a</a></p>\n<h1>用意するもの</h1>\n<ul>\n<li>PC\n Windows/OSX/Linux 対応  ssh が使えればなんでもOKです。</li>\n</ul>\n<h1>低レベル勉強会コーナー</h1>\n<p>AVTOKYO 内で、以下のように開催します。\n他のプログラムもどうぞご参加ください！</p>\n<ul>\n<li>15:00-15:30 プログラム1 発表 はんだごてキットHack AVTOKYOイベントのために作ったHackのためのはんだごて。はんだごて自体のHackとは？ </li>\n<li>15:40-16:30 プログラム2 ハンズオン RaspberryPi に U-boot でブートさせてみるハンズオン! RaspberryPi が無くてもリモートで利用できるよ!  <a href=\"https://connpass.com/event/264813\" rel=\"nofollow\">https://connpass.com/event/264813</a></li>\n<li>16:40-17:30 プログラム3 発表 DAY2 用のLEDパネルキットを作って遊んでバッジ談義！</li>\n<li>17:40-18:30 プログラム4 ローレベルTCP/IP プログラミング golangでプロトコルスタックを実装してみよう テキスト <a href=\"https://lowleveltokyo.connpass.com/event/249747/\" rel=\"nofollow\">https://lowleveltokyo.connpass.com/event/249747/</a></li>\n</ul>\n<h1>低レベル勉強会とは</h1>\n<p>不定期で勉強会を行っています。\nローレベルなお話、レベルの低いお話、いずれもOK! 読書会をやったりハードウェアをやったり、メンバーの好きなことを提案して毎回バラエティに富んだ内容で開催しています。</p>\n<p><a href=\"https://lowleveltokyo.connpass.com/\" rel=\"nofollow\">https://lowleveltokyo.connpass.com/</a></p>",
+          "link": "https://openhardsecurity.connpass.com/event/264813/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-28T12:10:48.000Z",
+          "wordCount": 1150,
+          "title": "AVTOKYO内イベント！ RaspberryPi のブート環境をビルドしてみよう[低レベル勉強会]",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/90/74/907455db5ead27822d89bbb6bf0a40a8.png"
+        },
         {
           "id": "https://fusic.connpass.com/event/264767/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
