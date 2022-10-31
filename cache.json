@@ -6,6 +6,96 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "45dce3824f2db8879bfbd5caf76191a207d5d26c",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudFormation では、「AWS::LanguageExtensions」という言語変換を AWS GovCloud (米国) リージョンでも利用できるようになりました。テンプレートで宣言すると、この言語変換によって AWS CloudFormation のテンプレート言語の拡張が可能になります。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/",
+          "publishedOn": "2022-10-31T14:17:27.000Z",
+          "wordCount": 342,
+          "title": "AWS CloudFormation の言語拡張機能の変換が AWS GovCloud で利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "737845f3604ad827e9dc52e5fa44a08e2a574c53",
+          "author": "aws@amazon.com",
+          "description": "Amazon DevOps Guru によって分析されたリソースの一覧を DevOps Guru コンソールに表示させてフィルタリングできるようになりました。[分析されたリソース] ページでリソースの一覧を表示させて、リソース名、DevOps Guru タグ名 (またはタグ値)、CloudFormation スタック名、AWS Service 名で並べ替えやフィルタリングが行えるようになりました。必要に応じて、Amazon リソースネーム (ARN) が記載された CSV ファイル形式のリストをダウンロードできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-devops-guru-provides-list-view-resources-analyzed/",
+          "publishedOn": "2022-10-31T14:11:27.000Z",
+          "wordCount": 335,
+          "title": "Amazon DevOps Guru が分析されたリソースの一覧表示の提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "bbac8b2d8d130cdf7321acabfc1a77defc5d04b9",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS Service Management Connector for ServiceNow (バージョン 4.7.5) を使用して、ServiceNow サービスポータルのアカウントとリージョンによって AWS Service Catalog ポートフォリオの表示を合理化できます。この機能によって ServiceNow サービスポータルのエンドユーザーは、複数のアカウントとリージョンで共有されたポートフォリオへのアクセス権があれば、適切な AWS Service Catalog 製品を特定してドリルダウンすることができます。これまでは、ドリルダウン機能はポートフォリオ名に制限されていました。本バージョンでは、AWS Systems Manager Incident Manager 統合のオープンインシデント用のフィルターナビゲーターモジュールを追加し、AWS インシデントのコメントとしてタイムラインイベントをユーザーが読みやすい形式で表示することも可能になりました。AWS サポート統合では、カスタムビジネスワークフローを活用したサポートケースの管理を望むユーザー向けに、中間テーブルにサポートケースを作成するオプションの設定が導入されました。AWS Service Management Connector は東京 (T)、サンディエゴ (S)、ローマ (R) の最新の ServiceNow リリースに対応しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/",
+          "publishedOn": "2022-10-31T14:05:26.000Z",
+          "wordCount": 403,
+          "title": "AWS Service Management Connector が ServiceNow サービスポータルのアカウントとリージョンによって AWS Service Catalog 製品の表示を合理化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "919855a1fd88531d63668c87ce827f170b560df7",
+          "author": "aws@amazon.com",
+          "description": "AWS Panorama のお客様は、AWS Panorama アプライアンスにデプロイされたアプリケーションにおいて、AWS Panorama API を使用して既存のカメラストリーム接続を一時停止および再開できるようになりました。Panorama アプライアンスを複数のサイトにデプロイするお客様は、個々のカメラストリームを管理するために、アプリケーションのデプロイ全体でオーバーヘッドのない、スケーラブルな方法を必要としています。この機能を使用すると、お客様は冗長なカメラストリーム間のフェイルオーバーを実現できるため、高可用性の要件を満たすことができます。また、ビジネスニーズを満たすために、複数のカメラストリームを動的に切り替えることもできます。詳細については、AWS Panorama のドキュメントをご覧ください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/",
+          "publishedOn": "2022-10-31T11:05:26.000Z",
+          "wordCount": 321,
+          "title": "AWS Panorama でカメラストリームの一時停止と再開が可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "9ad12b7175906d317fceb894c159e0264b07f173",
+          "author": "aws@amazon.com",
+          "description": "デジタルコンテンツを作成、共有、充実させるためのフルマネージド型製品である Amazon WorkDocs は本日、Apple Silicon (M1、M2) との互換性がある WorkDocs Drive の一般提供を発表しました。WorkDocs の Apple Silicon サポートにより、Apple Silicon MacBook を使用しているお客様は、デバイスに WorkDocs ファイルを簡単にインストールして同期できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-workdocs-support-apple-silicon-macbooks/",
+          "publishedOn": "2022-10-31T10:59:26.000Z",
+          "wordCount": 326,
+          "title": "Amazon WorkDocs が Apple Silicon MacBook のサポートを追加",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "5061d6457d495590b54fe6e916005f546607afc7",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Email Service (Amazon SES) は、専用 IP (マネージド型) の新しいモデルのリリースを発表しました。これは、お客様が専用 IP のプロビジョニングと管理に関連する面倒な作業をすべて行うことなく、専用 IP アドレスによって送信レピュテーションを向上させ、管理、維持するのに役立ちます。Amazon SES は、デジタルマーケティング担当者やアプリケーションデベロッパーがマーケティング、通知、トランザクションに関する E メールを任意のアプリケーションで送信できるようにする、費用対効果の高い、柔軟でスケーラブルなクラウドベースの E メールサービスです。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-ses-model-provisioning-managing-dedicated-ips/",
+          "publishedOn": "2022-10-31T10:53:26.000Z",
+          "wordCount": 345,
+          "title": "Amazon SES が専用 IP のプロビジョニングと管理を簡素化する新モデルの提供を開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "6844e2cbcc470b8aaff8d72df1e2478eae781349",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudWatch Application Insights は、アプリケーションレベルのヘルスダッシュボードを自動生成するようになりました。Application Insights は、AWS リソースのモニタリングと高度なオブザーバビリティを自動的に設定するのに役立ちます。新しいヘルスダッシュボードを使用すると、アプリケーションのすべての側面を一元的に表示できるため、問題を簡単かつ迅速に表示、並べ替え、検索できます。視覚的な手がかりがあると、潜在的な問題の診断と解決がすばやく行えます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/visualize-application-health-amazon-cloudwatch-application-insights/",
+          "publishedOn": "2022-10-31T10:47:26.000Z",
+          "wordCount": 305,
+          "title": "Amazon CloudWatch Application Insights でアプリケーションの健全性を可視化する",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0f3b291d67d4430cb10c7cac295eb7832aeb6026",
+          "author": "aws@amazon.com",
+          "description": "Amazon Lex は、音声やテキストを使用して、任意のアプリケーションに対話型インターフェイスを構築するためのサービスです。Amazon Lex を使用すると、高度な自然言語による会話型ボット (\"chatbot\")、仮想エージェント、IVR システムをすばやく簡単に構築できます。本日、Amazon Lex は FreeFormInput 組み込みスロットタイプをリリースします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/announcing-freeforminput-slot-type-amazon-lex/",
+          "publishedOn": "2022-10-31T10:41:26.000Z",
+          "wordCount": 298,
+          "title": "Amazon Lex の FreeFormInput スロットタイプの発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "821d9268ac2abe79ed18af5cc4a89352136df793",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Queue Service (SQS) は、FIFO キューの高スループットモードにおけるデフォルトクォータ引き上げの一般提供を発表しました。これにより、米国東部 (オハイオ)、米国東部 (バージニア北部)、米国西部 (オレゴン)、欧州 (アイルランド)、欧州 (フランクフルト) リージョンでは、API アクションごとに 1 秒あたり最大 6,000 トランザクションを処理できるようになります。アジアパシフィック (ムンバイ)、アジアパシフィック (シンガポール)、アジアパシフィック (シドニー)、アジアパシフィック (東京) リージョンでは、API アクションごとのデフォルトスループットクォータが 1 秒あたり 3,000 トランザクションに引き上げられました。これは、現在の SQS FIFO キュースループットクォータと比較して、2 倍に増加しています。リージョンごとのデフォルトのスループットクォータの詳細な内訳については、SQS のドキュメントを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-ht-mode-6000-transactions-per-second-tps/",
+          "publishedOn": "2022-10-31T10:35:28.000Z",
+          "wordCount": 366,
+          "title": "Amazon SQS が FIFO 高スループット (HT) モードのスループットクォータを最大 6,000 トランザクション/秒 (TPS) に引き上げることを発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "efdc7fb35a1f804aa88784716036465a29e42170",
           "author": "aws@amazon.com",
           "description": "AWS の量子コンピュータサービスである Amazon Braket は、量子コンピューティングの研究とソフトウェア開発を加速させることを目的としています。本日、パルスレベルの量子プログラムを実行するための新機能である Braket Pulse をリリースし、Rigetti Computing と Oxford Quantum Circuits (OQC) の超伝導量子プロセッサへのパルスレベルのアクセスのサポートを追加しました。今回のリリースにより、Braket のユーザーはゲート、パルス、または両方の組み合わせを使用して量子プログラムのコーディングするオプションを得て、選択肢が増え、さらに研究を深めることができるようになりました。",
@@ -3866,6 +3956,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/openjdkgraalvmopenjdk.html",
+          "author": null,
+          "description": "オラクルは先月（2022年10月）に米ラスベガスで開催したJavaOne 2022で、GraalVM CEのJava関連コードをOpenJDKコミュニティに寄贈すると発表しました。 Excited about @GraalVM JIT an...",
+          "link": "https://www.publickey1.jp/blog/22/openjdkgraalvmopenjdk.html",
+          "publishedOn": "2022-10-31T19:09:24.000Z",
+          "wordCount": 1359,
+          "title": "オラクル、OpenJDKに静的なネイティブイメージの生成機能を組み込む方針を明らかに。GraalVMのOpenJDKへのコントリビュートで",
+          "imageUrl": "https://www.publickey1.jp/2022/javavm_graal_aotc.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/sqlitewebassemblysqlite3_wasmjs.html",
           "author": null,
           "description": "SQLiteの公式Webサイトに、SQLite3をWebAssembly化した「SQLite3 WASM/JS」プロジェクトのページが公開されました。 これまでさまざまなWebAssembly版SQLiteの試みが行われてきたなかで、初めて...",
@@ -4553,6 +4653,26 @@
       "siteUrl": "https://www.technologyreview.jp",
       "articles": [
         {
+          "id": "https://www.technologyreview.jp/?p=289214",
+          "author": "Paris Marx",
+          "description": "気候変動の解決策として、内燃機関を使用する従来の自動車から、電気自動車への転換が必要とされている。だが、それだけですべての問題が解決するわけではない。大型化をやめ、もっと小さくて安全な車両を推進すべきだ。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
+          "link": "https://www.technologyreview.jp/s/289214/cars-are-still-cars-even-when-theyre-electric/",
+          "publishedOn": "2022-10-31T21:56:52.000Z",
+          "wordCount": 1161,
+          "title": "主張：EV移行を機に自動車業界は「大型化」をやめるべきだ",
+          "imageUrl": "https://cdn.technologyreview.jp/wp-content/uploads/sites/2/2022/10/26182004/AP21322010887951-crop-1400x787.jpeg"
+        },
+        {
+          "id": "https://www.technologyreview.jp/n/2022/10/31/289488/",
+          "author": "MIT Technology Review Japan",
+          "description": "",
+          "link": "https://www.technologyreview.jp/n/2022/11/01/289488/",
+          "publishedOn": "2022-10-31T21:50:12.000Z",
+          "wordCount": 692,
+          "title": "脳型AI新理論を提案、脳のシナプスの「揺らぎ」に着想＝京大など",
+          "imageUrl": "https://www.technologyreview.jp/wp-content/themes/technologyreview/img/thumbnail_newsflash.png"
+        },
+        {
           "id": "https://www.technologyreview.jp/?p=288700",
           "author": "James Temple",
           "description": "ビル・ゲイツは、気候変動に特化した「ブレークスルー・エナジー」ファンドの設立当初、投資先が見つからないことを懸念していたという。同ファンドが主催した会議で、楽観的な見通しを語った。 \t\t\n\r\nこちらは会員限定の記事です。\nメールアドレスの登録で続きを読めます。\r\n\r\n\r\n会員登録して読む\n\r\nログインして読む\n\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nこちらは有料会員限定の記事です。\n有料会員になると制限なしにご利用いただけます。\r\n\r\n\r\n有料会員にはメリットがいっぱい！\r\n\r\n\r\n毎月120本以上更新されるオリジナル記事で、人工知能から遺伝子療法まで、先端テクノロジーの最新動向がわかる。\n\r\nオリジナル記事をテーマ別に再構成したPDFファイル「eムック」を毎月配信。\n重要テーマが押さえられる。\n\r\n各分野のキーパーソンを招いたトークイベント、関連セミナーに優待価格でご招待。\n\r\n\r\n\r\n有料プランの詳細を見る",
@@ -5219,6 +5339,106 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/265121/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/09 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/265121/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T18:34:02.000Z",
+          "wordCount": 889,
+          "title": "11/9(水)【第1481回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/265120/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/09 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)</p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/265120/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T18:32:27.000Z",
+          "wordCount": 889,
+          "title": "11/9(水)【第1480回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://tech-union.connpass.com/event/265115/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 21:00 ～ 23:00<br />開催場所: (場所未定)<br /><br /><p>特に決まりはありません。もくもくする人、喋りたい人、私のもくもくの邪魔をしたい人（他の参加者の方の邪魔をする時はちゃんと同意を取ってください。私は一向に構いません。）お待ちしております。</p>",
+          "link": "https://tech-union.connpass.com/event/265115/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T17:16:33.000Z",
+          "wordCount": 856,
+          "title": "第36回平日夜オンラインもくもく",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/65/c4/65c4dc890271a324cd3bb720cef69478.png"
+        },
+        {
+          "id": "https://connpass.com/event/265112/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/02 21:30 ～ 22:30<br />開催場所: オンライン<br /><br /><p>情報管理できていますか？</p>\n<p>このIT社会で様々はシステムがある中、皆さんどのように\n情報管理していますでしょうか？</p>\n<p>個人情報、パスワードなど\nちゃんと管理できますか？</p>\n<p>SE歴20年の私が今のIT情報やセキュリティの考え方等\n基本的なことからエンジニア視点で色々な情報を\nお届けします。</p>\n<p>これでITリテラシー爆上げ間違いなしです！</p>",
+          "link": "https://connpass.com/event/265112/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T16:23:16.000Z",
+          "wordCount": 877,
+          "title": "ITリテラシーを爆上げ、SEが教えるセキュリティの事",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
+        {
+          "id": "https://jasst-nano.connpass.com/event/263810/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/15 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>JaSST nano とは</h1>\n<h2>小さな小さな、最も発表のハードルの低いJaSSTです。</h2>\n<p>JaSST（ソフトウェアテストシンポジウム）は東京を始めいくつかの地域で発表を募集していますが、なんだか審査もあるみたいだし、ちょっとハードルが高いという声を耳にします。そこで、誰でも気軽にトークできる小さな小さなJaSSTを始めてみることにしました。</p>\n<p>名前は「<a href=\"https://www.swtest.jp/index.php?JaSSTnano\" rel=\"nofollow\">JaSST nano</a>」です。「こんな気軽でもJaSSTなの！？」という意味合いで名付けました。</p>\n<p>1ヶ月に1度、19:00から1～2時間、オンラインで開催します。現時点では第3火曜日です。テーマはソフトウェアのテストやQA、品質に関することなら何でも構いません。レベルとか質とか関係ありません。話したい人が話したいだけ話す、という趣旨です。発表したい人は5分から90分まで好きな時間で<a href=\"https://www.swtest.jp/index.php?JaSSTnano\" rel=\"nofollow\">申し込んでください</a>。</p>\n<p>ツールベンダや第三者検証会社など商売っ気のある方は、申し込みの前に<a href=\"https://www.swtest.jp/index.php?JaSSTnano/%A1%D6%B5%BB%BD%D1%C5%AA%A4%CB%B2%C1%C3%CD%A4%A2%A4%EB%C6%E2%CD%C6%A1%D7\" rel=\"nofollow\">JaSSTnano/「技術的に価値ある内容」</a>をお読みください。</p>\n<p>詳細はおいおい決めていきます。こんなのはどう、というアイデアがあればぜひぜひ教えてくださいね。 (^_^)</p>\n<p>質問や希望、意見、アイデアなどは気軽に<a href=\"https://www.swtest.jp/index.php?JaSSTnano/%BC%C2%B9%D4%B0%D1%B0%F7%B2%F1\" rel=\"nofollow\">JaSSTnano/実行委員会</a>の誰かまで。</p>\n<h1>参加費・方法</h1>\n<ul>\n<li>参加費は無料です。どなたでもご参加いただけます。</li>\n<li>本ページから参加申し込みください。</li>\n<li>zoom等のオンライン会議ツールを利用します。リンク情報は申し込み後に当ページに表示される「参加者への情報 」に掲載します。</li>\n</ul>\n<h1>注意事項</h1>\n<ul>\n<li>通信環境やツールのサポートなどは行いません。参加者各自の責任でご対応願います。</li>\n<li>予告なく、プログラムの変更や日時変更が行われる場合があります。</li>\n<li>発表者がここだけの話といった内容については心の中だけにとどめてください。</li>\n<li>お世話係軍団は全員手弁当です。不手際などもあるかもしれませんが、広い心で見守っていただけますと幸いです。</li>\n</ul>\n<h1>プログラム</h1>\n<p>次のプログラムで進行予定です。</p>\n<p>※状況によって発表順番は入れ替わったり中止になったりすることもあります。</p>\n<p>発表者募集中なの。 (^_^)</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\"></th>\n<th align=\"left\">発表タイトル</th>\n<th align=\"left\">お名前</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">1</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">2</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">3</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">4</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">5</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">6</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">7</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">8</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n<tr>\n<td align=\"left\">9</td>\n<td align=\"left\"></td>\n<td align=\"left\"></td>\n</tr>\n</tbody>\n</table>\n<h1>発表者の方へのお願い</h1>\n<p>スライド作成時は、ご自身が気持ちよく発表でき、参加者が気持ちよく聴講できるように、次のようなことに気を付けていただくと良いかと思います 。(^_^)</p>\n<ul>\n<li>著作権を犯していないか（漫画やスクリーンショット、写真やイラスト等を無許可利用していないか）</li>\n<li>所属の機密、機微な個人情報が含まれていないか</li>\n<li>ハラスメント、ダイバーシティ等が考慮されているか</li>\n<li>輸出管理の規定に抵触している内容がないか</li>\n<li>その他、諸権利を侵害していないか、公序良俗に反する内容になっていないか、等</li>\n</ul>\n<h1>JaSST イベント行動規範</h1>\n<p>JaSSTでは行動規範を定めています。\n参加者すべてが気持ちよい時間を過ごせるように、参加者の方々はご一読いただき規範に従っていただきますようお願いいたします。</p>\n<p>★<a href=\"http://www.jasst.jp/code-of-conduct_jp.html\" rel=\"nofollow\">JaSST イベント行動規範</a></p>\n<h1>関連サイト</h1>\n<ul>\n<li><a href=\"https://www.swtest.jp/index.php?JaSSTnano\" rel=\"nofollow\">JaSST nano 公式</a></li>\n<li><a href=\"http://www.jasst.jp/\" rel=\"nofollow\">JaSST 公式</a></li>\n<li><a href=\"http://aster.or.jp/\" rel=\"nofollow\">ASTER公式</a></li>\n</ul>",
+          "link": "https://jasst-nano.connpass.com/event/263810/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T15:00:54.000Z",
+          "wordCount": 1131,
+          "title": "JaSST nano vol.18",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/49/9b/499bf07a0939f7f969987d4cf3d5d0ee.png"
+        },
+        {
+          "id": "https://techmath-seminar.connpass.com/event/265111/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/28 19:00 ～ 21:00<br />開催場所: 大阪府大阪市中央区河原町4-3-9 ユーロハイツ本町302<br /><br /><h1>てくますゼミとは</h1>\n<p>大阪の「IT × 数学」領域の学習コミュニティです。少人数であーだこーだ議論しながら、考える楽しさを分かち合う、ゼミのようなコミュニティを目指しています。主な活動は隔週の輪読会です。</p>\n<h1>輪読の方法について</h1>\n<p>回ごとに発表担当者を交代していきます。メンバー全員で発表担当者を回します。各回、発表担当者は２名です。発表担当者は担当範囲について説明できるように事前準備をする必要があります。なお、輪読会は対面で行います。</p>\n<h1>書籍『AIエンジニアを目指す人のための機械学習入門』について</h1>\n<p>この書籍は、機械学習を初めて学ぶ方向けの入門書です。教師あり学習や教師なし学習の各手法について、実装のみでなく、アルゴリズムのこころまで説明されています。全８回で読み終えることを目標とします。</p>\n<h1>スケジュール</h1>\n<p>2022/09/05（月）　第１回　1.1〜2.3<br>\n2022/09/26（月）　第２回　2.4〜2.5<br>\n2022/10/17（月）　第３回　2.6〜2.7<br>\n2022/10/31（月）　第４回　2.8〜3.2<br>\n2022/11/14（月）　第５回　3.3〜3.4<br>\n2022/11/28（月）　第６回　4.1～4.3（今回）<br>\n2022/12/12（月）　第７回　4.4～4.5<br>\n2022/12/26（月）　第８回　5.1〜5.5  </p>\n<p>（基本は隔週月曜）</p>\n<h1>参加対象者</h1>\n<p>１．輪読に参加できる方。  <br>\n２．機械学習をはじめとした「IT × 数学」領域に興味がある方。<br>\n３．「考える楽しさを分かち合う」というコンセプトを理解していただける方。<br>\n（お試し参加も可能です。）</p>\n<h1>主催について</h1>\n<p>ゆっきん <a href=\"https://twitter.com/yukkin_eng\" rel=\"nofollow\">@yukkin_eng</a> <br>\n理学部数学科卒業→高校数学教諭６年→SE３年<br>\nエンジニアとして働いていますが、機械学習については初学者です。共に学ぶ同志を求めて、ゼミ会を企画しました。よろしくお願いします。</p>",
+          "link": "https://techmath-seminar.connpass.com/event/265111/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T14:47:46.000Z",
+          "wordCount": 960,
+          "title": "【輪読会】『AIエンジニアを目指す人のための機械学習入門』#6",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/5f/e3/5fe3dd8d7ba580319b2e48d3675f1243.png"
+        },
+        {
+          "id": "https://gdgkyoto.connpass.com/event/265089/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/22 20:00 ～ 21:30<br />開催場所: オンライン<br /><br /><h1>開催概要</h1>\n<p>Google は Android 初級者と中級者向けに、コミュニティと一緒に学ぶ無料のオンラインプログラム「<a href=\"https://developer.android.com/compose-camp\" rel=\"nofollow\">Compose Camp</a>」を 2022 年 10 月 4 日（火）から 12 月 23 日（金）の期間中に開催します。 </p>\n<p>本プログラムはオンライン学習ツール <a href=\"https://developers.google.com/learn/pathways\" rel=\"nofollow\">Pathways</a> を用いて、コミュニティで一緒に学ぶ、無料のオンライプログラムです。 \n今回は初級者向けと中級者向けの 2 トラックよりお選びいただけます。</p>\n<ul>\n<li><a href=\"https://developer.android.com/courses/android-basics-compose/course\" rel=\"nofollow\">初級者向け : Compose を用いた Android アプリ開発</a></li>\n<li><a href=\"https://developer.android.com/courses/jetpack-compose/course\" rel=\"nofollow\">中級者向け : Android デベロッパー向けの Jetpack Compose</a></li>\n</ul>\n<h2>開催日時</h2>\n<ul>\n<li>日時: 2022年11月22日（火） 20:00 〜 21:30 </li>\n<li>場所：Google Meet</li>\n<li>参加費：無料</li>\n<li>主催: GDG京都</li>\n</ul>\n<p>※参加登録いただいた方に、後日メールにてGoogle MeetのURL等ご連絡いたします。</p>\n<h1>Compose Camp の流れ</h1>\n<ol>\n<li><a href=\"https://rsvp.withgoogle.com/events/asj-japan2\" rel=\"nofollow\">Compose Camp</a>ウェブサイト上部の \"Register\" ボタンから参加登録</li>\n<li>（<a href=\"https://developers.google.com/profile/\" rel=\"nofollow\">Google Developers Profile</a> をお持ちでない場合）Google Developers アカウントのセットアップ \n <a href=\"https://developers.google.com/\" rel=\"nofollow\">https://developers.google.com/</a> へアクセスし、<a href=\"https://developers.google.com/profile/\" rel=\"nofollow\">Developer Profile</a>  を作成いただけます。</li>\n<li>初級者向けまたは中級者向け Pathway を完了しましょう。</li>\n</ol>\n<h1>スケジュール</h1>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>20:00 - 20:10</td>\n<td>簡単な挨拶</td>\n</tr>\n<tr>\n<td>20:10 - 21:30</td>\n<td>Compose Campもくもく</td>\n</tr>\n</tbody>\n</table>\n<h1>注意事項</h1>\n<ul>\n<li>スケジュール、内容は変更となる場合があります。</li>\n<li>本イベントの内容は後日、主催団体のブログ・YouTube等の媒体にて紹介する可能性があります。その際、ご参加者名やアイコン等が写った画像（キャプチャなど）も紹介されることがあります。予めご了承ください。</li>\n<li>悪天候等により、運営事務局の判断にてイベントを中止する場合があります。</li>\n<li>参加を辞退する場合は、詳細ページより申込のキャンセルをお願い致します。</li>\n<li>無断キャンセル・欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。何卒ご理解とご協力をお願い致します。 </li>\n<li>本イベントは技術交流が目的です。 知識の共有や参加者同士の交流を目的としない方の参加はお断りします。 参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。</li>\n</ul>\n<h3>アンチハラスメントポリシー</h3>\n<p>ハラスメントとは、性差、性同一性と表現、性的指向、障害、外見や身体的特徴、人種、宗教、公共な場での性的な画像や類する表現、脅迫、ストーカ、望まない写真撮影や録音・録画、不適切な接触、およびそれらに関連した不快な言動が含まれます。 </p>\n<ul>\n<li>GDGでは全ての参加者がナレッジ共有に集中できるよう、これらのハラスメント行為を許容しません。</li>\n<li>ナレッジの共有、参加者同士の交流を目的としない参加はお断りしております。</li>\n<li>参加目的が不適切だと判断される場合、運営側で参加をキャンセルさせていただきます。 </li>\n</ul>\n<p>会場または配信コンテンツ上だけでなく、本イベントの内容や状況についてブログやSNSなどで公開、コメントなどいただく際にも、これらハラスメント行為がないようご留意ください。\n万が一、ハラスメント行為を見聞きした参加者は、お手数ですがGDG京都運営までご一報ください。</p>\n<h3>Code of Conduct</h3>\n<p>GDGでは、みんなが楽しく参加できるようにイベントでの行動規範を定めています。<br>\nイベントに参加される方はご一読ください。 </p>\n<ul>\n<li><a href=\"https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U/edit?usp=sharing\" rel=\"nofollow\">日本語版</a></li>\n<li><a href=\"https://docs.google.com/document/d/1-7LIUn4iy4Dw3YKwVbkSLXKUv0J3g54uTVUFqVXRYuI/edit?usp=sharing\" rel=\"nofollow\">English</a></li>\n</ul>",
+          "link": "https://gdgkyoto.connpass.com/event/265089/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T14:27:09.000Z",
+          "wordCount": 1196,
+          "title": "Compose Campもくもく会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/22/0b220871e8b034fa8a0f664d5d691b71.png"
+        },
+        {
+          "id": "https://morimori.connpass.com/event/265110/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/08 07:00 ～ 08:00<br />開催場所: オンライン<br /><br /><p>一人じゃどうにも捗らない、、」という方向けの、<br>\nジャンル問わずどなたでも参加できる朝活会です。</p>\n<p>資格の勉強をしてもよし、ポートフォリオを作ってもよし、<br>\n積読の解消のため読書の時間にしてよし。</p>\n<p>日頃なかなか進められないことに着手する時間としてお使いください！<br>\n遅れて参加も、途中退室も自由です！\nやっぱり参加できなかった、という場合も\n特にご連絡は必要ありません。</p>\n<p><br></p>\n<h2>■開催概要<br></h2>\n<p>日時：2022/11/8(火) 07:00〜08:00</p>\n<p>場所：discordでオンライン開催</p>\n<p>接続方法：discordのURLをお伝えします<br>\n　　</p>\n<h2>■タイムスケジュール<br></h2>\n<p>07:00<br>\n通話をつなぎます。<br>\n本日の取り組み予定を報告ください。<br>\n(カメラオフでも、チャットへの投稿という形でも大丈夫です。)<br></p>\n<p>例)UXの本を読みます！等</p>\n<p>その後主催者はBGMを流しますが、<br>\n気になるようなら音声OFFでOK<br>\n以降は各自もくもくしてください！<br></p>\n<p>※雑談用のスペースもあります！作業しながら話したいとき、チャットしたいときはお気軽に移動くださいー</p>\n<p><br></p>\n<p>08:00<br></p>\n<p>どこまで進んだかを簡単に報告(投稿)ください、終了！<br></p>\n<p>もし主催者(デザイナー)に質問があればお気軽にどうぞ！\n下記でお答えできる範囲で答えます！</p>\n<p>・デザインに関することなんでも<br>\n・illustrator、photoshop、xdなどの使い方など<br>\n・コーディングに関しては実務経験がないので詳しくお答えできなくてすみません、、！</p>\n<p>取り組み例)<br>\n・アプリ開発、プログラミング、コーディング<br>\n・WEBデザイン、アプリデザイン、イラスト制作<br>\n・資格などの勉強、就活のためのポートフォリオ作り<br>\n・ストレッチや瞑想を挟む人も<br></p>\n<h2>■追記<br></h2>\n<p>・基本は主催者が勉強をさぼらないためにイベント化しております。\n参加ハードルの低い、ゆるくて気張らない会を目指しています。</p>\n<p>・何回か来ている方で、discordに直接いらっしゃる方もいます 入ったらコンパス上の表記より人数多いことも多々あります また、同じサーバで自由な時間にもくもくしてってもらっても構いません〜！</p>\n<p>・毎日開催、をベースにしておりますが、主催が一人という都合上、用事で実現できない日や、 体調上開催できなくなった場合はコンパスもしくはdiscordのお知らせチャンネルでご連絡するようにします。 そちらを参照ください。</p>",
+          "link": "https://morimori.connpass.com/event/265110/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T14:07:13.000Z",
+          "wordCount": 944,
+          "title": "IT系&誰でも参加OK！もくもく会_朝活_11/8(火)",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/df/68/df68fb32dfa9f79ce3a86d08236fd4a6.png"
+        },
+        {
+          "id": "https://future-tech-association.connpass.com/event/265107/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/17 20:30 ～ 21:30<br />開催場所: オンライン<br /><br /><h1>エンジニアも、デザイナーも発信の時代。動画配信を始めよう</h1>\n<p>動画制作の定番ツールとして、Adobe Premiereをよく耳にすることは多いと思います。<br></p>\n<p>動画配信は、かつては一部の特殊な方が扱うものから、最近ではごく普通の企業や個人で扱う、一般的なものになってきました。<br></p>\n<p>そこで、本イベントではまだ触ったことない方向けに、動画制作ソフトAdobe Premiereの基本機能と使い方、Adobe After Effectsとの使い分けについて、実案件での実体験に基づいてお話させていただきます。<br></p>\n<p>初めての方にも分かりやすいように、お話させていただきます。<br>\n・動画制作を始めてみたい方<br>\n・スキルアップしたい方<br>\n・新しいことを始めたい方<br>\n・自己ブランディングしていきたい方<br>\nなど、どなたでもご参加ください！<br><br></p>\n<h1>シンラボとは</h1>\n<p>『テクノロジーで社会課題を解決する』をビジョンに、エンジニア、デザイナー、ライター、イべンテーターなど、様々な人が活躍するテックコミュニティです。<br>\nアプリ開発、Webサイト制作からコミュニティ作り、イベント企画まで、様々なプロジェクトが創出されています。<br></p>\n<p><br>シンラボHP<br>\n<a href=\"https://sinlab.future-tech-association.org/\" rel=\"nofollow\">https://sinlab.future-tech-association.org/</a>\n<br>シンラボYoutubeチャンネル<br>\n<a href=\"https://www.youtube.com/channel/UChs5SSU2BoJBTRxJm1lXe5A/videos\" rel=\"nofollow\">https://www.youtube.com/channel/UChs5SSU2BoJBTRxJm1lXe5A/videos</a>\n<br><br><br></p>\n<h1>開催概要</h1>\n<p>【日時】2022年11月17日（木） 20:30~21:30<br>\n【参加費】無料<br><br><br></p>\n<p>主催：<br>\n黒　卓陽<br>\n<img alt=\"画像\" src=\"https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/3232032/cover-8O9mApsNUHdT6sBra7QviyUZzbL0wunx.jpeg\"><br>\nシンラボ　広報チームリーダー<br>\n1993年生まれ。法政大学デザイン工学研究科都市環境デザイン工学科卒業。<br>\n地図制作会社、ゲーム会社のデザイナーに就職した後、会社を辞めて独学でWEBデザインを勉強し、未経験から半年でWEBデザイナーに。<br>\nシンラボでは、HP制作から、ブランディング、イベント企画などを担当。<br>\nWordpressを使って、コーポレートサイトからオウンドメディア、社内システムまで制作実績あり。<br><br></p>\n<p>杉浦　優花<br>\n<img alt=\"画像\" src=\"https://s3-ap-northeast-1.amazonaws.com/peatix-files/event/3392635/cover-2OUSCEPqsN3W7gY6S10EfOrDJgAIOrja.jpeg\"><br>\n1993年、青森県生まれ。青森県立保健大学健康科学部看護学科卒業。<br>\n小児科や美容皮膚科、アートメイクなど看護師業務に従事。<br>\nPCもまともに扱えないにも関わらず、独学でwebデザインの勉強を始める。<br>\n爆笑すると引き笑いになり、さんまさんと間違えられる。<br><br></p>\n<h1>タイムスケジュール</h1>\n<table>\n<tbody><tr><td>時間　</td><td>内容</td></tr>\n<tr><td>20:30〜20:40</td><td>質問コーナー<br>（事前アンケートや、前回のイベントから）</td></tr>\n<tr><td>20:40〜21:20</td><td>講義</td></tr>\n<tr><td>21:20〜21:30</td><td>トークタイム<br>（今回のイベントでの質問・ご感想など）</td></tr></tbody></table>\n<p>※ 当日予告なく時間配分・内容が変更になる可能性がございます。<br><br></p>\n<h3>注意事項<br></h3>\n<p>・リクルーティング、勧誘など、採用目的でのイベント参加はお断りしております。<br>\n・キャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。<br>\n・欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。<br>\n・無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。<br><br></p>",
+          "link": "https://future-tech-association.connpass.com/event/265107/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T13:32:34.000Z",
+          "wordCount": 988,
+          "title": "【0からはじめるAdobe Premiere】 #01 今こそ動画制作を始めよう！",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/09/54/0954a2dbd0107856594cce52f4f79bc6.png"
+        },
+        {
+          "id": "https://cae-beginner.connpass.com/event/265106/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2022/11/17 20:00 ～ 22:10<br />開催場所: (場所未定)<br /><br /><h1>概要</h1>\n<p>(注)未申込でも、途中入退室自由です。お気軽にご参加下さい。</p>\n<p>(注)主催者本人が残業で途中からの入室となることもあります。（zoomには入室可能にしてあります。）</p>\n<p>勉強したいけどやる気出ない、気がそれる。</p>\n<p>そういう時は時間を決めて、皆で集まれば最低でも少しはやる。。。はず</p>\n<p>そういうわけで、皆で集まって勉強するスペースを基本定例で開きます。</p>\n<p></p>\n<p>発表・発言の義務は無く、初心者大歓迎です。</p>\n<p>良ければ、お気軽にご参加ください。</p>\n\n<h1>zoom会議室について</h1>\n<p>zoom会議室は時間が来れば、主催者が開室しなくても、入室できるように設定しています。</p>\n<p>残業の都合で、主催者が開始時刻に間に合わないことがありますので、その場合は入室の上、主催者抜きで先にもくもく作業を進めて下さい。</p>\n<p>Zoomミーティング情報</p>\n<p>  URL: <a href=\"https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09\" rel=\"nofollow\">https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09</a></p>\n<p>  ミーティングID: 842 8433 5986 </p>\n<p> パスコード：830162 </p>\n\n<h1>参加申込</h1>\n<p>イベントに登録願います。</p>\n<p>開催日時になりましたら、下記アドレスから入室願います。</p>\n\n<p><a href=\"https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09\n\" rel=\"nofollow\"></a><a href=\"https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09</a>\" rel=\"nofollow\">https://us02web.zoom.us/j/84284335986?pwd=c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09</a></p>\n<p>上記のサイトをクリックすればZoomの待合室にログインします。</p>\n<p>ID入力で入室される方向け：</p>\n<p>ミーティングID：842 8433 5986</p>\n<p>パスコード: 830162</p>\n\n<p>お願い:</p>\n<ul>\n<li>自分が喋らないときはマイクをミュートにしてください</li>\n<li>Zoomでの参加名にはconnpassでの表示名を含めてください。</li>\n</ul>\n\n<p>例</p>\n<p>connpassでの表示名がhogehogeの場合</p>\n<p>　　〇　　hogehoge</p>\n<p>　　〇　　苗字(hogehoge)</p>\n<p>　　〇　　ほげほげ (ひらがなや漢字も大丈夫です)</p>\n<p>　　x　　苗字</p>\n<p></p>\n<p>上記以外の場合、セキュリティの観点からZoomへのミーティングルーム入室を許可できない場合がございます。</p><p>\n</p><p>名前の変更はZoomアプリからしか出来ないようです。</p>\n<p>お手数ですがご協力ください。</p>\n\n<h1>進め方</h1>\nZoomの音声通話とチャット（と必要に応じて画面共有）を使って進めます\nカメラやSlackは使用しません\n\n<h1>Zoomでの参加方法について</h1>\n以下のサイトを参考にしてください。\n<a href=\"https://zoomy.info/manuals/sanka/\" rel=\"nofollow\">https://zoomy.info/manuals/sanka/</a>\n\nZoomについての概要は以下です。\n<a href=\"https://zoom.us/j/223146490\" rel=\"nofollow\">https://zoom.us/j/223146490</a>\n\n<h1>進捗書き込み・雑談・呟き用スライド</h1>\n<p>　後述にもありますが、その日のやること・やったこと、雑談メモなどを書き溜めていっています。書き込みは任意です。書き込む方は、こちらからアクセス願います。</p>\n<p>  <a href=\"https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp=sharing\" rel=\"nofollow\">https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp=sharing</a></p>\n\n<h1>内容</h1>\nもくもく会の内容は以下を予定しております。（約2時間30分)\n時間は目安です。伸びたりする事も有ると思いますが、途中入退出はご自由にどうぞ。\n\n<table>\n<tbody><tr> <th>時間</th> <th>内容</th> </tr>\n<tr> <th>10分</th> <th>やること宣言（希望者のみ/チャット・共有ファイルへの書き込みも可）</th> </tr>\n<tr> <th>60分</th> <th>お勉強タイム/質問/技術雑談</th> </tr>\n<tr> <th>10分</th> <th>進捗報告・相互コメント（希望者のみ）</th> </tr>\n<tr> <th>60分</th> <th>お勉強タイム/質問/技術雑談</th> </tr>\n<tr> <th>10分</th> <th>進捗報告・相互コメント</th> </tr>\n</tbody></table>\n\n<ul>\n<li>やること宣言</li>\n<p>なんでもよいです。</p>\n<p>今日やることを述べて下さい。希望者のみでOKです。共有ファイルへ書き込むだけでもOK。</p>\n<p>　「まずはOpenFOAMのインストールをやります」</p>\n<p>　「専門書読みます」</p>\n<p>　「ANSYS Student版を触ってみます」</p>\n<p>　「C++, PythonとかでHello World!出してみます」</p>\n<p>　「CAEには体力が必要なのでジョギングしてきます」</p>\n<p>　「ごはん食べてきます」</p>\n<p>　「イエローケーキ作ってみます」</p>\n<p></p>\n<p>初めての方・自己紹介／挨拶したい方はこの場でどうぞ。少なくとも、zeta_plusplusが挨拶に応じます。</p>\n\n<li>お勉強タイム/質問/技術雑談</li>\n<p>発表したことをやります。</p>\n<p>生存確認のためチャットで呟いてくれて構いません。</p>\n<p>誰かが相手してくれるかもしれません。</p>\n<p>　「cdってなに・・・」</p>\n<p>　「そもそも1DCAEってイメージしづらい」</p>\n<p>　「ようやく解析の流れが分かった！」</p>\n<p>　「味噌汁が美味しい」</p>\n\n<p>質問: 参加者からCAEに関する質問を受け付けます。 どのような質問、疑問でも結構で、資料などは無くても大丈夫です。 勉強・相談会よりラフな感じでサクッと質問して頂いて良いのでお気軽にどうぞ。（答えられるとは限りませんがご了承下さい。）</p>\n\n<li>進捗報告・相互コメント</li>\n<p>出来たところまでを報告してください。</p>\n<p>良かったところ、悪かったところなど言ってくれたらいいです。</p>\n<p>良い情報は本サークルのWebサイトのwikiに集約しましょう。</p>\n<p>Wikiの記入は以下の本サークルのサイト内にあるものを使用できます。 </p>\n<a href=\"http://160.16.70.137/redmine/\" rel=\"nofollow\">CAE初心者サークル</a>\n<p>　「このサイトをみましたが、さっぱりです」</p>\n<p>　「この本の〇ページに良いのが載ってました」</p>\n<p>　「お味噌汁が美味しかったです」</p>\n<p>　「イエローケーキが美味しそうです」</p>\n<p>それに対して、他の人がコメントします。コメントしないこともあります。</p>\n<p>　「それはこの本を見ればいいよ」</p>\n<p>　「このサイトがいいよ」</p>\n<p>　「今度の勉強会で良ければ教えてください」</p>\n<p>　「食べちゃいけないです。次は濃縮ですね。」</p>\n\n</ul>\n\n<h1>注意事項</h1>\n<p>基本的に自学自習を促進し合う場です。</p>\n<p>一人でも開場・開催します。</p>",
+          "link": "https://cae-beginner.connpass.com/event/265106/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2022-10-31T13:30:54.000Z",
+          "wordCount": 1084,
+          "title": "オンライン CAE(工学数値シミュレーション)自習室(もくもく会)2022.11.17",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/9d/89/9d896e20bda8038c54edaa36de91fce0.png"
+        },
         {
           "id": "https://stl-toryumon-everyweek.connpass.com/event/265007/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
