@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T07:01:32.630Z</updated>
+    <updated>2023-01-02T08:01:34.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【誰でも参加OK】web技術をまったり語ろう【Next.js, AWS, Rails, Go】]]></title>
+        <id>https://connpass.com/event/271057/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://connpass.com/event/271057/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-02T07:51:04.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/03 10:00 ～ 11:00<br />開催場所: オンライン<br /><br /><p>最近注目してる技術、興味ある技術、学んでみたい技術
+など何でも自由に語りましょう。</p>
+<p><a href="https://meet.google.com/uuf-qwnz-idc" rel="nofollow">https://meet.google.com/uuf-qwnz-idc</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第3回RDRAワークショップ]]></title>
+        <id>https://ykmc.connpass.com/event/271056/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://ykmc.connpass.com/event/271056/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-02T07:18:14.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/08 10:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>開催の背景</h1>
+<p>ユースケース駆動開発手法、通称ICONIXでは、
+体系的に要件定義から基本設計までできると思うものの、
+いざ実践してみると、なかなか仮説が込みなんで、
+要件定義できるまで何度も少し当てずっぽうで繰り返すように感じます。</p>
+<p>そこで先日のとあるイベントで学んだRDRAとICONIXの組み合わせで対処し、
+モデルのトレーサビリティを体系的に取りつつ一気通貫でモデリングをすることで、
+仕様変更が求められたときにも、このモデルの変更はどのモデルのどの部分に影響するのかなど、
+速やかに見つけることができることで、
+モデルと実装の乖離だけに留まらず、　求められている要求ビジョンと実装の乖離を無くす
+ことに慣れるためのワークショップをやろうと思いました。</p>
+<h1>前提必要知識</h1>
+<p>前提知識としてユースケース駆動(ICONIX)の知見が必要となりますので、
+当日までにユースケース駆動について、
+各自で少し調べた状態にしておいていただけると助かりますm(__)m</p>
+<h1>当日の流れ</h1>
+<p>数個のチームに分かれてそれぞれmiroを使って議論しあってもらいます。
+その際に、メインのファシリテーターを１名決めてください。
+他の方々はメインファシリテーターが動きやすいように、議論してください。
+(注) 間違っても一方的にマシンガントークで話さないように。かつ、相手の話を遮らないように。</p>
+<p>チームごとに理解がバラバラだと思いますので、チーム内でお互いに教えあったり、
+わからないところがあっても、「こうじゃないか？」とか議論しあったり、工夫をお願いします。</p>
+<h1>注意事項</h1>
+<p>主体的に議論に参加をお願いします。
+聞き専などは、事前の断りない場合はお断りしています。
+私自身が、Takerな姿勢の方が苦手だからです。
+※　当日は顔出しした状態で参加ください。
+経験年数で他の方にマウント取ることや、
+ファシリの邪魔になるような一方的に話し続けて他者の言葉に耳を貸さない方は、
+ともに学びあう価値がないため、即座に強制退出させます。
+チームは、申し込み順でチーム分けをします。
+チーム決めなどに対するクレームは【一切受け付けません】。</p>
+<p>リンクは当日の30分程度前になったらここに載せますm(__)m</p>
+<h1>[簡単な自己紹介]</h1>
+<p>現在、UAF(Unified Architecture Framework)を用いた案件で、
+リソースに依存した戦術から、リソースに依存しない戦略(詳細を一切含まない方針戦略)をモデリングし、
+そのアーキテクチャをお客様と一緒になって考える案件に入っております。</p>
+<p>このUAFはまだ国内では認知が広まっておりませんが、
+様々なモデルの統一化された集体系の枠組みがこのUAFなため、様々なことに応用できると考えてます。</p>
+<p>(UAFの具体的な使用例)
+たとえば、特定の言語やframework(これらはすべて手段なのでリソース)に依存した戦術でいったんプロジェクトの成果物を納品し、後からリアーキテクチャするときに、どのようなリソースの組み合わせの戦術が
+もっとも戦略の指標を満たしてくれるのかなどの、トレードオフ含めた考察や
+戦略が微妙に変わったとしても、過去のどのリソースは再利用可能か、ややってはいけないアンチパターンなどを
+視える化してくれる、【使いこなせればめちゃくちゃ武器になってくれるもの】であります。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信濃町もくもく会 1/3(火)]]></title>
         <id>https://shinanomati.connpass.com/event/271052/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
