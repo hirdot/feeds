@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T04:01:27.986Z</updated>
+    <updated>2023-01-03T05:01:24.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jira / Confluence でタイパを爆上げするテクニック]]></title>
+        <id>https://shinonomelabo.connpass.com/event/267684/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://shinonomelabo.connpass.com/event/267684/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-03T04:24:44.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/16 20:00 ～ 20:30<br />開催場所: オンライン(Zoom)<br /><br /><p>本イベントは、アトラシアン社の「Jira」「Confluence」のコミュニティイベントです。</p>
+<h1>ツールやサービスの力で、業務効率を最大限に引き出そう</h1>
+<p>現代では「タイムパフォーマンス(タイパ)」という言葉の台頭しているように、効率よく・短時間で業務を回していくことが重要な要素になりつつあります。
+タイムパフォーマンスを上げる方法は様々ありますが、ツールやサービスを有効活用することで業務効率を一気に引き上げることが出来ます。</p>
+<p>今回は、アトラシアン製品の「Jira」と「Confluence」を題材に、タイパを爆上げするテクニックをご紹介します。</p>
+<h1>こんな方を対象としています</h1>
+<ul>
+<li>日常業務に「無駄」を感じていて、効率のいい方法に持って行きたい人</li>
+<li>普段アトラシアン製品(JiraやConfluence)を使っているけど、イマイチ使いこなせていない人</li>
+</ul>
+<h1>Jira・Confluenceとは</h1>
+<p>「Jira」はタスク管理を円滑に行えるサービスで、「Confluence」は高機能なWikiサービスです。
+いずれもチームで使えるサービスで、自動化機能(課題を登録したら、自動的に担当者を割り振るなど)が付いており、タイムパフォーマンスを最大限に引き出すことが出来るサービスです。</p>
+<h1>タイムテーブル</h1>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>登壇者</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00 ～ 20:10</td>
+<td>新藤さん</td>
+<td>Jira / Confluenceの紹介</td>
+</tr>
+<tr>
+<td>20:10 ～ 20:30</td>
+<td>不破 崇行(エコモット株式会社/合同会社東雲研究所)</td>
+<td>「普段業務でJira/Confluenceを使っている人へ贈るタイパを爆上げするテクニック選」</td>
+</tr>
+</tbody>
+</table>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[01/08(日) 「誰でもオンラインもくもく会」でゆったり作業しませんか？途中入退室OK]]></title>
         <id>https://enjoy-mokumoku.connpass.com/event/271108/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -58065,61 +58109,6 @@ Google meetを使用しますので、環境に合わせて準備してくださ
 <br>
 アドベントカレンダーやってます。気軽になんでも書いてください<br>
 <a href="https://adventar.org/calendars/7743" rel="nofollow">https://adventar.org/calendars/7743</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux基板設計勉強会 #1 イントロダクション]]></title>
-        <id>https://zli.connpass.com/event/268176/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://zli.connpass.com/event/268176/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2022-12-04T16:42:38.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2022/12/17 11:30 ～ 13:30<br />開催場所: 福島県会津若松市一箕町大字鶴賀上居合９０<br /><br /><h1>※このイベントは会津大生限定です (ZliサークルじゃなくてもOK)</h1>
-<h1>目的</h1>
-<p>ハードウェアエンジニアを語るなら、Linuxを基板設計からBSPの開発、シェルが動くまでを自分でできないと恥ずかしいよね！</p>
-<p>ってことで、ハードを作るところから、Linuxを作ってみよう！！</p>
-<p>今回は、その第一回目として、今後の進め方について話すイントロダクションを行います！</p>
-<h1>スケジュール</h1>
-<p>正直、こんなに順調には終わらないと思うけど、まずは12月中に一通りの部品が発注できるように進めたいたいと思います。</p>
-<p>この日に集まった人で役割分担等を決めプロジェクトを始めたいと思うので、
-この日に来れない方で参加したい方は、@gpioblinkまでご連絡ください！</p>
-<h2>12月</h2>
-<ul>
-<li>勉強会: Linux移植本を読むために中国語の勉強</li>
-<li>演習: ハードウェア選定<ul>
-<li>要件定義・ゴール決定</li>
-<li>SoCに何を使うか会議</li>
-<li>リファレンス回路での基板発注・部品発注</li>
-</ul>
-</li>
-</ul>
-<h2>1月</h2>
-<ul>
-<li>勉強会: Linux移植本読み始め、基本的な移植方法の理解</li>
-</ul>
-<h2>2月</h2>
-<ul>
-<li>演習: ハードウェア制作/BSP開発<ul>
-<li>組み立て</li>
-<li>動作確認</li>
-</ul>
-</li>
-</ul>
-<h2>3月</h2>
-<ul>
-<li>演習: 当初の予定の基板・スクリプトを完成させる</li>
-</ul>
-<h2>4月</h2>
-<ul>
-<li>演習: 自分たちで使う分の量産/プロジェクト完了</li>
-<li>次なる目標の決定: 価値ある基板作ってクラウドファンディングとか使って量産とかやりたい<ul>
-<li>医療系のデータが取れるセンサーを数千円レベルで作れないかなと思ってる (WonderSenseの医療情報版みたいなもの)</li>
-</ul>
-</li>
-</ul>
-<h1>Zliが主催するイベントに参加する際は、Zli - Code of Conductに同意していただく必要があります。</h1>
-<p>以下のリンクよりご確認ください。</p>
-<p><a href="https://esa-pages.io/p/sharing/14287/posts/60/4a70baee96c4d00de3e6.html" rel="nofollow">https://esa-pages.io/p/sharing/14287/posts/60/4a70baee96c4d00de3e6.html</a></p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
         </author>
