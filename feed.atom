@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T08:09:04.959Z</updated>
+    <updated>2023-01-04T09:01:31.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Sheetsで最近知った小ネタ]]></title>
+        <id>https://techracho.bpsinc.jp/baba/2023_01_04/125761</id>
+        <link href="https://techracho.bpsinc.jp/baba/2023_01_04/125761"/>
+        <updated>2023-01-04T08:30:24.000Z</updated>
+        <summary type="html"><![CDATA[<div style="margin: 5px 5% 10px 5%;"><img src="https://techracho.bpsinc.jp/wp-content/uploads/2022/12/google_spreadsheet_tips_eyecatch-min-768x461.png" width="768" height="461" title="" alt="" /></div><div><p>Google Sheets (spreadsheet)で日付単位などの集計処理をやっていて、最近覚えた小ネタです。 🔗 日時を連続で出力する 縦にずらーっとデータを出したい（セルのオートフィルはめんどくさい）ときは SEQUENCE を使いますが、日付のときは少しだけ癖があります。 値の1はどうやら「1日」になるようなので、例えば10日分を表示したければこのようにします。 =ARRAYFORMULA("2022-01-01" + SEQUENCE(10,1,0)) これだけだと数字で表示されてしまうので、表示形式を日付にしましょう。 そのまま 表示形式を日付に 10分ごとの時刻を表示したければ、1日（24時間）を [&#8230;]</p>
+<p>The post <a href="https://techracho.bpsinc.jp/baba/2023_01_04/125761" data-wpel-link="internal" target="_self">Google Sheetsで最近知った小ネタ</a> first appeared on <a href="https://techracho.bpsinc.jp" data-wpel-link="internal" target="_self">TechRacho</a>.</p></div>]]></summary>
+        <author>
+            <name>TechRacho</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第32回オープンCAE研究会@静岡]]></title>
         <id>https://opencae-shizuoka.connpass.com/event/270670/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -56458,28 +56469,6 @@ Zoomのチャットにて当日URLをお送りします。</p>
 <li><a href="https://discord.gg/Wc8nXFp3Ud" rel="nofollow">京アジャDiscord</a></li>
 <li><a href="https://www.facebook.com/KyotoAgile" rel="nofollow">京アジャfacebook ページ</a></li>
 <li><a href="https://github.com/kyoto-agile" rel="nofollow">京アジャgithub</a></li>
-</ul>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agile459運営ミーティング 2022-12月]]></title>
-        <id>https://agile459.connpass.com/event/268880/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://agile459.connpass.com/event/268880/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2022-12-05T20:59:00.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2022/12/13 20:30 ～ 21:30<br />開催場所: オンライン<br /><br /><h2>概要</h2>
-<ul>
-<li>Agile459の運営MTGです。</li>
-</ul>
-<h2>最近の話題</h2>
-<ul>
-<li><a href="https://agile459.connpass.com/event/262790/" rel="nofollow">焚き火 de Agile</a>　ふりかえりを行います。</li>
-<li>ちょっと興味あるからきいてみたい方は、ぜひ、登録くださいね。（途中参加OKです。）</li>
-</ul>
-<h2>オンラインでの開催について</h2>
-<ul>
-<li>Discordを使用します。</li>
 </ul>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
