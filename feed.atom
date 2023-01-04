@@ -2,10 +2,219 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T00:02:11.404Z</updated>
+    <updated>2023-01-04T01:28:03.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【新春】AWS入門!EC2でWEBサーバを作るハンズオン]]></title>
+        <id>https://zeki-chan-lab.connpass.com/event/271140/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://zeki-chan-lab.connpass.com/event/271140/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-04T01:10:43.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/07 10:30 ～ 11:30<br />開催場所: オンライン<br /><br /><h1>学べる事</h1>
+<ul>
+<li>VPC作成</li>
+<li>パブリックサブネット、プライベートサブネットの違い</li>
+<li>EC2への接続の仕方</li>
+</ul>
+<p>上記、初級レベルの内容が学べます。</p>
+<p>これからAWSを勉強したい方向けに開催しています。</p>
+<h3>対象者</h3>
+<ul>
+<li>まだAWSを触ったことがない人</li>
+<li>AWS クラウドプラクティショナーを勉強中の方</li>
+<li>IT1年目レベルの方</li>
+</ul>
+<p>とりあえず、クラウドインフラ触ってみたいといった感じであれば大丈夫です。</p>
+<p>逆に、業務でバシバシ使っている方はレベルが</p>
+<h1>こんな感じで進めます</h1>
+<p>合計90分を予定しています。</p>
+<table>
+<thead>
+<tr>
+<th align="left">時間</th>
+<th align="center">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">10分</td>
+<td align="center">自己紹介</td>
+</tr>
+<tr>
+<td align="left">5分</td>
+<td align="center">クラウドとはなにか？なぜAWSか？</td>
+</tr>
+<tr>
+<td align="left">40分</td>
+<td align="center">ハンズオン</td>
+</tr>
+<tr>
+<td align="left">5分</td>
+<td align="center">告知&amp;QA先の紹介</td>
+</tr>
+<tr>
+<td align="left">計60分</td>
+<td align="center">+α 終わりに</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>会場 </li>
+</ul>
+<p>Gmeetにてオンライン開催します。</p>
+<h4>参加後に"参加者への情報"からURLを確認できます。</h4>
+<h1>当日ご準備頂くもの</h1>
+<p>3つあります。</p>
+<ul>
+<li>PC(ウェブブラウザが使えるモノ)</li>
+<li>AWSアカウント(事前登録必要) ※お持ちでない方について</li>
+</ul>
+<p><a href="https://aws.amazon.com/jp/register-flow/" rel="nofollow">https://aws.amazon.com/jp/register-flow/</a></p>
+<p>アカウント作成時に電話番号認証に失敗してしまい その場で作成が出来ない場合ばございますので、事前に作成お願いします。</p>
+<h1>主催者</h1>
+<p>【名前】</p>
+<h6>おっつ</h6>
+<p>【年齢】</p>
+<h6>26歳</h6>
+<p>【現在】</p>
+<p>工場勤務に嫌気が差して24歳からエンジニアの道へ</p>
+<p>親に向いてないと反対されながらも現在もエンジニアとして活躍中</p>
+<p>現在は構築レイヤであたふたしています</p>
+<p>資格：LinuC level2 Azure Fundamentals</p>
+<p>【特徴】</p>
+<p>友人から変な人と言われることが多いので変な人です。</p>
+<p>【目指すモノ】</p>
+<p>クラウドエンジニアAWS系</p>
+<h1>こんな人にお勧め</h1>
+<ul>
+<li>IT業界1年目(ロースキル)の方</li>
+<li>ITオペレーターの方</li>
+<li>これからAWSを触ってみたい方</li>
+<li>AWSを使って収入を伸ばしたい方</li>
+</ul>
+<h1>参加者特典</h1>
+<p>参加者全員にハンズオンで行う内容の資料を差し上げます。</p>
+<p>内容は</p>
+<ul>
+<li>ハンズオンの全体像のパワーポイント</li>
+</ul>
+<p>VPC立ち上げから使用したリソースの削除までの</p>
+<ul>
+<li>構築手順書</li>
+</ul>
+<p>上記2つを特典として参加者全員にお配りしますので</p>
+<p>ハンズオン後、何度でも学べます。</p>
+<h1>エムとWATARUについて</h1>
+<p>YouTubeにて<a href="https://www.youtube.com/channel/UCrSNcwhhrPTTJabtSIOJDtg" rel="nofollow">20代こじらせラジオ</a>を配信中</p>
+<h1>補足</h1>
+<ul>
+<li>初心者向けのハンズオンになりますのでより高度な技術を求めたい方は他のハンズオンへお願いします。</li>
+<li>余った時間に懇親会が御座いますので同じ目標をもった仲間も探せます。</li>
+</ul>
+<h1>運営メンバー募集中</h1>
+<p>今後、会場を借りてのイベント企画を打つため
+関東近辺でコミュニケーションが取れる運営メンバー募集中です。</p>
+<p>詳しくは、お声掛けくださいー。</p>
+<h1>禁止事項</h1>
+<ul>
+<li>マウント発言等の人を見下す言動</li>
+<li>誹謗中傷や荒らし行為、威圧的な言動等</li>
+<li>営業活動、マルチ勧誘、プログラミングスクールの勧誘等</li>
+<li><strong>当日の無断キャンセル<br>
+（他の参加希望の方にご迷惑が掛かるため、2回以上行った場合は次回以降の参加をお断りする場合がございます。）</strong></li>
+<li>etc</li>
+</ul>
+<p>相手を不快にさせる行為は厳禁です。</p>
+<p>AWS AWSSAA AWSCLF ハンズオン</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第15回　BABOK(R)ガイド読書会　※お試し、耳だけ参加可]]></title>
+        <id>https://iiba-japan.connpass.com/event/271138/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://iiba-japan.connpass.com/event/271138/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-04T00:40:27.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/02/01 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><p>【お知らせ】①開催日がこれまでと異なり、2月1日(水)となっています。<br>
+②初参加の方と2回目以降参加の方の開始時間を分けています。<br>
+<strong>BABOKの両ガイド概要説明を聞きたい方は19:00から、そうでない方は19:30にお集まりください。</strong></p>
+<hr>
+<p>アジャイルビジネスアナリシスについて、<br>
+BABOK(R)ガイドを使って一緒に学びあう場として読書会を開催いたします。  </p>
+<p><strong>対象者：BABOK(R)ガイドv3、BABOK(R)ガイド・アジャイル拡張版v2をお持ちの方</strong><br>
+<strong>      ※お試し参加可：各ガイドをお持ちでない方でも参加頂けます。お試し枠でお申込み下さい</strong><br>
+<strong>      ※お試し参加に関わらす、耳だけ参加もＯＫ　申込アンケートで選択下さ(当日変更可)</strong>  </p>
+<p>概　要：少人数で、2つのガイドのマッピングを読み、アジャイルビジネスアナリシスについて<br>
+　　　　気付いた事や適応方法に関するアイデアを共有することで理解を深めていきます。  </p>
+<h2>■BABOK(R)ガイド読書会</h2>
+<p>日時：2月1日(水)　　　<strong>※今回でガイドを一通り読み終えます。</strong><br>
+　　　　19：00～　BABOK(R)の両ガイド概要説明<br>
+　　　　19；30～　BABOK(R)ガイド、読書会<br>
+　場所：オンライン(Zoom)　当日のルームは申込み頂くとconnpassで確認できます。<br>
+　費用：無料<br>
+　内容：・各ガイドの概要を説明<br>
+　　　　・BABOK(R)ガイド・アジャイル拡張版付録B: BABOK(R)ガイド・タスクの 各ホライズンへのマッピング<br>
+　　　　　よりBABOK(R)ガイドのアジャイルビジネスアナリシスへの適応についてィスカッション<br>
+　　　　予定タスク：3.4 ビジネスアナリシス情報マネジメントを計画する<br>
+　　　　　　　　　／3.5 ビジネスアナリシス・パフォーマンス改善策を特定する  </p>
+<p>担当：IIBA日本支部　研究担当<br>
+　　　　山本　泰　　連絡先：research@japan.iiba.org</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第89回　MySQL ＆ PostgreSQLの2022年の主なニュース]]></title>
+        <id>https://gihyo.jp/article/2023/01/ossdb-various-news0089</id>
+        <link href="https://gihyo.jp/article/2023/01/ossdb-various-news0089?utm_source=feed"/>
+        <updated>2023-01-04T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます。この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。2023年もOSSデータベース取り取り時報をよろしくお願いいたします。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第89回　MySQL ＆ PostgreSQLの2022年の主なニュース]]></title>
+        <id>https://gihyo.jp/article/2023/01/ossdb-various-news0089</id>
+        <link href="https://gihyo.jp/article/2023/01/ossdb-various-news0089?utm_source=feed"/>
+        <updated>2023-01-04T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます。この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。2023年もOSSデータベース取り取り時報をよろしくお願いいたします。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第89回　MySQL ＆ PostgreSQLの2022年の主なニュース]]></title>
+        <id>https://gihyo.jp/article/2023/01/ossdb-various-news0089</id>
+        <link href="https://gihyo.jp/article/2023/01/ossdb-various-news0089?utm_source=feed"/>
+        <updated>2023-01-04T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます。この連載はOSSコンソーシアム データベース部会のメンバーがオープンソースデータベースの毎月の出来事をお伝えしています。2023年もOSSデータベース取り取り時報をよろしくお願いいたします。]]></summary>
+        <author>
+            <name>gihyo.jp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bio"Pack"athon 2023 #1]]></title>
+        <id>https://biopackathon.connpass.com/event/268972/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://biopackathon.connpass.com/event/268972/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-04T00:00:35.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/11 17:30 ～ 18:30<br />開催場所: オンライン<br /><br /><p>Bio"Pack"athon（バイオパッカソン）は、バイオのソフトウェアパッケージを作ることを推進するコミュニティです。</p>
+<p>会の趣旨は<a href="https://www.jsbi.org/media/files/_u/topic/file/nl39.pdf" rel="nofollow">日本バイオインフォマティクス学会ニュースレター第39号</a>の7ページ目をご覧ください。</p>
+<p>ZoomのURLはconnpassの「参加者への情報」機能により本イベントページに表示されるようになっています。
+その情報は</p>
+<ul>
+<li>参加登録者でないと見れません</li>
+<li>connpassにログインしないと見れません</li>
+</ul>
+<p>ご注意ください</p>
+<h2>スケジュール</h2>
+<p>17:30 ~ 17:35 Bio"Pack"athonの紹介 @antiplastics</p>
+<p>17:35 ~ 18:00 GitHub Releaseの紹介 @antiplastics</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カフェ・ソフトウェアクオリティ第86回勉強会]]></title>
         <id>https://cafe-swq.connpass.com/event/270205/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -1098,6 +1307,16 @@ Scratchも少し使ってみてきてください。<br>
 <a href="https://scratch.mit.edu/" rel="nofollow">https://scratch.mit.edu/</a></p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データのじかんNews 2023年01月Part.01]]></title>
+        <id>https://data.wingarc.com/?p=49153</id>
+        <link href="https://data.wingarc.com/datatimes_news202301-1-49153?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_news202301-1"/>
+        <updated>2023-01-03T05:00:33.000Z</updated>
+        <summary type="html"><![CDATA[データのじかんを閲覧頂いているみなさま！！新年おめでとうございます！！ 【データのじかんNews】担当の畑中一平です。 『データのじかん』で公開した記事を短信でお伝えすることを目的に月2回ではじまった『データのじかんNe […]]]></summary>
+        <author>
+            <name>石川麻里</name>
         </author>
     </entry>
     <entry>
@@ -55334,26 +55553,6 @@ Zoomのチャットにて当日URLをお送りします。</p>
 <p>・毎日開催、をベースにしておりますが、主催が一人という都合上、用事で実現できない日や、 体調上開催できなくなった場合はコンパスもしくはdiscordのお知らせチャンネルでご連絡するようにします。 そちらを参照ください。</p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷えるデータサイエンス学習者の課題を解決したい！ Data Learning Bibliography開発にかける想い]]></title>
-        <id>https://data.wingarc.com/?p=48432</id>
-        <link href="https://data.wingarc.com/all_about_data-learning-bibliography01-48432?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all_about_data-learning-bibliography01"/>
-        <updated>2022-12-05T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事では、先日クラウドファンディングのプロジェクトを達成したデータ領域特化のコンテンツデータベースである「Data Learning Bibliography」について、どういったサービスなのか、なぜそういったサービス […]]]></summary>
-        <author>
-            <name>データのじかん編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[データのじかんNews 2022年12月Part.01]]></title>
-        <id>https://data.wingarc.com/?p=48414</id>
-        <link href="https://data.wingarc.com/datatimes_news202212-1-48414?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=datatimes_news202212-1"/>
-        <updated>2022-12-05T03:00:48.000Z</updated>
-        <summary type="html"><![CDATA[データのじかんを閲覧頂いているみなさま！！こんちわ！！ 【データのじかんNews】担当の畑中一平です。 イルミネーションの装飾が街のあちらこちらで見かけるようになると、今年もとうとうあとひと月という忙しい気持ちに駆られま […]]]></summary>
-        <author>
-            <name>石川麻里</name>
         </author>
     </entry>
 </feed>
