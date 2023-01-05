@@ -1434,76 +1434,6 @@
           "wordCount": 333,
           "title": "AWS DMS で Schema Conversion 機能をリリース",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7fc18c5a60bf41f7be3a59e7227a4eb80bc8d233",
-          "author": "aws@amazon.com",
-          "description": "Amazon Elastic File System (Amazon EFS) で、1 日有効のライフサイクル管理ポリシーのサポートを開始しました。これにより、1 日アクセスがなかったファイルを Amazon EFS 低頻度アクセス (EFS IA) ストレージクラスに自動的に移動できます。ファイルシステムにこの新しいポリシーオプションを設定するか、既存のポリシーオプション (7、14、30、60、または 90 日) のいずれかを使用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/elastic-file-system-1-day-lifecycle-management-policy-reduce-costs-cold-data-sets/",
-          "publishedOn": "2022-12-06T15:53:14.000Z",
-          "wordCount": 319,
-          "title": "Amazon Elastic File System に 1 日有効のライフサイクル管理ポリシーを導入したことで、コールドデータセットにかかるコストの削減を実現",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b5ecdc08146690b91e79a0dd32c253a5fd4e21c0",
-          "author": "aws@amazon.com",
-          "description": "AWS Organizations で委任管理者機能をリリースしました。この機能では、Organizations ポリシーの管理を委任できるため、俊敏性を向上させ、管理を分散させて AWS 組織とメンバーアカウントを管理できるようになります。これにより、メンバーアカウントで運用している各事業部門で、事業部門のニーズに固有のポリシーを管理できるようになりました。きめ細かいアクセス許可を指定することで、柔軟性を実現しながら、高い権限が割り当てられた管理アカウントへのアクセスを制限できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/",
-          "publishedOn": "2022-12-06T15:51:03.000Z",
-          "wordCount": 306,
-          "title": "AWS Organizations で委任管理者機能をリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "19b7d6140b6a1287101aa97266ff2f6eb4b2f103",
-          "author": "aws@amazon.com",
-          "description": "AWS Application Migration Service (AWS MGN) で、アプリケーションとウェーブによる管理、モダナイズのカスタム操作、起動テンプレートの設定など、移行およびモダナイズに関する複数の新機能がサポートされるようになりました。Application Migration Service では、オプションのモダナイズ機能によってソースサーバーを AWS でネイティブに実行できるよう自動で変換するため、時間がかかる手動プロセスを最小限に抑えるのに役立ちます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-application-migration-service-wave-custom-actions-launch-template-configuration/",
-          "publishedOn": "2022-12-06T15:50:08.000Z",
-          "wordCount": 334,
-          "title": "AWS Application Migration Service でアプリケーション中心の移行、ウェーブ計画などをサポート",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "366ff8d1b12944923d5918968ddb49e8e9cc5e1e",
-          "author": "aws@amazon.com",
-          "description": "AWS Backup では現在、AWS Organizations 内のメンバーアカウントに対し、組織全体のバックアップ管理権限の委任がサポートされています。これにより、委任されたバックアップ管理者が組織内のアカウント全体のバックアップポリシーを作成、管理し、バックアップアクティビティをモニタリングできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-backup-delegation-organization-wide-backup-administration/",
-          "publishedOn": "2022-12-06T15:46:10.000Z",
-          "wordCount": 320,
-          "title": "AWS Backup で組織全体のバックアップ管理権限の委任が可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "d23d8193b5fa8ad5fdf522cd9bd392449eddf235",
-          "author": "aws@amazon.com",
-          "description": "Amazon CodeWhisperer で、AWS 管理者がシングルサインオン認証を使用して、組織で CodeWhisperer を有効にできるようになりました。管理者は、CodeWhisperer を既存の従業員 ID ソリューションと簡単に統合し、ユーザーとグループにアクセス権を提供し、組織全体の設定を構成できます。さらに、AWS アカウントを持っていない個々のユーザーは、AWS Builder ID を使って個人の E メールで CodeWhisperer を利用できるようになりました。サインアッププロセスには数分しかかからず、デベロッパーはウェイトリストに参加することなく、すぐに CodeWhisperer を使い始めることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-codewhisperer-enterprise-controls-sign-up-new-languages/",
-          "publishedOn": "2022-12-06T15:33:21.000Z",
-          "wordCount": 322,
-          "title": "Amazon CodeWhisperer で、エンタープライズ管理コントロール、簡単なサインアップ、新しいプログラミング言語のサポートを追加",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "b5449b7b77df6f48634b138e02b55caa858a45d2",
-          "author": "aws@amazon.com",
-          "description": "Amazon Relational Database Service (Amazon RDS) for MySQL で、旧世代のインスタンスより最大 50% 高速でクエリ処理を実行する Amazon RDS Optimized Reads がサポートされました。最適化読み込みを有効にしたインスタンスでは、ホストサーバーに物理的に接続されたローカル NVMe ベースの SSD ブロックレベルストレージに MySQL が生成する一時テーブルを配置することにより、クエリ処理が高速化されます。RDS for MySQL で Optimized Reads を使用することで、ソート、ハッシュ集計、高負荷結合、共通テーブル式 (CTE) を含むクエリなど、一時テーブルを利用する複雑なクエリ処理についても、最大 50% 高速化されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-rds-optimized-reads-available-faster-queries-amazon-rds-mysql/",
-          "publishedOn": "2022-12-06T15:32:22.000Z",
-          "wordCount": 414,
-          "title": "Amazon RDS Optimized Reads で、Amazon RDS for MySQL のクエリが最大 50% 高速化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "10e279d69c81af1d6e0a5d5a289e66ad5cbe3013",
-          "author": "aws@amazon.com",
-          "description": "Amazon Kendra は機械学習を利用したインテリジェントな検索サービスです。このサービスにより、組織は関連性の高い情報を顧客や従業員に必要に応じて提供できるようになります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-kendra-tabular-search-html-documents/",
-          "publishedOn": "2022-12-06T15:31:24.000Z",
-          "wordCount": 310,
-          "title": "Amazon Kendra で、HTML ドキュメントの表形式検索が利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3662,6 +3592,66 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://bpstudy.connpass.com/event/271251/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/25 19:30 ～ 20:30<br />開催場所: オンライン<br /><br /><h3>zoomを使ってのリモート開催です。zoomのURL等は、当ページの「参加者への情報」欄に記載されています。別途、参加者にメールにてお知らせします。</h3>\n<p><a href=\"https://flutter.dev/\" rel=\"nofollow\">Flutter</a>は、Googleが2018年12月にリリースしたモバイルアプリ用のフレームワークです。\n1つのコードベースでAndroid用とiOS用のネイティブアプリを同時に作成できます。<br>\n<br>\nFlutterによるモバイルアプリ開発は、何が利点なのでしょうか。<br>\n<br>\n今回のBPStudyは、株式会社クオリティスタート代表のござ先輩に「 <strong>フロントエンドの開発スタイルの変遷と、私がFlutterにハマったわけ</strong> 」というテーマでお話いただきます。<br></p>\n<h1>第1部 フロントエンドの開発スタイルの変遷と、私がFlutterにハマったわけ</h1>\n<p>(19:30〜20:30)</p>\n<h4>ござ先輩(<a href=\"https://twitter.com/gothedistance\" rel=\"nofollow\">gothedistance</a>) 氏</h4>\n<p>フロントエンドが好きじゃなかった私が、Flutterに出会ったことでモダン・フロントエンドに傾倒していく経緯を、WIndows Form, WPF, iOS, Androidの開発を体験した中で感じた「フロントエンドの開発スタイルの変遷」を添えて、お話します。2020年のGW開けからやり始めて「おおお、Flutterすげえええ」となったワケをアツくご説明します。<br>\n<br>\n「Favomatch」というマッチングアプリを開発した中で感じたFlutterの可能性・Flutterアプリの開発のTips等も紹介しつつ、今後Flutterをやろうとしている・もしくはFlutterでアプリを作っていらっしゃる皆さんへ、少しでも参考になる情報が出せればと思います！</p>\n<p><img src=\"https://pbs.twimg.com/profile_images/480932908748640256/vqjTlpEV_400x400.png\" width=\"300\"></p>\n<h5>自己紹介</h5>\n<p>ゆもと みちたか。</p>\n<p>松坂世代。ござ先輩というキャラでネットを闊歩しています。<a href=\"https://quality-start.in/\" rel=\"nofollow\">クオリティスタート</a>という会社の代表。2016年6月創業。<a href=\"https://gothedistance.hatenadiary.jp/\" rel=\"nofollow\">GoTheDistance</a>というブログやってます。</p>\n<p>創業当初は業務システム開発や、要件定義や外部設計等の上流工程のヘルプをしていましたが、コロナ禍でポシャった案件の隙間にFlutterに出会いモダン・フロントエンドに傾倒。Flutterの受託開発がメインになってしまいました。フロントエンドで行動をデザインする面白さを追求したい。React修行中。Reactメンター募集中。動かせるけど使いこなせてる気がしないのがReact。</p>\n<p>ご連絡は、<a href=\"https://twitter.com/gothedistance\" rel=\"nofollow\">@gothedistance</a> へお気軽に！</p>",
+          "link": "https://bpstudy.connpass.com/event/271251/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-05T03:21:43.000Z",
+          "wordCount": 994,
+          "title": "BPStudy#185〜フロントエンドの開発スタイルの変遷とFlutter",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/26/fb/26fbbde1cb2851acadae25b99b8b9534.png"
+        },
+        {
+          "id": "https://soracomug-tokyo.connpass.com/event/271280/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/11 21:00 ～ 22:30<br />開催場所: オンライン<br /><br /><p><font color=\"red\" size=\"+2\"><strong>水曜の夜はSORACOM UG 夜のもくもく会！</strong></font></p>\n<p>みんなで集まってもくもくしませんか？</p>\n<h1>もくもく会とは</h1>\n<p>発表者の発表を聞く通常のイベントやみんなで同じ課題をやるハンズオンとは違い、自分のやりたいことをやったり調べ物をしたり、みんなで集まって「もくもくと」ゆる～くやるイベントです。</p>\n<p>例えば</p>\n<ul>\n<li>自分で勉強してたけど分からないことがあったので誰かに質問したい</li>\n<li>IoTで実現したいことがあるけどどうしたら良いか分からないので誰かに相談したい</li>\n<li>ハンズオンを完走できなかったので続きをやりたい</li>\n<li>LT資料を作って、みんなに練習を聞いてもらいたい</li>\n<li>未経験のSORACOMサービスを試してみたいが、一人だとなかなか集中して時間が取れないので誰かいるところでやりたい</li>\n<li>買ったまま放置している新しいデバイスを開封したい</li>\n<li>ブログを書きたい</li>\n</ul>\n<p>といったようなことを想定していますが、これ以外のことでもSORACOMに少しでも関連することであれば大歓迎です。</p>\n<p><strong>初めての人もぜひ気軽にご参加ください！</strong>時間中の入退室は自由ですので、ご都合の良い時間だけちょっと顔を出してというのも大丈夫です。</p>\n<h1>参加方法</h1>\n<p>Zoomで実施します。接続先情報は本ページの参加者向け情報に記載しますので、そちらを参照してください。</p>\n<h1>準備するもの</h1>\n<ul>\n<li>ZoomにアクセスするためのPCやスマートフォン</li>\n<li>自分がやろうと思ってることに必要な物(SIMやGPSマルチユニットやボタンなど)</li>\n</ul>\n<h1>進行</h1>\n<p>基本的に好きな時間に来て好きなことをして頂いて良いのですが、ざっくりとこんな感じで進めようと思います。\nもくもく会の様子は録画や公開はしませんので、ぜひカメラとマイクをONでご参加いただければと思いますが、カメラ・マイクONを強要するものではありません。</p>\n<ul>\n<li>21:00 自己紹介＆今日やろうと思ってることを一言</li>\n<li>21:10 もくもくスタート</li>\n<li>22:10 今日の感想(何ができた、できなかった、次回やりたいことなど)</li>\n<li>22:30 記念撮影(Zoomの画面キャプチャ)、完全撤収</li>\n</ul>\n<h1>ハッシュタグ</h1>\n<p>ハッシュタグは　#soracom #soracomug です。もくもくしながら、ぜひこれを付けてTwitterで呟いてください！</p>",
+          "link": "https://soracomug-tokyo.connpass.com/event/271280/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-05T03:18:14.000Z",
+          "wordCount": 971,
+          "title": "SORACOM UG 夜のもくもく会 #50",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0b/65/0b65e4d7b362c71ca80d08b99105498e.png"
+        },
+        {
+          "id": "https://azure-tech-love.connpass.com/event/271265/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/27 10:00 ～ 20:00<br />開催場所: 兵庫県神戸市中央区加納町４丁目２−番1号 神戸三宮阪急ビル 15階<br /><br /><p><br></p>\n<p><font size=\"2.5pt\"><strong>2023年1月26日(木)、2023年1月27日(金) の2日間、Microsoft Base Festa 2023 が開催されます！！！</strong></font><br></p>\n<blockquote>\n<p>Microsoft Base Festa 2023 は、2日間のオンライン イベントで、「Empowering All Japan ～ 地域 DX 実現」をテーマに、各地域にてデジタル化やデジタルトランスフォーメーションをご検討されている皆様へ マイクロソフト ソリューションの最新アップデートやお客様事例をご紹介。日本マイクロソフトのすべての製品責任者が一堂に会し、Fireside chat をはじめ、弊社エバンジェリスト西脇資哲より最新マイクロソフト ソリューションについてデモンストレーションを交えながら、今後どのように日本や世界が変わっていくのかを分かりやすくご説明します。(日本マイクロソフト公式サイトより抜粋)</p>\n</blockquote>\n<p>そんな Microsoft Base Festa 2023 イベントを <strong>神戸</strong> から盛り上げるべく、<br>\nMicrosoft Base Festa 2023 (2日目) を MS Base Kobe にてパブリックビューイングします。<br>\n現地に集い、他の参加者とのディスカッションや交流を通じて、<br>\nMicrosoft ソリューションへの理解を深め、日々の業務に活かしましょう！！！</p>\n<p><br>\nまた、イベント終盤には現地での技術イベントも企画しておりますので、お楽しみに！！！<br>\n(詳細は決まり次第、こちらのページに追記する予定です)</p>\n<h1>日時</h1>\n<p>2023年1月27日(金) <br>\n午前10時 ~ 午後8時まで (予定)</p>\n<h1>参加形式</h1>\n<p>途中退出可能</p>\n<h1>タイムテーブル (現地イベント)</h1>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"center\">タイトル</th>\n<th align=\"center\">スピーカー</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">10:00 - 18:00</td>\n<td align=\"center\">Microsoft Base Festa 2023 ～ Empowering All Japan 地域 DX を実現 [DAY2]</td>\n<td align=\"center\">日本マイクロソフト</td>\n</tr>\n<tr>\n<td align=\"left\">18:00 - 18:30</td>\n<td align=\"center\">休憩</td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"left\">18:30 - 18:35</td>\n<td align=\"center\">前説</td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"left\">18:35 - 19:05</td>\n<td align=\"center\">最近、Power Fxがおもしろい</td>\n<td align=\"center\">神戸デジタル・ラボ<br> 村岡正和 さん</td>\n</tr>\n<tr>\n<td align=\"left\">(調整中)</td>\n<td align=\"center\"></td>\n<td align=\"center\"></td>\n</tr>\n<tr>\n<td align=\"left\">19:55 - 20:00</td>\n<td align=\"center\">クロージング &amp; 撤収</td>\n<td align=\"center\"></td>\n</tr>\n</tbody>\n</table>\n<p>MS Base Festa 2023 イベント概要、タイムテーブル等は以下サイトをご確認ください。\n<a href=\"https://msevents.microsoft.com/event?id=3109273463\" rel=\"nofollow\">https://msevents.microsoft.com/event?id=3109273463</a></p>\n<h1>参加資格</h1>\n<ul>\n<li>「<code>キャンセルポリシー</code>」、「<code>参加に関する注意事項</code>」に同意頂ける方。</li>\n</ul>\n<h1>キャンセルポリシー</h1>\n<ul>\n<li><strong><font color=\"red\">申し込み後、当日イベントに参加できなくなった方は、速やかにキャンセル</font></strong> をお願いします。</li>\n<li>参加枠を確保しているにも関わらず、当日直前でのキャンセル (ドタキャン) 、無断キャンセルを頻繁にされる<br>\n申込者は、次回以降の参加をお断りさせていただきますので、何卒ご了承ください。</li>\n</ul>\n<h1>参加に関する注意事項</h1>\n<p><strong><font size=\"2.5pt\">オンライン会場内では運営スタッフが写真や動画撮影等を行う予定です。</font></strong>  </p>\n<ul>\n<li>運営スタッフが撮影した写真・動画は、今後のイベント紹介等で使用させていただく可能性がございます。<br>\nあらかじめご了承ください。</li>\n<li>写真、動画撮影がNGな方は、受付時に運営スタッフまでお申し付けください。</li>\n</ul>\n<p><strong><font size=\"2.5pt\">以下に該当される方は、本イベントの参加をお断りさせていただきます。</font></strong>    </p>\n<ul>\n<li>過去に無断キャンセルを繰り返されている方</li>\n<li>過去にイベントの進行、参加者への危害を加えられた方 (徹底的に排除します)</li>\n<li>主催者のアナウンス事項に従っていただけない方</li>\n</ul>\n<p><strong><font size=\"2.5pt\">その他、禁止行為</font></strong></p>\n<ul>\n<li>セクシャルハラスメント・パワーハラスメント・ストーカー等、他の参加者への迷惑行為を禁止します。</li>\n<li>ネットワークビジネス、政治活動、宗教活動等、物販、勧誘、斡旋等を行うことを禁止します。</li>\n<li>その他、イベントの趣旨・目的と逸脱した行為、イベント内容に積極的に参加されていないと見受けられる行為、<br>\n<strong><font color=\"Black\">本来のイベント趣旨とは異なる行為があった場合、</font></strong><font color=\"Black\"><br>\n<strong>次回以降のイベント参加をお断り</strong></font> させていただきます。</li>\n</ul>\n<h1>企画 / 運営元</h1>\n<p>【 Microsoft Base Festa 2023 主催 】日本マイクロソフト株式会社<br>\n【 現地フォローアップ運営 】株式会社神戸新聞社 / 株式会社神戸デジタル・ラボ</p>",
+          "link": "https://azure-tech-love.connpass.com/event/271265/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-05T02:57:28.000Z",
+          "wordCount": 1397,
+          "title": "【現地参加イベント】Microsoft Base Festa 2023 @MS Base Kobe",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c4/21/c4218a21d0ab7b6c6c639b25ba03b5fa.png"
+        },
+        {
+          "id": "https://ay-house01.connpass.com/event/271279/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/14 12:30 ～ 17:00<br />開催場所: 東京都 品川区 旗の台 1-11−9 (路地突き当り)<br /><br /><h2>勉強会の趣旨</h2>\n<p>大井町線・池上線沿線で、土曜の昼〜夕方に定例で開催する予定のソフトウェア開発に関するもくもく会です。</p>\n<p>現在は主催が一人のため、主催が管理するイベントスペースでの開催となります。</p>\n<p>基本的にオフランでの集まりとなりますが、情報共有のため<a href=\"https://discord.gg/ARcaHFgVJs\" rel=\"nofollow\">Discord</a>を利用します。</p>\n<p><a href=\"https://discord.gg/ARcaHFgVJs\" rel=\"nofollow\">Discord招待リンク</a></p>\n<p>最初にDiscord登録の時間をとりますが、運営からの事務連絡や参加者の到着予定時刻の連絡のため可能な限り前もってご登録のうえお越し下さい。</p>\n<h3>イベントの流れ</h3>\n<p>基本的には入退室自由ですが、一応時間ごとの予定を立ててあります。</p>\n<ul>\n<li>12:30 〜 自己紹介・初参加の方のDiscord登録・シェアハウスの見学案内など</li>\n<li>13:00 〜 各自作業（前半） </li>\n<li>15:00 〜 小休止</li>\n<li>15:30 〜 各自作業（後半）</li>\n<li>〜17:00 作業終了</li>\n<li>〜18:00 雑談・作業の成果発表など</li>\n<li>〜交流会 庭でBBQや近場のファミレスで食事などです（内容はお問い合わせください）</li>\n</ul>\n<h2>参加対象</h2>\n<p>ソフトウェア開発に関する作業をする会ですので、業務・趣味に関わらず、ソフトウェアを開発している方が対象となります。</p>\n<p>ビギナーのかたの参加も歓迎いたします。</p>\n<p>冷やかしの参加登録が重なる方はこちらでキャンセルしイベント掲載サイトへのスパム通報する場合があります。</p>\n<h2>主催者について</h2>\n<p>現役のフリーランスエンジニアで、毎月最終土曜日に定期開催している<a href=\"https://fmrm.connpass.com/\" rel=\"nofollow\">フリーランスエンジニア月報会</a>を主催しています。</p>\n<p>業歴15年以上で、Web・基幹系・モバイルのフロント・バックエンドを問わず設計開発に携わり、近年はフードデリバリーやフィンテック、ブロックチェーンなどの業界の仕事をしています。</p>\n<p>会場となるシェアハウスのオーナーでもあります。</p>\n<h2>会場について</h2>\n<p>旗の台駅すぐそばにあるシェアハウスです。</p>\n<p>もともとゲストハウスとして運用していた物件を居抜きで借り上げ、シェアハウスとして再設計しているところです。</p>\n<p>2階建て一軒家で、床面積が約300平米、付属で面積はざっと60平米を超える大きな庭がついています。</p>\n<p>今回の会場は、そちらの建物部分となります。入り口は玄関となりますので、建物右手のゲートを開けて1Fの玄関にてインターフォンにて呼び出していただき、勉強会への参加とお伝えください。</p>\n<p>間取りは7LLDDKKで、普段はレンタルスペースとしても庭などを貸し出しをしています。</p>\n<p>作業エリアは未使用・予約のなかったスペースであれば使っていただけます。</p>\n<p>主催の案内に従ってください。</p>\n<p>インスタベースの案内</p>\n<ul>\n<li><a href=\"https://www.instabase.jp/space/8603190213\" rel=\"nofollow\">キッチン付きLDKスペース</a></li>\n<li><a href=\"https://www.instabase.jp/space/7062046344\" rel=\"nofollow\">庭スペース</a></li>\n</ul>\n<p>運営企業</p>\n<ul>\n<li><a href=\"https://www.aya-eiya.work/\" rel=\"nofollow\">AY合同会社 / AY HOUSE</a></li>\n</ul>\n<h2>飲食について</h2>\n<p>持ち込み自由ですが、飲食をしていただけるエリアは1Fのダイニングに限定します。</p>\n<p>ダイニングは会話自由なエリアとします。</p>\n<h2>感染対策のお願い</h2>\n<p>伝染病予防のため、会場へつきましたらアルコールによる手指の消毒と手洗いうがいをお願いします。</p>\n<p>感染の状況によっては、会場ではマスクをつけたままの会話にご協力ください。</p>\n<h3>アクセス</h3>\n<ul>\n<li>東急池上線・大井町線 旗の台駅  東口 徒歩4分</li>\n<li>浅草線 中延駅 徒歩 13分</li>\n<li>目黒線 洗足駅 徒歩 14分</li>\n</ul>\n<h2>ソフトウェア開発に役立つ参考書籍</h2>\n<p>積読未読を含みますが、良さそうな書籍を集めました。\n会場に置いてある本も多いので、読みに来てください。</p>\n<h3>設計</h3>\n<ul>\n<li><a href=\"https://amzn.to/31z6uzp\" rel=\"nofollow\">現場で役立つシステム設計の原則</a></li>\n<li><a href=\"https://amzn.to/3GUF1Zh\" rel=\"nofollow\">ドメイン駆動設計入門 ボトムアップでわかる! ドメイン駆動設計の基本</a></li>\n<li><a href=\"https://amzn.to/2ZT0ukI\" rel=\"nofollow\">実践ドメイン駆動設計</a></li>\n<li><a href=\"https://amzn.to/31z6uzp\" rel=\"nofollow\">現場で役立つシステム設計の原則</a></li>\n<li><a href=\"https://amzn.to/3EQmrQb\" rel=\"nofollow\">Clean Architecture</a></li>\n<li><a href=\"https://amzn.to/3q8jlmv\" rel=\"nofollow\">アプリケーションアーキテクチャ設計パターン</a></li>\n<li><a href=\"https://amzn.to/3GT9Pcz\" rel=\"nofollow\">マイクロサービスパターン</a></li>\n</ul>\n<h3>運用・SRE</h3>\n<ul>\n<li><a href=\"https://amzn.to/3K5duFS\" rel=\"nofollow\">SRE サイトリライアビリティエンジニアリング</a></li>\n<li><a href=\"https://amzn.to/3qi3IZ4\" rel=\"nofollow\">SREの探求</a></li>\n<li><a href=\"https://amzn.to/34C3gfT\" rel=\"nofollow\">サイトリライアビリティワークブック</a></li>\n<li><a href=\"https://amzn.to/3I2xLdD\" rel=\"nofollow\">入門 監視</a></li>\n</ul>\n<h3>プロダクトマネジメント・グロース戦略</h3>\n<ul>\n<li><a href=\"https://amzn.to/3GSzy4N\" rel=\"nofollow\">プロダクトマネジメントのすべて</a></li>\n<li><a href=\"https://amzn.to/3GSn3pD\" rel=\"nofollow\">新規事業開発マネジメント</a></li>\n<li><a href=\"https://amzn.to/3GUAMfE\" rel=\"nofollow\">最高の結果を出すKPIマネジメント</a></li>\n</ul>",
+          "link": "https://ay-house01.connpass.com/event/271279/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-05T02:57:04.000Z",
+          "wordCount": 1140,
+          "title": "【大井町線・池上線】 定例もくもく会@旗の台 #050",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/0f/01/0f01c87e15d0234e08d6c052d74e609f.png"
+        },
+        {
+          "id": "https://fm-mkmk.connpass.com/event/271277/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/22 18:00 ～ 20:00<br />開催場所: 東京都葛飾区立石1-11-7<br /><br /><h2>新年もぐもぐ</h2>\n<h1>いこい食堂 一行三昧</h1>\n<p><strong>予約の都合上01月19日(水)18:00までに参加申し込みをお願いします</strong>  </p>\n<p>本編は<a href=\"https://connpass.com/event/271274\" rel=\"nofollow\">FileMakerもくもく会#85</a>からお申し込みください。</p>\n<h3>日時</h3>\n<ul>\n<li>2023/01/22 18:00から    </li>\n</ul>\n<hr>\n<h3>場所</h3>\n<p><a href=\"https://1gyo3mai.favy.jp/\" rel=\"nofollow\">いこい食堂 一行三昧</a><br>\n<a href=\"http://urx.space/wKG4\" rel=\"nofollow\">東京都葛飾区立石1-11-7 </a></p>\n<h3>参加費</h3>\n<p>6,000円くらい（お酒込み）  </p>",
+          "link": "https://fm-mkmk.connpass.com/event/271277/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-05T02:50:30.000Z",
+          "wordCount": 906,
+          "title": "FileMakerもぐもぐ会#85 新年会",
+          "imageUrl": "https://connpass.com/static/img/468_468.png"
+        },
+        {
+          "id": "https://fm-mkmk.connpass.com/event/271274/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/22 13:00 ～ 17:00<br />開催場所: 葛飾区東立石3-34-12<br /><br /><p>今月はもぐもぐ新年会も行うので立石で開催です。</p>\n<hr>\n<h2>重要</h2>\n<h4>咳が続くなど体調が良くない方には、他の参加者の健康へ配慮しご帰宅いただく場合があります。</h4>\n<p>この会ではキャンセルに対し何のペナルティもありませんので、体調不良を感じたら当日でもキャンセルしてゆっくりと静養してください。  </p>\n<hr>\n<h3>参加費</h3>\n<ul>\n<li>無料    </li>\n</ul>\n<hr>\n<h3>定員</h3>\n<ul>\n<li>10人（増枠しません）<br>\n※今までは申し込まれたすべての方を参加可能にしておりましたが、しばらくは増やさない運用にしたいと思います。<br>\n  ご理解のほどよろしくお願いします。</li>\n</ul>\n<hr>\n<h3>日時</h3>\n<ul>\n<li>2023/01/22 13:00〜17:00くらい<br>\n  （12:45くらいに開場）</li>\n</ul>\n<hr>\n<h3>場所</h3>\n<p>東立石地区センター別館 （葛飾区東立石3-34-12）<br>\n<strong> ※別館の方ですのでご注意を </strong>  </p>\n<h2>会場までのルート</h2>\n<ul>\n<li><a href=\"http://urx.space/0Iqo\" rel=\"nofollow\">京成立石駅からのルート</a>  </li>\n</ul>\n<h2>もぐもぐ新年会</h2>\n<p>会場：<a href=\"https://1gyo3mai.favy.jp/\" rel=\"nofollow\">いこい食堂</a><br>\nお申し込みは<a href=\"https://connpass.com/event/271277\" rel=\"nofollow\">FileMakerもぐもぐ会#85 新年会</a></p>",
+          "link": "https://fm-mkmk.connpass.com/event/271274/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-05T02:49:53.000Z",
+          "wordCount": 935,
+          "title": "FileMakerもくもく会#85",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/c0/2c/c02c64bb7cf879d9c9f37f3139f775d4.png"
+        },
         {
           "id": "https://coderdojo-musashikosugi.connpass.com/event/271278/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
