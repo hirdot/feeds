@@ -1104,106 +1104,6 @@
           "wordCount": 475,
           "title": "AWS、ウォーターポジティブに向けたコミットメントを発表 2030 年までに使用量以上の水を地域社会に還元",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "0e6603b843a857f5c755b1eb43985a23261c8728",
-          "author": "aws@amazon.com",
-          "description": "Amazon QuickSight で Paginated Reports がサポートされました。これにより、詳細な運用データをカスタム書式で取得でき、日常的に行われる重要な業務プロセスの負担が軽減されます。例えば、運用メトリクスの週次スナップショットを表形式で取得して、ビジネスチームによる重要なレビューで活用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-quicksight-announces-paginated-reports/",
-          "publishedOn": "2022-12-07T18:19:20.000Z",
-          "wordCount": 322,
-          "title": "Amazon QuickSight から Paginated Reports がリリース",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "15966fd967a6ce97eff831fc60119cce98c5d0a9",
-          "author": "aws@amazon.com",
-          "description": "AWS は、Amazon EC2 M6in/M6idn インスタンスおよびAmazon EC2 R6in/R6idn インスタンスの一般提供を開始したことを発表しました。ネットワーク向けに最適化されたこの第 6 世代のインスタンスは、3.5 GHz のオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサを搭載しています。これは、AWS から初めて提供される x86 ベースのメモリ最適化型汎用インスタンスで、最大 200 Gbps のネットワーク帯域幅を提供します。このインスタンスは、第 5 世代のインスタンスと比べ、ネットワーク帯域幅が最大 2 倍になり、パケット処理性能が最大 2 倍に向上されています。このインスタンスは、専用ハードウェアと軽量ハイパーバイザーを組み合わせた AWS Nitro System で構築されています。このシステムは、ホストハードウェアのコンピューティングリソースおよびメモリリソースを実質的にすべてお客様のインスタンスに提供し、全体的なパフォーマンスおよびセキュリティを改善します。そのため、SQL/NoSQL データベース、インメモリデータベース (SAP HANA)、電気通信アプリケーション (5G ユーザープレーン機能 (UPF))、高性能ファイルシステム、ウェブ規模の分散型インメモリキャッシュ、キャッシュフリート、リアルタイムビッグデータ解析といったアプリケーションのパフォーマンスを向上させることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/",
-          "publishedOn": "2022-12-07T18:18:17.000Z",
-          "wordCount": 408,
-          "title": "Amazon EC2 のネットワーク最適化インスタンス M6in、M6idn、R6in、R6idn を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "c55bdb6396663d5be081b00a31989678823755c9",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for NetApp ONTAP に、他のネットワーク (オンプレミスネットワークおよび AWS でピアリングされたネットワーク) から Multi-AZ ファイルシステムへのアクセスをさらに容易にする新機能が追加されました。本日より、ルーティング構成を新たに作成することなく、AWS Transit Gateway 経由で他のネットワークからアクセス可能な Multi-AZ ファイルシステムを作成できるようになり、よりすばやく簡単に運用を開始できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-fsx-netapp-ontap-access-multi-az-file-systems-on-premises-peered-networks/",
-          "publishedOn": "2022-12-07T18:17:26.000Z",
-          "wordCount": 338,
-          "title": "Amazon FSx for NetApp ONTAP により、オンプレミスとピア間ネットワークからの Multi-AZ ファイルシステムへのアクセスを簡素化",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "23054ddf54591f616b9facfba54ef3936230552c",
-          "author": "aws@amazon.com",
-          "description": "Java 向け AWS Lambda SnapStart を使用すると、追加料金なしで関数の起動を 10 倍高速化できます。Lambda SnapStart は、AWS Lambda を使用して応答性と拡張性が高い Java アプリケーションの簡単な構築を可能にするパフォーマンス最適化ソリューションです。リソースをプロビジョニングしたり、複雑なパフォーマンスの最適化に時間や労力を費やしたりする必要はありません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/",
-          "publishedOn": "2022-12-07T18:16:18.000Z",
-          "wordCount": 355,
-          "title": "Java 関数向け AWS Lambda SnapStart の発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "8e41cc5b0fb7bfe51347c5943d2ae3cddcd00026",
-          "author": "aws@amazon.com",
-          "description": "アプリケーションの可用性をさらに向上させる 4 つの Elastic Load Balancing 機能が新たに発表されました。AWS は、アプリケーションをさまざまな種類の障害から分離できるように、リージョンやアベイラビリティーゾーンのような複数の構成要素を提供しています。本日より、障害発生時のアプリケーションの動作を定義できる新機能、ならびに障害からの復旧を高速化するのに役立つ機能を追加しました。新たに追加された機能は以下のとおりです。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/elastic-load-balancing-capabilities-application-availability/",
-          "publishedOn": "2022-12-07T18:05:36.000Z",
-          "wordCount": 367,
-          "title": "Elastic Load Balancing 機能でアプリケーションの可用性を向上",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7e543ddcae5becaeecbfee2c0ea0fcb64d92e22a",
-          "author": "aws@amazon.com",
-          "description": "AWS Nitro Enclaves で Nitro エンクレーブを編成するための Amazon EKS と Kubernetes のサポートを開始しました。これにより、Kubernetes ポッドからエンクレーブを編成、スケーリング、デプロイする際に、使い慣れた Kubernetes のツールを使用できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/",
-          "publishedOn": "2022-12-07T18:04:43.000Z",
-          "wordCount": 353,
-          "title": "AWS Nitro Enclaves で Amazon EKS と Kubernetes のサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "35e44696f6450fe424b9f815b4575cad11afcaee",
-          "author": "aws@amazon.com",
-          "description": "AWS Local Zones が新たに 4 つの都市圏 (ブエノスアイレス、コペンハーゲン、ヘルシンキ、マスカット) で利用できるようになりました。Local Zones を使用して、10 ミリ秒未満のレイテンシーまたはローカルデータ処理を必要とするアプリケーションを提供できるようになりました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-local-zones-buenos-aires-copenhagen-helsinki-muscat/",
-          "publishedOn": "2022-12-07T18:03:54.000Z",
-          "wordCount": 343,
-          "title": "AWS Local Zones がブエノスアイレス、コペンハーゲン、ヘルシンキ、およびマスカットで一般提供開始に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cb2942074113e08385c6741a6aca9f20984dc029",
-          "author": "aws@amazon.com",
-          "description": "Amazon FSx for OpenZFS で、高速 NVMe キャッシュを搭載し、これまでの世代と比べて最大スループットと最大 IOPS が 2 倍になった次世代のファイルシステムの提供が開始されました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/",
-          "publishedOn": "2022-12-07T18:02:53.000Z",
-          "wordCount": 344,
-          "title": "次世代 Amazon FSx for OpenZFS ファイルシステムの発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f7c650d264bf125b16e018ea9160f8f87e613b26",
-          "author": "aws@amazon.com",
-          "description": "AWS は、Amazon Elastic Compute Cloud (Amazon EC2) C6in インスタンスの一般提供を発表しました。C6in インスタンスは、3.5 GHz までのオールコアターボ周波数を備えた第 3 世代インテル Xeon スケーラブルプロセッサを搭載しています。これは、AWS から初めて提供される x86 ベースの Amazon EC2 コンピューティング最適化インスタンスで、最大 200 Gbps のネットワーク帯域幅を提供します。C6in インスタンスは、C5n インスタンスと比較して最大 2 倍のネットワーク帯域幅と 2 倍のパケット処理性能を実現します。G6in インスタンスは、専用ハードウェアと軽量ハイパーバイザーを組み合わせた AWS Nitro System で構築されます。このシステムは、ホストハードウェアのコンピューティングリソースおよびメモリリソースを実質的にすべてお客様のインスタンスに提供し、全体的なパフォーマンスおよびセキュリティを改善します。ネットワーク仮想アプライアンス (ファイアウォール、仮想ルーター、ロードバランサー)、Telco 5G User Plane Function (UPF)、データ分析、ハイパフォーマンスコンピューティング (HPC)、AI/機械学習ベースのワークロードのようなアプリケーションのパフォーマンスをスケールするために、より高いネットワーク帯域幅を利用できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/",
-          "publishedOn": "2022-12-07T18:02:05.000Z",
-          "wordCount": 389,
-          "title": "Amazon EC2 C6in インスタンスのご紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "cee0a7335f5523bbcf051ad93c8c912648834471",
-          "author": "aws@amazon.com",
-          "description": "AWS は、Amazon Elastic Compute Cloud (EC2) インスタンス用の Elastic Network Adapter (ENA) Express の一般提供を発表しました。現世代の EC2 インスタンスはすべて、専用のネットワークインターフェイスである ENA を使用し、卓越したネットワークエクスペリエンスを提供しています。ENA Express は、AWS Scalable Reliable Datagram (SRD) プロトコルを使用して、EC2 インスタンス間のネットワークトラフィックのシングルフロー帯域幅の拡大とテールレイテンシーの低減という、主に 2 つの方法でネットワークパフォーマンスを向上させる新しい ENA 機能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/elastic-network-adapter-ena-express-amazon-ec2-instances/",
-          "publishedOn": "2022-12-07T18:01:12.000Z",
-          "wordCount": 381,
-          "title": "Amazon EC2 向け Elastic Network Adapter (ENA) Express を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -3382,6 +3282,16 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://connpass.com/event/269638/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/20 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>[テーマ]</h1>\n<p>Oracle×dip 事業会社のUXデザイナーが語る!UXデザイナーって、何してるの?</p>\n<h1>[コンテンツ]</h1>\n<p>UXデザインという言葉は、デザイナーだけでなくビジネスシーンでも注目されるようになりました。\n事実、事業会社の社内にも<strong>「UXデザイナー」</strong>として活動しているメンバーがいます。</p>\n<p>事業会社に所属するUXデザイナーは、実務で何をしているのか?\nどうして、UXデザイナーになったのか?\n実務や今までの歩みをお話します。</p>\n<p>また、事業会社に所属するUXデザイナーならではの\n「何が出来たら、UXデザイナーなのだろう?」\n「他社やデザイン会社と比べたら・・・?」\n・・・といった悩みについて、\nパネルディスカッションを予定しています。</p>\n<h1>[スケジュール]</h1>\n<p>1月 20日（金） 19:00～</p>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"left\">セッション</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">19:00</td>\n<td align=\"left\">イベント開始</td>\n</tr>\n<tr>\n<td align=\"left\">19:10</td>\n<td align=\"left\">ディップ株式会社 発表・QA （テーマ調整中）</td>\n</tr>\n<tr>\n<td align=\"left\">19:30</td>\n<td align=\"left\">日本オラクル株式会社 発表・QA（テーマ調整中）</td>\n</tr>\n<tr>\n<td align=\"left\">19:50</td>\n<td align=\"left\">登壇者トークセッション -事業会社のUXデザイナーとは？（仮）-</td>\n</tr>\n<tr>\n<td align=\"left\">20:10</td>\n<td align=\"left\">質疑応答・ディスカッション</td>\n</tr>\n<tr>\n<td align=\"left\">20:30</td>\n<td align=\"left\">終了</td>\n</tr>\n</tbody>\n</table>\n<h1>登壇者</h1>\n<p>【日本オラクル株式会社】\n清水優衣 (ソーシャル・デザイン推進本部）</p>\n<p>【ディップ株式会社】\n小林香織 (商品開発本部　dip Robotics　UX・PdM課)</p>\n<h1>注意事項</h1>\n<p>本イベントはリモート開催の様子が共有されます。\nまた参加者や運営によってイベントの様子を撮影した写真が、SNSなどネットにアップされることがあります。ご了承ください。</p>\n<p>ご来場者の皆様に最大限楽しんで頂けるよう、運営側で参加にふさわしくないと判断した方については、 運営側で事前キャンセルやイベント中でもご参加をお断りさせて頂くことがあります。</p>\n<p>ネットワークビジネス・保険・宗教などの勧誘が目的と見られる方\nその他運営サイドで参加が不適切だと判断した方\nあらかじめご了承ください。</p>",
+          "link": "https://connpass.com/event/269638/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-06T06:21:21.000Z",
+          "wordCount": 964,
+          "title": "Oracle×dip 事業会社のUXデザイナーが語る!UXデザイナーって、何してるの?",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/fa/4a/fa4a111ee0b7580e8a9464de01eb92ee.png"
+        },
         {
           "id": "https://dblectures.connpass.com/event/271308/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
@@ -11271,26 +11181,6 @@
           "wordCount": 919,
           "title": "【音声のみ】第35回プログラミング・web初学者もくもく勉強会（日中）",
           "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/e7/79/e779646a6fcaedf7b4acab5c4e5cc2cb.png"
-        },
-        {
-          "id": "https://no-genre-mokumoku.connpass.com/event/269082/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
-          "author": null,
-          "description": "開催日時: 2022/12/16 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>\n<p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)\n<br>\n<br></p>\n<h2>Break</h2>\n<p>もくもく会参加者がゲームを作成してくれました。<br>\n息抜きに是非遊んでください。<br>\n<a href=\"http://uaaaaaaaa.com/pf/zixntori404\" rel=\"nofollow\">http://uaaaaaaaa.com/pf/zixntori404</a>\n<br>\n<br>\nアドベントカレンダーやってます。気軽になんでも書いてください<br>\n<a href=\"https://adventar.org/calendars/7743\" rel=\"nofollow\">https://adventar.org/calendars/7743</a></p>",
-          "link": "https://no-genre-mokumoku.connpass.com/event/269082/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
-          "publishedOn": "2022-12-07T18:33:59.000Z",
-          "wordCount": 884,
-          "title": "12/16(金)【第1555回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK",
-          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
-        },
-        {
-          "id": "https://no-genre-mokumoku.connpass.com/event/269081/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
-          "author": null,
-          "description": "開催日時: 2022/12/16 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>\n<p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)\n<br>\n<br></p>\n<h2>Break</h2>\n<p>もくもく会参加者がゲームを作成してくれました。<br>\n息抜きに是非遊んでください。<br>\n<a href=\"http://uaaaaaaaa.com/pf/zixntori404\" rel=\"nofollow\">http://uaaaaaaaa.com/pf/zixntori404</a>\n<br>\n<br>\nアドベントカレンダーやってます。気軽になんでも書いてください<br>\n<a href=\"https://adventar.org/calendars/7743\" rel=\"nofollow\">https://adventar.org/calendars/7743</a></p>",
-          "link": "https://no-genre-mokumoku.connpass.com/event/269081/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
-          "publishedOn": "2022-12-07T18:32:26.000Z",
-          "wordCount": 884,
-          "title": "12/16(金)【第1554回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
-          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
         }
       ]
     }
