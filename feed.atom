@@ -2,10 +2,434 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T04:01:36.555Z</updated>
+    <updated>2023-01-06T05:01:25.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ハイブリット開催】Javaで最強コンカレントプログラミング]]></title>
+        <id>https://ochacafe.connpass.com/event/268821/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://ochacafe.connpass.com/event/268821/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:36:41.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/02/08 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h2><font color="orange">OCHa Cafeはハイブリット開催！</font><br>会場参加者限定 ノベルティプレゼント中！</h2>
+<h2>OCHaCafe シーズン6 最終回！</h2>
+<p>Oracle Cloud Hangout Cafe (通称「おちゃかふぇ」) は開発者・エンジニアに向けたテクニカルな勉強会です。クラウドネイティブな時代に身につけておくべきテクノロジーを深堀りしていきます。<br>
+OCHaCafe のテーマはオープン/デファクト・スタンダードを基準に選定し、参加される皆さんがどんなプラットフォームを使っていたとしても必ずスキルアップに役立てられる内容になっています。</p>
+<h3><strong>LT登壇者募集中！</strong></h3>
+<p>Season 6 でも メイン・セッションに加えてLT枠を設けています。<br>
+クラウドネイティブなトピックであれば内容不問の10分間セッションに登壇する方を広く募りますので、是非この機会に皆さんも私たちと共におちゃかふぇに参加して一緒に盛り上げて下さい！</p>
+<h2>今回のテーマ</h2>
+<p>"おちゃかふぇ" Season 6 最終回は Java の最新技術情報をお届けします。<br>
+Java のスレッドは 1 つの Java スレッドが 1 つの OS スレッドに厳密に対応するというルールのもと実装されていましたが、Java 19 にプレビューとして追加された新機能である Virtual Thread によって JVM 上で軽量なスレッドが扱えるようになりました。<br>
+そこで今回は、Java でコンカレントプログラミングを扱う方法を復習したあとに Virtual Thread が含まれている Project Loom をできるだけ分かりやすく解説します。<br>
+また、Virtual Thread に基づく初の Java のマイクロサービス・フレームワークである、Helidon Nima も紹介します。
+今回もデモを沢山ご用意しておりますので、奮ってご参加ください！<br>
+​</p>
+<h2>こんな方におすすめ</h2>
+<ul>
+<li>Java を使っている開発者の方</li>
+<li>Java でのコンカレントプログラミングに興味がある方</li>
+<li>Project Loom(特にVirtual Thread)に興味がある方</li>
+<li>Helidon Nima に興味のある方</li>
+</ul>
+<h3>参加方法・申し込みについて</h3>
+<blockquote>
+<h3>参加申し込み方法<br></h3>
+<p>参加ご希望の方は下記URL にアクセスいただきご希望の参加方法をお選びの上、参加登録をお願いします。<br>
+- 会場参加ご希望の場合：<a href="https://bit.ly/ocha-0208" rel="nofollow">https://bit.ly/ocha-0208</a><br>
+- オンライン参加ご希望の場合 : <a href="https://www.oracle.com/goto/code-jp" rel="nofollow">https://www.oracle.com/goto/code-jp</a>  <br>
+<br>
+＊お申し込み方法に関するお問い合わせは、日本オラクル セミナー事務局（ oracle-events5_jp@oracle.com ）へお願いします。<br></p>
+<h3>★オンライン参加方法 <br></h3>
+<p>当日のウェビナーはZoomを使用して開催します。<br>
+お申し込みいただいた後に、登録完了メールがお手元に届きます。<br>
+そちらのメールに当日の参加用 URLとPWが掲載されておりますので、ご確認をお願いします。<br></p>
+<h3>★会場参加方法<br></h3>
+<p>開催当日、受付にお越しの際は、受付担当に参加申し込み後に送付される登録完了メールをお見せいただき、お名刺を1枚お渡しいただきますようご協力をお願いします。<br>
+＊お名刺をお忘れの場合は、受付にてお名前、ご連絡先などをお伺いさせていただきます。
+<br></p>
+<h3>★コロナウィルス感染症対策への取り組み <br></h3>
+<p>① 入場時のマスク着用必須 <br>
+② 入場前の検温、手指のアルコール消毒 <br>
+③ 氏名、連絡先、住所等の記入 <br>
+　＊受付時、受付担当へお名刺を1枚お渡しいただきますようお願いします。 <br>
+④ 会場の換気・消毒 <br></p>
+</blockquote>
+<h2>タイムスケジュール</h2>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18:30 -</td>
+<td>受付開始 （日本オラクル本社 13F セミナールーム）</td>
+</tr>
+<tr>
+<td>18:50 -</td>
+<td>接続開始 （Zoom ウェビナー）</td>
+</tr>
+<tr>
+<td>19:00 -</td>
+<td><strong>オープニング</strong></td>
+</tr>
+<tr>
+<td>19:05 -</td>
+<td><strong>LTセッション</strong> ＊タイトル近日公開<br>登壇：募集中</td>
+</tr>
+<tr>
+<td>19:15 -</td>
+<td><strong>メインセッション</strong>　Javaで最強コンカレントプログラミング<br>登壇：<a href="https://connpass.com/user/skawamura13/" rel="nofollow">shukawam</a></td>
+</tr>
+<tr>
+<td>20:40 -</td>
+<td><strong>Q&amp;A</strong></td>
+</tr>
+<tr>
+<td>- 21:00</td>
+<td><strong>終了</strong><br>★セッションやQ&amp;Aの進行状況によって終了時間が変更になる場合があります</td>
+</tr>
+</tbody>
+</table>
+<h1>Season 6 のテーマ</h1>
+<p>以下を予定しています。（全6回を予定）  </p>
+<table>
+<thead>
+<tr>
+<th align="center">#</th>
+<th align="left">テーマ</th>
+<th align="left">キーワード</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="left">Service Mesh がっつり入門</td>
+<td align="left">Istio, Linkerd, OCI Service Mesh, etc.</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="left">GraalVM 最新事情</td>
+<td align="left">Truffle, native image, Debugger, Micronaut, etc.</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="left">ワークフローツールで楽々Job管理</td>
+<td align="left">airflow, Argo Workflows, etc.</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="left">Pythonで作るAPIサーバー</td>
+<td align="left">Flask, FastAPI, Django, etc.</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="left">サーバレス on Kubernetes</td>
+<td align="left">Knative, KEDA, Kubeless, etc.</td>
+</tr>
+<tr>
+<td align="center"><strong>6</strong></td>
+<td align="left"><strong>Javaで最強コンカレントプログラミング</strong></td>
+<td align="left"><strong>Concurrency Utilities/for Java EE, Loom, etc.</strong></td>
+</tr>
+</tbody>
+</table>
+<p>※発表順序・テーマは変更する可能性があります。<br>
+テーマ毎にOracle Cloudを使ったデモやアーキテクチャをご紹介します。</p>
+<h2>お願い</h2>
+<p>下記「プライバシーポリシー」をご確認・ご了承いただいた上で、お申し込みの際はお名前等のご記入をお願いします。<br>
+ご協力いただけない場合は当日参加をお断りさせていただく場合がございますので、予めご了承ください。</p>
+<p>&lt;プライバシーポリシー / 個人情報の取り扱いについて&gt;<br>
+<a href="https://www.oracle.com/jp/legal/privacy/privacy-policy.html" rel="nofollow">https://www.oracle.com/jp/legal/privacy/privacy-policy.html</a>   <br>
+<br></p>
+<h1>その他</h1>
+<p>Twitter ハッシュタグは #ochacafe です。  <br></p>
+<p>Oracle Cloud：<a href="https://www.oracle.com/jp/cloud" rel="nofollow">https://www.oracle.com/jp/cloud</a>  <br>
+Oracle Cloud Free Trial： <a href="https://www.oracle.com/jp/cloud/free/?source=:ex:tb:::::Connpass&amp;SC=:ex:tb:::::Connpass&amp;pcode=" rel="nofollow">https://www.oracle.com/jp/cloud/free/</a>  <br></p>
+<p>過去の資料はすべてconnpassの<a href="https://ochacafe.connpass.com/presentation/" rel="nofollow">Oracle Cloud Hangout Cafe</a>にアップされております。<br>
+是非チェックしてください！</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もくもく勉強会in那覇市(1/31開催)]]></title>
+        <id>https://abridgeokinawa.connpass.com/event/271379/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://abridgeokinawa.connpass.com/event/271379/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:33:56.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/31 19:00 ～ 21:00<br />開催場所: 沖縄県那覇市おもろまち4-6-6<br /><br /><h2>概要</h2>
+<p>「一人で集中して勉強できない」 「職場以外のエンジニアと交流したい」 「エンジニア転職のため勉強したい」</p>
+<p>現役エンジニアも、これからエンジニアを目指す方も集まって勉強しましょう！
+Webアプリケーション開発企業の <strong> 研修ルーム </strong>にて、もくもく勉強会を開催いたします。</p>
+<p>ホームページ制作から、アプリ開発、資格取得の勉強、Web広告の勉強など、ITにかかわることであればすべてOKです！
+HTML、CSS、JavaScript、Java、PHP、Pythonなどなど様々な知識を勉強する場としてご活用ください。</p>
+<p>1人でもくもく勉強するのもOK！ 仲間ともくもく勉強するのもOK！</p>
+<p><strong> 毎週火曜日の19時～21時の2時間で開催中 </strong></p>
+<ul>
+<li>お好きな時間に退出頂いて構いません。</li>
+<li>21時～22時の間、弊社派遣スタッフとの勉強会を開催しております。もし、ご興味がありましたら引き続きご参加頂いても構いません。</li>
+</ul>
+<h2>弊社からのお願い</h2>
+<ul>
+<li>発熱や風邪症状がある方の来場はご遠慮ください </li>
+<li>来場時マスク着用</li>
+<li>ＰＣは持ち込み</li>
+<li>Wifiあり</li>
+<li>駐車場はありませので、周辺のパーキングをご利用ください</li>
+<li>弊社から営業をかけることはありませんのでご安心ください(笑)</li>
+</ul>
+<h2>注意事項</h2>
+<p>他人の嫌がる行為、迷惑になる行為、ハラスメント行為は厳禁です。問題行動が見られた場合は即退室願います。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もくもく勉強会in那覇市(1/24開催)]]></title>
+        <id>https://abridgeokinawa.connpass.com/event/271378/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://abridgeokinawa.connpass.com/event/271378/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:33:08.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/24 19:00 ～ 21:00<br />開催場所: 沖縄県那覇市おもろまち4-6-6<br /><br /><h2>概要</h2>
+<p>「一人で集中して勉強できない」 「職場以外のエンジニアと交流したい」 「エンジニア転職のため勉強したい」</p>
+<p>現役エンジニアも、これからエンジニアを目指す方も集まって勉強しましょう！
+Webアプリケーション開発企業の <strong> 研修ルーム </strong>にて、もくもく勉強会を開催いたします。</p>
+<p>ホームページ制作から、アプリ開発、資格取得の勉強、Web広告の勉強など、ITにかかわることであればすべてOKです！
+HTML、CSS、JavaScript、Java、PHP、Pythonなどなど様々な知識を勉強する場としてご活用ください。</p>
+<p>1人でもくもく勉強するのもOK！ 仲間ともくもく勉強するのもOK！</p>
+<p><strong> 毎週火曜日の19時～21時の2時間で開催中 </strong></p>
+<ul>
+<li>お好きな時間に退出頂いて構いません。</li>
+<li>21時～22時の間、弊社派遣スタッフとの勉強会を開催しております。もし、ご興味がありましたら引き続きご参加頂いても構いません。</li>
+</ul>
+<h2>弊社からのお願い</h2>
+<ul>
+<li>発熱や風邪症状がある方の来場はご遠慮ください </li>
+<li>来場時マスク着用</li>
+<li>ＰＣは持ち込み</li>
+<li>Wifiあり</li>
+<li>駐車場はありませので、周辺のパーキングをご利用ください</li>
+<li>弊社から営業をかけることはありませんのでご安心ください(笑)</li>
+</ul>
+<h2>注意事項</h2>
+<p>他人の嫌がる行為、迷惑になる行為、ハラスメント行為は厳禁です。問題行動が見られた場合は即退室願います。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もくもく勉強会in那覇市(1/17開催)]]></title>
+        <id>https://abridgeokinawa.connpass.com/event/271377/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://abridgeokinawa.connpass.com/event/271377/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:30:51.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/17 19:00 ～ 21:00<br />開催場所: 沖縄県那覇市おもろまち4-6-6<br /><br /><h2>概要</h2>
+<p>「一人で集中して勉強できない」 「職場以外のエンジニアと交流したい」 「エンジニア転職のため勉強したい」</p>
+<p>現役エンジニアも、これからエンジニアを目指す方も集まって勉強しましょう！
+Webアプリケーション開発企業の <strong> 研修ルーム </strong>にて、もくもく勉強会を開催いたします。</p>
+<p>ホームページ制作から、アプリ開発、資格取得の勉強、Web広告の勉強など、ITにかかわることであればすべてOKです！
+HTML、CSS、JavaScript、Java、PHP、Pythonなどなど様々な知識を勉強する場としてご活用ください。</p>
+<p>1人でもくもく勉強するのもOK！ 仲間ともくもく勉強するのもOK！</p>
+<p><strong> 毎週火曜日の19時～21時の2時間で開催中 </strong></p>
+<ul>
+<li>お好きな時間に退出頂いて構いません。</li>
+<li>21時～22時の間、弊社派遣スタッフとの勉強会を開催しております。もし、ご興味がありましたら引き続きご参加頂いても構いません。</li>
+</ul>
+<h2>弊社からのお願い</h2>
+<ul>
+<li>発熱や風邪症状がある方の来場はご遠慮ください </li>
+<li>来場時マスク着用</li>
+<li>ＰＣは持ち込み</li>
+<li>Wifiあり</li>
+<li>駐車場はありませので、周辺のパーキングをご利用ください</li>
+<li>弊社から営業をかけることはありませんのでご安心ください(笑)</li>
+</ul>
+<h2>注意事項</h2>
+<p>他人の嫌がる行為、迷惑になる行為、ハラスメント行為は厳禁です。問題行動が見られた場合は即退室願います。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もくもく勉強会in那覇市(1/10開催)]]></title>
+        <id>https://abridgeokinawa.connpass.com/event/271375/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://abridgeokinawa.connpass.com/event/271375/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:29:16.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/10 19:00 ～ 21:00<br />開催場所: 沖縄県那覇市おもろまち4-6-6<br /><br /><h2>概要</h2>
+<p>「一人で集中して勉強できない」 「職場以外のエンジニアと交流したい」 「エンジニア転職のため勉強したい」</p>
+<p>現役エンジニアも、これからエンジニアを目指す方も集まって勉強しましょう！
+Webアプリケーション開発企業の <strong> 研修ルーム </strong>にて、もくもく勉強会を開催いたします。</p>
+<p>ホームページ制作から、アプリ開発、資格取得の勉強、Web広告の勉強など、ITにかかわることであればすべてOKです！
+HTML、CSS、JavaScript、Java、PHP、Pythonなどなど様々な知識を勉強する場としてご活用ください。</p>
+<p>1人でもくもく勉強するのもOK！ 仲間ともくもく勉強するのもOK！</p>
+<p><strong> 毎週火曜日の19時～21時の2時間で開催中 </strong></p>
+<ul>
+<li>お好きな時間に退出頂いて構いません。</li>
+<li>21時～22時の間、弊社派遣スタッフとの勉強会を開催しております。もし、ご興味がありましたら引き続きご参加頂いても構いません。</li>
+</ul>
+<h2>弊社からのお願い</h2>
+<ul>
+<li>発熱や風邪症状がある方の来場はご遠慮ください </li>
+<li>来場時マスク着用</li>
+<li>ＰＣは持ち込み</li>
+<li>Wifiあり</li>
+<li>駐車場はありませので、周辺のパーキングをご利用ください</li>
+<li>弊社から営業をかけることはありませんのでご安心ください(笑)</li>
+</ul>
+<h2>注意事項</h2>
+<p>他人の嫌がる行為、迷惑になる行為、ハラスメント行為は厳禁です。問題行動が見られた場合は即退室願います。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoderDojoせんなん　第５３回道場]]></title>
+        <id>https://coderdojo-sennan.connpass.com/event/271376/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://coderdojo-sennan.connpass.com/event/271376/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:28:17.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/14 13:30 ～ 15:30<br />開催場所: 大阪府泉南市樽井1-8-47<br /><br /><p>子ども達のためのプログラミング道場を開催します。
+道場ではScratchを使って自由に作品を制作することができます。
+その後、作品発表会を行います。</p>
+<p>タイムスケジュール</p>
+<table>
+<thead>
+<tr>
+<th align="right">　time　</th>
+<th align="left">　プログラム　</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">13:10</td>
+<td align="left">　受付開始　</td>
+</tr>
+<tr>
+<td align="right">13:30</td>
+<td align="left">　道場開始　</td>
+</tr>
+<tr>
+<td align="right">15:00</td>
+<td align="left">　作品発表会　</td>
+</tr>
+<tr>
+<td align="right">15:30</td>
+<td align="left">　終了　</td>
+</tr>
+</tbody>
+</table>
+<p>※時間は多少前後することがあります</p>
+<h1 style="color: red;">感染防止対策について</h1>
+<p>道場では以下の対策を行います。</p>
+<ul>
+<li>参加者の座席は対面しない、また座席間の距離を十分に取ります。</li>
+<li>窓を開放して十分に換気をします。</li>
+<li>メンターはマスクを着用します。</li>
+<li>あらかじめ使用する機器や設備などの除菌をします。</li>
+</ul>
+<p>参加される方には以下の対策をお願いします。</p>
+<ul>
+<li>体温が高いなど、体調が良くない場合は参加を見合わせてください。</li>
+<li>マスクの着用をしてください。</li>
+<li>入室前の手洗いをお願いします。</li>
+<li>その他会場側の注意事項にご協力をお願いします。</li>
+</ul>
+<p><b style="color: red;"><u>上記の感染防止対策に同意の上、道場にご参加ください。</u></b></p>
+<h1>参加対象者</h1>
+<h2>７歳～１７歳を対象としています</h2>
+<h2>ノートパソコンをご持参ください</h2>
+<p>ノートパソコンをお持ちでない方は、道場でノートパソコンを貸し出しいたしますが、
+数に限りがあります。状況により、参加申し込みをお受けできないことがあります。ご了承ください。</p>
+<h2>Scratchを使ってプログラミングを行います</h2>
+<p>しかし、プログラミングの経験が無くても大丈夫です。
+Scratchの使い方など初心者向けの解説を用意しています。</p>
+<h2>micro:bitを使ったプログラミングもできます</h2>
+<p>micro:bitの機材一式は道場で用意しております。面白いプログラミングができます。</p>
+<p>(1)Scratchでプログラミングして、micro:bitを入力装置として使う<br>
+(2)micro:bitに直接プログラミングをする（すべての機能が使える）</p>
+<p>道場にて使い方を学習することができます。</p>
+<p><b style="color: red;">New</b>
+サンプルプログラムを実際に動かしますので見てください。</p>
+<h2>Makeblock Halocodeを使ったプログラミングもできます</h2>
+<p>必要な機材は道場で用意しております。Scratch3.0に基づいたプログラミングを行います。
+Scratch経験者で挑戦してみたい方はお申し出ください。</p>
+<h1>会場</h1>
+<h2>あいぴあ泉南</h2>
+<p>施設敷地内に駐車場(無料)を完備しています。</p>
+<p style="color: red;">使用する部屋は当日の掲示を確認してください。</p>
+
+<p>参加人数によって使用する部屋が変わることがあります。１階受付近くの掲示板をご確認ください。</p>
+<h1>費用</h1>
+<p>無料で参加いただけます。（私達はボランティアで活動していますので、<b style="color: blue;">寄付は歓迎いたします。</b>）</p>
+<h1>写真・動画撮影のお願い</h1>
+<p>道場の開催中に、記録用の写真や動画の撮影を行います。<strong>SNS等で活用することがあることを、ご理解・ご承知おきください。</strong></p>
+<h1>個人情報の取り扱いについて</h1>
+<p>今回のイベント申込に関して提供していただいた個人情報につきましては、CoderDojoせんなんからの連絡のために使用します。</p>
+<h1>見学のみ希望の方は今回ご遠慮ください（参加者の保護者を除く）</h1>
+<p>会場に使用する部屋に人数制限があるため、今回は見学のみ希望の方を受け入れることができません。ご了承ください。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熊谷さんのやさしいSwift勉強会 #201 #YUMEMI.grow]]></title>
+        <id>https://yumemi.connpass.com/event/270979/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://yumemi.connpass.com/event/270979/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-06T04:00:35.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/11 13:00 ～ 14:00<br />開催場所: オンライン<br /><br /><h1>熊谷さんのやさしい Swift 勉強会 とは</h1>
+<p>株式会社ゆめみで社内向けに開催している勉強会で、Swift の言語そのものに着目して基礎をみんなでじっくり見ていく時間になります。そんな社内勉強会に外の人にも参加してもらおうと一般公募を開始しました。</p>
+<p>社内のジュニアエンジニアがメインターゲットになっていますが、日頃から Swift 言語を使っている人はもちろん、普段は Swift に親しみがないけどなんとなく気になった人など、プログラミングに携わる人も携わらない人もどなたでも歓迎です。</p>
+<h4>オンライン開催</h4>
+<p>Zoom を使ったオンライン開催になりますけれど、対話を強いることはないですし、カメラは ON でも OFF でも大丈夫ですので、気兼ねなく参加してもらえると幸いです。</p>
+<h1>YUMEMI.grow とは</h1>
+<p>株式会社ゆめみが開催する勉強会の総称です。
+最新の技術や業務で得た知見・ベストプラクティスなどの情報共有、
+エンジニア同士の交流を目的としています。</p>
+<h1>進め方</h1>
+<p>Apple の Swift 公式解説書 The Swift Programming Language の流れに沿いながら、Swift 言語の基礎的なところを広く深く、時間をかけて眺めていきます。</p>
+<p>単に読書するだけでなく、ときにみんなと自由に話したりしながら Swift に親しみ、その素養を高めて自身で考える力を養うきっかけにしてもらうのを目的としています。</p>
+<h1>タイムスケジュール</h1>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>内容</th>
+<th>担当</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:00 - 適宜</td>
+<td>開場・準備・談笑タイム</td>
+<td></td>
+</tr>
+<tr>
+<td>- 14:00</td>
+<td>熊谷さんのやさしい Swift 勉強会</td>
+<td>@es_kumagai</td>
+</tr>
+</tbody>
+</table>
+<p>基本的には 13:00 から 14:00 までが勉強会の時間になります。それでもこの時間にきっちり居ないといけないことはないので、 <strong>遅れて入室してもらっても早めに退室してもらっても大丈夫</strong> です。近ごろは最初の 20 分くらいは雑談しながら人が集まるのを待っていたりする感じですので、それを見越して遅くから入ってくる人もふつうにいます。</p>
+<h1>近ごろの話題</h1>
+<p>最近は <a href="https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html#" rel="nofollow">Language Guide &gt; The Basics</a> の Assertions and Preconditions 辺りを読み進めていっています。</p>
+<h1>オリエンテーション</h1>
+<p>勉強会の様子についてもう少し詳しく知りたい方は、こちらの <a href="https://drive.google.com/file/d/1okmp-0d--2aM2-r1N1IFx-VbZBvb02kz/view?usp=sharing" rel="nofollow">オリエンテーション</a> 資料に会の趣旨などを記していますので、こちらも合わせてご覧ください。</p>
+<h1>これまでの動画</h1>
+<p>まだ更新中ですが、これまでの開催録画は YouTube からご覧いただけます！</p>
+<p><a href="https://www.youtube.com/playlist?list=PL3Utf2i5RcCxpuECdfLlXJnF_TsTUVIf6" rel="nofollow">https://www.youtube.com/playlist?list=PL3Utf2i5RcCxpuECdfLlXJnF_TsTUVIf6</a></p>
+<h1>参加する際の留意点</h1>
+<p>勉強会の内容は、後日に映像として YouTube を通して一般公開される予定です。</p>
+<p>姿は映像に含まれませんが、声は基本的に含まれますので、差し障りのある場合は話すのを控えるようにお気をつけください。ライブ配信ではありませんので収録されると都合の良くない話題をうっかり話してしまった場合は後でカットできますので、萎縮せず会話にも参加してもらえたら嬉しいです。</p>
+<h1>ハッシュタグ</h1>
+<p>ハッシュタグは下記になります。<br>
+気になったことなどどんどんつぶやいてください。</p>
+<p><a href="https://twitter.com/hashtag/yumemi_grow" rel="nofollow">#yumemi_grow</a>
+<a href="https://twitter.com/hashtag/kindswift" rel="nofollow">#kindswift</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DesignOpsMeets #1 DesignOpsを立ち上げた理由と各社の取り組み【オフライン】]]></title>
         <id>https://redesigner.connpass.com/event/269097/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -53958,39 +54382,6 @@ Connpassで本イベントに申し込みの上、Twitter<a href="https://twitte
 ・学会等で既発表案件に限ります</p>
 <p>都合により、次回(1/11予定)に持ち越しになる可能性もあります。
 学会等に申し込み中で公開日がわかっている場合、そちらをエントリー時にお伝え下さい。</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20分で分かる業務可視化!Arkプロセスマイニング製品セミナー]]></title>
-        <id>https://connpass.com/event/269079/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://connpass.com/event/269079/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2022-12-07T16:58:40.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2022/12/28 14:00 ～ 14:20<br />開催場所: (場所未定)<br /><br /><p>この度、Arkプロセスマイニング製品セミナーを開催します。</p>
-<p>「業務DXを進めたいが、そもそも現状の可視化ができておらず課題がわからない」 「可視化を進めているが労力がかかるし抜け漏れが多い」 このような課題を感じている方向けに、業務可視化を成功へ導くためのプロセスマイニング活用を解説します。</p>
-<p>もともとプロセスマイニングは2010年代はじめからドイツを中心に広がりました。欧州企業ではSAPなどのERPを活用しているケースが多いため、プロセスマイニングで固有のイベントログを収集し最適な業務フローを導き出すためのツールとして活用されています。</p>
-<p>日本でも近年RPAをはじめとした業務自動化の盛り上がりとともにプロセスマイニングにもスポットライトが浴びようとしています。ひと昔前であれば、業務自動化をするといえばシステム開発くらいしか選択肢がありませんでしたが、現在はRPA・パッケージソフト・SaaSの活用などツールが溢れかえっています。</p>
-<p>正しい業務自動化の施策を判断して、システム投資をしていくためには現状の業務を把握することが不可欠です。一方で日本は業務が属人化している割合が多く、自動化以前の業務把握で苦戦することが多々あります。</p>
-<p>プロセスマイニングを活用することで、自動化のボトルネックになっていた業務把握を効率よく進めることができます。それによって業務の生産性が飛躍的に向上することが期待されています。</p>
-<p>今回はプロセスマイニングを活用した業務可視化手法について学べるセミナーです。ぜひご参加ください。</p>
-<p>コンテンツ
-1.業務DXとプロセスマイニングとは？</p>
-<p>2.Arkプロセスマイニングの機能デモ</p>
-<p>3.活用方法のステップ</p>
-<p>講師プロフィール
-与田 明　PLAY株式会社代表取締役</p>
-<p>2017年からRPAテクノロジーズにて、RPAのセールスから導入PoCの支援、客先での開発に従事。 2018年にはアジアクエスト社でRPA事業の立ち上げを行う。2019年4月PLAY株式会社を創業し、プロセスマイニングとRPAを組み合わせた業務改革支援を行っている。</p>
-<p>こんな方におすすめ
-・DXに興味がある方</p>
-<p>・社内の業務可視化を行っている方</p>
-<p>・社内のオペレーションに課題を感じている方</p>
-<p>開催概要
-日時：2022年12月28日(水)　14:00～14:20</p>
-<p>場所：オンライン　zoom</p>
-<p>受講料：無料</p>
-<p>主催：PLAY株式会社 <a href="https://play-company.jp/" rel="nofollow">https://play-company.jp/</a></p>
-<p>問い合わせ先 メール：info@play-company.jp 電話：03-6822-3516</p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
         </author>
