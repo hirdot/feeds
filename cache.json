@@ -464,96 +464,6 @@
           "wordCount": 317,
           "title": "Amazon Redshift で Amazon S3 からの自動コピーが可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "094b8685998fa52b2d0321693b44aed592b70bd2",
-          "author": "aws@amazon.com",
-          "description": "Trusted Language Extensions for PostgreSQL は、PostgreSQL 上で安全に動作する高性能な拡張機能の構築を支援するオープンソースの新しい開発キットです。デベロッパーは Trusted Language Extensions を使用して、Amazon Aurora PostgreSQL 互換エディション、および Amazon Relational Database Service (RDS) for PostgreSQL に、信頼できる言語で記述された拡張機能をインストールできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/trusted-language-extensions-postgresql-amazon-aurora-rds/",
-          "publishedOn": "2022-12-12T10:16:28.000Z",
-          "wordCount": 367,
-          "title": "Amazon Aurora と Amazon RDS での Trusted Language Extensions for PostgreSQL の発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a5a577679847c34647af3d225293e310559c94a1",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker はシャドウテストをサポートしており、新しい機械学習 (ML) モデルを本番モデルと比較することによりパフォーマンスを検証できます。シャドウテストにより、潜在的な設定エラーやパフォーマンスの問題を、エンドユーザーに影響を与える前に発見できます。SageMaker では、シャドウテストのためのインフラストラクチャ構築にかかる数週間の時間を削減し、モデルをより早く本番環境にリリースできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-sagemaker-shadow-testing/",
-          "publishedOn": "2022-12-12T10:11:07.000Z",
-          "wordCount": 315,
-          "title": "Amazon SageMaker でシャドウテストのサポートを発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1151c0bd3e65b14553528eba2f817540907e427d",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon SageMaker Data Wrangler において、Data Wrangler で作成したデータ準備フローをリアルタイムとバッチのシリアル推論パイプラインにデプロイすること、および Data Wrangler の処理ジョブの追加設定をサポートしたことを発表します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/sagemaker-data-wrangler-real-time-batch-inference-configurations-jobs/",
-          "publishedOn": "2022-12-12T10:10:19.000Z",
-          "wordCount": 358,
-          "title": "リアルタイム推論およびバッチ推論用の SageMaker Data Wrangler と、処理ジョブの追加設定をデプロイ",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6029e811519d2821e95a68f59ad648b94322a88b",
-          "author": "aws@amazon.com",
-          "description": "本日、Amazon SageMaker に特化した 3 つのツールを発表しました。これらの新しいツールにより、機械学習 (ML) モデルのライフサイクルにわたって、アクセス制御が簡素化するとともに透明性が向上し、機械学習プロジェクトのガバナンスを改善できます。Amazon SageMaker Role Manager を使用すると、数分でユーザーの最小限の権限を定義し、新しいユーザーを迅速に登録できます。SageMaker Role Manager は、機械学習アクティビティの権限設定を簡素化し、特定のニーズに基づいてカスタムポリシーを自動的に作成します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/new-ml-governance-tools-amazon-sagemaker/",
-          "publishedOn": "2022-12-12T10:09:31.000Z",
-          "wordCount": 314,
-          "title": "Amazon SageMaker 向けの新しい機会学習ガバナンスツールのご紹介",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "6e642e80f3267f75854be59ad1882db07f48fb9b",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Data Wrangler は、これまで機械学習 (ML) 用データの集計と準備に要していた時間を数週間から数分に短縮します。Data Wrangler を使用すると、データ準備のプロセスと特徴量エンジニアリングを簡素化し、データの選択、可視化、クレンジング、準備などのデータ準備ワークフローの各ステップをローコードのビジュアルインターフェイスから行うことができます。ML 実践者の多くは、ノートブックでデータセットを直接探索して、欠落した情報、極値、ゆがんだデータセット、バイアスなどの潜在的なデータ品質の問題を特定して修正し、ML モデルのトレーニング用にデータを短時間で準備したいと考えています。しかし、ML 実践者は、潜在的な問題を特定し修正するために、データセットのさまざまな要素を可視化し調査する定型のコードを記述するのに何週間も費やすことがあります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-sagemaker-data-wrangler-built-in-data-preparation-notebooks/",
-          "publishedOn": "2022-12-12T10:08:43.000Z",
-          "wordCount": 342,
-          "title": "Amazon SageMaker Data Wrangler でノートブックに組み込まれたデータ準備機能を提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "1805bd43b569eea324245a0da6fd368ef4bc03b3",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Studio は、機械学習 (ML) 用の完全統合開発環境 (IDE) です。ML 実践者はこのサービスを使用して、データの準備からモデルの構築、トレーニング、チューニング、デプロイまで、機械学習ワークフローのすべてのステップを実行できます。本日、ML チーム間のリアルタイムコラボレーションを加速させる SageMaker Studio の新機能を発表します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-sagemaker-studio-supports-real-time-collaboration/",
-          "publishedOn": "2022-12-12T10:07:55.000Z",
-          "wordCount": 310,
-          "title": "Amazon SageMaker Studio がリアルタイムコラボレーションのサポートを開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "fe6aa779709600c4727ccc3b642c02f77aceab59",
-          "author": "aws@amazon.com",
-          "description": "Amazon SageMaker Studio は、ウェブベースの統合開発環境 (IDE) であり、データの準備から構築、トレーニング、デプロイまで、すべての機械学習 (ML) 開発ステップの実行に必要な専用ツールにアクセスできる、単一のビジュアルインターフェイスを提供します。本日、SageMaker Studio のナビゲーション、発見可能性、全体的な外観を改善し、ユーザーエクスペリエンスを向上させるデザイン変更を発表します。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/amazon-sagemaker-studio-redesigned-user-interface/",
-          "publishedOn": "2022-12-12T10:07:07.000Z",
-          "wordCount": 302,
-          "title": "Amazon SageMaker Studio のユーザーインターフェイスを刷新",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4c80fc948507d549ebb5746f55136f41fe5d051d",
-          "author": "aws@amazon.com",
-          "description": "データに基づいて最適な機械学習 (ML) モデルを自動的に構築、トレーニング、調整するローコード ML サービスである Amazon SageMaker Autopilot が、ML 向けで最初の継続的インテグレーションおよび継続的デリバリー (CI/CD) 専用サービスの Amazon SageMaker Pipelines に統合されました。これにより、SageMaker Autopilot を使用して ML モデルを構築し、それに続く CI/CD ステップにモデルを統合するエンドツーエンドフローを自動化できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/launch-amazon-sagemaker-autopilot-experiments-sagemaker-pipelines-automate-mlops/",
-          "publishedOn": "2022-12-12T10:06:16.000Z",
-          "wordCount": 368,
-          "title": "Amazon SageMaker Autopilot で Amazon SageMaker Pipelines による実験がリリースされ MLOps ワークフローを簡単に自動化可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "31bab331824a92a8e797f5cfc10c54534a0d45a6",
-          "author": "aws@amazon.com",
-          "description": "AWS Glue では、データレイクとデータパイプラインの品質を自動的に測定しモニタリングする新機能、AWS Glue Data Quality のプレビュー版を発表します。AWS Glue は、複数のソースからのデータの検出、準備、移動、統合を効率化する、サーバーレスでスケーラブルなデータ統合サービスです。データ品質の管理は手作業であり、時間がかかります。データ品質のルールを設定し、そのルールに基づきデータを定期的に検証し、品質が低下した場合にアラートするコードを記述する必要があります。アナリストは、データを手作業で分析し、ルールを作成し、そのルールを実装するコードを書く必要があります。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/11/aws-glue-data-quality-preview/",
-          "publishedOn": "2022-12-12T10:00:45.000Z",
-          "wordCount": 337,
-          "title": "AWS Glue から AWS Glue Data Quality (プレビュー版) を発表",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -2481,6 +2391,16 @@
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
         {
+          "id": "https://www.suzukikenichi.com/blog/?p=12883",
+          "author": "Kenichi Suzuki",
+          "description": "日本の Google 検索にもショート動画が掲載されるようになった。",
+          "link": "https://www.suzukikenichi.com/blog/google-displays-short-videos-in-japanese-mobile-search-results/",
+          "publishedOn": "2023-01-10T22:05:32.000Z",
+          "wordCount": 3442,
+          "title": "ショート動画の専用セクションが日本のGoogle検索にも導入",
+          "imageUrl": "https://www.suzukikenichi.com/blog/wp-content/uploads/camera-5856040-600x358.jpg"
+        },
+        {
           "id": "https://www.suzukikenichi.com/blog/?p=12878",
           "author": "Kenichi Suzuki",
           "description": "モバイル検索のサイト名表示がサポートされるドメインレベルには、www と m を含むドメイン名も含まれることがサイト名を解説する技術ドキュメントに追加された",
@@ -2602,6 +2522,56 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://itzakkubaran.connpass.com/event/271361/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/02/06 18:30 ～ 20:30<br />開催場所: 石川県 金沢市武蔵町14番31号<br /><br /><p>【日程】\n2023年2月6日（月）18：30〜20：30</p>\n<p>【場所】\nITビジネスプラザ武蔵 4F サロンスペース　「CRIT」</p>\n<p>【概要】\n復活！ITざっくばらん会!オフラインイベント第二弾！今回はスペシャルトークイベント！お待ちかね「スイッチサイエンス」の高須正和氏をお迎えしてのスペシャルトークイベントになります。\n深センのイマ！そして、世界のメイカーズの最新事情をざっくばらんに語っていただきます！アジア、いや、世界の「メイカーズ」は一体どこに向かっているのでしょうか？</p>\n<p>【語り手】高須 正和 氏\n　\nスイッチサイエンス グローバルビジネスデベロップメント</p>\n<p>【合いの手】秋田 純一氏</p>\n<p>金沢大学 融合学域 教授</p>\n<p>【参加費】無料</p>\n<p>【主催】ITざっくばらん会\n【協力】金沢大学インタフェースデバイス研究室</p>",
+          "link": "https://itzakkubaran.connpass.com/event/271361/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-10T23:51:09.000Z",
+          "wordCount": 908,
+          "title": "シン・メイカーズのエコシステムをざっくばらんに語るMake/ニコ技な夜",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/8d/76/8d76d2ddd8c759d361d7436f20a58764.png"
+        },
+        {
+          "id": "https://vcube-agora.connpass.com/event/271744/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/31 17:00 ～ 18:00<br />開催場所: オンライン（Zoom ウェビナー）<br /><br /><h1>ブラウザのアップデートやバグも怖くない！</h1>\n<p>近年、Web会議・ライブ配信など、多くのアプリやWebブラウザでの開発にWebRTCが活用されています。\nWebRTCの活用で、ユーザーは専用アプリを取得する必要やデバイスの制限が無くなり、リアルタイムのコミュニケーションを実現しやすくなりました。</p>\n<p>利用が広がる一方で、音声や映像の途切れといった品質問題やメタバースへの実装が難しいなど、さまざまな課題も浮き彫りとなってきました。\nまた、WebRTCの技術を理解する難易度も高く、工数がかかることも課題となっています。</p>\n<p>そんな課題に、PaaS+SDKの活用が注目されています。SDKを使えば、高音質・大規模配信の実装が簡単に実装できます。\nさらに、豊富なサンプルと読みやすいドキュメントで、効率の良い開発が可能です。</p>\n<p>この勉強会では、見えてきたWebRTCの課題と今後の対策について、専門エンジニアが解説します。</p>\n<h1>こんな方におすすめです！</h1>\n<ul>\n<li>通話・配信機能を実装したい</li>\n<li>WebRTCでの実装に課題・不安がある</li>\n<li>WebRTC/CDNでは難しく、クイックに乗り切りたい</li>\n<li>VRやゲームなどオンライン体験サービス作りに携わっている</li>\n<li>Agoraの導入方法・コストが知りたい</li>\n</ul>\n<h1>講師紹介</h1>\n<h6>株式会社ブイキューブ</h6>\n<h6>技術本部 Agora担当　藤本 諭志</h6>\n<p>2007年ブイキューブ入社。\n自社開発サービスであるV-CUBE セミナーの開発に携わる。現在はAgoraのプロダクト担当SEをしている。</p>\n<p>スキル：Docker/AWS/Linux/DB/Ruby/PHP/JavaScript</p>\n<p>※講師は、予告なく変更になる場合がございます。</p>\n<h1>実施概要</h1>\n<p>プログラム   ：</p>\n<ul>\n<li>見えてきたWebRTCの課題\n　　・実装や通信を理解する難易度が高い\n　　・ブラウザのアップデートやバグの対応が必要\n　　・ラストワンマイルの問題調査が困難\n　　・付随する機能の独自実装による工数肥大\n　　・大規模なライブ配信には不向き\n　　・NativeとWebの相互通信</li>\n<li>\n<p>AgoraでWebRTCの悩みを解消</p>\n</li>\n<li>\n<p>明日から使えるAgoraの使い方（無料トライアル方法）</p>\n</li>\n</ul>\n<p>※講演内容は、予告なく変更になる場合がございます。</p>\n<p>対象：</p>\n<ul>\n<li>ネイティブアプリ/Webアプリなどのサービス開発に携わるエンジニアの方</li>\n<li>webRTCを知っている/触ったことがあり、不安や課題を抱えている人</li>\n<li>ネイティブアプリ/Webアプリサービス開発の企画に携わる方</li>\n<li>新規事業ご担当の方</li>\n</ul>\n<p>※競合他社様につきましては、お断りさせていただくことがございますので、予めご了承ください。</p>\n<p>費用：無料</p>\n<p>会場：オンライン（Zoom ウェビナー）</p>\n<h1>Agoraや配信・通話技術のお役立ち情報</h1>\n<ul>\n<li><a href=\"https://jp.vcube.com/sdk\" rel=\"nofollow\">Agoraの詳細</a></li>\n<li><a href=\"https://jp.vcube.com/sdk/blog\" rel=\"nofollow\">開発者ブログ</a></li>\n</ul>",
+          "link": "https://vcube-agora.connpass.com/event/271744/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-10T23:43:48.000Z",
+          "wordCount": 955,
+          "title": "［無料］2023年最新！見えてきた、WebRTCの課題と対策",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/3a/16/3a168762bfff8ca1a27af7e3b4605a9c.png"
+        },
+        {
+          "id": "https://cto-a.connpass.com/event/270032/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/31 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>概要</h1>\n<p>日本CTO協会は、「テクノロジーによる自己変革を日本社会のあたりまえに」をミッションに掲げ、「DX企業の基準作成」「コミュニティ運営」「調査・レポート」「政策提言」などの活動を行っています。</p>\n<p>本イベントは、CTOに求められる資質や役割の解像度を上げることで、より市場や社会のニーズにフィットしたCTOを再定義していくことを目的としています。\nエンジニア出身のエンジェル投資家、ベンチャーキャピタル（VC）、会場のCTO（またはCTO候補の方や、目指している方）の3者の対話の中で、それぞれの立場からみたCTOの理想像の解像度を高めます。</p>\n<p>形式は、一方向のウェビナーではなく、参加型のセッションとなります。\n前半のパネルディスカッションではQ&amp;Aタイムを用意しています。また後半のテーマ別Q&amp;Aでは各登壇者ごとにテーマ別の部屋を用意し、参加者の皆さまには興味のある部屋に入っていただき、部屋ごとにQ&amp;Aができるような時間を用意しています。</p>\n<h4>テーマ:「CTOに求める資質と役割」（※ 詳細は変更となる可能性があります。）</h4>\n<ul>\n<li>CTOに対してどういう観点のデューデリジェンスをしているか</li>\n<li>組織が小さい頃からCTO主導で根付かせておくべき文化は？</li>\n<li>CTOに身につけてほしい事業目線</li>\n<li>ユーザーの声をどうプロダクトや開発計画に反映させるか</li>\n<li>技術的負債の考え方</li>\n</ul>\n<h1>ご参加方法</h1>\n<p>こちらのページからお申込みいただけます。<br>\n※参加費無料<br>\n※参加用Zoom URLは後日ご案内します。</p>\n<p>＜＜ご参加お申込みに関する注意事項＞＞\n当ページよりお申込みいただくことで、以下行動規範を守ること、及び、アンケートを含む、お申込み時に頂いた情報に関して、日本CTO協会ホームページ記載のプライバシーポリシー( <a href=\"https://cto-a.org/privacy/\" rel=\"nofollow\">https://cto-a.org/privacy/</a> )に基づいた情報の使用と開示に同意することになります。</p>\n<h1>対象者</h1>\n<ul>\n<li>スタートアップのCTO(特にシード、アーリーフェーズの方)</li>\n<li>スタートアップのVPoEや、EM、テックリードなどCTOを目指している方</li>\n<li>起業しようとしているCTO候補のエンジニア</li>\n<li>スタートアップのCXO</li>\n</ul>\n<h1>スケジュール</h1>\n<table>\n<thead>\n<tr>\n<th align=\"center\">時間</th>\n<th align=\"left\">内容</th>\n<th>発表タイトル</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"center\">18:45</td>\n<td align=\"left\">配信開始</td>\n<td></td>\n</tr>\n<tr>\n<td align=\"center\">19:00</td>\n<td align=\"left\">オープニング</td>\n<td>日本CTO協会の紹介とイベント概要説明：小笹</td>\n</tr>\n<tr>\n<td align=\"center\">19:05</td>\n<td align=\"left\">パネルディスカッション</td>\n<td>エンジェル投資家：竹内、山本<br>VC：湊、小沼、伊能<br>ファシリテーター：小笹、松田<br><br>CTOに求める資質・役割について、デューデリジェンスの観点や身につけてほしい事業目線などを交えてディスカッションする。</td>\n</tr>\n<tr>\n<td align=\"center\">19:40</td>\n<td align=\"left\">Q&amp;Aタイム</td>\n<td>エンジェル投資家：竹内、山本<br>VC：湊、小沼、伊能<br>ファシリテーター：松田<br><br>パネルディスカッションを踏まえて、会場からの質問に登壇者が答えていく。</td>\n</tr>\n<tr>\n<td align=\"center\">19:55</td>\n<td align=\"left\">パネルのクロージング</td>\n<td>日本CTO協会のコントリビューター制度などの紹介：松田</td>\n</tr>\n<tr>\n<td align=\"center\">20:00</td>\n<td align=\"left\">テーマ別 Q&amp;A</td>\n<td>エンジェル投資家：竹内、山本<br>VC：湊、小沼、伊能<br>ファシリテーター：小笹、松田<br><br>各登壇者ごとにテーマ別の部屋を用意し、参加者の皆さまに興味のある部屋に入っていただき、部屋ごとにQ&amp;Aを行います。</td>\n</tr>\n<tr>\n<td align=\"center\">21:00</td>\n<td align=\"left\">イベント終了</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h1>スピーカー</h1>\n<h2>エンジニア出身エンジェル投資家</h2>\n<h3>竹内 真 | ビジョナル株式会社 取締役CTO <a href=\"https://www.visional.inc/ja/visional-way.html#a01\" rel=\"nofollow\">プロフィール</a></h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1q4d3c6EQ89L0k81cbwpXJlT87eldBV44&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>2001年、電気通信大学情報工学科を卒業後、富士ソフト株式会社に入社し、主に官公庁や大手通信会社向けのシステム開発に従事。2007年、株式会社リクルートにて全社共通基盤フレームワーク開発などに従事し、同時にSeasarプロジェクト内でOSS活動も開始。2008年、株式会社レイハウオリを創業。その後、ビズリーチの創業準備期に参画し、取締役CTOに就任。2020年2月、現職に就任。社外活動として一般社団法人日本CTO協会理事を務める。</p>\n</blockquote>\n<h3>山本 正喜 | Chatwork株式会社 代表取締役CEO <a href=\"https://corp.chatwork.com/ja/management-team/\" rel=\"nofollow\">プロフィール</a> <a href=\"https://twitter.com/cwmasaki\" rel=\"nofollow\">@cwmasaki</a></h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=19NOUQFOemzVcqCyEj8KbH4MBUxRiEAFo&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>電気通信大学情報工学科卒業。大学在学中に兄と共に、EC studio（現Chatwork株式会社）を2000年に創業。以来、CTOとして多数のサービス開発に携わり、Chatworkを開発。2011年3月にクラウド型ビジネスチャット「Chatwork」の提供開始。2018年6月、Chatwork株式会社の代表取締役CEOに就任。</p>\n</blockquote>\n<h2>ベンチャーキャピタル</h2>\n<h3>湊 雅之 | ALL STAR SAAS FUND Partner　<a href=\"https://allstarsaas.com/#ourteam\" rel=\"nofollow\">プロフィール</a> <a href=\"https://twitter.com/saas_junkie\" rel=\"nofollow\">@saas_junkie</a></h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1skGg-Mzsous7MdwicB74NcEuOTng3lix&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>ALL STAR SAAS FUND パートナー。これまでSTRIVE(旧GREE Ventures)、Salesforce Ventures、DNX Venturesにて、日本のB2B/SaaSスタートアップ 約40社へのVC投資および成長支援を担当。VC以前は、米コンサルティングファーム BCGにて国内大手企業の中期経営計画の策定やトランスフォーメーションの実行支援の戦略コンサルティング、独化学大手BASFにてエンタープライズ営業および新規事業開発に従事。東京工業大学工学部・同大学院卒（工学修士）。米カーネギーメロン大学経営大学院卒（経営学修士）。東京都出身。シンガポール在住。過去の投資実績は、Kokopelli(IPO)、Commmune、YESOD、enpay、Caulis、Agatha、Resily、MyRefer等。</p>\n</blockquote>\n<h3>小沼　晴義 | ジャフコ　グループ株式会社 チーフキャピタリスト　<a href=\"https://www.jafco.co.jp/partners/001069.html\" rel=\"nofollow\">プロフィール</a> <a href=\"https://twitter.com/onuma_jafco\" rel=\"nofollow\">@onuma_jafco</a></h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1_0dFg6j8BJ-FTqDmxgYAypXe7SEyPMYl&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>1992年4月入社より現在までベンチャーキャピタル部門でスタートアップへの投資活動を行っている。主な投資領域はFintech、SaaS、Market place、Robotics、Age Tech。TRACK RECORDは以下の通り。関与した投資先のIPOは22社、M&amp;Aは10社。Forbes Japanが選ぶ日本で最も影響力のあるベンチャー投資家 BEST10  2017年10位  2019年3位  2022年 4位。</p>\n</blockquote>\n<h3>伊能 詩吹 | Archetype Ventures　Principal</h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1hxjlP0v-CSG1SZPJLabVbyq4dYev9eNp&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>医療系スタートアップのMICINに立ち上げ期、13人目のメンバーとして入社。医療機関向けの営業、インサイドセールス部署の立ち上げ、メンバーの採用 / 教育 / マネジメント、医師向けイベントの企画 / 運営等に従事。2019年にArchetype Venturesに参画。現在はPrincipalとして、投資担当先のサポート/壁打ち、HRサポートプロジェクトの実施、CxO交流会の企画/運営などを担当。</p>\n</blockquote>\n<h2>日本CTO協会</h2>\n<h3>小笹 佑京 | 株式会社アンチパターン CEO兼VPoE / 日本CTO協会 コントリビューター <a href=\"https://twitter.com/yukiozasa\" rel=\"nofollow\">@yukiozasa</a></h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1yskHRKBscHgZ1qCESdqeU99bE3eKqb5f&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>\"立教大学卒業後、2014年に株式会社イノベーションに入社\nイノベーションにおいて、マーケティングオートメーション SaaS の開発業務に従事\n2018年より開発本部⻑歴任\n2019年7月「日本のソフトウェアエンジニアを憧れの職業へ」を理念に掲げ、株式会社アンチパターンを創業\"</p>\n</blockquote>\n<h3>松田 敦義 | 株式会社ログビー CEO兼CTO / 日本CTO協会 コントリビューター <a href=\"https://twitter.com/AtsuMatsuda\" rel=\"nofollow\">@AtsuMatsuda</a></h3>\n<p><img src=\"https://drive.google.com/uc?export=view&amp;id=1n171He1Sp3SFvPcdgS1bpIhHtAuPPZBh&amp;usp=sharing\" width=\"150\"></p>\n<blockquote>\n<p>\"TDKに入社後、独学でWebを学び、ITベンチャーを経て楽天にエンジニアとして入社。カード加盟店サイトや、ECのお気に入りの開発などに携わる。関連特許を４件出願した。楽天中途同期のViibar（現:VideoTouch）代表とViibarを共同創業し、初代技術責任者としてゼロイチのサービス開発を行った。\n2015年に「少子高齢化」「生産性を高める」をテーマに、Logbiiを創業。\"</p>\n</blockquote>\n<h1>行動規範</h1>\n<p>本行動規範は、イベントの運営・登壇・協賛・参加をするすべてのステークホルダーに適用されるものです。ご一読の上、イベントを誰にとっても心地よく、優れた体験を提供できるように共に協力していきましょう。</p>\n<p>本イベントは、日本CTO協会が主催するパブリックイベントです。私たちは、すべての参加者にとって、安全で歓迎されるような場を作ることに努めます。</p>\n<p>本イベント に参加するすべての人は、以下の行動規範を守ることを求められます。この行動規範を当イベントに関する全てにおいて適用します。全ての人にとって安全な場所を提供するため、一般参加者、登壇者、スポンサー、運営スタッフ含めた全参加者に、ご協力をお願いします。</p>\n<p>私たちは、以下のような事柄に関わらず、全ての人にとって安全な場を提供することに努めます。</p>\n<ul>\n<li>社会的あるいは法的な性、性自認、性表現（外見の性）、性指向</li>\n<li>年齢、障がい、容姿、体格</li>\n<li>人種、民族、宗教（無宗教を含む）</li>\n<li>技術の選択</li>\n</ul>\n<p>そして、下記のようなハラスメント行為をいかなる形であっても決して許容しません。</p>\n<ul>\n<li>脅迫、つきまとい、ストーキング</li>\n<li>不適切な画像、動画、録音の再生（性的な画像など）</li>\n<li>発表や他のイベントに対する妨害行為</li>\n<li>不適切な身体的接触</li>\n<li>これらに限らない性的嫌がらせ</li>\n</ul>\n<p>スポンサーや登壇者、主催スタッフもこのポリシーの対象となります。性的な言葉や画像はいかなる発表やワークショップ、パーティ、Twitterのようなオンラインメディアにおいても不適切です。</p>\n<p>ハラスメント行為をやめるように指示された場合、直ちに従うことが求められます。ルールを守らない参加者は、主催者およびスポンサーの判断により、退場処分や今後のイベントに聴講者、登壇者、スタッフとして関わることを禁止します。 もしハラスメントを受けていると感じたり、他の誰かがハラスメントされていることに気がついた場合、または他に何かお困りのことがあれば、すぐにスタッフまでご連絡ください。警備員や警察への連絡などを含め、安心してイベントに参加できるようにお手伝いさせていただきます。</p>\n<p>※本文章はKotlinFest Code of Conductとして公開された文章( <a href=\"https://github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md\" rel=\"nofollow\">https://github.com/KotlinFest/KotlinFest2018/blob/master/CODE-OF-CONDUCT.md</a> )を元に派生しています。<br>\n※本文章はCreative Commons Zero ライセンス(<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" rel=\"nofollow\">https://creativecommons.org/publicdomain/zero/1.0/</a>) で公開されています。</p>\n<h1>注意事項</h1>\n<p>※運営・登壇者の都合等により、タイムスケジュールや内容が変更される可能性があります。予めご了承ください。<br>\n※本イベントは知見の共有や参加者同士の交流を目的としない方の参加はお断りします。<br>\n※本イベントへの参加の権利を第三者に譲渡することはできません。</p>\n<h1>個人情報の取り扱い</h1>\n<p>本イベントでは、参加登録時に、参加者の皆様のお名前、メールアドレス、会社名、肩書をご登録いただきます。また、登壇するエンジェル投資家、ベンチャーキャピタルに当該個人情報を提供してよいか、または提供しないかの確認を致します。個人情報の取得及び利用目的は以下のとおりです。</p>\n<h4>取得及び利用目的</h4>\n<p>一般社団法人日本CTO協会（以下「当協会」という）は、本イベントへの参加に当たり、ご本人の氏名、メールアドレス、所属企業名、肩書などの個人を識別できる情報を取得します。取得の目的は、次のとおりとし、それ以外の目的で利用しません。</p>\n<ul>\n<li>①　参加のお申込受付および詳細等のご連絡</li>\n<li>②　当協会から製品・サービスに関する情報またはマーケティング活動に関する情報のお知らせのため</li>\n<li>③　本イベントに登壇するエンジェル投資家またはその所属企業、ベンチャーキャピタル（以下「登壇者等」という）への開示・提供並びに登壇者等の製品・サービスに関する情報またはメールマガジン等のマーケティング活動に関する情報のお知らせのため（個人情報の提供を希望しない方の情報は提供しません）<ul>\n<li>エンジェル投資家：竹内 真（ビジョナル株式会社）、山本 正喜（Chatwork株式会社）</li>\n<li>ベンチャーキャピタル：ALL STAR SAAS FUND、ジャフコ　グループ株式会社、Archetype Ventures</li>\n</ul>\n</li>\n<li>④　本イベントの運営管理、次回開催のご案内</li>\n<li>⑤　当協会に関する情報のご案内</li>\n</ul>\n<h1>一般社団法人日本CTO協会について</h1>\n<p>日本CTO協会は、日本を世界最高水準の技術力国家にすることを目標として、2019年9月に設立しました。</p>\n<p>主な活動は「DX企業の基準作成」「コミュニティ運営」「調査・レポート」「政策提言」です。</p>\n<p>絶えず変化する時代に、自己変革を成し遂げ、継続的な進化を体現し続けるCTO達と、その先へと共に向かう人々の知見や経験を社会に還元し、日本の変革を大きく前進させます。\nそして、デジタルを核としたテクノロジーを活かし、自己変革による価値創造とその継続的な提供を、日本社会のあたりまえにしていきます。</p>\n<p><img alt=\"CTO協会\" src=\"https://cto-a.org/wp-content/themes/ctoa20220421-01/img/about/1.png\"></p>",
+          "link": "https://cto-a.connpass.com/event/270032/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-10T23:30:21.000Z",
+          "wordCount": 1455,
+          "title": "CTOの理想像とは？エンジニア出身エンジェル投資家とVCの本音トーク【登壇者とのQAタイムあり】",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/f9/c8/f9c8b7e58b8f97b6c87e81d82e11ab33.png"
+        },
+        {
+          "id": "https://connpass.com/event/271838/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/02/26 13:00 ～ 15:00<br />開催場所: 1439 N. Highland Ave #1015, Los Angeles, CA 90028<br /><br /><p>Taking too much Kratom can cause some people to feel dizzy. While this isn't a serious health concern, it is a potential side effect. This is especially true if you are taking a higher than average dosage. You should be able to reduce your dosage or switch to an appropriate strain if you are experiencing this side effect.</p>\n<p>The effects of kratom vary depending on the strain you take. Some strains have more adverse effects than others, so you'll want to pick a prescription that's best suited for your body. The most important thing is to be safe and go slow. Doing so can lead to better results.  In <a href=\"https://kratom.org/guides/\" rel=\"nofollow\">a beginner's guide to kratom by kratom,org</a>, they mentioned this too and they have more suggestions to prepare you with how to use kratom.</p>\n<p>Aside from a dizzying experience, you may also feel nauseous or sleepy. The best thing to do is to keep hydrated and eat a well-balanced diet. The right foods will boost your blood sugar and help prevent this symptom. Some people also find that eating honey helps reduce the symptoms of low blood sugar.</p>\n<p>Kratom can also change the way you perceive hunger. This means that you may not notice you're hungry. For this reason, you should also avoid taking Kratom on an empty stomach. It's also a good idea to keep track of your dosage, so you don't overdo it.</p>\n<p>There are also other more serious health concerns associated with Kratom use. These include addiction, physical injury, and mental problems. If you experience any of these symptoms, you should seek medical attention as soon as possible. In addition, you may also experience withdrawal symptoms when you stop taking kratom. These symptoms can be managed by you on your own, but you may also need the help of a professional.</p>\n<p>There are also some kratom strains that have been linked to dizziness. The best way to avoid this is to find a strain that isn't associated with this side effect. You can also take the time to research kratom and its effects. If you're a beginner, it's best to start slow and work your way up.</p>\n<p>The most important thing to remember when attempting to avoid kratom dizziness is to avoid taking too much of it at once. This can cause you to experience other effects, including nausea and a headache. You may also want to consume it in small doses throughout the day. If you experience the effects of kratom dizziness, you should reduce your dose and switch to an appropriate strain.</p>\n<p>If you're feeling dizzy, you may want to consider switching to a different strain, such as White or Green Borneo. These strains are known to increase energy and may help you feel better. You should also keep in mind that your body's reaction to different alkaloids is different, so be aware of this before taking more than you need. You may also want to avoid taking Kratom if you have any heart or blood vessel problems, since this can increase your risk of stroke and heart attack.</p>\n<p>Other things to watch out for include low blood sugar. This can cause dizziness, as well as brain fog. To avoid this problem, you may want to avoid foods that have high sugar content. A diet high in fiber can also help.</p>",
+          "link": "https://connpass.com/event/271838/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-10T22:13:45.000Z",
+          "wordCount": 2565,
+          "title": "Kratom Dizziness - Does Kratom Make You Dizzy?",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/25/bb/25bbb89a404e840e0876d7048545b749.png"
+        },
+        {
+          "id": "https://morimori.connpass.com/event/271840/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/18 07:00 ～ 08:00<br />開催場所: オンライン<br /><br /><p>一人じゃどうにも捗らない、、」という方向けの、<br>\nジャンル問わずどなたでも参加できる朝活会です。</p>\n<p>資格の勉強をしてもよし、ポートフォリオを作ってもよし、<br>\n積読の解消のため読書の時間にしてよし。</p>\n<p>日頃なかなか進められないことに着手する時間としてお使いください！<br>\n遅れて参加も、途中退室も自由です！\nやっぱり参加できなかった、という場合も\n特にご連絡は必要ありません。</p>\n<p><br></p>\n<h2>■開催概要<br></h2>\n<p>日時：2023/1/18(水) 07:00〜08:00</p>\n<p>場所：discordでオンライン開催</p>\n<p>接続方法：discordのURLをお伝えします<br>\n　　</p>\n<h2>■タイムスケジュール<br></h2>\n<p>07:00<br>\n通話をつなぎます。<br>\n本日の取り組み予定を報告ください。<br>\n(カメラオフでも、チャットへの投稿という形でも大丈夫です。)<br></p>\n<p>例)UXの本を読みます！等</p>\n<p>その後主催者はBGMを流しますが、<br>\n気になるようなら音声OFFでOK<br>\n以降は各自もくもくしてください！<br></p>\n<p>※雑談用のスペースもあります！作業しながら話したいとき、チャットしたいときはお気軽に移動くださいー</p>\n<p><br></p>\n<p>08:00<br></p>\n<p>どこまで進んだかを簡単に報告(投稿)ください、終了！<br></p>\n<p>もし主催者(デザイナー)に質問があればお気軽にどうぞ！\n下記でお答えできる範囲で答えます！</p>\n<p>・デザインに関することなんでも<br>\n・illustrator、photoshop、xdなどの使い方など<br>\n・コーディングに関しては実務経験がないので詳しくお答えできなくてすみません、、！</p>\n<p>取り組み例)<br>\n・アプリ開発、プログラミング、コーディング<br>\n・WEBデザイン、アプリデザイン、イラスト制作<br>\n・資格などの勉強、就活のためのポートフォリオ作り<br>\n・ストレッチや瞑想を挟む人も<br></p>\n<h2>■追記<br></h2>\n<p>・基本は主催者が勉強をさぼらないためにイベント化しております。\n参加ハードルの低い、ゆるくて気張らない会を目指しています。</p>\n<p>・何回か来ている方で、discordに直接いらっしゃる方もいます 入ったらコンパス上の表記より人数多いことも多々あります また、同じサーバで自由な時間にもくもくしてってもらっても構いません〜！</p>\n<p>・毎日開催、をベースにしておりますが、主催が一人という都合上、用事で実現できない日や、 体調上開催できなくなった場合はコンパスもしくはdiscordのお知らせチャンネルでご連絡するようにします。 そちらを参照ください。</p>",
+          "link": "https://morimori.connpass.com/event/271840/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-10T22:08:17.000Z",
+          "wordCount": 919,
+          "title": "IT系&誰でも参加OK！もくもく会_朝活_1/18(水)",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/a6/f6/a6f67d65ccb43fe26ba91f270cf0e047.png"
+        },
         {
           "id": "https://beginner-front.connpass.com/event/271832/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
