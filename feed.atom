@@ -2,10 +2,465 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T03:03:05.768Z</updated>
+    <updated>2023-01-13T04:01:41.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IT系の濃ゆい話をする会#2]]></title>
+        <id>https://it-deep-talk.connpass.com/event/272095/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://it-deep-talk.connpass.com/event/272095/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-13T03:19:53.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/18 19:30 ～ 21:30<br />開催場所: 広島市中区紙屋町1-4-5 ウィニーズ紙屋町 3F<br /><br />]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第4回】ブロックチェーンアプリ開発に挑戦しよう！限定ジャンケンも同時開催]]></title>
+        <id>https://mit.connpass.com/event/272097/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://mit.connpass.com/event/272097/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-13T03:17:50.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/21 13:00 ～ 15:00<br />開催場所: オンライン<br /><br /><h2>🔗概要</h2>
+<p><strong>ブロックチェーンアプリ開発</strong>に興味はありませんか？<br>
+今回の勉強会は現役ブロックチェーンエンジニアによるハンズオン形式で実施します。<br>
+メタバース上で解説を聞きながら自分も手を動かし、<br>
+ブロックチェーンアプリ開発の基礎力を身につけちゃいましょう！</p>
+<h2>🔎構成</h2>
+<p>全4回＋αのシリーズ企画です。<br>
+XEMBook氏の公開ドキュメント（速習Symbol）を、解説を織り交ぜながらなぞっていきます。<br>
+質問は随時またはイベント終了後に、なんでもお寄せください！<br>
+全て受講後は、誰もがブロックチェーンをアプリに組み込む事ができるようになります。<br>
+<br>
+また、速習Symbolを修了した人にはXEMBook氏から修了証トークンが付与されるとのことです！※諸条件あり<br>
+<a href="https://twitter.com/xembook/status/1595637601880649729" rel="nofollow">修了証案内</a><br>
+<a href="https://twitter.com/nemJapanUG" rel="nofollow">nem Japan UserGroup</a><br></p>
+<h3>📝ハンズオン（第4回）の内容</h3>
+<ul>
+<li>環境構築</li>
+<li>ハンズオン（8.ロック）</li>
+<li>イベント（ブロックチェーン版限定ジャンケン✊✌️✋）</li>
+<li>質疑応答・BCアンケート</li>
+</ul>
+<p>※限定ジャンケンとは、漫画「賭博黙示録カイジ」に登場するギャンブルの一つです 。<br>
+詳しくはこちらから→<a href="https://dic.pixiv.net/a/%E9%99%90%E5%AE%9A%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B1%E3%83%B3" rel="nofollow">限定ジャンケン</a><br>
+Symbolブロックチェーン上で、どのように実現されるか、どうぞお楽しみに✨</p>
+<p>前回までの講義補足資料はこちらからご確認ください⛱️<br>
+<a href="https://www.dropbox.com/s/vghjbwfule17f5w/%E9%80%9F%E7%BF%92Symbol_%E7%AC%AC1%E5%9B%9E%E8%A3%9C%E8%B6%B3%E8%B3%87%E6%96%99.pdf?dl=0" rel="nofollow">第1回資料</a><br>
+<a href="https://github.com/hossiiii/quick_learning_symbol_hoshoku/commit/e0dcf14f70fd9a23c1610176c77e80fac7712282" rel="nofollow">第2回資料</a><br>
+※第3回分は追って共有します。</p>
+<h3>📒ドキュメント（XEMBook氏の公開ドキュメント）</h3>
+<p><a href="https://github.com/xembook/quick_learning_symbol/blob/main/01_introduction.md" rel="nofollow">速習Symbolブロックチェーン</a></p>
+<h2>❓Symbolブロックチェーンとは</h2>
+<p>NEMの後継であり、通貨はXYMです（日本でも一部取引所に上場中）<br>
+開発者フレンドリーなブロックチェーンで、APIで機能が提供されているため自分の好きな言語で使う事ができ、他のブロックチェーンに比べて学習コストも低めです。<br>
+今回は開発環境を揃えるために言語はJavascriptを使います。<br>
+様々な機能を有する独自のトークンを発行したり、複数の取引を不整合なくまとめて実行できるアグリゲートトランザクション、複数人での署名ができるマルチシグなど、面白い機能が目白押し。</p>
+<h2>🙋🏻‍♂️対象者🙋🏻‍♀️</h2>
+<ul>
+<li>3回目までの勉強会に参加済みの方、もしくは事前に速習Symbol7章までを独習できる方<br></li>
+<li>ブロックチェーンアプリ開発に興味がある人<br>
+※プログラミング初学者以上を想定しています。<br>
+（変数の利用や四則演算ができるレベルであれば大丈夫）<br>
+※内容の性質上、可能な限り時間通りの参加をお願いします。<br>
+※速習Symbolに初めて触れる方や内容に難しさを感じられた方は『聞いて学ぶこと』に徹していただければと思います。<br>
+（必要に応じてイベント終了後に個別対応を致します。）</li>
+</ul>
+<h2>🧑🏻‍💻発表者プロフィール</h2>
+<p>ネットワークエンジニア（８年）=&gt;整体師（６年）=&gt;ブロックチェーンエンジニア。<br>
+主な技術python,js,flutterなど個人開発で色々使いました。<br>
+個人開発で生活していこうと思っていましたが、数打つも軌道には乗らず、、<br>
+しかし作ったものをTwitterで見つけてもらい、今の会社に就職出来ました！<br>
+趣味でやってた事が仕事になるなんて夢にも思いませんでした😊<br>
+みなさんとも、個人開発の楽しさを一緒に共有していけたらと思います！<br>
+<a href="https://note.com/hossiiii/n/nef82c1d854af" rel="nofollow">note：個人開発者がブロックチェーンを活用したサービスを３ヶ月でリリースした話</a><br>
+<a href="https://twitter.com/hossiiii1" rel="nofollow">twitter</a></p>
+<h2>🛖会場イメージ（熱い支持のため継続利用！）</h2>
+<p><img alt="Imgur" src="https://i.imgur.com/Ilxthra.jpg"></p>
+<h4>spatialとは</h4>
+<p>展示会やミーティングを無料で行うことができるメタバース空間です。
+オリジナルスペースを作成することもできます。
+<a href="https://www.spatial.io/" rel="nofollow">spatial</a></p>
+<h4>特徴</h4>
+<ul>
+<li>アバターを介することで、質問のしやすさがグッと上がる想定です（ぜひ体感してください！）</li>
+<li>開放感あふれるオープンスペース、もしくは京都らしさを感じられるスペースを検討中</li>
+<li>特定のキーボード入力で、リアクションが取れる！<br></li>
+</ul>
+<p>メタバース上でハンズオンの理解度を把握するため、このリアクションを活用します。＾＾<br>
+例えば・・・<br></p>
+<ul>
+<li>わかったとき：拍手</li>
+<li>わからないとき：ジャンプ</li>
+<li>進捗状況に応じたアバターの移動　など</li>
+</ul>
+<h2>📦事前準備物</h2>
+<ul>
+<li>PC</li>
+<li>イヤホン<br>
+※VRゴーグル等、特別な機材は必要ありません。</li>
+</ul>
+<h2>🕐タイムスケジュール</h2>
+<table>
+<thead>
+<tr><th>時間</th>
+<th>内容</th>
+</tr></thead>
+<tbody><tr>
+<td>13:00～</td>
+<td>発表者自己紹介</td>
+</tr>
+<tr>
+<td>13:10～</td>
+<td>ハンズオン開始</td>
+</tr>
+<tr>
+<td>14:00～14:10</td>
+<td>休憩</td>
+</tr>
+<tr>
+<td>14:50～15:00</td>
+<td>振返りと次回告知</td>
+</tr>
+</tbody></table>
+
+<h2>📣お知らせ</h2>
+<ol>
+<li>各回のアンケート結果をSymbolチェーンに載せて公開していきます！🔗<br>
+　<a href="https://testnet.symbol.fyi/accounts/TB7JRP3IMW2OK4WNQO7YBTPLFSOI22LL7FMC6PY" rel="nofollow">第2回のアンケート結果はこちらです。</a>
+<a href="https://testnet.symbol.fyi/accounts/TCSKGI7SIQV2AKUHJPAP5YDTSLDEYUBKSTIXRZY" rel="nofollow">第3回のアンケート結果はこちらです。</a></li>
+<li>過去資料をconnpassにアップしていきます📚</li>
+</ol>
+<h2>⚠️注意事項</h2>
+<ol>
+<li>本イベントは学習カリキュラムにおいて暗号資産（XYM）を用いますが、<br>
+暗号資産（コインやNFT）その他金融資産等への投資や売買に関するお話はご遠慮ください。<br></li>
+<li>spatial接続時には同じ場所（物理的）に集まらないようにしてください<br>
+2人以上が同じネットワーク回線に接続した場合、ネットワークがとても遅くなり、音声が聞こえなくなったり、スペースへ入れなくなる可能性があります。</li>
+</ol>
+<h3>🔅参考</h3>
+<h4>過去に反響のあったイベント例</h4>
+<ul>
+<li><a href="https://mit.connpass.com/event/215561/" rel="nofollow">個人開発で稼ぐために必要なマーケティングの話 </a></li>
+<li><a href="https://mit.connpass.com/event/161745/" rel="nofollow">みやこ開発ガッシュク！#2 </a></li>
+<li><a href="https://mit.connpass.com/event/164593/" rel="nofollow">みやこ数学会#1 </a></li>
+<li><a href="https://mit.connpass.com/event/162610/" rel="nofollow">MITもくもく会#17(機械学習 on ボートレース解析) </a></li>
+<li><a href="https://mit.connpass.com/event/156242/" rel="nofollow">MITもくもく会#15(温泉に行こう!) </a></li>
+</ul>
+<h4>転職の相談も随時受け付けています。よかったらどうぞ〜〜( ◠‿◠ )<br></h4>
+<ul>
+<li>職務経歴書の書き方は？<br></li>
+<li>面接官や現場責任者からみたあなたの職務経歴書の強みと弱みは？<br></li>
+<li>ポートフォリオはどんなものを提出したら良い？提出の意味とは？<br></li>
+<li>ポートフォリオはどんなところが評価される？意識すべきポイントは？<br></li>
+<li>実務未経験エンジニアはどんなところをアピールしたらいい？<br></li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【バンダイナムコスタジオ】技術イベント ～TAの技術研究を紹介しまSHOW！～]]></title>
+        <id>https://bandainamcostudios.connpass.com/event/272091/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://bandainamcostudios.connpass.com/event/272091/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-13T03:04:49.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/26 19:00 ～ 20:00<br />開催場所: オンライン<br /><br /><h1><font color="#ff0000"><strong>※ご確認ください※</strong></font><br></h1>
+<p><font color="#ff0000"><strong>お申し込み後、「参加者への情報」欄にウェビナー参加のURLが表示されますので、そちらより本登録をお願いいたします。</strong></font></p>
+<h1><strong>概要</strong></h1>
+<p><strong>『Bandai Namco Studios Creators' Night』</strong><br>
+それは、バンダイナムコスタジオの持つ技術を世の中に発信していくためのイベントのことです。<br>
+新しい技術、長年使われてきた技術など様々な内容をお伝えし、業界の発展に貢献できればという想いで活動をしております。</p>
+<p>今回は、バンダイナムコスタジオのテクニカルアーティストが進めている技術研究についてご紹介します！<br>
+ゲーム内の世界観をよりリアルなものにするための様々な研究を紹介しつつ、社内のフォトグラメトリスタジオからリアルタイムデモもお送りします。</p>
+<p>皆様からのご質問にも直接お答えします。<br>
+耳だけ参加という方も大歓迎ですので、ぜひお気軽にご参加ください！</p>
+<h1><strong>日時</strong></h1>
+<p>2023年1月26日(木) 19:00～20:00　※終了時間は前後する可能性がございます。</p>
+<h1><strong>場所</strong></h1>
+<p>オンライン（Zoom Webinar）</p>
+<h1><strong>当日のタイムスケジュール</strong></h1>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="left">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">19:00 - 19:05</td>
+<td align="left">オープニングのご挨拶</td>
+</tr>
+<tr>
+<td align="center">19:05 - 19:25</td>
+<td align="left">『バンダイナムコスタジオのTAが取り組んでいる技術研究のご紹介』(山口)</td>
+</tr>
+<tr>
+<td align="center">19:25 - 19:40</td>
+<td align="left">『フォトグラメトリのデモ（スタジオから生中継！）』(山口)</td>
+</tr>
+<tr>
+<td align="center">19:40 - 19:50</td>
+<td align="left">質疑応答</td>
+</tr>
+<tr>
+<td align="center">19:50 - 19:55</td>
+<td align="left">バンダイナムコスタジオのHotTopicsの紹介</td>
+</tr>
+<tr>
+<td align="center">19:55 - 20:00</td>
+<td align="left">クロージングのご挨拶</td>
+</tr>
+</tbody>
+</table>
+<p><strong>※参加は無料です。</strong> <br>
+<strong>※参加にはZoomのアプリが必要となります。</strong> <br>
+<strong>※時間は当日の進行状況により前後する可能性がございます。</strong> <br>
+<strong>※弊社の都合上、いただいたご質問にお答えできない場合もございます。予めご了承ください。</strong> <br></p>
+<h3><strong>スピーカー</strong></h3>
+<ul>
+<li><strong>山口 翔平 (コアテクノロジー2部 / テクニカルアーティスト)</strong><br>
+2019年バンダイナムコスタジオ入社。前職では実写映像のCG会社でテクニカルディレクターに従事。リアルタイムグラフィクスに興味が湧きゲーム業界へ転職。現在はテクニカルアーティストとして、HDRIやフォトグラメトリなどの技術を中心に研究中。</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【もくもく会】第157回 #西中島StudyGroup【大阪/オンライン】]]></title>
+        <id>https://nishinakajima.connpass.com/event/272092/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://nishinakajima.connpass.com/event/272092/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-01-13T03:02:42.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/01/16 18:00 ～ 22:00<br />開催場所: 〒532-0012 大阪府大阪市淀川区木川東２丁目４−３ 甲東ビル 3F/4F<br /><br /><h1><strong>お知らせ</strong></h1>
+<p>国内のワクチン接種率や感染状況から判断して現地での開催を再再再開させていただく運びとなりました。<br>
+しっかり感染症対策をした上で少人数制で開催します。<br>
+<br>
+オンラインとリアルでのハイブリッド開催となります。<br>
+至らないところも多々あるとは思いますがご了承くださいませ。<br>
+<br>
+<br>
+もくもく会について書いたnoteがあります。<br>
+読んでいただけるとうれしいです。<br>
+<a href="https://note.com/tbshiki/n/nc8801641e399" rel="nofollow">https://note.com/tbshiki/n/nc8801641e399</a>
+<br>
+<br></p>
+<h1><strong>新大阪・西中島とオンラインでの自習会・もくもく会です </strong></h1>
+<h2><strong>もくもく会とは？</strong></h2>
+<p>自習・作業・勉強のモチベーションを上げる為に集まろう。<br>
+<br>
+誰かと一緒ならモチベーションもあがるよね<br>
+「さぁ、みんなでもくもくしよう！」という趣旨の会合です。<br>
+<br>
+<br>
+毎週月曜日の夜にオンラインで集まって<br>
+<strong>モチベーションを上げることが目的</strong>の勉強会です。<br>
+18時から4時間の開催予定です(･ω･)<br>
+<br>
+前半だけのご参加<br>
+途中からのご参加<br>
+ずっともくもくしたい<br>
+雑談したい、誰かと話したい<br>
+なんでも大歓迎です！<br>
+<br>
+<br></p>
+<h2><strong>「西中島StudyGroup」</strong></h2>
+<p>2023年1回目(通算157回目)のゆる〜い勉強会 <br>
+ <br></p>
+<p>プログラミングやブログ作成はもちろん、資格取得や受験勉強をご一緒しませんか？ <br>
+読書や工作など、パソコンを使わないことでも大歓迎！<br>
+誰かにフィードバックをもらえるチャンスです。(･ω･)b</p>
+<p>参加申し込みは特に必要ありません✨<br>
+飛び込み参加も大歓迎です。<br></p>
+<p><a href="https://twitter.com/hashtag/西中島StudyGroup" rel="nofollow">Twitter ハッシュタグ 西中島StudyGroup</a><br>
+<a href="https://twitter.com/hashtag/西中島StudyGroup" rel="nofollow">https://twitter.com/hashtag/西中島StudyGroup</a>  <br></p>
+<p>モチベーション上げて自由に楽しみましょう♪<br>
+<br></p>
+<h1><strong>日時 </strong></h1>
+<p><strong>2023年1月16日(月)<br>
+18時～22時</strong><br></p>
+
+
+<h2><strong>タイムスケジュール</strong></h2>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="center">内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">18時</td>
+<td align="center">もくもく開始</td>
+</tr>
+<tr>
+<td align="center">22時</td>
+<td align="center">もくもく終了</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>オーガナイザー</strong></h2>
+<table>
+<thead>
+<tr>
+<th align="center">参加時間</th>
+<th align="center">名前</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">18時～22時</td>
+<td align="center"><a href="https://connpass.com/user/tbshiki/" rel="nofollow">つぶ</a><br>(現地/オンライン)</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<h1><strong>現地会場</strong></h1>
+<p><strong>コワーキングスペース「いいオフィス新大阪 byそばに」</strong><br>
+<strong><a href="https://sobani-work.com/" rel="nofollow">https://sobani-work.com/</a></strong>
+<br>
+<br></p>
+<p><strong>場所</strong><br>
+〒532-0012<br>
+大阪市淀川区木川東２丁目４−３ 甲東ビル 4F<br>
+GoogleMap→<a href="https://goo.gl/maps/ATzCiTmM5azPoV7FA" rel="nofollow">https://goo.gl/maps/ATzCiTmM5azPoV7FA</a><br>
+<br></p>
+<p>甲東ビル向かって右側の入り口に入っていただき階段で4階までお上がり下さい。
+いいオフィス新大阪さんの入り口まで起こし下さい。<br>
+(エレベーターはございません。)<br>
+<br>
+入り口に鍵がかかっている場合はご連絡ください。<br>
+<br>
+他の利用者様の迷惑にならないようご配慮お願い致します。<br>
+<br>
+<br></p>
+<h1><strong>オンライン会場</strong></h1>
+<p><strong>Gather</strong><br>
+<strong><a href="https://gather.town/app/jkplLkXTYXyucn6z/nishinakajima" rel="nofollow">https://gather.town/app/jkplLkXTYXyucn6z/nishinakajima</a></strong>
+<br>
+<br>
+Gatherドキュメント<br>
+<a href="https://gather.town/docs" rel="nofollow">https://gather.town/docs</a>
+<br>
+<br></p>
+<h2><strong>オンラインでもくもく会</strong></h2>
+<p>自宅や職場、好きな場所からもくもく会に参加したい！という方一緒にもくもくしませんか？<br>
+もちろんオンライン会場ではご質問いただくことも可能です。<br>
+気軽にご参加ください(･ω･)b<br></p>
+
+
+<p>音声オフ、カメラオフOKです✨<br>
+お話、顔出し無しでも可能であれば環境音を共有していただけるとうれしいです！<br></p>
+<p>【オンライン会場の注意】<br>
+映像・音声無しで気軽に参加していただけます。<br>
+環境音をお届けします。<br>
+オンラインはみなさんの様子がわからず迷惑を掛けてしまう場合があるかもしれません。<br>
+精一杯改善しますのでご意見ご要望がありましたらお教えください。<br></p>
+<h1><strong>料金</strong></h1>
+<h2><strong>現地</strong></h2>
+<p><strong>コワーキングスペース利用料金がかかります</strong><br>
+いいオフィス新大阪会員様は無料となります(平日デイ会員を除く)<br>
+<br>
+いいオフィス新大阪 利用料金<br></p>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="center">料金</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">2時間まで</td>
+<td align="center">500円</td>
+</tr>
+<tr>
+<td align="center">2時間以上</td>
+<td align="center">1000円</td>
+</tr>
+</tbody>
+</table>
+<p>西中島StudyGroupの為に特別料金を設定していただいております。<br>
+<a href="https://sobani-work.com/" rel="nofollow">いいオフィス新大阪様</a>ありがとうございます！<br></p>
+<h2><strong>オンライン</strong></h2>
+<p><strong>無料</strong><br></p>
+<h1><strong>対象</strong></h1>
+<ul>
+<li>モチベーションを上げたい人<br></li>
+<li>ブログを作りたい人 <br></li>
+<li>週末の勉強会で聞き忘れたことがある人<br></li>
+<li>もくもくしたい人<br></li>
+<li>1人だとつい遊んでしまう人<br></li>
+<li>趣味の時間を作りたい人<br></li>
+<li>本を読みたい人<br></li>
+</ul>
+<p>少しでも当てはまる方ご一緒しませんか？<br>
+<br></p>
+<h1><strong>備考</strong></h1>
+<p>現地会場にご参加いただける方はマスク必須でお願いします。<br>
+咳・発熱の症状がある方や体調不良のご参加はご遠慮ください。<br>
+会場に入る際のアルコール消毒の徹底をお願いします。<br>
+<br>
+申込み不要！とびこみ参加大歓迎！！<br>
+教材やパソコン、読みたい本などは各自でご持参お願います。<br>
+自由参加・自由解散<br></p>
+
+
+<p>ハッシュタグ→<a href="https://twitter.com/hashtag/西中島StudyGroup" rel="nofollow">https://twitter.com/hashtag/西中島StudyGroup</a> 
+<br></p>
+<p>Tomotaka Furuhashi(Twitter) → <a href="https://twitter.com/gausssss" rel="nofollow">https://twitter.com/gausssss</a>
+<br>
+たかみー(Twitter) →<a href="https://twitter.com/mitakajiryu7" rel="nofollow">https://twitter.com/mitakajiryu7</a>
+<br>
+つぶ(Twitter)→ <a href="https://twitter.com/tbshiki" rel="nofollow">https://twitter.com/tbshiki</a> 
+<br>
+<br></p>
+<h1><strong>アクセス・案内</strong></h1>
+<h2>現地会場</h2>
+<p>大阪メトロ 御堂筋線 西中島南方駅<br>
+南改札を出て右(西)に出てローソンの方へ
+徒歩5分ほどのガストのある交差点を右(北)に<br>
+一筋目を左(西)に入っていただいたところほんの少し先の右側<br>
+甲東ビルの4階まで起こし下さい。<br>
+<br>
+階段で4階まで上がっていただき、いいオフィス新大阪さんの入り口へ<br>
+入り口に鍵がかかっている場合はご連絡ください<br>
+<br>
+このページの「イベントへのお問い合わせ」よりご連絡ください
+<br></p>
+<h2>オンライン会場</h2>
+<p>あなたの好きな場所からブラウザを開いてご参加ください。<br>
+<br></p>
+<h1>注意事項</h1>
+<p>以下の行為を禁止しています。<br>
+発覚した場合は、イベントの参加をお断りすることがございます。<br></p>
+<ul>
+<li>他参加者に不快な思いを与える行為</li>
+<li>会場に迷惑をかける行為</li>
+</ul>
+<h1>その他</h1>
+<p>現地会場からオンライン参加を行います。<br>
+音声や映像が配信される場合がありますのであらかじめご了承ください。<br>
+<br>
+記録のために写真・動画撮影を行う可能性があります。<br>
+撮影したものの一部を、SNSやWebページ等に公開することがございます。<br>
+都合の良くない方は当日お教えください。
+<br></p>
+<hr>
+<p><br></p>
+<div align="center">
+楽しく・モチベーションを上げて<br>
+もくもくしましょう♪
+
+</div>
+<p><br></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Power Automate を使ってオリジナルなAPIを作ろう！]]></title>
         <id>https://rpacommunity.connpass.com/event/272074/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
