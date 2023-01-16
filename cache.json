@@ -84,66 +84,6 @@
           "wordCount": 424,
           "title": "American Family Insurance と AWS、保険業界のイノベーションを促進に向け連携拡大",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3d16f211915a7f71d0c810b3034f603cf7cb6476",
-          "author": "aws@amazon.com",
-          "description": "最新世代のストレージ最適化インスタンスである Amazon EC2 Is4gen および Im4gn インスタンスが欧州 (パリ) リージョンで利用できるようになりました。Im4gn および Is4gen インスタンスは、AWS Nitro System を基盤とし、AWS Graviton2 プロセッサを搭載しており、AWS Nitro SSD を使用して構築されています。AWS Nitro SSD を使用すると、レイテンシーとレイテンシーの変動の両方を、第 3 世代 EC2 ストレージ最適化インスタンスよりも大きく低減できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/",
-          "publishedOn": "2022-12-16T07:17:23.000Z",
-          "wordCount": 345,
-          "title": "Amazon EC2 Is4gen および Im4gn インスタンスが欧州 (パリ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f66dee10c0a07708891fd7d0af1d0793f601e980",
-          "author": "aws@amazon.com",
-          "description": "Contact Lens for Amazon Connect が提供する API により、Contact Lens の会話分析やサードパーティーアプリケーション (Salesforce など) のルールをプログラムで管理できるようになりました。ルールによって、サードパーティーアプリケーションで新しいケースが作成されたときに、問い合わせのカテゴライズ、お客様のエスカレーションの通知送信、タスク割り当てが自動で行われます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/12/contact-lens-amazon-connect-apis-manage-rules/",
-          "publishedOn": "2022-12-16T07:16:32.000Z",
-          "wordCount": 326,
-          "title": "Contact Lens for Amazon Connect でルール管理用 API を提供開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f9eb9e3b4b4b78375c08069272e715cccf36a4d7",
-          "author": "aws@amazon.com",
-          "description": "Amazon Cognito が欧州 (ミラノ) リージョンで利用可能になりました。Amazon Cognito では、ウェブアプリケーションやモバイルアプリケーションに認証、認可、ユーザー管理の機能を簡単に追加できます。Amazon Cognito は、数百万人のユーザーまでスケールし、SAML 2.0 や OpenID Connect などの規格を介して、Apple、Facebook、Google、Amazon などのソーシャル ID プロバイダーやエンタープライズ ID プロバイダーを利用し、サインインをサポートします。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/12/amazon-cognito-europe-milan-region/",
-          "publishedOn": "2022-12-15T21:34:08.000Z",
-          "wordCount": 311,
-          "title": "Amazon Cognito が欧州 (ミラノ) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "9dd670784262377713a6f28ba48a1756d1a200ca",
-          "author": "aws@amazon.com",
-          "description": "Amazon Redshift Serverless の一般提供がアジアパシフィック (ムンバイ) およびカナダ (中部) AWS リージョンでも開始されました。本サービスでは、分析の実行やスケーリングを、データウェアハウスクラスターのプロビジョニングや管理なしに行えます。Amazon Redshift Serverless により、データアナリスト、デベロッパー、データサイエンティストを含むすべてのユーザーが、Amazon Redshift を使用して、ほんの数秒でデータからインサイトを得られるようになりました。Amazon Redshift Serverless は、データウェアハウスの容量を自動的にプロビジョンし、インテリジェントにスケールして、すべての分析で高いパフォーマンスを発揮します。お支払いいただくのは、1 秒単位で計算される、ワークロードの期間中に使用したコンピューティングの料金のみです。既存の分析/ビジネスインテリジェンス用アプリケーションに変更を加えることなく、シンプルにご利用いただけます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/12/amazon-redshift-serverless-asia-pacific-mumbai-canada-central-regions/",
-          "publishedOn": "2022-12-15T21:31:36.000Z",
-          "wordCount": 341,
-          "title": "Amazon Redshift Serverless の一般提供をアジアパシフィック (ムンバイ)、カナダ (中部) AWS リージョンで開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "2f3a99d7568dcae030c1f40275cad5ac8c62d82f",
-          "author": "aws@amazon.com",
-          "description": "Amazon EC2 のお客様は、アジアパシフィック (ハイデラバード) リージョンで Amazon マシンイメージ (AMI) のごみ箱をご利用いただけるようになりました。誤って削除した AMI を復元して、事業継続性のニーズに対応できます。ごみ箱を使用すると、指定した保持期間が終了する前に、登録解除された AMI を必要に応じて復元できます。復元された AMI は、削除前に持っていたタグ、許可、および暗号化ステータスなどの属性を保持し、すぐに起動に使用できます。ごみ箱から復元されなかった AMI は、保持期間が終了すると完全に削除されます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/12/recycle-bin-amazon-machine-images-available-asia-pacific-hyderabad-region/",
-          "publishedOn": "2022-12-15T19:02:12.000Z",
-          "wordCount": 305,
-          "title": "Amazon マシンイメージのごみ箱がアジアパシフィック (ハイデラバード) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "7020ca301b3799e0b59a200054760f180166a6c7",
-          "author": "aws@amazon.com",
-          "description": "AWS CloudFormation フックでリソースタイプのワイルドカード対応を開始しました。これにより、複数のリソースタイプを一致させられます。お客様はワイルドカードを使用してリソースのターゲットを定義し、フックを柔軟に作成可能です。フック作成時には明示されていないリソースタイプでフックを有効にできます。例えば、AWS::ECR::* ワイルドカードを使用して、Amazon ECR にあるすべてのリソースタイプでトリガーするフックを定義可能です。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/",
-          "publishedOn": "2022-12-15T19:01:21.000Z",
-          "wordCount": 298,
-          "title": "AWS CloudFormation フックのワイルドカード設定で複数のリソースタイプをターゲットにする",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
@@ -723,26 +663,6 @@
           "wordCount": null,
           "title": "第22回　衛星コンステレーション",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16",
-          "author": null,
-          "description": "RISC-V SummitへのCanonicalの参加に伴い、Ubuntu/CanonicalのRISC-Vへの対応についてまとめたblog記事が提供されています。また、23.04の開発でも、さまざまなタスクが進行しています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16?utm_source=feed",
-          "publishedOn": "2022-12-16T00:53:00.000Z",
-          "wordCount": 430,
-          "title": "Ubuntu/CanonicalのRISC-V関連の進捗、23.04（lunar）の開発 / ホリデーシーズンの始まり",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502",
-          "author": null,
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは一野瀬翔吾さんで、テーマは「AWS Lambda入門」（2）です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502?utm_source=feed",
-          "publishedOn": "2022-12-16T00:18:00.000Z",
-          "wordCount": null,
-          "title": "第75回　AWS Lambda入門 サーバレスでもPerlを活用しよう！（2）",
-          "imageUrl": null
         }
       ]
     },
@@ -1080,26 +1000,6 @@
           "wordCount": 148,
           "title": "第22回　衛星コンステレーション",
           "imageUrl": "https://gihyo.jp/assets/images/article/2022/12/internet-forecast-report-22/ifr-22-01.png"
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16",
-          "author": null,
-          "description": "RISC-V SummitへのCanonicalの参加に伴い、Ubuntu/CanonicalのRISC-Vへの対応についてまとめたblog記事が提供されています。また、23.04の開発でも、さまざまなタスクが進行しています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16?utm_source=feed",
-          "publishedOn": "2022-12-16T00:53:00.000Z",
-          "wordCount": null,
-          "title": "Ubuntu/CanonicalのRISC-V関連の進捗、23.04（lunar）の開発 / ホリデーシーズンの始まり",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502",
-          "author": null,
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは一野瀬翔吾さんで、テーマは「AWS Lambda入門」（2）です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502?utm_source=feed",
-          "publishedOn": "2022-12-16T00:18:00.000Z",
-          "wordCount": null,
-          "title": "第75回　AWS Lambda入門 サーバレスでもPerlを活用しよう！（2）",
-          "imageUrl": null
         }
       ]
     },
@@ -1437,26 +1337,6 @@
           "wordCount": null,
           "title": "第22回　衛星コンステレーション",
           "imageUrl": null
-        },
-        {
-          "id": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16",
-          "author": null,
-          "description": "RISC-V SummitへのCanonicalの参加に伴い、Ubuntu/CanonicalのRISC-Vへの対応についてまとめたblog記事が提供されています。また、23.04の開発でも、さまざまなタスクが進行しています。",
-          "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202212/16?utm_source=feed",
-          "publishedOn": "2022-12-16T00:53:00.000Z",
-          "wordCount": 430,
-          "title": "Ubuntu/CanonicalのRISC-V関連の進捗、23.04（lunar）の開発 / ホリデーシーズンの始まり",
-          "imageUrl": "https://gihyo.jp/assets/images/ICON/2022/1903_ubuntu-topics.png"
-        },
-        {
-          "id": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502",
-          "author": null,
-          "description": "本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーは一野瀬翔吾さんで、テーマは「AWS Lambda入門」（2）です。",
-          "link": "https://gihyo.jp/dev/serial/01/perl-hackers-hub/007502?utm_source=feed",
-          "publishedOn": "2022-12-16T00:18:00.000Z",
-          "wordCount": null,
-          "title": "第75回　AWS Lambda入門 サーバレスでもPerlを活用しよう！（2）",
-          "imageUrl": null
         }
       ]
     },
@@ -1527,16 +1407,6 @@
           "publishedOn": "2022-12-23T00:00:00.000Z",
           "wordCount": 499,
           "title": "Rails on Docker, local? environment inquirer and more!",
-          "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
-        },
-        {
-          "id": "https://rubyonrails.org/2022/12/16/this-week-in-rails-documentation-on-preloading-stis-timehelpers-improvement-etc-fa5bbcaa",
-          "author": null,
-          "description": "नमस्ते, This is Emmanuel Hayford with some updates from Rails! Hide changes to before_committed! behaviour behind config This PR introduces a new configuration option that will enable before_committed! callbacks on all enrolled records in a transaction by default in Rails 7.1. Previously, callbacks were only run on the first copy of a record if there were multiple copies of the same record enrolled in a transaction. TimeHelpers: include with_usec keyword parameter on travel &amp; freeze too ActiveSupport::Testing::TimeHelpers now accepts a named with_usec argument to freeze_time, travel, and travel_to methods. Passing true prevents truncating the destination time with change(usec: 0). Allow f.select to be called with a single hash containing options and HTML options select can now be called with a single hash containing options and some HTML options. Previously, this would not work as expected: &lt;%= select :post, :author, authors, required: true %&gt; Instead, you needed to do this: &lt;%= select :post, :author, authors, {}, required: true %&gt;  Now, either form is accepted, for the following HTML attributes: required, multiple, size. Fix inconsistent behavior in form helper date/time tags with options DateTime form helpers (time_field, date_field, datetime_field, week_field, month_field) now accept an instance of Time, Date and DateTime as :value option. Previously we had: &lt;%= form.datetime_field :written_at, value: Time.current.strftime(“%Y-%m-%dT%T”) %&gt; And now: &lt;%= form.datetime_field :written_at, value: Time.current %&gt; Document four ways to preload STIs This PR documents a couple of ways to preload STIs. The document is on Edge Rails Guides and you can read all about it. Thanks to the 26 contributors we had in the last week! Talk to you next week.",
-          "link": "https://rubyonrails.org/2022/12/16/this-week-in-rails-documentation-on-preloading-stis-timehelpers-improvement-etc-fa5bbcaa",
-          "publishedOn": "2022-12-16T00:00:00.000Z",
-          "wordCount": 582,
-          "title": "Documentation on preloading STIs, TimeHelpers improvement, etc",
           "imageUrl": "https://rubyonrails.org/assets/images/opengraph.png"
         }
       ]
@@ -1765,16 +1635,6 @@
           "wordCount": 403,
           "title": "引っ越しした時にインターネット回線を調査した話",
           "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/12/survey_ftth_eyecatch-min.png"
-        },
-        {
-          "id": "https://techracho.bpsinc.jp/baba/2022_12_16/125181",
-          "author": null,
-          "description": "<div style=\"margin: 5px 5% 10px 5%;\"><img src=\"https://techracho.bpsinc.jp/wp-content/uploads/2022/12/comparison_10gbps_flets_hikari_au_hikari_eyecatch-min-768x461.png\" width=\"768\" height=\"461\" title=\"\" alt=\"\" /></div><div><p>今年の夏に色々あってフレッツ光ネクストからauひかりホーム10ギガに乗り換えました。 しかし、auひかり申込み直後に、年単位で待っていたフレッツ光クロスがエリア拡大して自宅が対象になり、悔しいのでそちらも申し込みました。結果的に10Gbpsの光回線が2本になったので、両方を比べてみたいと思います。 なお、自宅はNURO光10Gもエリア内なので、3本引いて比較することも考えたのですが、工事費44000円を見て落ち着きを取り戻しました。 前提 開通したのは次の2回線です。一般の個人宅で使う家庭用回線です。 auひかり ホーム10ギガ プロバイダはSo-net フレッツ光クロス enひかりクロスの光コラボ VNEはv6 [&#8230;]</p>\n<p>The post <a href=\"https://techracho.bpsinc.jp/baba/2022_12_16/125181\" data-wpel-link=\"internal\" target=\"_self\">10Gbpsの光回線を2本引いてどちらが良いか比べてみた</a> first appeared on <a href=\"https://techracho.bpsinc.jp\" data-wpel-link=\"internal\" target=\"_self\">TechRacho</a>.</p></div>",
-          "link": "https://techracho.bpsinc.jp/baba/2022_12_16/125181",
-          "publishedOn": "2022-12-16T08:30:59.000Z",
-          "wordCount": 1429,
-          "title": "10Gbpsの光回線を2本引いてどちらが良いか比べてみた",
-          "imageUrl": "https://techracho.bpsinc.jp/wp-content/uploads/2022/12/comparison_10gbps_flets_hikari_au_hikari_eyecatch-min.png"
         }
       ]
     },
@@ -1783,6 +1643,36 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/23/2025itbtconjp_2023pr.html",
+          "author": null,
+          "description": "優秀なITエンジニアが不足しているなどの企業で、情報システムに技術的負債が蓄積していき、システムトラブルやデータ損失などのリスクが高まり、企業自身もデータ活用などに失敗してデジタル競争の敗者となっていく。 経済産業省が2018年に発表した「...",
+          "link": "https://www.publickey1.jp/blog/23/2025itbtconjp_2023pr.html",
+          "publishedOn": "2023-01-15T15:10:19.000Z",
+          "wordCount": 1274,
+          "title": "「2025年の崖」を克服する競争力、ゼロトラストの次の世界とは。ITによるビジネスの推進を知るBTCONJP 2023［PR］",
+          "imageUrl": "https://www.publickey1.jp/2023/publickey2_big.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/23/chatgptkuberneteschatgptkubernetes_chatgpt_bot.html",
+          "author": null,
+          "description": "オープンソースで開発されているKubernetesのモニタリングツール「Robusta」の開発者Natan Yellin氏は、AIを利用して人間とチャットで会話をする能力を備える「ChatGPT」をRobustaと統合した「Kubernet...",
+          "link": "https://www.publickey1.jp/blog/23/chatgptkuberneteschatgptkubernetes_chatgpt_bot.html",
+          "publishedOn": "2023-01-15T15:02:00.000Z",
+          "wordCount": 1284,
+          "title": "ChatGPTにKubernetesのアラート対応を教えてもらう。監視ツールとChatGPTをつなげる「Kubernetes ChatGPT Bot」登場",
+          "imageUrl": "https://www.publickey1.jp/2023/k8schatgptbot_p03.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/23/docker_desktop_416awslocalstackapplemacx86amd64linux.html",
+          "author": null,
+          "description": "WindowsやMac、Linuxなどのマシンに対して手軽にDockerコンテナ環境を導入し、GUIで統合管理できるDocker Desktopの最新版「Docker Desktop 4.16」が正式リリースされました。 525,600 m...",
+          "link": "https://www.publickey1.jp/blog/23/docker_desktop_416awslocalstackapplemacx86amd64linux.html",
+          "publishedOn": "2023-01-15T15:01:00.000Z",
+          "wordCount": 1282,
+          "title": "Docker Desktop 4.16登場。AWSをローカルエミュレーションするLocalStackなど拡張機能が正式版。AppleシリコンMacでx86/amd64版Linuxバイナリの実行がβ版に",
+          "imageUrl": "https://www.publickey1.jp/2023/dd41601.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/23/sqlite3_wasmjsorigin_private_file_systemchromedbgoogleweb_sql.html",
           "author": null,
@@ -2032,16 +1922,6 @@
           "wordCount": 1282,
           "title": "Linux Foundationが「法律専門家のための WebAssembly ～ ライセンス・コンプライアンスにおける現在のパラメータを探る」日本語版ドキュメント公開",
           "imageUrl": "https://www.publickey1.jp/2022/webassembly_compliance_lf01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html",
-          "author": null,
-          "description": "Google Cloudは、エンタープライズ向けの高性能データベースサービス「AlloyDB for PostgreSQL」を正式サービスとして提供開始しました。 AlloyDB for PostgreSQL is generally av...",
-          "link": "https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html",
-          "publishedOn": "2022-12-15T16:48:10.000Z",
-          "wordCount": 1316,
-          "title": "Google Cloud、エンタープライズ向け高性能DB「AlloyDB for PostgreSQL」正式サービスとして提供開始、Amazon Aurora対抗の位置づけ",
-          "imageUrl": "https://www.publickey1.jp/2022/vSPu7G5O.jpg"
         }
       ]
     },
@@ -2050,6 +1930,16 @@
       "feedUrl": "https://www.suzukikenichi.com/blog/feed/",
       "siteUrl": "https://www.suzukikenichi.com/blog",
       "articles": [
+        {
+          "id": "https://www.suzukikenichi.com/blog/?p=12906",
+          "author": "Kenichi Suzuki",
+          "description": "ローカルパックからのトラフィックが Search Console の検索パフォーマンスレポートにまったく記録されない状況が、少なくとも 2022 年 9 月頃から続いているようだ。",
+          "link": "https://www.suzukikenichi.com/blog/traffic-from-local-packs-seem-to-be-completely-lost-in-search-console/",
+          "publishedOn": "2023-01-15T22:30:59.000Z",
+          "wordCount": 3565,
+          "title": "ローカルパックからの検索トラフィックがSearch Consoleで完全喪失",
+          "imageUrl": "https://www.suzukikenichi.com/blog/wp-content/uploads/analytics-1841554_1280-600x358.webp"
+        },
         {
           "id": "https://www.suzukikenichi.com/blog/?p=12898",
           "author": "Kenichi Suzuki",
@@ -2212,6 +2102,106 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://pp-weeklynews.connpass.com/event/272271/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/22 20:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>Power Platform Weekly News をリニューアルしました</h1>\n<p>2021年11月21日から <a href=\"https://www.youtube.com/playlist?list=PLFWe9YKLKFFOkabzBm2kXUY8lQX9Z9wd1\" rel=\"nofollow\"><strong>Power BI Weekly News</strong></a> として石川さんと一緒に再始動しました。</p>\n<p>今回は石川さんの小ネタなのか Yugo の小ネタなのか❗❓😋</p>\n<p>その他、最新のアップデート情報から気になったものをゆるりと紹介したりします。</p>\n<ul>\n<li><strong>YouTube チャンネル</strong>：<a href=\"https://www.youtube.com/YugosRoom\" rel=\"nofollow\">https://www.youtube.com/YugosRoom</a></li>\n<li><strong>いつもの Power BI Report</strong> : <a href=\"https://bit.ly/PBI-WeeklyNews\" rel=\"nofollow\">https://bit.ly/PBI-WeeklyNews</a></li>\n</ul>\n<h1>諸注意📣</h1>\n<p>YouTube Live で公開生放送でやるので、本イベントに登録しなくてもご覧いただけますが、可能であれば、参加登録していただけると幸いです。今後も生放送を予定しているので、登録してグループに参加していただけると、次回イベントのお知らせが飛びます。</p>\n<h1>こんなのやってほしい～小ネタのネタはずーっと募集中～</h1>\n<p>最近小ネタ合戦になってきてるので、皆さんから何かリクエストだったり、質問だったりがあれば、遠慮なくお知らせください。</p>\n<p>当日でもいいですし、準備が必要そうだなって思うものなら、Yugo か 石川さん の Twitter までください📣</p>\n<ul>\n<li>Yugo Shimizu: <a href=\"https://twitter.com/yugoes1021\" rel=\"nofollow\">https://twitter.com/yugoes1021</a></li>\n<li>石川 陽一: <a href=\"https://twitter.com/ishiayaya\" rel=\"nofollow\">https://twitter.com/ishiayaya</a></li>\n</ul>",
+          "link": "https://pp-weeklynews.connpass.com/event/272271/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T23:00:36.000Z",
+          "wordCount": 1022,
+          "title": "[YouTube Live] Power BI Weekly News 58",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/10/99/109926967f551dd44131c90568c15f86.png"
+        },
+        {
+          "id": "https://nagoya-se.connpass.com/event/272298/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/28 14:00 ～ 17:00<br />開催場所: 愛知県名古屋市中村区名駅3-13-31 名駅モリシタビル7階<br /><br /><h5>【内容】<br></h5>\n<p>名古屋駅から徒歩5分の会場にて土日に開催のもくもく会です！<br>\nエンジニア、デザイナーの方、プログラミング初学者の方、<br>\nその他何かもくもくしたい方、交流をしたい方は気軽にご参加ください！<br></p>\n<p>インフラ、バックエンド、フロントエンド関連でもくもくしたい<br>\nオリジナルアプリ開発をしたい、デザイン作業をしたい<br>\n新しい言語を学びたい、プログラミングをしたい、などなど...<br></p>\n<p>少人数でもくもくしていつもと違う過ごし方をしてみませんか？<br>\nまた、ただもくもくと作業するするだけではなく、いろいろな方との交流の場としても活用していきたいと思っているので繋がりを作りたい方やIT業界に興味のある方、気軽にご参加ください！<br>\n仕事や転職のご相談になることも多いので会の終了後に懇親会を毎回開催しています。<br></p>\n<h5>【スケジュール】<br></h5>\n<p>時間  内容<br>\n9:00~9:15   開校、自己紹介、取り組むことを発表<br>\n9:15~11:45  もくもく学習＋雑談<br>\n11:45~12:00 片付け、雑談<br>\n12:00~13:00 懇親会(ランチ)※<br></p>\n<h5>【場所】<br></h5>\n<p>名古屋駅より徒歩2分<br>\n愛知県名古屋市中村区名駅3-13-28　名駅セブンスタービル 5階 504<br>\n使用場所の管理人のご都合により、場所が変更となる場合がありますので、当日に場所の再確認をおねがいいたします。<br></p>\n<h5>【持ち物】<br></h5>\n<p>・マスク（必須、感染対策にご協力願います）<br>\n・作業できるもの（PC、本、ノートなど）<br>\n・飲み物、食べ物（任意です。）※ゴミの持ち帰りのご協力願いします<br></p>\n<h5>【主催者の簡単な自己紹介】<br></h5>\n<p>3年間半導体メーカーで、システムエンジニアとして基本設計やVBA、Pythonなどを使っておりました。<br>\n半導体メーカーを脱サラ後、個人事業主として3年間営業マンとして活動し、法人向け携帯事業を立ち上げました。<br>\nその後、半導体不足の影響により携帯が手に入りにくくなったため、コロナが落ち着くまでシステムエンジニアに戻り、<br>\n今はデータベースエンジニアとしてお仕事をさせていただいております。<br></p>\n<h5>【コロナウィルスについて】<br></h5>\n<p>コロナウィルス対策として原則マスクの着用をお願いします。<br>\nまた、愛知県の対応によっては勉強会自体を中止とさせて頂きますの予めご了承ください。<br>\n仮に不測の事態が発生しても当方では責任を追うことはできないです。<br>\n参加される場合は自己の責任でお願いします。<br></p>",
+          "link": "https://nagoya-se.connpass.com/event/272298/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T22:43:34.000Z",
+          "wordCount": 928,
+          "title": "NAGOYA SE勉強会【もくもく会】",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ca/66/ca6601a100254b200b36b266765a2929.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/272296/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/24 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>\n<p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)\n<br>\n<br></p>\n<h2>Break</h2>\n<p>もくもく会参加者がゲームを作成してくれました。<br>\n息抜きに是非遊んでください。<br>\n<a href=\"http://uaaaaaaaa.com/pf/zixntori404\" rel=\"nofollow\">http://uaaaaaaaa.com/pf/zixntori404</a>\n<br>\n<br>\nアドベントカレンダーやってます。気軽になんでも書いてください<br>\n<a href=\"https://adventar.org/calendars/7743\" rel=\"nofollow\">https://adventar.org/calendars/7743</a></p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/272296/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T18:34:02.000Z",
+          "wordCount": 884,
+          "title": "1/24(火)【第1632回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/272295/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/23 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>\n<p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)\n<br>\n<br></p>\n<h2>Break</h2>\n<p>もくもく会参加者がゲームを作成してくれました。<br>\n息抜きに是非遊んでください。<br>\n<a href=\"http://uaaaaaaaa.com/pf/zixntori404\" rel=\"nofollow\">http://uaaaaaaaa.com/pf/zixntori404</a>\n<br>\n<br>\nアドベントカレンダーやってます。気軽になんでも書いてください<br>\n<a href=\"https://adventar.org/calendars/7743\" rel=\"nofollow\">https://adventar.org/calendars/7743</a></p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/272295/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T18:33:15.000Z",
+          "wordCount": 884,
+          "title": "1/23(月)【第1630回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://no-genre-mokumoku.connpass.com/event/272294/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/22 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>\n<p>途中入退室可のIT系もくもく会です<br>\n勉強時間を毎日集計！初心者歓迎です！！<br>\n参加者より質問等が出てきた場合は、<br>\nわかる内容については積極的にご回答いただけるとありがたいです<br>\n<br>\n※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>\nもし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)\n<br>\n<br></p>\n<h2>Break</h2>\n<p>もくもく会参加者がゲームを作成してくれました。<br>\n息抜きに是非遊んでください。<br>\n<a href=\"http://uaaaaaaaa.com/pf/zixntori404\" rel=\"nofollow\">http://uaaaaaaaa.com/pf/zixntori404</a>\n<br>\n<br>\nアドベントカレンダーやってます。気軽になんでも書いてください<br>\n<a href=\"https://adventar.org/calendars/7743\" rel=\"nofollow\">https://adventar.org/calendars/7743</a></p>",
+          "link": "https://no-genre-mokumoku.connpass.com/event/272294/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T18:32:27.000Z",
+          "wordCount": 884,
+          "title": "1/22(日)【第1628回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/33/d3/33d3df8b302f225cac3a85a16a0022a6.png"
+        },
+        {
+          "id": "https://it-tokyo.connpass.com/event/272293/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/02/11 13:00 ～ 17:00<br />開催場所: (場所未定)<br /><br /><h2>【タイムスケジュール】</h2>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"center\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">13:00〜</td>\n<td align=\"center\">開場</td>\n</tr>\n<tr>\n<td align=\"left\">13:20〜13:30</td>\n<td align=\"center\">オープニング</td>\n</tr>\n<tr>\n<td align=\"left\">13:30〜14:30</td>\n<td align=\"center\">【初心者向け】web3の基本　※休憩含む</td>\n</tr>\n<tr>\n<td align=\"left\">14:30〜15:30</td>\n<td align=\"center\">コードで理解するブロックチェーンウォレット　※休憩含む</td>\n</tr>\n<tr>\n<td align=\"left\">15:30〜16:30</td>\n<td align=\"center\">web3の最新ニュース／活用事例　※休憩含む</td>\n</tr>\n<tr>\n<td align=\"left\">16:30〜17:00</td>\n<td align=\"center\">片付けと雑談</td>\n</tr>\n<tr>\n<td align=\"left\">17:00〜</td>\n<td align=\"center\">希望者で交流会</td>\n</tr>\n</tbody>\n</table>\n<p>※ 当日予告なく時間配分・内容が変更になる可能性がございます。</p>\n<h2>アクセス</h2>\n<p>東京都中央区日本橋兜町11番9号\n新場橋区民館</p>\n<h2>【web3勉強会とは？】</h2>\n<p>IT関連（web3中心予定）の知識や経験を、エンジニアに限らず、様々な人達と学び、一緒に成長していくことを目指しています。\n初心者でも、非エンジニアでも、IT業界以外の人も歓迎です！\nまた、年齢も問いません。</p>\n<h2>【概要】</h2>\n<p>この勉強会では、ITに興味がある人たちが集まって一緒に勉強していくグループです。</p>\n<p>主催者側から各トピックについて発表→質問・議論（雑談）という流れで進めていきます。\n主催者もweb3については専門ではなく勉強中の身です。一方的に説明するというよりは、参加者それぞれの専門や経験の共有をしながら知識を深めていければと考えています。</p>\n<h2>【こんな方にオススメ】</h2>\n<p>web3に興味がある方。暗号通貨、ビットコイン、NFTって何？って思っている方\nIT業界に興味がある方\nエンジニア\nIT関連業界で働いている方\n異業種の人と交流したい方</p>\n<h2>【その他の集客サイトでも受付】</h2>\n<p>・TECH PLAY\n<a href=\"https://techplay.jp/event/888424\" rel=\"nofollow\">https://techplay.jp/event/888424</a></p>\n<p>・Peatix\n<a href=\"https://peatix.com/event/3472196/view\" rel=\"nofollow\">https://peatix.com/event/3472196/view</a></p>\n<p>・PassMarket\n<a href=\"https://passmarket.yahoo.co.jp/event/show/detail/02knrdpd7iu21.html#detail\" rel=\"nofollow\">https://passmarket.yahoo.co.jp/event/show/detail/02knrdpd7iu21.html#detail</a></p>\n<p>・こくちーず\n<a href=\"https://www.kokuchpro.com/event/3e3a099922876d131b3c190bc3fe37fd/\" rel=\"nofollow\">https://www.kokuchpro.com/event/3e3a099922876d131b3c190bc3fe37fd/</a></p>\n<h2>【注意事項】</h2>\n<p>リクルーティング、勧誘など、採用目的でのイベント参加はお断りしております。\nキャンセル待ち・補欠・落選の方はご参加いただくことが出来ませんのでご了承ください。\n欠席される場合は、お手数ですが速やかにキャンセル処理をお願い致します。\n無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。その他の集客サイトでも受付</p>",
+          "link": "https://it-tokyo.connpass.com/event/272293/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T18:09:48.000Z",
+          "wordCount": 974,
+          "title": "web3勉強会 #3【初心者向け】",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/08/33/08339bcf5b95c376a7af8149b7ea2ebd.png"
+        },
+        {
+          "id": "https://nanophoto-qc.connpass.com/event/272288/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/16 22:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h1>動機</h1>\n<p>量子コンピュータを作りたい情熱を絶やさず勉強を続けていこうと思っています。</p>\n<h1>開催頻度</h1>\n<p>週1（月）で開催します。  </p>\n<h1>内容：</h1>\n<p>1.教科書 量子力学講義ノート  (<a href=\"https://www.lab.toho-u.ac.jp/sci/ph/astrophysics/staff/sekiguchi/index.html\" rel=\"nofollow\">https://www.lab.toho-u.ac.jp/sci/ph/astrophysics/staff/sekiguchi/index.html</a>)  を読み進める<br>\n2.量子コンピュータ関係の気になる論文などの情報交換をする</p>\n<h1>開催方法</h1>\n<p>・Skypeです。<strong>アプリをインストール</strong>してご使用ください（webブラウザのskypeでは正常に繋げないことがあります）。<br>\n・以下リンクからご参加ください。時間になったら主催者がコールします。<br>\n<a href=\"https://join.skype.com/WBpzTv6dJcxW\" rel=\"nofollow\">Skype ナノフォトニクス で量子コンピュータを作りたい！</a><br>\n・発言しない時は雑音低減のため<strong>マイクミュート</strong>にしておいてください。</p>\n<h1>Slackコミュニティ</h1>\n<p>Slackに参加して、質問や情報交換しましょう。資料もこちらで共有します。<br>\n<a href=\"https://join.slack.com/t/nanophoto-qc/shared_invite/zt-gb4svp3m-1qWTMf~KRKB8mSQNNN1G2w\" rel=\"nofollow\">Slack nanophoto-qc</a>\n※リンク切れの場合は上記のskype等でお知らせください。</p>",
+          "link": "https://nanophoto-qc.connpass.com/event/272288/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T14:45:17.000Z",
+          "wordCount": 914,
+          "title": "量子力学|20>",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/cf/3b/cf3b3eb307b03e0f52dfa7cad1497fde.png"
+        },
+        {
+          "id": "https://quantuminfo.connpass.com/event/272287/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/22 10:00 ～ 12:00<br />開催場所: オンライン<br /><br /><h1>概要</h1>\n<p>量子コンピュータの実現に欠かせない量子エラー訂正。<br>\nその基礎を理解すべく勉強会を行っています。<br>\nエラー耐性量子計算についての教科書や論文を読み進めていきます。  </p>\n<h1>開催方法</h1>\n<p>Skypeを使ったオンライン勉強会です。<br>\n「参加登録」か、下記の「Slack参加」により開催案内を共有します。  </p>\n<h1>教科書、論文</h1>\n<p>次回予定：<br>\n量子特異値変換について  </p>\n<ul>\n<li>\n<p><a href=\"https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.2.040203\" rel=\"nofollow\">Grand Unification of Quantum Algorithms</a>  </p>\n</li>\n<li>\n<p><a href=\"https://www.youtube.com/watch?v=bdKV3voK-QAhttps://www.youtube.com/watch?v=bdKV3voK-QA\" rel=\"nofollow\">量子と古典の物理と幾何@online　藤井啓祐　「量子アルゴリズムの大統一理論とその応用」</a>  </p>\n</li>\n</ul>\n<h1>これまでの整理、復習、関連論文紹介等</h1>\n<ul>\n<li>\n<p><a href=\"https://arxiv.org/abs/quant-ph/0410199v2\" rel=\"nofollow\">Quantum Computing with Very Noisy Devices</a>  </p>\n</li>\n<li>\n<p><a href=\"https://www.nature.com/articles/srep07501\" rel=\"nofollow\">Step-by-step magic state encoding for efficient fault-tolerant quantum computation</a>  </p>\n</li>\n<li>\n<p><a href=\"https://www.nature.com/articles/srep02044\" rel=\"nofollow\">Fault-tolerant quantum computation with a soft-decision decoder for error correction and detection by teleportation</a></p>\n</li>\n<li>\n<p><a href=\"https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031027\" rel=\"nofollow\">Practical Quantum Error Mitigation for Near-Future Applications</a>  </p>\n</li>\n<li>\n<p><a href=\"https://arxiv.org/abs/1509.02921\" rel=\"nofollow\">Introduction to Quantum Gate Set Tomography</a>  </p>\n</li>\n<li>\n<p><a href=\"https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.010345\" rel=\"nofollow\">Quantum Error Mitigation as a Universal Error Reduction Technique: Applications from the NISQ to the Fault-Tolerant Quantum Computing Eras</a>  </p>\n</li>\n<li>\n<p><a href=\"https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021049\" rel=\"nofollow\">Hardware-Efficient, Fault-Tolerant Quantum Computation with Rydberg Atoms</a>  </p>\n</li>\n<li>\n<p><a href=\"https://arxiv.org/abs/1504.01444\" rel=\"nofollow\">Quantum Computation with Topological Codes: from qubit to topological fault-tolerance</a>  </p>\n</li>\n</ul>\n<h1>Slack</h1>\n<p>開催案内や情報交換の場として。<br>\n<a href=\"https://join.slack.com/t/quant-info/shared_invite/zt-jumq15dj-TJnV6xp7sWifZixxv3~gVw\" rel=\"nofollow\">Slack 量子情報勉強会</a><br>\n※上記招待リンクの有効期限が切れている場合、お手数ですがコメント欄等でご連絡ください。</p>\n<h1>参考書</h1>\n<ul>\n<li>\n<p><a href=\"https://www.amazon.co.jp/dp/1107002176/ref=cm_sw_em_r_mt_dp_C5WIFb7C61DHB\" rel=\"nofollow\">Quantum Computation and Quantum Information: 10th Anniversary Edition</a>  </p>\n</li>\n<li>\n<p><a href=\"https://www.amazon.co.jp/dp/4339028703/ref=cm_sw_r_tw_dp_x_DqOIFbJ83PRWH\" rel=\"nofollow\">コロナ社　観測に基づく量子計算</a></p>\n</li>\n</ul>",
+          "link": "https://quantuminfo.connpass.com/event/272287/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T14:44:21.000Z",
+          "wordCount": 1224,
+          "title": "量子情報勉強会†<58|",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/58/80/58802cae5da40dbd5593e9b9f9e90971.png"
+        },
+        {
+          "id": "https://xpreadinggroup.connpass.com/event/272286/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/01/29 21:00 ～ 23:00<br />開催場所: リモート<br /><br /><h1>開催概要</h1>\n<p>「XPエクストリーム・プログラミング実行計画」を読みます<br>\n電子書籍版はないし、新品の書籍も入手できないと思います<br>\nAmazonやメルカリで中古を購入する、先輩から借りるなどして準備をお願いします</p>\n<h1>今回読むところ</h1>\n<p>P.7「不安」から読みます  </p>\n<h1>参加枠</h1>\n<h3>会読枠</h3>\n<p>書籍をお持ちで、参加者の方とディスカッションしたい人はこちら</p>\n<h3>ラジオ枠</h3>\n<p>ラジオ感覚で耳だけ参加したい方はこちら<br>\n「話すのはちょっと。。。」という方もいるかもしれないので、こちらから話を振ったりはしません<br>\nもちろんDiscordなどへの書き込みはWelcomeですし、話したくなったらマイクONにして話してもらって構いません<br>\n※ 書籍の画面共有はしないので、書籍はお手元に準備いただく必要があります</p>\n<h1>開催場所</h1>\n<p>オンライン（Discord）<br>\n* アクセス方法は「参加者への情報」をご覧ください（参加者のみ参照可）</p>\n<h1>会読会の進め方</h1>\n<p>最初に軽く自己紹介をしてから交代で音読する形式で輪読を進めます（15分）<br>\n個人の気付きをScrapboxに記載します\n気付きの共有をした後、気になったところについて意見交換をします<br>\n22:00頃に休憩を挟みつつ、読み進められるところまで読み進めます<br>\n最後に一言ずつ今日の感想・学びを共有して、会を終えます</p>",
+          "link": "https://xpreadinggroup.connpass.com/event/272286/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T14:16:36.000Z",
+          "wordCount": 963,
+          "title": "XP実行計画 会読会 第2回",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/dc/fc/dcfcd716c44f5aaa7e5d58daa1955188.png"
+        },
+        {
+          "id": "https://machine-learning15minutes.connpass.com/event/272281/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/02/25 14:00 ～ 17:00<br />開催場所: (場所未定)<br /><br /><p>【イベント参加にあたって】<br>\n当初予定しておりましたハイブリット開催ですが、コロナ第７波による感染拡大状況を鑑み、\n残念ながらオンラインのみでの開催とさせていただきます。\n参加者にはメールで参加情報をお知らせいたしますので、よろしくお願いいたします。</p>\n<p>【重要】<br>\nイベントに申し込む前に、twitterをフォローいただき、FBグループ、slackにご登録ください。<br>\n<a href=\"https://twitter.com/ML15min\" rel=\"nofollow\">https://twitter.com/ML15min</a>\n<br>\n<a href=\"https://www.facebook.com/groups/1052659918147632/\" rel=\"nofollow\">https://www.facebook.com/groups/1052659918147632/</a>\n<br>\n<a href=\"https://ml15min.slack.com/join/shared_invite/zt-eqii07wj-3lwZ7lqK4gHMGjRFNBrUsQ#/shared-invite/email\" rel=\"nofollow\">https://ml15min.slack.com/join/shared_invite/zt-eqii07wj-3lwZ7lqK4gHMGjRFNBrUsQ#/shared-invite/email</a>\n<br>\n※ハッシュタグが　#ML15min　に変更になりました！！！</p>\n<h3></h3>\n<p>「Machine Learning 15minutes! Broadcast」は、「機械学習」について「15minutes以内」で語るLTを7～8人で行い、機械学習の先端的な社会実装事例、強化学習・転移学習などの流行している技術、GAFMAのプラットフォームの状況、中国AIの実情など、様々な角度から機械学習についての知見を広げ、LT終了後の懇親会でネットワーキングを行うイベントです。</p>\n<p>※タイトルや内容は予定です。予告なく変更になることもありますので、ご容赦ください。</p>\n<h3>＜登壇者　発表内容＞<br></h3>\n<p>調整中【調整中】<br>\n　調整中</p>\n<p>調整中【調整中】<br>\n　調整中</p>\n<p>調整中【調整中】<br>\n　調整中</p>\n<p>調整中【調整中】<br>\n　調整中</p>\n<p>調整中【調整中】<br>\n　調整中</p>\n<p><br>\n計5名<br></p>\n<h3>＜運営メンバー＞</h3>\n<p>【オーガナイザー】門前 一馬<br>\n【司会】橘 ゆう <br>\n【懇親会ホスト】小島 辰弥　 西前 和隆<br></p>\n<h3>＜対象＞</h3>\n<p>機械学習及び周辺技術に興味のある、<br>\n・エンジニア・データサイエンティスト・コンサルタント・法律家<br>\n・ビジネスパーソン・プランナー・プロデューサー・投資家・学生<br></p>\n<p>また、LT登壇者枠を広く募集しています。ご希望の方はお気軽に下記までメッセージください。<br><a href=\"https://www.facebook.com/kazuma.kadomae\" rel=\"nofollow\">https://www.facebook.com/kazuma.kadomae</a></p>\n<h3>＜参加費について＞</h3>\n<p>無料</p>\n<h3>＜協力＞</h3>\n<p>ディップ株式会社　※運営協力<br></p>\n<h3>＜主催責任者＞</h3>\n<p>門前一馬（カドマエ カズマ）<br>\n・株式会社FRONTEO　行動情報科学研究所　戦略チーム　クリエイティブディレクター</p>",
+          "link": "https://machine-learning15minutes.connpass.com/event/272281/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-01-15T14:02:30.000Z",
+          "wordCount": 1023,
+          "title": "第74回 Machine Learning 15minutes! Broadcast",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/70/bf/70bf3997ee0d6e2e9f8dd6c4dc7fefc1.png"
+        },
         {
           "id": "https://mame-coffee-programing.connpass.com/event/272142/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
