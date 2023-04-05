@@ -17,159 +17,569 @@
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 368)</span>Amazon EKS に Windows コンテナ用のドメインレス gMSA 認証を追加
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-eks-domainless-gmsa-authentication-windows-containers/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Elastic Kubernetes Service (EKS) は、Windows コンテナ用のドメインレスのグループ管理サービスアカウント (gMSA、Group Managed Service Account) に対応しました。そのため、Amazon EKS でホストされているアプリケーションを Microsoft Active Directory (AD) で簡単に認証できます。これは、ポータブルなユーザー ID とプラグインメカニズムを使用して、Windows コンテナの gMSA 認証情報を取得できるためです。今後は、自動スケーリングイベントの場合でも、EKS ノードをドメインに参加させることなく、AD 認証を必要とするコンテナを実行できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 324)</span>Cost Explorer の新規ユーザー全員に対し、AWS コスト異常検出を自動的に設定可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-cost-anomaly-detection-configured-cost-explorer-users/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Cost Explorer の新規ユーザーは、コスト異常検出を自動的に利用できるようになりました。コスト異常検出は、想定外のコスト増加を継続的にモニタリングおよび検出し、アラートを送信する、機械学習を活用したサービスです。今回のデフォルト設定により、Cost Explorer の新規ユーザーはコスト管理を手間なく迅速に改善できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 377)</span>Amazon EC2 High Memory インスタンスが AWS GovCloud (米国) リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-ec2-high-memory-instances-aws-govlcoud-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon EC2 High Memory インスタンスが AWS GovCloud (米国) リージョンで利用可能になりました。AWS GovCloud (米国西部) リージョンでは 3TiB (u-3tb1.56xlarge) のメモリ容量で利用でき、AWS GovCloud (米国東部) リージョンでは 9TiB (u-9tb1.112xlarge) のメモリ容量で利用できます。これらの新しい High Memory インスタンスは、オンデマンドおよび Savings Plans の購入オプションで利用を開始できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 311)</span>Amazon Connect Tasks がフロー内のカスタムタスクテンプレートをサポートするようになりました
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-connect-tasks-custom-templates-flow/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Connect では、Connect Flows の「タスクの作成」ブロックを使用してカスタムタスクテンプレートを使用できるようになりました。これにより、エージェントはタスクを作成して完了するための適切な情報を簡単に取得できます。Amazon Connect Tasks を使用すると、すべてのコンタクトセンターエージェントタスクの優先順位付け、割り当て、完了までの追跡ができるようになります。これにより、エージェントの生産性が向上し、顧客の問題を迅速に解決できます。例えば、フロー内の事前定義済みのタスクテンプレートを使用して、請求問題や新規保険請求の調査などのシナリオ用のタスクを作成し、問題を迅速に解決するために必要な情報をエージェント用のデータに事前入力できます。タスクテンプレートはすぐにサポートされます。Amazon Connect エージェントワークスペースの手動設定は必要ありません。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 331)</span>Amazon EMR on EKS には、マネージドエンドポイントのマネージド型ノードグループとセルフマネージド型ノードグループのサポートが追加されました
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>マネージドエンドポイントを介してインタラクティブな Spark ワークロードを使用する際に、マネージド型ノードグループとセルフマネージド型ノードグループの両方で EKS クラスターがサポートされることをお知らせします。Amazon EMR on EKS は、Apache Spark などのオープンソースのビッグデータフレームワークを Amazon EKS で実行するためのサービスです。Amazon EMR on EKS では、EMR Studio などの統合開発環境 (IDE) を使用してインタラクティブなワークロードを実行するために、マネージドエンドポイント (プレビューで利用可能) を設定して使用することができます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 335)</span>Amazon EMR on EKS にマネージドエンドポイントの JEG ポッド配置のサポートが追加されました
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>マネージドエンドポイントを使用してインタラクティブな Spark ワークロードを実行する際に、Jupyter Enterprise ゲートウェイ (JEG) ポッドをどこにデプロイできるかを定義するサポートを発表できることを嬉しく思います。Amazon EMR on EKS は、Amazon EKS 上で Apache Spark などのオープンソースのビッグデータフレームワークを実行するためのサービスです。Amazon EMR on EKS では、EMR Studio などの統合開発環境 (IDE) を使用してインタラクティブなワークロードを実行するために、マネージドエンドポイント (プレビューで利用可能) を設定して使用することができます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 376)</span>AWS Chatbot が Microsoft Teams で利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-chatbot-available-microsoft-teams/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Microsoft Teams 用 AWS Chatbot の一般提供が開始されました。AWS のお客様は今後、Microsoft Teams チャネルから AWS リソースを安全にモニタリングし、AWS インフラストラクチャのオペレーションイベントに対応できます。これにより、チーム全体で迅速な確認、協力しての診断、共通の DevOps コマンドの安全な実行が可能です。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 324)</span>AWS CodeBuild が小型 GPU マシンタイプのサポートを開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS CodeBuild では、GPU ベースのワークロードのサポートが追加され、リソースの消費が少ないワークロードに適した 4vCPU 1GPU マシンタイプで実行できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 360)</span>Amazon GuardDuty RDS Protection for Amazon Aurora の一般提供を開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-guardduty-rds-protection-aurora-generally-available/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon GuardDuty は、脅威検出の対象範囲を拡大し、Amazon Aurora データベースに格納されているデータの保護にも役立つようになりました。GuardDuty RDS Protection は、データベースのパフォーマンスに影響を与えることなく、AWS アカウント内の Aurora データベースへのアクセスアクティビティをプロファイリングおよびモニタリングするように設計されています。GuardDuty では、カスタマイズされた機械学習モデルと統合された脅威インテリジェンスを使用して、危険性の高いブルートフォース攻撃、疑わしいログイン、既知の攻撃者によるアクセスなど、潜在的な脅威を検出できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 331)</span>AWS Migration Hub Strategy Recommendations がバイナリ分析に対応
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-migration-hub-strategy-recommendations-binary-analysis/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Migration Hub Strategy Recommendations では、アプリケーションのソースコードを評価することなく、アプリケーションのバイナリを分析し、非互換性を検出して、リファクタリングやリプラットフォームなど、実行可能なモダナイゼーションの方法を特定できるようになりました。Strategy Recommendations は、Windows および Linux サーバーのウェブアプリケーションのバイナリに関する検査を行い、非互換性レポートを生成できます。このレポートは、実行可能なモダナイゼーションを促進するために活用できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 337)</span>AWS Transfer Family が AWS 中東 (UAE) リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Simple Storage Service (Amazon S3) と Amazon Elastic File System (EFS) とファイル転送を提供するフルマネージド型のサービスである AWS Transfer Family が、AWS 中東 (UAE) リージョンで利用可能になりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>AWS Cloud Map がアジアパシフィック (メルボルン) の AWS リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-cloudmap-melbourne-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Cloud Map がアジアパシフィック (メルボルン) の AWS リージョンで利用可能になりました。AWS Cloud Map はクラウドリソース検出サービスです。AWS Cloud Map では、Amazon Elastic Container Service (Amazon ECS) タスク、Amazon Elastic Compute Cloud (Amazon EC2) インスタンス、Amazon DynamoDB テーブル、その他のクラウドリソースなどのアプリケーションリソースのカスタム名を定義できます。その後、このカスタム名を使用することによって、AWS SDK と認証済み API クエリを使用し、アプリケーションからクラウドリソースの場所とメタデータを見つけることができます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://connpass.com/explore/">connpass 新着イベント</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 955)</span>【経営/マネジメント層必見】開発会社の現役経営者が語る「AI×人間の共存戦略」
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://divx.connpass.com/event/279954/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/18 17:00 ～ 18:00
+開催場所: オンライン
+
+概要
+今、AI技術はインターネットが誕生した時のような業界的なパラダイムシフトを巻き起こしています。
+
+今後、ビジネスを展開する上で「AI×人間の共存」は不可欠な時代に突入したと言えるでしょう...。
+
+この革命的な波に乗り遅れたくない、という方々に朗報です！！
+
+今回、AI利用の開発へ完全シフトを宣言した株式会社divxの取締役社長兼執行役員CEO物部が
+
+皆さん、「AI」に対してこのような考えを持っていませんか？
+
+・自社の業界ではAIとの関連性が低く、導入の必要性が低い
+
+もし１つでも当てはまるものがありましたら、このセミナーに参加する意義があります！
+
+開発会社の経営者である物部が「AIがもたらす市場変化のトレンド」や
+
+勉強会の後半には、質疑応答のお時間も設けております。
+
+▼特に以下の方にお勧めです
+
+セミナーの内容
+1.今業界的なパラダイムシフトが起きている
+
+開催日時
+日時：2023年4月18日（火）17:00-18:00
+登壇者のご紹介
+
+
+株式会社divx 取締役社長 兼 執行役員 CEO 物部英嗣
+学生時代に外資系大手ソフトウェア会社で業務委託として従事後、新卒でNTT系列会社でエンジニアとして就職。数年後にいくつかのベンチャーのCEOやCTOを歴任し、複数企業の上場に貢献。
+
+過去にマネージャーとしても、エンジニアとしても、Webサービス・ゲーム・アプリ開発の自社サービスからクライアントワークまで、様々なプロジェクトに携わってきた。その数は数百を超え、大小を問わず幅広いプロジェクトを経験。
+
+現在は、AI技術を活用したソフトウェア開発およびソリューション提供をしている株式会社divxの取締役社長 兼 執行役員 CEOを務めている。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 937)</span>【第132回】もくもく会　朝活　～1歩確実に進むもくもく会～
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://mecha-mote-se.connpass.com/event/279317/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/22 07:30 ～ 10:00
+開催場所: オンラインzoom
+
+◇やること
+一緒にもくもく会にて作業しましょう。
+作業内容は、プログラミング・試験勉強・読書、何でもＯＫです。
+作業後に各自やったことを発表してもらいます。
+※発表の仕方は自由ですが、画面共有などするとより質の高いアウトプットすることができます。
+◇スケジュール
+7:30- 自己紹介、やることを発表、作業開始
+9:30- やったこと発表・共有 + 雑談
+10:00 終了
+◇得られること
+生産性の高い集中した時間
+週末の目的のないだらだら改善
+課題発見
+参加者のアウトプットを見れる・聞ける
+アウトプットからの気づきや学び
+早起きの習慣化
+勉強の習慣化
+◇お知らせ
+途中参加・途中退出OK・ビデオオン/オフ自由です。
+zoom IDは、申し込み後本サイトの上部へ表示されます。
+Slack未登録の方は事前にアカウント登録お願いいたします！
+https://join.slack.com/t/se-kyk3077/shared_invite/zt-1azi3f61c-tLRt2JIDR1AviHK2ZwlH9Q
+
+週末に一日寝て過ごしてしまうなんてことありませんか？
+昼まで寝て、そのあと二度寝してもう夕方。。
+在宅ワークで集中したいけど、1人ではむつかしい。。
+そんな週末の目的のないだらだらを改善し、生産性の高い集中した時間を一緒に作りましょう！
+◇主催
+めちゃモテSEプロジェクト
+https://mecha-mote-se.connpass.com/
+気軽にご参加ください！</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>5 min</time> : 1419)</span>【Azureハンズオン】ChatGPTと話せるLINE Botをノーコード・ローコードで超爆速開発！
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://linedevelopercommunity.connpass.com/event/279754/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/18 19:00 ～ 21:00
+開催場所: 秋葉原駅周辺を予定
+
+イベント概要
+主催：LINE Developer Community
+話題の「ChatGPT」。API の公開とともに様々なプロダクトが生み出され、ChatGPT と LINE で対話できる LINE Bot も人気です。このイベントは、そんな ChatGPT と話せる LINE Bot を Azure Logic Apps で構築する手順を紹介するハンズオンイベントです。
+このハンズオンでは、Azure Logic Apps をバックエンドとする LINE Bot を一瞬で生成するテンプレートを使うことで手順を簡略化し、爆速で ChatGPT と話せるようにします！
+さらに、オフライン会場を秋葉原に用意し、参加者同士での交流や情報共有も積極的に行っていきます。
+ささっと LINE から ChatGPT が使えるようになるので ChatGPT に興味がある方も、ノーコード・ローコードでの LINE Bot 開発に興味がある方にもおすすめです。ノーコード・ローコードでの開発であり、ChatGPT API とつなぐ部分以外は基本的には事前に組まれたものを使用できるということもあり、かなりハードルが低いのでは？と思います。
+※ 飲食提供はありませんが、飲料の持ち込みは可とします。ただし、マスクを着用していない状態での発言はお控え下さい。
+事前準備
+アカウントなど
+有効な Azure サブスクリプションが利用できる Azure アカウント
+無料使用版でも構いません。
+LINE Developers にログイン可能な LINE アカウント
+ご自身の LINE アカウントでこちらのサイトにログインできるかどうかを確認ください。
+OpenAI （ChatGPT）アカウント
+API の無料枠 18 ドルを使い切っていないことが望ましいです。
+お持ちでない方は Google アカウントか Microsoft アカウントで新規サインアップ可能です。
+当日の持ち物
+LINE がインストールされたスマートフォン
+Chrome または Edge がインストールされた PC
+できあがるLINE Botのイメージ
+
+日時・参加費について
+日時：2023年4月18日（火）
+開始時間：19:00開始
+終了時間：21:00
+※ 参加費：無料
+講師
+ひらりん (Takumasa Hirabayashi)
+
+C#やAzureなどMicrosoft関連技術が好きなエンジニア。LINE APIとの組み合わせで何かおもしろいことができないか日々模索しています。
+Twitter :@himarin269
+@himanago 
+https://himanago.hatenablog.com/ 
+
+サポート
+タイムテーブル
+適宜休憩を挟んだり、コメントや質疑に振り返りながら進める予定です。
+時間
+内容
+
+
+
+
+18:30
+受付開始
+
+
+18:55
+YouTube配信開始
+
+
+19:00 - 20:00
+ハンズオン
+
+
+20:00 - 20:30
+解説&amp;質疑応答
+
+
+20:30
+YouTube配信終了予定
+
+
+20:30 - 21:00
+現地会場で懇親会
+
+
+21:30
+完全撤収
+
+
+
+懇親会について
+懇親会では講師はもちろん、LINE社員も参加を予定しております。直接コミュニケーションが可能な貴重な機会となりますので、是非ご参加下さい。
+
+感染症対策のお願い
+ワクチンの接種と、マスクの着用が必要となります。
+東京都のイベント開催等における必要な感染防止策に則った感染対策を実施します。
+緊急事態宣言などの行動制限措置が発表された場合、イベントがキャンセルになる可能性があります。
+Youtube チャンネルへの登録よろしくおねがいします！
+
+コミュニティ行動規範（Code of Conduct)について
+本コミュニティは参加する全ての方が不快な思いをすることなく、楽しんでいただくことを目的としております。
+そのために、以下のような行為は禁止されております。
+ヘイトスピーチ
+性的な言葉や画像、性別に言及したり、性別により受け取り方の変わる言葉や画像の使用
+侮辱や軽蔑的、中傷や他者を貶めるような発言
+他者のプライバシーや私的な情報の無許可での公開
+その他多様性への配慮を著しく欠く発言や行動
+ハラスメントを受けた、と感じた方は以下までご連絡下さい。
+Twitter
+E-mail</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 938)</span>Bio&quot;Pack&quot;athon 2023 #4
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://biopackathon.connpass.com/event/270457/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/12 17:00 ～ 19:00
+開催場所: オンライン
+
+Bio&quot;Pack&quot;athon（バイオパッカソン）は、バイオのソフトウェアパッケージを作ることを推進するコミュニティです。
+会の趣旨は日本バイオインフォマティクス学会ニュースレター第39号の7ページ目をご覧ください。
+ZoomのURLはconnpassの「参加者への情報」機能により本イベントページに表示されるようになっています。
+その情報は
+参加登録者でないと見れません
+connpassにログインしないと見れません
+ご注意ください
+スケジュール
+17:00 ~ 17:10 Bio&quot;Pack&quot;athonの紹介 @antiplastics
+17:10 ~ 17:40 JOSS誌の紹介（仮） @antiplastics
+17:40 ~ 18:10 ROpenSciの紹介（仮）</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1078)</span>オンライン CAE(工学数値シミュレーション)自習室(もくもく会)2023.04.20
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://cae-beginner.connpass.com/event/280124/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/20 20:00 ～ 22:10
+開催場所: (場所未定)
+
+概要
+(注)未申込でも、途中入退室自由です。お気軽にご参加下さい。
+(注)主催者本人が残業で途中からの入室となることもあります。（zoomには入室可能にしてあります。）
+勉強したいけどやる気出ない、気がそれる。
+そういう時は時間を決めて、皆で集まれば最低でも少しはやる。。。はず
+そういうわけで、皆で集まって勉強するスペースを基本定例で開きます。
+
+発表・発言の義務は無く、初心者大歓迎です。
+良ければ、お気軽にご参加ください。
+zoom会議室について
+zoom会議室は時間が来れば、主催者が開室しなくても、入室できるように設定しています。
+残業の都合で、主催者が開始時刻に間に合わないことがありますので、その場合は入室の上、主催者抜きで先にもくもく作業を進めて下さい。
+Zoomミーティング情報
+  URL: https://us02web.zoom.us/j/84284335986?pwd&#x3D;c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+  ミーティングID: 842 8433 5986 
+ パスコード：830162 
+参加申込
+イベントに登録願います。
+開催日時になりましたら、下記アドレスから入室願います。
+&quot; rel&#x3D;&quot;nofollow&quot;&gt;https://us02web.zoom.us/j/84284335986?pwd&#x3D;c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+上記のサイトをクリックすればZoomの待合室にログインします。
+ID入力で入室される方向け：
+ミーティングID：842 8433 5986
+パスコード: 830162
+お願い:
+自分が喋らないときはマイクをミュートにしてください
+Zoomでの参加名にはconnpassでの表示名を含めてください。
+例
+connpassでの表示名がhogehogeの場合
+　　〇　　hogehoge
+　　〇　　苗字(hogehoge)
+　　〇　　ほげほげ (ひらがなや漢字も大丈夫です)
+　　x　　苗字
+
+上記以外の場合、セキュリティの観点からZoomへのミーティングルーム入室を許可できない場合がございます。
+
+
+名前の変更はZoomアプリからしか出来ないようです。
+お手数ですがご協力ください。
+進め方
+Zoomでの参加方法について
+https://zoomy.info/manuals/sanka/
+
+Zoomについての概要は以下です。
+https://zoom.us/j/223146490
+
+進捗書き込み・雑談・呟き用スライド
+　後述にもありますが、その日のやること・やったこと、雑談メモなどを書き溜めていっています。書き込みは任意です。書き込む方は、こちらからアクセス願います。
+  https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp&#x3D;sharing
+内容
+ 時間 内容 
+ 10分 やること宣言（希望者のみ/チャット・共有ファイルへの書き込みも可） 
+ 60分 お勉強タイム/質問/技術雑談 
+ 10分 進捗報告・相互コメント（希望者のみ） 
+ 60分 お勉強タイム/質問/技術雑談 
+ 10分 進捗報告・相互コメント 
+
+
+
+やること宣言
+なんでもよいです。
+今日やることを述べて下さい。希望者のみでOKです。共有ファイルへ書き込むだけでもOK。
+　「まずはOpenFOAMのインストールをやります」
+　「専門書読みます」
+　「ANSYS Student版を触ってみます」
+　「C++, PythonとかでHello World!出してみます」
+　「CAEには体力が必要なのでジョギングしてきます」
+　「ごはん食べてきます」
+　「イエローケーキ作ってみます」
+
+初めての方・自己紹介／挨拶したい方はこの場でどうぞ。少なくとも、zeta_plusplusが挨拶に応じます。
+お勉強タイム/質問/技術雑談
+発表したことをやります。
+生存確認のためチャットで呟いてくれて構いません。
+誰かが相手してくれるかもしれません。
+　「cdってなに・・・」
+　「そもそも1DCAEってイメージしづらい」
+　「ようやく解析の流れが分かった！」
+　「味噌汁が美味しい」
+質問: 参加者からCAEに関する質問を受け付けます。 どのような質問、疑問でも結構で、資料などは無くても大丈夫です。 勉強・相談会よりラフな感じでサクッと質問して頂いて良いのでお気軽にどうぞ。（答えられるとは限りませんがご了承下さい。）
+進捗報告・相互コメント
+出来たところまでを報告してください。
+良かったところ、悪かったところなど言ってくれたらいいです。
+良い情報は本サークルのWebサイトのwikiに集約しましょう。
+Wikiの記入は以下の本サークルのサイト内にあるものを使用できます。 
+CAE初心者サークル
+　「このサイトをみましたが、さっぱりです」
+　「この本の〇ページに良いのが載ってました」
+　「お味噌汁が美味しかったです」
+　「イエローケーキが美味しそうです」
+それに対して、他の人がコメントします。コメントしないこともあります。
+　「それはこの本を見ればいいよ」
+　「このサイトがいいよ」
+　「今度の勉強会で良ければ教えてください」
+　「食べちゃいけないです。次は濃縮ですね。」
+注意事項
+基本的に自学自習を促進し合う場です。
+一人でも開場・開催します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1078)</span>オンライン CAE(工学数値シミュレーション)自習室(もくもく会)2023.04.13
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://cae-beginner.connpass.com/event/280123/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/13 20:00 ～ 22:10
+開催場所: (場所未定)
+
+概要
+(注)未申込でも、途中入退室自由です。お気軽にご参加下さい。
+(注)主催者本人が残業で途中からの入室となることもあります。（zoomには入室可能にしてあります。）
+勉強したいけどやる気出ない、気がそれる。
+そういう時は時間を決めて、皆で集まれば最低でも少しはやる。。。はず
+そういうわけで、皆で集まって勉強するスペースを基本定例で開きます。
+
+発表・発言の義務は無く、初心者大歓迎です。
+良ければ、お気軽にご参加ください。
+zoom会議室について
+zoom会議室は時間が来れば、主催者が開室しなくても、入室できるように設定しています。
+残業の都合で、主催者が開始時刻に間に合わないことがありますので、その場合は入室の上、主催者抜きで先にもくもく作業を進めて下さい。
+Zoomミーティング情報
+  URL: https://us02web.zoom.us/j/84284335986?pwd&#x3D;c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+  ミーティングID: 842 8433 5986 
+ パスコード：830162 
+参加申込
+イベントに登録願います。
+開催日時になりましたら、下記アドレスから入室願います。
+&quot; rel&#x3D;&quot;nofollow&quot;&gt;https://us02web.zoom.us/j/84284335986?pwd&#x3D;c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+上記のサイトをクリックすればZoomの待合室にログインします。
+ID入力で入室される方向け：
+ミーティングID：842 8433 5986
+パスコード: 830162
+お願い:
+自分が喋らないときはマイクをミュートにしてください
+Zoomでの参加名にはconnpassでの表示名を含めてください。
+例
+connpassでの表示名がhogehogeの場合
+　　〇　　hogehoge
+　　〇　　苗字(hogehoge)
+　　〇　　ほげほげ (ひらがなや漢字も大丈夫です)
+　　x　　苗字
+
+上記以外の場合、セキュリティの観点からZoomへのミーティングルーム入室を許可できない場合がございます。
+
+
+名前の変更はZoomアプリからしか出来ないようです。
+お手数ですがご協力ください。
+進め方
+Zoomでの参加方法について
+https://zoomy.info/manuals/sanka/
+
+Zoomについての概要は以下です。
+https://zoom.us/j/223146490
+
+進捗書き込み・雑談・呟き用スライド
+　後述にもありますが、その日のやること・やったこと、雑談メモなどを書き溜めていっています。書き込みは任意です。書き込む方は、こちらからアクセス願います。
+  https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp&#x3D;sharing
+内容
+ 時間 内容 
+ 10分 やること宣言（希望者のみ/チャット・共有ファイルへの書き込みも可） 
+ 60分 お勉強タイム/質問/技術雑談 
+ 10分 進捗報告・相互コメント（希望者のみ） 
+ 60分 お勉強タイム/質問/技術雑談 
+ 10分 進捗報告・相互コメント 
+
+
+
+やること宣言
+なんでもよいです。
+今日やることを述べて下さい。希望者のみでOKです。共有ファイルへ書き込むだけでもOK。
+　「まずはOpenFOAMのインストールをやります」
+　「専門書読みます」
+　「ANSYS Student版を触ってみます」
+　「C++, PythonとかでHello World!出してみます」
+　「CAEには体力が必要なのでジョギングしてきます」
+　「ごはん食べてきます」
+　「イエローケーキ作ってみます」
+
+初めての方・自己紹介／挨拶したい方はこの場でどうぞ。少なくとも、zeta_plusplusが挨拶に応じます。
+お勉強タイム/質問/技術雑談
+発表したことをやります。
+生存確認のためチャットで呟いてくれて構いません。
+誰かが相手してくれるかもしれません。
+　「cdってなに・・・」
+　「そもそも1DCAEってイメージしづらい」
+　「ようやく解析の流れが分かった！」
+　「味噌汁が美味しい」
+質問: 参加者からCAEに関する質問を受け付けます。 どのような質問、疑問でも結構で、資料などは無くても大丈夫です。 勉強・相談会よりラフな感じでサクッと質問して頂いて良いのでお気軽にどうぞ。（答えられるとは限りませんがご了承下さい。）
+進捗報告・相互コメント
+出来たところまでを報告してください。
+良かったところ、悪かったところなど言ってくれたらいいです。
+良い情報は本サークルのWebサイトのwikiに集約しましょう。
+Wikiの記入は以下の本サークルのサイト内にあるものを使用できます。 
+CAE初心者サークル
+　「このサイトをみましたが、さっぱりです」
+　「この本の〇ページに良いのが載ってました」
+　「お味噌汁が美味しかったです」
+　「イエローケーキが美味しそうです」
+それに対して、他の人がコメントします。コメントしないこともあります。
+　「それはこの本を見ればいいよ」
+　「このサイトがいいよ」
+　「今度の勉強会で良ければ教えてください」
+　「食べちゃいけないです。次は濃縮ですね。」
+注意事項
+基本的に自学自習を促進し合う場です。
+一人でも開場・開催します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1081)</span>オンライン CAE(工学数値シミュレーション)自習室(もくもく会)2023.04.06
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://cae-beginner.connpass.com/event/280122/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/04/06 20:00 ～ 22:10
+開催場所: (場所未定)
+
+概要
+(注)未申込でも、途中入退室自由です。お気軽にご参加下さい。
+(注)主催者本人が残業で途中からの入室となることもあります。（zoomには入室可能にしてあります。）
+勉強したいけどやる気出ない、気がそれる。
+そういう時は時間を決めて、皆で集まれば最低でも少しはやる。。。はず
+そういうわけで、皆で集まって勉強するスペースを基本定例で開きます。
+
+発表・発言の義務は無く、初心者大歓迎です。
+良ければ、お気軽にご参加ください。
+zoom会議室について
+zoom会議室は時間が来れば、主催者が開室しなくても、入室できるように設定しています。
+残業の都合で、主催者が開始時刻に間に合わないことがありますので、その場合は入室の上、主催者抜きで先にもくもく作業を進めて下さい。
+Zoomミーティング情報
+  URL: https://us02web.zoom.us/j/84284335986?pwd&#x3D;c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+  ミーティングID: 842 8433 5986 
+ パスコード：830162 
+参加申込
+イベントに登録願います。
+開催日時になりましたら、下記アドレスから入室願います。
+&quot; rel&#x3D;&quot;nofollow&quot;&gt;https://us02web.zoom.us/j/84284335986?pwd&#x3D;c1RreXVaQlRzVkFwbXNiRkxCVVFSQT09
+上記のサイトをクリックすればZoomの待合室にログインします。
+ID入力で入室される方向け：
+ミーティングID：842 8433 5986
+パスコード: 830162
+お願い:
+自分が喋らないときはマイクをミュートにしてください
+Zoomでの参加名にはconnpassでの表示名を含めてください。
+例
+connpassでの表示名がhogehogeの場合
+　　〇　　hogehoge
+　　〇　　苗字(hogehoge)
+　　〇　　ほげほげ (ひらがなや漢字も大丈夫です)
+　　x　　苗字
+
+上記以外の場合、セキュリティの観点からZoomへのミーティングルーム入室を許可できない場合がございます。
+
+
+名前の変更はZoomアプリからしか出来ないようです。
+お手数ですがご協力ください。
+進め方
+Zoomでの参加方法について
+https://zoomy.info/manuals/sanka/
+
+Zoomについての概要は以下です。
+https://zoom.us/j/223146490
+
+進捗書き込み・雑談・呟き用スライド
+　後述にもありますが、その日のやること・やったこと、雑談メモなどを書き溜めていっています。書き込みは任意です。書き込む方は、こちらからアクセス願います。
+  https://docs.google.com/presentation/d/1cF_YrK1DWPvv94dMY2VrSgigoGmTHhLcAs9gLbYU8_4/edit?usp&#x3D;sharing
+内容
+ 時間 内容 
+ 10分 やること宣言（希望者のみ/チャット・共有ファイルへの書き込みも可） 
+ 60分 お勉強タイム/質問/技術雑談 
+ 10分 進捗報告・相互コメント（希望者のみ） 
+ 60分 お勉強タイム/質問/技術雑談 
+ 10分 進捗報告・相互コメント 
+
+
+
+やること宣言
+なんでもよいです。
+今日やることを述べて下さい。希望者のみでOKです。共有ファイルへ書き込むだけでもOK。
+　「まずはOpenFOAMのインストールをやります」
+　「専門書読みます」
+　「ANSYS Student版を触ってみます」
+　「C++, PythonとかでHello World!出してみます」
+　「CAEには体力が必要なのでジョギングしてきます」
+　「ごはん食べてきます」
+　「イエローケーキ作ってみます」
+
+初めての方・自己紹介／挨拶したい方はこの場でどうぞ。少なくとも、zeta_plusplusが挨拶に応じます。
+お勉強タイム/質問/技術雑談
+発表したことをやります。
+生存確認のためチャットで呟いてくれて構いません。
+誰かが相手してくれるかもしれません。
+　「cdってなに・・・」
+　「そもそも1DCAEってイメージしづらい」
+　「ようやく解析の流れが分かった！」
+　「味噌汁が美味しい」
+質問: 参加者からCAEに関する質問を受け付けます。 どのような質問、疑問でも結構で、資料などは無くても大丈夫です。 勉強・相談会よりラフな感じでサクッと質問して頂いて良いのでお気軽にどうぞ。（答えられるとは限りませんがご了承下さい。）
+進捗報告・相互コメント
+出来たところまでを報告してください。
+良かったところ、悪かったところなど言ってくれたらいいです。
+良い情報は本サークルのWebサイトのwikiに集約しましょう。
+Wikiの記入は以下の本サークルのサイト内にあるものを使用できます。 
+CAE初心者サークル
+　「このサイトをみましたが、さっぱりです」
+　「この本の〇ページに良いのが載ってました」
+　「お味噌汁が美味しかったです」
+　「イエローケーキが美味しそうです」
+それに対して、他の人がコメントします。コメントしないこともあります。
+　「それはこの本を見ればいいよ」
+　「このサイトがいいよ」
+　「今度の勉強会で良ければ教えてください」
+　「食べちゃいけないです。次は濃縮ですね。」
+注意事項
+基本的に自学自習を促進し合う場です。
+一人でも開場・開催します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
@@ -2631,6 +3041,176 @@ IT関係の勉強がしたい
 20:05
 21:00
 もくもく会</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.suzukikenichi.com/blog"></a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>12 min</time> : 3715)</span>Google、BardにPaLMを組み込む。数学と論理的思考の能力が向上
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.suzukikenichi.com/blog/google-enhanced-bards-capabilities-by-corporating-palm/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Google は、PaLM の一部の機能を組み込むことで、Bard の数学と論理的思考の能力を強化した。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 368)</span>Amazon EKS に Windows コンテナ用のドメインレス gMSA 認証を追加
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-eks-domainless-gmsa-authentication-windows-containers/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Elastic Kubernetes Service (EKS) は、Windows コンテナ用のドメインレスのグループ管理サービスアカウント (gMSA、Group Managed Service Account) に対応しました。そのため、Amazon EKS でホストされているアプリケーションを Microsoft Active Directory (AD) で簡単に認証できます。これは、ポータブルなユーザー ID とプラグインメカニズムを使用して、Windows コンテナの gMSA 認証情報を取得できるためです。今後は、自動スケーリングイベントの場合でも、EKS ノードをドメインに参加させることなく、AD 認証を必要とするコンテナを実行できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 324)</span>Cost Explorer の新規ユーザー全員に対し、AWS コスト異常検出を自動的に設定可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-cost-anomaly-detection-configured-cost-explorer-users/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Cost Explorer の新規ユーザーは、コスト異常検出を自動的に利用できるようになりました。コスト異常検出は、想定外のコスト増加を継続的にモニタリングおよび検出し、アラートを送信する、機械学習を活用したサービスです。今回のデフォルト設定により、Cost Explorer の新規ユーザーはコスト管理を手間なく迅速に改善できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 377)</span>Amazon EC2 High Memory インスタンスが AWS GovCloud (米国) リージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-ec2-high-memory-instances-aws-govlcoud-regions/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon EC2 High Memory インスタンスが AWS GovCloud (米国) リージョンで利用可能になりました。AWS GovCloud (米国西部) リージョンでは 3TiB (u-3tb1.56xlarge) のメモリ容量で利用でき、AWS GovCloud (米国東部) リージョンでは 9TiB (u-9tb1.112xlarge) のメモリ容量で利用できます。これらの新しい High Memory インスタンスは、オンデマンドおよび Savings Plans の購入オプションで利用を開始できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 311)</span>Amazon Connect Tasks がフロー内のカスタムタスクテンプレートをサポートするようになりました
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-connect-tasks-custom-templates-flow/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Connect では、Connect Flows の「タスクの作成」ブロックを使用してカスタムタスクテンプレートを使用できるようになりました。これにより、エージェントはタスクを作成して完了するための適切な情報を簡単に取得できます。Amazon Connect Tasks を使用すると、すべてのコンタクトセンターエージェントタスクの優先順位付け、割り当て、完了までの追跡ができるようになります。これにより、エージェントの生産性が向上し、顧客の問題を迅速に解決できます。例えば、フロー内の事前定義済みのタスクテンプレートを使用して、請求問題や新規保険請求の調査などのシナリオ用のタスクを作成し、問題を迅速に解決するために必要な情報をエージェント用のデータに事前入力できます。タスクテンプレートはすぐにサポートされます。Amazon Connect エージェントワークスペースの手動設定は必要ありません。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 331)</span>Amazon EMR on EKS には、マネージドエンドポイントのマネージド型ノードグループとセルフマネージド型ノードグループのサポートが追加されました
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>マネージドエンドポイントを介してインタラクティブな Spark ワークロードを使用する際に、マネージド型ノードグループとセルフマネージド型ノードグループの両方で EKS クラスターがサポートされることをお知らせします。Amazon EMR on EKS は、Apache Spark などのオープンソースのビッグデータフレームワークを Amazon EKS で実行するためのサービスです。Amazon EMR on EKS では、EMR Studio などの統合開発環境 (IDE) を使用してインタラクティブなワークロードを実行するために、マネージドエンドポイント (プレビューで利用可能) を設定して使用することができます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 335)</span>Amazon EMR on EKS にマネージドエンドポイントの JEG ポッド配置のサポートが追加されました
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>マネージドエンドポイントを使用してインタラクティブな Spark ワークロードを実行する際に、Jupyter Enterprise ゲートウェイ (JEG) ポッドをどこにデプロイできるかを定義するサポートを発表できることを嬉しく思います。Amazon EMR on EKS は、Amazon EKS 上で Apache Spark などのオープンソースのビッグデータフレームワークを実行するためのサービスです。Amazon EMR on EKS では、EMR Studio などの統合開発環境 (IDE) を使用してインタラクティブなワークロードを実行するために、マネージドエンドポイント (プレビューで利用可能) を設定して使用することができます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 376)</span>AWS Chatbot が Microsoft Teams で利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-chatbot-available-microsoft-teams/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Microsoft Teams 用 AWS Chatbot の一般提供が開始されました。AWS のお客様は今後、Microsoft Teams チャネルから AWS リソースを安全にモニタリングし、AWS インフラストラクチャのオペレーションイベントに対応できます。これにより、チーム全体で迅速な確認、協力しての診断、共通の DevOps コマンドの安全な実行が可能です。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 324)</span>AWS CodeBuild が小型 GPU マシンタイプのサポートを開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS CodeBuild では、GPU ベースのワークロードのサポートが追加され、リソースの消費が少ないワークロードに適した 4vCPU 1GPU マシンタイプで実行できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 360)</span>Amazon GuardDuty RDS Protection for Amazon Aurora の一般提供を開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/amazon-guardduty-rds-protection-aurora-generally-available/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon GuardDuty は、脅威検出の対象範囲を拡大し、Amazon Aurora データベースに格納されているデータの保護にも役立つようになりました。GuardDuty RDS Protection は、データベースのパフォーマンスに影響を与えることなく、AWS アカウント内の Aurora データベースへのアクセスアクティビティをプロファイリングおよびモニタリングするように設計されています。GuardDuty では、カスタマイズされた機械学習モデルと統合された脅威インテリジェンスを使用して、危険性の高いブルートフォース攻撃、疑わしいログイン、既知の攻撃者によるアクセスなど、潜在的な脅威を検出できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 331)</span>AWS Migration Hub Strategy Recommendations がバイナリ分析に対応
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-migration-hub-strategy-recommendations-binary-analysis/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Migration Hub Strategy Recommendations では、アプリケーションのソースコードを評価することなく、アプリケーションのバイナリを分析し、非互換性を検出して、リファクタリングやリプラットフォームなど、実行可能なモダナイゼーションの方法を特定できるようになりました。Strategy Recommendations は、Windows および Linux サーバーのウェブアプリケーションのバイナリに関する検査を行い、非互換性レポートを生成できます。このレポートは、実行可能なモダナイゼーションを促進するために活用できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 337)</span>AWS Transfer Family が AWS 中東 (UAE) リージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Simple Storage Service (Amazon S3) と Amazon Elastic File System (EFS) とファイル転送を提供するフルマネージド型のサービスである AWS Transfer Family が、AWS 中東 (UAE) リージョンで利用可能になりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 329)</span>AWS Cloud Map がアジアパシフィック (メルボルン) の AWS リージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/03/aws-cloudmap-melbourne-region/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Cloud Map がアジアパシフィック (メルボルン) の AWS リージョンで利用可能になりました。AWS Cloud Map はクラウドリソース検出サービスです。AWS Cloud Map では、Amazon Elastic Container Service (Amazon ECS) タスク、Amazon Elastic Compute Cloud (Amazon EC2) インスタンス、Amazon DynamoDB テーブル、その他のクラウドリソースなどのアプリケーションリソースのカスタム名を定義できます。その後、このカスタム名を使用することによって、AWS SDK と認証済み API クエリを使用し、アプリケーションからクラウドリソースの場所とメタデータを見つけることができます。</span>
                   </div>
                 </a>
               </details>
