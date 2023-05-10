@@ -17,168 +17,920 @@
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>AWS DataSync Discovery の一般提供 (GA) を開始
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS DataSync Discovery の一般提供が開始されたことをお知らせします。これにより、オンプレミスのストレージのパフォーマンスと使用状況が可視化され、AWS へのデータ移行を簡素化および加速するためのレコメンデーションが提供されます。DataSync Discovery では、データ収集と分析が自動で行われるため、オンプレミスのストレージのパフォーマンスと容量の把握が可能になります。このことは、移行するデータをすばやく特定し、パフォーマンスと容量のニーズに合わせて推奨される AWS ストレージサービスを評価するのに役立ちます。プレビュー以降に追加された機能には、NetApp ONTAP 9.7 のサポート、クラスターおよびストレージ仮想マシン (SVM) レベルでのレコメンデーション、Amazon EventBridge の検出ジョブイベントなどがあります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 332)</span>Amazon CloudWatch Logs のデータ保護がすべての AWS 商用リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-cloudwatch-logs-data-protection-aws-commercial-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon CloudWatch Logs のデータ保護が、中東 (UAE)、アジアパシフィック (ハイデラバード)、欧州 (スペイン)、欧州 (チューリッヒ)、アジアパシフィック (メルボルン) で利用可能になったことをお知らせします。データ保護は、パターンマッチングと機械学習機能を活用して、送信中の機密ログデータを検出して保護する機能です。Amazon CloudWatch Logs を使用すると、すべてのシステム、アプリケーション、AWS サービスからのログを非常にスケーラブルな 1 つのサービスに一元化できます。Amazon CloudWatch Logs のログデータ保護により、システムやアプリケーションで記録されたクレジットカード番号や政府発行 ID など、送信中の機密ログデータを検出して保護することが可能です。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>Amazon Keyspaces (Apache Cassandra 向け) が SELECT クエリの IN 演算子をサポート
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルかつサーバーレスで可用性の高い、Apache Cassandra 互換のフルマネージドデータベースサービスです。Cassandra クエリ言語 (CQL) の SELECT クエリで IN 演算子が使用できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 373)</span>AWS IoT Core Device Advisor が MQTT over WebSocket のサポートを発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS IoT Core Device Advisor が MQTT over WebSocket のサポートの一般提供を開始したことをお知らせします。AWS IoT Core Device Advisor はクラウドベースのフルマネージド型テスト機能で、AWS IoT デバイスソフトウェアが AWS IoT Core と確実かつ安全に接続できるかどうかを検証します。今回の更新により、AWS IoT Core Device Advisor の 3 つのテストスイート (認定テスト、カスタムテスト、長期間のテスト) すべてを MQTT over WebSocket の Signature Version 4 を使用して実行できるようになりました。Signature Version 4 は、すべての AWS リージョンにおいて AWS サービスへのインバウンド API リクエストを認証するためのプロトコルです。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 334)</span>Amazon SageMaker でローカルの ML コードからリモートジョブへの高速変換が可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon SageMaker Python SDK は、Amazon SageMaker で機械学習モデルをトレーニングおよびデプロイするためのオープンソースライブラリです。SageMaker Python SDK により、データサイエンティストは、好みの IDE やローカルノートブックで作成したローカルの機械学習 (ML) コードを、関連するランタイムの依存関係と一緒に最小限のコード変更で大規模な ML モデルトレーニングジョブとして実行できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 376)</span>Amazon EC2 T4g インスタンスがアフリカ (ケープタウン) リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-ec2-t4g-instances-africa-cape-town-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、Amazon Elastic Compute Cloud (Amazon EC2) T4g インスタンスがアフリカ (ケープタウン) リージョンで利用可能になりました。このインスタンスは、Arm ベースの AWS Graviton2 プロセッサを搭載しており、T3 インスタンスよりも最大 40% 高い価格性能を実現します。T4g インスタンスでは、ベースラインレベルの CPU パフォーマンスが提供されますが、必要に応じていつでも CPU 使用率をバーストさせる機能を備えています。Amazon EC2 T4g インスタンスは、AWS Nitro System 上に構築されています。このシステムは、分離されたマルチテナンシー、プライベートネットワーキング、高速ローカルストレージを備えた効率的で柔軟かつ安全なクラウドサービスの提供を可能にする AWS 設計のハードウェアとソフトウェアのイノベーションを集結させたものです。T4g インスタンスは、バランスの取れたコンピューティング、メモリ、ネットワークリソースを提供し、大規模なマイクロサービス、キャッシュサーバー、検索エンジンのインデックス作成、e コマースプラットフォーム、仮想デスクトップなど、さまざまな汎用ワークロードに対応します。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 348)</span>AWS Network Firewall の受信 TLS 検査が新たに 8 つのリージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-network-firewall-ingress-tls-inspection-new-regions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Network Firewall は、新たに 8 つのリージョンで受信 VPC トラフィックに対する Transport Layer Security (TLS) 検査をサポートするようになりました。これで利用可能なリージョンは 10 になります。本日より、アジアパシフィック (シドニー)、アジアパシフィック (ジャカルタ)、アジアパシフィック (ムンバイ)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、欧州 (アイルランド)、欧州 (ストックホルム)、欧州 (フランクフルト)、南米 (サンパウロ)、米国東部 (バージニア北部) で、AWS Network Firewall を使用してインバウンド TLS トラフィックを復号化、検査、再暗号化できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 334)</span>AWS Resource Access Manager が、きめ細かなカスタマーマネージド許可をサポート
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS Resource Access Manager (AWS RAM) は、カスタマーマネージド許可をサポートしました。そのためユーザーは、サポートされているリソースタイプに対するきめ細かなリソースアクセス制御を作成および管理できます。AWS RAM を使用すると、AWS アカウント間、組織内または組織単位 (OU) 内、AWS Identity and Access Management (IAM) ロールとユーザーの間で、リソースを安全に共有できます。カスタマーマネージド許可で最小特権の原則を、またはタスクの実行に必要な最小限の許可を適用できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1119)</span>第762回　定番のデバッグ・調査ツールであるstraceでエラーインジェクション
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0762?utm_source&#x3D;feed" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>straceはユーザーランドアプリケーションの挙動の確認やデバッグに使える便利なツールです。今回はstraceの基本的な使い方に加えて、わざとシステムコールをエラー終了させる、エラーインジェクションについても紹介しましょう。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>0 min</time> : )</span>第762回　定番のデバッグ・調査ツールであるstraceでエラーインジェクション
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0762?utm_source&#x3D;feed" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>straceはユーザーランドアプリケーションの挙動の確認やデバッグに使える便利なツールです。今回はstraceの基本的な使い方に加えて、わざとシステムコールをエラー終了させる、エラーインジェクションについても紹介しましょう。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1119)</span>第762回　定番のデバッグ・調査ツールであるstraceでエラーインジェクション
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0762?utm_source&#x3D;feed" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>straceはユーザーランドアプリケーションの挙動の確認やデバッグに使える便利なツールです。今回はstraceの基本的な使い方に加えて、わざとシステムコールをエラー終了させる、エラーインジェクションについても紹介しましょう。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://connpass.com/explore/">connpass 新着イベント</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1165)</span>エンジニアの処方箋 #2 〜エンジニアのメンタルヘルスを考える〜
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://forkwell.connpass.com/event/283335/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/05/31 19:30 ～ 21:00
+開催場所: オンライン
+
+📝 開催概要
+── 「こころと向き合いながら楽しくエンジニアライフを！」エンジニアの処方箋 シリーズ。
+エンジニアという職業は、他の職業に比べ、うつ病などのメンタル不調に陥る可能性が高いと、過去の調査から明らかになっています。
+しかし、実際に、診療所に行くのはハードルが高いし、身近な人にもなかなか話しにくい…そもそもメンタルの不調は気付きにくいという特徴もあります。
+そんな方に「エンジニアにメンタルと向き合うきっかけ」を提供するのが、エンジニアの処方箋シリーズです。
+エンジニアのメンタル不調の現状から、個人、チームの視点からメンタルヘルスについて、専門家と一緒に学んでいきます。
+【シリーズで取り上げる話題】
+・エンジニアを取り巻くメンタルヘルスの環境
+・個人、チームでできるメンタル不調の対策
+・メンタルの健康を維持していく方法
+今回 エンジニアの処方箋 File.2 では、「心のHPが0になりそうなとき」に読んでほしい本「メンタルクエスト」の著者、秋葉原内科saveクリニック院長である鈴木裕介先生にお越しいただき、自分のHPが０になる前にできることについてお話いただきます。
+・ストレスとは
+・個人からできるメンタルヘルスとは
+・自分のHPが０になる前にできること
+についてお話いただきます。
+メンタルヘルスをよりわかりやすく個人から始められるように、先生の大好きなゲームの世界観と絡めてお話していただきます。
+🧑‍💻 こんなエンジニアにおすすめ
+最近元気のない同僚がいて心配
+心の健康に気をつけてエンジニアとして人生を送りたい
+メンタルヘルスについて関心がある
+⌛ タイムスケジュール
+時間
+内容
+登壇者
+
+
+
+
+19:30
+オープニング（5分）
+Forkwell 運営
+
+
+19:35
+基調講演（40分）「個人からできるメンタルヘルス」
+鈴木裕介先生
+
+
+20:15
+主催LT（5分）
+Forkwell 運営
+
+
+20:20
+視聴者Q&amp;Aパネルトーク（30分）
+鈴木裕介先生
+モデレーター
+
+
+20:50
+クロージング（5分）
+Forkwell 運営
+
+
+20:55
+終了
+
+
+
+
+※ プログラムは変更となる可能性があります。随時こちらで更新いたします。
+🎁 書籍プレゼントキャンペーン
+Forkwellに会員登録を行い、所定の条件を満たした方にもれなく、鈴木裕介先生の書かれた『メンタルクエスト』をプレゼントいたします！
+新規にForkwellに会員登録を行なった方 → もれなく書籍プレゼント
+【キャンペーン応募の条件：新規にForkwell に会員登録を行なった人】
+1. Forkwellに会員登録を行う
+2. 自己紹介と最新（現職）の職務内容をそれぞれ100文字以上記入する
+3. スカウト受け取り設定をオンにする
+4. 当日のYouTube概要欄に記載のアンケートフォームで応募資格を満たしたアカウント（ユーザー名）の提出
+【キャンペーン応募の条件：以前よりForkwell会員だった方】
+1. スカウト受け取り設定をオンにする
+2. 自己紹介と最新（現職）の職務内容をそれぞれ100文字以上記入し、それとは別に自己紹介の欄に【個人のメンタルヘルスのために気をつけたい、気をつけていること】について書く。
+3. 当日のYouTube概要欄に記載のアンケートフォームで応募資格を満たしたアカウント（ユーザー名）の提出
+※本キャンペーンはビジネス職（営業・マーケター等）の方は対象外とさせていただきます。
+
+
+🎤 登壇者情報
+🗣️ 基調講演「個人からできるメンタルヘルス」
+　鈴木裕介 氏（@usksuzuki）
+心療内科医 
+
+内科医・心療内科医2008年高知大学卒。内科医として高知県内の病院に勤務後、一般社団法人高知医療再生機構にて医療広報や若手医療職のメンタルヘルス支援などに従事。2015年よりハイズに参画、コンサルタントとして経営視点から医療現場の環境改善に従事。2018年「セーブポイント（安心の拠点）」をコンセプトとした秋葉原saveクリニックを高知時代の仲間と共に開業、院長に就任。また、研修医時代の近親者の自死をきっかけとし、ライフワークとしてメンタルヘルスに取り組み、産業医活動や講演、SNSでの情報発信を積極的に行っている。
+note：​​https://note.com/usksuzuki
+取材記事：https://an-life.jp/article/1058
+
+🤝 主催・協力
+主催：Forkwell（株式会社grooves）
+
+
+
+
+
+「つくり手と、未来を拓く。」というビジョンの元、「自分を知り、成長する」きっかけを提供する無料ポートフォリオサービスをはじめ、ITエンジニアに特化した求人・転職支援サービス、役立つ情報や場の提供などを通じて、ITエンジニアのキャリアに新しい選択肢を提示することで、人生の可能性を拡げるお手伝いをしています。
+
+
+
+
+ ⚠️注意事項
+当イベントの内容およびスケジュールは、予告なく変更となる場合があります。予めご了承ください。
+Forkwell の宣伝をさせていただく時間がございます。予めご了承ください。
+エンジニアの方を対象としたイベントのため、非エンジニアの方のご参加、ならびに同業に属する方の当イベント内でのリクルーティング活動につきましてご遠慮いただいております。
+イベントの風景を、Forkwell メディア上の記事（イベントレポート）に掲載することがございます。掲載を希望されない方は、当日イベントページ問い合わせフォームより、掲載希望されない旨をお伝えください。
+ブログやSNS等で当イベントに関する発信を行う際は、公序良俗に反する内容のないよう、ご協力をお願いします。
+当イベントはオンライン開催のため、双方の通信状況により音声や映像に乱れがある場合がございます。
+配信トラブル時のアナウンスはTwitterよりイベントハッシュタグをつけて行います。
+保険、宗教、ネットワークビジネスの勧誘が目的と見られる方
+その他運営サイドで参加が不適切だと判断した方</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>8 min</time> : 2271)</span>【プレゼント有】ALGYAN8周年祭2023『生成AIで産業革命→どうなるIoT、どうする技術者！』
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://algyan.connpass.com/event/280147/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/05/27 14:00 ～ 16:30
+開催場所: オンライン
+
+【オンライン】【プレゼント有】ALGYAN8周年祭2023『生成AIで産業革命→どうなるIoT、どうする技術者！』大講演会＆ノベルティ抽選会
+
+「IoT」から「生成AI」へ、「産業革命」の波がやってきました。開発者視点で明るく考察してみよう！
+
+◆ALGYAN８周年オリジナルIoT基板(※1-1)とチップ抵抗(※1-2)を 希望者先着200名様に無条件で 無償配布！
+◆なおかつ参加各社の超豪華ノベルティ群(※2)が大抽選会でもらえる！
+
+オンラインイベントですので、途中参加、途中退席は自由です。
+
+
+お陰様でIoT ALGYANは8周年を迎え、イベント開催数累計234回超、メンバー数も6,740人超となりました。
+心から御礼申し上げます。
+「開発」の現場におけるIoTは、今後どうなっていくのか、そして流行りの「生成AI」は、開発現場においてどのような影響があるのか、「開発現場」の第一線で活躍する素敵な方々にお声かけし、熱く語って頂こうと思います。
+「IoT」のみならず、開発者の、そしてテクノロジーの「未来」について想いを馳せ、よりいっそうときめいていこうではありませんか！
+最強開発者コミュニティ」の8周年を、一緒に楽しみましょう！
+
+
+
+ALGYANが初めての方も大歓迎です。
+ぼーっと生きてんじゃねえよ！
+
+■◇■◇■◇■◇■◇■◇■◇■◇■◇【当選基準の解説コーナー】■◇■◇■◇■◇■◇■◇■◇■◇■◇
+【ALGYAN8周年オリジナルIoT基板(※1-1)およびチップ抵抗(*1-2)先着順配布方法について】
+
+ALGYAN8周年オリジナルIoT基板＋チップ抵抗は、connpassの当イベント参加登録の「先着順」で最大数量(200セット)に至るまで自動当選とします。
+
+①選択肢「基板＋ チップ抵抗(※1)を希望しますか？」で「希望する」を選択し、
+
+数量が尽きた場合は上記①の選択肢を削除しますので、「基板＋ チップ抵抗(※1)を希望しますか？」を選択出来た場合は当選と解釈してください。
+希望者の任意入力なので、connpassが表示する参加者数と基板応募数量は一致しません。
+→毎回、1％ほどが「宛先不明」で返送されてしまいます。アパートマンション名など、省略せずにどうか気をつけて正しくご入力下さい。
+
+なお、基板には必要部品は付属しません。お送りするのは、生基板（とチップ抵抗10個）だけです。
+https://github.com/algyan/XIAOGYAN/　
+
+
+
+送料も当方が負担します。
+
+
+
+
+万一ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+
+
+【豪華ノベルティ(※2)抽選方法について】
+抽選参加登録用の入力フォームを別途、用意します。
+抽選参加登録フォームのURLは、参加登録者にのみ、当イベントページ上部に表示されます。
+→毎回、1％ほどが「宛先不明」で返送されてしまいます。アパートマンション名など、省略せずにどうか気をつけて正しくご入力下さい。
+送料も当方が負担します。
+
+
+
+
+万一ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+
+
+■◇■◇■◇■◇■◇■◇■◇【豪華ノベルティ群ご紹介コーナー！】■◇■◇■◇■◇■◇■◇■◇
+《ALGYAN８周年オリジナルIoT基板ノベルティ(※1-1)のご紹介》
+・Seeed株式会社様 ご提供ALGYAN８周年オリジナル基板
+
+
+こちらをチップ抵抗10個とセットで、無条件かつ先着順で200名様にプレゼントします。
+Seeed株式会社様、誠にありがとうございます。
+松岡 貴志さん（@matsujirushi12）、いつも本当にありがとうございます。
+このボードは、松岡さんがきめ細かい配慮を重ねて設計し、GitHub上でエンジニアの皆様に「無償の愛」でご協力頂き、動作検証を経て完成しました！
+
+詳しい仕様や購入すべき部品リストなどは、GitHubで公開しています。
+https://github.com/algyan/XIAOGYAN/　
+「チップ部品のはんだ付けはちょっと自信が無い」というあなたも、まずは、もらっておいてください。
+重複受取りOKです。遠慮なく受け取って、複数台の Edgeデバイス作りに挑戦したり、あるいは半田付けに失敗した時の予備として、是非ご活用ください。
+おまけのチップ抵抗(※1-2)とセットで、無条件かつ先着順で200名様までプレゼントします。
+応募要領は、前々項の【ALGYAN８周年オリジナルIoT基板(※1-1)先着順配布について】をご覧ください。
+送料も当方が負担します。
+
+
+
+万一ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+
+
+
+《おまけのチップ抵抗プレゼント(※1-2)のご紹介》
+・若干、入手し難いチップ抵抗をSeeed株式会社様にご提供いただきました。
+チップ抵抗を、予備を含めて10個、基板発送時に同封します。
+チップ抵抗 「10KΩ　0603サイズ 許容差5%」10個セット　数量：200セット
+
+
+
+
+万一ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+
+
+
+《協賛協力各社様の豪華ノベルティ群(※2)のご紹介》
+豪華ノベルティ群を、大抽選会でプレゼントします。
+抽選応募方法については、前記の【豪華ノベルティ(※2)抽選方法について】をご覧ください。
+送料も当方が負担します。
+
+
+さぁ！次の企業様からノベルティ（抽選賞品）のご提供をいただきます！
+(絶賛更新追加中です！内容は変更することがございますのであらかじめご了承ください。)
+
+日本マイクロソフト株式会社様ご提供オリジナルノベルティ各種
+
+MXCHIP loT DevKit 「Microsoft Azure IoT Starter Kit 」　数量：13個
+
+https://aka.ms/iot-devkit 
+
+Microsoft Azure ロゴ入りマスク　数量：5個
+
+
+ステッカー「Microsoft Intelligent Data Platform」　数量：32枚
+
+
+ステッカー「Microsoft Azure」　数量：80枚
+
+
+ステッカー「OpenAl Microsoft」　数量：290枚
+
+
+ハイチュウ「Azure OpenAl Service」　数量：10個
+
+
+USB変換ケーブル「Microsoft Azure」　数量：10個
+
+
+ハンドタオルか、あるいはパソコン拭きのようなもの「Microsoft A zure loT」　数量：56個
+
+色は選べません
+座布団のようなもの「Microsoft A zure」　数量：6個
+
+
+開発キット「Grove loT Commercial Gateway Kit」　数量：5台
+
+
+
+
+株式会社アットマークテクノ様ご提供　
+
+
+条件：開封の儀をSNSで発信してくださるかた。
+Armadillo-IoTゲートウェイ A6E Cat.1モデル 開発セット　数量：2セット
+
+製品詳細(メーカーページへ)
+
+
+
+
+株式会社 日経BP様 ご提供
+
+
+ 書籍「ラズパイPico 完全ガイド」　数量：３冊
+
+
+
+
+ルネサスエレクトロニクス株式会社様ご提供
+
+調整中
+
+
+
+株式会社ソラコム 様ご提供 
+
+調整中
+
+
+
+株式会社 obniz様ご提供
+
+調整中
+
+
+
+エヌビディア合同会社様ご提供
+
+調整中
+
+
+
+万一ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+
+
+
+【ノベルティの送付手段について】
+小さなものは郵送（普通郵便）またはネコポス（クロネコヤマトの郵便受け投函サービス）の元払にてお送りします。
+宅配便（クロネコヤマト）の元払にてお送りします。
+クロネコヤマト限定とさせて頂きます(宅配業者のリクエストは受付けません)。
+→毎回、1％ほどが「宛先不明」で返送されてしまいます。アパートマンション名など、省略せずにどうか気をつけて正しくご入力下さい。
+
+【ノベルティ全般に関する免責事項】
+
+万一、ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+ALGYAN および提供元は、ノベルティに関する全ての直接・間接責任を負いません。
+
+
+【必要な準備について）】
+ハンスオンでは無いので特に開発環境などは不要です。
+
+
+【その他必要なもの】
+
+・ 一緒に楽しむ優しい気持ちと熱い情熱。（重要）
+→本イベントは、コミュニティのボランティア有志によって開催されます。
+知らない参加者同士でお互いに教え合うような温かいスピリッツを持って、「一緒に運営する気持ち」でご参加くださいませ。 
+
+【オンライン接続環境について】
+
+接続 URLは、参加登録者にのみ、当イベントページ上部に表示されます。
+ YouTubeライブにて接続出来るよう、ご準備ください。
+下段の【Teams事前準備について】を参照し、Teamsに接続してください。
+
+
+
+【Teamsの事前準備について(発表者限定)】
+
+プレゼンター(発表者・講演者)のかたは、下記の外部リンク【Teams事前準備について】を参照し、必要な設定を済ませるか、もしくは環境のご確認をお願い申し上げます。
+※ライブ配信ですので、個人情報や機密事項が映らないように自己責任でしっかりと管理をお願いします。後日の編集対応は致しませんのでご了承下さい。
+【Teams事前準備について】
+https://algyan.github.io/venue/teams.html 
+
+
+【参加費】
+・無料
+　
+
+各協賛企業の皆様、
+
+
+【参加条件】
+・当コミュニティやイベントの趣旨を理解し、運営ボランティアメンバーや協賛企業様の貢献を寛容な気持ちで温かく応援してくださるあなたなら、どなたでもご参加出来ます！
+https://algyan.connpass.com 
+https://www.facebook.com/groups/ioytjp/ 
+
+どうか寛容な気持ちを持って、運営メンバーや講師を温かく応援する気持ちでご参加ください。
+「お客様」ではありません。
+一緒になって、より良いイベントを作り上げるというスピリッツをお持ちください。
+和気藹々とした雰囲気で進めましょう！
+
+
+
+【開催場所】
+地球
+当日の接続URLは、参加登録者にのみ、当イベントページ上部に表示されます。
+
+【イメージ画像】
+
+
+
+
+
+
+【タイムテーブル】
+　　時　　刻
+進行内容　 適宜休憩タイムあり（敬称略）
+
+
+
+
+14:00〜
+【開始】(講演順と所要時間は随時更新します・適当に休憩をはさみます)
+◆  乾杯！　IoT ALGYAN理事長　小暮敦彦
+アルコールおつまみ等どうぞ各自勝手にお手元にご用意ください（当然ですが自己負担です）。
+【基板スポンサー＆新規シルバー賛助会員様LT】
+◆「XIAOGYAN」への想い（5分間）
+Seeed株式会社 開発者 松岡 貴志
+
+【プラチナ賛助会員様LT】
+◆IoTな人でもわかっておきたい Generative AI（5分間）
+日本マイクロソフト マーケティング&amp;オペレーションズ部門 Azureビジネス部 GTMマネージャー　鬼塚 舞
+
+【とっても素敵な皆様のLT】
+◆ALGYANでChatGPTとの旅（5分間）
+株式会社モトジン・ドット・コム　代表取締役 ジョン ジンゴン
+◆『ラズパイ Pico 完全ガイド』の魅力を著者が直接語る！（5分間）
+株式会社 飛雁 代表取締役 福田 和宏
+◆(後日更新)（5分間）
+株式会社アットマークテクノ　代表取締役  實吉 智裕
+◆「時系列データ」をChatGPTで活かすには？！（5分間）
+株式会社ソラコム テクノロジー・エバンジェリスト 松下享平 
+◆独自の生成AIを構築！NVIDIAのAIプラットフォーム（5分間）
+エヌビディア合同会社　テクニカル マーケティング マネジャー　澤井 理紀
+◆(後日更新)（5分間）
+ルネサス エレクトロニクス株式会社　グローバルセールス&amp;マーケティング本部　システムソリューション統括部　主任技師　岡宮 由樹
+◆(後日更新)（5分間）
+株式会社 obniz　Co-Founder &amp; Engineer  木戸 康平
+◆AI も IoT も Digital Twins も、すべてはデータモデルから（5分間）
+Knowledge &amp; Experience 代表　太田 寛
+◆けっきょくコミュニティってなんなのか？（5分間）
+rosjp / NervesJP / ALGYAN etc.,,,　takasehideki
+
+【パネルディスカッション】
+◆『生成AIで産業革命→どうなるIoT、どうする技術者！』（残り時間全て）
+全ての登壇者＋小暮 
++特別ゲスト：えぐちラボ合同会社 代表社員　江口 和幸 
+
+(時刻や順番は前後することがあります)
+
+
+
+　【お楽しみ（時間調整？）タイムの部】
+【超豪華ノベルティ抽選会】 
+　→素敵な賞品がいろいろもらえます！（ブログ記載など条件があるものもあり）
+
+
+16:30 　
+終了予定 （…よりは前に終わりたい）
+
+
+
+
+※記載時刻は進行の目安を講演者と共有する目的で示しているものであり、確約するものではありません。
+
+【リアクションのお願い】
+
+リモート開催の性質上、進行役は常に孤独と戦っています笑。
+
+ぜひTwitterによる【リアクション】の発信にご協力ください。
+
+
+【Twitterでつぶやきましょう！】
+ハッシュタグ　#ALGYAN 
+https://twitter.com/intent/tweet?hashtags&#x3D;ALGYAN 
+
+【主催・協賛・協力】
+主催： IoT ALGYAN(あるじゃん)運営委員会 https://algyan.connpass.com 
+https://www.microsoft.com/ja-jp 
+https://www.seeed.co.jp 
+https://techmode.co.jp 
+
+
+
+【個人情報の扱いについて】
+個人情報は関係法令に従って管理いたします。他の用途では使いません。
+
+
+
+【注意事項】
+※運営しているのはコミュニティです。特定の企業ではありません。
+どうか寛容な気持ちを持って、運営メンバーや講師を温かく応援する気持ちでご参加ください。
+「お客様」ではありません。
+一緒になって、より良いイベントを作り上げるというスピリッツをお持ちください。
+和気藹々とした雰囲気で進めましょう！
+
+
+万一ノベルティに不良や不具合が生じても保証・交換などの対応は致しません。
+
+
+
+【YouTubeチャンネル登録のお願い！！！】
+YouTubeチャンネルを作りました！
+https://www.youtube.com/c/ALGYAN 
+
+IoT ALGYANが持つ「本物の技術」をYouTubeでも発信していきます！
+【チャンネル登録】をお願いいたします！！！
+
+【ご支援（カンパ・ご協賛）のお願い】
+皆さまの温かいご支援をお待ちしています。
+https://www.algyan.net/Donation.html 
+
+【無料でAzureを学べるURL】
+Microsoft 様からのスペシャルリンク（無料）です。
+https://aka.ms/algyan_ARS 
+
+(count:)</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1116)</span>はじめての基板！加熱ツールを使って表面実装を体験しよう！
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://jyoshidarake.connpass.com/event/281613/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/05/21 13:00 ～ 16:00
+開催場所: 〒810-0001 福岡市中央区天神1丁目15番30号
+
+CuteeWorks #2　はじめての基板！加熱ツールを使って表面実装を体験しよう！
+初心者大歓迎！加熱ツールを使って表面実装を体験しましょう！
+#1「はじめての基板！可愛い形の基板設計と発注を学ぼう！」で参加者の方が作ってくださったLEDをチカチカさせる非安定マルチバイブレーター基板です。
+
+当日実装した基板はプレゼントします！その日にお持ち帰りいただけます。
+
+それぞれ時間差でスタートします。各自40分程度目安で終了予定です。
+今年７周年の「女子だらけの電子工作」は「CuteeWorks（キューティーワークス）」になりました！
+今年で７周年を迎える「女子だらけの電子工作」が、さらにワクワクする名前「CuteeWorks（キューティーワークス）」にパワーアップしました！
+
+私たちのコミュニティのコンセプト「電子工作に可愛いが加わったら最強！」を更に強調し、より多くの皆様にもっと愛されるように名称変更いたしました！
+
+性別や年齢や知識の有無に関わらず、可愛い電子工作を一緒に楽しめる「CuteeWorks（キューティーワークス）」なので、誰でも気軽に参加可能です！
+
+参加費
+無料
+持参するもの
+・汚れても大丈夫な服装でおいでください。（エプロン可）
+
+タイムテーブル
+時間
+内容
+
+
+
+
+13:00
+開会
+
+
+各自所要時間 00:00
+各自事前説明
+
+
+各自所要時間 00:05
+ステンシルを使ってハンダ塗布
+
+
+各自所要時間 00:10
+部品をピンセットを使って配置
+
+
+各自所要時間 00:20
+加熱ツールを使って表面実装
+
+
+各自所要時間 00:30
+冷却・写真撮影
+
+
+各自所要時間 00:40
+各自終了
+
+
+16:00
+閉会
+
+
+
+時間は個人差があり、あくまで目安です。
+その他、詳細が決定いたしましたら、こちらに追加いたします。
+
+日時
+令和５年５月２１日（日）１３：００〜１６：００
+
+開催場所
+エンジニアカフェ　地下1階　MAKER&#x27;sスペース
+
+抽選日
+令和５年５月１８日（木）抽選は自動で0〜２時の間に行われます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1158)</span>【無料】【ぐるっぺ道泉10:00開催】CoderDojo瀬戸(第104回) 子供向けプログラミング
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://coderdojo-seto.connpass.com/event/283578/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/06/11 10:00 ～ 12:00
+開催場所: 愛知県瀬戸市道泉町53番地の5
+
+CoderDojo瀬戸は子供達がプログラミングなどを通じて作品づくりを楽しむ場を提供する無料のコミュニティです。
+愛知県瀬戸市で開催しています。
+初心者でもメンターがそばでサポートしますのでご安心ください。
+https://coderdojo-seto.jp
+注意！今回は「ぐるっぺ道泉」で行います。
+道泉地域交流センター「ぐるっぺ道泉」にて行います。
+https://goo.gl/maps/xHCFuVFjsAJ45E9BA
+駐車場はあるので車で来場可能です。
+メニュー
+パソコンでプログラミング
+コンピュータ・タブレットなどを使ってプログラミング作品を作ります。
+参加にはWiFiのつながるPC・タブレットが必要です。
+全くの初心者の方は「Scratch」から始めるのをお勧めします。
+その場合は事前にユーザー登録をしておくとスムーズです。
+（作品が自動保存される様になります）
+Scratchユーザー登録
+https://scratch.mit.edu/join
+プログラミング学習サービスの紹介
+Scratch （スクラッチ）← 🌟 初めてにオススメ
+ブロックを組み合わせてプログラミングができます。簡単でいて奥深いです。
+https://scratch.mit.edu/
+事前にユーザー登録しておくと便利です https://scratch.mit.edu/join
+HackForPlay （ハックフォープレイ）
+プログラミングを使ってRPGベースのゲームが作れます
+https://www.hackforplay.xyz/
+Progate （プロゲート）
+本格的なプログラミング学習ができます。
+https://prog-8.com/
+HackForPlay, Progateを試してみたい方はアカウントを貸すので教えてください。（当日で良いです）
+そのほかでプログラミング
+そのほか、自由にプログラミングしたい環境で楽しんでもらって結構です。
+プログラミングにこだわり過ぎず、様々な作品作りをしていただいて結構です。
+CoderDojo 瀬戸 子供向けプログラミング道場について
+CoderDojo瀬戸は子供達がプログラミングを楽しむ場を提供する無料のコミュニティです。
+普段は愛知県瀬戸市で開催しています。
+https://coderdojo-seto.github.io/
+CoderDojo瀬戸は
+大体7歳〜17歳向けのプログラミング道場です。（年齢は絶対ではありません）
+プログラミングをしたい子供のために、自由にプログラミングをする環境を提供します。
+いわゆる習い事・塾ではないので、 費用は不要です。
+カリキュラムなどはなく、子供が作りたいと思ったものを尊重します。
+子供は仲間やメンター（指導者）と一緒に実現する方法を考えて取り組みます。
+子供・家族の理解を促進するために保護者が同席することを、とても推奨します。
+参加方法
+当サイト（connpass）でユーザー登録の上ご参加ください。
+ご兄弟など複数人でご参加の場合は、複数メールアドレスを用意してご登録ください。
+（やり方が分からなくて、どうしても難しければコメントでお知らせください）
+持ち物
+ノートパソコン（Wi-Fiに接続可能なものが望ましい）
+電源アダプタ
+マウス（必要に応じて）
+または画面が大きめのタブレット
+https://scratch.mit.edu/ にアクセスして十分に利用できること
+電源ケーブル
+電源が不足する場合に備えてお持ちください
+プログラミングを楽しみたい、何かを作りたい、という気持ち
+Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライン版をインストールしておくとネットワークが繋がらなくもScratchができます。
+ https://scratch.mit.edu/download
+当日の流れ
+10:30 ～ 12:30 ： プログラミング
+12:00 ～ 12:30 ： やったことの発表
+保護者の方へ
+小学生の子どもが参加される場合、保護者の方が出来る限りご一緒に参加していただくことを推奨します。
+保護者の方が顔を出されると、お子さんはとても喜びます。是非お子さんが楽しんでいる姿をご覧になってください。
+きっと取り組む姿勢にも違いが出てきます。
+また、終了30分前に子どもたちがやったことの発表があります。
+そちらは特に、是非ご参加ください。
+撮影について
+CoderDojo 当日は、イベントの内容の写真・ビデオ撮影をさせていただきます。撮影した素材はブログやSNSなどで使わせて頂きます。参加者は原則、写真撮影・ビデオ撮影 OK という認識でおります。
+もしも写真撮影・ビデオ撮影が NG な方は申し出てください。
+会場内では写真を撮影します。写真はブログ・SNSで利用し、インターネットで公開させていただく場合がありますので、あらかじめご了承ください。
+寄付について
+CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。
+CoderDojoとは
+CoderDojo Japanより引用
+CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では85カ国・1,600の道場、日本では全国に136以上の道場があります。 （2018年5月現在)</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1147)</span>【無料】【ぐるっぺ道泉10:00開催】CoderDojo瀬戸(第105回) 子供向けプログラミング
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://coderdojo-seto.connpass.com/event/283579/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/06/25 10:00 ～ 12:00
+開催場所: 愛知県瀬戸市道泉町53番地の5
+
+CoderDojo瀬戸は子供達がプログラミングなどを通じて作品づくりを楽しむ場を提供する無料のコミュニティです。
+愛知県瀬戸市で開催しています。
+初心者でもメンターがそばでサポートしますのでご安心ください。
+https://coderdojo-seto.jp
+今回は「ぐるっぺ道泉」で行います。
+道泉地域交流センター「ぐるっぺ道泉」にて行います。
+https://goo.gl/maps/xHCFuVFjsAJ45E9BA
+駐車場はあるので車で来場可能です。
+メニュー
+パソコンでプログラミング
+コンピュータ・タブレットなどを使ってプログラミング作品を作ります。
+参加にはWiFiのつながるPC・タブレットが必要です。
+全くの初心者の方は「Scratch」から始めるのをお勧めします。
+その場合は事前にユーザー登録をしておくとスムーズです。
+（作品が自動保存される様になります）
+Scratchユーザー登録
+https://scratch.mit.edu/join
+プログラミング学習サービスの紹介
+Scratch （スクラッチ）← 🌟 初めてにオススメ
+ブロックを組み合わせてプログラミングができます。簡単でいて奥深いです。
+https://scratch.mit.edu/
+事前にユーザー登録しておくと便利です https://scratch.mit.edu/join
+HackForPlay （ハックフォープレイ）
+プログラミングを使ってRPGベースのゲームが作れます
+https://www.hackforplay.xyz/
+Progate （プロゲート）
+本格的なプログラミング学習ができます。
+https://prog-8.com/
+HackForPlay, Progateを試してみたい方はアカウントを貸すので教えてください。（当日で良いです）
+そのほかでプログラミング
+そのほか、自由にプログラミングしたい環境で楽しんでもらって結構です。
+プログラミングにこだわり過ぎず、様々な作品作りをしていただいて結構です。
+CoderDojo 瀬戸 子供向けプログラミング道場について
+CoderDojo瀬戸は子供達がプログラミングを楽しむ場を提供する無料のコミュニティです。
+普段は愛知県瀬戸市で開催しています。
+https://coderdojo-seto.github.io/
+CoderDojo瀬戸は
+大体7歳〜17歳向けのプログラミング道場です。（年齢は絶対ではありません）
+プログラミングをしたい子供のために、自由にプログラミングをする環境を提供します。
+いわゆる習い事・塾ではないので、 費用は不要です。
+カリキュラムなどはなく、子供が作りたいと思ったものを尊重します。
+子供は仲間やメンター（指導者）と一緒に実現する方法を考えて取り組みます。
+子供・家族の理解を促進するために保護者が同席することを、とても推奨します。
+参加方法
+当サイト（connpass）でユーザー登録の上ご参加ください。
+ご兄弟など複数人でご参加の場合は、複数メールアドレスを用意してご登録ください。
+（やり方が分からなくて、どうしても難しければコメントでお知らせください）
+持ち物
+ノートパソコン（Wi-Fiに接続可能なものが望ましい）
+電源アダプタ
+マウス（必要に応じて）
+または画面が大きめのタブレット
+https://scratch.mit.edu/ にアクセスして十分に利用できること
+電源ケーブル
+電源が不足する場合に備えてお持ちください
+プログラミングを楽しみたい、何かを作りたい、という気持ち
+Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライン版をインストールしておくとネットワークが繋がらなくもScratchができます。
+ https://scratch.mit.edu/download
+当日の流れ
+10:00 ～ 11:30 ： プログラミング
+11:30 ～ 12:00 ： やったことの発表
+保護者の方へ
+小学生の子どもが参加される場合、保護者の方が出来る限りご一緒に参加していただくことを推奨します。
+保護者の方が顔を出されると、お子さんはとても喜びます。是非お子さんが楽しんでいる姿をご覧になってください。
+きっと取り組む姿勢にも違いが出てきます。
+また、終了30分前に子どもたちがやったことの発表があります。
+そちらは特に、是非ご参加ください。
+撮影について
+CoderDojo 当日は、イベントの内容の写真・ビデオ撮影をさせていただきます。撮影した素材はブログやSNSなどで使わせて頂きます。参加者は原則、写真撮影・ビデオ撮影 OK という認識でおります。
+もしも写真撮影・ビデオ撮影が NG な方は申し出てください。
+会場内では写真を撮影します。写真はブログ・SNSで利用し、インターネットで公開させていただく場合がありますので、あらかじめご了承ください。
+寄付について
+CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。
+CoderDojoとは
+CoderDojo Japanより引用
+CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では85カ国・1,600の道場、日本では全国に136以上の道場があります。 （2018年5月現在)</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1161)</span>【無料】【ますきち開催】10:30〜CoderDojo瀬戸(第103回) 子供向けプログラミ
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://coderdojo-seto.connpass.com/event/283576/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/05/28 10:30 ～ 12:30
+開催場所: 愛知県瀬戸市仲切町２２
+
+CoderDojo瀬戸は子供達がプログラミングなどを通じて作品づくりを楽しむ場を提供する無料のコミュニティです。
+愛知県瀬戸市で開催しています。
+初心者でもメンターがそばでサポートしますのでご安心ください。
+https://coderdojo-seto.jp
+今回は「ゲストハウスますきち」で開催します
+ゲストハウスますきちで行います。
+会場までの道はとても細いところがあります。
+尾張瀬戸駅を起点に下記のような道順で来ることをおすすめします。
+下記地図の道順で来場することをお勧めします。
+https://cln.sh/M6aGGk
+運転に自信がない方は「パルティ瀬戸」「瀬戸蔵」などの近隣の駐車場（有料）のご利用をおすすめします。
+メニュー
+パソコンでプログラミング
+コンピュータ・タブレットなどを使ってプログラミング作品を作ります。
+参加にはWiFiのつながるPC・タブレットが必要です。
+全くの初心者の方は「Scratch」から始めるのをお勧めします。
+その場合は事前にユーザー登録をしておくとスムーズです。
+（作品が自動保存される様になります）
+Scratchユーザー登録
+https://scratch.mit.edu/join
+プログラミング学習サービスの紹介
+Scratch （スクラッチ）← 🌟 初めてにオススメ
+ブロックを組み合わせてプログラミングができます。簡単でいて奥深いです。
+https://scratch.mit.edu/
+事前にユーザー登録しておくと便利です https://scratch.mit.edu/join
+HackForPlay （ハックフォープレイ）
+プログラミングを使ってRPGベースのゲームが作れます
+https://www.hackforplay.xyz/
+Progate （プロゲート）
+本格的なプログラミング学習ができます。
+https://prog-8.com/
+HackForPlay, Progateを試してみたい方はアカウントを貸すので教えてください。（当日で良いです）
+そのほかでプログラミング
+そのほか、自由にプログラミングしたい環境で楽しんでもらって結構です。
+プログラミングにこだわり過ぎず、様々な作品作りをしていただいて結構です。
+CoderDojo 瀬戸 子供向けプログラミング道場について
+CoderDojo瀬戸は子供達がプログラミングを楽しむ場を提供する無料のコミュニティです。
+普段は愛知県瀬戸市で開催しています。
+https://coderdojo-seto.github.io/
+CoderDojo瀬戸は
+大体7歳〜17歳向けのプログラミング道場です。（年齢は絶対ではありません）
+プログラミングをしたい子供のために、自由にプログラミングをする環境を提供します。
+いわゆる習い事・塾ではないので、 費用は不要です。
+カリキュラムなどはなく、子供が作りたいと思ったものを尊重します。
+子供は仲間やメンター（指導者）と一緒に実現する方法を考えて取り組みます。
+子供・家族の理解を促進するために保護者が同席することを、とても推奨します。
+参加方法
+当サイト（connpass）でユーザー登録の上ご参加ください。
+ご兄弟など複数人でご参加の場合は、複数メールアドレスを用意してご登録ください。
+（やり方が分からなくて、どうしても難しければコメントでお知らせください）
+場所
+現地
+ゲストハウスますきちで行います。
+会場までの道はとても細いところがあります。
+尾張瀬戸駅を起点に下記のような道順で来ることをおすすめします。
+https://cln.sh/M6aGGk
+運転に自信がない方は「パルティ瀬戸」「瀬戸蔵」などの近隣の駐車場（有料）のご利用をおすすめします。
+持ち物
+ノートパソコン（Wi-Fiに接続可能なものが望ましい）
+電源アダプタ
+マウス（必要に応じて）
+または画面が大きめのタブレット
+https://scratch.mit.edu/ にアクセスして十分に利用できること
+延長ケーブル
+電源が不足する場合に備えてお持ちください
+プログラミングを楽しみたい、何かを作りたい、という気持ち
+Wi-Fi に繋がるPCが用意できない場合は、こちらからオフライン版をインストールしておくとネットワークが繋がらなくもScratchができます。
+ https://scratch.mit.edu/download
+当日の流れ
+10:30 ～ 12:30 ： プログラミング
+12:00 ～ 12:30 ： やったことの発表
+保護者の方へ
+小学生の子どもが参加される場合、保護者の方が出来る限りご一緒に参加していただくことを推奨します。
+保護者の方が顔を出されると、お子さんはとても喜びます。是非お子さんが楽しんでいる姿をご覧になってください。
+きっと取り組む姿勢にも違いが出てきます。
+また、終了30分前に子どもたちがやったことの発表があります。
+そちらは特に、是非ご参加ください。
+撮影について
+CoderDojo 当日は、イベントの内容の写真・ビデオ撮影をさせていただきます。撮影した素材はブログやSNSなどで使わせて頂きます。参加者は原則、写真撮影・ビデオ撮影 OK という認識でおります。
+もしも写真撮影・ビデオ撮影が NG な方は申し出てください。
+会場内では写真を撮影します。写真はブログ・SNSで利用し、インターネットで公開させていただく場合がありますので、あらかじめご了承ください。
+寄付について
+CoderDojoはボランティアで行っております。活動にご賛同いただけましたら活動費として一口500円程度の寄附を頂けると幸いです。※寄付は任意です。
+CoderDojoとは
+CoderDojo Japanより引用
+CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では85カ国・1,600の道場、日本では全国に136以上の道場があります。 （2018年5月現在)</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 952)</span>まずは自分を知ることから！良い人間関係をつくるための自分キャッチコピー講座
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://connpass.com/event/283433/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/05/24 18:30 ～ 20:30
+開催場所: 新潟市中央区礎町通3-2086
+
+あなたらしい自己紹介できていますか？
+新学期、友だちづくりに張り切っているあなた。
+社会人生活スタートで朝から晩まで気を張りっぱなしのあなた。
+転職や異動で楽しみ半分、憂鬱半分なあなた。
+心機一転、独立してどんどん人脈を広げたいあなた。
+無難なことしか言えなくて毎回ちょっぴり凹んでいる…そもそも何を話したらいいか分からない…
+そのお悩み、「自分キャッチコピー」が解決します！
+「自分キャッチコピー」とは
+自己紹介が楽しくなるお助けアイテムであり、自分を見失わないための人生の指針。
+つくる過程で発生する「自分を見つめる時間」は、対人関係の悩み解消にも効果的なんだそう。
+言葉のプロと一緒に「自分キャッチコピー」をつくりながら、自己理解を深めて新生活をもっと楽しめる自分になりませんか？
+イベント概要
+【講座名】まず自分を知ることから！良い人間関係をつくる自分キャッチコピー講座
+【講師】ザツダン株式会社　横田孝優
+【日時】 2023年5月24日(水)　18時30分〜20時30分
+【会場】生涯学習センター クロスパルにいがた 304講座室（新潟市中央区礎町通3-2086）
+https://goo.gl/maps/31tyXGvE6mSJn6FXA?coh&#x3D;178572&amp;entry&#x3D;tt
+※クロスパルにいがたの駐車場をご利用の方(30分150円)は館内で30分無料の処理を受けることができます
+【参加費】　4000円 　※当日現金でお支払いください
+【募集人数】　20名
+【申込締切】　2023年5月23日(火)12時まで
+※募集人数の上限に達した場合は締切前に受付を終了する場合があります
+講座内容
+STEP1 　キャッチコピーとは、言語化のメリットを解説
+STEP2 　自分キャッチコピーの作り方をレクチャー
+〜個人ワーク〜
+STEP3　自分キャッチコピー発表&amp;講師からの講評
+～解散・質問タイム～
+講師紹介
+横田孝優
+ザツダン株式会社 代表取締役 | コピーライター | 三級知的財産管理技能士
+1982年生まれ、兵庫県出身。大阪や東京などを点々としつつ、おいしい匂いに誘われて新潟へ。広告制作会社のコピーライター、専門学校の広報担当を経て2013年独立。2021年にザツダン株式会社を設立。ネーミングやコンセプト制作を中心にコピーワーク全般を手がける。コラムニストとしても活動中。
+ザツダン株式会社
+https://ztdn.net/about/</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
@@ -420,6 +1172,166 @@ Wi-Fiについて
 所要などで保護者の方は開催中に会場を離れて頂いても大丈夫ですが、終了する頃に戻ってきていただくようお願い致します。
 また、緊急時の連絡が受け取れるようにしておいてください。
 ※会場への出入りは自由となっておりますが、発表の時間には戻ってください。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>AWS DataSync Discovery の一般提供 (GA) を開始
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS DataSync Discovery の一般提供が開始されたことをお知らせします。これにより、オンプレミスのストレージのパフォーマンスと使用状況が可視化され、AWS へのデータ移行を簡素化および加速するためのレコメンデーションが提供されます。DataSync Discovery では、データ収集と分析が自動で行われるため、オンプレミスのストレージのパフォーマンスと容量の把握が可能になります。このことは、移行するデータをすばやく特定し、パフォーマンスと容量のニーズに合わせて推奨される AWS ストレージサービスを評価するのに役立ちます。プレビュー以降に追加された機能には、NetApp ONTAP 9.7 のサポート、クラスターおよびストレージ仮想マシン (SVM) レベルでのレコメンデーション、Amazon EventBridge の検出ジョブイベントなどがあります。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 332)</span>Amazon CloudWatch Logs のデータ保護がすべての AWS 商用リージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-cloudwatch-logs-data-protection-aws-commercial-regions/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon CloudWatch Logs のデータ保護が、中東 (UAE)、アジアパシフィック (ハイデラバード)、欧州 (スペイン)、欧州 (チューリッヒ)、アジアパシフィック (メルボルン) で利用可能になったことをお知らせします。データ保護は、パターンマッチングと機械学習機能を活用して、送信中の機密ログデータを検出して保護する機能です。Amazon CloudWatch Logs を使用すると、すべてのシステム、アプリケーション、AWS サービスからのログを非常にスケーラブルな 1 つのサービスに一元化できます。Amazon CloudWatch Logs のログデータ保護により、システムやアプリケーションで記録されたクレジットカード番号や政府発行 ID など、送信中の機密ログデータを検出して保護することが可能です。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 338)</span>Amazon Keyspaces (Apache Cassandra 向け) が SELECT クエリの IN 演算子をサポート
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon Keyspaces (Apache Cassandra 向け) は、スケーラブルかつサーバーレスで可用性の高い、Apache Cassandra 互換のフルマネージドデータベースサービスです。Cassandra クエリ言語 (CQL) の SELECT クエリで IN 演算子が使用できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 373)</span>AWS IoT Core Device Advisor が MQTT over WebSocket のサポートを発表
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS IoT Core Device Advisor が MQTT over WebSocket のサポートの一般提供を開始したことをお知らせします。AWS IoT Core Device Advisor はクラウドベースのフルマネージド型テスト機能で、AWS IoT デバイスソフトウェアが AWS IoT Core と確実かつ安全に接続できるかどうかを検証します。今回の更新により、AWS IoT Core Device Advisor の 3 つのテストスイート (認定テスト、カスタムテスト、長期間のテスト) すべてを MQTT over WebSocket の Signature Version 4 を使用して実行できるようになりました。Signature Version 4 は、すべての AWS リージョンにおいて AWS サービスへのインバウンド API リクエストを認証するためのプロトコルです。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 334)</span>Amazon SageMaker でローカルの ML コードからリモートジョブへの高速変換が可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon SageMaker Python SDK は、Amazon SageMaker で機械学習モデルをトレーニングおよびデプロイするためのオープンソースライブラリです。SageMaker Python SDK により、データサイエンティストは、好みの IDE やローカルノートブックで作成したローカルの機械学習 (ML) コードを、関連するランタイムの依存関係と一緒に最小限のコード変更で大規模な ML モデルトレーニングジョブとして実行できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 376)</span>Amazon EC2 T4g インスタンスがアフリカ (ケープタウン) リージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-ec2-t4g-instances-africa-cape-town-region/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、Amazon Elastic Compute Cloud (Amazon EC2) T4g インスタンスがアフリカ (ケープタウン) リージョンで利用可能になりました。このインスタンスは、Arm ベースの AWS Graviton2 プロセッサを搭載しており、T3 インスタンスよりも最大 40% 高い価格性能を実現します。T4g インスタンスでは、ベースラインレベルの CPU パフォーマンスが提供されますが、必要に応じていつでも CPU 使用率をバーストさせる機能を備えています。Amazon EC2 T4g インスタンスは、AWS Nitro System 上に構築されています。このシステムは、分離されたマルチテナンシー、プライベートネットワーキング、高速ローカルストレージを備えた効率的で柔軟かつ安全なクラウドサービスの提供を可能にする AWS 設計のハードウェアとソフトウェアのイノベーションを集結させたものです。T4g インスタンスは、バランスの取れたコンピューティング、メモリ、ネットワークリソースを提供し、大規模なマイクロサービス、キャッシュサーバー、検索エンジンのインデックス作成、e コマースプラットフォーム、仮想デスクトップなど、さまざまな汎用ワークロードに対応します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 348)</span>AWS Network Firewall の受信 TLS 検査が新たに 8 つのリージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-network-firewall-ingress-tls-inspection-new-regions/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Network Firewall は、新たに 8 つのリージョンで受信 VPC トラフィックに対する Transport Layer Security (TLS) 検査をサポートするようになりました。これで利用可能なリージョンは 10 になります。本日より、アジアパシフィック (シドニー)、アジアパシフィック (ジャカルタ)、アジアパシフィック (ムンバイ)、アジアパシフィック (シンガポール)、アジアパシフィック (東京)、欧州 (アイルランド)、欧州 (ストックホルム)、欧州 (フランクフルト)、南米 (サンパウロ)、米国東部 (バージニア北部) で、AWS Network Firewall を使用してインバウンド TLS トラフィックを復号化、検査、再暗号化できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 334)</span>AWS Resource Access Manager が、きめ細かなカスタマーマネージド許可をサポート
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS Resource Access Manager (AWS RAM) は、カスタマーマネージド許可をサポートしました。そのためユーザーは、サポートされているリソースタイプに対するきめ細かなリソースアクセス制御を作成および管理できます。AWS RAM を使用すると、AWS アカウント間、組織内または組織単位 (OU) 内、AWS Identity and Access Management (IAM) ロールとユーザーの間で、リソースを安全に共有できます。カスタマーマネージド許可で最小特権の原則を、またはタスクの実行に必要な最小限の許可を適用できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1119)</span>第762回　定番のデバッグ・調査ツールであるstraceでエラーインジェクション
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0762?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>straceはユーザーランドアプリケーションの挙動の確認やデバッグに使える便利なツールです。今回はstraceの基本的な使い方に加えて、わざとシステムコールをエラー終了させる、エラーインジェクションについても紹介しましょう。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>0 min</time> : )</span>第762回　定番のデバッグ・調査ツールであるstraceでエラーインジェクション
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0762?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>straceはユーザーランドアプリケーションの挙動の確認やデバッグに使える便利なツールです。今回はstraceの基本的な使い方に加えて、わざとシステムコールをエラー終了させる、エラーインジェクションについても紹介しましょう。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1119)</span>第762回　定番のデバッグ・調査ツールであるstraceでエラーインジェクション
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/admin/serial/01/ubuntu-recipe/0762?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>straceはユーザーランドアプリケーションの挙動の確認やデバッグに使える便利なツールです。今回はstraceの基本的な使い方に加えて、わざとシステムコールをエラー終了させる、エラーインジェクションについても紹介しましょう。</span>
                   </div>
                 </a>
               </details>
@@ -74869,270 +75781,6 @@ Connpass上で参加登録をお願いいたします。
 注意事項・連絡事項・その他
 本イベントはコミュニティ主催の勉強会です。
 セッション動画を後日配信するかどうかは、未定です。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1067)</span>あじゃてく読書会 特別編#7 『Management 3.0』
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://agiletechexpo.connpass.com/event/280791/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>開催日時: 2023/04/24 21:30 ～ 23:00
-開催場所: オンライン
-
-会場のDiscordにつきましては、本ページ上部にございます、「参加者への情報」欄をご確認ください。
-あじゃてく読書会特別編最終回！！
-ついに日本語訳されたManagement 3.0を継続的に読む会をあじゃてく読書会メンバーで開催してみることにしました！
-課題図書
-『Management 3.0』
-
-書籍の詳細はこちら
-https://www.maruzen-publishing.co.jp/item/?book_no&#x3D;304719
-あじゃてく読書会で
-誰かの好きな本が
-ほかの誰かと繋がるきっかけになりますように。
-皆様のご参加、お待ちしております！
-タイムテーブル
-時間
-内容
-
-
-
-
-21:30-22:30
-開場〜 課題本について語ろう！
-
-
-22:30-23:00
-次回の読む場所決定
-
-
-
-SNS
-フォローをお願いします!! #AgileTechEXPO
-Facebook
-URL: https://www.facebook.com/AgileTechEXPO/ 
-Twitter
-URL: https://twitter.com/AgileTechEXPO/
-note
-URL: https://note.com/agiletechexpo/
-Youtube
-URL: https://www.youtube.com/channel/UC4o5dBQt2gfJrArnW4KBPPQ
-Podcast
-URL: https://anchor.fm/agiletechexpo
-Code of Conduct・行動規範
-Agile Tech EXPOでは、性別、性的指向、障碍の有無、外見、身体の特徴、人種、宗教にかかわりなく、全員がハラスメント行為なくイベントに参加し体験できる環境の提供に最善を尽くします。
-私たちオーガナイザーは、イベント参加者によるハラスメント行為を一切許容しません。性的な言葉や映像表現を使うことは、イベントおよびイベントに関連するいかなる場でも不適切であり、その適用範囲は発表やトークの内容、ワークショップ、関連パーティー、ツイッターやその他のオンラインメディアでの発言を含みます。
-参加者の方々は、以上の行動規範に則ったご参加をお願い致します。行動規範を守れなかったイベント参加者は、オーガナイザーの判断によってイベント内での行動を制限されたり、イベントからの追放処分を受けることがありますことをご了承ください。
-参考： https://ja.confcodeofconduct.com
-お問い合わせ先
-Agile Tech EXPO Organizers ( info@agiletechexpo.com )</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>3 min</time> : 999)</span>OpenAI ドキュメント輪読会 #2
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://sakuragaokadev.connpass.com/event/280790/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>開催日時: 2023/04/17 19:30 ～ 21:30
-開催場所: オンライン
-
-概要
-この勉強会は、OpenAIのドキュメントページを輪読し、chatGPTなどの技術をより深く理解することを目的とした勉強会です。
-当面のゴールとして、ドキュメントページの読了およびその理解を設定しています。その後、状況に応じてOpenAIのAPIを利用したプロダクトの開発等ができればと考えています。
-今回は、Text completion / Prompt design の部分から読んでいきます。
-輪読会の開催方針
-現時点で、毎週月曜日の19:30-21:30を予定していますが、参加者の状況に応じて都度相談して決めます。
-参加について
-Zoom枠
-輪読に参加されたい方はこちらを選択してください
-英語のドキュメントを読むことに抵抗がない、またはわからない場合は都度調べながら読むことができる方が対象です
-ある程度スピード感をもって読み進めるため毎週の開催を予定していますが、通読よりも理解を深めることを目的にしているため、輪読会の途中で議論、または別資料を読む場合があります
-YouTube枠
-輪読会の様子は当日YouTube Liveで配信し、アーカイブとして残す予定です
-タイムテーブル
-時間
-内容
-
-
-
-
-19:30
-開始、自己紹介
-
-
-随時
-輪読、休憩
-
-
-21:30
-終了
-
-
-
-その他
-このイベントに関する諸連絡は、Sakuragaoka.devのDiscordでおこないます
-行動規範
-主催者を含む全ての参加者は、Sakuragaoka.devイベント行動規範に記載される行動規範に従う必要があります。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>4 min</time> : 1141)</span>第83回CoderDojo浜松（小中高プログラミング教育）
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://coderdojo-hamamatsu.connpass.com/event/280796/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>開催日時: 2023/04/30 13:30 ～ 15:30
-開催場所: 浜松市中区海老塚二丁目25番17号
-
-南部協働センター で CoderDojo浜松 を開催します。
-今月の内容
-ちょっと間が空いてしまいましたが、久しぶりにCoderDojoを開催いたします！
-時間: 13:30～
-およそ、次のような時間割で行います。
-時間
-内容
-
-
-
-
-13:00～
-開場
-
-
-13:30～13:35
-はじめの挨拶
-
-
-13:35～13:45
-発表タイム1 (発表者求ム！)
-
-
-13:50～14:50
-プログラミングの時間
-
-
-15:00～15:30
-発表タイム2 (発表者求ム！)
-
-
-15:30～16:30
-自由時間
-
-
-16:30
-片付け
-
-
-
-※ 自分の作品を見せたい・発表したいことがあるニンジャまたは大人は、ぜひ発表してください。
-(注意事項) コロナ対策をしてご参加ください。
-マスクの着用は必須です。(不織布マスクや2重マスクがお勧めです)
-会場は窓開け換気しています。
-ハンドジェルを設置しますので定期的に手を除菌してください。
-当日少しでも体調が悪いと感じたら出席を控えてください。キャンセルの手続きは開始直前になっても構いません。
-CoderDojo浜松 に参加してみませんか？
-CoderDojo浜松に参加するニンジャを募集中！
-7〜17歳でプログラミングに興味があれば大丈夫！ 最初はみんな初心者です。会場に集まった他のニンジャといっしょに、プログラムに挑戦してみましょう。
-また、自分の作ったすごいプログラムをみんなに紹介してみよう。 仲間に紹介したり教えあったりすることで、プログラミングの技術(スキル)を磨こう。
-※ 小学生以下のお子様の場合、お申込みはこちらのConnpassから保護者の方が行ってください。(ユーザー名はニックネームに変更しておきましょう。)
-CoderDojo浜松では、大人や学生さんも募集しています(メンター役)
-CoderDojo浜松では、メンターというプログラミング活動を見守ってくれる大人または学生(大学/高校/専門)のボランティアも募集しています。 年齢は全く問いません。また、プログラミングに詳しいかどうかはあまり重要でありません。子供に何かを教えるのが好き、もしくは、自分自身がプログラミングに興味があるかどうかが大事だと思います。 もしCoderDojoのボランティアに興味がありましたら、こちらで申し込みの上、当日会場に来てください。 なお、自分用のPCやタブレットはあった方が良いですが、必須ではありません。
-※ 高校生や大学生のメンター役も大歓迎です。
-CoderDojo浜松 ホームページ
-https://coderdojo-hamamatsu.org/
-はじめての方へ
-CoderDojoとは
-CoderDojo とは、7〜17歳の子どもを対象にしたプログラミング道場です。 詳しくは、https://coderdojo.jp/ やGoogleなどを見ていただくとして、 簡単に説明すると「地域主体で非営利で若い世代のプログラミング活動を見守る活動」であるようです。 活動の主旨に賛同できる方なら誰でもその地域でCoderDojoを開くことができ、CoderDojo Japanのホームページに名前を出すことができます。
-ニンジャとは・メンターとは
-CoderDojoは、アイルランドから始まった活動のため、少し変わった言葉が使われています。 「ニンジャ(若者)のプログラムの修行を、メンター(年長者)が一緒になって考えて見守る」 というようなものと理解すればよいでしょう。
-CoderDojo浜松 について
-CoderDojo浜松では、2016年から月に1回ペースで道場を開いています。 CoderDojoは地域により活動内容が変わりますが、浜松では、主に次のようなことをやっています。
-Scratch という ブロック・プログラミング環境による作品制作
-micro:bit などのマイコンボードのプログラミング
-Python/ JavaScript / Unity などをつかったプログラミング
-なお、上記以外にもプログラムに関係あるような事であれば、自分の興味がある事をしていただいてかまいません。
-初めて参加される方や「プログラムを始めたいけど、何からやればよいの？」という方は、 会場にScratchの書籍がたくさんあるので、本の内容を写しながらやってみるのも良いでしょう。 また、Scratchカードという小学校低学年向けの教材もあり、好評です。 他にもHTMLやCSSを使ってホームページをつくってみたい人向けのテキストもしくはカードもあります。
-なお、自分の作った作品を参加者に見せたい方は、プロジェクターを使って発表することもできます。
-※ CoderDojo浜松は、赤い羽根助成事業として、協賛をいただいております。
-補足事項・注意事項
-7歳～17歳までのプログラミングに興味がある方ならどなたでも参加いただけます。
-小学生以下のお子さんが参加する場合は、保護者は会場までの送迎をお願いします。
-無線LANに接続可能なノートPC、タブレットの持参をお願いします（Wi-Fi環境はこちらで用意します）。
-会場について
-南部協働センターは、南部図書館の隣です。
-南部協働センターには駐車場があります。満車の場合はハローワーク浜松の駐車場をご利用ください。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>3 min</time> : 1017)</span>【ゼロからはじめるWebデザイン】 #06 デザインスキルを磨いていく方法
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://future-tech-association.connpass.com/event/280800/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>開催日時: 2023/04/27 20:30 ～ 21:30
-開催場所: オンライン
-
-WEBデザイナーになるための基礎基本を徹底解説【全11回】
-Webデザイナーを目指しているけれど、何から始めていければいいか分からない。
-▼過去開催のアーカイブ動画はこちら
-https://www.youtube.com/@user-pe9ie4et9c  
-▼書籍「ゼロからはじめるWebデザイナー」発売中！
-https://amzn.asia/d/h0w2H66  
-【#06】デザインスキルを磨いていくには
-デザインは0から生み出すものではありません。良いインプットをたくさん勉強して、アウトプットしながらデザインの腕を磨いていくことが大事です。しかし、問題はどういうところから勉強したらいいかということですね。良いインプットとは何か、最近流行りのキャッチアップなど、今回の内容はやや主観的になりますが、できる限りキャリアアップにつながるようお話しさせていただきます。  
-【今回の内容】　※時間の都合などで変更する場合があります  
-デザインは0から生み出せない
-良いインプットと出会う方法
-ユニバーサルカラー
-たくさんアウトプットすること
-初めての方にも分かりやすいように、お話させていただきます。
-WEBデザインを学んでみたい方
-スキルアップしたい方
-新しいことを始めたい方
-など、どなたでもご参加ください！  
-シンラボとは
-『テクノロジーで社会課題を解決する』をビジョンに、エンジニア、デザイナー、ライター、イべンテーターなど、様々な人が活躍するテックコミュニティです。
-シンラボHP（入会希望もこちらから）
-https://sinlab.future-tech-association.org/  
-▼シンラボ公式LINE
-https://lin.ee/hCieVxo
-
-
-開催概要
-【日時】2023年4月27日（木） 20:30~21:30
-
-
-主催：
-黒　卓陽
-
-シンラボ　WEBデザイナー
-
-タイムスケジュール
-時間　内容
-20:30〜20:35オープニング
-20:35〜21:15講義
-21:15〜21:25質問回答コーナー
-（イベント申込時にいただいた質問に回答）
-21:25〜21:30クロージング
-
-※ 当日予告なく時間配分・内容が変更になる可能性がございます。
-
-注意事項
-・リクルーティング、勧誘など、採用目的でのイベント参加はお断りしております。</span>
                   </div>
                 </a>
               </details>
