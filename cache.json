@@ -6,6 +6,126 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "2950a0b6ffcd6c40bf724385b10af77fc2441b9d",
+          "author": "aws@amazon.com",
+          "description": "Amazon CodeGuru Security は Amazon SageMaker Studio と Jupyter Notebook のセキュリティスキャンとコード品質スキャンをサポートするようになりました。この新機能は、ノートブックユーザーがインジェクションの欠陥、データ漏えい、弱い暗号方式、ノートブックセル内の暗号化漏れなどのセキュリティ上の脆弱性を検出するのに役立ちます。また、ML ライブラリ API の誤用、実行順序の誤り、不確定性など、計算ノートブックの読みやすさ、再現性、正確性に影響する一般的な問題も数多く発見できます。ノートブックに脆弱性や品質の問題が見つかると、CodeGuru は推奨事項を生成し、ユーザーが AWS のセキュリティベストプラクティスに基づいてそれらの問題を修正できるようにします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/",
+          "publishedOn": "2023-05-29T07:52:29.000Z",
+          "wordCount": 337,
+          "title": "SageMaker Studio と Jupyter Notebook 用の Amazon CodeGuru Security プラグインがプレビュー中です",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "221033f11c7940812607671a90ae380e4e588eed",
+          "author": "aws@amazon.com",
+          "description": "本日、ナイジェリアのラゴスにある Rack Center データセンター内に新しい AWS Direct Connect ロケーションを開設しました。お使いのネットワークをこの最新のロケーションで AWS に接続すると、すべてのパブリック AWS リージョン (中国リージョンを除く)、AWS GovCloud リージョン、AWS Local Zones にプライベートで直接アクセスできます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-direct-connect-location-lagos-nigeria/",
+          "publishedOn": "2023-05-29T07:51:41.000Z",
+          "wordCount": 335,
+          "title": "ナイジェリアのラゴスに新しい AWS Direct Connect ロケーションを開設",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f4cd8d2375132b681259761139993a90f6c93194",
+          "author": "aws@amazon.com",
+          "description": "Amazon MemoryDB for Redis は、クラスターへの AWS Identity and Access Management (AWS IAM) 認証アクセスをサポートしました。今回のローンチにより、IAM ユーザーとロールを MemoryDB ユーザーに関連付けて、クラスターアクセスを管理できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-memorydb-redis-iam-authentication/",
+          "publishedOn": "2023-05-29T07:50:52.000Z",
+          "wordCount": 342,
+          "title": "Amazon MemoryDB for Redis が IAM 認証のサポートを開始",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "f562167f64a4d0599fac66920e020e1af5385d7b",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Studio ノートブックとノートブックインスタンスは、 ml.p4d と ml.p4de の GPU ベースのインスタンスをサポートするようになりました。これにより、数十億のパラメータを持つ大規模言語モデル、自然言語処理、オブジェクトの検出と分類、地震分析、ゲノミクス研究などのアプリケーションのクラウドでのインタラクティブな機械学習 (ML) ワークロードに最適なパフォーマンスが得られます。このインスタンスは、最新の Intel® Cascade Lake プロセッサと 8 つの NVIDIA A100 Tensor Core GPU を搭載しています。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-sagemaker-notebooks-ml-p4d-ml-p4de-ml-inf1-instances/",
+          "publishedOn": "2023-05-29T07:45:58.000Z",
+          "wordCount": 350,
+          "title": "Amazon SageMaker ノートブックが ml.p4d、ml.p4de、ml.inf1 インスタンスをサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "49513ac7be2496aba60252a0144920039b64ec43",
+          "author": "aws@amazon.com",
+          "description": "AWS Graviton2 プロセッサを搭載した Amazon Elastic Compute Cloud (EC2) I4g ストレージ最適化インスタンスの一般提供を開始しました。I4g インスタンスのコンピューティングの料金パフォーマンスは、同等の x86 ベースのストレージ最適化インスタンスよりも優れており、ストレージ最適化インスタンスとしては最高です。Graviton ベースのストレージインスタンスとしても、TB あたりのストレージパフォーマンスが最高です。I4g インスタンスは、AWS がカスタムビルドし、レイテンシーおよびその変動性を低減する AWS Nitro SSD をベースとしています。そして、ランダムな読み取り/書き込みを多用し、きわめて低い I/O レイテンシーを必要とするワークロードに最適化されています。したがって、トランザクションデータベース (Amazon DynamoDB、MySQL、PostgreSQL) や、Apache Spark といったリアルタイム分析などに役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/",
+          "publishedOn": "2023-05-29T07:41:40.000Z",
+          "wordCount": 358,
+          "title": "Amazon EC2 I4g ストレージ最適化インスタンスをリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "de1b8558a6f876878db3bc548ffab0e12af66b1f",
+          "author": "aws@amazon.com",
+          "description": "AWS CloudTrail Lake は、監査、セキュリティ調査、運用上のトラブルシューティングのために監査およびセキュリティログを集約、変更不能に保存、クエリできるマネージド型データレイクです。この度、Presto SQL SELECT クエリ機能をすべてサポートし、データのクエリを簡単かつ柔軟に行えるようになりました。この新しいリリースには、特定の S3 バケットプレフィックスに対して行われたすべての S3 リクエストを検索するなどの高度なパターンマッチングを行う REGEXP_EXTRACT や、リソースなどの配列を ResourceType などのオブジェクトに対してクエリする UNNEST など、よく使用されるクエリ関数のサポートが含まれています。今回のリリースにより、クエリ内にコメントを追加して読みやすくすることも出来るようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-cloudtrail-lake-query-presto-sql-select-functions/",
+          "publishedOn": "2023-05-29T07:40:52.000Z",
+          "wordCount": 317,
+          "title": "AWS CloudTrail Lake がすべての Presto SQL SELECT 関数のクエリサポートを強化",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7d3999b4fcf70b4533584e92bf3fb3e7136f6836",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は AWS マネジメントコンソールのプライベートアクセスの一般提供を発表しました。プライベートアクセスは、お客様が仮想プライベートクラウド (VPC) または接続されたネットワークから AWS マネジメントコンソールへのアクセスを、信頼できる AWS アカウントや組織に限定できるようにする新しいセキュリティ機能です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-management-console-private-access/",
+          "publishedOn": "2023-05-29T07:29:50.000Z",
+          "wordCount": 313,
+          "title": "AWS マネジメントコンソールへのプライベートアクセスが一般公開されました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "97a03536946cbc6aa23b24ce7ef9b36308273483",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Canvas で構築された機械学習 (ML) モデルを SageMaker Model Registry にワンクリックで登録できるようになり、ML モデルを本番環境で運用できるようになりました。SageMaker Canvas はビジュアルインターフェイスです。ビジネスアナリストは ML の使用経験がなくても、あるいはコードを 1 行も書かなくても、正確な ML 予測を自分で生成できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/",
+          "publishedOn": "2023-05-29T07:29:02.000Z",
+          "wordCount": 337,
+          "title": "Amazon SageMaker Canvas が本番環境で ML モデルを運用できるようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c0cc2c929390b9a5fb921b42524b40657aab1e4f",
+          "author": "aws@amazon.com",
+          "description": "Application Manager は AWS Systems Manager の機能の 1 つであり、DevOps エンジニアがアプリケーションのコンテキストで問題を調査し、修復するのに役立ちます。今回、アプリケーションに関連するコンピューティングリソースのコストを最適化できるようになりました。Application Manager でアプリケーションのコストを確認できるほか、インスタンスの適切なサイズ設定などの推奨アクションを実行してコストを節約できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-systems-manager-optimize-compute-costs-applications/",
+          "publishedOn": "2023-05-29T07:28:15.000Z",
+          "wordCount": 316,
+          "title": "AWS Systems Manager がアプリケーションのコンピューティングコストの最適化をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c2138c4a188643fdee5b03c68a7a123311da5a02",
+          "author": "aws@amazon.com",
+          "description": "Amazon MemoryDB for Redis が Redis 7 のサポートを開始しました。このリリースで、MemoryDB に以下の新機能が追加されました。\n \n \n \nRedis Functions: MemoryDB は Redis Functions をサポートして、デベロッパーにマネージド型体験を提供します。つまり、アプリケーションロジックを MemoryDB クラスターに永続的に保存して、LUA スクリプトを実行できます。\n \n \nACL の改善: MemoryDB は、Redis アクセスコントロールリスト (ACL) の新バージョンをサポートしました。MemoryDB により、クライアントは Redis 特有のキーまたはキースペースで複数のアクセス許可セットを指定できます。\n \n \nSharded Pub/Sub: MemoryDB で、Redis の Pub/Sub 機能をシャード方式で実行できるようになりました。MemoryDB ではチャネルが MemoryDB クラスターのシャードにバインドされるため、シャード間でチャネル情報を伝播する必要がありません。その結果、スケーラビリティが向上します。\n \n \nI/O 多重化機能の強化: MemoryDB の I/O 多重化機能が強化されました。大規模環境でのスループットとレイテンシーが著しく向上します。例えば、r6g.4xlarge ノードを使用して 5200 のクライアントを同時に実行した場合、MemoryDB for Redis 6 と比較して、スループット (1 秒あたりの読み取りおよび書き込みオペレーション) が最大 46% 向上し、P99 レイテンシーが最大 21% 減少します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-memorydb-support-redis-7/",
+          "publishedOn": "2023-05-29T07:27:28.000Z",
+          "wordCount": 359,
+          "title": "Amazon MemoryDB for Redis が Redis 7 を新たにサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "c2b28c61cea70d888cfda946b85edc0ffd1cd60e",
+          "author": "aws@amazon.com",
+          "description": "本日より、AWS は Cedar ポリシー言語と認証エンジンをオープンソース化しました。Cedar を使用すると、アプリケーションに適用される権限をわかりやすいポリシーとしてきめ細かく表現できます。また、アクセス制御をアプリケーションロジックから切り離すことができます。Cedar は、ロールベースのアクセス制御や属性ベースのアクセス制御などの一般的な認証モデルをサポートしています。Cedar の正確性とセキュリティについて高い保証を提供する新しい検証ガイド付き開発プロセスを採用しています。これにより AWS は Cedar の認証エンジンやその他のツールを正式にモデル化し、自動推論を使用するそれらの安全性と正確性を証明し、モデルが Rust の実装と一致することを厳密にテストします。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/cedar-open-source-language-access-control/",
+          "publishedOn": "2023-05-29T07:26:40.000Z",
+          "wordCount": 328,
+          "title": "アクセス制御用のオープンソース言語 Cedar の紹介",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "efd4c0b2b69dc90c6599ed177be0934216a20cf2",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon SageMaker Serverless Inference で、プロビジョニングされた同時実行機能の一般提供が開始されました。プロビジョニングされた同時実行を使用すると、予測可能なパフォーマンスと高いスケーラビリティを備えたモデルをサーバーレスエンドポイントにデプロイできます。プロビジョニングされた同時実行をサーバーレスエンドポイントに追加すると、SageMaker はエンドポイントを、事前に定義された量の同時実行リクエストに即応できる状態に保ちます。プロビジョニングされた同時実行は、トラフィックが予測可能でスループットが低いお客様に最適です。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/",
+          "publishedOn": "2023-05-29T07:25:52.000Z",
+          "wordCount": 310,
+          "title": "Amazon SageMaker Serverless Inference 用のプロビジョニングされた同時実行をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "3057e234979c133d13da55a526ca13a0b6d6dda5",
           "author": "aws@amazon.com",
           "description": "AWS IoT Device Defender と、AWS IoT Device Management のセキュアトンネリング機能が、AWS 中東 (UAE) リージョンで一般提供を開始しました。これにより、お客様に柔軟性を提供し、サービスの提供範囲を AWS 中東 (バーレーン) リージョン以外の中東地域に拡大します。",
@@ -4340,6 +4460,16 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://c3f.connpass.com/event/285361/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/17 13:00 ～ 19:00<br />開催場所: 東京都港区海岸１丁目７−１<br /><br /><p><br></p>\n<h2>今回のテーマ</h2>\n<h2>【Web3開発者向け】リアル交流会＆もくもく会 #6 (6/17)の開催 （東京竹芝にて開催）</h2>\n<h2>背景</h2>\n<p>C3Fコミュニティでは、Web3開発者がリアルに集まり各々が作業や議論ができるイベントを開催しています。\n前回の第5回目は、2023年5月20日（土）、「【Web3.0開発者向け】リアル交流会#5（5/20）」を、iU(情報経営イノベーション専門職大学)竹芝サテライトオフィスにて 開催 いたしました。\n今回は、2023年6月17日（土）に「【Web3.0開発者向け】リアル交流会#6（6/17）」を行います。 </p>\n<p>C3Fでは、Web3.0アプリケーション開発に関する、開発者コミュニティを形成しています。Internet Computer Protocol（ICP）の分散クラウド開発基盤（Canister）をベースとして、いかにしてWeb3.0開発を行なっていくかを試行錯誤しています。C3Fでは開発者ドリブンなコミュニティを形成しています。今回の交流会参加者のうち何名かは、C3Fが5月にスタートしたICP開発コミュニティメンバーです。\n<br></p>\n<h2>これからの活動</h2>\n<p>～ICP開発コミュニティを開始～\nC3Fは、今後Web3.0インキュベーション環境創造に向けて、Rust等の開発者、Web開発者がWeb3.0開発に参入し、ICP開発をチームになって開発/勉強をスタートするコミュニティを開始しました。\nInternet Computer Protocol（ICP）の分散クラウド開発基盤（Canister）をベースとして、いかにしてWeb3.0開発を行なっていくかを試行錯誤しています。※なぜWeb3.0アプリケーション開発に、Internet Computerに着目しているかは、\nこちらのページで記載する特徴 を参照ください。\n<a href=\"https://www.c3f-iu-university.com/dfinity\" rel=\"nofollow\">https://www.c3f-iu-university.com/dfinity</a></p>\n<p><br>\n～ロードマップ～</p>\n<p>日本でのIC開発者(Web3.0開発者)人口の増加に寄与し、グローバルへ\n<br>\n<br>2022年7月：C3Fコミュニティスタート<br>\n2022年8月：1st Meetupの開催（Internet Computer/Dfinity）<br>\n2022年8月：IC研究まとめサイトのローンチ<br>\n2022年9月：Web2とWeb3を繋ぐ「NFID」(分散統合ID) 勉強会<br>\n2022年10月：ICの「Web3.0ユースケース」の最先端勉強会<br>\n2023年1月：Web3.0の共同開発PoCのプレスリリース<br>\n2023年2月〜：月1で開発者交流会を実施中<br>\n2023年5月〜：ICP開発者コミュニティを再ローンチ（第一陣募集）<br>\n2023年6月下旬：簡単なWeb3.0アプリをICPで作ってみた感想等ライブ配信（第一陣）予定<br>\n2023年6月下旬：第一陣とC3Fで途中経過発信＋第二陣募集開始<br>\n2023年8月：ICP Meetup Japanで発表<br>\n<br></p>\n<p><br>\n（ICP開発コミュニティについてはこちら）<br>\n<a href=\"https://www.c3f-iu-university.com/icp-dev-community\" rel=\"nofollow\">https://www.c3f-iu-university.com/icp-dev-community</a></p>\n<p><img src=\"https://static.wixstatic.com/media/419337_6fa1c7c10b8d4364956ab107ca62628a~mv2.jpg/v1/fill/w_1120,h_630,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/419337_6fa1c7c10b8d4364956ab107ca62628a~mv2.jpg\" width=\"350px\"></p>\n\n<p>C3Fは、今後Web3.0インキュベーション環境創造に向けて、Rust等の開発者、Web開発者がWeb3.0開発に参入できるように開発者コラボレーティブな環境構築を行っていきます。</p>\n<p>今後は、マルチチェーン、Web2-Web3ダイレクトインターオペラビリティ、統合型分散ID等を活かしたプロダクトが制作可能なポテンシャルのある技術に注目し、R&amp;Dに注力し共創環境を整えていきます。そういった活軸になる、リアル交流会/もくもく会を月1回~ほど開催していく予定です。</p>\n<p><br></p>\n<p><br><br>\n【過去の開催例】<br>\n・「<a href=\"https://www.c3f-iu-university.com/post/web3developercommunity-meetup5\" rel=\"nofollow\">【Web3開発者向け】 リアル交流会 #5 (5/20) の開催</a>」<br>\n・「<a href=\"https://www.c3f-iu-university.com/post/web3developercommunity-meetup4\" rel=\"nofollow\">【Web3開発者向け】 リアル交流会 #4 (4/22) の開催</a>」<br>\n・「<a href=\"https://www.c3f-iu-university.com/post/web3developercommunity-meetup3\" rel=\"nofollow\">【Web3開発者向け】 リアル交流会 #3 (4/9) の開催</a>」<br>\n・「<a href=\"https://www.c3f-iu-university.com/post/web3developercommunity-meetup2\" rel=\"nofollow\">【Web3開発者向け】 リアル交流会 #2 (3/25) の開催</a>」<br>\n・「<a href=\"https://www.c3f-iu-university.com/post/web3developercommunity-meetup\" rel=\"nofollow\">【Web3開発者向け】 リアル交流会 #1 (2/25) の開催</a>」<br>\n・「<a href=\"https://youtu.be/DipV51G9D5M\" rel=\"nofollow\">ICの「Web3.0ユースケース」の最先端と今後 #1 ～分散クラウドで実現する”オープンweb”に向けて～</a>」<br>\netc<br><br>\n※私たちがなぜ、Dfinity / Internet Computerに着目しているかは、<br>\nこちらの資料：<a href=\"https://speakerdeck.com/showyingart/web3-dot-0falsehurontoendoji-pan-tonariuru-internet-computer-falsenituite\" rel=\"nofollow\">Web3.0のフロントエンド基盤となりうる『Internet Computer』のについて</a> を参考<br><br></p>\n<h2>Internet computerによるWeb3.0開発の特徴</h2>\n<p>Internet Computerでは、Web3.0開発（バックエンド：Rust or Motoko / Python to Rust (Tool) 等からのWASM実装、フロントエンド：Next.js/React / 他）※Solidityのようなブロックチェーン独自言語でなくてもWeb3.0開発が可能になります。\nInternet Computerは、「スマートコントラクト(script)＋データ(分散クラウド)」がセットとなるキャニスター(Canister)にコードをデプロイするだけで簡単に構築可能です。</p>\n<p>&lt;詳細&gt;（ <a href=\"https://wiki.internetcomputer.org/wiki/Canister_smart_contract\" rel=\"nofollow\">https://wiki.internetcomputer.org/wiki/Canister_smart_contract</a> ）</p>\n<p>また、キャニスター(Canister)がキャニスター(Canister)を作成する技術的発展ができることも交流会中に明らかになりました。コントラクトがコントラクトを生み出すことができる。こういった特徴はInternetcomputerの特徴でもあります。アプリケーションそのものが入れ子構造のように増殖することができ、ネットワーク構造連鎖的な引継ぎも可能になってくるのでは？といった非常に先端技術な問いも明らかになってきました。</p>\n<p><br></p>\n<h2>開発者ドリブンのコミュニティ形成</h2>\n<p>C3Fは、今後Web3.0インキュベーション環境創造に向けて、Rust等の開発者、Web開発者がWeb3.0開発に参入できるように開発者コラボレーティブな環境構築を行っていきます。</p>\n<p>＜web3プロダクトのPoC開発プレリリース内容＞( <a href=\"https://prtimes.jp/main/html/rd/p/000000147.000061260.html\" rel=\"nofollow\">https://prtimes.jp/main/html/rd/p/000000147.000061260.html</a> )</p>\n<p>今後は、マルチチェーン、Web2-Web3ダイレクトインターオペラビリティ、統合型分散ID等を活かしたプロダクトが制作可能なポテンシャルのある技術に注目し、R&amp;Dに注力し共創環境を整えていきます。そういった活軸になる、リアル交流会/もくもく会を月1回~ほど開催していく予定です。\n<br><br></p>\n<h2>今回の概要</h2>\n<p><b>【Web3開発者向け】 リアル交流会＆もくもく会 #6 (6/17) の開催<br></b></p><b>\n<h1>当日タイムライン内容</h1>\n<p>-13:00~集合<br>\n-13:10~会場案内<br>\n-13:15~自己紹介<br>\n-13:20~交流会（開発に関する意見交換など）<br>\n-15:00~もくもく会＆そのまま交流（そのまま作業でもOKです）<br>\n- 19:00会場終了<br>\n※ 途中退席、途中参加自由です。</p>\n<h1>対象の方</h1>\n<p>■ 具体的に今後Web3.0のアプリケーションを開発していきたい「エンジニア」の方<br>\n■ 具体的に今後Internetcomputerでの開発を検討しているエンジニアの方<br>\n■ その他、本内容に関心のある方<br>\netc<br><br></p>\n<h1>開発者の方へ（問合せ / 興味等）</h1>\n<p>参加申込を頂けた方には、最大人数に達するか、前日までに当日参加者向けのdiscordチャネルに招待いたします。</p>\n<p>※ まだ、C3Fのdisocordに参加されていない方は <a href=\"https://www.c3f-iu-university.com/contact\" rel=\"nofollow\">https://www.c3f-iu-university.com/contact</a> のページよりご参加ください。\nまた詳細などは随時公式Twitterにて発信いたします。\n（<a href=\"https://twitter.com/c3f_iu\" rel=\"nofollow\">https://twitter.com/c3f_iu</a> ）</p>\n<h1>日時</h1>\n<p>2023年6月17日(土)13:00~19:00 ※リアル参加のみ （途中参加、途中退席自由）</p>\n<h1>会場</h1>\n<ul>\n<li>iU 竹芝サテライトオフィス(東京ポートシティ竹芝オフィスタワー8F)</li>\n</ul>\n<p>※開催前日までに、参加者にConnpassのメッセージ経由で参加方法についてご案内いたします。</p>\n<h1>Web3.0開発者募集 (応募) は こちら からお待ちしております</h1>\n<p>〜〜〜\nWeb3.0 PoCプロダクト共創開発者募集【産学研究「C3F」】\n（<a href=\"https://bit.ly/3FCqP8n\" rel=\"nofollow\">https://bit.ly/3FCqP8n</a> ）\n〜〜〜</p>\n<h2>主催者</h2>\n<h5>モデレーター：Sho T（高橋 翔）氏</h5>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/Sho-Takahashi-Profile_New.jpg\" width=\"150px\"></p>\n<p>iU 情報経営イノベーション専門職大学 客員教授<br>\n（産学研究PJ「C3F」Founder）<br>\n一般社団法人NoCoders Japan協会　代表理事<br>\n株式会社プレスマン CINO（Chief Innovation Officer）<br>\nFuturistコミュニティ Founder<br>\n<br>\nHP：<a href=\"https://www.sho-takahashi.com/\" rel=\"nofollow\">https://www.sho-takahashi.com/</a><br>\nTwitter：<a href=\"https://twitter.com/showying_art\" rel=\"nofollow\">https://twitter.com/showying_art</a><br></p>\n<h5>モデレーター：Hayato氏</h5>\n<p><img src=\"https://pbs.twimg.com/profile_images/1603188897231474688/draZb3rQ_400x400.jpg\" width=\"150px\"></p>\n<p>C3F ファウンダー/コミュニティマネージャー<br></p>\n<p><br>\nTwitter：[<a href=\"https://twitter.com/tkhs_hyt)<br>\" rel=\"nofollow\">https://twitter.com/tkhs_hyt)<br></a></p>\n<h1>主催</h1>\n<h3>主催</h3>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/C3F（円）.png\" width=\"150px\"></p>\n<p><b>産学研究PJ『C3F』@iU 情報経営イノベーション専門職大学</b><br>\niU 情報経営イノベーション専門職大学の産学研究プロジェクト『C3F』です。産学を主体として実施していきます。ノーコード/メタバース/Web3.0を活用したカルチャー＆インキュベーションを実施。特に2022年〜2023年は「Dfinity / Internet Computer」を主軸としたWeb3.0のスタートアップインキュベーション環境のカルチャー醸成を実施予定。<br>\n「Creating Cultures, Connecting Futures（カルチャーを創り、未来に接続する）」を掲げる。<br>\nHP：<a href=\"https://www.c3f-iu-university.com/\" rel=\"nofollow\">https://www.c3f-iu-university.com/</a><br>\nTwitter：<a href=\"https://twitter.com/c3f_iu\" rel=\"nofollow\">https://twitter.com/c3f_iu</a><br>\nまとめサイト：<a href=\"https://dfinity-c3f.softr.app/\" rel=\"nofollow\">https://dfinity-c3f.softr.app/</a><br></p>\n<p><br></p>\n<h3>オープンイノベーション・パートナー</h3>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/sundredロゴ.png\" width=\"120px\"></p>\n<p><b><a href=\"https://sundred.co.jp/\" rel=\"nofollow\">SUNDRED株式会社</a></b><br></p>\n<p><br></p>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/NoCoders-Japan新ロゴ.jpg\" width=\"120px\"></p>\n<p><b><a href=\"https://no-coders-japan.org/\" rel=\"nofollow\">一般社団法人NoCoders Japan協会</a></b><br></p>\n<p><br></p>\n<h3>技術アドバイザリー</h3>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/Dfinity-JP.png\" width=\"100px\"></p>\n<p><b><a href=\"https://twitter.com/dfinityjpn\" rel=\"nofollow\">Dfinity JP</a></b><br></p>\n<p><br></p>\n<h3>運営・プロデュース・パートナー</h3>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/GadgeTanker.jpeg\" width=\"100px\"></p>\n<p><b><a href=\"https://www.gadgetanker.com/home\" rel=\"nofollow\">合同会社GadgeTanker</a></b><br></p>\n<p><br></p>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/iU-情報経営イノベーション専門職大学.png\" width=\"120px\"></p>\n<p><b><a href=\"https://www.i-u.ac.jp/\" rel=\"nofollow\">iU 情報経営イノベーション専門職大学</a></b><br>\n<br></p>\n<p><br></p>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/プレスマンロゴ.png\" width=\"120px\"></p>\n<p><b><a href=\"https://www.pressman.ne.jp/\" rel=\"nofollow\">株式会社プレスマン</a></b><br></p>\n<p><br></p>\n<h3>コミュニティ・パートナー</h3>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2021/11/Futuristライト.png\" width=\"120px\"></p>\n<p><b><a href=\"http://futurist.cross-community.net/\" rel=\"nofollow\">Futurist（フューチャリスト）コミュニティ</a></b><br></p>\n<p><br></p>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/Robloxで世界を創ろう！.jpg\" width=\"100px\"></p>\n<p><b><a href=\"https://roblox-community-japan.softr.app/\" rel=\"nofollow\">Robloxで世界を創ろう！コミュニティ</a></b><br></p>\n<p><br></p>\n<p><img src=\"http://futurist.cross-community.net/wp-content/uploads/2022/06/バーチャル街づくり連合ロゴ.png\" width=\"120px\"></p>\n<p>​<b><a href=\"https://team.expo2025.or.jp/ja/challenge/506\" rel=\"nofollow\">バーチャル街づくり連合</a></b><br></p>\n<p><br></p>\n<h1>注意事項</h1>\n<ul>\n<li>領収書の発行はしておりません。</li>\n<li>イベント内容・およびタイムテーブルは予告なく変更となる場合があります。予めご了承ください。</li>\n<li>会場の設備、備品を汚損、破損、または紛失された場合はその損害を賠償していただきます。</li>\n<li>貴重品の管理は各自でお願いいたします。万一盗難・紛失等の事故が発生しても、主催者では一切責任を負いません。</li>\n<li>本イベントでは、主宰等によりイベントの様子を写真・動画等で撮影させていただく場合がございます。撮影された写真・動画などは、各メディアでの掲載の可能性がある他、Twitter等のSNSへ配信いたします。映り込みなどされる可能性がございますので、あらかじめご了承くださいませ。</li>\n</ul>\n<p>※スムーズな運営・進行のため、以下に該当する方はご参加をお断りする場合がございます。</p>\n<ul>\n<li>本イベント内でのリクルーティング活動が目的と見られる方</li>\n<li>保険、投資用不動産、宗教、ネットワークビジネスの勧誘が目的と見られる方</li>\n</ul></b>",
+          "link": "https://c3f.connpass.com/event/285361/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-29T06:47:41.000Z",
+          "wordCount": 1485,
+          "title": "【Web3開発者向け】リアル交流会＆もくもく会 #6 (6/17)の開催",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ca/43/ca43d673c4c22787280e2c1d90a65b53.png"
+        },
         {
           "id": "https://rakus.connpass.com/event/285602/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
