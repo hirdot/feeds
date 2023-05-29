@@ -6,6 +6,116 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "3057e234979c133d13da55a526ca13a0b6d6dda5",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT Device Defender と、AWS IoT Device Management のセキュアトンネリング機能が、AWS 中東 (UAE) リージョンで一般提供を開始しました。これにより、お客様に柔軟性を提供し、サービスの提供範囲を AWS 中東 (バーレーン) リージョン以外の中東地域に拡大します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-iot-device-defender-secure-tunneling-uae-region/",
+          "publishedOn": "2023-05-29T04:10:52.000Z",
+          "wordCount": 346,
+          "title": "AWS IoT Device Defender とセキュアトンネリングが中東 (UAE) リージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "894b486c62d32790d1193936e82a8d4cf20920ba",
+          "author": "aws@amazon.com",
+          "description": "AWS Network Firewall の ngress Transport Layer Security (TLS) 検査は、AWS GovCloud (米国) リージョンを含む、現在 AWS Network Firewall が利用可能なすべての AWS リージョンで利用可能になりました。今回のローンチにより、AWS Network Firewall を使用して、インターネット、別の VPC、または別のサブネットから送信される TLS トラフィックを復号化、検査、および再暗号化できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-network-firewall-ingress-tls-inspection-all-regions/",
+          "publishedOn": "2023-05-29T04:07:55.000Z",
+          "wordCount": 333,
+          "title": "AWS Network Firewall の受信 TLS 検査が新たにすべてのリージョンで利用可能に",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "162404ffec149861d0af29420631713e4b088eef",
+          "author": "aws@amazon.com",
+          "description": "Amazon Simple Notification Service (Amazon SNS) では、未確認のサブスクリプションが 48 時間確認保留状態になった後、そのサブスクリプションを自動的に削除できるようになりました。これにより、過去 72 時間の未確認のサブスクリプションを削除する時間が短縮されます。これはすべての新規サブスクリプションに適用され、オンボーディングは必要ありません。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-sns-automatic-deletion-unconfirmed-subscriptions/",
+          "publishedOn": "2023-05-29T04:07:08.000Z",
+          "wordCount": 344,
+          "title": "Amazon SNS が未確認のサブスクリプションの高速自動削除をサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "75e3a76b2451ba135bf03a96d533b91b3f814d22",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS IoT SiteWise は、ホットストレージ階層からの産業用データの取得を大幅に改善する新しいパフォーマンスの強化を発表しました。GetAssetPropertyValueHistory と BatchGetAssetPropertyValueHistory API が改善され、ページ分割された各応答の結果の最大数が 250 件から 20,000 件に増加しました。  これらのアップグレードにより、開発者は測定値、属性、指標、変換などの資産プロパティデータを高速に取得して、産業用アプリケーションを構築できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-iot-sitewise-optimized-storage-hot-path-data/",
+          "publishedOn": "2023-05-29T04:06:21.000Z",
+          "wordCount": 321,
+          "title": "AWS IoT SiteWise はホットパスデータのストレージを最適化してスループットを向上させます",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "aadd0e093a89df6a64880b033339d2f0a4f34e95",
+          "author": "aws@amazon.com",
+          "description": "AWS X-Ray を使用して、Lambda SnapStart に対応している Lambda 関数をトレースおよび分析できるようになりました。X-Ray トレースを使用すると、関数のパフォーマンスと実行ライフサイクルをより詳細に把握できます。SnapStart 対応関数を使用して構築された、レイテンシーの影響を受けやすい Java アプリケーションのエラーやパフォーマンスのボトルネックを特定できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/",
+          "publishedOn": "2023-05-29T04:05:35.000Z",
+          "wordCount": 343,
+          "title": "AWS Lambda が SnapStart 対応関数の AWS X-Ray トレースをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "0eb150e9fda32c79cdb92420cf6977d10fcca80f",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS は、最も要求の厳しいサーバーレスデータ統合ワークロード向けの AWS Glue ワーカーの次のシリーズである AWS Glue G.4X と G.8X の一般提供を発表しました。Glue G.4X および G.8X ワーカーは、現在の Glue ワーカーよりも高いコンピューティング、メモリ、およびストレージリソースを提供します。これらの新しいタイプのワーカーは、メモリを大量に消費するデータ変換、偏った集約、機械学習変換、ペタバイトのデータによるエンティティ検出チェックなど、最も要求の厳しいデータ統合ワークロードのスケーリングと実行に役立ちます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-glue-large-instance-types-generally-available/",
+          "publishedOn": "2023-05-29T04:04:47.000Z",
+          "wordCount": 342,
+          "title": "AWS Glue のラージインスタンスタイプが一般公開されました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "7a387d57212328babb2fb8f5bc96cb1b0c42ff08",
+          "author": "aws@amazon.com",
+          "description": "AWS Backup は本日、AWS User Notifications コンソールを使用したバックアップ通知の管理をサポートしました。AWS Backup は、AWS のサービスやハイブリッドワークロードのデータ保護を一元化して自動化するフルマネージドサービスです。今回のローンチで、AWS Backup に関連する通知を 1 か所で簡単に設定、モニタリング、管理できるようになりました。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-backup-aws-user-notifications/",
+          "publishedOn": "2023-05-29T04:04:01.000Z",
+          "wordCount": 352,
+          "title": "AWS Backup が AWS User Notifications をサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "85862e99980e45563605e186fffabeeeb480013f",
+          "author": "aws@amazon.com",
+          "description": "Amazon SageMaker Autopilot はローコードの機械学習 (ML) サービスであり、最適な ML モデルを自動的に構築、トレーニング、調整できます。今回、アンサンブルモードでの加重目標メトリクスを使用したトレーニングと、新しい 8 つの目標メトリクスをサポートしました。トレーニングデータセットの各データサンプルに加重を割り当てると、モデル全体のパフォーマンスが向上します。つまり、モデルの学習能力が向上し、特定のクラスへのバイアスが減少し、安定性が向上します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/sagemaker-autopilot-training-ml-models-weights-eight-objective-metrics/",
+          "publishedOn": "2023-05-29T04:03:14.000Z",
+          "wordCount": 314,
+          "title": "SageMaker Autopilot での ML モデルトレーニングで加重と 8 つの追加目標メトリクスをサポート",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "987b8af53ae74057fa4386941c8984fdbe6b7f4b",
+          "author": "aws@amazon.com",
+          "description": "Amazon CloudFront コンソールをワンクリックするだけで、ウェブアプリケーションと API を AWS WAF で保護できるようになりました。CloudFront は一般的なウェブの脅威に対する防御の最前線として、AWS WAF 保護をすぐに作成および設定し、アプリケーションを守ります。必要に応じて、ボットや不正といったアプリケーション特有の脅威に対するセキュリティ保護を、AWS WAF コンソールで後から追加設定できます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-cloudfront-one-click-security-protections/",
+          "publishedOn": "2023-05-29T04:02:27.000Z",
+          "wordCount": 335,
+          "title": "Amazon CloudFront がワンクリックセキュリティ保護をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "8dd4500aeaf0178d7dffe86f6c9ec9072c2544f5",
+          "author": "aws@amazon.com",
+          "description": "AWS IoT SiteWise では、集計された資産プロパティ値を 15 分ごとに自動的に計算する機能がお客様に提供されるようになりました。お客様は、資産プロパティ、メトリクス、トランスフォーム (資産プロパティのデータポイントをあるフォームから別のフォームにマッピングする数式) の集計値を分、15分、時間、および日ごとに取得できるようになりました。AWS IoT SiteWise は、平均、カウント、最大値、最小値、標準偏差、合計など、一般的に使用される統計集計を複数の時間間隔で計算します。お客様は、データストリームをマッピングし、静的または計算された機器とプロセスのプロパティをすべての施設で定義して、分析のために即時に利用することが可能です。文字列やブール値などの数値以外のプロパティの場合、AWS IoT SiteWise はカウント集計のみを計算します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-iot-sitewise-15-minute-intervals/",
+          "publishedOn": "2023-05-29T04:01:40.000Z",
+          "wordCount": 334,
+          "title": "AWS IoT SiteWise では、集計された資産プロパティ値の自動計算を 15 分間隔でサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "1b2e3d1f43f468bf5ab4cf4c80e1266b8e0014c9",
+          "author": "aws@amazon.com",
+          "description": "本日、AWS はジョージア州アトランタの QTS アトランタ DC1 データセンター内に新しい AWS Direct Connect ロケーションを開設することを発表しました。お使いのネットワークをこの最新のロケーションで AWS に接続すると、すべてのパブリック AWS リージョン (中国リージョンを除く)、AWS GovCloud リージョン、AWS Local Zones にプライベートで直接アクセスすることができます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-direct-connect-atlanta-georgia/",
+          "publishedOn": "2023-05-29T04:00:52.000Z",
+          "wordCount": 345,
+          "title": "AWS がジョージア州アトランタで新しい AWS Direct を発表",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "602f7369a7a199ee7eea794464530acac874b0bb",
           "author": "aws@amazon.com",
           "description": "Amazon QuickSight は、非集計データの視覚化のサポート、新しい「ラベル」のフィールドウェル、パフォーマンスの向上など、新しいオプションを追加しました。これにより、散布図の高度なユースケースをサポートします。",
@@ -4230,6 +4340,56 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://asulever.connpass.com/event/285617/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/04 13:00 ～ 17:00<br />開催場所: 東京都渋谷区桜丘町18-4 二宮ビル 1F<br /><br /><h2>イベントについて</h2>\n<p>渋谷の貸し会議室に集まって、もくもく・おしゃべりする会です。<br>\nもくもくするテーマは自由です。<br>\n受託開発・自社プロダクト運営会社のCTOや現役ITエンジニアが参加しておりますので、初学者や微経験者の方で困ったことがある場合はサポート可能です！</p>\n<p>一人だとサボってしまう、自宅だと集中できない！という方は一緒にもくもくしましょう！<br>\n途中参加、途中退出、ちょっと抜けてまた戻ってくる、などなど自由です。<br>\nゆるくやっているので、お気軽にご参加ください。</p>\n<h2>対象者</h2>\n<ul>\n<li>ITエンジニアを目指して勉強中の方</li>\n<li>ITエンジニアとして仕事をされている方</li>\n<li>一緒に勉強する仲間が欲しい方</li>\n<li>学習やキャリアについて相談したい方</li>\n</ul>\n<h2>開催概要</h2>\n<ul>\n<li>日時：2023/6/4 (日)</li>\n<li>時間：13:00 - 17:00 (途中入退出可)</li>\n<li>会場：オフライン開催(東京都渋谷駅周辺)</li>\n<li>参加費：500円(会場代)</li>\n</ul>\n<h2>タイムテーブル</h2>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>13:00〜13:15</td>\n<td>自己紹介・もくもくすること共有</td>\n</tr>\n<tr>\n<td>13:15〜15:00</td>\n<td>もくもく①</td>\n</tr>\n<tr>\n<td>15:00〜15:30</td>\n<td>休憩・おしゃべりタイム</td>\n</tr>\n<tr>\n<td>15:30〜16:45</td>\n<td>もくもく②</td>\n</tr>\n<tr>\n<td>16:45〜17:00</td>\n<td>もくもく結果共有・ 解散</td>\n</tr>\n</tbody>\n</table>\n<p>※途中入退出可能です。</p>\n<h2>持ち物</h2>\n<ul>\n<li>会場費(500円)</li>\n<li>各自もくもくに必要なもの(PC、書籍など）</li>\n<li>飲食物(においが強くないもの)</li>\n<li>マスク</li>\n</ul>\n<h2>主催者情報</h2>\n<p><img src=\"http://drive.google.com/uc?export=view&amp;id=1aV3eSbONkCJO9ghock3OjH83jKV99s-4\" width=\"120\"></p>\n<p>新卒で野村総合研究所に入社し、5年ほどtoCのWEBシステム開発を行っていました。<br>\nその後起業したり、フリーランスのSEとして3年ほど活動しました。<br>\n現在は株式会社アスレバの共同創業者・CTOとして、自社プロダクトの開発運営や、システムの受託開発を行ってます。</p>\n<p>「プログラミングの勉強をどう進めればよいかわからない」<br>\n「勉強でつまっているところがある」<br>\n「キャリアについて話したい」<br>\nなど、お困りのことがあればお気軽にご相談ください。<br>\n可能な限りサポートできればと思います！</p>\n<p>よく使う技術: Rails, Django, Angular, react, vue, ionic, Capacitor, AWS, GCP<br>\ntwitter: <a href=\"https://twitter.com/okudakkuma\" rel=\"nofollow\">@okudakkuma</a></p>\n<h2>連絡事項・注意事項</h2>\n<ul>\n<li>当日会場に入室するためにはQRコードが必要です。予約完了後に共有いたします。</li>\n<li>当日/直前の不参加の場合でも、必ず connpass にてキャンセル連絡をお願いいたします。</li>\n</ul>\n<h2>禁止事項</h2>\n<p>下記ルールをお守りいただけない方は、参加をお断りさせていただきます。(当日でも途中退出をしていただきます。)</p>\n<ul>\n<li>マウンティング</li>\n<li>保険、投資不動産などの営業活動</li>\n<li>宗教・マルチへの勧誘</li>\n<li>誹謗中傷・ハラスメント行為</li>\n<li>他者への迷惑行為</li>\n<li>無断キャンセル</li>\n</ul>",
+          "link": "https://asulever.connpass.com/event/285617/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-29T04:23:25.000Z",
+          "wordCount": 1083,
+          "title": "【渋谷】ITもくもく・交流会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4f/ed/4fed0f74d58aa109079360e0bb4f9c0a.png"
+        },
+        {
+          "id": "https://gbec.connpass.com/event/285616/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/28 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h3>福岡ブロックチェーン勉強会 #111 Solanaを触る会</h3>\n<p>Ethereumの研究をしているchaintopeの方をお呼びして、ブロックチェーンの勉強会を開催します。</p>\n<p>今回の内容は【 福岡ブロックチェーン勉強会 #111 Solanaを触る会】です。</p>\n<p>オンライン開催となります！</p>\n<p>どなたでも参加可能です。\n是非ご参加ください！</p>\n<h3>【ハッシュタグ】</h3>\n<p>ETHFUK</p>\n<h3>【概要】</h3>\n<ul>\n<li>日時: 6/28(水) 19:00開始\n<br>\nリモート会場（当日、ZoomのURLをお送りします。）　　\n<br></li>\n</ul>\n<h3>【タイムテーブル】</h3>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"center\">内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">19:00</td>\n<td align=\"center\">自己紹介</td>\n</tr>\n<tr>\n<td align=\"left\">19:10</td>\n<td align=\"center\">福岡ブロックチェーン勉強会 #111 Solanaを触る会</td>\n</tr>\n<tr>\n<td align=\"left\">21:00</td>\n<td align=\"center\">終了予定</td>\n</tr>\n</tbody>\n</table>",
+          "link": "https://gbec.connpass.com/event/285616/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-29T04:21:30.000Z",
+          "wordCount": 968,
+          "title": "福岡ブロックチェーン勉強会 #111 Solanaを触る会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/39/4a/394ae87e3af7adc02e801911cb641494.png"
+        },
+        {
+          "id": "https://asulever.connpass.com/event/285615/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/03 13:00 ～ 17:00<br />開催場所: 東京都渋谷区桜丘町18-4 二宮ビル 1F<br /><br /><h2>イベントについて</h2>\n<p>渋谷の貸し会議室に集まって、もくもく・おしゃべりする会です。<br>\nもくもくするテーマは自由です。<br>\n受託開発・自社プロダクト運営会社のCTOや現役ITエンジニアが参加しておりますので、初学者や微経験者の方で困ったことがある場合はサポート可能です！</p>\n<p>一人だとサボってしまう、自宅だと集中できない！という方は一緒にもくもくしましょう！<br>\n途中参加、途中退出、ちょっと抜けてまた戻ってくる、などなど自由です。<br>\nゆるくやっているので、お気軽にご参加ください。</p>\n<h2>対象者</h2>\n<ul>\n<li>ITエンジニアを目指して勉強中の方</li>\n<li>ITエンジニアとして仕事をされている方</li>\n<li>一緒に勉強する仲間が欲しい方</li>\n<li>学習やキャリアについて相談したい方</li>\n</ul>\n<h2>開催概要</h2>\n<ul>\n<li>日時：2023/6/3 (土)</li>\n<li>時間：13:00 - 17:00 (途中入退出可)</li>\n<li>会場：オフライン開催(東京都渋谷駅周辺)</li>\n<li>参加費：500円(会場代)</li>\n</ul>\n<h2>タイムテーブル</h2>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>13:00〜13:15</td>\n<td>自己紹介・もくもくすること共有</td>\n</tr>\n<tr>\n<td>13:15〜15:00</td>\n<td>もくもく①</td>\n</tr>\n<tr>\n<td>15:00〜15:30</td>\n<td>休憩・おしゃべりタイム</td>\n</tr>\n<tr>\n<td>15:30〜16:45</td>\n<td>もくもく②</td>\n</tr>\n<tr>\n<td>16:45〜17:00</td>\n<td>もくもく結果共有・ 解散</td>\n</tr>\n</tbody>\n</table>\n<p>※途中入退出可能です。</p>\n<h2>持ち物</h2>\n<ul>\n<li>会場費(500円)</li>\n<li>各自もくもくに必要なもの(PC、書籍など）</li>\n<li>飲食物(においが強くないもの)</li>\n<li>マスク</li>\n</ul>\n<h2>主催者情報</h2>\n<p><img src=\"http://drive.google.com/uc?export=view&amp;id=1aV3eSbONkCJO9ghock3OjH83jKV99s-4\" width=\"120\"></p>\n<p>新卒で野村総合研究所に入社し、5年ほどtoCのWEBシステム開発を行っていました。<br>\nその後起業したり、フリーランスのSEとして3年ほど活動しました。<br>\n現在は株式会社アスレバの共同創業者・CTOとして、自社プロダクトの開発運営や、システムの受託開発を行ってます。</p>\n<p>「プログラミングの勉強をどう進めればよいかわからない」<br>\n「勉強でつまっているところがある」<br>\n「キャリアについて話したい」<br>\nなど、お困りのことがあればお気軽にご相談ください。<br>\n可能な限りサポートできればと思います！</p>\n<p>よく使う技術: Rails, Django, Angular, react, vue, ionic, Capacitor, AWS, GCP<br>\ntwitter: <a href=\"https://twitter.com/okudakkuma\" rel=\"nofollow\">@okudakkuma</a></p>\n<h2>連絡事項・注意事項</h2>\n<ul>\n<li>当日会場に入室するためにはQRコードが必要です。予約完了後に共有いたします。</li>\n<li>当日/直前の不参加の場合でも、必ず connpass にてキャンセル連絡をお願いいたします。</li>\n</ul>\n<h2>禁止事項</h2>\n<p>下記ルールをお守りいただけない方は、参加をお断りさせていただきます。(当日でも途中退出をしていただきます。)</p>\n<ul>\n<li>マウンティング</li>\n<li>保険、投資不動産などの営業活動</li>\n<li>宗教・マルチへの勧誘</li>\n<li>誹謗中傷・ハラスメント行為</li>\n<li>他者への迷惑行為</li>\n<li>無断キャンセル</li>\n</ul>",
+          "link": "https://asulever.connpass.com/event/285615/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-29T04:20:45.000Z",
+          "wordCount": 1083,
+          "title": "【渋谷】ITもくもく・交流会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/4f/ed/4fed0f74d58aa109079360e0bb4f9c0a.png"
+        },
+        {
+          "id": "https://hook-wp.connpass.com/event/285427/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/16 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h2>ブロックテーマ同好会とは</h2>\n<p>WordPress が（も）好きでブロックテーマを一度でも使ったことがある方や、興味がある方々にお集まりいただき、利用する上で得たノウハウやチップス、情報などを持ち寄って、<strong>情報交換を行う会</strong>です。</p>\n<p>（本イベントは「これから触ってみる方々」を対象としたものではありません。「触ってみたい・興味がある（まだ触ってはいない）方々」向けのイベントは今後開催を別途検討していますので、グループメンバー登録などをして今後のイベント情報をキャッチアップしてください。）</p>\n<h2>参加者に希望すること</h2>\n<ul>\n<li>WordPress が（も）好きなこと</li>\n<li>WordPress ブロックテーマを触ったことがあること</li>\n<li>WordPress ブロックテーマに（も）興味があること</li>\n<li><strong>ブロックテーマに関するトピックス（話題）を１つは持参</strong>して参加いただくこと</li>\n<li>トピックスに対して何か意見いただけること</li>\n<li>「アンチ・クラシックテーマ（クラシックエディター）」ではなく「WordPress の一部としてのブロックテーマ（ブロックエディター）」を一緒に盛り上げて楽しいものにしていこうと考えてくれること</li>\n<li>他参加者が嫌がるアクションをしないこと</li>\n</ul>\n<p>※イベントの性質上、聞く専での参加はできません。   <br>\n※持ち込みネタ例：「このブロックテーマ触ってみた！」「ブロックテーマで〇〇ってどうやってます？」「Youtube に上がってたこのブロックテーマ動画、めっちゃ良かった！」など話題・全体への質問・相談などなど</p>\n<h2>会の進め方とタイムスケジュール（予定）</h2>\n<p>参加者の皆さんから持ち寄っていただきましたトピックスを Miro（イベント側提供）に書き込んでいただきます。そちらを全員で参照しながら、気になる話題について雑談を進めていき、情報共有を行います。</p>\n<ul>\n<li>20:55 Zoom 開場</li>\n<li>21:00 開始（会の説明等少々）</li>\n<li>21:05 30秒自己紹介</li>\n<li>21:10〜22:00 情報交換・共有会開始</li>\n<li>22:00〜23:00 任意参加の懇親雑談タイム</li>\n</ul>\n<h2>参加申込される上でご理解いただきたいこと</h2>\n<h3>推奨参加スタイル</h3>\n<p>「情報・意見交換」を目的で開催していますので、以下の形での参加を推奨します。また、聞くだけ参加ははご遠慮ください。</p>\n<ul>\n<li>カメラオン＋発声</li>\n<li>カメラオフ＋発声</li>\n</ul>\n<h3>できるだけ多くの方に参加していただくために</h3>\n<p>意見・情報交換を目的としているため<strong><span style=\"color: red;\">参加できないとわかった時点でキャンセル処理をお願いいたします。</span></strong></p>\n<h2>日時・場所</h2>\n<ul>\n<li>日時：2023年6月16日(金)21時より</li>\n<li>場所：Zoom（URL は参加可能枠の方のみ当ページ上部に表示されます）（アーカイブ保存・配信なし）（後日 hook-wp..com にて開催レポートを公開します）</li>\n</ul>",
+          "link": "https://hook-wp.connpass.com/event/285427/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-29T04:15:04.000Z",
+          "wordCount": 1015,
+          "title": "ブロックテーマ同好会 - 2023年6月会",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/eb/90/eb9076247e921276587170dcfec0516c.png"
+        },
+        {
+          "id": "https://hrbrain.connpass.com/event/285384/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/15 19:00 ～ 22:00<br />開催場所: 東京都品川区上大崎2-25-2 新目黒東急ビル 5F<br /><br /><h2>📝 イベント概要</h2>\n<p>「Power to the people」をパーパスとして掲げるHRBrainによるDeveloper Meetup🍖 </p>\n<p>今回はHRBrain、<strong>　Under25 HRBrain FlyHigh 若手エンジニアの成長戦略 </strong>をテーマに、\nHRBrainで大活躍しているU25のエンジニアが実践している成長するために行っている日々のインプット・アウトプット方法を紹介してもらいます。</p>\n<p>イベントの前半では長期学生U25のHRBrainエンジニアたちが懇親のLTを発表し、後半は参加者同士で交流し情報交換ができる交流会を予定しております。</p>\n<p>お飲み物と軽食を用意していますので、ぜひ最後まで楽しんでいただければと思います✨</p>\n\n\n\n\n<h2>🧑‍💻 こんな方にオススメ</h2>\n<ul>\n<li>Webエンジニアを目指す就活学生orエンジニアをはじめて数年目の人</li>\n<li>角度高く成長したい方</li>\n<li>成長スピードをもっとあげたい方</li>\n<li>同年代の活躍しているエンジニアがどういう仕事や勉強をしているのか知りたい方</li>\n<li>活躍している若手が見たいリーダー・マネージャ</li>\n</ul>\n\n\n<h2>🏠 会場</h2>\n<p>株式会社HRBrain 東京オフィス</p>\n<p>〒 141-0021 東京都品川区上大崎2-25-2 新目黒東急ビル5F</p>\n\n\n<h2>🕖 タイムスケジュール</h2>\n<table>\n<thead>\n<tr>\n<th align=\"left\">時間</th>\n<th align=\"left\">発表時間</th>\n<th align=\"left\">内容</th>\n<th align=\"left\">登壇者</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">19:00</td>\n<td align=\"left\">-</td>\n<td align=\"left\">開場</td>\n<td align=\"left\">-</td>\n</tr>\n<tr>\n<td align=\"left\">19:30</td>\n<td align=\"left\">10 分</td>\n<td align=\"left\">オープニング</td>\n<td align=\"left\">司会</td>\n</tr>\n<tr>\n<td align=\"left\">19:40</td>\n<td align=\"left\">20 分(発表15分 質問5分)</td>\n<td align=\"left\">アウトプットが与える影響　〜価値を最大化するための学習サイクル〜</td>\n<td align=\"left\">安井大晟 さん／株式会社HRBrain</td>\n</tr>\n<tr>\n<td align=\"left\">20:00</td>\n<td align=\"left\">20 分(発表15分 質問5分)</td>\n<td align=\"left\">アウトプットのススメ（仮）</td>\n<td align=\"left\">橋本 健史さん／株式会社HRBrain</td>\n</tr>\n<tr>\n<td align=\"left\">20:20</td>\n<td align=\"left\">10 分</td>\n<td align=\"left\">休憩</td>\n<td align=\"left\">-</td>\n</tr>\n<tr>\n<td align=\"left\">20:30</td>\n<td align=\"left\">20 分(発表15分 質問5分)</td>\n<td align=\"left\">開発速度を意識したインプットアウトプット（仮）</td>\n<td align=\"left\">下島 陸さん／株式会社HRBrain</td>\n</tr>\n<tr>\n<td align=\"left\">20:50</td>\n<td align=\"left\">-</td>\n<td align=\"left\">交流会開始</td>\n<td align=\"left\">司会</td>\n</tr>\n<tr>\n<td align=\"left\">21:40</td>\n<td align=\"left\">-</td>\n<td align=\"left\">クロージング</td>\n<td align=\"left\">司会</td>\n</tr>\n<tr>\n<td align=\"left\">22:00</td>\n<td align=\"left\">-</td>\n<td align=\"left\">完全撤収・閉場</td>\n<td align=\"left\">-</td>\n</tr>\n</tbody>\n</table>\n<p><strong>※ プログラムに変更が合った場合は随時更新いたします。</strong></p>\n\n\n<h2>🧠 登壇者情報</h2>\n\n\n<h4>📣 No.1 安井大晟 さん／株式会社HRBrain<br></h4>\n<p>早稲田大学教育学部在籍。2021年に42Tokyo入学をきっかけにエンジニアに転向。<br>\n2022年12月から株式会社HRBrainの長期インターンエンジニアとして入社。<br>\n登壇経験「春のJavaScript祭り（LT）」受賞歴「技育展優秀賞」</p>\n<h4>📣 No.2 橋本 健史 さん／株式会社HRBrain</h4>\n<p>株式会社HRBrainのバックエンドエンジニア。<br>\n2022年7月から内定者インターンとしてHRBrainで働き始め、2023年4月に正社員として入社。<br>\n現在は労務管理のプロダクトの機能開発などを担当。<br>趣味は競技プログラミング。\nQiitaトレンド記事１位獲得実績あり。</p>\n<h4>📣 No.3 下島 陸 さん／株式会社HRBrain</h4>\n<p>株式会社HRBrainに2022年4月から正社員として入社<br>\nフロントエンドエンジニアとして社員データをビジュアライズする機能のダッシュボード開発を行っている。<br>\nチーム体制の変更があったにも関わらず、入社して数ヶ月目で大型リリースを完遂。<br>\n現在は、バックエンドも含めてフルスタックに活躍中！！</p>\n\n\n<h2>🎪 主催</h2>\n<h4><strong><a href=\"https://hrbrain.co.jp\" rel=\"nofollow\">株式会社 HRBrain</a></strong></h4>\n<p>「HRBrain」シリーズは、「HRBrainタレントマネジメント」をはじめとし、組織診断サーベイ、人事評価、360度評価、労務管理、社内向けチャットボットの6サービスからなる、人事業務の効率化から人材データの一元管理・活用までワンストップで実現するクラウドサービスです。引き続き、人事領域のデジタル・トランスフォーメーション（DX）のさらなる促進に加え、ESG経営、人的資本の情報開示などに対して貢献できるよう、機能拡充を進めてまいります。</p>\n<hr>\n<table style=\"border: solid 2px #00A85F;\"><tbody><tr><td>\n\n## ℹ️ 注意事項\n\n<table style=\"border: solid 2px #00A85F;\"><tbody><tr><td>\n\n- 当イベントの内容およびスケジュールは予告なく変更となる場合があります。あらかじめご了承ください。<br>\n- 他の参加者の方の妨げになるような行為は禁止、運営側の判断でご退出をお願いする場合があります。<br>\n- 当日体調不良の方は、参加を控えていただくようお願いします。<br>\n- 当日の様子を撮影し、SNSなどで公開する場合があります。あらかじめご了承ください。<br>\n- その他、運営側で参加にふさわしくないと判断した方については、ご退出をお願いする場合があります。誠に恐れ入りますが、あらかじめご了承ください。\n\n</td></tr></tbody></table></td></tr></tbody></table>",
+          "link": "https://hrbrain.connpass.com/event/285384/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-29T04:01:16.000Z",
+          "wordCount": 1359,
+          "title": "HRBrain Fly High #3 -U25若手エンジニアの成長戦略-",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/62/02/6202a8d7ffb4591df486a2d9c3ce3907.png"
+        },
         {
           "id": "https://connpass.com/event/285599/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,
