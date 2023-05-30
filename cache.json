@@ -6,6 +6,36 @@
       "siteUrl": "https://aws.amazon.com/jp/about-aws/whats-new/recent/",
       "articles": [
         {
+          "id": "a4bf1a1ebeaaed356c9a502f0222f934e2a03b80",
+          "author": "aws@amazon.com",
+          "description": "本日、Amazon Aurora I/O 最適化の一般提供を開始しました。これは I/O 集約型アプリケーションを使用するお客様に、料金パフォーマンスの向上と予測可能な料金体系を提供する、新しい設定です。Aurora I/O 最適化を使用すると、ワークロードの要求が非常に高い場合でも、パフォーマンスは向上し、スループットは増加し、レイテンシーは減少します。Aurora I/O 最適化では、読み取りと書き込み I/O オペレーションの料金は発生しません。データベースインスタンスとストレージ使用量に対してのみ課金されるので、データベースの消費量を事前に容易に予測できます。Aurora I/O 最適化は、I/O 料金が Aurora データベースの総消費量の 25% を超える場合、I/O 集約型アプリケーションのコストを最大 40% 削減します。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/",
+          "publishedOn": "2023-05-30T03:57:31.000Z",
+          "wordCount": 386,
+          "title": "AWS が Amazon Aurora I/O 最適化をリリース",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "88a43e2e3209cdb2a55679f8c3d755a796921723",
+          "author": "aws@amazon.com",
+          "description": "AWS PrivateLink を使用して、パブリックインターネット経由でデータを公開することなく、Amazon 仮想プライベートクラウド (VPC) から AWS App Mesh API にプライベートにアクセスできるようになりました。VPC エンドポイントの作成には料金が発生します。詳細については、AWS PrivateLink の料金ページを参照してください。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-app-mesh-supports-aws-privatelink/",
+          "publishedOn": "2023-05-30T03:56:43.000Z",
+          "wordCount": 309,
+          "title": "AWS App Mesh が AWS PrivateLink をサポートするようになりました",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
+          "id": "92d180af950b96252f8cd93ed8d485d819154298",
+          "author": "aws@amazon.com",
+          "description": "Amazon IVS では、開発者が複数のホストによるライブストリームの状態をモニタリングできるようになりました。ホストはステージリソースを使用して相互に接続され、オーディオとビデオをリアルタイムで交換できます。このリリースでは、Amazon IVS を使用して開発する開発者が、ステージリソースや参加者全員で何が起こっているかをよりよく理解するために必要なツールが提供されます。",
+          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/05/monitor-health-amazon-ivs-channels-multiple-hosts/",
+          "publishedOn": "2023-05-30T03:55:53.000Z",
+          "wordCount": 320,
+          "title": "複数のホストで Amazon IVS チャネルの状態を監視できます",
+          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+        },
+        {
           "id": "750da9f1b46cf08439043a2b1eb41c1bbaa3962f",
           "author": "aws@amazon.com",
           "description": "お客様は、米国西部 (北カリフォルニア) とアジアパシフィック (ジャカルタ) の 2 つの AWS リージョンで Amazon FSx for NetApp ONTAP ファイルシステムを作成できるようになりました。",
@@ -4344,16 +4374,6 @@
           "wordCount": 1616,
           "title": "AWS版GitHub Copilotとなる「Amazon CodeWhisperer」正式版／AWSの主要サービスをローカルでエミュレートする「LocalStack 2.0」ほか、2023年4月の人気記事",
           "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/23/terraformhashicorpterraform_cloud.html",
-          "author": null,
-          "description": "HashiCorpは、マルチクラウド対応のインフラ構成サービス「Terraform Cloud」をノーコードで設定、実行できる新機能「Terraform Cloud ノーコードプロビジョニング」を正式にリリースしたことを発表しました。 これ...",
-          "link": "https://www.publickey1.jp/blog/23/terraformhashicorpterraform_cloud.html",
-          "publishedOn": "2023-04-30T15:05:57.000Z",
-          "wordCount": 1596,
-          "title": "Terraformがノーコードに。HashiCorpが「Terraform Cloud ノーコードプロビジョニング」正式リリース",
-          "imageUrl": "https://www.publickey1.jp/2023/c3WyQd4z.jpg"
         }
       ]
     },
@@ -4609,6 +4629,16 @@
       "feedUrl": "https://connpass.com/explore/ja.atom",
       "siteUrl": "https://connpass.com/explore/",
       "articles": [
+        {
+          "id": "https://connpass.com/event/285208/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "author": null,
+          "description": "開催日時: 2023/06/08 19:00 ～ 21:00<br />開催場所: 〒107-0062 東京都港区南青山1-15-9 第45興和ビル 1F 株式会社GENEROSITY<br /><br /><h2>開催概要</h2>\n<ul>\n<li>日時：6/8(木) 19:00 - 21:00</li>\n<li>会場：東京都港区南青山1-15-9第45興和ビル 1F 株式会社GENEROSITYオフィス内</li>\n<li>費用：無料</li>\n<li>緊急連絡先：03-4405-8941</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>時間</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>18:45-19:00</td>\n<td>受付開始 (弊社エントランスにお集まりください)</td>\n</tr>\n<tr>\n<td>19:00-19:20</td>\n<td>LumaAIハンズオン</td>\n</tr>\n<tr>\n<td>19:20-19:30</td>\n<td>弊社紹介</td>\n</tr>\n<tr>\n<td>19:30-20:10</td>\n<td>WebARハンズオン</td>\n</tr>\n<tr>\n<td>20:10-20:15</td>\n<td>アンケート</td>\n</tr>\n<tr>\n<td>20:15-21:00</td>\n<td>懇親会</td>\n</tr>\n</tbody>\n</table>",
+          "link": "https://connpass.com/event/285208/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
+          "publishedOn": "2023-05-30T03:05:04.000Z",
+          "wordCount": 958,
+          "title": "【WebARハンズオン】GENEROSITY ENGINEER MEETUP",
+          "imageUrl": "https://connpass-tokyo.s3.amazonaws.com/thumbs/ab/4f/ab4f81b9ccd4f29795c0a157a1b00244.png"
+        },
         {
           "id": "https://nifty.connpass.com/event/285721/?utm_campaign=recent_events&utm_source=feed&utm_medium=atom",
           "author": null,

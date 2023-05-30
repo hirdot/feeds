@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-30T03:00:56.625Z</updated>
+    <updated>2023-05-30T04:00:50.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS が Amazon Aurora I/O 最適化をリリース]]></title>
+        <id>a4bf1a1ebeaaed356c9a502f0222f934e2a03b80</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/"/>
+        <updated>2023-05-30T03:57:31.000Z</updated>
+        <summary type="html"><![CDATA[本日、Amazon Aurora I/O 最適化の一般提供を開始しました。これは I/O 集約型アプリケーションを使用するお客様に、料金パフォーマンスの向上と予測可能な料金体系を提供する、新しい設定です。Aurora I/O 最適化を使用すると、ワークロードの要求が非常に高い場合でも、パフォーマンスは向上し、スループットは増加し、レイテンシーは減少します。Aurora I/O 最適化では、読み取りと書き込み I/O オペレーションの料金は発生しません。データベースインスタンスとストレージ使用量に対してのみ課金されるので、データベースの消費量を事前に容易に予測できます。Aurora I/O 最適化は、I/O 料金が Aurora データベースの総消費量の 25% を超える場合、I/O 集約型アプリケーションのコストを最大 40% 削減します。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS App Mesh が AWS PrivateLink をサポートするようになりました]]></title>
+        <id>88a43e2e3209cdb2a55679f8c3d755a796921723</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2023/05/aws-app-mesh-supports-aws-privatelink/"/>
+        <updated>2023-05-30T03:56:43.000Z</updated>
+        <summary type="html"><![CDATA[AWS PrivateLink を使用して、パブリックインターネット経由でデータを公開することなく、Amazon 仮想プライベートクラウド (VPC) から AWS App Mesh API にプライベートにアクセスできるようになりました。VPC エンドポイントの作成には料金が発生します。詳細については、AWS PrivateLink の料金ページを参照してください。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複数のホストで Amazon IVS チャネルの状態を監視できます]]></title>
+        <id>92d180af950b96252f8cd93ed8d485d819154298</id>
+        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2023/05/monitor-health-amazon-ivs-channels-multiple-hosts/"/>
+        <updated>2023-05-30T03:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon IVS では、開発者が複数のホストによるライブストリームの状態をモニタリングできるようになりました。ホストはステージリソースを使用して相互に接続され、オーディオとビデオをリアルタイムで交換できます。このリリースでは、Amazon IVS を使用して開発する開発者が、ステージリソースや参加者全員で何が起こっているかをよりよく理解するために必要なツールが提供されます。]]></summary>
+        <author>
+            <name>aws@amazon.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【WebARハンズオン】GENEROSITY ENGINEER MEETUP]]></title>
+        <id>https://connpass.com/event/285208/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://connpass.com/event/285208/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-05-30T03:05:04.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/08 19:00 ～ 21:00<br />開催場所: 〒107-0062 東京都港区南青山1-15-9 第45興和ビル 1F 株式会社GENEROSITY<br /><br /><h2>開催概要</h2>
+<ul>
+<li>日時：6/8(木) 19:00 - 21:00</li>
+<li>会場：東京都港区南青山1-15-9第45興和ビル 1F 株式会社GENEROSITYオフィス内</li>
+<li>費用：無料</li>
+<li>緊急連絡先：03-4405-8941</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18:45-19:00</td>
+<td>受付開始 (弊社エントランスにお集まりください)</td>
+</tr>
+<tr>
+<td>19:00-19:20</td>
+<td>LumaAIハンズオン</td>
+</tr>
+<tr>
+<td>19:20-19:30</td>
+<td>弊社紹介</td>
+</tr>
+<tr>
+<td>19:30-20:10</td>
+<td>WebARハンズオン</td>
+</tr>
+<tr>
+<td>20:10-20:15</td>
+<td>アンケート</td>
+</tr>
+<tr>
+<td>20:15-21:00</td>
+<td>懇親会</td>
+</tr>
+</tbody>
+</table>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[データのじかんSeminars｜2023年6月12日開催無料セミナー 実務家が知っておきたい！生成型AIの現在地点 （ChatGPT/Midjourney/DALL-E/Bardまで） 書籍「DX用語まるわかり辞典」を抽選プレゼント]]></title>
         <id>https://data.wingarc.com/?p=54854</id>
@@ -59089,16 +59169,6 @@ WordPressを使って、コーポレートサイト、サービスサイト、�
 ・無断キャンセルや欠席が続く場合、次回以降の参加をお断りさせていただく場合がございます。<br><br></p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraformがノーコードに。HashiCorpが「Terraform Cloud ノーコードプロビジョニング」正式リリース]]></title>
-        <id>https://www.publickey1.jp/blog/23/terraformhashicorpterraform_cloud.html</id>
-        <link href="https://www.publickey1.jp/blog/23/terraformhashicorpterraform_cloud.html"/>
-        <updated>2023-04-30T15:05:57.000Z</updated>
-        <summary type="html"><![CDATA[HashiCorpは、マルチクラウド対応のインフラ構成サービス「Terraform Cloud」をノーコードで設定、実行できる新機能「Terraform Cloud ノーコードプロビジョニング」を正式にリリースしたことを発表しました。 これ...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>
