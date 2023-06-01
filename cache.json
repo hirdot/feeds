@@ -2014,66 +2014,6 @@
           "wordCount": 328,
           "title": "Amazon VPC プレフィックスリストが新たに 3 つのリージョンで利用可能に",
           "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "3e107b1db57cb866b8a4f598eb6e52740cae65b8",
-          "author": "aws@amazon.com",
-          "description": "本日より、AWS Control Tower が次の 7 つの AWS リージョンで利用可能になりました: 米国西部 (北カリフォルニア)、アジアパシフィック (香港、ジャカルタ、大阪)、欧州 (ミラノ)、中東 (バーレーン)、アフリカ (ケープタウン)。今回のリリースにより、AWS Control Tower は 22 の AWS リージョンと 2 つの AWS GovCloud (米国) リージョンで利用できます。AWS Control Tower は、安全でマルチアカウントの AWS 環境をセットアップし、管理するための最も簡単な方法を提供します。組織のセキュリティとコンプライアンスのニーズを維持しながら、ユーザーに代わって複数の AWS サービスをオーケストレーションします。これにより、AWS エクスペリエンスを簡素化します。マルチアカウントの AWS 環境を設定するのに 30 分もかかりません。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-control-tower-additional-regions/",
-          "publishedOn": "2023-05-02T15:59:41.000Z",
-          "wordCount": 352,
-          "title": "AWS Control Tower がさらに 7 つのリージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "4622866278958a8488436700e8911cfeec3f0a18",
-          "author": "aws@amazon.com",
-          "description": "Amazon WorkSpaces Web Access が AWS GovCloud (米国西部) リージョンでご利用いただけるようになりました。WorkSpaces Streaming Protocol (WSP) を使用して Amazon WorkSpaces をデプロイできます。ネイティブクライアントアプリケーションをインストールする必要はなく、Windows、macOS、Linux を実行しているデバイスでサポートされているウェブブラウザから Amazon WorkSpaces にアクセスできます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-workspaces-web-access-wsp-aws-govcloud-us-west-region/",
-          "publishedOn": "2023-05-02T15:53:01.000Z",
-          "wordCount": 362,
-          "title": "WSP による Amazon WorkSpaces Web Access が AWS GovCloud (米国西部) リージョンで利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f085287ac925826f2c18d58c7f272ee3fbaff036",
-          "author": "aws@amazon.com",
-          "description": "AWS Lake Formation と AWS Glue Data Catalog は、データカタログとしてセルフマネージドの Apache Hive メタストア (HMS) を使用するお客様向けに、データカタログ作成、データ共有、きめ細かいアクセスコントロールサポートを拡張しました。これまで、Lake Formation の権限とデータ共有機能を使用するには、メタデータを AWS Glue データカタログに複製する必要がありました。これからは、HMS メタデータを AWS に統合することができます。AWS Glue データカタログのネイティブテーブルと同時にデータを検索したり、Lake Formation からの権限と共有を管理したり、AWS 分析サービスを使用してデータをクエリしたりすることができます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-lake-formation-glue-catalog-apache-hive-metastore-resources/",
-          "publishedOn": "2023-05-02T15:47:00.000Z",
-          "wordCount": 365,
-          "title": "AWS Lake Formation と AWS Glue Data Catalog が Apache Hive メタストアのリソース管理を開始",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "a044de6663846f31adf2b2e309f91200c7ad63f1",
-          "author": "aws@amazon.com",
-          "description": "Amazon GuardDuty がアジアパシフィック (メルボルン) リージョンで利用可能になりました。このリージョンでもセキュリティの脅威を継続的にモニタリングおよび検出して、AWS アカウント、ワークロード、データを保護できます。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-guardduty-aws-asia-pacific-melbourne-region/",
-          "publishedOn": "2023-05-02T15:27:56.000Z",
-          "wordCount": 345,
-          "title": "Amazon GuardDuty が AWS アジアパシフィック (メルボルン) リージョンで使用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "f05513da18f107239a148925c6182447d06f069d",
-          "author": "aws@amazon.com",
-          "description": "ドキュメント分類用の Amazon Comprehend API が、テキストに加えてドキュメントのレイアウトを使用するようになり、Amazon Comprehend の精度が向上しました。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-comprehend-document-classification-layout-data/",
-          "publishedOn": "2023-05-02T15:22:16.000Z",
-          "wordCount": 314,
-          "title": "Amazon Comprehend のドキュメント分類の精度が、レイアウトデータの使用で向上",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
-        },
-        {
-          "id": "75de9cbc07955b404e5367b8ee8239bd585ed38e",
-          "author": "aws@amazon.com",
-          "description": "本日、AWS Distro for OpenTelemetry (ADOT) での Apache Kafka レシーバーとエクスポーターが一般利用可能になりました。ADOT は OpenTelemetry プロジェクトのセキュアで本番環境に対応した、AWS サポートのディストリビューションです。今回のリリースでは、ADOT コレクターを使用して Kafka からメトリクスとトレースを収集し、メトリクスとトレースを Kafka に送信できるようになりました。このリリースには、Amazon Managed Streaming for Apache Kafka (MSK) のサポートが含まれています。",
-          "link": "https://aws.amazon.com/jp/about-aws/whats-new/2023/04/apache-kafka-aws-distro-opentelemetry/",
-          "publishedOn": "2023-05-02T15:15:56.000Z",
-          "wordCount": 353,
-          "title": "AWS Distro for OpenTelemetry で Apache Kafka のサポートが利用可能に",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },
