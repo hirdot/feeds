@@ -2,10 +2,627 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hirdot.github.io/feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-02T22:01:19.712Z</updated>
+    <updated>2023-06-05T00:01:31.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hirdot.github.io/feeds/index.html"/>
     <link rel="self" href="https://hirdot.github.io/feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゆるくもくもくする会]]></title>
+        <id>https://hajimari-tukurus-nagano.connpass.com/event/286207/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://hajimari-tukurus-nagano.connpass.com/event/286207/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T23:31:32.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/17 10:00 ～ 12:00<br />開催場所: R-DEPOT 3F L号室<br /><br /><p>一人だとサボってしまうので
+もくもくする時間を作る練習のためのイベントを作りました。
+(定期開催にする予定。当面オフラインのみ)</p>
+<p>やることは各自で、読書でも、試験勉強でもOK
+10:00 開始 - 12:00 終了</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encraft #4 React/Next.js 最前線]]></title>
+        <id>https://knowledgework.connpass.com/event/285601/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://knowledgework.connpass.com/event/285601/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T23:26:36.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/29 19:00 ～ 21:30<br />開催場所: 東京都港区西新橋1-6-15<br /><br /><h1>Encraft #4 React/Next.js 最前線</h1>
+<p>Encraft（エンクラフト）は株式会社ナレッジワークが提供する、 "Enablement" と "Craftsmanship" をテーマにした勉強会です。技術にこだわりを持つ人々が集まって互いに知見を交換し、できることを増やしていく場を提供します。</p>
+<p>第4回は「React/Next.js 最前線」をテーマに、ここ最近で大きなアップデートのあったReactとNext.jsの今とこれからについて、koba04さんをお招きしライブコーディングも交えて解説いただきます。<br>
+また、ナレッジワーク社内からもSuspense FetchやApp Routerの活用事例についてご紹介します。 <br>
+セッション内容は後日動画で公開予定です。</p>
+<p>過去のイベント様子は以下からご覧いただけます。</p>
+<ul>
+<li><a href="https://zenn.dev/knowledgework/articles/739a8413aff7a4" rel="nofollow">Encatft#1 開催レポート</a></li>
+<li><a href="https://zenn.dev/knowledgework/articles/db1013f79e7929" rel="nofollow">Encraft#2 開催レポート</a></li>
+</ul>
+<h1>スケジュール</h1>
+<p>2023年6月29（木） 18:30 開場 / 19:00 開始</p>
+<ul>
+<li>18:30 開場</li>
+<li>19:00 開始・会場案内アナウンス</li>
+<li>19:05 Main Session - @koba04</li>
+<li>19:55 Side Session 1 - @otofu-square</li>
+<li>20:10 Side Session 2 - @yoshiko_pg</li>
+<li>20:30 懇親会</li>
+<li>21:30 終了</li>
+</ul>
+<h1>アクセス</h1>
+<p>〒105-0003<br>
+東京都港区西新橋1-6-15<br>
+NS虎ノ門ビル（日本酒造虎ノ門ビル） 11F</p>
+<p><a href="https://www.tc-forum.co.jp/ap-shinbashitoranomon/access/" rel="nofollow">https://www.tc-forum.co.jp/ap-shinbashitoranomon/access/</a></p>
+<h1>メインセッション</h1>
+<h2>React/Next によるアプリケーション開発のこれから</h2>
+<p>本セッションでは、React や Next の App Router がどのようにアプリケーション開発を変えるのかを、トークとライブコーディングで紹介したいと思います。</p>
+<p><img alt="koba04" height="100" src="https://pbs.twimg.com/profile_images/378800000519564633/f8079885d680213e64e4d706daa4a5ee_400x400.jpeg" title="koba04" width="100"><br>
+<a href="https://twitter.com/koba04" rel="nofollow">@koba04</a></p>
+<p>Cybozu:80%, SmartHR:20%<br>
+React 関連の OSS のメンテナとかコントリビュータやってます</p>
+<h1>サイドセッション</h1>
+<h2>ナレッジワークでの App Router に対する取り組みの紹介</h2>
+<p><img alt="otofu-square" height="100" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/11/30/1130095009c254a24bfec9f5eb6e1051.png" title="otofu-square" width="100"><br>
+<a href="https://twitter.com/otofu_square" rel="nofollow">@otofu_square</a></p>
+<p>株式会社ナレッジワーク フロントエンドエンジニア<br>
+1児のパパエンジニア。</p>
+<h2>Suspense Fetchを3年実用してみて</h2>
+<p><img alt="よしこ" height="100" src="https://connpass-tokyo.s3.amazonaws.com/thumbs/3e/75/3e75fe66dee49d1158982bebbdfaf40b.png" title="よしこ" width="100"><br>
+<a href="https://twitter.com/yoshiko_pg" rel="nofollow">@yoshiko_pg</a></p>
+<p>株式会社ナレッジワーク フロントエンドエンジニア <br>
+SPAでGUIを作るのが好き。</p>
+<h1>注意事項</h1>
+<ul>
+<li>参加目的が不適切だと判断される場合には、運営側で参加をキャンセル・お断りさせていただく場合がございます。</li>
+<li>イベントの様子を撮影させていただきます。撮影した動画・写真はドキュメンタリー映像、イベントレポート記事などで使用させていただきます。</li>
+</ul>
+<h1>Code of Conduct</h1>
+<p>本イベントは技術に関わる人々が情報発信や交流を行うための機会です。目的にそぐわない行動はお控えください。<br>
+イベント参加時は運営スタッフの案内に従い、公序良俗を守ったSNS発信・会場利用をお願いいたします。</p>
+<p>また、Encraftは以下のような行為を許容しません。</p>
+<ul>
+<li>性別、性的指向、外見、身体的特徴、人種、宗教等に関連した攻撃的又は差別的な発言</li>
+<li>意図的な威力行為、ストーキング、つきまとい</li>
+<li>性的な画像の掲示等を含む不適切な情報の開示</li>
+<li>写真撮影や録音によるいやがらせ</li>
+<li>トークセッションや懇親の場に対する意図的な妨害行為</li>
+<li>不適切な身体接触</li>
+<li>望まれない性的な注意を引きつける行為</li>
+</ul>
+<p>この規範に違反する行動をされた、もしくは周囲で見聞きした場合には、すぐに運営スタッフまでお声がけください。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[YouTube Live] Power BI Weekly News 78]]></title>
+        <id>https://pp-weeklynews.connpass.com/event/286312/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://pp-weeklynews.connpass.com/event/286312/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T23:00:54.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/11 20:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>Power Platform Weekly News をリニューアルしました</h1>
+<p>2021年11月21日から <a href="https://www.youtube.com/playlist?list=PLFWe9YKLKFFOkabzBm2kXUY8lQX9Z9wd1" rel="nofollow"><strong>Power BI Weekly News</strong></a> として石川さんと一緒に再始動しました。</p>
+<p>今回は石川さんの小ネタなのか Yugo の小ネタなのか❗❓😋</p>
+<p>その他、最新のアップデート情報から気になったものをゆるりと紹介したりします。</p>
+<ul>
+<li><strong>YouTube チャンネル</strong>：<a href="https://www.youtube.com/YugosRoom" rel="nofollow">https://www.youtube.com/YugosRoom</a></li>
+<li><strong>いつもの Power BI Report</strong> : <a href="https://bit.ly/PBI-WeeklyNews" rel="nofollow">https://bit.ly/PBI-WeeklyNews</a></li>
+</ul>
+<h1>諸注意📣</h1>
+<p>YouTube Live で公開生放送でやるので、本イベントに登録しなくてもご覧いただけますが、可能であれば、参加登録していただけると幸いです。今後も生放送を予定しているので、登録してグループに参加していただけると、次回イベントのお知らせが飛びます。</p>
+<h1>こんなのやってほしい～小ネタのネタはずーっと募集中～</h1>
+<p>最近小ネタ合戦になってきてるので、皆さんから何かリクエストだったり、質問だったりがあれば、遠慮なくお知らせください。</p>
+<p>当日でもいいですし、準備が必要そうだなって思うものなら、Yugo か 石川さん の Twitter までください📣</p>
+<ul>
+<li>Yugo Shimizu: <a href="https://twitter.com/yugoes1021" rel="nofollow">https://twitter.com/yugoes1021</a></li>
+<li>石川 陽一: <a href="https://twitter.com/ishiayaya" rel="nofollow">https://twitter.com/ishiayaya</a></li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【タイムくん 第151話】適応課題]]></title>
+        <id>https://data.wingarc.com/?p=52112</id>
+        <link href="https://data.wingarc.com/taimu-kun-151-52987?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taimu-kun-151"/>
+        <updated>2023-06-04T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[ここがポイント：対話の相手は他人のみではないって話とオートクライン効果 みなさん、おはようございます。 最近思うんですけど、仕事に限らず何かがうまくいかない時って、実際にうまくいっていない時も確かにあります […]]]></summary>
+        <author>
+            <name>TotsukaKeisuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT系&誰でも参加OK！もくもく会_朝活_6/12(月)]]></title>
+        <id>https://morimori.connpass.com/event/286331/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://morimori.connpass.com/event/286331/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T21:58:12.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/12 07:00 ～ 08:00<br />開催場所: オンライン<br /><br /><p>一人じゃどうにも捗らない、、」という方向けの、<br>
+ジャンル問わずどなたでも参加できる朝活会です。</p>
+<p>資格の勉強をしてもよし、ポートフォリオを作ってもよし、<br>
+積読の解消のため読書の時間にしてよし。</p>
+<p>日頃なかなか進められないことに着手する時間としてお使いください！<br>
+遅れて参加も、途中退室も自由です！
+やっぱり参加できなかった、という場合も
+特にご連絡は必要ありません。</p>
+<p><br></p>
+<h2>■開催概要<br></h2>
+<p>日時：2023/6/12(月) 07:00〜08:00</p>
+<p>場所：discordでオンライン開催</p>
+<p>接続方法：discordのURLをお伝えします<br>
+　　</p>
+<h2>■タイムスケジュール<br></h2>
+<p>07:00<br>
+通話をつなぎます。<br>
+本日の取り組み予定を報告ください。<br>
+(カメラオフでも、チャットへの投稿という形でも大丈夫です。)<br></p>
+<p>例)UXの本を読みます！等</p>
+<p>その後主催者はBGMを流しますが、<br>
+気になるようなら音声OFFでOK<br>
+以降は各自もくもくしてください！<br></p>
+<p>※雑談用のスペースもあります！作業しながら話したいとき、チャットしたいときはお気軽に移動くださいー</p>
+<p><br></p>
+<p>08:00<br></p>
+<p>どこまで進んだかを簡単に報告(投稿)ください、終了！<br></p>
+<p>もし主催者(デザイナー)に質問があればお気軽にどうぞ！
+下記でお答えできる範囲で答えます！</p>
+<p>・デザインに関することなんでも<br>
+・illustrator、photoshop、xdなどの使い方など<br>
+・コーディングに関しては実務経験がないので詳しくお答えできなくてすみません、、！</p>
+<p>取り組み例)<br>
+・アプリ開発、プログラミング、コーディング<br>
+・WEBデザイン、アプリデザイン、イラスト制作<br>
+・資格などの勉強、就活のためのポートフォリオ作り<br>
+・ストレッチや瞑想を挟む人も<br></p>
+<h2>■追記<br></h2>
+<p>・基本は主催者が勉強をさぼらないためにイベント化しております。
+参加ハードルの低い、ゆるくて気張らない会を目指しています。</p>
+<p>・何回か来ている方で、discordに直接いらっしゃる方もいます 入ったらコンパス上の表記より人数多いことも多々あります また、同じサーバで自由な時間にもくもくしてってもらっても構いません〜！</p>
+<p>・毎日開催、をベースにしておりますが、主催が一人という都合上、用事で実現できない日や、 体調上開催できなくなった場合はコンパスもしくはdiscordのお知らせチャンネルでご連絡するようにします。 そちらを参照ください。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Bardがロケーション情報を取得し関連性がより高い回答を返すようになる]]></title>
+        <id>https://www.suzukikenichi.com/blog/?p=13306</id>
+        <link href="https://www.suzukikenichi.com/blog/google-bard-uses-location-info-to-give-more-relevant-responses/"/>
+        <updated>2023-06-04T21:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Google の Bard が位置情報を利用するようになった。位置情報を利用することで、関連性がより高い回答を返せる。]]></summary>
+        <author>
+            <name>Kenichi Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長崎でゼロから始めるPythonの無料体験講座]]></title>
+        <id>https://nagasaki-python.connpass.com/event/286330/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://nagasaki-python.connpass.com/event/286330/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T20:57:59.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/10 14:00 ～ 16:00<br />開催場所: 長崎県長崎市松山町 4-40 IP 松山ビル4 階<br /><br /><p>プログラミングはじめたいけど、どこから始めたら良いかわからない、就職や起業に役立つ実践的な技術を身につけたい・・・そんな人に朗報です！</p>
+<p>長崎で自立学習型プログラミング教室を開校準備中で、そのためのテストマーケッティング実施しています。</p>
+<p>講習時間は2時間（後半1時間は自習ですので、途中での退出も可能です、完全無料です。簡単なアンケートの記入をお願いします。</p>
+<h1>詳しい内容</h1>
+<p>＊〈お手持ちのPC〉で手を動かしながらPythonの簡単なプログラミングを一緒に行います＊ ☆無料Wi-Fiをご用意しています☆</p>
+<p>希望者は後日のオンラインでの無料相談もも受け付けます！
+  はじめまして！ ご覧いただきありがとうございます。  外資系のソフトウエア開発会社に勤務する「ウッディ」こと「はやし」と申します。 
+海外のエンジニアを使って日本のお客さまのソフトウエア開発を行なっていますが、日本のエンジニアの状況を見るにつけ、日本のエンジニアにももっと元気になって欲しいと思うようになりました。</p>
+<p>自分自身はエンジニアではありませんが、商談でプログラミングやITの大まかな知識は必要なのでプログラミングを勉強しようと思いました。</p>
+<p>オンラインでの動画や、オンラインでのプログラミングコース、書籍など、あれこれやりましたが、なかなか身につきませんでした。</p>
+<p>そんな中、自立学習型のプログラミング教室に出会い、自分のペースでじっくり学習できることから、ようやくPythonの基礎が理解できるようになり、今はPythonを使ったAIを学習しています。</p>
+<p>自分も苦労した経験から、プログラミング初心者のつまづきどころも理解しているので、一緒に問題解決することができます！</p>
+<h1>こんな人におすすめ！</h1>
+<p>プログラミングを始めたいけれど最初の一歩目がなかなか踏み出せない 
+どこから手を付けていいかわからない オンライン講座や書籍を買ったけど、プログラミングの学習で挫折してしまった、、、
+ 将来、ソフトウエア開発の職業に就きたい、
+ソフトウエア開発を使った起業をしたい   </p>
+<h1>内容  ▼</h1>
+<p>無料講習 
+1.いきなり、Pythonで簡単なゲームを作ってゆきます。（誰でもできるような内容ですので、ご心配なく！）
+ 2.学習の進め方のお手伝い 
+3.最初の1時間は参加者全員で少しずつ解説しながら進みます 
+4.後の1時間は自習で次の課題を進めてもらいます。不明な点は個別に質問を受けます。
+5.後の自習時間をスキップすることも大丈夫です。
+6.簡単なアンケート記入のご協力をお願いします！</p>
+<p>▼無料相談（オンライン） 希望者はアンケート記入時にオンラインでの無料相談も受付けます！ </p>
+<h1>開催場所</h1>
+<p>Matsuyama Meeting Point
+路面電車 /平和公園停留場：徒歩1分
+バス/平和公園バス停：徒歩1分
+JR/浦上駅：徒歩10分</p>
+<p>〒852-8118　長崎県長崎市松山町
+4-40 IP 松山ビル4 階</p>
+<p><a href="https://www.mmpoint.net/" rel="nofollow">https://www.mmpoint.net/</a></p>
+<h1>講師のウッディはどんな人</h1>
+<p>・IT業界4年目 ・前職は銀行や物流会社で多くのソフトウェア開発プロジェクトに参加 ・海外で多国籍のエンジニアのIT部門のマネージャーも6年ほど経験 ・居酒屋で初対面の人にも人生相談されるなど、話しやすいようです  ITの仕事の実態や業界の裏側などもお伝えできるかと思いますので、ぜひご検討ください！</p>
+<h1>申し込みにあたってのお願い</h1>
+<p>◎PCについて
+ノートPCをご持参ください。Windows、 Macどちらでも大丈夫です。</p>
+<p>◎ブラウザーについて
+GoogleのChromeを使えるように（ない場合はインストール）しておいてください。（わからなければ「Google Chrome 　ダウンロード」などで検索してください）
+講習ではGoogleのコラボラトリー（Colaboratory）を使います。
+Googleアカウントの事前登録をお願いします。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長崎でゼロから始めるPythonの無料体験講座]]></title>
+        <id>https://nagasaki-python.connpass.com/event/286329/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://nagasaki-python.connpass.com/event/286329/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T20:57:02.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/09 19:00 ～ 21:00<br />開催場所: 長崎県長崎市松山町 4-40 IP 松山ビル4 階<br /><br /><p>プログラミングはじめたいけど、どこから始めたら良いかわからない、就職や起業に役立つ実践的な技術を身につけたい・・・そんな人に朗報です！</p>
+<p>長崎で自立学習型プログラミング教室を開校準備中で、そのためのテストマーケッティング実施しています。</p>
+<p>講習時間は2時間（後半1時間は自習ですので、途中での退出も可能です、完全無料です。簡単なアンケートの記入をお願いします。</p>
+<h1>詳しい内容</h1>
+<p>＊〈お手持ちのPC〉で手を動かしながらPythonの簡単なプログラミングを一緒に行います＊ ☆無料Wi-Fiをご用意しています☆</p>
+<p>希望者は後日のオンラインでの無料相談もも受け付けます！
+  はじめまして！ ご覧いただきありがとうございます。  外資系のソフトウエア開発会社に勤務する「ウッディ」こと「はやし」と申します。 
+海外のエンジニアを使って日本のお客さまのソフトウエア開発を行なっていますが、日本のエンジニアの状況を見るにつけ、日本のエンジニアにももっと元気になって欲しいと思うようになりました。</p>
+<p>自分自身はエンジニアではありませんが、商談でプログラミングやITの大まかな知識は必要なのでプログラミングを勉強しようと思いました。</p>
+<p>オンラインでの動画や、オンラインでのプログラミングコース、書籍など、あれこれやりましたが、なかなか身につきませんでした。</p>
+<p>そんな中、自立学習型のプログラミング教室に出会い、自分のペースでじっくり学習できることから、ようやくPythonの基礎が理解できるようになり、今はPythonを使ったAIを学習しています。</p>
+<p>自分も苦労した経験から、プログラミング初心者のつまづきどころも理解しているので、一緒に問題解決することができます！</p>
+<h1>こんな人におすすめ！</h1>
+<p>プログラミングを始めたいけれど最初の一歩目がなかなか踏み出せない 
+どこから手を付けていいかわからない オンライン講座や書籍を買ったけど、プログラミングの学習で挫折してしまった、、、
+ 将来、ソフトウエア開発の職業に就きたい、
+ソフトウエア開発を使った起業をしたい   </p>
+<h1>内容  ▼</h1>
+<p>無料講習 
+1.いきなり、Pythonで簡単なゲームを作ってゆきます。（誰でもできるような内容ですので、ご心配なく！）
+ 2.学習の進め方のお手伝い 
+3.最初の1時間は参加者全員で少しずつ解説しながら進みます 
+4.後の1時間は自習で次の課題を進めてもらいます。不明な点は個別に質問を受けます。
+5.後の自習時間をスキップすることも大丈夫です。
+6.簡単なアンケート記入のご協力をお願いします！</p>
+<p>▼無料相談（オンライン） 希望者はアンケート記入時にオンラインでの無料相談も受付けます！ </p>
+<h1>開催場所</h1>
+<p>Matsuyama Meeting Point
+路面電車 /平和公園停留場：徒歩1分
+バス/平和公園バス停：徒歩1分
+JR/浦上駅：徒歩10分</p>
+<p>〒852-8118　長崎県長崎市松山町
+4-40 IP 松山ビル4 階</p>
+<p><a href="https://www.mmpoint.net/" rel="nofollow">https://www.mmpoint.net/</a></p>
+<h1>講師のウッディはどんな人</h1>
+<p>・IT業界4年目 ・前職は銀行や物流会社で多くのソフトウェア開発プロジェクトに参加 ・海外で多国籍のエンジニアのIT部門のマネージャーも6年ほど経験 ・居酒屋で初対面の人にも人生相談されるなど、話しやすいようです  ITの仕事の実態や業界の裏側などもお伝えできるかと思いますので、ぜひご検討ください！</p>
+<h1>申し込みにあたってのお願い</h1>
+<p>◎PCについて
+ノートPCをご持参ください。Windows、 Macどちらでも大丈夫です。</p>
+<p>◎ブラウザーについて
+GoogleのChromeを使えるように（ない場合はインストール）しておいてください。（わからなければ「Google Chrome 　ダウンロード」などで検索してください）
+講習ではGoogleのコラボラトリー（Colaboratory）を使います。
+Googleアカウントの事前登録をお願いします。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT系勉強会【第384回】朝からもくもく会]]></title>
+        <id>https://asa-moku-2.connpass.com/event/286328/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://asa-moku-2.connpass.com/event/286328/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T20:30:36.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/13 05:30 ～ 07:30<br />開催場所: (場所未定)<br /><br /><h2>イベントの説明</h2>
+<h3>内容</h3>
+<p>IT系中心のもくもく会で、<a href="https://asa-moku.connpass.com/" rel="nofollow">アサもく委員会</a>からの勉強会です<br>
+運営方法などは同じです。</p>
+<p>朝は脳のゴールデンタイムです。
+『朝・毎日・決まった時間・やることを宣言』
+これで驚くほど学習が捗ります。<br>
+朝学習を習慣化して、一緒にもくもく朝活しましょう！！</p>
+<p>内容は、プログラミング、副業、試験勉強など、何でもOKです<br>
+もちろん、未経験・経験者問わず参加OKです！<br>
+日頃なかなか進められないことに着手する時間としてお使いください！</p>
+<h3>タイムスケジュール</h3>
+<ul>
+<li>8:00〜自己紹介、やることを発表、作業開始</li>
+<li>9:30〜やったことの発表・雑談</li>
+<li>10:00　終了</li>
+</ul>
+<h3>会場</h3>
+<p>Zoomで行います。ビデオはON/OFFどちらでもOKです。<br>
+参加した方にZoomURLを押しらせします。</p>
+<p>途中参加、途中退室OKです！起きれず参加出来なかった、という場合も 連絡は不要です。</p>
+<h4>管理者のプロフィール</h4>
+<p>2021年未経験からC#エンジニアに転職、現在は副業でPHP案件を受注♪<br>
+勉強を習慣化し、一緒に勉強をしませんか？</p>
+<p>Twitter</p>
+<p><a href="https://twitter.com/assault031" rel="nofollow">https://twitter.com/assault031</a></p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第35回 CoderDojo厚木]]></title>
+        <id>https://coderdojo-atsugi.connpass.com/event/282655/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://coderdojo-atsugi.connpass.com/event/282655/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T19:46:11.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/25 10:30 ～ 12:30<br />開催場所: 神奈川県厚木市中町2丁目12-15<br /><br /><h2><strong>第35回 CoderDojo厚木</strong></h2>
+<h4><strong>【対面で活動再開してます！】</strong></h4>
+<p><br><b> 　　　ホームページ開設してます「<a href="https://sites.google.com/view/coderdojo-atsugi/" rel="nofollow">厚木Dojo</a>」</b>
+<br><b> 　　　ロボットトイ「<a href="https://toio.io/" rel="nofollow">toio</a>」を使えるようになりました！</b></p>
+<h3><strong>参加資格</strong></h3>
+<ul>
+<li>対象者 : 小学生、中学生（保護者の付き添い必須。未就学児の参加も保護者判断でOKです。）、17才まで</li>
+<li>定員 : 6組まで
+ <br>    ※ プログラミングを始めてみようという方、PCがなくても大丈夫</li>
+</ul>
+<p>ロボット トイで対戦して技術に触れて交流するだけでもＯｋです。
+そして、相談できる仲間もいます。</p>
+<h5><em>活動内容：</em></h5>
+<ul>
+<li>未経験者：プログラミングの考え方を toio などで学ぶ</li>
+<li>初心者：プログラムを作る環境(Scratch, micro:bit, python など)、作り方を学ぶ</li>
+<li>
+<p>その他：メンターやNinjaと交流して腕磨き</p>
+<p>などなど、参加者のみんなで楽しく学ぶ！ それぞれで作った作品、やったことを発表し合います。未完成でもOk！</p>
+</li>
+</ul>
+<h3><strong>持参するもの</strong></h3>
+<ul>
+<li>WiFi接続可能なノートパソコン or タブレット
+<br><b> (toio を利用できます！ なので、手ぶらでもOkです！)</b></li>
+<li>プロジェクタに接続するためのアダプタ（必須ではありませんが、接続できない可能性もあり持参いただけると助かります。）</li>
+</ul>
+<p><strong>※：WiFiは、施設に設置されている公共のFree WiFiを使用します。接続時、保護者のサポートをお願いします。</strong></p>
+<p>（<a href="https://www.city.atsugi.kanagawa.jp/soshiki/johoseisakuka/8/8449.html" rel="nofollow">https://www.city.atsugi.kanagawa.jp/soshiki/johoseisakuka/8/8449.html</a>)</p>
+<h3><strong>開催日時・場所</strong></h3>
+<ul>
+<li>日時： 2023/6/25(日）  10:30-12:30　（10:15 受付開始)</li>
+<li>場所： アミューあつぎ　 　6階 会議室 604</li>
+</ul>
+<h3><strong>タイムテーブル</strong></h3>
+<ul>
+<li>10:30 道場スタート (スタート前に会場のWiFiに接続をお願いします。）</li>
+<li>12:30 道場おわり、解散</li>
+</ul>
+<p>(施設の利用時間が、13:00までのため、5分前までに退出する必要があります。ご協力をお願いします。）</p>
+<h3><strong>はじめに</strong></h3>
+<p>CoderDojoは子ども達自身が自発的にプログラミングに挑戦し楽しむ場です。特にカリキュラムはありません。各自が課題を持って取組んでもらいます。</p>
+<p>下記は参考情報です。</p>
+<ol>
+<li>
+<p>CoderDojo:  <a href="https://projects.raspberrypi.org/ja-JP/coderdojo" rel="nofollow">https://projects.raspberrypi.org/ja-JP/coderdojo</a></p>
+</li>
+<li>
+<p>プログラム初心者の教材（参考）</p>
+<p>Hour Of Code: <a href="https://hourofcode.com/jp" rel="nofollow">https://hourofcode.com/jp</a></p>
+<p>マインクラフト <a href="https://code.org/mc" rel="nofollow">https://code.org/mc</a></p>
+<p>アナとエルザ <a href="http://code.org/api/hour/begin/frozen" rel="nofollow">http://code.org/api/hour/begin/frozen</a>　</p>
+<p>フラッピーコード <a href="http://studio.code.org/s/flappy/reset" rel="nofollow">http://studio.code.org/s/flappy/reset</a></p>
+</li>
+<li>
+<p>Scratch の準備：<a href="https://scratch.mit.edu/" rel="nofollow">https://scratch.mit.edu/</a></p>
+<p>予め「アカウント作成」しておくことをお勧めします。</p>
+<p>厚木Dojoスタジオ：<a href="https://scratch.mit.edu/studios/5221423" rel="nofollow">https://scratch.mit.edu/studios/5221423</a></p>
+</li>
+<li>
+<p>CoderDojo Kata の資料: <a href="https://coderdojo.jp/kata" rel="nofollow">https://coderdojo.jp/kata</a></p>
+<p>課題を探すための参考になる教材があります。またDojoの活動の様子も分かると思います。</p>
+</li>
+<li>
+<p>プログラミング学習環境の利用</p>
+<ul>
+<li>
+<p>株式会社 Progateより CoderDojoに提供される学習コンテンツを利用させていただきます。使用を希望される場合は、チャンピオンにご相談ください。
+<a href="http://news.coderdojo.jp/2018/10/29/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E5%AD%A6%E7%BF%92%E3%81%AEprogate%E3%80%81%E5%85%A8%E5%9B%BD%E3%81%AEcoderdojo%E3%81%B8%E6%B3%95%E4%BA%BA%E3%83%97%E3%83%A9%E3%83%B3/" rel="nofollow">プレスリリース</a></p>
+</li>
+<li>
+<p>株式会社 DIVE INTO CODE より CoderDojoに提供される学習コンテンツを利用させていただきます。使用を希望される場合は、チャンピオンにご相談ください。<a href="https://news.coderdojo.jp/2021/12/27/diver-learnings-for-coderdojo/" rel="nofollow">プレスリリース</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p>教育用 Minecraft の利用開始 → 使えるように頑張ってます　</p>
+</li>
+<li>
+<p>ロボットトイ toio  </p>
+<p>株式会社 ソニー・インタラクティブエンタテインメントからロボットトイ toio を提供いだきました。厚木Dojoで利用させていただきます。<a href="https://news.coderdojo.jp/2022/03/17/toio-sony-interactive-entertainment/" rel="nofollow">プレスリリース</a></p>
+</li>
+</ol>
+<h3><strong>挑戦中のもの：Scratch 以外にできること増やそうとやってます</strong></h3>
+<ul>
+<li>
+<p>Raspberry Pi ：<a href="https://www.raspberrypi.com" rel="nofollow">https://www.raspberrypi.com</a></p>
+<p>使えるようにしたが、その先何をやるかです。
+ <a href="https://fukuno.jig.jp/app/IchigoJam/" rel="nofollow">IchigoJam</a> もその一つ</p>
+<p>（※ IchigoJamは、上記リンクからWeb上でBASICプログラムの作成・実行が可能です。）</p>
+</li>
+<li>
+<p>Python -  機械学習学んでみて、ネットワーク プログラミングも試してみたい</p>
+</li>
+<li>
+<p>micro:bit　-  複数台での通信を試してみました。次は何か動くものを作ってみたい。</p>
+</li>
+<li>
+<p>Viscuit - 使うのは簡単。その先の皆で共有する環境づくりで停滞中。相変わらず、停滞中。知っている方、歓迎です。</p>
+</li>
+<li>
+<p>Minecraft - Scratch 1.4 との連携：Connpassの資料室に説明資料を置いています。（第10回 Dojoでメンター畑屋さんが公開してくれた資料です。）</p>
+</li>
+<li>
+<p>Linux - linux を操作できる環境も提供できるようになりました。さくらインターネットの「<a href="https://cloud.sakura.ad.jp/" rel="nofollow">さくらのクラウド</a>」を利用できます。</p>
+</li>
+</ul>
+<h3><strong>注意事項</strong></h3>
+<ul>
+<li>中学生までは、保護者の方がイベント会場への送迎および、イベント中に付き添えることが参加条件となります。</li>
+<li>パソコンなど機器の基本的な操作、およびFree WiFiへの接続は保護者の方でサポートをお願いします。</li>
+<li>問合せは、イベントへのお問い合わせより電子メールにてお願いします。</li>
+</ul>
+<h3><strong>撮影について</strong></h3>
+<p>会場内では写真を撮影します。Facebookなど、インターネットで公開する場合があります。あらかじめご了承ください。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【オンライン】積読を消化する会]]></title>
+        <id>https://connpass.com/event/286326/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://connpass.com/event/286326/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T16:27:23.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/07 20:00 ～ 22:00<br />開催場所: (場所未定)<br /><br /><p>いつの間にか積み上がってしまった技術書、ありますよね？それを少しずつ消化していくもくもく会です。</p>
+<p>技術書の処理速度を上げて、積むことを恐れずに新しい分野の技術書をどんどん買いましょう。</p>
+<h1>流れ</h1>
+<table>
+<thead>
+<tr>
+<th>時間</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20:00</td>
+<td>gatherに集まる</td>
+</tr>
+<tr>
+<td>20:00 ~ 20:10</td>
+<td>軽く自己紹介と何をどれぐらい解消するか宣言</td>
+</tr>
+<tr>
+<td>20:10  ~ 21:30</td>
+<td>もくもく読書</td>
+</tr>
+<tr>
+<td>21:30 ~ 22:00</td>
+<td>gatherに入って軽くoutput (質疑応答含めて一人5分程度)</td>
+</tr>
+</tbody>
+</table>
+<h1>目標</h1>
+<p>頑張って積読を消化しましょう！</p>
+<ul>
+<li>途中入退室ok</li>
+<li>ジャンルなんでもok</li>
+<li>オンライン(gather)</li>
+</ul>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTを使ったWebアプリ制作体験会]]></title>
+        <id>https://toyama-it.connpass.com/event/286253/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
+        <link href="https://toyama-it.connpass.com/event/286253/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
+        <updated>2023-06-04T16:25:17.000Z</updated>
+        <summary type="html"><![CDATA[開催日時: 2023/06/25 13:00 ～ 16:00<br />開催場所: 富山県富山市新総曲輪4番18号<br /><br /><h1>今回のタイトル</h1>
+<h2>概要</h2>
+<p>話題のChatGPTをWebアプリ制作に使ってみましょう！</p>
+<p>ChatGPTはOpenAIが公開している人工知能チャットボットで、自然言語理解と生成のタスクを行うことができます。特に、人間が利用者として対話するように設計されているのが特徴です。</p>
+<p>今回はこのChatGPTとPython製WebアプリケーションフレームワークのDjangoを使ってWebアプリ制作を体験してみる会です。</p>
+<p>最初にDjangoのインストールとChatGPTをWebアプリ制作にどう活かすかを簡単に解説し、その後は各自自由にWebアプリ制作に取り組みます。</p>
+<p>一応Djangoで進行しますが、自分でセットアップできる方はRuby on RailsやLaravel、など別のフレームワークを使って頂いても構いません。ChatGPTをWebアプリ制作にどう活かすか、という観点では大枠に収まると考えています。</p>
+<p>また、先日東京で開催された技術書典14で主催が買ってきたChatGPTなど生成AI関連の書籍も持っていきます！他のエンジニアさんたちがどのように生成AIと向き合ったり、活用しているかの参考になるはずです。</p>
+<h2>目的</h2>
+<ul>
+<li>AIツールノウハウの富山への普及</li>
+<li>技術系イベントの富山への普及</li>
+<li>富山の技術レベルの底上げ</li>
+<li>富山のエンジニアコミュニティの活性化</li>
+</ul>
+<h2>対象者</h2>
+<ul>
+<li>ChatGPTの活かし方について聞きたい、話し合いたい方</li>
+<li>Webアプリケーションを作ってみたい方</li>
+<li>富山のエンジニアコミュニティを盛り上げてくれる方</li>
+</ul>
+<h2>参加費</h2>
+<ul>
+<li>1,000円（会場払い）</li>
+<li>学生は無料</li>
+</ul>
+<h2>日時</h2>
+<p>2023年6月25日(日)　13:00～16:00</p>
+<h2>開催場所</h2>
+<p>富山県富山市新総曲輪4番18号　「富山県民会館」602号室</p>
+<ul>
+<li>JR富山駅（南口）、あいの風とやま鉄道富山駅（南口）、富山地方鉄道富山駅から徒歩10分</li>
+<li>富山地方鉄道バス主要路線 富山市役所前下車</li>
+<li>北陸自動車道 富山インターチェンジから車15分</li>
+<li>会場はWiFi完備</li>
+</ul>
+<h2>タイムテーブル（暫定）</h2>
+<table>
+<thead>
+<tr>
+<th align="center">時間</th>
+<th align="center">内容</th>
+<th align="center">発表者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">13:00-13:15</td>
+<td align="center">自己紹介</td>
+<td align="center">みんな</td>
+</tr>
+<tr>
+<td align="center">13:15-13:30</td>
+<td align="center">ChatGPTをWebアプリ制作にどう活かすか</td>
+<td align="center">オーニシ</td>
+</tr>
+<tr>
+<td align="center">13:30-14:00</td>
+<td align="center">Djangoのインストール（任意参加）</td>
+<td align="center">オーニシ</td>
+</tr>
+<tr>
+<td align="center">14:00-14:20</td>
+<td align="center">休憩</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">14:20-16:00</td>
+<td align="center">ChatGPTを使ったWebアプリ制作体験</td>
+<td align="center">みんな</td>
+</tr>
+<tr>
+<td align="center">16:00-16:30</td>
+<td align="center">ロスタイム（任意）</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">16:30-17:00</td>
+<td align="center">片付け・撤収</td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<h2>ご用意いただくもの</h2>
+<ul>
+<li>ノートパソコン</li>
+<li>Discordアカウント（<a href="https://discord.gg/u7w6tJzj" rel="nofollow">こちらの招待リンク</a> からご登録ください。）</li>
+<li>ChatGPT(OpenAI)への登録は予め済ませておいて下さると助かります。（<a href="https://denno-sekai.com/chatgpt" rel="nofollow">登録方法はこちらのページ</a> に記載しております。</li>
+</ul>
+<h2>参加特典</h2>
+<p>来場者全員に、主催が代表を務める技術同人サークル電脳世界の新刊『Pythonプログラミングの２歩目でWebアプリを作るwithDjango』をプレゼント！</p>
+<h2>アンチハラスメントポリシー</h2>
+<p>当勉強会は差別、ハラスメント、マウンティングなどの迷惑行為を固く禁じます。<br>
+詳細は下記、富山勉強会のグループページをご覧ください。<br>
+<a href="https://toyama-it.connpass.com/" rel="nofollow">https://toyama-it.connpass.com/</a></p>
+<h2>注意</h2>
+<p>マルチ・ネットワークビジネス等関係者の参加はお断り致します。</p>]]></summary>
+        <author>
+            <name>connpass 新着イベント</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno、npmパッケージ込みで単一の実行ファイル生成可能に。Deno Compileがnpmパッケージに対応]]></title>
+        <id>https://www.publickey1.jp/blog/23/denonpmdeno_compilenpm.html</id>
+        <link href="https://www.publickey1.jp/blog/23/denonpmdeno_compilenpm.html"/>
+        <updated>2023-06-04T15:59:15.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのJavaScript/TyeScriptランタイム「Deno」には、Denoをアプリケーションごとコンパイルして単一の実行ファイルが生成できる「Deno Compile」機能があります。 Deno Compileで生成された...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno DeployでNode.jsアプリが実行可能に、Node.jsビルトインモジュールのサポートで]]></title>
+        <id>https://www.publickey1.jp/blog/23/deno_deploynodejsnodejs.html</id>
+        <link href="https://www.publickey1.jp/blog/23/deno_deploynodejsnodejs.html"/>
+        <updated>2023-06-04T15:05:15.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのJavaScript/TyeScriptランタイム「Deno」の開発元であるDeno Landは、同社が提供しているDenoの分散ホスティングサービス「Deno Deploy」がNode.jsビルトインモジュールをサポートし...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT系勉強会【第381回】朝からもくもく会]]></title>
         <id>https://asa-moku-2.connpass.com/event/286191/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
@@ -58812,1393 +59429,6 @@ Amazonやメルカリで中古を購入する、先輩から借りるなどし�
  <a href="http://www.android-group.jp/" rel="nofollow">
   </a><a href="http://www.android-group.jp/" rel="nofollow">http://www.android-group.jp/</a>
  </p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/14(日)【第1853回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK]]></title>
-        <id>https://no-genre-mokumoku.connpass.com/event/283115/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://no-genre-mokumoku.connpass.com/event/283115/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T21:13:57.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/14 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>
-<p>途中入退室可のIT系もくもく会です<br>
-勉強時間を毎日集計！初心者歓迎です！！<br>
-参加者より質問等が出てきた場合は、<br>
-わかる内容については積極的にご回答いただけるとありがたいです<br>
-<br>
-※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
-もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)
-<br>
-<br></p>
-<h2>Break</h2>
-<p>もくもく会参加者がゲームを作成してくれました。<br>
-息抜きに是非遊んでください。<br>
-<a href="http://uaaaaaaaa.com/pf/zixntori404" rel="nofollow">http://uaaaaaaaa.com/pf/zixntori404</a>
-<br>
-<br></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/14(日)【第1852回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK]]></title>
-        <id>https://no-genre-mokumoku.connpass.com/event/283114/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://no-genre-mokumoku.connpass.com/event/283114/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T21:12:25.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/14 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>
-<p>途中入退室可のIT系もくもく会です<br>
-勉強時間を毎日集計！初心者歓迎です！！<br>
-参加者より質問等が出てきた場合は、<br>
-わかる内容については積極的にご回答いただけるとありがたいです<br>
-<br>
-※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
-もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)
-<br>
-<br></p>
-<h2>Break</h2>
-<p>もくもく会参加者がゲームを作成してくれました。<br>
-息抜きに是非遊んでください。<br>
-<a href="http://uaaaaaaaa.com/pf/zixntori404" rel="nofollow">http://uaaaaaaaa.com/pf/zixntori404</a>
-<br>
-<br></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【音声のみ】第188回プログラミング初学者歓迎もくもく会＋交流会]]></title>
-        <id>https://beginner-front.connpass.com/event/283112/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://beginner-front.connpass.com/event/283112/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T16:44:02.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/08 19:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h3>「1人だと作業に集中出来ない」「気軽に質問・相談したい」という初学者向けの、オンラインもくもく会（勉強＋交流会）です</h3>
-<p><strong>ビデオはオフ、音声のみ・無言OKです！（途中参加・退出なども自由です）</strong></p>
-<p>「もくもく会自体はじめて…」<br>という方でも気軽に参加できる、ゆるい雰囲気のもくもく会です！</p>
-<p>主催者自身、日々プログラミング勉強中です。（現在は作りたいwebサービスがあるので、個人開発を学んでおります。）<br>1人だと怠けてしまう時があるので、複数人でゆるい雰囲気で作業を進めることができたら良いなと思い、開催しております。</p>
-<h1>こんな方におすすめ</h1>
-<ul>
-<li>IT/web/プログラミング初学者</li>
-<li>プログラミング学習仲間がほしい</li>
-<li>モチベーション維持が難しいと感じる人</li>
-<li>プログラミングについて質問・相談したい</li>
-<li>作りたいサービスがあり、それに関して話したい</li>
-</ul>
-<p>プログラミング初学者に限らず、ゆるく作業や交流したい方は気軽にご参加ください！</p>
-<h1>開催概要</h1>
-<p>▶️場所：Gather(オンライン開催）<br>ビデオはオフ・音声のみ・無言OKです！</p>
-<p><strong>申し込みが完了すると「参加者への情報」という場所に、GatherのURLが表示されます。</strong><br>（Gatherは、スマートフォン・PCどちらからでも、登録なしで参加することが可能です。）</p>
-<p>また、Gatherは、ポケモンとZoomを掛け合わせたようなサービスだと言われています。<br>直感的な操作で、Zoomより気軽なコミュニケーションができます。</p>
-<p>（もくもく会の始めに、Gatherの操作について不明な点があればご説明いたします！）</p>
-<h1>当日のスケジュールの流れ</h1>
-<p>▶️【19:00 - 20:50】<br>準備ができた人から各自作業開始！</p>
-<p>はじめに、主催者から全体に簡単な説明・挨拶を致します。（Gatherの使い方やもくもく会について）</p>
-<p>→その後、各自の作業を進めていきます（作業中も音声、チャットで気軽にやり取りができます）</p>
-<p><br></p>
-<p>▶️【20:50 - 】<br>軽く報告・雑談（任意）</p>
-<p>本日やったことの簡単な報告・質問・雑談タイムです。</p>
-<p>（例：「今日はProgateでJavaScriptを進めました！」「この本何ページ読みました！」など）</p>
-<p>→その後、各自自由なタイミングで退出・引き続き作業して頂いてOKです。<br>（話が盛り上がって１時間近く話してしまう事がたまにあるので、自由解散という形にしています）</p>
-<ul>
-<li>途中参加・退出なども全く問題ないです</li>
-<li>終わりに行う軽い報告・雑談は、任意参加です。作業のキリが悪かったり、離席していたりなどでも問題ありません。</li>
-</ul>
-<h1>備考</h1>
-<ul>
-<li>このもくもく会のDiscordもあるので、connpass上の参加者より、実際の参加人数が多い事があります。</li>
-<li>当日キャンセルも全く問題ありません。都合の良いお時間に参加ください。</li>
-</ul>
-<p>複数人で集中したり、作業の合間に気軽に質問・雑談できるような雰囲気を目指しています。<br><strong>「これからプログラミングを始める！」という超初心者の方でも気軽にご参加ください！</strong></p>
-<h1>参考キーワード</h1>
-<p>IT, web制作, webアプリ開発, プログラミング, 初心者歓迎, HTML, CSS,  JavaScript, Python, Ruby, php, React.js, Vue.js, 個人開発, プロダクト開発, コミュニティ運営者, もくもく会運営者</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GDG Osaka] 生産性向上LT大会]]></title>
-        <id>https://gdgosaka.connpass.com/event/279447/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://gdgosaka.connpass.com/event/279447/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T16:22:28.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/25 18:30 ～ 20:10<br />開催場所: 大阪市北区本庄東1丁目18番8号<br /><br /><h2>概要</h2>
-<p>今回は「生産性向上」というテーマでLTを募集します。</p>
-<p>GONENGO LLC 様の協賛のもと、現地会場をご提供いただきます。</p>
-<h2>会場アクセス</h2>
-<h3>オンライン参加の方</h3>
-<p>URLは別途共有します</p>
-<h3>現地参加の方</h3>
-<p>コミュニティスペース 5.6</p>
-<p>大阪市北区本庄東1丁目18番8号</p>
-<p><font color="red">※GoogleMapだとほぼ迷うので、<a href="https://sites.google.com/view/gotenroku/access/" rel="nofollow">アクセスマップ</a>を必ず見てお越しください。</font></p>
-<h4>会場利用規定</h4>
-<p>新型コロナウイルス感染症を取り巻く情勢を鑑み、参加者および関係者の健康・安全面を第一に考慮し開催を予定しております。<br>
-<b><font color="red" size="+1">※ 感染状況などに応じてオフラインでの開催を中止する可能性がございます。</font></b></p>
-<div class="codehilite"><pre><span></span><code>・当日体調が怪しい方は、迷わずキャンセルしてください。
-・入館時は「ゲスト登録」「手指の消毒」「検温」を行ってください。
-（体温が37.0度以上の場合はご入室いただけません。）
-・館内では感染のリスクを減らすためにマスクの着用をお願いします。
-・イベント中に体調不良を感じた方は、迷わず早退してください。イベント中に咳き込む方などは強制的にお帰り頂く可能性があります。
-</code></pre></div>
-
-<h2>タイムテーブル</h2>
-<table>
-<thead>
-<tr>
-<th align="left">時間</th>
-<th align="left">内容</th>
-<th align="left">スピーカー</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">18:00 ~ 18:30</td>
-<td align="left">受付</td>
-<td align="left">-</td>
-</tr>
-<tr>
-<td align="left">18:30 ~ 18:35</td>
-<td align="left">コミュニティ紹介/進め方説明</td>
-<td align="left">GDG Osaka</td>
-</tr>
-<tr>
-<td align="left">18:35 ~ 19:30</td>
-<td align="left">LT</td>
-<td align="left">TBD</td>
-</tr>
-<tr>
-<td align="left">19:30 ~ 19:40</td>
-<td align="left">クロージング</td>
-<td align="left">GDG Osaka</td>
-</tr>
-</tbody>
-</table>
-<p>LTに登壇頂ける方はオンライン、オンラインどちらでも可能です。</p>
-<h2><a href="https://gdgosaka.connpass.com/" rel="nofollow">GDG Osaka</a>とは？</h2>
-<p>GDG Osakaは、Googleのテクノロジーに興味、関心のあるメンバーが集うグループです。 <br>
-主に大阪を中心に活動し、大阪のエンジニア同士の交流や技術レベルの向上に少しでも貢献できればと考えております。</p>
-<p>イベントに関する情報や企画等は、GDG Osakaの<a href="https://twitter.com/GdgOsaka" rel="nofollow">Twitter</a>で配信中！</p>
-<p>皆さん是非フォローください！</p>
-<h2><a href="https://www.gonengo.com/" rel="nofollow">GONENGO LLC</a>について</h2>
-<p>GONENGOは、テックエンジニア・プランナーの専門家集団です。TECHの力で５年後の世界を変える自社開発やサービスを展開しているほか、Google Apps Scriptを用いた業務改善を通じ、地方の課題解決に取り組んでいます。現在、長期インターン生（学生・社会人問わず）を募集していますので、お気軽にお問い合わせください。<br>
-◉<a href="https://www.gonengo.com/" rel="nofollow">HP</a><br>
-◉<a href="https://twitter.com/gonengollc/" rel="nofollow">Twitter @gonengollc</a><br></p>
-<h2>行動規範</h2>
-<p>GDG Japanは行動規範を定めております。 
-こちらをご一読、ご協力のほどよろしくお願い致します。</p>
-<p><a href="https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U" rel="nofollow">https://docs.google.com/document/d/19ro-uIGLWc5LqtCb8YUTvYXSwaH-GrdB0Bs9ha4Kw9U</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Đặt Tên Con Họ Đỗ]]></title>
-        <id>https://connpass.com/event/283108/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://connpass.com/event/283108/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T14:49:30.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/29 01:00 ～ 2023/07/12 03:00<br />開催場所: (場所未定)<br /><br /><h1><strong>Nguồn gốc họ Đỗ và sự vẻ vang của dòng họ nổi tiếng này</strong></h1>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Họ Đỗ không phải là một họ quá xa lạ tại Việt Nam. Có khá nhiều người nổi tiếng thuộc dòng họ này. Tuy nhiên, tenkhaisinh tin chắc rằng khá nhiều bạn còn đang chưa biết nguồn gốc họ Đỗ cũng như sự vẻ vang của dòng họ nổi tiếng này. Vậy thì hãy cùng chúng tôi tìm hiểu kĩ hơn về </span><a href="https://tenkhaisinh.com/ten-con-gai-ho-do.html" rel="nofollow"><strong>tên hay cho bé gái họ đỗ</strong></a><span style="background-color: transparent; font-size: 10pt;"> nhé!</span></p>
-
-<h2><strong>Vài nét về lịch sử Họ Đỗ Việt Nam</strong></h2>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Theo Tenkhsisinh nơi </span><a href="https://tenkhaisinh.com/" rel="nofollow"><strong>nghiên cứu cách đặt tên cho con</strong></a><span style="background-color: transparent; font-size: 10pt;"> thì Lời mở màn của cuốn sách họ Đỗ Việt Nam, Phần I, đã ghi rõ "Họ Đỗ - một nhóm người Việt cổ đã tồn tại trên quê hương vùng đất tổ văn lang rất xa xưa và khá lâu".</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Nhiều tài liệu, thư tịch cũ được lưu trữ thuộc hàng hiếm đã xác nhận rõ ràng họ Đỗ đã sống gắn bó chặt với sự hình thành, sinh tồn của người Việt cổ xưa trên đất này ít nhất ở đây từ 5.000-6.000 năm, vào thời dựng nước đầu có tên Văn Lang.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Theo "Cổ Lôi Ngọc Phả Truyền Thư" và "Bách Việt Tộc Phả" thì những người họ Đỗ sớm nhất tới ngày nay được nhắc đến là cụ bà họ Đỗ có tên là Ngoạn hay thường gọi là công chúa Đoan Trang. Cụ cưới chồng người họ Nguyễn là Nguyễn Minh Khiết tức Đế Minh. Hai cụ đẻ được Lộc Tục (sau là Kinh Dương Vương). Cụ có 8 người em trai có tên là: Đỗ Xương, Đỗ Tiêu, Đỗ Kỷ, Đỗ Cương, Đỗ Chương, Đỗ Dũng, Đỗ Bích và Đỗ Trọng.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Tám vị em trai thường là người trung thành và một lòng giúp cháu. Tám vị mà Lộc Tục gọi là cậu (em mẹ) sau khi thành các vị "Kim Cương" nên hay được gọi là Hoàng tử và có Pháp hiệu riêng như:</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Xương, hiệu Là Kim Cương;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Tiêu, hiệu là Tịch Độc Thận Kim Cương;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Kỷ, hiệu là Hoàn Tuỳ Cầu Kim Cương;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Cương, hiệu là Bạch Tịnh Thuỷ Kim Cương;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Chương, hiệu là Xích Thanh Hoả Kim Sơn;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Dũng, hiệu là Định Trừ Tai Kim Cương;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Bích, hiệu là Tử Hiền Thần Kim Cương;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> • Đỗ Trọng, hiệu là Thần Lục Kim Cương.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Bia con cóc của 8 vị trên tại gò Thiềm Thừ (con rùa) thuộc khu vực Ba La. Do biến cố của lịch sử hai văn bia này đã phải di dời đến ngày nay chỉ đang lưu trên đê sông Nhuệ thuộc làng Cự Khê.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Do dòng chảy lịch sử dân tộc trải lên các triều đại vua Hùng đời sau cũng đã lưu nhiều văn bia là của danh nhân lịch sử họ Đỗ điển hình như:</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Hùng Vương thứ Sáu có Đỗ Phụng Chân tại trang Khê Kiều thuộc huyện Thư Trì, tỉnh Thái Bình hiện nay vì đã có công đánh đuổi quân Ngoại xâm và được dân suy tôn lên Vua.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Thời Hùng Nghị Vương (Hùng Vương thứ 17) tại trang Nhân Lý, ngày nay là làng Tiểu Quan (Châu Giang, Hưng Yên) có một gia tộc họ Đỗ (Đỗ Quang) với 3 người con đã có công giúp nước, trong nhà có một con gái.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Hùng Vương thứ 18: Số nhân vật lịch sử họ Đỗ cũng không phải là hiếm, ví dụ tại trang Cổ Tiết (Thái Bình) có ông Đỗ Công Điềm cùng ba con trai Đỗ Quân Tấu, Đỗ Lục Lang, Đỗ Khánh và con dâu là Liên Nương đã có công đánh giặc, giúp nước nên được tôn lên Hoàng làng, hiện nay còn đang được thờ cúng.</span></p>
-
-<h2><strong>Sự vẻ vang của dòng họ Đỗ tại Việt Nam</strong></h2>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Hiện nay, họ Ngô Việt Nam đã tạo nên một công đồng rộng, cư trú tại hầu khắp mọi vùng và nhiều nơi cả nước, từ miền Bắc xuống tới Cà Mau. Xin nói lên những con số đã thu được:</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Hai tập về họ Đỗ Việt Nam (tập I và tập II) chúng tôi đã sưu tầm, biên soạn lại lịch sử được trên 320 chi, nhánh họ Đỗ ở cấp xã (trong số có 124 chi họ Đỗ tại khu vực Nghệ - Tĩnh, Nam Thanh Hoá, gọi là Đậu)</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Đối với những người họ Đỗ được phát hiện và vinh danh qua hai quyển từ điển "Họ Đỗ Việt Nam" tuy chưa thể sưu tầm hết song đã thu được một kết quả rất đáng khích lệ. Cụ thể là:</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 219 nhân vật lịch sử từ trước đến giờ trong số có 50 vị được trao tặng các danh hiệu vinh dự cao của Nhà nước và danh hiệu "Nhân Dân"...</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 132 vị Đại học cũ gồm 5 vị cấp Tiến sĩ là Thượng thư, Mãn nhãn và Thám hoa. Tiến sĩ Nguyên có 18 vị và Tiến sĩ Giáp có 62 vị. Tám vị đỗ Phó Bảng. Họ Đỗ xếp thứ 6 trong tổng số các họ cả nước có người đạt Tiến sĩ thời cũ.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 167 vị đạt Tiến sĩ thời cũ (Kỹ sư và Cử nhân).</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;"> ·       Có 486 vị là Tiến sĩ thời hiện đại (tính từ 1945 đến 2003) .</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 157 vị được Nhà nước việt nam bổ nhiệm chức vụ khoa học cấp cao (Tiến sĩ sý, Giáo sư và Phó GS). Không có dữ liệu bổ nhiệm những chức vụ khoa học của người họ Đỗ sinh sống tại nước ngoài.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 215 vị được Nhà nước việt nam trao tặng danh hiệu "Ưu tú" bao gồm 32 nghệ sĩ nhân dân, 109 nhà giáo ưu tú cùng 64 lương y.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Quan Võ xưa đến ngày nay có tổng cộng 133 vị, số ấy có 15 vị là Thượng tướng của Quân đội nhân dân Việt Nam.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Thần cũ có 26 vị.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Tấm gương khắc phục khó, có sáng kiến xuất sắc và đóng góp vào cuộc đời 4 vị;</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Sinh viên thành công trong học đường có 16 người.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Đại biểu Quốc Hội, chủ nhiệm văn phòng Của Quốc Hội và Chính Phủ khoá I tính đến nay có 97 vị.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 27 vị Chức sắc thuộc các Giáo phái.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">·       Có 62 vị được tôn là Thần và Thành hoàng làng.</span></p>
-
-<p><span style="background-color: transparent; font-size: 10pt;">Những con số trên thực sự là những con số biết nói không chỉ cho thấy nguồn gốc họ Đỗ thực sự sâu xa và sự vẻ vang của gia tộc họ Đỗ. Qua bài viết này, hy vọng Tên Khai Sinh đã mang tới cho các bạn những thông tin hữu ích về dòng họ Đỗ cũng như lịch sử của dòng họ này. Nếu bạn đọc có thêm thông tin giá trị, hãy liên hệ với tenkhaisinh để bổ sung thêm nhé! Chúng tôi còn rất nhiều những thông tin thú vị khác như </span><a href="https://yoo.rs/nhung-ten-con-gai-dep-ma-ba-me-khong-nen-bo-qua" rel="nofollow"><strong>những tên con gái đẹp</strong></a><span style="background-color: transparent; font-size: 10pt;"> mà các bạn không nên bỏ lỡ. Đừng quên theo dõi nếu các bạn thấy hay nhé!</span></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[YouTube Live] Power Apps Weekly News 23]]></title>
-        <id>https://appsweeklynews.connpass.com/event/283105/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://appsweeklynews.connpass.com/event/283105/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T13:46:50.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/12 21:30 ～ 22:30<br />開催場所: オンライン<br /><br /><h1>■Power Apps Weekly News <br></h1>
-<p>Power BI Weekly News リスペクトで Power Apps のアップデート情報を YouTube Live でお送りします。<br>
-<br>
-清水優吾さんのPower BI Report : <a href="https://bit.ly/PBI-WeeklyNews" rel="nofollow">https://bit.ly/PBI-WeeklyNews</a>  <br>
-…を使って<br>
-色々まるパクリで頑張ってまいります！<br><br>
-Power Apps の Update 情報をお届けしていきます<br>
-<br>
-YouTube チャンネル：<a href="https://www.youtube.com/channel/UCRK_uMOrghyOBQjO_kuIVnw" rel="nofollow">マグロの生態 Akira ちゃんねる</a><br>
-<br></p>
-<h1>■諸注意<br></h1>
-<p>YouTube Live で公開生放送でやるので、本イベントに登録しなくてもご覧いただけますが、可能であれば、参加登録していただけると幸いです。今後も生放送を予定しているので、登録してグループに参加していただけると、次回イベントのお知らせが飛びます。</p>
-<h1>■小ネタ募集中<br></h1>
-<p>アップデートが無い回は、小ネタ合戦になると予想されますので、皆さんから何かリクエストだったり、質問だったりがあれば、遠慮なくお知らせください。</p>
-<p>当日でもいいですし、準備が必要そうだなって思うものなら、あきら（まぐろ） か やまさん（ちょんまげ） の Twitter までください。</p>
-<p>やまさん: <a href="https://twitter.com/yamad365<br>" rel="nofollow">https://twitter.com/yamad365<br></a>
-Akira: <a href="https://twitter.com/akira_365" rel="nofollow">https://twitter.com/akira_365</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「実践Redis入門」読書会3]]></title>
-        <id>https://yuruora.connpass.com/event/283104/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://yuruora.connpass.com/event/283104/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T12:53:52.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/12 20:30 ～ 22:00<br />開催場所: Brave Talk<br /><br /><p>Redis本の「実践Redis入門 技術の仕組みから現場の活用まで」の読書会です！！<br>
-参加者で順番に読んでいきましょう<br>
-本は各々でご購入しておいてください<br>
-Redis全然わからない人から詳しい人まで誰でも大歓迎です<br>
-<br>
-ドタキャンや途中入退出は自由です。無言で抜けても問題ないので気軽にやりましょう<br>
-入門者向けの会ですので、質問等はどんどんしてください<br>
-答えられる人がいるかは謎です<br>
-<br></p>
-<table>
-<thead>
-<tr>
-<th align="center">日付</th>
-<th align="center">進捗</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">04/28</td>
-<td align="center">P.1～</td>
-</tr>
-<tr>
-<td align="center">05/05</td>
-<td align="center">P.31(物理P.11)～ Column ACID特性</td>
-</tr>
-<tr>
-<td align="center">05/12</td>
-<td align="center">P.54(物理P.23)～ 2章</td>
-</tr>
-</tbody>
-</table>
-<p><br></p>
-<p>※呼びかけても応答がない方はこちらで退出処理をする場合があります。</p>
-
-<h2>サンプルコード</h2>
-<p><a href="https://github.com/PracticeRedis/redisbook" rel="nofollow">https://github.com/PracticeRedis/redisbook</a></p>
-<h2>参考</h2>
-<ul>
-<li><a href="https://try.redis.io/" rel="nofollow">Try Redis</a></li>
-<li><a href="https://redis.io/commands/" rel="nofollow">コマンド一覧</a></li>
-<li><a href="https://developer.redis.com/" rel="nofollow">redisdeveloper</a></li>
-</ul>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Cisco】ラボ#1-15セット@秋葉原UDX]]></title>
-        <id>https://forse.connpass.com/event/283099/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://forse.connpass.com/event/283099/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T12:32:35.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/20 09:00 ～ 12:30<br />開催場所: 〒101-0021 東京都千代田区外神田４丁目１４−１ 秋葉原UDX 4F<br /><br /><h1>資料</h1>
-<p>ラボ1 <a href="https://www.slideshare.net/secret/HlXVnaAiYiInz9" rel="nofollow">https://www.slideshare.net/secret/HlXVnaAiYiInz9</a></p>
-<p>ラボ2 <a href="https://www.slideshare.net/secret/cdHi4RG27yNRGO" rel="nofollow">https://www.slideshare.net/secret/cdHi4RG27yNRGO</a></p>
-<p>ラボ3 <a href="https://www.slideshare.net/secret/tq5PlMD4JwSzZq" rel="nofollow">https://www.slideshare.net/secret/tq5PlMD4JwSzZq</a></p>
-<p>ラボ4 <a href="https://www.slideshare.net/secret/ffIhxOquzwdp3" rel="nofollow">https://www.slideshare.net/secret/ffIhxOquzwdp3</a></p>
-<p>ラボ5 <a href="https://www.slideshare.net/secret/43d6TTVUwDEzb" rel="nofollow">https://www.slideshare.net/secret/43d6TTVUwDEzb</a></p>
-<p>ラボ6 <a href="https://www.slideshare.net/secret/oS6VpBMmTwdkFY" rel="nofollow">https://www.slideshare.net/secret/oS6VpBMmTwdkFY</a></p>
-<p>ラボ7 <a href="https://www2.slideshare.net/secret/7khFNo5EW8D0U4" rel="nofollow">https://www2.slideshare.net/secret/7khFNo5EW8D0U4</a></p>
-<p>ラボ8 <a href="https://www2.slideshare.net/secret/3sJE6AUSbiBHCl" rel="nofollow">https://www2.slideshare.net/secret/3sJE6AUSbiBHCl</a></p>
-<p>ラボ9 <a href="https://www2.slideshare.net/secret/ad6r78UUGEn1ea" rel="nofollow">https://www2.slideshare.net/secret/ad6r78UUGEn1ea</a></p>
-<p>ラボ10 <a href="https://www.slideshare.net/secret/yq2UkBxBpYhKPY" rel="nofollow">https://www.slideshare.net/secret/yq2UkBxBpYhKPY</a></p>
-<p>ラボ11 <a href="https://www.slideshare.net/secret/q7MN8g4YDRh8D1" rel="nofollow">https://www.slideshare.net/secret/q7MN8g4YDRh8D1</a></p>
-<p>ラボ12 <a href="https://www.slideshare.net/secret/1pqhsiReevem2S" rel="nofollow">https://www.slideshare.net/secret/1pqhsiReevem2S</a></p>
-<p>ラボ13 <a href="https://www.slideshare.net/secret/nmhbOe13FMJTJV" rel="nofollow">https://www.slideshare.net/secret/nmhbOe13FMJTJV</a></p>
-<p>ラボ14</p>
-<p>ラボ15</p>
-<h1>スケジュール</h1>
-<p>5/20（土）9:00～16:30</p>
-<p>ラボシナリオ＃１：スタティックルート</p>
-<p>ラボシナリオ＃２：VLANとTrunkとAccess</p>
-<p>ラボシナリオ＃３：スイッチでの経路冗長化</p>
-<p>ラボシナリオ＃4：支店間VPNを張ってみる</p>
-<p>ラボシナリオ＃5：EhterChannel</p>
-<p>5/21（日）9:00～16:30</p>
-<p>ラボシナリオ＃６：EIGRP　ダイナミックルーティング</p>
-<p>ラボシナリオ＃７：OSPF　ダイナミックルーティング</p>
-<p>ラボシナリオ＃８：VRRP　ルーターの冗長化</p>
-<p>ラボシナリオ#９：スイッチのセキュリティ</p>
-<p>5/27（土）9:00～16:30</p>
-<p>ラボシナリオ＃10：GREトンネル</p>
-<p>ラボシナリオ＃1１：NAT</p>
-<p>ラボシナリオ＃１２：ACL</p>
-<p>5/28（日）9:00～16:30</p>
-<p>ラボシナリオ＃１３：無線</p>
-<p>ラボシナリオ＃１４：VLANマッピング</p>
-<p>ラボシナリオ＃１５：IPv6</p>
-<h1>勉強会概要</h1>
-<p>Ciscoルータ、シリアルケーブル、LANケーブル、PCをこちらで準備します</p>
-<p>Wifi、電源はあります</p>
-<p>開催場所　秋葉原UDX　LIFORK <a href="https://lifork.jp/akihabara/" rel="nofollow">https://lifork.jp/akihabara/</a></p>
-<p>参加費：30,000円　2000円×15回分、（ルーター、PC、LAN線、シリアルケーブル購入代）</p>
-<h1>こんな人を対象としています</h1>
-<p>情報システム部でネットワーク担当する事になった人</p>
-<p>CCNAを取得後で実機を使ってネットワークに強くなりたいシステムエンジニア</p>
-<p>CCNAの座学勉強が半分終了した人</p>
-<p>名刺交換が出来る人</p>
-<h1>注意事項</h1>
-<p>最低催行人数：１人。申し込み人数が満たない場合は中止となることがございますのでご了承ください。</p>
-<h1>講師</h1>
-<p>1979年生まれの男性エンジニア</p>
-<h1>助手</h1>
-<p>2000年生まれ、もしくは2002年生まれの見習い</p>
-<h1>雑談要員</h1>
-<p>1999年生まれのCCNA取得済のエンジニア</p>
-<h1>お問い合わせ</h1>
-<p>tooru.suzuki@forse.tokyo</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンハードテラス オンライン #95]]></title>
-        <id>https://openforce.connpass.com/event/283092/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://openforce.connpass.com/event/283092/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T12:25:33.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/12 17:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>概要</h1>
-<p>秋葉原IoTピザキッチンカー「おとめし」テラスで開催していた「オープンハードテラス」。
-その流れを汲んで、オンライン/オフライン開催で「オープンハードテラス オンライン」を開催します。</p>
-<ul>
-<li>思い思いにものづくりをやっていきましょう。</li>
-<li>オンラインの人もおいしいもの用意して楽しみながら。</li>
-<li>はて？ わからないな・・・→ お気軽に質問どうぞ！</li>
-<li>LEDを光らせたり、電子工作、基板設計、パーツ輸入、量産、ビジネス化・・・オールジャンルでやりたいことにチャレンジ！</li>
-<li>自己紹介や雑談も交えながら、ワイワイ交流もしていきましょう。</li>
-</ul>
-<h1>オープンソースハードウェア</h1>
-<p>必ずしもオープンでなくてもいいですが、できれば自分のやっていることを公開して、自慢やPRで楽しみましょう！</p>
-<p>以下はエントリーされた方々がやろうと思っているテーマです。興味のある方は交流しましょう。
-なお、エントリー時に公開しても良いテーマをアンケートしていますが、これにこだわらず変更は自由です。</p>
-<table>
-<thead>
-<tr>
-<th align="center">やること</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">セキュリティ勉強会発表準備!</td>
-</tr>
-</tbody>
-</table>
-<h2>発表タイム!!</h2>
-<p>最後に、皆さん何を作業したか、簡単に発表しましょう!</p>
-<h1>スケジュール</h1>
-<p>17:00~21:00 好きな時に接続し、好きな時に退出してOKです！</p>
-<h1>用意するもの</h1>
-<ul>
-<li>おいしいもの ： 飲み物やおやつなどを用意して楽しみながら参加しよう！</li>
-</ul>
-<h1>参加方法</h1>
-<p>オンラインは Discord を使用する予定です。
-エントリーするとこのページの上部に会議室のURLが表示されます。</p>
-<h1>対象者</h1>
-<ul>
-<li>いろいろ作りたいけどくじけそうな方</li>
-<li>ものづくりを通して雑談や交流をしたい方</li>
-<li>キッズもWelcome!(connpassアカウントお持ちでないキッズの方は保護者のアカウントでエントリーください)。 </li>
-<li>ハードウェアだけでなく、プログラムや執筆など、あるいはものづくりわからないけどやってみたい、というだけの方でもOKです。</li>
-</ul>
-<h1>今後の予定</h1>
-<ul>
-<li>今後しばらくはオンライン開催、それ以降は検討中です。</li>
-</ul>
-<h1>タイトル画像ライセンス</h1>
-<p>1024px-Soldering_stations_at_Coredump_Hackerspace.jpg
-<a href="https://commons.wikimedia.org/wiki/File:Soldering_stations_at_Coredump_Hackerspace.jpg" rel="nofollow">https://commons.wikimedia.org/wiki/File:Soldering_stations_at_Coredump_Hackerspace.jpg</a>
-Creative Commons Attribution-Share Alike 4.0 International license.
-<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="nofollow">https://creativecommons.org/licenses/by-sa/4.0/deed.en</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リモートなエンジニアのためのオンラインもくもく会]]></title>
-        <id>https://connpass.com/event/283096/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://connpass.com/event/283096/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T12:18:18.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/27 20:00 ～ 22:00<br />開催場所: オンライン<br /><br /><p>リモートで働くエンジニア向け！お仕事終わりや、休みの日にオンラインでもくもく作業をしよう！という会です。
-ジャンル問わずどなたでも参加できるもくもく会です。</p>
-<p>趣味開発をするのもよし、言語やFWの勉強をするのもよし、資格の勉強をするのもよしな、ゆるいもくもく会です。</p>
-<p>Web、iOS/Android、ゲーム開発など、ジャンルは問いません。</p>
-<h2>開催概要</h2>
-<p>日時：2023/5/27(土) 20:00〜21:00</p>
-<p>場所：discordでオンライン開催</p>
-<p>接続方法：「参加者への情報」欄にdiscordの招待URLが表示されます。</p>
-<h2>タイムスケジュール</h2>
-<p>20:00 <br>
-Discordに集まります。<br>
-どのようなことに取り組むのか？を共有してから、もくもく会開始です。</p>
-<p>21:00<br>
-時間になりましたら、どれぐらい進めたのか？の共有をします。<br>
-その後雑談をしてもよいし、そのまま解散でも良いです。</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Windows】ラボ#5と#6＠0507AM09秋葉原UDX]]></title>
-        <id>https://forse.connpass.com/event/283086/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://forse.connpass.com/event/283086/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T09:50:12.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/07 09:00 ～ 13:00<br />開催場所: 〒101-0021 東京都千代田区外神田４丁目１４−１ 秋葉原UDX 4F<br /><br /><h1>資料</h1>
-<p>現在作成中</p>
-<p>ラボシナリオ＃１：WindowsServerインストール、AdminCenter</p>
-<p>ラボシナリオ＃２：パスワードリセット、ActiveDirectoryインストール</p>
-<p>ラボシナリオ＃３：ユーザの管理、コンピュータの管理、グループポリシー</p>
-<p>ラボシナリオ＃4：IIS</p>
-<p>ラボシナリオ#5：ファイルサーバ　←今回はこれ</p>
-<p>ラボシナリオ#6：リモートゲートウェイ　←今回はこれ</p>
-<p>ラボシナリオ#7：ActiveDirectroyとWebサービスのSSO</p>
-<h1>スケジュール</h1>
-<p>1400～1700　WindowsServer3と4</p>
-<h1>勉強会概要</h1>
-<p>物理サーバ、LANケーブル、PCをこちらで準備します</p>
-<p>Wifi、電源はあります</p>
-<p>開催場所　秋葉原UDX　LIFORK <a href="https://lifork.jp/akihabara/" rel="nofollow">https://lifork.jp/akihabara/</a></p>
-<p>参加費：5,000円（2,500円×2）PC、LAN線、サーバ代</p>
-<h1>こんな人を対象としています</h1>
-<p>遅刻、欠席をしない方</p>
-<p>情報システム部でWinodwsServer担当する事になった人</p>
-<p>システムエンジニアで「出来る事、出来た！」を増やしたい方</p>
-<p>ネットワークエンジニアで「出来る事、出来た！」を増やしたい方</p>
-<p>情報システム部でベンダーが言ってる事を理解したい人</p>
-<p>名刺交換が出来る人</p>
-<h1>注意事項</h1>
-<p>最低催行人数：１人。申し込み人数が満たない場合は中止となることがございますのでご了承ください。</p>
-<h1>講師</h1>
-<p>講師
-1979年生まれの男性</p>
-<p>CTCって会社で18年間SE。アプリケーション8年→インフラ10年。2019年に起業して会社を設立</p>
-<p>平日はインフラエンジニア。日曜日に予備校でLinux構築講座の講師</p>
-<h1>助手</h1>
-<h1>お問い合わせ</h1>
-<p>tooru.suzuki@forse.tokyo</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ふらっと純喫茶 #018]]></title>
-        <id>https://flali.connpass.com/event/283083/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://flali.connpass.com/event/283083/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T08:00:47.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/06 20:00 ～ 21:30<br />開催場所: Teams Web会議<br /><br /><h3>本日の参考リンク</h3>
-<p>事前の参考リンクはありません。</p>
-<h3>ごあんない</h3>
-<p>気が向いたときにふらっと開店（開催）します。<br>
-店主(開催者)である🤖が Microsoft 365 や Power Platform 、Dynamics 365 などを検証したり語ったりします。<br>
-お客様からのオーダー（○○について教えてください。私に語らせてください）を優先しますので、ご来店の際にお申し付けください。  </p>
-<p>店主の雑談に付き合って頂いてもいいですし、各サービスのご質問をいただいてもいいです。もくもく勉強などにもお使いください。<br>
-ご質問にはわかる範囲で回答しますが公式の回答ではございませんので、内容が間違っていることもございます。あらかじめご了承ください。  </p>
-<h3>管理者</h3>
-<p>インターネットの海に溶け込んで帰れなくなった 🤖 がお届けします。</p>
-<p>Twitter:  <a href="https://twitter.com/flali_world" rel="nofollow" title="@flali_world">@flali_world</a><br>
-Blog :   <a href="https://flali.hatenablog.com/" rel="nofollow" title="ふらりのメモ書き">ふらりのメモ書き</a><br>
-資料:   <a href="https://www.docswell.com/user/fworlddocs" rel="nofollow" title="Docswell">Docswell</a>  </p>
-<h3>注意事項</h3>
-<ul>
-<li>基本的にMicrosoft Teams を利用したWeb会議で実施いたします。</li>
-<li>カメラON、マイクON、画面共有は可能となりますが、個人情報や会社情報などの共有はお控えください。</li>
-<li>参加URLは、connpass の「参加者への情報」に掲載いたしますので、各イベントにてご確認ください。  </li>
-<li>運営の確認用に録画をするかもしれませんが録画しても動画の一般公開は予定しておりません。</li>
-<li>Web会議の性質上、音声/画質の品質が低下したり、接続が切断されてしまう可能性や、なにかしらのトラブル等が発生する可能性がございますのであらかじめご了承の上ご参加ください。</li>
-<li>一般的なマナー違反と思われる行為があった場合や運営側でマナー違反と判断させていただいた場合、参加をご遠慮いただく場合がございます。</li>
-<li>Power Platform は、 Power Apps 、 Power Automate 、Power BI 、 Power Virtual Agents 、Power Pages の5つのサービスで構成されています。</li>
-</ul>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンハードテラス オンライン #94]]></title>
-        <id>https://openforce.connpass.com/event/283084/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://openforce.connpass.com/event/283084/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/05 17:00 ～ 21:00<br />開催場所: オンライン<br /><br /><h1>概要</h1>
-<p>秋葉原IoTピザキッチンカー「おとめし」テラスで開催していた「オープンハードテラス」。
-その流れを汲んで、オンライン/オフライン開催で「オープンハードテラス オンライン」を開催します。</p>
-<ul>
-<li>思い思いにものづくりをやっていきましょう。</li>
-<li>オンラインの人もおいしいもの用意して楽しみながら。</li>
-<li>はて？ わからないな・・・→ お気軽に質問どうぞ！</li>
-<li>LEDを光らせたり、電子工作、基板設計、パーツ輸入、量産、ビジネス化・・・オールジャンルでやりたいことにチャレンジ！</li>
-<li>自己紹介や雑談も交えながら、ワイワイ交流もしていきましょう。</li>
-</ul>
-<h1>オープンソースハードウェア</h1>
-<p>必ずしもオープンでなくてもいいですが、できれば自分のやっていることを公開して、自慢やPRで楽しみましょう！</p>
-<p>以下はエントリーされた方々がやろうと思っているテーマです。興味のある方は交流しましょう。
-なお、エントリー時に公開しても良いテーマをアンケートしていますが、これにこだわらず変更は自由です。</p>
-<table>
-<thead>
-<tr>
-<th align="center">やること</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">セキュリティ勉強会発表準備!</td>
-</tr>
-</tbody>
-</table>
-<h2>発表タイム!!</h2>
-<p>最後に、皆さん何を作業したか、簡単に発表しましょう!</p>
-<h1>スケジュール</h1>
-<p>17:00~21:00 好きな時に接続し、好きな時に退出してOKです！</p>
-<h1>用意するもの</h1>
-<ul>
-<li>おいしいもの ： 飲み物やおやつなどを用意して楽しみながら参加しよう！</li>
-</ul>
-<h1>参加方法</h1>
-<p>オンラインは Discord を使用する予定です。
-エントリーするとこのページの上部に会議室のURLが表示されます。</p>
-<h1>対象者</h1>
-<ul>
-<li>いろいろ作りたいけどくじけそうな方</li>
-<li>ものづくりを通して雑談や交流をしたい方</li>
-<li>キッズもWelcome!(connpassアカウントお持ちでないキッズの方は保護者のアカウントでエントリーください)。 </li>
-<li>ハードウェアだけでなく、プログラムや執筆など、あるいはものづくりわからないけどやってみたい、というだけの方でもOKです。</li>
-</ul>
-<h1>今後の予定</h1>
-<ul>
-<li>今後しばらくはオンライン開催、それ以降は検討中です。</li>
-</ul>
-<h1>タイトル画像ライセンス</h1>
-<p>1024px-Soldering_stations_at_Coredump_Hackerspace.jpg
-<a href="https://commons.wikimedia.org/wiki/File:Soldering_stations_at_Coredump_Hackerspace.jpg" rel="nofollow">https://commons.wikimedia.org/wiki/File:Soldering_stations_at_Coredump_Hackerspace.jpg</a>
-Creative Commons Attribution-Share Alike 4.0 International license.
-<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" rel="nofollow">https://creativecommons.org/licenses/by-sa/4.0/deed.en</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もくもくぱんだちゃん #02]]></title>
-        <id>https://tanapanda.connpass.com/event/283047/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://tanapanda.connpass.com/event/283047/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T07:36:51.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/05 19:30 ～ 21:00<br />開催場所: オンライン（Teams）<br /><br /><h2>本日のもくもく</h2>
-<p>マネージド環境でウェルカム コンテンツを有効にしたときの実際の動きを見てると思います。</p>
-<p><a href="https://learn.microsoft.com/ja-jp/power-platform/admin/welcome-content" rel="nofollow">作成者のウェルカム コンテンツを有効にする (プレビュー)</a></p>
-<h2>内容・目的</h2>
-<p>・ Power Platform、Microsoft 365（SharePoint、Teamsなど）を中心に主催者が気になっていることを、ドキュメントを読んだり、検証したりするもくもく会です。<br>
-・ 個人で運営するコミュニティです。主催も参加者の方も一緒に悩んだり、検証して、楽しみながら、なにかしら学べることを目指しています。
-<br></p>
-<h2>開催日時</h2>
-<p>・ 気が向いたときに気ままに開催します。<br>
-<br></p>
-<h2>参加方法</h2>
-<p>・Microsoft Teamsで開催します。参加URLは、各イベントページの「参加者への情報」でご確認ください。<br>
-<br></p>
-<h2>注意事項</h2>
-<p>・ 当イベントは記録として録画いたします。動画の一般公開は予定しておりません。<br>
-・ 個人で運営するコミュニティです。ご質問がある場合は、わかる範囲でお答えしますが、公式な回答ではないことにご注意ください。<br>
-・ 認識違いしている可能性もありますのので、回答を鵜呑みにした結果、生じた損失・損害等の一切の責任を負いかねますので、必ずご自身で確認をお願いします。<br>
-・ 一般的なマナー違反等と主催者が考える行為が行われた場合、参加をご遠慮いただく場合があります。<br>
-・ オンライン会議の性質上、音声/画質の品質が低下したり、接続が切断されてしまう可能性や、その他トラブル等が発生する可能性がございます点をあらかじめご了承の上ご参加ください。<br>
-・ 音声が聞こえなくなった、画面が見えなくなった、チャットの表示がおかしくなったなどの現象が発生した場合、一度退出して入り直すと解消することがございます。その他、Teamsの使い方についてはご案内いたしませんので、ご了承願います。<br>
-<br></p>
-<h2>主催のひと</h2>
-<p><b>たな</b><br>
-Microsoft MVP for Businesss Applications - Power Platformに魅了されたパンダ。推しはPower Automate。<br>
-Power Platformの仲間が増えると嬉しいです。<br>
-<br>
-Twitter：<a href="https://twitter.com/dreams_panda" rel="nofollow">https://twitter.com/dreams_panda</a>
-<br>
-たなの覚え書き：<a href="https://tana-techlog.net/" rel="nofollow">https://tana-techlog.net/</a>
-<br>
-Docswell：<a href="https://www.docswell.com/user/tanapandalove" rel="nofollow">https://www.docswell.com/user/tanapandalove</a>
-<br></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第55回CoderDojoあざみ野(横浜青葉)]]></title>
-        <id>https://coderdojo-azamino.connpass.com/event/283082/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://coderdojo-azamino.connpass.com/event/283082/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T07:07:56.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/06/18 14:00 ～ 16:00<br />開催場所: 横浜市青葉区あざみ野南1-17-3<br /><br /><h2>CoderDojoとは</h2>
-<p>CoderDojoは7〜17歳の子どもを対象にしたプログラミング道場（クラブ）です。2011年にアイルランドで始まり、世界では117カ国・2,416のDojo（<a href="https://coderdojo.com/" rel="nofollow">CoderDojo</a>より、2022/3時点）、日本では全国に239以上のDojoがあります（<a href="https://coderdojo.jp/" rel="nofollow">CoderDojo Japan</a>より、2022/3時点）。</p>
-<p>お申込みの前に<a href="http://coderdojo-azamino.connpass.com" rel="nofollow">CoderDojoあざみ野グループページ</a>をご確認いただき、以下を含むCoderDojoの趣旨をご理解ください。</p>
-<ul>
-<li>Dojoは無償のボランティアにより運営されており参加費は無料です</li>
-<li>トレーナーが教える「教室」ではなく、子どもたちが自発的に活動する「クラブ」です（プログラミングを楽しみ、わからないことは他のニンジャやメンターに相談して一緒に考えてもらうことができます）</li>
-</ul>
-<h2>参加対象</h2>
-<h3>ニンジャ(参加する子ども)</h3>
-<ul>
-<li>小学生〜高校生<ul>
-<li>小学生には保護者の同伴をお願いします</li>
-</ul>
-</li>
-<li>保護者の方にサポートいただくことを前提に、未就学児も参加可能です</li>
-</ul>
-<p>募集開始時の定員はチャンピオン1人でも対応できる人数で設定していますが、ご応募・ご協力いただけるメンター数に応じて部屋の定員を上限に募集人数を調整することがあります。</p>
-<h4>女子枠の設定</h4>
-<p>より多くの女の子がプログラミングに親しむ機会を提供できるよう女子枠を設定しています。女子枠には女子ニンジャのいるご家族だけがお申し込みいただけます（女子＋男子の組み合わせもOK）。男子ニンジャのみのご家族は通常の募集枠へのご応募をお願いします。</p>
-<p>CoderDojoあざみ野では社会のジェンダーギャップ解消のため早くから女の子にもプログラミングに慣れ親しんで欲しいと考えています。人類の男女比50%や<a href="https://coderdojo.com/girlsinitiative/" rel="nofollow">CoderDojo Girls Initiative</a>が目標にする40%を念頭に、当面の女子ニンジャ参加率33%を当Dojoの目標としています。開設から2023年2月までの実績は30%となっています。</p>
-<h3>メンター(指南役)／ボランティア</h3>
-<ul>
-<li>メンター: 主役であるニンジャたちのプログラミングをサポートいただける誰でも（トレーナーではありません）</li>
-<li>ボランティア: 会場設営や受付、写真撮影などのイベント運営をサポートいただける誰でも</li>
-</ul>
-<h2>持ちもの</h2>
-<ol>
-<li>ノートPCやタブレット<ul>
-<li>インターネット接続する場合、Wi-Fi接続可能なものをご用意ください</li>
-<li>プログラミングの自由度が高いノートPCがお勧めです（タブレットでも参加いただけます）</li>
-<li>会場に貸し出し用のノートPCやタブレットのご用意はありません</li>
-<li>複数のお子さんをお連れの場合、それぞれにご用意いただくことをお勧めします</li>
-</ul>
-</li>
-<li>プログラミングの参考書籍（オプション）<ul>
-<li>お手元に書籍等がありましたらお持ちください</li>
-</ul>
-</li>
-<li>micro:bitなどの物理コンピューティングデバイスやロボットなど（オプション）<ul>
-<li>ニンジャが当日取り組む内容に応じて、本体やUSBケーブル、電源などをお持ちください</li>
-</ul>
-</li>
-</ol>
-<h3>運営側で用意するもの</h3>
-<ol>
-<li>会場（場所、机、椅子）</li>
-<li>Wi-Fiによるインターネット接続（施設提供の<a href="https://www.women.city.yokohama.jp/a/23791/" rel="nofollow">利用案内</a>をご確認ください）</li>
-<li>プロジェクターとHDMIケーブル（ガイダンスや発表時に使用）</li>
-<li>ニンジャ用名札シールとペン</li>
-<li>初心者の導入用にScratchなどの参考資料（ネコ歩きやネコ逃げ、コーディングカード相当のものなど）</li>
-</ol>
-<h2>タイムテーブル</h2>
-<table>
-<thead>
-<tr>
-<th>時間</th>
-<th>内容</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>13:00-13:30</td>
-<td>会場準備</td>
-</tr>
-<tr>
-<td>13:30-13:45</td>
-<td>メンター／ボランティア集合</td>
-</tr>
-<tr>
-<td>13:45-14:00</td>
-<td>ニンジャ集合・受付</td>
-</tr>
-<tr>
-<td>14:00-14:15</td>
-<td>ガイダンス（CoderDojoについて、メンターネタなど）</td>
-</tr>
-<tr>
-<td>14:15-15:30</td>
-<td>プログラミング！</td>
-</tr>
-<tr>
-<td>15:30-15:50</td>
-<td>発表</td>
-</tr>
-<tr>
-<td>15:50-16:00</td>
-<td>片付け</td>
-</tr>
-</tbody>
-</table>
-<h2>活動内容</h2>
-<p>今回のDojoでは主に以下のようなものに取り組むことを想定しています。Dojoの醍醐味は発表です。みんなの前に立って自分がやったことを自慢しましょう。完成していなくても大丈夫です。</p>
-<h3><a href="https://scratch.mit.edu/" rel="nofollow">Scratch</a></h3>
-<p>ゲームやアニメーションを作成したい方はScratch（スクラッチ）に取り組みましょう。初めての方はオンラインのアカウントを作成して、書籍などの教材を参考にして取り組んでいくことをおすすめします。既に作品を作っている方は、各自の作りたいモノをどんどん作っていきましょう。分からないことや知りたいことはメンターに相談できます。</p>
-<p>通常のオンライン版Scratchをお勧めしますが、一旦インストールしたらその後インターネット接続が不要な<a href="https://scratch.mit.edu/download" rel="nofollow">Scratchデスクトップ版</a>もあります。必要に応じて事前にインストールしておいてください。</p>
-<h3><a href="https://hourofcode.com/" rel="nofollow">Hour of Code</a></h3>
-<p>プログラミングが初めての方は、Hour of Code（アワーオブコード）から始めることをおすすめします。課題形式でプログラミングを学習するので、ブロックを組み合わせてプログラムすることに慣れることができます。学習履歴を残せるので、事前に自宅で<a href="https://studio.code.org/users/sign_up" rel="nofollow">アカウント作成</a>しておくことをおすすめします。</p>
-<h3><a href="https://microbit.org/" rel="nofollow">micro:bit</a></h3>
-<p>micro:bit（マイクロビット）はイギリスのBBCが主体となって作った教育向けのマイコンボードです。25個のLED、2個のボタンスイッチのほか、加速度センサーや磁力センサー、無線通信機能がついていて、ブロック型エディターやPythonでプログラムして操作できます。micro:bit本体やUSBケーブル（Type A - Micro-Bタイプ）、電源などは各自でお持ちください。</p>
-<h3>それ以外の何でもOK</h3>
-<p>その他にやりたいことがある方もご参加いただけます。自分の興味をもって取り組んでいることをみんなに聞いてもらったり、一緒に取り組む仲間を見つけましょう！</p>
-<p>最近はDojoで<a href="https://www.minecraft.net/" rel="nofollow">Minecraft</a>（有料）に取り組むニンジャを多く見かけます。<a href="https://minecraft.makecode.com/" rel="nofollow">MakeCode</a>を使ってプログラミングできます。</p>
-<h2>その他の注意事項</h2>
-<h3>新型コロナウィルス感染症拡大防止へのご協力のお願い</h3>
-<p>新型コロナウィルス感染症拡大防止のために、参加者のみなさまには以下のご協力をお願いします。</p>
-<ol>
-<li>発熱や体調不良、感染を疑われる症状のある方は参加をご遠慮ください</li>
-<li>来場時の手洗い・手指の消毒をお願いします</li>
-<li>会場での食事は不可となります（水分補給は可能です）</li>
-</ol>
-<h3>保護者のサポート</h3>
-<p>通常は子どもたちの自主性を尊重して何でもやらせてあげるようにしてください。ノートPCやタブレットの基本的な操作は子どもたちが大人になるまでにいつか身に着けるべき大事なスキルです。不慣れで手助けが必要な時には、代わりに操作してあげるのではなく、なるべく操作の仕方を教えて次から自分でできるようにするのがよいでしょう。子どもたちが自らやりたいと思うことは覚えが速いです。子どもたちが自立して楽しいプログラミング体験となるようご協力をお願いします。</p>
-<h3>撮影について</h3>
-<p>Dojoの主催者として、当日の雰囲気をFacebookやTwitterなどで紹介するため写真や動画の撮影を行います。あらかじめご了承ください。参加者による撮影は、他の方のプライバシーに十分配慮して、個人利用の範囲にとどめるようお願いします。</p>
-<h3>スリーストライクルール</h3>
-<p>参加を申し込んだのに当日参加しない方がいると、参加したいのに参加枠が埋まっていて参加できない方へご迷惑になります。参加申し込み後参加できなくなった場合には速やかにconnpass上でキャンセルしていただくようお願いします。また、connpassでキャンセルできない場合はご連絡をお願いします。連絡なしに当日参加しない方(No Show)の記録は残しております。3回までは静観しますが、それ以降のお申し込みは事前告知なくキャンセルさせて頂きますのでご注意ください。</p>
-<h3>メンター／ボランティア募集</h3>
-<p>メンターやボランティアのサポートにより、ニンジャにとってDojoに来て何かすることが魅力ある体験になります。</p>
-<p>サポートいただくのに必ずしもプログラミングのスキルが必要というわけではありません。子どもたちの相談に乗って一緒に考えていただける方にお手伝いいただければと思います。ニンジャに技術や創造性のひらめきを与えてくれるようなメンターや、女子のニンジャにロールモデルを見せてくれる女性メンター、ニンジャの付き添いのついでに他のニンジャもサポートしてくれる保護者の方を歓迎します。何か技術ネタやご自分のSTEMの知識や経験をニンジャと共有いただけるという方はお声がけください。</p>
-<p><a href="https://coderdojo.jp/kata" rel="nofollow">CoderDojo Japan Kata</a>の「運営者向け資料」以下にメンターの役割を説明したよい資料がいくつもありますので、いくつか目を通すとCoderDojoの雰囲気がつかめるかと思います。</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第２回】ChatGPTのAPIでLINE Botを作ってみよう～プロトアウト無料体験会～]]></title>
-        <id>https://protoout.connpass.com/event/283076/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://protoout.connpass.com/event/283076/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T06:39:24.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/10 19:55 ～ 21:25<br />開催場所: オンライン<br /><br /><h2>■ イベント概要</h2>
-<p>今回は話題のChatGPTのAPIを使った開発をテーマに、これからの時代に必要なプロトタイピングスキルとはどのようなものなのか、実際にツールを使って、ハンズオンも行いながら実践的に学べます。<br>
-※前回のイベント <a href="https://protoout.connpass.com/event/280991/" rel="nofollow">ChatGPTのAPIでLINE Botを作ってみよう (4/25)</a>と基本的には同じ内容になります。</p>
-<h3>プロトタイピングスクール「プロトアウトスタジオ」の体験授業としてChatGPTのハンズオンとして行います！！</h3>
-<p>普段のプロトアウトスタジオの授業では、技術に触れインプットしたうえで、実際に手を動かしながら発想をカタチにするアウトプットを行います。</p>
-<p>本イベントでは技術の使い方にフォーカスし、ハンズオン形式でお伝えします！</p>
-<h2>■ 対象者</h2>
-<ul>
-<li>プロトアウトスタジオにちょっとでも興味を持った人</li>
-<li>最速で動くものを作る体験をしてみたい人</li>
-<li>LINE Bot を作ってみたい人</li>
-<li>ChatGPTに興味がある人</li>
-</ul>
-<h2>■ ハンズオンの前提に必要なもの</h2>
-<h3>参加条件</h3>
-<ul>
-<li>仕事・趣味を問わず、なんらかのプログラミング言語を使って開発をした経験がある</li>
-<li>必要な事前準備（後ほど記載）を事前にできる方</li>
-</ul>
-<p>(条件を満たしていない場合でも参加は可能ですが、ハンズオンの内容を難しいと感じる可能性が高いです。)</p>
-<h3>準備物</h3>
-<ul>
-<li>Google Chrome をインストール済みのパソコン（Windows/MacどちらでもOK）</li>
-<li>LINE をインストール済みのスマートフォン</li>
-</ul>
-<p>これらを当日までにご用意ください。</p>
-<p>ハンズオンはGoogle Meetを使い、オンラインで実施します。</p>
-<h2>■ スケジュール</h2>
-<ul>
-<li>19:55 開場</li>
-<li>20:00-20:10 スタート、オープニング</li>
-<li>20:10-21:30 ハンズオン</li>
-<li>21:30-22:00 QAタイム&amp;雑談タイム</li>
-<li>22:00 終了</li>
-</ul>
-<h3>ハンズオンの予定タイムテーブル</h3>
-<ul>
-<li>20:10 ~ 20:50 実装ハンズオン (40分程度) </li>
-<li>(5分くらい休憩)</li>
-<li>20:55 ~ 21:05 応用に向けた話 (10分程度)</li>
-<li>21:05 ~21:15 応用タイム  (10分程度)</li>
-<li>21:15 ~ 21:25 発表タイム (10分程度)</li>
-<li>~ 21:30 ハンズオン締め</li>
-</ul>
-<h2>■ 講師陣</h2>
-<p><b>講師: プロトアウトスタジオ現役講師<br></b>
-<a href="https://twitter.com/shuyin02" rel="nofollow">Watanabe Tsubasa（@shuyin02）</a></p>
-<p><img src="https://i.gyazo.com/4c87717325166ecf21648a26d54ebd94.jpg" width="180"></p>
-<h2>■ 参加後アンケート</h2>
-<p>ハンズオン終了後にアンケート回答をお願い致します。</p>
-<h2>■ 主催 プロトタイピング専門スクール プロトアウトスタジオ</h2>
-<p><a href="https://protoout.studio/" rel="nofollow">プロトアウトスタジオ</a><br>
-VUCAな時代と言われるように、不確実で変化が多い時代においては、一つのことを追求してエキスパートになることや、長い時間をかけて完璧なモノを作るよりも、より多くの情報やツールを適切につなぎ合わせて素早く形にする力＝プロトタイピングスキルが必要とされています。</p>
-<p>プロトアウトスタジオは、色々なAPIやツールを繋ぎ合わせて素早く形にする力を学ぶプロトタイピング専門スクールです。</p>
-<p>※コロナ禍に伴い、完全にオンライン実施をしています。</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronics Projects for Kids]]></title>
-        <id>https://engineercafe.connpass.com/event/277962/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://engineercafe.connpass.com/event/277962/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T04:39:28.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/12 18:00 ～ 20:00<br />開催場所: 〒810-0001 福岡県福岡市中央区天神１丁目１５−30<br /><br /><h2>Event Details</h2>
-<p>This is an event for elementary aged kids to learn how to make simple electronic circuits.</p>
-<h2>Who is this event for?</h2>
-<p>Ideal for grades elementary school ages. All are welcome.  Parents and kids can learn together and from each other. </p>
-<h2>What to bring?</h2>
-<p>We will provide wires, LEDs, switches and components for you to make your electronics projects.</p>
-<h2>Schedule</h2>
-<table>
-<thead>
-<tr>
-<th align="left">Time</th>
-<th align="left">Activity</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">18:00</td>
-<td align="left">Introduction</td>
-</tr>
-<tr>
-<td align="left">18:10</td>
-<td align="left">Circuit Building</td>
-</tr>
-<tr>
-<td align="left">19:00</td>
-<td align="left">10 Minute break</td>
-</tr>
-<tr>
-<td align="left">19:10</td>
-<td align="left">Circuit Building</td>
-</tr>
-<tr>
-<td align="left">20:00</td>
-<td align="left">Event end</td>
-</tr>
-</tbody>
-</table>
-<h2>イベント詳細</h2>
-<p>小学生向けの電子工作イベントです。</p>
-<h2>参加者</h2>
-<p>小1から小６の子供にぴったりなコンテンツです。子供は保護者と一緒に勉強できます。</p>
-<h2>持参物</h2>
-<p>パソコンはエンジニアカフェが提供します。色鉛筆や紙を準備してください。</p>
-<h2>タイムテーブル</h2>
-<table>
-<thead>
-<tr>
-<th align="left">Time</th>
-<th align="left">Activity</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">18:00</td>
-<td align="left">イントロ</td>
-</tr>
-<tr>
-<td align="left">18:10</td>
-<td align="left">回路制作</td>
-</tr>
-<tr>
-<td align="left">19:00</td>
-<td align="left">10分休憩</td>
-</tr>
-<tr>
-<td align="left">19:10</td>
-<td align="left">回路制作</td>
-</tr>
-<tr>
-<td align="left">20:00</td>
-<td align="left">終了</td>
-</tr>
-</tbody>
-</table>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人事ごった煮会Vol.Xオンライン開催（テーマ：子育て世代のお悩み共有会)]]></title>
-        <id>https://jinji-gottani.connpass.com/event/273638/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://jinji-gottani.connpass.com/event/273638/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-05T01:36:35.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/16 22:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h1>人事ごった煮会とは</h1>
-<p>人事に関わる人同士の出会いや繋がりを通して、上下関係なく互いに刺激しあい高めあうことで
-企業や企業で働く社員の方に少しでもポジティブな何かを生み出したいと思う人たちの集まりです。</p>
-<p>【人事ごった煮会のミッション】</p>
-<p>「自社人事課題に向き合っている人に対して、解決に向けたキッカケをつくる」</p>
-<p>【運営事務局の行動指針】</p>
-<p>⑴参加者同士を繋げる(新たな繋がりを一人以上つくる)</p>
-<p>⑵参加者全員がアウトプットする場をつくり、一つ以上の新たなインプットを生み出す</p>
-<p>⑶参加者の次回アクションが決定している状態を手助けする</p>
-<h1>今回のイベントについて</h1>
-<p>小さな子供が気になって勉強会とはいえ夜の外出が難しい。
-子育て優先で自己研鑽に時間がなかなか取れず、ふと不安になることがある。</p>
-<p>そんな悩みを抱えている人事の方でも、繋がりを作って学習できる場を作るための会を設けられないか？と考えました。</p>
-<p>今回まずは同じ悩みを抱える人事同士で悩みを共有して仲間を作る。</p>
-<p>今後はこのメンバーでどんなことを学びたいか考えていきたいと思います！</p>
-<h1>▼イベント参加条件</h1>
-<p>人事職の方あるいは元人事職の方</p>
-<p>業務後の時間は子育てが忙しく、普段勉強会に参加しづらいと考えている方</p>
-<h1>▼イベントの特徴</h1>
-<p>寝かしつけしながら耳だけ参加もOK</p>
-<p>寝落ち上等！登録してたけど参加できなかった、も問題なし</p>
-<p>参加してる途中で子供が起きちゃった！その時はミュートにして即お子様の対応へGoです。</p>
-<p>なんなら運営もその可能性があります笑</p>
-<h1>▼タイムスケジュール</h1>
-<p>22:00~ 開始</p>
-<p>23:00ごろ終了</p>
-<p>Discordというサービス上で開催します。
-Connpassで参加登録をしたら閲覧できるDiscordへの招待リンクから事前にアカウントを作成してください。</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails World tickets waiting list, caching improvements and more!]]></title>
-        <id>https://rubyonrails.org/2023/5/5/this-week-in-rails-rails-world-ticket-waiting-list-and-more</id>
-        <link href="https://rubyonrails.org/2023/5/5/this-week-in-rails-rails-world-ticket-waiting-list-and-more"/>
-        <updated>2023-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hi, it’s Greg, bringing you this week’s changes in the Rails codebase.]]></summary>
-        <author>
-            <name>Ruby on Rails</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渋谷でもくもく会]]></title>
-        <id>https://connpass.com/event/283066/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://connpass.com/event/283066/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T23:40:14.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/13 12:00 ～ 18:00<br />開催場所: 東京都渋谷区神南1-23-14　公園通りビル<br /><br /><h1>【内容】</h1>
-<p>普段Pythonで色々開発している松崎です！</p>
-<p>会社のフリースペースを使っても良いとのことで、今回もくもく会をやりたいと思います😄</p>
-<p>PCを使って仕事をしても良いし、勉強をしても良いし、何か相談があれば相談したりとフリースタイルで行おうと思っています(^^)</p>
-<p>場所はリージャス 渋谷公園通りビルの1階のフリースペースを使用します！</p>
-<p>水とコーヒなどは無料であります。Wifi、電源タップもあります</p>
-<p><br></p>
-<h1>【こんな方にオススメ！】</h1>
-<p><br>
-・エンジニアの人</p>
-<p>・エンジニア仲間をお探しの人</p>
-<p>・仕事の残りを片付けたい人</p>
-<p>・他のエンジニアさんと会って話をしてみたい人</p>
-<p>・これからエンジニアなりたいなと思ってる人
-<br></p>
-<h1>【主催者について】</h1>
-<p><br>
-エンジニア歴5年目のPythonエンジニアです。</p>
-<p>営業→底辺SES→事業会社→HR系事業会社（NOW） 一通り全て経験してきました。</p>
-<p>大規模動画配信の案件でバックエンドの開発を行なっています！（フルリモートでフレックス）</p>
-<p>ご質問いただければ答えられる範囲でお答えします！
-<br></p>
-<h1>【定員】</h1>
-<p>10名くらい
-<br></p>
-<h1>【スケジュール】</h1>
-<p>11:50 入場準備</p>
-<p>12:00 入場開始・受付・自己紹介</p>
-<p>12:10 作業開始</p>
-<p>18:00 作業終了</p>
-<p>18:00 以降流れ解散
-<br></p>
-<h1>【会費】</h1>
-<p>0円
-<br></p>
-<h1>【会場】</h1>
-<p>リージャス 渋谷公園通りビル
-<br></p>
-<h1>【注意点】</h1>
-<p>1:他人に迷惑をかけない</p>
-<p>2:会の趣旨にそぐわない営業行為、勧誘などを目的としたご参加はご遠慮ください。</p>
-<p>3:対象外の方はお断りさせていただくこともあります。ご了承ください。</p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/13(土)【第1851回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK]]></title>
-        <id>https://no-genre-mokumoku.connpass.com/event/283065/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://no-genre-mokumoku.connpass.com/event/283065/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T21:14:45.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/13 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>
-<p>途中入退室可のIT系もくもく会です<br>
-勉強時間を毎日集計！初心者歓迎です！！<br>
-参加者より質問等が出てきた場合は、<br>
-わかる内容については積極的にご回答いただけるとありがたいです<br>
-<br>
-※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
-もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)
-<br>
-<br></p>
-<h2>Break</h2>
-<p>もくもく会参加者がゲームを作成してくれました。<br>
-息抜きに是非遊んでください。<br>
-<a href="http://uaaaaaaaa.com/pf/zixntori404" rel="nofollow">http://uaaaaaaaa.com/pf/zixntori404</a>
-<br>
-<br></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/12(金)【第1849回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK]]></title>
-        <id>https://no-genre-mokumoku.connpass.com/event/283064/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://no-genre-mokumoku.connpass.com/event/283064/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T21:13:58.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/12 21:00 ～ 23:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>
-<p>途中入退室可のIT系もくもく会です<br>
-勉強時間を毎日集計！初心者歓迎です！！<br>
-参加者より質問等が出てきた場合は、<br>
-わかる内容については積極的にご回答いただけるとありがたいです<br>
-<br>
-※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
-もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)
-<br>
-<br></p>
-<h2>Break</h2>
-<p>もくもく会参加者がゲームを作成してくれました。<br>
-息抜きに是非遊んでください。<br>
-<a href="http://uaaaaaaaa.com/pf/zixntori404" rel="nofollow">http://uaaaaaaaa.com/pf/zixntori404</a>
-<br>
-<br></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/13(土)【第1850回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK]]></title>
-        <id>https://no-genre-mokumoku.connpass.com/event/283063/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://no-genre-mokumoku.connpass.com/event/283063/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T21:12:26.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/13 06:00 ～ 07:00<br />開催場所: オンライン<br /><br /><h2>Description</h2>
-<p>途中入退室可のIT系もくもく会です<br>
-勉強時間を毎日集計！初心者歓迎です！！<br>
-参加者より質問等が出てきた場合は、<br>
-わかる内容については積極的にご回答いただけるとありがたいです<br>
-<br>
-※「参加者への情報」欄にdiscordの招待URLが表示されます。<br>
-もし当日欠席してしまった場合(お寝坊や体調不良など)、次回から気を付けていただけたら大丈夫です！(連絡不要です)
-<br>
-<br></p>
-<h2>Break</h2>
-<p>もくもく会参加者がゲームを作成してくれました。<br>
-息抜きに是非遊んでください。<br>
-<a href="http://uaaaaaaaa.com/pf/zixntori404" rel="nofollow">http://uaaaaaaaa.com/pf/zixntori404</a>
-<br>
-<br></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リビラボもくもく会 vol1]]></title>
-        <id>https://re-build.connpass.com/event/283059/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://re-build.connpass.com/event/283059/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T21:03:49.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/16 19:30 ～ 21:30<br />開催場所: 東京都港区虎ノ門 1-17-1 虎ノ門ヒルズビジネスタワー 15階<br /><br /><h1>イベント概要</h1>
-<p>Web系プログラミングなどのもくもく会です。</p>
-<p>各参加者が自分の作業や学習をもくもくと進めます。</p>
-<p>趣味のアプリ開発をすすめたい！
-プログラミング仲間がほしい！
-プログラミングの相談したい！
-コワーキングスペースの代わりに利用したい！
-など、どんな目的でもOKです。お気軽にご参加ください。</p>
-<p>どんな言語でもOKです！！</p>
-<h1>対象者</h1>
-<p>エンジニア</p>
-<p>デザイナー</p>
-<p>エンジニアやデザイナーになりたい人</p>
-<p>プログラミングをしたい人
-初心者の方もベテランの方も大歓迎です。</p>
-<h2>▼基本情報</h2>
-<ul>
-<li>
-<p>開催日時 : 2023年 5/16(火) 19：30～22：00（途中入場可です）</p>
-</li>
-<li>
-<p>会場 : CIC Tokyo</p>
-</li>
-<li>
-<p>参加費 : 無料</p>
-</li>
-</ul>
-<h2>▼タイムスケジュール</h2>
-<p>LTは順番が変更する可能性がございます。</p>
-<table>
-<thead>
-<tr>
-<th align="left">時間</th>
-<th align="left">タイトル</th>
-<th align="left">発表者</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">19:30</td>
-<td align="left">ご挨拶・イベント、リビルドの説明</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">19:40</td>
-<td align="left">もくもく開始</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">20:30</td>
-<td align="left">LT</td>
-<td align="left">未定</td>
-</tr>
-<tr>
-<td align="left">20:50</td>
-<td align="left">懇親会</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left">21:30</td>
-<td align="left">終了</td>
-<td align="left"></td>
-</tr>
-</tbody>
-</table>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS WAF 対応パートナー製品の紹介]]></title>
-        <id>0ed69871f7e73c65cb34c0baf5f9cff2f52c0732</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/aws-waf-ready-partner-offerings/"/>
-        <updated>2023-05-04T19:04:08.000Z</updated>
-        <summary type="html"><![CDATA[AWS ウェブアプリケーションファイアウォール (WAF) と統合するソフトウェア製品を提供する、AWS パートナー向けの新しい AWS WAF 対応の専門サービスを発表します。収益、ユーザーの信頼、ブランドの評判の低下につながる外部の脅威からウェブサイトやアプリケーションを確実に保護することは、あらゆる業態や規模の企業にとって最大の関心事となっています。AWS WAF 対応の専門サービスは、AWS WAF 対応パートナー製品を使用してアプリケーションレイヤーのセキュリティソリューションをデプロイおよび保守するためのシンプルなソリューションをユーザーに提供します。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 がサブスクリプション込みのモデルの Ubuntu Pro オペレーティングシステムをサポート]]></title>
-        <id>757630484e85f2fbc2512a60ab12bb67b43b717c</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-ec2-ubuntu-pro-subscription-model/"/>
-        <updated>2023-05-04T18:54:07.000Z</updated>
-        <summary type="html"><![CDATA[アマゾン ウェブ サービスでは、Amazon EC2 の Ubuntu Pro をサブスクリプション込みのモデルで一般提供することを発表しました。Ubuntu Pro のオンデマンドインスタンスを簡単にデプロイし、AWS EC2 コンソールから Ubuntu Pro Compute Savings Plans を購入できるようになりました。また、さらに 5 年間、Canonical から Ubuntu セキュリティアップデートを入手できます。Ubuntu Pro EC2 AMI インスタンスについては、1 秒単位で課金されます。Ubuntu Pro EC2 AMI を新規にデプロイすると、AWS 請求書の Elastic Cloud Compute セクションに Ubuntu Pro の料金が表示されるようになります。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon GuardDuty が AWS Lambda のサポートを開始]]></title>
-        <id>ee83004a902a603607d16a2499867696c6082d22</id>
-        <link href="https://aws.amazon.com/jp/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/"/>
-        <updated>2023-05-04T18:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Amazon GuardDuty  は、脅威検出の対象範囲を拡大して、AWS Lambda 関数の実行によって生成されるネットワークアクティビティログ (VPC フローログなど) を継続的にモニタリングします。これにより、不正な暗号通貨マイニングを行うために悪意を持って転用された関数や、既知の脅威アクターサーバーと通信している侵害された Lambda 関数といった、Lambda に対する脅威を検出します。GuardDuty Lambda Protection は、GuardDuty コンソールでいくつかのステップを実行するだけで有効にできます。また、AWS Organizations を使用すると、組織内のすべての既存アカウントと新規アカウントに対して一元的に有効にできます。]]></summary>
-        <author>
-            <name>aws@amazon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoderDojo新宿Shinjuku１]]></title>
-        <id>https://connpass.com/event/283058/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://connpass.com/event/283058/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T16:38:52.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/27 15:30 ～ 17:00<br />開催場所: 東京都新宿区大久保2丁目12番7号 大久保地域センター3階・会議室B<br /><br />]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C#の絵本勉強会（Skype上）]]></title>
-        <id>https://engineeringskype.connpass.com/event/283051/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://engineeringskype.connpass.com/event/283051/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T14:52:49.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/06 21:30 ～ 22:30<br />開催場所: オンライン<br /><br /><p>C#勉強会を開催します。<br>
-土曜日２１：３０からやります。  </p>
-<p>教科書は以下のものを使用します。  </p>
-<p>「C#の絵本　第２版」 <br>
-<a href="https://www.shoeisha.co.jp/book/detail/9784798151892" rel="nofollow">https://www.shoeisha.co.jp/book/detail/9784798151892</a><br>
-参加されたい場合は、connpasssで参加登録の上、Skypeをインストールし、アカウントを作成して以下よりご入室ください。  </p>
-<p><a href="https://join.skype.com/uvyFcRQnsy8s" rel="nofollow">https://join.skype.com/uvyFcRQnsy8s</a></p>
-<p>Discordサーバもあります  <br>
-<a href="https://discord.gg/tAzpkSNWdB" rel="nofollow">https://discord.gg/tAzpkSNWdB</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/9(火)21時 Global Azure 勉強会の Azure OpenAI 公開リハ]]></title>
-        <id>https://chomado.connpass.com/event/283050/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://chomado.connpass.com/event/283050/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T14:51:59.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/09 21:00 ～ 23:00<br />開催場所: YouTube Live 配信<br /><br /><p>5/13(土) の <a href="https://jazug.connpass.com/event/279068/" rel="nofollow">Global Azure 勉強会</a> の、</p>
-<p>私の Azure OpenAI Service + Semantic Kernel (C#) セッション (45min) の、</p>
-<p>公開リハーサルを配信します！</p>
-<p>ぜひご覧いただけたら嬉しいです！</p>
-<h2>参加方法</h2>
-<p>配信 URL は全体に公開されますが、  <br>
-事前に大体どれくらいの方がご興味持っていただけているか知りたいので、 <br>
-ぜひこの connpass で「参加登録」をお願いします。</p>
-<p>アーカイブ見るだけという方もぜひ…！</p>
-<h2>配信 URL</h2>
-<p>（枠を取ったら更新します）</p>
-<h2>Speaker (配信者)</h2>
-<h3>ちょまど</h3>
-<p>千代田まどか</p>
-<p>Microsoft  </p>
-<p>Cloud Developer Advocate  </p>
-<p>(Twitter: <a href="https://twitter.com/chomado" rel="nofollow">@chomado</a>)</p>
-<p><img alt="" src="https://dsm01pap002files.storage.live.com/y4m6cD7V6VQioqv_ptgdi-0vrCzIfBEj_rH1Kco9RT3vKyjU-PIIoYNd33GY1-JwumsSXEVlfmc0H44MIqFb5NMyvNeW9q9QSDg9QHvxmG77oGELDR3l4FasWv8ZS0ITJ-9iOupRsO5jyA61gPgHTJFA_eDYUHbkV7MPlE4iiVArQKtLR0eM9Nvr8dOUlzKeWEG?encodeFailures=1&amp;width=1345&amp;height=897"></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第16回 Ideagear主催 電子工作入門 in 深セン]]></title>
-        <id>https://ideagear.connpass.com/event/282987/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://ideagear.connpass.com/event/282987/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T14:45:45.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/21 14:00 ～ 17:00<br />開催場所: 南山区あるいは福田区※決定後に参加者へ通知<br /><br /><h1>概要</h1>
-<p>電子工作の基本であるArduino Unoとブレッドボードを使ったLチカから学び、その応用として、圧力センサーを使ってマイクロサーボモーターのスピードをコントロールする方法を学びます。</p>
-<p>時間に余裕があれば、IoTの体験もできます。</p>
-<h1>必要物</h1>
-<p>パソコンのみ持参をお願いします。
-※Arduino Uno等のその他の必要物は講師が準備します。</p>
-<h1>当日のスケジュール</h1>
-<p>開催日：2023年5月21日（日） 時間：14:00～17:00 開催方式：中国深セン現地</p>
-<ol>
-<li>ArduinoとLEDを使ったLチカを学ぶ</li>
-<li>圧力センサーを使ってマイクロサーボモーターのスピードをコントロール</li>
-<li>ESP32と温湿度センサーを使ったIoT体験</li>
-</ol>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DX必須の顧客ニーズを言葉から分析する-テキストマイニング超入門-]]></title>
-        <id>https://datascience-wakara.connpass.com/event/279867/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://datascience-wakara.connpass.com/event/279867/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T14:11:16.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/26 19:30 ～ 21:00<br />開催場所: オンライン<br /><br /><h2>言葉を分析するテキストマイニングの活用事例</h2>
-<p>以前は、アンケートや口コミなどのテキストデータを分析する際には、膨大な時間をかけて一つ一つ読み込んだり、単語を数えたりする必要がありました。<br>
-ところが、近年ではテキストマイニングの登場により、これら言葉の分析が驚くほど簡単に、一瞬でできたりします。<br>
-様々なグラフによる可視化も行えるため、報告資料に欠かせない状況にもなっています。<br></p>
-<p>そこで、今回はいくつか活用例をお話しして、テキストマイニングとは何か、習得することで何ができるようになるかを理解していきましょう！！<br></p>
-<h3>セミナー概要</h3>
-<p>・テキストマイニングとは<br>
-・言葉の分析でできること<br>
-・活用事例<br></p>
-<p>※カリキュラム内容は進捗等によって変更されることがあります。<br></p>
-<h3>対象者</h3>
-<p>・テキストデータの分析を行ってみたい方<br>
-・テキストマイニングをやってみたい<br>
-・プログラムを使わずに実行する方法を知りたい方<br></p>
-<p>※カリキュラム内容は進捗等によって変更されることがあります。<br></p>
-<h3>講師紹介</h3>
-<p><strong>岡崎 凌（おかざき　りょう）</strong><br>
-<br>
-<img alt="岡崎凌" src="https://wakara.co.jp/wp-content/uploads/okazaki_ryo200.jpg"></p>
-<p>近年注目を集めるAI技術(Deep Learning)の全フロー（開発・実装・運用）を実施し、統計学と機械学習を中心にセミナー、企業研修、イベント講演、オンライン講義などを手掛ける。<br></p>
-<p>大阪大学大学院卒業。初心者の簡単な統計の活かし方から、多変量解析学や機械学習など発展的な分析手法まで幅広く対応できるスキルを持つ。<br>
-さらに、近年注目を集めるAI技術(Deep Learning)の全フロー（開発・実装・運用）を実施し、統計学と機械学習を中心にセミナー、企業研修、イベント講演、オンライン講義などを手掛ける。<br></p>
-<p>分野は前職の半導体工学分野のデータ分析をはじめ、医療統計、アンケート項目の設計と分析、集計データの可視化からメーカーの売上分析のコンサルティングなども行う。<br></p>
-<p>※経営道場として名高い「澤田経営道場」にて統計担当講師。<br></p>
-<h3>用意するもの</h3>
-<p>zoomを用いてセミナーを行いますので、ブラウザが利用できるPCやタブレットなどの環境をご用意ください。</p>
-<h3>ご参加にあたって（必ずご確認ください）</h3>
-<p><strong>■開催当日は、以下の手順でご入場いただけます。</strong></p>
-<p>・該当の「イベント詳細ページ」を開いてください<br>
-・「参加者への情報」にオンライン会場URLを記載しております<br></p>
-<p>■開場は開催の約5分前となります。それ以前のご入場はお控え下さい。<br>
-■開催当日の電話対応はできかねます。お問合せはメール、もしくはお問合せフォームよりお願い致します。<br>
-■iPad等タブレットの使用は一部機能が制限される場合がございます。パソコン端末でのご参加を推奨いたします。<br></p>
-<p>zoomを用いてセミナーを行いますので、ブラウザが利用できるPCやタブレットなどの環境をご用意ください。<br></p>
-<h4>■個人情報の取り扱いについて</h4>
-<p>和から株式会社では、お申込みにて提供いただいた利用目的は次のとおりです。<br>
-・お申し込み手続きの実施<br>
-・講座等の実施<br>
-・お客様との事務連絡<br>
-・各種のご案内（メールや電話によるセミナーのご案内など）<br></p>
-<p>※詳しくはこちらをご参照ください。
-<a href="https://wakara.co.jp/privacy" rel="nofollow">https://wakara.co.jp/privacy</a></p>]]></summary>
-        <author>
-            <name>connpass 新着イベント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第55回個人開発もくもく寺@オンライン]]></title>
-        <id>https://frontend-temple.connpass.com/event/283046/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom</id>
-        <link href="https://frontend-temple.connpass.com/event/283046/?utm_campaign=recent_events&amp;utm_source=feed&amp;utm_medium=atom"/>
-        <updated>2023-05-04T13:07:36.000Z</updated>
-        <summary type="html"><![CDATA[開催日時: 2023/05/11 19:30 ～ 23:00<br />開催場所: オンライン<br /><br /><p>個人開発をオンラインでもくもくする会です。</p>
-<ul>
-<li>Discordで開始時に自己紹介・もくもくすること、終了時にもくもくしたこと・感想を言い合うだけの会です(Discordはフロントエンドのもくもく会と兼用です)</li>
-<li>他の人はどうやってるのかな〜という疑問や、これやってみてよかったよのナレッジ共有などの交流にご活用ください(音声チャンネルもあるので雑談したい方はぜひ)</li>
-</ul>
-<p>途中参加・退席OKですのでお気軽にご参加ください！</p>
-<h1>個人開発とは</h1>
-<div class="codehilite"><pre><span></span><code>アプリケーションの開発を個人で企画し、実装していくことです。
-</code></pre></div>
-
-<p>ひとりでやると怠けてしまう方も、仲間と一緒に楽しく個人開発していきましょう！</p>
-<p>ちなみに、個人開発以外でもくもくしたい方は、フロントエンドのもくもく会(毎週水曜開催)もやってますので、
-そちらでどうぞ！</p>
-<h1>対象者</h1>
-<p>このような方々が対象です</p>
-<ul>
-<li>個人開発しているエンジニア</li>
-<li>個人開発に興味のある非エンジニア</li>
-</ul>
-<p>もくもく寺のSlackにいる人々に質問しながらもくもくすることができるので、
-開発初心者の方におすすめです :)</p>
-<h1>参加される方へ</h1>
-<p>事前にこちらからDiscordへの参加をお願いします。 <a href="https://discord.gg/8mrqQnzyRC" rel="nofollow">https://discord.gg/8mrqQnzyRC</a></p>
-<h1>スケジュール</h1>
-<ul>
-<li>19:30 自己紹介とやること宣言</li>
-<li>23:00 やったこと報告</li>
-</ul>
-<p>※あくまでコアタイムです。途中参加・退出OKです</p>
-<h1>準備するもの</h1>
-<p>もくもくするもの</p>
-<h1>場所</h1>
-<p>ご自宅・コワーキングスペースなど、お好きなところでどうぞ！</p>
-<h1>お問い合わせは</h1>
-<p>Discordからお願いします！</p>]]></summary>
         <author>
             <name>connpass 新着イベント</name>
         </author>
