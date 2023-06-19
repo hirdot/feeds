@@ -22,6 +22,168 @@
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>4 min</time> : 1288)</span>GO TechTalk #20 Deep Dive into AI - 次世代AIドラレコサービス編
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://jtx.connpass.com/event/287383/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/07/11 19:00 ～ 20:00
+開催場所: オンライン
+
+イベント概要
+GO株式会社が開発する次世代AIドラレコサービス『DRIVE CHART』は、ドライブレコーダーから得られる各種データから、交通事故に繋がる可能性の高い危険シーンを自動検知し、運転傾向を分析する、AIとIoTを掛け合わせた交通事故削減支援サービスです。リアルタイム検知項目として、衝撃・車間距離警報・衝突警報・脇見警報・マニュアル録画、レポート検知項目として、脇見運転・車間距離不足・一時不停止・速度超過・急ハンドル・急加速・急減速・急後退を提供しています。今回のGO TechTalk #20では、『DRIVE CHART』で活用しているAIの中でコンピュータビジョン、エッジ、データサイエンスにフォーカスし、各技術のトピックをお話します。
+また、イベントの最後でアンケートに答えていただいた方の中から、抽選で10名様にタクシーアプリ『GO』で利用できる¥2,000クーポンをお配りいたします。詳細は後述のキャンペーン注意事項を御覧ください。
+本イベントは中止となりました6/27火【対面開催】GO TechTalk Deep Dive into AI 次世代AIドラレコサービス編と同内容の発表をオンラインで行うイベントです。
+GO株式会社とは
+GO株式会社は「移動で人を幸せに。」をミッションに、日本のモビリティ産業をアップデートする様々なITサービスの提供を行っています。
+タクシーアプリ『GO』 https://go.mo-t.com/
+法人向けサービス『GO BUSINESS』 https://go.mo-t.com/business/
+交通事故削減支援サービス『DRIVE CHART』 https://drive-chart.com/
+脱炭素サービス『GX（グリーントランスフォーメーション）』 https://go-gx.com/
+参加対象
+GO株式会社を知りたいエンジニア
+AIドラレコに興味のあるエンジニア
+コンピュータビジョン、AIエッジ、データサイエンスに興味のあるエンジニア
+当日のタイムテーブル
+時間
+コンテンツ
+
+
+
+
+19:00-19:05
+オープニング
+
+
+19:05-19:55
+・『DRIVE CHART』の全体像（松井）
+・コンピュータビジョンモデルの量子化による精度低下の原因特定とその緩和（木村）
+・エッジAIにおけるCIとAI開発環境（亀澤）
+・危険運転検知のData-Centric AIな取り組み（高橋）
+
+
+19:55-20:00
+クロージング
+
+
+
+アジェンダ
+『DRIVE CHART』の全体像（松井）
+次世代AIドラレコサービス『DRIVE CHART』ではドライバーの危険な運転行動を検知することで交通事故削減支援を行います。このサービスの中で本イベントで解説するような技術が使われていますが、その各技術がどのシーンで使われているかがわかるように、『DRIVE CHART』の全体像を解説します。
+コンピュータビジョンモデルの量子化による精度低下の原因特定とその緩和（木村）
+『DRIVE CHART』では、コンピュータビジョンモデル（主に深層学習モデル）の開発に加え、それらのモデルをドライブレコーダー上でリアルタイムに動作させるための高速化にも取り組んでいます。量子化は高速化に非常に効果的ですが、量子化誤差によりモデルの精度が低下することがあります。本発表では、量子化による精度低下の原因をレイヤレベルで特定する方法を解説します。また、その結果にもとづいて『DRIVE CHART』のコンピュータビジョンモデルを最適化することで、量子化による精度低下を緩和した事例を紹介します。
+エッジAIにおけるCIとAI開発環境（亀澤）
+サービスを継続的に開発、運用していく上で、CI (Continuous Integration, 継続的インテグレーション) は欠かせません。この発表では『DRIVE CHART』のドライブレコーダーというエッジデバイスとその上で動作するエッジAIモデルを含むシステムにおいて、CIをどのように構築、運用しているか、それによってどういうメリットが得られているかを紹介します。
+危険運転検知のData-Centric AIな取り組み（高橋）
+『DRIVE CHART』では、エッジAIを用いてドライバーの危険行動を検知しています。教師ありのコンピュータビジョンモデルによって危険行動検知をしているため動画に対してアノテーションが必要になりますが、レアな危険行動のため学習データ収集が困難、また見えづらい行動では学習データの品質が安定しないという問題があります。本発表ではこれらの学習データにおける諸問題とそういった問題に対して『DRIVE CHART』で取り組んでいる事例を実験を通して紹介します。
+プロフィール
+松井 健一
+AI技術開発部 データサイエンスグループ グループマネージャ
+SIer、外資系コンサルティングファームを経て、2018年DeNAに入社。『DRIVE CHART』の危険イベント開発に実証実験から携わる。2020年GO株式会社に出向。SIGNATE 産業技術総合研究所 衛星画像分析コンテスト 2位。Kaggle Master。Qiita表彰プログラム Silver受賞。著書：「ワンランク上を目指す人のためのPython実践活用ガイド 第７章　Pythonではじめる統計学」
+木村 元紀
+AI技術開発部 エンジニア
+スタートアップおよびメーカーにてコンピュータビジョン技術の研究開発に従事。2019年にDeNAに入社し、『DRIVE CHART』のコンピュータビジョン技術の研究開発に携わる。2020年にGO株式会社に転籍。衛星画像を対象としたコンペでの入賞経験多数（SpaceNet-6/7/8 challenge top-5入賞、SIGNATE 株式会社スペースシフト 新建造物検知アルゴリズム作成コンペ 優勝、Solafune マルチ解像度画像の車両検出コンペ 優勝）。
+亀澤 諒亮
+スマートドライビング事業部 エンジニア
+2018年に新卒でDeNAに入社。AI創薬プロジェクトで機械学習エンジニアとして従事したのち、2019年から『DRIVE CHART』のエッジAIチームに異動。2020年にGO株式会社に転籍後、エッジAIチームのチームリードとして、『DRIVE CHART』のドライブレコーダー上で動作するAIモデルのデプロイや高速化に携わる。
+高橋 文彦
+AI技術開発部 データサイエンスティスト
+新卒で大手ポータルサイトを運営する会社に入社し自然言語処理を用いた研究開発に従事。2018年に現職に転職し、タクシー到着時間予測モデルの開発や新規事業立ち上げをチームマネージャーとして牽引する。2021年から『DRIVE CHART』の危険イベント検知の開発に従事。国際会議のコンペにおいて入賞（SIGSPATIAL 2021 GISCUP 6位, SIGIR 2018 workshop 2位）。
+【司会】高堂 和芽（@sandgirl_14）
+広報
+不動産ベンチャーにて財務経理・法人営業に従事後、2018年よりモバイルオーダーサービスを手がけるShowcase Gigの広報担当に。GO株式会社へは2022年5月に入社し、組織/採用広報を中心にコーポレートコミュニケーション全般を担当。最近ではVoicyを活用した「声の社内報」を社内で立ち上げ＆運営。
+会場
+オンライン(YouTube Live)で開催いたします。URLは参加登録後表示されます。
+※後日アーカイブ公開を予定しています。
+イベント注意事項
+・技術交流が目的の勉強会のため、知識の共有および参加者同士の交流を目的としない参加はお断りしております。参加目的が不適切だと判断される場合には、運営側で参加をキャンセルさせていただく場合がございます。
+・参加枠が大幅に埋まらない場合には開催を延期または中止する場合がございます。
+・個人情報取扱いについてプライバシーポリシーに定める利用目的に必要な範囲で利用し、当社が責任をもって厳格に管理いたします。内容をご確認の上、ご同意いただきお申込み下さい。
+その他、ご不明点などございましたら、遠慮なくご連絡いただけますと幸いです。
+キャンペーン注意事項
+クーポンの利用期限は2023/9/30になります。
+対象者：イベントの最後に実施するアンケートに回答された方
+ご応募はおひとり1回までとさせていただきます
+クーポンのご利用方法や制限事項についてはQ&amp;Aの「クーポンについて」もご参照ください
+当選発表は、イベント参加時に抽選希望者のみにご登録いただくメールアドレス宛へのクーポンコードのご連絡をもって代えさせていただきます
+主催者の判断により本キャンペーンを中止する場合がございます</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 919)</span>Bio&quot;Pack&quot;athon 2023 #8_2
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://biopackathon.connpass.com/event/287828/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/08/20 13:00 ～ 14:00
+開催場所: オンライン
+
+Bio&quot;Pack&quot;athon（バイオパッカソン）は、バイオのソフトウェアパッケージを作ることを推進するコミュニティです。
+会の趣旨は日本バイオインフォマティクス学会ニュースレター第39号の7ページ目をご覧ください。
+ZoomのURLはconnpassの「参加者への情報」機能により本イベントページに表示されるようになっています。
+その情報は
+参加登録者でないと見れません
+connpassにログインしないと見れません
+ご注意ください
+スケジュール
+13:00 ~ 14:00 ハッカソンのラップアップ</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 945)</span>Bio&quot;Pack&quot;athon 2023 #8_1
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://biopackathon.connpass.com/event/287827/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/08/17 17:00 ～ 18:00
+開催場所: オンライン
+
+Bio&quot;Pack&quot;athon（バイオパッカソン）は、バイオのソフトウェアパッケージを作ることを推進するコミュニティです。
+会の趣旨は日本バイオインフォマティクス学会ニュースレター第39号の7ページ目をご覧ください。
+ZoomのURLはconnpassの「参加者への情報」機能により本イベントページに表示されるようになっています。
+その情報は
+参加登録者でないと見れません
+connpassにログインしないと見れません
+ご注意ください
+スケジュール
+17:00 ~ 17:40 Bio&quot;Pack&quot;athonの紹介 + 今月のLLM情報 @skume
+17:40 ~ 18:00 CRAN/Bioconductorのレビューについて傾向と対策 2023Ver @antiplastics</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 943)</span>Bio&quot;Pack&quot;athon 2023 #7
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://biopackathon.connpass.com/event/287826/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2023/07/12 17:00 ～ 19:00
+開催場所: オンライン
+
+Bio&quot;Pack&quot;athon（バイオパッカソン）は、バイオのソフトウェアパッケージを作ることを推進するコミュニティです。
+会の趣旨は日本バイオインフォマティクス学会ニュースレター第39号の7ページ目をご覧ください。
+ZoomのURLはconnpassの「参加者への情報」機能により本イベントページに表示されるようになっています。
+その情報は
+参加登録者でないと見れません
+connpassにログインしないと見れません
+ご注意ください
+スケジュール
+17:00 ~ 17:40 Bio&quot;Pack&quot;athonの紹介 + 今月のLLM情報 @skume
+17:40 ~ 18:00 OSSライセンスのまとめ @antiplastics</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
                   <span class="article-reading-time">(<time>4 min</time> : 1175)</span>【グラファー共催】「社会」をサクセスする/カスタマーサクセスが支える行政と住民の新しい関係。
                 </summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://cshack.connpass.com/event/287155/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
