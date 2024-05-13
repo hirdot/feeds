@@ -17,87 +17,194 @@
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 347)</span>Amazon EMR Serverless で I/O 負荷の高いワークロードのパフォーマンスを向上させるシャッフル最適化ディスクを導入
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon EMR Serverless は Amazon EMR のサーバーレスオプションで、クラスターやサーバーの構成、管理、スケーリングを行う必要がありません。そのためデータエンジニアやデータサイエンティストは、オープンソースのビッグデータ分析フレームワークを簡単に実行できます。EMR Serverless アプリケーションはワーカーを使用してワークロードを実行し、ユーザーはワークロードのニーズに基づいてワーカーごとにエフェメラルストレージを設定できます。本日、Amazon EMR Serverless にシャッフル最適化ディスクが導入されたことを発表します。これにより、ストレージ容量の増加 (最大 2 TB) と IOPS の向上を実現し、I/O 負荷の高い Spark および Hive ワークロードのパフォーマンスが向上します。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 327)</span>Amazon Bedrock がアジアパシフィック (ムンバイ) リージョンで利用可能に
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、アジアパシフィック (ムンバイ) リージョンで Amazon Bedrock を使用して、さまざまな基盤モデル (FM) や強力な生成 AI アプリケーション構築ツールを使用して、生成 AI アプリケーションを簡単に構築してスケールできるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 333)</span>Amazon EFS でクライアントあたりの最大スループットが 1.5 GiB/秒に増加
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-efs-maximum-per-client-throughput-1-5-gibs/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon EFS ファイルシステムでは、クライアントあたり最大 1.5 GiB/秒のスループットがサポートされるようになり、以前の 500 MiB/秒の制限の 3 倍に増加しました。今回のリリースにより、高いスループットを必要とするファイルワークロードを AWS でより簡単に実行できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 349)</span>AWS B2B Data Interchange の自動化された 997 および TA1 の確認応答を発表
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>AWS B2B Data Interchange は、関連するすべてのインバウンド X12 電子データ交換 (EDI) トランザクションに応答して、997 の機能確認応答と TA1 の交換確認応答を自動的に生成するようになりました。これらの確認応答は、個々のトランザクションの受信を確認したり、エラーを報告したりするために使用されます。今回のリリースにより、997 と TA1 の確認応答を必要とするトレーディングパートナーへの配信を自動化できるようになりました。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 319)</span>Amazon EC2 で過失による登録解除から AMI を保護
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>本日より、Amazon マシンイメージ (AMI) を保護対象としてマークすることで、誤って登録が解除されるのを防ぐことができます。保護対象の AMI は、登録解除の保護を明示的に無効にするまで登録解除できません。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">
-                  <span class="article-reading-time">(<time>1 min</time> : 306)</span>Amazon CloudWatch でクロスアカウントオブザーバビリティのためのリソースフィルタリングをリリース
-                </summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-cloudwatch-filtering-cross-account-observability/" target='_blank'>
-                  <div class="article-summary-box-inner">
-                    <span>Amazon CloudWatch でクロスアカウントオブザーバビリティのためのリソースフィルタリング機能がリリースされました。これにより、お客様は設定可能なフィルターを使用してログやメトリクスのサブセットを複数の AWS アカウントで柔軟に共有できます。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-          </section>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://connpass.com/explore/">connpass 新着イベント</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 995)</span>Python Boot Camp in 札幌 2nd 懇親会
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://pyconjp.connpass.com/event/317829/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2024/06/15 18:00 ～ 20:00
+開催場所: 北海道 札幌市北区北13条西3丁目2-24
+
+Python Boot Camp in 札幌 2nd イベント終了後の懇親会です
+Python Boot Camp の後、参加しての感想や、Pythonの勉強方法など、色々感じたことを語り合いましょう。 
+チュートリアルイベント参加者の方は「本イベント参加者枠」から申し込みをお願いします。
+チュートリアルに参加されない方で懇親会のみ参加を希望する方は、下記「懇親会だけの参加について」を確認した上で「懇親会のみ参加枠」から申し込みください。
+Python Boot Campとは
+PyCon JPではこれまでも年に１回東京で開催されるPyCon JPイベントでPythonを学べるチュートリアル講座を開催してきました。 今回は、以下のような人たちにPythonを知ってもらえる機会を提供できたらという思いで、Python Boot Camp（略してPyCamp）を企画しました。
+遠方に住んでいるためPyCon JPのチュートリアルに参加できずにいた方
+Pythonを使っている人が周りにいなくてなかなか始められなかった方
+PyCon JPサイトに掲載の企画詳細
+Python Boot Camp in 札幌 2nd
+Python Boot Campチュートリアルには本イベントのconnpassページから参加登録いただけます。
+日時・場所
+日時：
+2024年6月15日（土） 17:30 - 19:30
+会場：
+てんぐの蔵
+北海道札幌市北区北13条西3丁目2-24 第二デラシオン協和1階 
+費用
+会場での清算（後払い）で5,000円（税込み5,500円）の飲み放題付きのコース料理とする予定です。
+懇親会だけの参加について
+Python Boot Campチュートリアルイベントには参加できない方でも懇親会だけ参加できます。 当日は、直接懇親会会場にお越しください。 また、万が一懇親会場所の都合などでチュートリアル参加者人数以上収容できない場合などは、connpassページを通してお断りすることがあるかもしれませんのでご了承ください。
+運営
+Python Boot Campイベントは一般社団法人PyCon JP Associationが運営しています。
+ご意見・お問い合わせはpycamp@pycon.jpまでお願いします。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>5 min</time> : 1465)</span>Python Boot Camp in 札幌 2nd
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://pyconjp.connpass.com/event/317828/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2024/06/15 13:00 ～ 17:00
+開催場所: 〒001-0013 北海道札幌市北区北１３条西４丁目１−２ 第一志水ビル 2階
+
+札幌で2回目を開催! Python Boot Camp
+札幌でのPython Boot Campの開催が決定しました！札幌での開催は今回で第2回目となります。 Python Boot CampをきっかけにPythonをはじめてみませんか？
+Python Boot Camp（略してPyCamp）とは
+一般社団法人PyCon JP Association は、以下の思いで、Python Boot Campを企画しました。
+日本国内にPythonを広めたい。    
+地域でPythonを学ぶチャンスが無い人に、そのきっかけを作りたい。    
+Python Boot Camp（略してPyCamp） を開催することで、以下のようなPythonista（Pythonを使う人）同士のつながりが深まることを目的としています。
+PyCamp参加者同士がつながりPythonコミュニティが立ち上がる
+各地のPyCamp参加者がPyCon JP で交わり、Pythonista同士の環が広がる
+各地のPythonistaとの連携を強化し、ゆくゆくは地域PyConの実施
+PyCon JPサイトに掲載の企画詳細
+イベント参加対象者
+チュートリアル参加者: プログラミングはできる・したことがあるけれど、Pythonは初めての方。未経験者の方も、Pythonを学んでみたいという意欲ある方は、参加OKです。学生割引を希望の方は、証明できるもの（学生証など）を持ってきてください。
+TA（アシスタント）: Python経験者でイベントの際、講師と一緒に参加者のサポートをしていただける方。
+TAはPython Boot Campテキストを事前に読み、内容を理解している必要があります。
+現地スタッフ: PyCon JPスタッフや講師と一緒にイベントの運営を手伝っていただける方。
+日時・会場場所
+日時
+2024年6月15日（土） 13:00 - 17:00（12:30から開場、受付開始）
+会場
+名称 : 13LABO
+住所 : 北海道札幌市北区北１３条西４丁目１−２ 第一志水ビル 2階
+会場はWiFi完備、駐車場はありません
+最寄駅
+地下鉄南北線北12条駅から徒歩3分
+チュートリアルテキストと事前準備のお願い
+Python Boot Campテキストを利用してチュートリアルを行います。
+当日までに下記準備をした上で会場までお越しください。
+特にPython環境のインストールなどは事前に済ませておくことで、当日はイベントをより楽しむことができると思います。
+事前準備
+Pythonのインストール
+お持ちいただくもの
+ご自身のPC（上記URLよりPythonをインストールしているもの）
+懇親会
+懇親会申し込みはこちら
+Python Boot Campに参加しての感想や、Pythonの勉強方法など、色々感じたことを語り合いましょう。ぜひ、懇親会にもご参加ください。懇親会は、別途申し込みが必要となります。よろしくお願いします。
+タイムテーブル
+時刻
+内容
+
+
+
+
+12:30
+開場、受付開始
+
+
+13:00
+参加者自己紹介・Pythonをはじめよう
+
+
+14:00
+データ型(基本編、コレクション編)
+
+
+15:00
+おやつ休憩
+
+
+15:30
+ファイル操作とモジュール・サードパーティー製パッケージとvenv
+
+
+16:00
+スクレイピング・質疑応答
+
+
+16:50
+アンケート記入
+
+
+
+運営
+主催 一般社団法人 PyCon JP Association
+Python Boot Campイベントは一般社団法人PyCon JP Associationが運営しています。
+pycamp@pycon.jpまでお願いします。
+講師
+
+筒井隆次（Ryuji Tsutsui）
+1974年10月13日生まれ
+北海道出身
+住宅販売営業を経て2000年に社内SEとしてIT業界に従事。2011年まではJava、PHPがメイン言語だったが、新しい言語に挑戦しようと思い、幾つか学ぶ中でPythonに出会う。Pythonの言語仕様の簡潔さとコミュニティ活動の活発さに惹かれ、現在までメイン言語として活用している。
+現在は株式会社hokanに所属。Djangoを使ったWebサービス開発に従事している。
+PyCon JP 2012、PyCon APAC 2013、PyCon JP 2014スタッフ。
+Shonan.py、GCPUG Shonan、横浜Rust部などのコミュニティでも活動している。
+著書:
+Pythonエンジニア育成推進協会監修 Python実践レシピ（共著）
+X(旧Twitter): https://twitter.com/ryu22e
+Mastodon: https://mstdn.jp/@ryu22e
+Blog: https://ryu22e.org/</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>3 min</time> : 844)</span>はじめてのアジャイル開発入門
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://ekkyostyle.connpass.com/event/319057/?utm_campaign&#x3D;recent_events&amp;utm_source&#x3D;feed&amp;utm_medium&#x3D;atom" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>開催日時: 2024/05/30 20:00 ～ 21:30
+開催場所: (場所未定)
+
+はじめてのアジャイル開発入門
+「正しいものを正しくつくる」をはじめよう
+唐突ですが、「アジャイル開発」の入門勉強会を開きます。内容は、「カイゼン・ジャーニー」「一番やさしいアジャイル開発の教本」「正しいものを正しくつくる」に準ずるものです。
+新年度がはじまって2ヶ月。アジャイル開発に取り組んでいる人も、これから始めるかもしれない人も、どなたでもどうぞ。アジャイル開発って何？からじっくりお話しますので、「ソフトウェア開発ってわけでもないんだけど...」という方でも、参考になるところはあるかと思います。
+最初の1時間近くでアジャイル開発のお話をお届けし、後半の時間で参加された方からのQ&amp;Aにお答えしつつ、ディスカションなどできればと思います。
+予定している内容
+アジャイル開発入門
+ウォーターフォール開発ってなに？
+ウォーターフォール開発のいいところ
+アジャイル開発ってなに？
+アジャイル開発のいいところ
+ウォーターフォールとアジャイル開発を比べてみる
+どこから始めよう（具体的な取り組み始め方）
+最初の一歩の次の一歩はなに？
+アジェンダ
+20:00 - 20:50 はじめてのアジャイル開発入門（市谷聡啓）
+20:50 - 21:30  Q&amp;A やディスカッション
+想定する参加者
+アジャイル開発に取り組んだことがない人
+アジャイル開発に取り組んでいるがしっくりきていない人
+アジャイルって何か良くわからない人
+開催形式
+オンラインのみでの開催です。
+話し手
+市谷 聡啓  ( @papanda )
+
+株式会社レッドジャーニー  代表
+サービスや事業についてのアイデア段階の構想から、コンセプトを練り上げていく仮説検証とアジャイル開発の運営について経験が厚い。プログラマーからキャリアをスタートし、SIerでのプロジェクトマネジメント、大規模インターネットサービスのプロデューサー、アジャイル開発の実践を経て、自身の会社を立ち上げる。それぞれの局面から得られた実践知で、ソフトウェアの共創に辿り着くべく越境し続けている。
+ichitani.com
+訳書に「リーン開発の現場」、著書に「組織を芯からアジャイルにする」「デジタルトランスフォーメーション・ジャーニー」「カイゼン・ジャーニー」「正しいものを正しくつくる」「チーム・ジャーニー」「いちばんやさしいアジャイル開発の教本」「これまでの仕事 これからの仕事　～たった1人から現実を変えていくアジャイルという方法」がある。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">
@@ -2406,6 +2513,142 @@ https://hybrid-technologies.co.jp/
 https://shiftasia.com/ja/
 お問い合わせ先
 担当：事業開発部門 塚田</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://aws.amazon.com/jp/about-aws/whats-new/recent/">最近の発表</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 347)</span>Amazon EMR Serverless で I/O 負荷の高いワークロードのパフォーマンスを向上させるシャッフル最適化ディスクを導入
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon EMR Serverless は Amazon EMR のサーバーレスオプションで、クラスターやサーバーの構成、管理、スケーリングを行う必要がありません。そのためデータエンジニアやデータサイエンティストは、オープンソースのビッグデータ分析フレームワークを簡単に実行できます。EMR Serverless アプリケーションはワーカーを使用してワークロードを実行し、ユーザーはワークロードのニーズに基づいてワーカーごとにエフェメラルストレージを設定できます。本日、Amazon EMR Serverless にシャッフル最適化ディスクが導入されたことを発表します。これにより、ストレージ容量の増加 (最大 2 TB) と IOPS の向上を実現し、I/O 負荷の高い Spark および Hive ワークロードのパフォーマンスが向上します。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 327)</span>Amazon Bedrock がアジアパシフィック (ムンバイ) リージョンで利用可能に
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、アジアパシフィック (ムンバイ) リージョンで Amazon Bedrock を使用して、さまざまな基盤モデル (FM) や強力な生成 AI アプリケーション構築ツールを使用して、生成 AI アプリケーションを簡単に構築してスケールできるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 333)</span>Amazon EFS でクライアントあたりの最大スループットが 1.5 GiB/秒に増加
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-efs-maximum-per-client-throughput-1-5-gibs/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon EFS ファイルシステムでは、クライアントあたり最大 1.5 GiB/秒のスループットがサポートされるようになり、以前の 500 MiB/秒の制限の 3 倍に増加しました。今回のリリースにより、高いスループットを必要とするファイルワークロードを AWS でより簡単に実行できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 349)</span>AWS B2B Data Interchange の自動化された 997 および TA1 の確認応答を発表
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>AWS B2B Data Interchange は、関連するすべてのインバウンド X12 電子データ交換 (EDI) トランザクションに応答して、997 の機能確認応答と TA1 の交換確認応答を自動的に生成するようになりました。これらの確認応答は、個々のトランザクションの受信を確認したり、エラーを報告したりするために使用されます。今回のリリースにより、997 と TA1 の確認応答を必要とするトレーディングパートナーへの配信を自動化できるようになりました。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 319)</span>Amazon EC2 で過失による登録解除から AMI を保護
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>本日より、Amazon マシンイメージ (AMI) を保護対象としてマークすることで、誤って登録が解除されるのを防ぐことができます。保護対象の AMI は、登録解除の保護を明示的に無効にするまで登録解除できません。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 306)</span>Amazon CloudWatch でクロスアカウントオブザーバビリティのためのリソースフィルタリングをリリース
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/jp/about-aws/whats-new/2024/05/amazon-cloudwatch-filtering-cross-account-observability/" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>Amazon CloudWatch でクロスアカウントオブザーバビリティのためのリソースフィルタリング機能がリリースされました。これにより、お客様は設定可能なフィルターを使用してログやメトリクスのサブセットを複数の AWS アカウントで柔軟に共有できます。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>0 min</time> : )</span>オンラインイベント「Microsoft Build Japan」6/27、28に開催
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2024/05/microsoft-build-japan?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>マイクロソフトは2024年6月27日（木） 28日（金）の2日間、5月に開催される「Microsoft Build」で発表された最新情報日本のオリジナルコンテンツを交えたイベント「Microsoft Build Japan」をオンラインで開催する。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 174)</span>オンラインイベント「Microsoft Build Japan」6/27、28に開催
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2024/05/microsoft-build-japan?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>マイクロソフトは2024年6月27日（木） 28日（金）の2日間、5月に開催される「Microsoft Build」で発表された最新情報日本のオリジナルコンテンツを交えたイベント「Microsoft Build Japan」をオンラインで開催する。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+          </section>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://gihyo.jp">gihyo.jp</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">
+                  <span class="article-reading-time">(<time>1 min</time> : 174)</span>オンラインイベント「Microsoft Build Japan」6/27、28に開催
+                </summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gihyo.jp/article/2024/05/microsoft-build-japan?utm_source&#x3D;feed" target='_blank'>
+                  <div class="article-summary-box-inner">
+                    <span>マイクロソフトは2024年6月27日（木） 28日（金）の2日間、5月に開催される「Microsoft Build」で発表された最新情報日本のオリジナルコンテンツを交えたイベント「Microsoft Build Japan」をオンラインで開催する。</span>
                   </div>
                 </a>
               </details>
